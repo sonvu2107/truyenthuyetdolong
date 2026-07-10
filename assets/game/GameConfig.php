@@ -89,5 +89,5 @@ $_SESSION['GameServerName']=$_srvName;
 
 
 header('location:djrm.php');
-ob_end_flush();//输出全部内容到浏览器 
+ob_end_flush();//输出全部内容到浏览器
 ?>
