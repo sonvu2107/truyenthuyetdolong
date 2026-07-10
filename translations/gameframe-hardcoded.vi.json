@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "description": "Các chuỗi giao diện nằm ngoài lớp lang.ZH_CN, thay theo đúng file và số lần xuất hiện.",
+  "files": [
+    {
+      "path": "scripts/model/hlp/SkillHlp.as",
+      "replacements": [
+        {
+          "source": "未激活",
+          "target": "Chưa kích hoạt",
+          "expected": 1
+        }
+      ]
+    }
+  ]
+}

@@ -298,8 +298,6 @@ commonAttrName =
 	 "Tỷ Lệ Pháp Lực Hồi Phục",
 	 "Độc Hồi Phục",
 	 "Tỷ Lệ Độc Hồi Phục",
-
-}
 	 "May Mắn",
 	 "Tỷ Lệ May Mắn",
 	 "Nguyền Rủa",
@@ -401,7 +399,6 @@ commonAttrName =
 	 "null",
 	 "null",
 	 "null",--45
-	 "null",
 	 "null",
 	 "null",
 	 "null",
@@ -601,9 +598,6 @@ Nav_Button_Captios =
 	 "Tổ Đội",
 	 "null",
 	 "Vương",
-
-}
-{
 	 "Chắn",
 	 "Khóa",
 	 "Đồ",
@@ -904,8 +898,6 @@ active =
 	 "<font color='#CC0000'>Đã Xuất Hiện</font>",
 	 "Cấp Văn Minh: $level$					Giờ Mở Server: $time$",
 	 "Theo<BR>Dõi<BR>Nhiệm<BR>Vụ",
-
-}
 	 "Thương Nhân Thu Hồi",
 	 "Có thể kéo thả trang bị từ túi vào đây",
 	 "Phần Thưởng Thường",
@@ -1506,9 +1498,6 @@ market =
 	 "Bán bằng Kim Tệ",
 	 "Bán bằng Nguyên Bảo",
 	 "Vui lòng nhập giá bán",
-return {
-stall = 
-{
 	 "Vui lòng nhập tên sạp",
 	 "Giá bán",
 	 "Bày sạp thất bại",
@@ -1809,12 +1798,8 @@ itemRecover =
 	 "Trang bị này đã được hệ thống cường hóa, có muốn cho vào không?",
 	 "Vật phẩm này không thể cho vào",
 	 "Vật phẩm trong hành trang có thể cho vào<font color='#00FF00'>(Nhấp để cho vào)</font>",
-
-}
-}
-
 },
-vip = 
+vip =
 {
 	 "VIP",
 	 "VIP Bạch Ngân,VIP Hoàng Kim,VIP Chí Tôn",
@@ -3012,9 +2997,6 @@ holiday =
 	 "<font color='#FFCC00'>Top 10 người chơi tiêu phí hôm qua</font>",
 	 "<font color='#FFCC00'>Top 10 người chơi tiêu phí tích lũy trong thời gian hoạt động</font>",
 	 "<font size = '15'>Phần Thưởng Chính</font>",
-
-}
-{
 	 "Người chơi đứng đầu bảng xếp hạng chiến lực toàn server:",
 	 "Chiến Binh lọt top 3 chiến lực:,Pháp Sư lọt top 3 chiến lực:,Đạo Sĩ lọt top 3 chiến lực:",
 	 "Lễ Hội Cuồng Hoan",
@@ -3315,7 +3297,6 @@ talisman =
    "",
    "Chế tạo",
    "Nuốt Hồn Châu,Nuốt nhanh",
-}
     "Nhấn hoặc kéo Ma Châu để trang bị lên Pháp Bảo",
     "Săn Ma Nhanh",
     "Pháp Bảo Hiện Tại,Cấp Sao Hiện Tại:,Hiệu Ứng Ảo Hóa,Cấp Sao Tiếp Theo:,Ảo Hóa Pháp Bảo,Pháp Bảo Trong Túi",

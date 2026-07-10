@@ -27,11 +27,13 @@ powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 
 Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database. Cách này không cần cài Git trên VPS cũ.
 
-Phiên bản `20260710pathfix1` giữ nền login, kích thước game và 733 chuỗi kỹ năng tiếng Việt. Nhiệm vụ tân thủ ID 485 vẫn có `autoRun=false`; đồng thời `LocalPlayer.pathTo()` được sửa để nhận diện cùng bản đồ bằng `sceneid/mapId`, không còn phụ thuộc tên map đã dịch khác nhau giữa server và client. Nhờ đó auto-path trong Trại Rogue không được phép chọn nhầm cổng Thánh Thành cấp 25. Đủ 181 cấu hình mà `GameFrame.swf` yêu cầu đã được kiểm cấu trúc.
+Phiên bản `20260710langcore1` giữ nền login, kích thước game, 733 chuỗi kỹ năng và bản vá chống tự chạy nhầm cổng cấp 25. Bản này sửa cấu trúc `ClientLang.txt`, đối chiếu đủ 3.069 mục với file Trung gốc, rồi biên dịch 2.868 phép gán giao diện tiếng Việt vào lớp `lang.ZH_CN` của `GameFrame.swf`. Chuỗi `Chưa kích hoạt` nằm ngoài lớp ngôn ngữ cũng được vá theo đúng lớp `model.hlp.SkillHlp`. Sau khi nhập, cả ba lớp `lang.ZH_CN`, `SkillHlp` và `LocalPlayer` đều được xuất ngược từ SWF để xác minh.
 
 ## Biên dịch CBP an toàn
 
 `tools/cbp_localizer.py` chỉ thay node chuỗi, tính lại độ dài UTF-8 và header CBP, đồng thời kiểm câu gốc trước khi ghi. Catalog kỹ năng hiện tại nằm tại `translations/skillconfig.vi.json`; không dùng lại cách giải nén toàn bộ payload thành văn bản rồi thay chuỗi.
+
+`tools/swf_lang_localizer.py` đọc `ClientLang.txt`, kiểm hình dạng mảng với file Trung gốc và chỉ ghép theo đúng tên biến/chỉ số. `tools/swf_source_patcher.py` dành cho số ít chuỗi hard-code ngoài `lang.ZH_CN`, luôn kiểm đúng file và số lần xuất hiện trước khi thay.
 
 Lệnh `patch-bool-zip` sửa boolean có kiểm tra giá trị gốc. Bản hiện tại dùng lệnh này cho `stdquest.cbp:1.autoRun`, đồng thời xác nhận node `1.id` là nhiệm vụ 485 trước khi đóng gói.
 
