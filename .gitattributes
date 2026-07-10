@@ -3,3 +3,4 @@ assets/ClientLang.txt -text
 *.swf -text
 *.cbp -text
 *.zip -text
+assets/game/GameConfig.php text eol=lf
