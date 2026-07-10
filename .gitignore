@@ -1,0 +1,6 @@
+# Chỉ lưu gói deploy đã chọn. Không thêm toàn bộ wwwroot hoặc file cấu hình VPS.
+*.bak
+*.backup
+*.tmp
+*.log
+secrets/
