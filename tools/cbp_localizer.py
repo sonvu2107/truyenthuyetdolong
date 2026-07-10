@@ -166,6 +166,14 @@ def walk_strings(node: Node, parent: str = "") -> Iterator[tuple[str, Node]]:
             yield from walk_strings(child, path)
 
 
+def walk_nodes(node: Node, parent: str = "") -> Iterator[tuple[str, Node]]:
+    path = f"{parent}.{node.name}" if parent and node.name else (node.name or parent)
+    yield path, node
+    if node.kind == 4:
+        for child in node.children:
+            yield from walk_nodes(child, path)
+
+
 def load_catalog(path: Path) -> dict:
     catalog = json.loads(path.read_text(encoding="utf-8"))
     if catalog.get("format") != 1 or not isinstance(catalog.get("translations"), dict):
@@ -346,6 +354,43 @@ def command_validate(args: argparse.Namespace) -> None:
     print(f"CBP hợp lệ: {args.input} ({nodes} node)")
 
 
+def parse_bool(value: str) -> bool:
+    normalized = value.strip().lower()
+    if normalized == "true":
+        return True
+    if normalized == "false":
+        return False
+    raise argparse.ArgumentTypeError("Giá trị boolean phải là true hoặc false")
+
+
+def command_patch_bool_zip(args: argparse.Namespace) -> None:
+    source = read_zip_entry(args.input_zip, args.file)
+    header, root, node_count = decode_cbp(source)
+    nodes = dict(walk_nodes(root))
+    node = nodes.get(args.path)
+    if node is None:
+        raise CbpError(f"Không tìm thấy node {args.path!r} trong {args.file}")
+    if node.kind != 1 or len(node.raw_value) != 8:
+        raise CbpError(f"Node {args.path!r} không phải boolean CBP")
+    current = bool(node.raw_value[0])
+    if current != args.expect:
+        raise CbpError(
+            f"Giá trị gốc tại {args.path} không khớp: "
+            f"CBP={str(current).lower()}, mong đợi={str(args.expect).lower()}"
+        )
+    node.raw_value = bytes((1 if args.value else 0,)) + node.raw_value[1:]
+    replacement = encode_cbp(header, root)
+    _, _, checked_nodes = decode_cbp(replacement)
+    if checked_nodes != node_count:
+        raise CbpError("Số node thay đổi sau khi sửa boolean")
+    write_zip_with_replacement(args.input_zip, args.output_zip, args.file, replacement)
+    print(
+        f"Đã sửa {args.file}:{args.path} "
+        f"{str(current).lower()} -> {str(args.value).lower()}, "
+        f"kiểm lại {checked_nodes} node"
+    )
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
@@ -372,6 +417,17 @@ def build_parser() -> argparse.ArgumentParser:
     validate = sub.add_parser("validate", help="Kiểm tra một file CBP")
     validate.add_argument("--input", type=Path, required=True)
     validate.set_defaults(func=command_validate)
+
+    patch_bool = sub.add_parser(
+        "patch-bool-zip", help="Sửa một node boolean có kiểm tra trong CBP của ZIP"
+    )
+    patch_bool.add_argument("--input-zip", type=Path, required=True)
+    patch_bool.add_argument("--file", required=True)
+    patch_bool.add_argument("--path", required=True)
+    patch_bool.add_argument("--expect", type=parse_bool, required=True)
+    patch_bool.add_argument("--value", type=parse_bool, required=True)
+    patch_bool.add_argument("--output-zip", type=Path, required=True)
+    patch_bool.set_defaults(func=command_patch_bool_zip)
     return parser
 
 

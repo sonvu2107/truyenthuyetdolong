@@ -27,8 +27,10 @@ powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 
 Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database. Cách này không cần cài Git trên VPS cũ.
 
-Phiên bản `20260710skillvi1` giữ nền login và kích thước game mới, bật `cbppack=1` bằng gói hợp nhất sạch và biên dịch 733 chuỗi kỹ năng tiếng Việt vào `skillconfig.cbp`. Đủ 181 cấu hình mà `GameFrame.swf` yêu cầu đã được kiểm cấu trúc; `clientlang.cbp` Việt hóa tiếp tục được nạp từ file hợp lệ riêng.
+Phiên bản `20260710questfix1` giữ nền login, kích thước game và 733 chuỗi kỹ năng tiếng Việt. Nhiệm vụ tân thủ ID 485 được đổi riêng `autoRun=true` thành `false` trong `stdquest.cbp`, vì vậy khi vừa nhận nhiệm vụ game không còn tự ép nhân vật chạy vào cổng Thánh Thành cấp 25. Đủ 181 cấu hình mà `GameFrame.swf` yêu cầu đã được kiểm cấu trúc.
 
 ## Biên dịch CBP an toàn
 
 `tools/cbp_localizer.py` chỉ thay node chuỗi, tính lại độ dài UTF-8 và header CBP, đồng thời kiểm câu gốc trước khi ghi. Catalog kỹ năng hiện tại nằm tại `translations/skillconfig.vi.json`; không dùng lại cách giải nén toàn bộ payload thành văn bản rồi thay chuỗi.
+
+Lệnh `patch-bool-zip` sửa boolean có kiểm tra giá trị gốc. Bản hiện tại dùng lệnh này cho `stdquest.cbp:1.autoRun`, đồng thời xác nhận node `1.id` là nhiệm vụ 485 trước khi đóng gói.
