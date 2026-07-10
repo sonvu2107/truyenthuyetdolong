@@ -1,10 +1,10 @@
 {
-  "version": "20260710gatecrc2trace",
+  "version": "20260710dynamictrace3",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "646A6CDA0A5CB8D2BF1B78756E947422BADE4532D5A3BEAEFBC922519AA51A87"
+      "sha256": "C19AF4BCDFB344F6C0B52500650E72BB49618C48AE2CB39820784DEE3E8B3180"
     },
     {
       "source": "assets/ClientLang.txt",
