@@ -19,7 +19,7 @@ git clone https://github.com/sonvu2107/truyenthuyetdolong.git ahtl-web-deploy
 ## Đồng bộ trực tiếp trên Windows Server 2012
 
 ```powershell
-certutil.exe -urlcache -split -f https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/main/scripts/Sync-FromGitHub-20260710b.ps1 C:\GPHANTL\Sync-FromGitHub.ps1
+certutil.exe -urlcache -split -f https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/main/scripts/Sync-FromGitHub-20260710c.ps1 C:\GPHANTL\Sync-FromGitHub.ps1
 powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 ```
 
