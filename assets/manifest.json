@@ -1,10 +1,10 @@
 {
-  "version": "20260710stable1",
+  "version": "20260710autopathguard1",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "0BAEA36DCF816CD6CFC2A92864854A9EE765F868D6C2CE34D5A5574CCDB3CBD6"
+      "sha256": "6E5F5E4D20CAFB6C6A5ED5C147DA23BED0A38D6E1F8A841AC5FE5760502105F9"
     },
     {
       "source": "assets/ClientLang.txt",
