@@ -1,10 +1,10 @@
 {
-  "version": "20260710dynamictrace3",
+  "version": "20260710rawtrace4",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "C19AF4BCDFB344F6C0B52500650E72BB49618C48AE2CB39820784DEE3E8B3180"
+      "sha256": "9DA82A38933988F25E4B18B2F240C47C789777B11F9CE1ADFBB0713F4D054C7B"
     },
     {
       "source": "assets/ClientLang.txt",
