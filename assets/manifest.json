@@ -1,5 +1,5 @@
 {
-  "version": "20260710autopathguard1",
+  "version": "20260710zhcnvi1",
   "files": [
     {
       "source": "assets/GameFrame.swf",
@@ -19,7 +19,7 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "531ECCF935C71CD1A7128872E782B47052F5CA4D567C60D7FA83F388614A1CD5"
+      "sha256": "DBD84EBFDA2DA73E6CB576C9768EFC59B1DF47706B0BA25A186C4033D5F06D71"
     }
   ]
 }
