@@ -1,0 +1,2980 @@
+{
+  "format": 1,
+  "file": "skillconfig.cbp",
+  "description": "Việt hóa kỹ năng từ LogicServer/data/language/Zh-CN/Skill.txt",
+  "translations": {
+    "0.desc": {
+      "source": "测试",
+      "target": "Thử nghiệm"
+    },
+    "0.name": {
+      "source": "测试",
+      "target": "Thử nghiệm"
+    },
+    "0.skillSubLevel.0.desc": {
+      "source": "被动技能；提高准确值3点.",
+      "target": "Thử nghiệm"
+    },
+    "1.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 7 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "1.name": {
+      "source": "蛮力平击",
+      "target": "Man Lực Bình Kích"
+    },
+    "1.skillSubLevel.0.desc": {
+      "source": "被动技能；提高准确值3点.",
+      "target": "Kỹ năng bị động; Tăng 3 điểm chính xác, tăng 10 điểm tốc độ tấn công."
+    },
+    "1.skillSubLevel.1.desc": {
+      "source": "被动技能；提高准确值5点.",
+      "target": "Kỹ năng bị động; Tăng 5 điểm chính xác, tăng 20 điểm tốc độ tấn công."
+    },
+    "1.skillSubLevel.2.desc": {
+      "source": "被动技能；提高准确值8点.",
+      "target": "Kỹ năng bị động; Tăng 8 điểm chính xác, tăng 30 điểm tốc độ tấn công."
+    },
+    "10.desc": {
+      "source": "<(c0xFF00FFFF)17级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 17 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "10.name": {
+      "source": "心灵传动",
+      "target": "Tâm Linh Truyền Động"
+    },
+    "10.skillSubLevel.0.desc": {
+      "source": "有36%的几率传送到上一个经过的安全区所在地图的随机位置",
+      "target": "Có 36% tỷ lệ truyền tống đến vị trí ngẫu nhiên trong bản đồ của khu an toàn đi qua gần nhất"
+    },
+    "10.skillSubLevel.1.desc": {
+      "source": "有55%的几率传送到上一个经过的安全区所在地图的随机位置",
+      "target": "Có 55% tỷ lệ truyền tống đến vị trí ngẫu nhiên trong bản đồ của khu an toàn đi qua gần nhất"
+    },
+    "10.skillSubLevel.2.desc": {
+      "source": "有73%的几率传送到上一个经过的安全区所在地图的随机位置",
+      "target": "Có 73% tỷ lệ truyền tống đến vị trí ngẫu nhiên trong bản đồ của khu an toàn đi qua gần nhất"
+    },
+    "100.desc": {
+      "source": "镖车换模型",
+      "target": "Tiêu Xa đổi mô hình"
+    },
+    "100.name": {
+      "source": "镖车换模型",
+      "target": "Tiêu Xa đổi mô hình"
+    },
+    "101.desc": {
+      "source": "定时向周围一定范围内的单个玩家释放定身技能，定身时间5秒",
+      "target": "Định kỳ thi triển kỹ năng định thân lên 1 người chơi trong phạm vi nhất định xung quanh, thời gian định thân 5 giây"
+    },
+    "101.name": {
+      "source": "定身",
+      "target": "Định Thân"
+    },
+    "102.desc": {
+      "source": "定时向周围一定范围的所有玩家释放减速技能，减速200，时限10秒",
+      "target": "Định kỳ thi triển kỹ năng giảm tốc lên tất cả người chơi trong phạm vi nhất định xung quanh, giảm 200 tốc độ, kéo dài 10 giây"
+    },
+    "102.name": {
+      "source": "减速",
+      "target": "Giảm Tốc"
+    },
+    "103.desc": {
+      "source": "定时向周围一定范围的玩家释放雷电术，被击中的玩家，血量减少50%",
+      "target": "Định kỳ thi triển Lôi Điện Thuật lên người chơi trong phạm vi nhất định xung quanh, người chơi bị trúng sẽ giảm 50% máu"
+    },
+    "103.name": {
+      "source": "加速",
+      "target": "Gia Tốc"
+    },
+    "104.desc": {
+      "source": "增加玩家100移动速度，时限10秒",
+      "target": "Tăng 100 tốc độ di chuyển cho người chơi, kéo dài 10 giây"
+    },
+    "104.name": {
+      "source": "幸运祝福",
+      "target": "May Mắn Chúc Phúc"
+    },
+    "105.desc": {
+      "source": "增加玩家300移动速度，时限5秒",
+      "target": "Tăng 300 tốc độ di chuyển cho người chơi, kéo dài 5 giây"
+    },
+    "105.name": {
+      "source": "幸运祝福",
+      "target": "May Mắn Chúc Phúc"
+    },
+    "106.desc": {
+      "source": "增加玩家50移动速度，时限20秒",
+      "target": "Tăng 50 tốc độ di chuyển cho người chơi, kéo dài 20 giây"
+    },
+    "106.name": {
+      "source": "幸运祝福",
+      "target": "May Mắn Chúc Phúc"
+    },
+    "107.desc": {
+      "source": "移动速度非常快，到处乱窜。使周围一定范围内的单个玩家，倒退10个坐标，同时在接下来的20秒内，持续掉血。全身变红。",
+      "target": "Tốc độ di chuyển cực nhanh, chạy loạn khắp nơi. Khiến 1 người chơi trong phạm vi xung quanh bị lùi lại 10 tọa độ, đồng thời mất máu liên tục trong 20 giây tiếp theo. Toàn thân chuyển đỏ."
+    },
+    "107.name": {
+      "source": "马场火蚁",
+      "target": "Hỏa Kiến Mã Trường"
+    },
+    "108.desc": {
+      "source": "类似于法师的地狱雷光",
+      "target": "Tương tự như Địa Ngục Lôi Quang của Pháp sư"
+    },
+    "108.name": {
+      "source": "天魔极光",
+      "target": "Thiên Ma Cực Quang"
+    },
+    "109.desc": {
+      "source": "用于：神灯神魔",
+      "target": "Dùng cho: Thần Đăng Thần Ma"
+    },
+    "109.name": {
+      "source": "地刺",
+      "target": "Địa Thích"
+    },
+    "11.desc": {
+      "source": "<(c0xFF00FFFF)22级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 22 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "11.name": {
+      "source": "爆裂火焰",
+      "target": "Bạo Liệt Hỏa Diễm"
+    },
+    "11.skillSubLevel.0.desc": {
+      "source": "一种能够产生高热火焰的3x3范围攻击法术,对目标造成80%魔法攻击加上34点的魔法伤害",
+      "target": "Một loại ma pháp tấn công phạm vi 3x3 tạo ra ngọn lửa nhiệt độ cao, gây 80% tấn công ma pháp cộng thêm 34 điểm sát thương ma pháp"
+    },
+    "11.skillSubLevel.1.desc": {
+      "source": "一种能够产生高热火焰的3x3范围攻击法术,对目标造成85%魔法攻击加上47点的魔法伤害",
+      "target": "Một loại ma pháp tấn công phạm vi 3x3 tạo ra ngọn lửa nhiệt độ cao, gây 85% tấn công ma pháp cộng thêm 47 điểm sát thương ma pháp"
+    },
+    "11.skillSubLevel.2.desc": {
+      "source": "一种能够产生高热火焰的3x3范围攻击法术,对目标造成90%魔法攻击加上58点的魔法伤害",
+      "target": "Một loại ma pháp tấn công phạm vi 3x3 tạo ra ngọn lửa nhiệt độ cao, gây 90% tấn công ma pháp cộng thêm 58 điểm sát thương ma pháp"
+    },
+    "110.desc": {
+      "source": "类似道士的绿毒效果",
+      "target": "Hiệu ứng giống Lục Độc của Đạo sĩ"
+    },
+    "110.name": {
+      "source": "水域绿毒",
+      "target": "Thủy Vực Lục Độc"
+    },
+    "111.desc": {
+      "source": "类似道士的红毒效果。",
+      "target": "Hiệu ứng giống Hồng Độc của Đạo sĩ."
+    },
+    "111.name": {
+      "source": "水域红毒",
+      "target": "Thủy Vực Hồng Độc"
+    },
+    "112.desc": {
+      "source": "类似法师的“疾光电影”效果。",
+      "target": "Hiệu ứng giống “Tật Quang Điện Ảnh” của Pháp sư."
+    },
+    "112.name": {
+      "source": "水域极光",
+      "target": "Thủy Vực Cực Quang"
+    },
+    "113.desc": {
+      "source": "类似法师的“冰咆哮”效果。",
+      "target": "Hiệu ứng giống “Băng Bào Hao” của Pháp sư."
+    },
+    "113.name": {
+      "source": "水域龙王漩涡",
+      "target": "Thủy Vực Long Vương Váy Qua"
+    },
+    "114.desc": {
+      "source": "类似战士的“半月弯刀”效果",
+      "target": "Hiệu ứng giống “Bán Nguyệt Loan Đao” của Chiến sĩ"
+    },
+    "114.name": {
+      "source": "水域半月弯刀",
+      "target": "Thủy Vực Bán Nguyệt Loan Đao"
+    },
+    "115.desc": {
+      "source": "死亡脚本触发：死亡后将有1/2概率刷出“水域龙王魂魄”。",
+      "target": "Kích hoạt kịch bản tử vong: Sau khi chết có xác suất 1/2 xuất hiện “Thủy Vực Long Vương Hồn Phách”."
+    },
+    "115.name": {
+      "source": "刷出“水域龙王魂魄”",
+      "target": "Làm mới “Thủy Vực Long Vương Hồn Phách”"
+    },
+    "116.desc": {
+      "source": "每次攻击都出此效果，类似战士的“半月弯刀”技能效果。",
+      "target": "Mỗi lần tấn công đều xuất hiện hiệu ứng này, tương tự kỹ năng “Bán Nguyệt Loan Đao” của Chiến sĩ."
+    },
+    "116.name": {
+      "source": "金刚半月",
+      "target": "Kim Cương Bán Nguyệt"
+    },
+    "117.desc": {
+      "source": "平均每10秒钟出此技能，类似战士的“烈火剑法”技能效果。",
+      "target": "Trung bình cứ 10 giây thi triển kỹ năng này 1 lần, tương tự kỹ năng “Liệt Hỏa Kiếm Pháp” của Chiến sĩ."
+    },
+    "117.name": {
+      "source": "金刚烈火",
+      "target": "Kim Cương Liệt Hỏa"
+    },
+    "118.desc": {
+      "source": "每次攻击都出此效果，类似法师的“雷电术”技能效果。",
+      "target": "Mỗi lần tấn công đều xuất hiện hiệu ứng này, tương tự kỹ năng “Lôi Điện Thuật” của Pháp sư."
+    },
+    "118.name": {
+      "source": "金刚雷电",
+      "target": "Kim Cương Lôi Điện"
+    },
+    "119.desc": {
+      "source": "平均每10秒钟出此技能，类似法师的“火墙”技能效果。",
+      "target": "Trung bình cứ 10 giây thi triển kỹ năng này 1 lần, tương tự kỹ năng “Hỏa Tường” của Pháp sư."
+    },
+    "119.name": {
+      "source": "金刚火焰",
+      "target": "Kim Cương Hỏa Diễm"
+    },
+    "12.desc": {
+      "source": "<(c0xFF00FFFF)24级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 24 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "12.name": {
+      "source": "火墙焚烧",
+      "target": "Hỏa Tường Phần Thiêu"
+    },
+    "12.skillSubLevel.0.desc": {
+      "source": "在鼠标指向的位置施放一个十字形的火墙,使踏入的敌人受到40%魔法攻击加上36点,随着魔法攻击的提高,火墙的时间也会延长.火墙术不能施放在安全区中",
+      "target": "Thi triển một bức tường lửa hình chữ thập tại vị trí trỏ chuột, kẻ thù bước vào chịu 40% tấn công ma pháp cộng thêm 36 điểm, tấn công ma pháp càng cao, thời gian tường lửa càng dài. Không thể thi triển Hỏa Tường Thuật trong khu an toàn"
+    },
+    "12.skillSubLevel.1.desc": {
+      "source": "在鼠标指向的位置施放一个十字形的火墙,使踏入的敌人受到45%魔法攻击加上45点,随着魔法攻击的提高,火墙的时间也会延长.火墙术不能施放在安全区中",
+      "target": "Thi triển một bức tường lửa hình chữ thập tại vị trí trỏ chuột, kẻ thù bước vào chịu 45% tấn công ma pháp cộng thêm 45 điểm, tấn công ma pháp càng cao, thời gian tường lửa càng dài. Không thể thi triển Hỏa Tường Thuật trong khu an toàn"
+    },
+    "12.skillSubLevel.2.desc": {
+      "source": "在鼠标指向的位置施放一个十字形的火墙,使踏入的敌人受到50%魔法攻击加上60点,随着魔法攻击的提高,火墙的时间也会延长.火墙术不能施放在安全区中",
+      "target": "Thi triển một bức tường lửa hình chữ thập tại vị trí trỏ chuột, kẻ thù bước vào chịu 50% tấn công ma pháp cộng thêm 60 điểm, tấn công ma pháp càng cao, thời gian tường lửa càng dài. Không thể thi triển Hỏa Tường Thuật trong khu an toàn"
+    },
+    "120.desc": {
+      "source": "次攻击都出此效果，类似道士的“灵魂火符”技能效果。",
+      "target": "Mỗi lần tấn công đều xuất hiện hiệu ứng này, tương tự kỹ năng “Linh Hồn Hỏa Phù” của Đạo sĩ."
+    },
+    "120.name": {
+      "source": "金刚火符",
+      "target": "Kim Cương Hỏa Phù"
+    },
+    "121.desc": {
+      "source": "平均10秒钟出此技能，类似道士的红毒。",
+      "target": "Trung bình cứ 10 giây thi triển kỹ năng này 1 lần, tương tự Hồng Độc của Đạo sĩ."
+    },
+    "121.name": {
+      "source": "金刚红毒",
+      "target": "Kim Cương Hồng Độc"
+    },
+    "122.desc": {
+      "source": "法师的“冰咆哮”，每10秒钟施放一次。",
+      "target": "Giống “Băng Bào Hao” của Pháp sư, thi triển 10 giây 1 lần."
+    },
+    "122.name": {
+      "source": "地狱阴风",
+      "target": "Địa Ngục Âm Phong"
+    },
+    "123.desc": {
+      "source": "类似法师的“穿透闪电”。击杀附近的怪物。",
+      "target": "Tương tự “Xuyên Thấu Thiểm Điện” của Pháp sư. Tiêu diệt quái vật gần đó."
+    },
+    "123.name": {
+      "source": "镇塔雷光",
+      "target": "Trấn Tháp Lôi Quang"
+    },
+    "124.name": {
+      "source": "进度3完成技能",
+      "target": "Kỹ năng hoàn thành tiến độ 3"
+    },
+    "125.name": {
+      "source": "进度4完成技能",
+      "target": "Kỹ năng hoàn thành tiến độ 4"
+    },
+    "126.name": {
+      "source": "进度5完成技能",
+      "target": "Kỹ năng hoàn thành tiến độ 5"
+    },
+    "127.name": {
+      "source": "进度6完成技能",
+      "target": "Kỹ năng hoàn thành tiến độ 6"
+    },
+    "128.desc": {
+      "source": "爬塔战士秒杀技能",
+      "target": "Kỹ năng Chiến Sĩ leo tháp diệt gọn"
+    },
+    "128.name": {
+      "source": "爬塔战士秒杀技能",
+      "target": "Kỹ năng Chiến Sĩ leo tháp diệt gọn"
+    },
+    "129.desc": {
+      "source": "爬塔法师秒杀技能",
+      "target": "Kỹ năng Pháp Sư leo tháp diệt gọn"
+    },
+    "129.name": {
+      "source": "爬塔法师秒杀技能",
+      "target": "Kỹ năng Pháp Sư leo tháp diệt gọn"
+    },
+    "13.desc": {
+      "source": "<(c0xFF00FFFF)26级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 26 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "13.name": {
+      "source": "毁灭雷光",
+      "target": "Hủy Diệt Lôi Quang"
+    },
+    "13.skillSubLevel.0.desc": {
+      "source": "瞬间施放积蓄的雷光的魔法,使用时能够打出一条耀眼强光,对前方8格的目标造成90%魔法攻击加上100点的魔法伤害",
+      "target": "Tức thì giải phóng ma pháp lôi quang tích tụ, khi dùng phát ra một luồng sáng chói lóa, gây 90% tấn công ma pháp cộng thêm 100 điểm sát thương ma pháp cho mục tiêu trong 8 ô phía trước"
+    },
+    "13.skillSubLevel.1.desc": {
+      "source": "瞬间施放积蓄的雷光的魔法,使用时能够打出一条耀眼强光,对前方8格的目标造成100%魔法攻击加上150点的魔法伤害",
+      "target": "Tức thì giải phóng ma pháp lôi quang tích tụ, khi dùng phát ra một luồng sáng chói lóa, gây 100% tấn công ma pháp cộng thêm 150 điểm sát thương ma pháp cho mục tiêu trong 8 ô phía trước"
+    },
+    "13.skillSubLevel.2.desc": {
+      "source": "瞬间施放积蓄的雷光的魔法,使用时能够打出一条耀眼强光,对前方8格的目标造成110%魔法攻击加上200点的魔法伤害",
+      "target": "Tức thì giải phóng ma pháp lôi quang tích tụ, khi dùng phát ra một luồng sáng chói lóa, gây 110% tấn công ma pháp cộng thêm 200 điểm sát thương ma pháp cho mục tiêu trong 8 ô phía trước"
+    },
+    "130.desc": {
+      "source": "爬塔道士秒杀技能",
+      "target": "Kỹ năng Đạo Sĩ leo tháp diệt gọn"
+    },
+    "130.name": {
+      "source": "爬塔道士秒杀技能",
+      "target": "Kỹ năng Đạo Sĩ leo tháp diệt gọn"
+    },
+    "131.desc": {
+      "source": "10格内所有玩家不可移动3秒。冷却时间30秒。",
+      "target": "Tất cả người chơi trong phạm vi 10 ô không thể di chuyển trong 3 giây. Thời gian hồi chiêu 30 giây."
+    },
+    "131.name": {
+      "source": "禁锢天雷",
+      "target": "Cấm Cố Thiên Lôi"
+    },
+    "132.desc": {
+      "source": "转生副本刷怪刷路灯",
+      "target": "Phó bản chuyển sinh làm mới quái làm mới đèn đường"
+    },
+    "132.name": {
+      "source": "转生副本刷怪刷路灯",
+      "target": "Phó bản chuyển sinh làm mới quái làm mới đèn"
+    },
+    "133.desc": {
+      "source": "施放距离3，目标为中心5X5的伤害",
+      "target": "Cự ly thi triển 3, gây sát thương 5X5 lấy mục tiêu làm trung tâm"
+    },
+    "133.name": {
+      "source": "紫苑攻击",
+      "target": "Tử Uyển Tấn Công"
+    },
+    "134.desc": {
+      "source": "攻击前方数格目标，使用火球爆炸特效，附有减速效果",
+      "target": "Tấn công mục tiêu phía trước vài ô, dùng hiệu ứng hỏa cầu bùng nổ, kèm theo hiệu ứng giảm tốc"
+    },
+    "134.name": {
+      "source": "刺杀长击",
+      "target": "Thích Sát Trường Kích"
+    },
+    "135.desc": {
+      "source": "大距离怪物嘲讽技能，用于某个怪物需要被优先攻击",
+      "target": "Kỹ năng khiêu khích quái vật cự ly xa, dùng khi một quái vật nào đó cần được ưu tiên tấn công"
+    },
+    "135.name": {
+      "source": "神的玩笑",
+      "target": "Trò đùa của Thần"
+    },
+    "136.desc": {
+      "source": "死后施放技能T出副本",
+      "target": "Sau khi chết thi triển kỹ năng đá khỏi phó bản"
+    },
+    "136.name": {
+      "source": "神之诅咒",
+      "target": "Lời nguyền của Thần"
+    },
+    "137.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费元宝即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao KNB để học trực tiếp."
+    },
+    "137.name": {
+      "source": "佣兵幸运",
+      "target": "Lính đánh thuê May Mắn"
+    },
+    "137.skillSubLevel.0.desc": {
+      "source": "被动增加1点佣兵的幸运值",
+      "target": "Bị động tăng 1 điểm may mắn cho lính đánh thuê"
+    },
+    "137.skillSubLevel.1.desc": {
+      "source": "被动增加2点佣兵的幸运值",
+      "target": "Bị động tăng 2 điểm may mắn cho lính đánh thuê"
+    },
+    "137.skillSubLevel.2.desc": {
+      "source": "被动增加3点佣兵的幸运值",
+      "target": "Bị động tăng 3 điểm may mắn cho lính đánh thuê"
+    },
+    "137.skillSubLevel.3.desc": {
+      "source": "被动增加4点佣兵的幸运值",
+      "target": "Bị động tăng 4 điểm may mắn cho lính đánh thuê"
+    },
+    "137.skillSubLevel.4.desc": {
+      "source": "被动增加5点佣兵的幸运值",
+      "target": "Bị động tăng 5 điểm may mắn cho lính đánh thuê"
+    },
+    "138.desc": {
+      "source": "每次踩踏死都会给踩踏人增加一个10分钟双倍经验的BUFF。BUFF与其他经验BUFF叠加，离开副本，副本经验BUFF消失。怪物死亡后1分钟之后复活",
+      "target": "Mỗi lần bị đạp chết sẽ thêm BUFF nhân đôi kinh nghiệm trong 10 phút cho người giẫm. BUFF cộng dồn với BUFF kinh nghiệm khác, rời phó bản BUFF phó bản biến mất. Quái vật sống lại sau 1 phút kể từ khi chết"
+    },
+    "138.name": {
+      "source": "赤月魔光",
+      "target": "Xích Nguyệt Ma Quang"
+    },
+    "139.desc": {
+      "source": "每次踩踏死都会给踩踏人增加一个5分钟三倍经验的BUFF。BUFF与其他经验BUFF叠加，离开副本，副本怪物死亡后1分钟之后复活经验BUFF消失",
+      "target": "Mỗi lần bị đạp chết sẽ thêm BUFF nhân ba kinh nghiệm trong 5 phút cho người giẫm. BUFF cộng dồn với BUFF kinh nghiệm khác, rời phó bản BUFF phó bản biến mất. Quái vật sống lại sau 1 phút kể từ khi chết"
+    },
+    "139.name": {
+      "source": "地狱镇鬼石",
+      "target": "Địa Ngục Trấn Quỷ Thạch"
+    },
+    "14.desc": {
+      "source": "<(c0xFF00FFFF)30级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 30 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "14.name": {
+      "source": "迅影雷光",
+      "target": "Tấn Ảnh Lôi Quang"
+    },
+    "14.skillSubLevel.0.desc": {
+      "source": "呼唤出一股强力的神圣风暴,伤害所有围在身边的敌人.对自身附近5X5的怪物造成80%魔法攻击加上30~60点的魔法伤害,但只对玩家造成非常低的伤害",
+      "target": "Gọi ra một trận cuồng phong thần thánh, sát thương tất cả kẻ thù vây quanh. Gây 80% tấn công ma pháp cộng thêm 30~60 điểm sát thương ma pháp cho quái vật trong phạm vi 5X5 xung quanh bản thân, nhưng chỉ gây sát thương rất thấp cho người chơi"
+    },
+    "14.skillSubLevel.1.desc": {
+      "source": "呼唤出一股强力的神圣风暴,伤害所有围在身边的敌人.对自身附近5X5的怪物造成90%魔法攻击加上60~90点的魔法伤害,但只对玩家造成非常低的伤害",
+      "target": "Gọi ra một trận cuồng phong thần thánh, sát thương tất cả kẻ thù vây quanh. Gây 90% tấn công ma pháp cộng thêm 60~90 điểm sát thương ma pháp cho quái vật trong phạm vi 5X5 xung quanh bản thân, nhưng chỉ gây sát thương rất thấp cho người chơi"
+    },
+    "14.skillSubLevel.2.desc": {
+      "source": "呼唤出一股强力的神圣风暴,伤害所有围在身边的敌人.对自身附近5X5的怪物造成100%魔法攻击加上90~120点的魔法伤害,但只对玩家造成非常低的伤害",
+      "target": "Gọi ra một trận cuồng phong thần thánh, sát thương tất cả kẻ thù vây quanh. Gây 100% tấn công ma pháp cộng thêm 90~120 điểm sát thương ma pháp cho quái vật trong phạm vi 5X5 xung quanh bản thân, nhưng chỉ gây sát thương rất thấp cho người chơi"
+    },
+    "140.desc": {
+      "source": "大boss的阶段技能总汇",
+      "target": "Tổng hợp kỹ năng theo giai đoạn của đại boss"
+    },
+    "140.name": {
+      "source": "强者之力",
+      "target": "Sức mạnh cường giả"
+    },
+    "141.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费元宝即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao KNB để học trực tiếp."
+    },
+    "141.name": {
+      "source": "佣兵复辟",
+      "target": "Lính đánh thuê Phục Tích"
+    },
+    "141.skillSubLevel.0.desc": {
+      "source": "使得佣兵获得的经验增加10%，这个效果可以与其他经验增加BUFF叠加",
+      "target": "Khiến kinh nghiệm lính đánh thuê nhận được tăng 10%, hiệu ứng này có thể cộng dồn với các BUFF tăng kinh nghiệm khác"
+    },
+    "141.skillSubLevel.1.desc": {
+      "source": "使得佣兵获得的经验增加15%，这个效果可以与其他经验增加BUFF叠加",
+      "target": "Khiến kinh nghiệm lính đánh thuê nhận được tăng 15%, hiệu ứng này có thể cộng dồn với các BUFF tăng kinh nghiệm khác"
+    },
+    "141.skillSubLevel.2.desc": {
+      "source": "使得佣兵获得的经验增加20%，这个效果可以与其他经验增加BUFF叠加",
+      "target": "Khiến kinh nghiệm lính đánh thuê nhận được tăng 20%, hiệu ứng này có thể cộng dồn với các BUFF tăng kinh nghiệm khác"
+    },
+    "141.skillSubLevel.3.desc": {
+      "source": "使得佣兵获得的经验增加27%，这个效果可以与其他经验增加BUFF叠加",
+      "target": "Khiến kinh nghiệm lính đánh thuê nhận được tăng 27%, hiệu ứng này có thể cộng dồn với các BUFF tăng kinh nghiệm khác"
+    },
+    "141.skillSubLevel.4.desc": {
+      "source": "使得佣兵获得的经验增加35%，这个效果可以与其他经验增加BUFF叠加",
+      "target": "Khiến kinh nghiệm lính đánh thuê nhận được tăng 35%, hiệu ứng này có thể cộng dồn với các BUFF tăng kinh nghiệm khác"
+    },
+    "142.desc": {
+      "source": "地图BOSS死后招小偷",
+      "target": "BOSS bản đồ gọi tên trộm sau khi chết"
+    },
+    "142.name": {
+      "source": "地图BOSS死后招小偷",
+      "target": "BOSS bản đồ gọi trộm sau khi chết"
+    },
+    "143.desc": {
+      "source": "攻城将军的毒雾",
+      "target": "Độc vụ của Tướng Quân Công Thành"
+    },
+    "143.name": {
+      "source": "毒雾",
+      "target": "Độc Vụ"
+    },
+    "144.desc": {
+      "source": "你沐浴了神兽之血，攻防均上升10%",
+      "target": "Bạn đã đắm chìm trong Máu Thần Thú, công thủ đều tăng 10%"
+    },
+    "144.name": {
+      "source": "神兽之血",
+      "target": "Máu Thần Thú"
+    },
+    "145.desc": {
+      "source": "荣誉Boss吸血",
+      "target": "Boss Vinh Dự hút máu"
+    },
+    "145.name": {
+      "source": "嗜血",
+      "target": "Thích Huyết"
+    },
+    "146.desc": {
+      "source": "冰麒麟大规模杀伤性减速技能",
+      "target": "Kỹ năng sát thương diện rộng và giảm tốc của Băng Kỳ Lân"
+    },
+    "146.name": {
+      "source": "霜冻嚎叫",
+      "target": "Sương Đống Hào Khiếu"
+    },
+    "147.desc": {
+      "source": "冰麒麟群体冰封技能",
+      "target": "Kỹ năng đóng băng quần thể của Băng Kỳ Lân"
+    },
+    "147.name": {
+      "source": "群体冰封",
+      "target": "Quần Thể Băng Phong"
+    },
+    "148.desc": {
+      "source": "群体百分比攻击+毒",
+      "target": "Tấn công tỷ lệ phần trăm quần thể + độc"
+    },
+    "148.name": {
+      "source": "冰牙术",
+      "target": "Băng Nha Thuật"
+    },
+    "149.desc": {
+      "source": "本场景随机传送",
+      "target": "Bản đồ hiện tại truyền tống ngẫu nhiên"
+    },
+    "149.name": {
+      "source": "本场景随机传送",
+      "target": "Bản đồ hiện tại truyền tống ngẫu nhiên"
+    },
+    "15.desc": {
+      "source": "<(c0xFF00FFFF)31级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 31 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "15.name": {
+      "source": "能量护盾",
+      "target": "Năng Lượng Hộ Thuẫn"
+    },
+    "15.skillSubLevel.0.desc": {
+      "source": "凝聚一个魔法盾来使得物理攻击和魔法攻击对自身的伤害减低20%.受到攻击时,魔法盾的持续时间将会快速减少",
+      "target": "Ngưng tụ một khiên ma pháp giúp giảm 20% sát thương từ đòn tấn công vật lý và ma pháp. Khi bị tấn công, thời gian duy trì của khiên ma pháp sẽ giảm nhanh chóng"
+    },
+    "15.skillSubLevel.1.desc": {
+      "source": "凝聚一个魔法盾来使得物理攻击和魔法攻击对自身的伤害减低30%.受到攻击时,魔法盾的持续时间将会快速减少",
+      "target": "Ngưng tụ một khiên ma pháp giúp giảm 30% sát thương từ đòn tấn công vật lý và ma pháp. Khi bị tấn công, thời gian duy trì của khiên ma pháp sẽ giảm nhanh chóng"
+    },
+    "15.skillSubLevel.2.desc": {
+      "source": "凝聚一个魔法盾来使得物理攻击和魔法攻击对自身的伤害减低40%.受到攻击时,魔法盾的持续时间将会快速减少",
+      "target": "Ngưng tụ một khiên ma pháp giúp giảm 40% sát thương từ đòn tấn công vật lý và ma pháp. Khi bị tấn công, thời gian duy trì của khiên ma pháp sẽ giảm nhanh chóng"
+    },
+    "150.desc": {
+      "source": "天宫boss技能集合",
+      "target": "Tập hợp kỹ năng boss Thiên Cung"
+    },
+    "150.name": {
+      "source": "天神之怒",
+      "target": "Thiên Thần Chi Nộ"
+    },
+    "151.desc": {
+      "source": "天宫boss普通技能集合",
+      "target": "Tập hợp kỹ năng thường boss Thiên Cung"
+    },
+    "151.name": {
+      "source": "天神之威",
+      "target": "Thiên Thần Chi Uy"
+    },
+    "152.desc": {
+      "source": "天宫boss必杀技能集合2",
+      "target": "Tập hợp kỹ năng tất sát boss Thiên Cung 2"
+    },
+    "152.name": {
+      "source": "天神之怒",
+      "target": "Thiên Thần Chi Nộ"
+    },
+    "153.desc": {
+      "source": "跨服Boss神雷",
+      "target": "Boss Liên Server Thần Lôi"
+    },
+    "153.name": {
+      "source": "麒麟神雷",
+      "target": "Kỳ Lân Thần Lôi"
+    },
+    "154.desc": {
+      "source": "跨服Boss无敌",
+      "target": "Boss Liên Server vô địch"
+    },
+    "154.name": {
+      "source": "冥界守护",
+      "target": "Minh Giới Thủ Hộ"
+    },
+    "155.desc": {
+      "source": "圣诞Boss技能",
+      "target": "Kỹ năng Boss Giáng Sinh"
+    },
+    "155.name": {
+      "source": "圣诞Boss技能",
+      "target": "Kỹ năng Boss Giáng Sinh"
+    },
+    "156.desc": {
+      "source": "圣诞Boss技能2",
+      "target": "Kỹ năng Boss Giáng Sinh 2"
+    },
+    "156.name": {
+      "source": "圣诞Boss技能2",
+      "target": "Kỹ năng Boss Giáng Sinh 2"
+    },
+    "157.desc": {
+      "source": "跨服Boss毒爆蛋",
+      "target": "Boss Liên Server Độc Bạo Đản"
+    },
+    "157.name": {
+      "source": "幽冥毒爆",
+      "target": "U Minh Độc Bạo"
+    },
+    "158.desc": {
+      "source": "毒爆蜘蛛毒牙",
+      "target": "Độc Bạo Tri Chu Độc Nha"
+    },
+    "158.name": {
+      "source": "幽冥毒牙",
+      "target": "U Minh Độc Nha"
+    },
+    "159.desc": {
+      "source": "<(c0xFF00FFFF)转生后可以学习,技能书可以通过商城购买。>",
+      "target": "<(c0xFF00FFFF)Sau khi chuyển sinh có thể học, sách kỹ năng có thể mua qua Thương thành.>"
+    },
+    "159.name": {
+      "source": "振奋人心",
+      "target": "Chấn Phấn Nhân Tâm"
+    },
+    "159.skillSubLevel.0.desc": {
+      "source": "增加自身移动速度30与自身物理最大攻击力2%,持续时间10秒!",
+      "target": "Tăng 50 tốc độ di chuyển và 2% tấn công vật lý tối đa cho bản thân, kéo dài 6 giây!"
+    },
+    "159.skillSubLevel.1.desc": {
+      "source": "增加自身移动速度50与自身物理最大攻击力4%,持续时间10秒!",
+      "target": "Tăng 100 tốc độ di chuyển và 4% tấn công vật lý tối đa cho bản thân, kéo dài 6 giây!"
+    },
+    "159.skillSubLevel.2.desc": {
+      "source": "增加自身移动速度80与自身物理最大攻击力6%,持续时间10秒!",
+      "target": "Tăng 150 tốc độ di chuyển và 6% tấn công vật lý tối đa cho bản thân, kéo dài 6 giây!"
+    },
+    "16.desc": {
+      "source": "<(c0xFF00FFFF)35级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 35 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "16.name": {
+      "source": "冰尖柱",
+      "target": "Băng Tiêm Trụ"
+    },
+    "16.skillSubLevel.0.desc": {
+      "source": "召唤强力的暴风雪,对鼠标指向的3x3范围内的目标造成85%魔法攻击加上160点的魔法伤害",
+      "target": "Triệu hồi bão tuyết mạnh mẽ, gây 85% tấn công ma pháp cộng thêm 160 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3 tại vị trí trỏ chuột"
+    },
+    "16.skillSubLevel.1.desc": {
+      "source": "召唤强力的暴风雪,对鼠标指向的3x3范围内的目标造成95%魔法攻击加上200点的魔法伤害",
+      "target": "Triệu hồi bão tuyết mạnh mẽ, gây 95% tấn công ma pháp cộng thêm 200 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3 tại vị trí trỏ chuột"
+    },
+    "16.skillSubLevel.2.desc": {
+      "source": "召唤强力的暴风雪,对鼠标指向的3x3范围内的目标造成105%魔法攻击加上240点的魔法伤害",
+      "target": "Triệu hồi bão tuyết mạnh mẽ, gây 105% tấn công ma pháp cộng thêm 240 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3 tại vị trí trỏ chuột"
+    },
+    "160.desc": {
+      "source": "<(c0xFF00FFFF)转生后可以学习,技能书可以通过商城购买。>",
+      "target": "<(c0xFF00FFFF)Sau khi chuyển sinh có thể học, sách kỹ năng có thể mua qua Thương thành.>"
+    },
+    "160.name": {
+      "source": "寒魄掌",
+      "target": "Hàn Phách Chưởng"
+    },
+    "160.skillSubLevel.0.desc": {
+      "source": "造成100%魔法伤害，同时降低目标攻击速度70%，持续5秒!",
+      "target": "Gây 100% sát thương ma pháp, đồng thời giảm 70% tốc độ tấn công của mục tiêu, kéo dài 5 giây!"
+    },
+    "160.skillSubLevel.1.desc": {
+      "source": "造成110%魔法伤害，同时降低目标攻击速度80%，持续5秒!",
+      "target": "Gây 110% sát thương ma pháp, đồng thời giảm 80% tốc độ tấn công của mục tiêu, kéo dài 5 giây!"
+    },
+    "160.skillSubLevel.2.desc": {
+      "source": "造成120%魔法伤害，同时降低目标攻击速度90%，持续5秒!",
+      "target": "Gây 120% sát thương ma pháp, đồng thời giảm 90% tốc độ tấn công của mục tiêu, kéo dài 5 giây!"
+    },
+    "161.desc": {
+      "source": "<(c0xFF00FFFF)转生后可以学习,技能书可以通过商城购买。>",
+      "target": "<(c0xFF00FFFF)Sau khi chuyển sinh có thể học, sách kỹ năng có thể mua qua Thương thành.>"
+    },
+    "161.name": {
+      "source": "吸能术",
+      "target": "Hấp Năng Thuật"
+    },
+    "161.skillSubLevel.0.desc": {
+      "source": "吸取目标的能量，造成120%道术伤害，同时可降低目标100点再加上5%道术伤害的攻击力，自身可以增加相应的最大道术攻击，持续15秒！",
+      "target": "Hút năng lượng của mục tiêu, gây 120% sát thương đạo thuật, đồng thời có thể giảm 100 điểm cộng thêm 5% sát thương đạo thuật vào tấn công của mục tiêu, bản thân có thể tăng tấn công đạo thuật tối đa tương ứng, kéo dài 15 giây!"
+    },
+    "161.skillSubLevel.1.desc": {
+      "source": "吸取目标的能量，造成140%道术伤害，同时可降低目标200点再加上7%道术伤害的攻击力，自身可以增加相应的最大道术攻击，持续15秒！",
+      "target": "Hút năng lượng của mục tiêu, gây 140% sát thương đạo thuật, đồng thời có thể giảm 200 điểm cộng thêm 7% sát thương đạo thuật vào tấn công của mục tiêu, bản thân có thể tăng tấn công đạo thuật tối đa tương ứng, kéo dài 15 giây!"
+    },
+    "161.skillSubLevel.2.desc": {
+      "source": "吸取目标的能量，造成160%道术伤害，同时可降低目标300点再加上10%道术伤害的攻击力，自身可以增加相应的最大道术攻击，持续15秒!",
+      "target": "Hút năng lượng của mục tiêu, gây 160% sát thương đạo thuật, đồng thời có thể giảm 300 điểm cộng thêm 10% sát thương đạo thuật vào tấn công của mục tiêu, bản thân có thể tăng tấn công đạo thuật tối đa tương ứng, kéo dài 15 giây!"
+    },
+    "162.desc": {
+      "source": "团队副本中被其他怪物触发的技能",
+      "target": "Kỹ năng bị quái vật khác kích hoạt trong phó bản đội"
+    },
+    "162.name": {
+      "source": "团队副本触发式技能",
+      "target": "Kỹ năng kích hoạt phó bản đội"
+    },
+    "163.desc": {
+      "source": "朱刚鬣和孙悟空召唤分身",
+      "target": "Chu Cương Liệp và Tôn Ngộ Không triệu hồi phân thân"
+    },
+    "163.name": {
+      "source": "召唤分身",
+      "target": "Triệu hồi phân thân"
+    },
+    "164.desc": {
+      "source": "朱刚鬣和孙悟空残血变身",
+      "target": "Chu Cương Liệp và Tôn Ngộ Không tàn huyết biến thân"
+    },
+    "164.name": {
+      "source": "残血变身",
+      "target": "Tàn huyết biến thân"
+    },
+    "165.desc": {
+      "source": "分身治疗or毒Boss",
+      "target": "Phân thân trị liệu hoặc Độc Boss"
+    },
+    "165.name": {
+      "source": "分身治疗",
+      "target": "Phân thân trị liệu"
+    },
+    "166.desc": {
+      "source": "团队Boss技能综合1",
+      "target": "Tổng hợp kỹ năng Boss đội 1"
+    },
+    "166.name": {
+      "source": "团队副本Boss技能集合1",
+      "target": "Tập hợp kỹ năng Boss phó bản đội 1"
+    },
+    "167.desc": {
+      "source": "团队Boss技能综合2",
+      "target": "Tổng hợp kỹ năng Boss đội 2"
+    },
+    "167.name": {
+      "source": "团队副本Boss技能集合2",
+      "target": "Tập hợp kỹ năng Boss phó bản đội 2"
+    },
+    "168.desc": {
+      "source": "团队副本Boss变身后技能",
+      "target": "Kỹ năng sau khi Boss phó bản đội biến thân"
+    },
+    "168.name": {
+      "source": "团队副本Boss变身后技能",
+      "target": "Kỹ năng sau khi Boss phó bản đội biến thân"
+    },
+    "169.desc": {
+      "source": "团队猎魔人技能",
+      "target": "Kỹ năng Liệp Ma Nhân đội"
+    },
+    "169.name": {
+      "source": "猎魔人技能",
+      "target": "Kỹ năng Liệp Ma Nhân"
+    },
+    "17.desc": {
+      "source": "<(c0xFF00FFFF)14级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 14 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "17.name": {
+      "source": "治愈术",
+      "target": "Trị Dũ Thuật"
+    },
+    "17.skillSubLevel.0.desc": {
+      "source": "根据鼠标指向的位置,每秒恢复自己或者他人的生命值120点.道术攻击越高,持续时间越长",
+      "target": "Tại vị trí trỏ chuột, mỗi giây phục hồi 120 điểm sinh lực cho bản thân hoặc người khác. Tấn công đạo thuật càng cao, thời gian duy trì càng dài"
+    },
+    "17.skillSubLevel.1.desc": {
+      "source": "根据鼠标指向的位置,每秒恢复自己或者他人的生命值180点.道术攻击越高,持续时间越长",
+      "target": "Tại vị trí trỏ chuột, mỗi giây phục hồi 180 điểm sinh lực cho bản thân hoặc người khác. Tấn công đạo thuật càng cao, thời gian duy trì càng dài"
+    },
+    "17.skillSubLevel.2.desc": {
+      "source": "根据鼠标指向的位置,每秒恢复自己或者他人的生命值270点.道术攻击越高,持续时间越长",
+      "target": "Tại vị trí trỏ chuột, mỗi giây phục hồi 270 điểm sinh lực cho bản thân hoặc người khác. Tấn công đạo thuật càng cao, thời gian duy trì càng dài"
+    },
+    "170.desc": {
+      "source": "兽魂品质达到<(c0xFF00FFFF)1级>时自动激活。",
+      "target": "Phẩm chất Thú Hồn đạt <(c0xFF00FFFF)Ưu Lương 100%> tự động kích hoạt."
+    },
+    "170.name": {
+      "source": "万兽守护(兽魂)",
+      "target": "Vạn Thú Thủ Hộ(Thú Hồn)"
+    },
+    "170.skillSubLevel.0.desc": {
+      "source": "被动：增加自身防御力3%",
+      "target": "Bị động: Tăng 3% phòng ngự của bản thân"
+    },
+    "170.skillSubLevel.1.desc": {
+      "source": "被动：增加自身防御力6%",
+      "target": "Bị động: Tăng 6% phòng ngự của bản thân"
+    },
+    "170.skillSubLevel.2.desc": {
+      "source": "被动：增加自身防御力10%",
+      "target": "Bị động: Tăng 10% phòng ngự của bản thân"
+    },
+    "171.desc": {
+      "source": "兽魂品质达到<(c0xFF00FFFF)2级>时自动激活。",
+      "target": "Phẩm chất Thú Hồn đạt <(c0xFF00FFFF)Trác Việt 100%> tự động kích hoạt."
+    },
+    "171.name": {
+      "source": "嗜血本能(兽魂)",
+      "target": "Thích Huyết Bản Năng(Thú Hồn)"
+    },
+    "171.skillSubLevel.0.desc": {
+      "source": "被动：增加自身攻击力3%",
+      "target": "Bị động: Tăng 3% tấn công của bản thân"
+    },
+    "171.skillSubLevel.1.desc": {
+      "source": "被动：增加自身攻击力3%",
+      "target": "Bị động: Tăng 6% tấn công của bản thân"
+    },
+    "171.skillSubLevel.2.desc": {
+      "source": "被动：增加自身攻击力3%",
+      "target": "Bị động: Tăng 10% tấn công của bản thân"
+    },
+    "172.desc": {
+      "source": "兽魂品质达到<(c0xFF00FFFF)3级>时可激活。",
+      "target": "Phẩm chất Thú Hồn đạt <(c0xFF00FFFF)Hi Hữu 100%> có thể kích hoạt."
+    },
+    "172.name": {
+      "source": "兽王之躯(兽魂)",
+      "target": "Thú Vương Chi Khu(Thú Hồn)"
+    },
+    "172.skillSubLevel.0.desc": {
+      "source": "被动：增加自身最大血上限与最大蓝上限3%",
+      "target": "Bị động: Tăng 3% giới hạn máu và giới hạn mana tối đa của bản thân"
+    },
+    "172.skillSubLevel.1.desc": {
+      "source": "被动：增加自身最大血上限与最大蓝上限6%",
+      "target": "Bị động: Tăng 6% giới hạn máu và giới hạn mana tối đa của bản thân"
+    },
+    "172.skillSubLevel.2.desc": {
+      "source": "被动：增加自身最大血上限与最大蓝上限10%",
+      "target": "Bị động: Tăng 10% giới hạn máu và giới hạn mana tối đa của bản thân"
+    },
+    "173.desc": {
+      "source": "兽魂品质达到<(c0xFF00FFFF)1级>时自动激活。",
+      "target": "Kỹ năng Thú Hồn"
+    },
+    "173.name": {
+      "source": "万兽守护(兽魂)",
+      "target": "Kỹ năng Thú Hồn"
+    },
+    "174.desc": {
+      "source": "兽魂品质达到<(c0xFF00FFFF)1级>时自动激活。",
+      "target": "Kỹ năng Thú Hồn"
+    },
+    "174.name": {
+      "source": "万兽守护(兽魂)",
+      "target": "Kỹ năng Thú Hồn"
+    },
+    "175.desc": {
+      "source": "专用于炸死世界之石技能",
+      "target": "Kỹ năng Thú Hồn"
+    },
+    "175.name": {
+      "source": "世界之石炸弹",
+      "target": "Kỹ năng Thú Hồn"
+    },
+    "176.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "176.name": {
+      "source": "遁影",
+      "target": "Độn Ảnh"
+    },
+    "177.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "177.name": {
+      "source": "飞驰",
+      "target": "Phi Trì"
+    },
+    "178.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "178.name": {
+      "source": "赛马技能1",
+      "target": "Kỹ năng Đua Ngựa 1"
+    },
+    "179.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "179.name": {
+      "source": "赛马技能2",
+      "target": "Kỹ năng Đua Ngựa 2"
+    },
+    "18.desc": {
+      "source": "<(c0xFF00FFFF)9级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 9 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "18.name": {
+      "source": "念力战法",
+      "target": "Niệm Lực Chiến Pháp"
+    },
+    "18.skillSubLevel.0.desc": {
+      "source": "被动技能；提高准确值3点,物理攻击和魔法攻击对自身的伤害减低10%",
+      "target": "Kỹ năng bị động; Tăng 3 điểm chính xác, giảm 10% sát thương từ tấn công vật lý và ma pháp"
+    },
+    "18.skillSubLevel.1.desc": {
+      "source": "被动技能；提高准确值6点,物理攻击和魔法攻击对自身的伤害减低15%",
+      "target": "Kỹ năng bị động; Tăng 6 điểm chính xác, giảm 15% sát thương từ tấn công vật lý và ma pháp"
+    },
+    "18.skillSubLevel.2.desc": {
+      "source": "被动技能；提高准确值12点,物理攻击和魔法攻击对自身的伤害减低20%",
+      "target": "Kỹ năng bị động; Tăng 12 điểm chính xác, giảm 20% sát thương từ tấn công vật lý và ma pháp"
+    },
+    "180.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "180.name": {
+      "source": "赛马技能3",
+      "target": "Kỹ năng Đua Ngựa 3"
+    },
+    "181.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "181.name": {
+      "source": "赛马技能4",
+      "target": "Kỹ năng Đua Ngựa 4"
+    },
+    "182.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "182.name": {
+      "source": "赛马技能5",
+      "target": "Kỹ năng Đua Ngựa 5"
+    },
+    "183.desc": {
+      "source": "只对玩家自己进行加速，10秒内移动速度增加30%；CD时间为10秒",
+      "target": "Chỉ tăng tốc cho bản thân, trong 10 giây tốc độ di chuyển tăng 30%; Thời gian hồi chiêu là 10 giây"
+    },
+    "183.name": {
+      "source": "加速",
+      "target": "Gia Tốc"
+    },
+    "184.desc": {
+      "source": "对其他玩家打劫将使用剪刀石头布规则进行,获胜可获得经验奖励",
+      "target": "Tiến hành cướp người chơi khác bằng luật oẳn tù tì, thắng sẽ nhận được phần thưởng kinh nghiệm"
+    },
+    "184.name": {
+      "source": "打劫",
+      "target": "Cướp Đoạt"
+    },
+    "185.desc": {
+      "source": "对目标玩家使用，会有一个心形飞向目标玩家。双方玩家能获得一定魅力值",
+      "target": "Dùng lên người chơi mục tiêu, sẽ có hình trái tim bay đến mục tiêu. Cả hai người chơi đều nhận được điểm mị lực nhất định"
+    },
+    "185.name": {
+      "source": "飞吻",
+      "target": "Hôn Gió"
+    },
+    "186.desc": {
+      "source": "对目标玩家使用，双方能获得一定魅力值，对目标玩家说出一些挑逗、调戏的话",
+      "target": "Dùng lên người chơi mục tiêu, cả hai nhận được điểm mị lực nhất định, nói ra những lời trêu ghẹo, đùa giỡn với mục tiêu"
+    },
+    "186.name": {
+      "source": "挑逗",
+      "target": "Trêu Ghẹo"
+    },
+    "187.desc": {
+      "source": "在玩家头顶上下花，使用的一方可获得一定魅力值",
+      "target": "Tung hoa trên đỉnh đầu người chơi, người dùng nhận được điểm mị lực nhất định"
+    },
+    "187.name": {
+      "source": "撒花",
+      "target": "Tung Hoa"
+    },
+    "188.desc": {
+      "source": "对护送的宝贝加一定比例的血量",
+      "target": "Tăng một tỷ lệ phần trăm máu nhất định cho bảo bối đang hộ tống"
+    },
+    "188.name": {
+      "source": "加血",
+      "target": "Thêm Máu"
+    },
+    "189.desc": {
+      "source": "使用后杀人杀怪使用技能每层伤害输出增加1000，可叠加10层达到10000；每次死亡后层数减半，若不中途退出活动会一直有效直到活动结束；首次免费，之后每次使用花费200元宝",
+      "target": "Sau khi dùng, giết người diệt quái dùng kỹ năng mỗi tầng tăng 1000 sát thương đầu ra, có thể cộng dồn 10 tầng lên 10000; Mỗi lần chết số tầng giảm một nửa, nếu không thoát hoạt động giữa chừng sẽ luôn có hiệu lực cho đến khi hoạt động kết thúc; Lần đầu miễn phí, sau đó mỗi lần sử dụng tốn 200 KNB"
+    },
+    "189.name": {
+      "source": "加攻",
+      "target": "Thêm Công"
+    },
+    "19.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 7 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "19.name": {
+      "source": "烛骨施毒",
+      "target": "Chúc Cốt Thi Độc"
+    },
+    "19.skillSubLevel.0.desc": {
+      "source": "根据已经佩戴的材料,让目标进入持续减血状态与减防御状态.<(c0xFFFF0000)如果没有装备任何材料,这个技能不会有任何效果.>施法材料可以在杂货商处购买.",
+      "target": "Dựa trên tài liệu đã trang bị, khiến mục tiêu rơi vào trạng thái liên tục mất máu và giảm phòng ngự.<(c0xFFFF0000)Nếu không trang bị tài liệu nào, kỹ năng này sẽ không có hiệu quả.>Tài liệu thi triển có thể mua ở chỗ Thương Nhân Tạp Hóa."
+    },
+    "19.skillSubLevel.1.desc": {
+      "source": "根据已经佩戴的材料,让目标进入持续减血状态与减防御状态.<(c0xFFFF0000)如果没有装备任何材料,这个技能不会有任何效果.>施法材料可以在杂货商处购买.",
+      "target": "Dựa trên tài liệu đã trang bị, khiến mục tiêu rơi vào trạng thái liên tục mất máu và giảm phòng ngự.<(c0xFFFF0000)Nếu không trang bị tài liệu nào, kỹ năng này sẽ không có hiệu quả.>Tài liệu thi triển có thể mua ở chỗ Thương Nhân Tạp Hóa."
+    },
+    "19.skillSubLevel.2.desc": {
+      "source": "根据已经佩戴的材料,让目标进入持续减血状态与减防御状态.<(c0xFFFF0000)如果没有装备任何材料,这个技能不会有任何效果.>施法材料可以在杂货商处购买.",
+      "target": "Dựa trên tài liệu đã trang bị, khiến mục tiêu rơi vào trạng thái liên tục mất máu và giảm phòng ngự.<(c0xFFFF0000)Nếu không trang bị tài liệu nào, kỹ năng này sẽ không có hiệu quả.>Tài liệu thi triển có thể mua ở chỗ Thương Nhân Tạp Hóa."
+    },
+    "190.desc": {
+      "source": "使用后对目标玩家减速一半，持续10秒时间;首次免费，之后每次使用花费100元宝，最多使用10次",
+      "target": "Sau khi dùng giảm một nửa tốc độ người chơi mục tiêu, kéo dài 10 giây; Lần đầu miễn phí, sau đó mỗi lần sử dụng tốn 100 KNB, dùng tối đa 10 lần"
+    },
+    "190.name": {
+      "source": "减速",
+      "target": "Giảm Tốc"
+    },
+    "191.desc": {
+      "source": "使用后让自己移动速度增加一半，持续5秒时间;首次免费，之后每次使用花费50元宝，最多使用10次",
+      "target": "Sau khi dùng tăng một nửa tốc độ di chuyển của bản thân, kéo dài 5 giây; Lần đầu miễn phí, sau đó mỗi lần sử dụng tốn 50 KNB, dùng tối đa 10 lần"
+    },
+    "191.name": {
+      "source": "祝福",
+      "target": "Chúc Phúc"
+    },
+    "192.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "(c0xFF00FFFF)Cấp 12 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách."
+    },
+    "192.name": {
+      "source": "冲锋",
+      "target": "Xung Phong"
+    },
+    "192.skillSubLevel.0.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "Có thể di chuyển nhanh đến bên cạnh người chơi trong phạm vi 5 ô, và giảm 50 tốc độ di chuyển, kéo dài 0.5 giây"
+    },
+    "192.skillSubLevel.1.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "Có thể di chuyển nhanh đến bên cạnh người chơi trong phạm vi 5 ô, và giảm 50 tốc độ di chuyển, kéo dài 1 giây"
+    },
+    "192.skillSubLevel.2.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "Có thể di chuyển nhanh đến bên cạnh người chơi trong phạm vi 5 ô, và giảm 50 tốc độ di chuyển, kéo dài 1.5 giây"
+    },
+    "193.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "(c0xFF00FFFF)Cấp 12 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách."
+    },
+    "193.name": {
+      "source": "寒冰刃",
+      "target": "Hàn Băng Nhận"
+    },
+    "193.skillSubLevel.0.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "Cố định giảm 5% chính xác của mục tiêu, và giảm 3% tấn công vật lý tối đa, kéo dài 10 giây"
+    },
+    "193.skillSubLevel.1.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "Cố định giảm 10% chính xác của mục tiêu, và giảm 6% tấn công vật lý tối đa, kéo dài 10 giây"
+    },
+    "193.skillSubLevel.2.desc": {
+      "source": "(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。",
+      "target": "Cố định giảm 15% chính xác của mục tiêu, và giảm 9% tấn công vật lý tối đa, kéo dài 10 giây"
+    },
+    "194.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 30 Huyết Điểu"
+    },
+    "194.name": {
+      "source": "蛮力平击",
+      "target": "Phòng Ngự Biến Hóa"
+    },
+    "195.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "195.name": {
+      "source": "蛮力平击",
+      "target": "Sát Thương Biến Hóa"
+    },
+    "196.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "196.name": {
+      "source": "蛮力平击",
+      "target": "Tốc Độ Biến Hóa"
+    },
+    "197.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "197.name": {
+      "source": "蛮力平击",
+      "target": "Trạng Thái Biến Hóa"
+    },
+    "198.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "198.name": {
+      "source": "蛮力平击",
+      "target": "Lượng Máu Biến Hóa"
+    },
+    "199.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "199.name": {
+      "source": "蛮力平击",
+      "target": "Trạng Thái Tăng Ích"
+    },
+    "2.desc": {
+      "source": "<(c0xFF00FFFF)19级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 19 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "2.name": {
+      "source": "灭绝挥砍",
+      "target": "Diệt Tuyệt Huy Khảm"
+    },
+    "2.skillSubLevel.0.desc": {
+      "source": "被动技能；提升准确值3点,在施展物理攻击的时候,有10%几率附加48点伤害.",
+      "target": "Kỹ năng bị động; Tăng 3 điểm chính xác, khi thi triển tấn công vật lý, có 10% tỷ lệ gây thêm 48 sát thương."
+    },
+    "2.skillSubLevel.1.desc": {
+      "source": "被动技能；提升准确值3点,在施展物理攻击的时候,有10%几率附加72点伤害.",
+      "target": "Kỹ năng bị động; Tăng 3 điểm chính xác, khi thi triển tấn công vật lý, có 10% tỷ lệ gây thêm 72 sát thương."
+    },
+    "2.skillSubLevel.2.desc": {
+      "source": "被动技能；提升准确值3点,在施展物理攻击的时候,有10%几率附加108点伤害.",
+      "target": "Kỹ năng bị động; Tăng 3 điểm chính xác, khi thi triển tấn công vật lý, có 10% tỷ lệ gây thêm 108 sát thương."
+    },
+    "20.desc": {
+      "source": "<(c0xFF00FFFF)18级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 18 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "20.name": {
+      "source": "灵魂火咒",
+      "target": "Linh Hồn Hỏa Chú"
+    },
+    "20.skillSubLevel.0.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成100%道术攻击加上22~27点的伤害",
+      "target": "Ma pháp tầm xa, dùng bùa chú để tấn công kẻ thù. Gây 100% tấn công đạo thuật cộng thêm 22~27 điểm sát thương cho mục tiêu"
+    },
+    "20.skillSubLevel.1.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成110%道术攻击加上28~32点的伤害",
+      "target": "Ma pháp tầm xa, dùng bùa chú để tấn công kẻ thù. Gây 110% tấn công đạo thuật cộng thêm 28~32 điểm sát thương cho mục tiêu"
+    },
+    "20.skillSubLevel.2.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成120%道术攻击加上33~40点的伤害",
+      "target": "Ma pháp tầm xa, dùng bùa chú để tấn công kẻ thù. Gây 120% tấn công đạo thuật cộng thêm 33~40 điểm sát thương cho mục tiêu"
+    },
+    "200.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "200.name": {
+      "source": "减益状态",
+      "target": "Trạng Thái Giảm Ích"
+    },
+    "201.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "201.name": {
+      "source": "速度变化",
+      "target": "Trạng Thái Tăng Ích"
+    },
+    "202.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "202.name": {
+      "source": "状态变化",
+      "target": "Trạng Thái Trầm Mặc (Cấm kỹ năng triệu hồi)"
+    },
+    "203.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "203.name": {
+      "source": "血量变化",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "204.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "204.name": {
+      "source": "状态变化",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "205.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "205.name": {
+      "source": "状态变化",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "206.desc": {
+      "source": "35级地图BOSS沉沦魔技能",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "206.name": {
+      "source": "状态变化",
+      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+    },
+    "207.desc": {
+      "source": "使用后，自身加速，持续5秒",
+      "target": "Sau khi dùng, bản thân tăng tốc, kéo dài 5 giây"
+    },
+    "207.name": {
+      "source": "加速",
+      "target": "Gia Tốc"
+    },
+    "207.skillSubLevel.0.desc": {
+      "source": "使用后，自身加速，持续5秒",
+      "target": "Sau khi sử dụng, bản thân được tăng tốc, kéo dài 5 giây"
+    },
+    "208.desc": {
+      "source": "对目标玩家释放后可让对方减速，持续5秒",
+      "target": "Thi triển lên người chơi mục tiêu sẽ khiến đối phương giảm tốc, kéo dài 5 giây"
+    },
+    "208.name": {
+      "source": "减速",
+      "target": "Giảm Tốc"
+    },
+    "208.skillSubLevel.0.desc": {
+      "source": "对目标施放，对方速度减速，持续5秒",
+      "target": "Thi triển lên mục tiêu, khiến đối phương bị giảm tốc, kéo dài 5 giây"
+    },
+    "209.desc": {
+      "source": "对目标玩家释放后可让对方定身，持续3秒",
+      "target": "Thi triển lên người chơi mục tiêu sẽ khiến đối phương định thân, kéo dài 3 giây"
+    },
+    "209.name": {
+      "source": "定身",
+      "target": "Định Thân"
+    },
+    "209.skillSubLevel.0.desc": {
+      "source": "向单个玩家释放定身技能，定身时间3秒",
+      "target": "Thi triển kỹ năng định thân lên một người chơi, thời gian định thân 3 giây"
+    },
+    "21.desc": {
+      "source": "<(c0xFF00FFFF)19级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 19 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "21.name": {
+      "source": "骷髅复苏",
+      "target": "Khô Lâu Phục Tô"
+    },
+    "21.skillSubLevel.0.desc": {
+      "source": "召唤出一个1级的护卫为主人战斗,召唤上限为两只.通过杀怪,护卫最高可以升到7级.但在角色死亡、下线后,等级会重置.（ctrl+a可控制神兽的动作）",
+      "target": "Triệu hồi một hộ vệ cấp 1 chiến đấu cho chủ nhân, giới hạn triệu hồi là 2 con. Qua việc đánh quái, hộ vệ cao nhất có thể lên cấp 7. Nhưng sau khi nhân vật chết, đăng xuất, cấp độ sẽ thiết lập lại. (ctrl+a để điều khiển hành động của thần thú)"
+    },
+    "21.skillSubLevel.1.desc": {
+      "source": "召唤出一个2级的护卫为主人战斗,召唤上限为两只.通过杀怪,护卫最高可以升到7级.但在角色死亡、下线后,等级会重置.（ctrl+a可控制神兽的动作）",
+      "target": "Triệu hồi một hộ vệ cấp 2 chiến đấu cho chủ nhân, giới hạn triệu hồi là 2 con. Qua việc đánh quái, hộ vệ cao nhất có thể lên cấp 7. Nhưng sau khi nhân vật chết, đăng xuất, cấp độ sẽ thiết lập lại. (ctrl+a để điều khiển hành động của thần thú)"
+    },
+    "21.skillSubLevel.2.desc": {
+      "source": "召唤出一个3级的护卫为主人战斗,召唤上限为两只.通过杀怪,护卫最高可以升到7级.但在角色死亡、下线后,等级会重置.（ctrl+a可控制神兽的动作）",
+      "target": "Triệu hồi một hộ vệ cấp 3 chiến đấu cho chủ nhân, giới hạn triệu hồi là 2 con. Qua việc đánh quái, hộ vệ cao nhất có thể lên cấp 7. Nhưng sau khi nhân vật chết, đăng xuất, cấp độ sẽ thiết lập lại. (ctrl+a để điều khiển hành động của thần thú)"
+    },
+    "210.desc": {
+      "source": "自己使用后可隐身不被攻击，持续5秒",
+      "target": "Bản thân sử dụng sẽ tàng hình không bị tấn công, kéo dài 5 giây"
+    },
+    "210.name": {
+      "source": "隐身",
+      "target": "Tàng Hình"
+    },
+    "210.skillSubLevel.0.desc": {
+      "source": "使用后，自身隐身，持续5秒",
+      "target": "Sau khi sử dụng, bản thân tàng hình, kéo dài 5 giây"
+    },
+    "211.desc": {
+      "source": "自己使用后可鄙视其他玩家",
+      "target": "Bản thân sử dụng có thể khinh bỉ người chơi khác"
+    },
+    "211.name": {
+      "source": "鄙视",
+      "target": "Khinh Bỉ"
+    },
+    "211.skillSubLevel.0.desc": {
+      "source": "使用后，狠狠鄙视对方一把",
+      "target": "Sau khi sử dụng, khinh bỉ đối phương một cái thật mạnh"
+    },
+    "212.desc": {
+      "source": "对地面释放后会出现一个让其他玩家减速的香蕉皮",
+      "target": "Thi triển ra đất sẽ xuất hiện một vỏ chuối khiến người chơi khác bị giảm tốc"
+    },
+    "212.name": {
+      "source": "香蕉皮",
+      "target": "Vỏ Chuối"
+    },
+    "212.skillSubLevel.0.desc": {
+      "source": "使用后，放置一只可使踩中的人滑到的蕉皮",
+      "target": "Sau khi sử dụng, đặt một vỏ chuối có thể làm trượt ngã người giẫm phải"
+    },
+    "213.desc": {
+      "source": "对地面释放后会让靠近的玩家失控3秒",
+      "target": "Thi triển ra đất sẽ khiến người chơi đến gần mất kiểm soát trong 3 giây"
+    },
+    "213.name": {
+      "source": "群体混乱",
+      "target": "Hỗn Loạn Quần Thể"
+    },
+    "213.skillSubLevel.0.desc": {
+      "source": "使用后，自身附近的所有玩家失控3秒。",
+      "target": "Sau khi sử dụng, tất cả người chơi gần bản thân mất kiểm soát 3 giây."
+    },
+    "214.desc": {
+      "source": "香蕉皮踩踏后会触发的单体混乱技能",
+      "target": "Kỹ năng hỗn loạn đơn thể kích hoạt sau khi giẫm phải vỏ chuối"
+    },
+    "214.name": {
+      "source": "单体混乱",
+      "target": "Hỗn Loạn Đơn Thể"
+    },
+    "214.skillSubLevel.0.desc": {
+      "source": "香蕉践踏怪AI，死亡会触发的单体混乱技能。",
+      "target": "Quái vật chuối giẫm đạp AI, kỹ năng hỗn loạn đơn thể kích hoạt khi chết."
+    },
+    "22.desc": {
+      "source": "<(c0xFF00FFFF)20级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 20 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "22.name": {
+      "source": "隐匿术",
+      "target": "Ẩn Nặc Thuật"
+    },
+    "22.skillSubLevel.0.desc": {
+      "source": "将自己身形隐藏使怪物无法察觉自己的存在.持续20秒.遁隐时间会随着自身道术攻击提升而提升",
+      "target": "Ẩn giấu hình dáng bản thân khiến quái vật không thể phát hiện. Duy trì 20 giây. Thời gian độn ẩn sẽ tăng lên theo mức tăng tấn công đạo thuật của bản thân"
+    },
+    "22.skillSubLevel.1.desc": {
+      "source": "将自己身形隐藏使怪物无法察觉自己的存在.持续25秒.遁隐时间会随着自身道术攻击提升而提升",
+      "target": "Ẩn giấu hình dáng bản thân khiến quái vật không thể phát hiện. Duy trì 25 giây. Thời gian độn ẩn sẽ tăng lên theo mức tăng tấn công đạo thuật của bản thân"
+    },
+    "22.skillSubLevel.2.desc": {
+      "source": "将自己身形隐藏使怪物无法察觉自己的存在.持续30秒.遁隐时间会随着自身道术攻击提升而提升",
+      "target": "Ẩn giấu hình dáng bản thân khiến quái vật không thể phát hiện. Duy trì 30 giây. Thời gian độn ẩn sẽ tăng lên theo mức tăng tấn công đạo thuật của bản thân"
+    },
+    "224.desc": {
+      "source": "隐身术(戒)",
+      "target": "Ẩn Thân Thuật(Giới)"
+    },
+    "224.name": {
+      "source": "隐身术(戒)",
+      "target": "Ẩn Thân Thuật(Giới)"
+    },
+    "224.skillSubLevel.0.desc": {
+      "source": "将自己身形隐藏使玩家和怪物无法察觉自己的存在.持续20秒。",
+      "target": "Ẩn giấu hình thể bản thân khiến người chơi và quái vật không thể phát hiện sự tồn tại của mình. Kéo dài 20 giây."
+    },
+    "225.desc": {
+      "source": "大陨石术(戒)",
+      "target": "Đại Vẫn Thạch Thuật(Giới)"
+    },
+    "225.name": {
+      "source": "大陨石术(戒)",
+      "target": "Đại Vẫn Thạch Thuật(Giới)"
+    },
+    "225.skillSubLevel.0.desc": {
+      "source": "对目标及其范围内的敌人造成自身最大攻击力的130%的伤害。",
+      "target": "Gây sát thương bằng 130% tấn công tối đa của bản thân lên mục tiêu và kẻ địch trong phạm vi của mục tiêu."
+    },
+    "226.desc": {
+      "source": "瞬间传送术(戒)",
+      "target": "Thuấn Gian Truyền Tống Thuật(Giới)"
+    },
+    "226.name": {
+      "source": "瞬间传送术(戒)",
+      "target": "Thuấn Gian Truyền Tống Thuật(Giới)"
+    },
+    "226.skillSubLevel.0.desc": {
+      "source": "瞬间传送至鼠标所在位置。",
+      "target": "Truyền tống tức thời đến vị trí chuột chỉ định."
+    },
+    "23.desc": {
+      "source": "<(c0xFF00FFFF)21级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 21 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "23.name": {
+      "source": "群体隐匿术",
+      "target": "Quần Thể Ẩn Nặc Thuật"
+    },
+    "23.skillSubLevel.0.desc": {
+      "source": "更加强大的隐身术,能够隐藏3X3范围内的全体玩家.持续20秒.遁隐时间会随着自身道术攻击提升而提升",
+      "target": "Thuật ẩn thân mạnh mẽ hơn, có thể ẩn giấu tất cả người chơi trong phạm vi 3X3. Duy trì 20 giây. Thời gian độn ẩn sẽ tăng lên theo mức tăng tấn công đạo thuật của bản thân"
+    },
+    "23.skillSubLevel.1.desc": {
+      "source": "更加强大的隐身术,能够隐藏3X3范围内的全体玩家.持续25秒.遁隐时间会随着自身道术攻击提升而提升",
+      "target": "Thuật ẩn thân mạnh mẽ hơn, có thể ẩn giấu tất cả người chơi trong phạm vi 3X3. Duy trì 25 giây. Thời gian độn ẩn sẽ tăng lên theo mức tăng tấn công đạo thuật của bản thân"
+    },
+    "23.skillSubLevel.2.desc": {
+      "source": "更加强大的隐身术,能够隐藏3X3范围内的全体玩家.持续30秒.遁隐时间会随着自身道术攻击提升而提升",
+      "target": "Thuật ẩn thân mạnh mẽ hơn, có thể ẩn giấu tất cả người chơi trong phạm vi 3X3. Duy trì 30 giây. Thời gian độn ẩn sẽ tăng lên theo mức tăng tấn công đạo thuật của bản thân"
+    },
+    "24.desc": {
+      "source": "<(c0xFF00FFFF)22级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 22 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "24.name": {
+      "source": "圣灵护身术",
+      "target": "Thánh Linh Hộ Thân Thuật"
+    },
+    "24.skillSubLevel.0.desc": {
+      "source": "强大的祝福,使得鼠标指向的5x5范围内的目标的最大魔法防御8+施法者等级*2点.",
+      "target": "Sức mạnh chúc phúc, khiến phòng ngự ma pháp tối đa của mục tiêu trong phạm vi 5x5 tại vị trí trỏ chuột tăng thêm 8+cấp độ người thi triển*2 điểm."
+    },
+    "24.skillSubLevel.1.desc": {
+      "source": "强大的祝福,使得鼠标指向的5x5范围内的目标的最大魔法防御16+施法者等级*2点.",
+      "target": "Sức mạnh chúc phúc, khiến phòng ngự ma pháp tối đa của mục tiêu trong phạm vi 5x5 tại vị trí trỏ chuột tăng thêm 16+cấp độ người thi triển*2 điểm."
+    },
+    "24.skillSubLevel.2.desc": {
+      "source": "强大的祝福,使得鼠标指向的5x5范围内的目标的最大魔法防御24+施法者等级*2点.",
+      "target": "Sức mạnh chúc phúc, khiến phòng ngự ma pháp tối đa của mục tiêu trong phạm vi 5x5 tại vị trí trỏ chuột tăng thêm 24+cấp độ người thi triển*2 điểm."
+    },
+    "25.desc": {
+      "source": "<(c0xFF00FFFF)26级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 26 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "25.name": {
+      "source": "炼气战甲术",
+      "target": "Luyện Khí Chiến Giáp Thuật"
+    },
+    "25.skillSubLevel.0.desc": {
+      "source": "强大的祝福,使得鼠标指向的5x5范围内的目标的最大物理防御8+施法者等级*2点.",
+      "target": "Sức mạnh chúc phúc, khiến phòng ngự vật lý tối đa của mục tiêu trong phạm vi 5x5 tại vị trí trỏ chuột tăng thêm 8+cấp độ người thi triển*2 điểm."
+    },
+    "25.skillSubLevel.1.desc": {
+      "source": "强大的祝福,使得鼠标指向的5x5范围内的目标的最大物理防御16+施法者等级*2点.",
+      "target": "Sức mạnh chúc phúc, khiến phòng ngự vật lý tối đa của mục tiêu trong phạm vi 5x5 tại vị trí trỏ chuột tăng thêm 16+cấp độ người thi triển*2 điểm."
+    },
+    "25.skillSubLevel.2.desc": {
+      "source": "强大的祝福,使得鼠标指向的5x5范围内的目标的最大物理防御24+施法者等级*2点.",
+      "target": "Sức mạnh chúc phúc, khiến phòng ngự vật lý tối đa của mục tiêu trong phạm vi 5x5 tại vị trí trỏ chuột tăng thêm 24+cấp độ người thi triển*2 điểm."
+    },
+    "26.desc": {
+      "source": "<(c0xFF00FFFF)33级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 33 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "26.name": {
+      "source": "群体治疗术",
+      "target": "Quần Thể Trị Dũ Thuật"
+    },
+    "26.skillSubLevel.0.desc": {
+      "source": "强大的治疗法术,能够恢复自己和周围所有玩家的生命,治疗鼠标指向地方的3x3范围内的目标每秒恢复生命值120点.道术攻击越高,持续时间越长",
+      "target": "Ma pháp trị liệu mạnh mẽ, có thể phục hồi sinh lực cho bản thân và tất cả người chơi xung quanh, trị liệu mục tiêu trong phạm vi 3x3 tại vị trí trỏ chuột mỗi giây phục hồi 120 điểm sinh lực. Tấn công đạo thuật càng cao, thời gian duy trì càng dài"
+    },
+    "26.skillSubLevel.1.desc": {
+      "source": "强大的治疗法术,能够恢复自己和周围所有玩家的生命,治疗鼠标指向地方的3x3范围内的目标每秒恢复生命值140点.道术攻击越高,持续时间越长",
+      "target": "Ma pháp trị liệu mạnh mẽ, có thể phục hồi sinh lực cho bản thân và tất cả người chơi xung quanh, trị liệu mục tiêu trong phạm vi 3x3 tại vị trí trỏ chuột mỗi giây phục hồi 140 điểm sinh lực. Tấn công đạo thuật càng cao, thời gian duy trì càng dài"
+    },
+    "26.skillSubLevel.2.desc": {
+      "source": "强大的治疗法术,能够恢复自己和周围所有玩家的生命,治疗鼠标指向地方的3x3范围内的目标每秒恢复生命值160点.道术攻击越高,持续时间越长",
+      "target": "Ma pháp trị liệu mạnh mẽ, có thể phục hồi sinh lực cho bản thân và tất cả người chơi xung quanh, trị liệu mục tiêu trong phạm vi 3x3 tại vị trí trỏ chuột mỗi giây phục hồi 160 điểm sinh lực. Tấn công đạo thuật càng cao, thời gian duy trì càng dài"
+    },
+    "27.desc": {
+      "source": "<(c0xFF00FFFF)35级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 35 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "27.name": {
+      "source": "召唤魔使",
+      "target": "Triệu Hồi Ma Sứ"
+    },
+    "27.skillSubLevel.0.desc": {
+      "source": "召唤出一个1级的神兽为主人战斗,召唤上限为两只.通过杀怪,神兽最高可以升到7级.但在角色死亡、下线后,等级会重置.(ctrl+a可控制神兽的动作)",
+      "target": "Triệu hồi một thần thú cấp 1 chiến đấu cho chủ nhân, giới hạn triệu hồi là 2 con. Qua việc đánh quái, thần thú cao nhất có thể lên cấp 7. Nhưng sau khi nhân vật chết, đăng xuất, cấp độ sẽ thiết lập lại. (ctrl+a để điều khiển hành động của thần thú)"
+    },
+    "27.skillSubLevel.1.desc": {
+      "source": "召唤出一个2级的神兽为主人战斗,召唤上限为两只.通过杀怪,神兽最高可以升到7级.但在角色死亡、下线后,等级会重置.(ctrl+a可控制神兽的动作)",
+      "target": "Triệu hồi một thần thú cấp 2 chiến đấu cho chủ nhân, giới hạn triệu hồi là 2 con. Qua việc đánh quái, thần thú cao nhất có thể lên cấp 7. Nhưng sau khi nhân vật chết, đăng xuất, cấp độ sẽ thiết lập lại. (ctrl+a để điều khiển hành động của thần thú)"
+    },
+    "27.skillSubLevel.2.desc": {
+      "source": "召唤出一个3级的神兽为主人战斗,召唤上限为两只.通过杀怪,神兽最高可以升到7级.但在角色死亡、下线后,等级会重置.(ctrl+a可控制神兽的动作)",
+      "target": "Triệu hồi một thần thú cấp 3 chiến đấu cho chủ nhân, giới hạn triệu hồi là 2 con. Qua việc đánh quái, thần thú cao nhất có thể lên cấp 7. Nhưng sau khi nhân vật chết, đăng xuất, cấp độ sẽ thiết lập lại. (ctrl+a để điều khiển hành động của thần thú)"
+    },
+    "28.desc": {
+      "source": "宠物技能100%物理平砍",
+      "target": "Kỹ năng thú cưng chém thường vật lý 100%"
+    },
+    "28.name": {
+      "source": "骷髅攻击",
+      "target": "Khô Lâu Tấn Công"
+    },
+    "29.desc": {
+      "source": "野蛮冲撞的辅助配置",
+      "target": "Cấu hình phụ trợ Dã Man Xung Chàng"
+    },
+    "29.name": {
+      "source": "野蛮冲撞的辅助配置",
+      "target": "Cấu hình phụ trợ Dã Man Xung Chàng"
+    },
+    "3.desc": {
+      "source": "<(c0xFF00FFFF)25级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 25 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "3.name": {
+      "source": "爆裂刺杀",
+      "target": "Bạo Liệt Thích Sát"
+    },
+    "3.skillSubLevel.0.desc": {
+      "source": "攻击前方两格的目标,对距离1的目标造成100%物理伤害,对距离2的目标造成50%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu 2 ô phía trước, gây 100% sát thương vật lý cho mục tiêu cách 1 ô, gây 50% sát thương cho mục tiêu cách 2 ô và bỏ qua phòng ngự"
+    },
+    "3.skillSubLevel.1.desc": {
+      "source": "攻击前方两格的目标,对距离1的目标造成105%物理伤害,对距离2的目标造成75%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu 2 ô phía trước, gây 105% sát thương vật lý cho mục tiêu cách 1 ô, gây 75% sát thương cho mục tiêu cách 2 ô và bỏ qua phòng ngự"
+    },
+    "3.skillSubLevel.2.desc": {
+      "source": "攻击前方两格的目标,对距离1的目标造成110%物理伤害,对距离2的目标造成100%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu 2 ô phía trước, gây 110% sát thương vật lý cho mục tiêu cách 1 ô, gây 100% sát thương cho mục tiêu cách 2 ô và bỏ qua phòng ngự"
+    },
+    "30.desc": {
+      "source": "LV1：远程10格，100%物理攻",
+      "target": "LV1: Tầm xa 10 ô, tấn công vật lý 100%"
+    },
+    "30.name": {
+      "source": "弓箭手攻击",
+      "target": "Cung Thủ Tấn Công"
+    },
+    "31.desc": {
+      "source": "万兽谱全屏攻击技能",
+      "target": "Kỹ năng toàn màn hình Vạn Thú Phổ"
+    },
+    "31.name": {
+      "source": "万兽谱全屏攻击技能",
+      "target": "Kỹ năng toàn màn hình Vạn Thú Phổ"
+    },
+    "32.desc": {
+      "source": "虫毒",
+      "target": "Trùng Độc"
+    },
+    "32.name": {
+      "source": "虫毒",
+      "target": "Trùng Độc"
+    },
+    "33.desc": {
+      "source": "火龙王剧毒",
+      "target": "Hỏa Long Vương kịch độc"
+    },
+    "33.name": {
+      "source": "王者剧毒",
+      "target": "Vương Giả Kịch Độc"
+    },
+    "34.desc": {
+      "source": "邪皇召唤小怪",
+      "target": "Tà Hoàng triệu hồi tiểu quái"
+    },
+    "34.name": {
+      "source": "邪皇召唤小怪",
+      "target": "Tà Hoàng triệu hồi tiểu quái"
+    },
+    "35.desc": {
+      "source": "猪卫放半月",
+      "target": "Trư Vệ thi triển Bán Nguyệt"
+    },
+    "35.name": {
+      "source": "猪卫放半月",
+      "target": "Trư Vệ thi triển Bán Nguyệt"
+    },
+    "36.desc": {
+      "source": "火龙王全屏麻痹",
+      "target": "Hỏa Long Vương tê liệt toàn màn hình"
+    },
+    "36.name": {
+      "source": "火龙王全屏麻痹",
+      "target": "Hỏa Long Vương tê liệt toàn màn hình"
+    },
+    "37.desc": {
+      "source": "邪皇守卫火球",
+      "target": "Tà Hoàng Thủ Vệ Hỏa Cầu"
+    },
+    "37.name": {
+      "source": "邪皇守卫火球",
+      "target": "Tà Hoàng Thủ Vệ Hỏa Cầu"
+    },
+    "38.desc": {
+      "source": "LV1：玫瑰妖精召唤自己2：龙女死后召唤自己",
+      "target": "LV1: Mân Côi Yêu Tinh triệu hồi bản thân 2: Long Nữ sau khi chết triệu hồi bản thân"
+    },
+    "38.name": {
+      "source": "怪物死后召唤技能",
+      "target": "Quái vật chết triệu hồi"
+    },
+    "39.desc": {
+      "source": "BOSS出现后的当前地图随机传送",
+      "target": "BOSS xuất hiện truyền tống ngẫu nhiên tại bản đồ hiện tại"
+    },
+    "39.name": {
+      "source": "BOSS出现后的当前地图随机传送",
+      "target": "BOSS xuất hiện ngẫu nhiên truyền tống"
+    },
+    "4.desc": {
+      "source": "<(c0xFF00FFFF)28级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 28 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "4.name": {
+      "source": "夺命弦月",
+      "target": "Đoạt Mệnh Huyền Nguyệt"
+    },
+    "4.skillSubLevel.0.desc": {
+      "source": "对目标造成80%伤害,并对目标周围造成20%的伤害",
+      "target": "Gây 80% sát thương cho mục tiêu, và gây 20% sát thương ra xung quanh mục tiêu, đồng thời gây hiệu ứng đẩy lùi"
+    },
+    "4.skillSubLevel.1.desc": {
+      "source": "对目标造成90%伤害,并对目标周围造成40%的伤害",
+      "target": "Gây 90% sát thương cho mục tiêu, và gây 40% sát thương ra xung quanh mục tiêu"
+    },
+    "4.skillSubLevel.2.desc": {
+      "source": "对目标造成100%伤害,并对目标周围造成60%的伤害",
+      "target": "Gây 100% sát thương cho mục tiêu, và gây 60% sát thương ra xung quanh mục tiêu"
+    },
+    "40.desc": {
+      "source": "金甲尸王爆火技能",
+      "target": "Kim Giáp Thi Vương bạo hỏa"
+    },
+    "40.name": {
+      "source": "金甲尸王爆火技能",
+      "target": "Kim Giáp Thi Vương bạo hỏa"
+    },
+    "41.desc": {
+      "source": "魔界教主地雷",
+      "target": "Ma Giới Giáo Chủ địa lôi"
+    },
+    "41.name": {
+      "source": "魔界教主地雷",
+      "target": "Ma Giới Giáo Chủ địa lôi"
+    },
+    "42.desc": {
+      "source": "神兽攻击两个",
+      "target": "Thần Thú tấn công hai mục tiêu"
+    },
+    "42.name": {
+      "source": "神兽攻击两个",
+      "target": "Thần Thú tấn công hai mục tiêu"
+    },
+    "43.desc": {
+      "source": "怪物死亡后击飞",
+      "target": "Quái vật chết hất tung"
+    },
+    "43.name": {
+      "source": "怪物死亡后击飞",
+      "target": "Quái vật chết hất tung"
+    },
+    "44.desc": {
+      "source": "火凤爆火",
+      "target": "Hỏa Phượng bạo hỏa"
+    },
+    "44.name": {
+      "source": "火凤爆火",
+      "target": "Hỏa Phượng bạo hỏa"
+    },
+    "45.desc": {
+      "source": "冥轮王蛇某技能",
+      "target": "Minh Luân Vương Xà kỹ năng nào đó"
+    },
+    "45.name": {
+      "source": "冥轮王蛇某技能",
+      "target": "Minh Luân Vương Xà kỹ năng nào đó"
+    },
+    "46.desc": {
+      "source": "挖矿技能",
+      "target": "Kỹ năng đào mỏ"
+    },
+    "46.name": {
+      "source": "挖矿技能",
+      "target": "Đào mỏ"
+    },
+    "47.desc": {
+      "source": "精英蛇蝎疾光电影",
+      "target": "Tinh Anh Xà Yết Tật Quang Điện Ảnh"
+    },
+    "47.name": {
+      "source": "精英蛇蝎放电",
+      "target": "Tinh Anh Xà Yết phóng điện"
+    },
+    "48.desc": {
+      "source": "蚁后某技能",
+      "target": "Nghĩ Hậu kỹ năng nào đó"
+    },
+    "48.name": {
+      "source": "蚁后某技能",
+      "target": "Nghĩ Hậu kỹ năng nào đó"
+    },
+    "49.desc": {
+      "source": "牛魔王某技能",
+      "target": "Ngưu Ma Vương kỹ năng nào đó"
+    },
+    "49.name": {
+      "source": "牛魔王某技能",
+      "target": "Ngưu Ma Vương kỹ năng nào đó"
+    },
+    "5.desc": {
+      "source": "<(c0xFF00FFFF)30级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 30 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "5.name": {
+      "source": "冲锋击退",
+      "target": "Xung Phong Kích Thoái"
+    },
+    "5.skillSubLevel.0.desc": {
+      "source": "冲锋并对敌人给予冲撞打击,对目标造成100点减速效果",
+      "target": "Xung phong và tung đòn va chạm vào kẻ thù, gây 100 điểm hiệu ứng giảm tốc cho mục tiêu, đồng thời gây hiệu ứng đẩy lùi, tối đa đẩy lùi 3 ô"
+    },
+    "5.skillSubLevel.1.desc": {
+      "source": "冲锋并对敌人给予冲撞打击,对目标造成200点减速效果",
+      "target": "Xung phong và tung đòn va chạm vào kẻ thù, gây 200 điểm hiệu ứng giảm tốc cho mục tiêu, đồng thời gây hiệu ứng đẩy lùi, tối đa đẩy lùi 3 ô"
+    },
+    "5.skillSubLevel.2.desc": {
+      "source": "冲锋并对敌人给予冲撞打击,对目标造成300点减速效果",
+      "target": "Xung phong và tung đòn va chạm vào kẻ thù, gây 300 điểm hiệu ứng giảm tốc cho mục tiêu, đồng thời gây hiệu ứng đẩy lùi, tối đa đẩy lùi 3 ô"
+    },
+    "50.desc": {
+      "source": "行会副本BOSS龙怒",
+      "target": "Phó bản bang hội BOSS Long Nộ"
+    },
+    "50.name": {
+      "source": "行会副本BOSS龙怒",
+      "target": "Phó bản bang hội BOSS Long Nộ"
+    },
+    "51.desc": {
+      "source": "行会副本怪物魔法盾",
+      "target": "Ma Pháp Thuẫn Quái Phó Bản Bang Hội"
+    },
+    "51.name": {
+      "source": "行会副本怪物魔法盾",
+      "target": "Ma Pháp Thuẫn Quái Phó Bản Bang Hội"
+    },
+    "52.desc": {
+      "source": "行会副本怪物怒气",
+      "target": "Nộ Khí Quái Phó Bản Bang Hội"
+    },
+    "52.name": {
+      "source": "行会副本怪物怒气",
+      "target": "Nộ Khí Quái Phó Bản Bang Hội"
+    },
+    "53.desc": {
+      "source": "专用于炸死世界之石技能",
+      "target": "Kỹ năng chuyên dùng để nổ tung Thế Giới Chi Thạch"
+    },
+    "53.name": {
+      "source": "世界之石炸弹",
+      "target": "Thế Giới Chi Thạch Tạc Đạn"
+    },
+    "54.desc": {
+      "source": "正前方的敌人震退4格",
+      "target": "Chấn lùi kẻ thù phía trước 4 ô"
+    },
+    "54.name": {
+      "source": "行会副本怪怒吼",
+      "target": "Quái Phó Bản Bang Hội Nộ Hống"
+    },
+    "55.desc": {
+      "source": "边8格范围内的敌人中毒持续掉血",
+      "target": "Kẻ thù trong phạm vi 8 ô bị trúng độc liên tục mất máu"
+    },
+    "55.name": {
+      "source": "行会副本怪毒雾",
+      "target": "Quái Phó Bản Bang Hội Độc Vụ"
+    },
+    "56.desc": {
+      "source": "    48级可以学习，技能书可以通过到商城购买。当怒\\气值满后,可点击血瓶旁边的<(c0xFF00FF00)怒>字或者使用快捷键<(c0xFF00FF00)D>进\\行释放。\\    击杀等级低于自身等级9级以内以及高于自身等级\\的怪物将获得怒气，击杀boss获得更多怒气",
+      "target": "    Cấp 48 có thể học, sách kỹ năng có thể mua tại Thương thành. Khi Nộ\\khí đầy, có thể nhấp vào chữ <(c0xFF00FF00)Nộ> bên cạnh bình máu hoặc sử dụng phím tắt <(c0xFF00FF00)D> để\\thi triển.\\    Tiêu diệt quái vật có cấp độ thấp hơn bản thân trong vòng 9 cấp hoặc cao hơn\\bản thân sẽ nhận được nộ khí, tiêu diệt boss nhận được nhiều nộ khí hơn"
+    },
+    "56.name": {
+      "source": "战士必杀技能",
+      "target": "Tất Sát Kỹ Năng Chiến Sĩ"
+    },
+    "56.skillSubLevel.0.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成9557点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 9557 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.1.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成10098点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 10098 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.10.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成14967点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 14967 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.2.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成10639点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 10639 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.3.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成11180点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 11180 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.4.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成11721点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 11721 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.5.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成12262点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 12262 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.6.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成12803点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 12803 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.7.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成13344点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 13344 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.8.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成13885点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 13885 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "56.skillSubLevel.9.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成14426点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 14426 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.desc": {
+      "source": "    48级可以学习，技能书可以通过到商城购买。当怒\\气值满后,可点击血瓶旁边的<(c0xFF00FF00)怒>字或者使用快捷键<(c0xFF00FF00)D>进\\行释放。\\    击杀等级低于自身等级9级以内以及高于自身等级\\的怪物将获得怒气，击杀boss获得更多怒气",
+      "target": "    Cấp 48 có thể học, sách kỹ năng có thể mua tại Thương thành. Khi Nộ\\khí đầy, có thể nhấp vào chữ <(c0xFF00FF00)Nộ> bên cạnh bình máu hoặc sử dụng phím tắt <(c0xFF00FF00)D> để\\thi triển.\\    Tiêu diệt quái vật có cấp độ thấp hơn bản thân trong vòng 9 cấp hoặc cao hơn\\bản thân sẽ nhận được nộ khí, tiêu diệt boss nhận được nhiều nộ khí hơn"
+    },
+    "57.name": {
+      "source": "法师必杀技能",
+      "target": "Tất Sát Kỹ Năng Pháp Sư"
+    },
+    "57.skillSubLevel.10.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成14967点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 14967 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.11.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成15508点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 15508 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.12.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成16048点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 16048 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.13.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成16589点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 16589 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.14.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成17130点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 17130 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.15.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成17671点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 17671 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.16.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成18212点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 18212 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.17.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成18753点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 18753 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.18.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成19294点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 19294 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.19.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成19835点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 19835 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.20.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成20376点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 20376 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.21.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成20917点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 20917 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.22.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成21458点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 21458 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.23.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成21999点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 21999 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.24.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成22540点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 22540 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.25.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成23081点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 23081 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.26.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成23622点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 23622 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.27.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成24163点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 24163 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.28.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成24704点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 24704 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.29.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成25245点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 25245 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.30.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成25786点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 25786 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.31.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成26327点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 26327 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.32.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成26868点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 26868 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.33.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成27409点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 27409 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.34.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成27950点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 27950 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.35.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成28491点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 28491 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.36.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成29032点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 29032 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.37.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成29572点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 29572 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.38.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成30113点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 30113 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.39.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成30654点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 30654 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.40.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成31195点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 31195 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.41.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成31736点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 31736 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.42.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成32277点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 32277 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.43.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成32818点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 32818 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.44.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成33359点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 33359 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.45.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成33900点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 33900 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.46.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成34441点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 34441 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.47.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成34982点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 34982 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.48.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成35523点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 35523 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.49.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成36064点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 36064 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "57.skillSubLevel.9.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成14426点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 14426 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.desc": {
+      "source": "    48级可以学习，技能书可以通过到商城购买。当怒\\气值满后,可点击血瓶旁边的<(c0xFF00FF00)怒>字或者使用快捷键<(c0xFF00FF00)D>进\\行释放。\\    击杀等级低于自身等级9级以内以及高于自身等级\\的怪物将获得怒气，击杀boss获得更多怒气",
+      "target": "    Cấp 48 có thể học, sách kỹ năng có thể mua tại Thương thành. Khi Nộ\\khí đầy, có thể nhấp vào chữ <(c0xFF00FF00)Nộ> bên cạnh bình máu hoặc sử dụng phím tắt <(c0xFF00FF00)D> để\\thi triển.\\    Tiêu diệt quái vật có cấp độ thấp hơn bản thân trong vòng 9 cấp hoặc cao hơn\\bản thân sẽ nhận được nộ khí, tiêu diệt boss nhận được nhiều nộ khí hơn"
+    },
+    "58.name": {
+      "source": "道士必杀技能",
+      "target": "Tất Sát Kỹ Năng Đạo Sĩ"
+    },
+    "58.skillSubLevel.0.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成9557点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 9557 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.1.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成10098点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 10098 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.10.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成14967点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 14967 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.11.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成15508点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 15508 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.12.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成16048点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 16048 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.13.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成16589点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 16589 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.14.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成17130点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 17130 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.15.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成17671点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 17671 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.16.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成18212点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 18212 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.17.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成18753点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 18753 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.18.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成19294点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 19294 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.19.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成19835点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 19835 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.2.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成10639点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 10639 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.20.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成20376点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 20376 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.21.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成20917点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 20917 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.22.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成21458点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 21458 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.23.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成21999点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 21999 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.24.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成22540点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 22540 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.25.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成23081点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 23081 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.26.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成23622点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 23622 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.27.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成24163点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 24163 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.28.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成24704点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 24704 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.29.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成25245点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 25245 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.3.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成11180点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 11180 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.30.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成25786点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 25786 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.31.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成26327点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 26327 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.32.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成26868点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 26868 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.33.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成27409点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 27409 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.34.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成27950点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 27950 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.35.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成28491点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 28491 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.36.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成29032点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 29032 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.37.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成29572点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 29572 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.38.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成30113点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 30113 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.39.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成30654点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 30654 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.4.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成11721点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 11721 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.40.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成31195点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 31195 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.41.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成31736点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 31736 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.42.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成32277点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 32277 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.43.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成32818点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 32818 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.44.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成33359点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 33359 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.45.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成33900点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 33900 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.46.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成34441点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 34441 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.47.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成34982点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 34982 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.48.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成35523点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 35523 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.49.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成36064点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 36064 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.5.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成12262点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 12262 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.6.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成12803点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 12803 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.7.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成13344点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 13344 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.8.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成13885点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 13885 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "58.skillSubLevel.9.desc": {
+      "source": "技能效果：<(c0xFF66ccff)对22*22范围内的怪物造成14426点伤害>\\提升属性：<(c0xFFff33cc)1分钟内物理、魔防防御 +5>\\升级需求：<(c0xFFcccccc)每级10阶级修炼完毕升下一级，共五级>",
+      "target": "Hiệu quả: <(c0xFF66ccff)Gây 14426 điểm sát thương cho quái vật trong phạm vi 22*22>\\Thuộc tính tăng: <(c0xFFff33cc)Phòng ngự vật lý, ma pháp +5 trong 1 phút>\\Yêu cầu nâng cấp: <(c0xFFcccccc)Mỗi cấp tu luyện xong 10 giai sẽ thăng cấp tiếp theo, tổng cộng 5 cấp>"
+    },
+    "59.desc": {
+      "source": "3格内所有玩家伤害达50%，冷却时间1分钟",
+      "target": "Gây sát thương 50% cho tất cả người chơi trong phạm vi 3 ô, thời gian hồi chiêu 1 phút"
+    },
+    "59.name": {
+      "source": "月轮砍",
+      "target": "Nguyệt Luân Khảm"
+    },
+    "6.desc": {
+      "source": "<(c0xFF00FFFF)35级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
+      "target": "<(c0xFF00FFFF)Cấp 35 có thể học, sách kỹ năng có thể nhận khi tiêu diệt quái vật cấp 25-34 hoặc mua ở hiệu sách.><(c0xFF00FF00)Người dùng VIP Chí Tôn có thể kích hoạt kỹ năng miễn phí.>"
+    },
+    "6.name": {
+      "source": "烈火狂刀",
+      "target": "Liệt Hỏa Cuồng Đao"
+    },
+    "6.skillSubLevel.0.desc": {
+      "source": "将烈焰混合在斩技中,给予敌人致命伤害.对目标造成200%的物理伤害",
+      "target": "Hòa liệt diễm vào đòn chém, gây sát thương chí mạng cho kẻ thù. Gây 200% sát thương vật lý cho mục tiêu"
+    },
+    "6.skillSubLevel.1.desc": {
+      "source": "将烈焰混合在斩技中,给予敌人致命伤害.对目标造成240%的物理伤害",
+      "target": "Hòa liệt diễm vào đòn chém, gây sát thương chí mạng cho kẻ thù. Gây 240% sát thương vật lý cho mục tiêu"
+    },
+    "6.skillSubLevel.2.desc": {
+      "source": "将烈焰混合在斩技中,给予敌人致命伤害.对目标造成280%的物理伤害",
+      "target": "Hòa liệt diễm vào đòn chém, gây sát thương chí mạng cho kẻ thù. Gây 280% sát thương vật lý cho mục tiêu"
+    },
+    "60.desc": {
+      "source": "5格内所有玩家不可移动5秒。冷却时间1分钟。",
+      "target": "Tất cả người chơi trong phạm vi 5 ô không thể di chuyển trong 5 giây. Thời gian hồi chiêu 1 phút."
+    },
+    "60.name": {
+      "source": "禁锢锁链",
+      "target": "Cấm Cố Tỏa Liễn"
+    },
+    "61.desc": {
+      "source": "固定伤害10000，冷却时间1分钟；",
+      "target": "Sát thương cố định 10000, thời gian hồi chiêu 1 phút;"
+    },
+    "61.name": {
+      "source": "怒狂刺",
+      "target": "Nộ Cuồng Thích"
+    },
+    "62.desc": {
+      "source": "血量<=5%，世界播报BOSS的喊话1次：想不到我金甲大王龙游浅滩遭虾戏！发动技能召唤，召唤银甲大王1个出现（不会再召唤）",
+      "target": "Lượng máu <= 5%, thông báo thế giới boss hô lên 1 lần: Không ngờ Kim Giáp Đại Vương ta rồng mắc cạn bị tôm giỡn! Kích hoạt kỹ năng triệu hồi, triệu hồi 1 Ngân Giác Đại Vương xuất hiện (Không triệu hồi thêm)"
+    },
+    "62.name": {
+      "source": "召唤银角大王",
+      "target": "Triệu Hồi Ngân Giác Đại Vương"
+    },
+    "63.desc": {
+      "source": "魔龙神刷精英",
+      "target": "Ma Long Thần làm mới tinh anh"
+    },
+    "63.name": {
+      "source": "魔龙神刷精英",
+      "target": "Ma Long Thần làm mới tinh anh"
+    },
+    "64.desc": {
+      "source": "城墙刷新时候技能",
+      "target": "Kỹ năng lúc làm mới tường thành"
+    },
+    "64.name": {
+      "source": "城墙刷新时候技能",
+      "target": "Kỹ năng lúc làm mới tường thành"
+    },
+    "65.desc": {
+      "source": "城墙扣血时候技能",
+      "target": "Kỹ năng lúc tường thành mất máu"
+    },
+    "65.name": {
+      "source": "城墙扣血时候技能",
+      "target": "Kỹ năng lúc tường thành mất máu"
+    },
+    "66.desc": {
+      "source": "开门技能",
+      "target": "Kỹ năng mở cửa"
+    },
+    "66.name": {
+      "source": "沙巴克开门技能",
+      "target": "Kỹ năng mở cửa Sabac"
+    },
+    "67.desc": {
+      "source": "金币副本BOSS招下拨",
+      "target": "BOSS Phó Bản Kim Tệ gọi đợt sau"
+    },
+    "67.name": {
+      "source": "金币副本BOSS招下拨",
+      "target": "BOSS Phó Bản Kim Tệ gọi đợt sau"
+    },
+    "68.name": {
+      "source": "进度1完成技能",
+      "target": "Kỹ năng hoàn thành tiến độ 1"
+    },
+    "69.name": {
+      "source": "进度2完成技能",
+      "target": "Kỹ năng hoàn thành tiến độ 2"
+    },
+    "7.desc": {
+      "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 7 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "7.name": {
+      "source": "火弹",
+      "target": "Hỏa Đạn"
+    },
+    "7.skillSubLevel.0.desc": {
+      "source": "施放一个火球,对目标造成65%魔法攻击加上36点的魔法伤害.永久提升自身准确3点.",
+      "target": "Phóng ra một quả cầu lửa, gây 65% tấn công ma pháp cộng thêm 36 điểm sát thương ma pháp cho mục tiêu. Tăng vĩnh viễn 3 điểm chính xác cho bản thân."
+    },
+    "7.skillSubLevel.1.desc": {
+      "source": "施放一个火球,对目标造成75%魔法攻击加上48点的魔法伤害.永久提升自身准确6点.",
+      "target": "Phóng ra một quả cầu lửa, gây 75% tấn công ma pháp cộng thêm 48 điểm sát thương ma pháp cho mục tiêu. Tăng vĩnh viễn 6 điểm chính xác cho bản thân."
+    },
+    "7.skillSubLevel.2.desc": {
+      "source": "施放一个火球,对目标造成95%魔法攻击加上60点的魔法伤害.永久提升自身准确12点.",
+      "target": "Phóng ra một quả cầu lửa, gây 95% tấn công ma pháp cộng thêm 60 điểm sát thương ma pháp cho mục tiêu. Tăng vĩnh viễn 12 điểm chính xác cho bản thân."
+    },
+    "70.name": {
+      "source": "召唤大刀僵尸",
+      "target": "Triệu hồi Đại Đao Cương Thi"
+    },
+    "71.name": {
+      "source": "种花技能",
+      "target": "Kỹ năng trồng hoa"
+    },
+    "72.name": {
+      "source": "施肥",
+      "target": "Bón phân"
+    },
+    "73.name": {
+      "source": "死亡刷采集怪",
+      "target": "Chết làm mới quái thu thập"
+    },
+    "74.desc": {
+      "source": "怪物抗拒1级：5X5，推开4格2级：9X9,退开4格",
+      "target": "Quái vật Kháng Cự cấp 1: 5X5, đẩy lùi 4 ô cấp 2: 9X9, đẩy lùi 4 ô"
+    },
+    "74.name": {
+      "source": "霸者气势",
+      "target": "Bá Giả Khí Thế"
+    },
+    "75.desc": {
+      "source": "召唤朽心怪",
+      "target": "Triệu hồi Hủ Tâm Quái"
+    },
+    "75.name": {
+      "source": "召唤朽心怪",
+      "target": "Triệu hồi Hủ Tâm Quái"
+    },
+    "76.desc": {
+      "source": "恶念防毒",
+      "target": "Ác Niệm Phòng Độc"
+    },
+    "76.name": {
+      "source": "恶念防毒",
+      "target": "Ác Niệm Phòng Độc"
+    },
+    "77.desc": {
+      "source": "LV1:邪念火球LV2:爬塔BOSS远程攻击",
+      "target": "LV1: Tà Niệm Hỏa Cầu LV2: BOSS Leo Tháp tấn công tầm xa"
+    },
+    "77.name": {
+      "source": "邪念火球",
+      "target": "Tà Niệm Hỏa Cầu"
+    },
+    "78.desc": {
+      "source": "邪念火墙",
+      "target": "Tà Niệm Hỏa Tường"
+    },
+    "78.name": {
+      "source": "邪念火墙",
+      "target": "Tà Niệm Hỏa Tường"
+    },
+    "79.desc": {
+      "source": "短时间狂暴",
+      "target": "Cuồng Bạo thời gian ngắn"
+    },
+    "79.name": {
+      "source": "短时间狂暴",
+      "target": "Cuồng Bạo thời gian ngắn"
+    },
+    "8.desc": {
+      "source": "<(c0xFF00FFFF)12级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 12 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "8.name": {
+      "source": "能量击退",
+      "target": "Năng Lượng Kích Thoái"
+    },
+    "8.skillSubLevel.0.desc": {
+      "source": "将自己附近1格的敌人推开2格,但是没有伤害,只对等级低于自己的目标有效",
+      "target": "Đẩy lùi kẻ thù trong phạm vi 1 ô xung quanh ra 2 ô, nhưng không có sát thương, chỉ hiệu quả với mục tiêu có cấp độ thấp hơn bản thân"
+    },
+    "8.skillSubLevel.1.desc": {
+      "source": "将自己附近1格的敌人推开3格,但是没有伤害,只对等级低于自己的目标有效",
+      "target": "Đẩy lùi kẻ thù trong phạm vi 1 ô xung quanh ra 3 ô, nhưng không có sát thương, chỉ hiệu quả với mục tiêu có cấp độ thấp hơn bản thân"
+    },
+    "8.skillSubLevel.2.desc": {
+      "source": "将自己附近1格的敌人推开4格,但是没有伤害,只对等级低于自己的目标有效",
+      "target": "Đẩy lùi kẻ thù trong phạm vi 1 ô xung quanh ra 4 ô, nhưng không có sát thương, chỉ hiệu quả với mục tiêu có cấp độ thấp hơn bản thân"
+    },
+    "80.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "80.name": {
+      "source": "佣兵刺杀",
+      "target": "Lính đánh thuê Thích Sát"
+    },
+    "80.skillSubLevel.0.desc": {
+      "source": "攻击前方两格的目标,对第一格目标造成100%物理伤害,对第二格的目标造成60%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu ở hai ô phía trước, gây 100% sát thương vật lý cho mục tiêu thứ nhất, gây 60% sát thương và bỏ qua phòng ngự cho mục tiêu thứ hai"
+    },
+    "80.skillSubLevel.1.desc": {
+      "source": "攻击前方两格的目标,对第一格目标造成100%物理伤害,对第二格的目标造成70%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu ở hai ô phía trước, gây 100% sát thương vật lý cho mục tiêu thứ nhất, gây 70% sát thương và bỏ qua phòng ngự cho mục tiêu thứ hai"
+    },
+    "80.skillSubLevel.2.desc": {
+      "source": "攻击前方两格的目标,对第一格目标造成100%物理伤害,对第二格的目标造成80%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu ở hai ô phía trước, gây 100% sát thương vật lý cho mục tiêu thứ nhất, gây 80% sát thương và bỏ qua phòng ngự cho mục tiêu thứ hai"
+    },
+    "80.skillSubLevel.3.desc": {
+      "source": "攻击前方两格的目标,对第一格目标造成100%物理伤害,对第二格的目标造成90%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu ở hai ô phía trước, gây 100% sát thương vật lý cho mục tiêu thứ nhất, gây 90% sát thương và bỏ qua phòng ngự cho mục tiêu thứ hai"
+    },
+    "80.skillSubLevel.4.desc": {
+      "source": "攻击前方两格的目标,对第一格目标造成100%物理伤害,对第二格的目标造成100%的伤害并且无视防御",
+      "target": "Tấn công mục tiêu ở hai ô phía trước, gây 100% sát thương vật lý cho mục tiêu thứ nhất, gây 100% sát thương và bỏ qua phòng ngự cho mục tiêu thứ hai"
+    },
+    "81.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "81.name": {
+      "source": "佣兵半月",
+      "target": "Lính đánh thuê Bán Nguyệt"
+    },
+    "81.skillSubLevel.0.desc": {
+      "source": "攻击目标造成100%伤害,并对目标附近的目标造成20%的伤害.",
+      "target": "Tấn công mục tiêu gây 100% sát thương, đồng thời gây 20% sát thương cho các mục tiêu lân cận."
+    },
+    "81.skillSubLevel.1.desc": {
+      "source": "攻击目标造成100%伤害,并对目标附近的目标造成27%的伤害.",
+      "target": "Tấn công mục tiêu gây 100% sát thương, đồng thời gây 27% sát thương cho các mục tiêu lân cận."
+    },
+    "81.skillSubLevel.2.desc": {
+      "source": "攻击目标造成100%伤害,并对目标附近的目标造成34%的伤害.",
+      "target": "Tấn công mục tiêu gây 100% sát thương, đồng thời gây 34% sát thương cho các mục tiêu lân cận."
+    },
+    "81.skillSubLevel.3.desc": {
+      "source": "攻击目标造成100%伤害,并对目标附近的目标造成42%的伤害.",
+      "target": "Tấn công mục tiêu gây 100% sát thương, đồng thời gây 42% sát thương cho các mục tiêu lân cận."
+    },
+    "81.skillSubLevel.4.desc": {
+      "source": "攻击目标造成100%伤害,并对目标附近的目标造成50%的伤害.",
+      "target": "Tấn công mục tiêu gây 100% sát thương, đồng thời gây 50% sát thương cho các mục tiêu lân cận."
+    },
+    "82.desc": {
+      "source": "<(c0xFF00FF00)35级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 35> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "82.name": {
+      "source": "佣兵烈火",
+      "target": "Lính đánh thuê Liệt Hỏa"
+    },
+    "82.skillSubLevel.0.desc": {
+      "source": "使得下一次攻击对目标造成240%的伤害,冷却时间：10秒",
+      "target": "Khiến đòn tấn công tiếp theo gây 240% sát thương cho mục tiêu, thời gian hồi: 10 giây"
+    },
+    "82.skillSubLevel.1.desc": {
+      "source": "使得下一次攻击对目标造成270%的伤害,冷却时间：10秒",
+      "target": "Khiến đòn tấn công tiếp theo gây 270% sát thương cho mục tiêu, thời gian hồi: 10 giây"
+    },
+    "82.skillSubLevel.2.desc": {
+      "source": "使得下一次攻击对目标造成300%的伤害,冷却时间：10秒",
+      "target": "Khiến đòn tấn công tiếp theo gây 300% sát thương cho mục tiêu, thời gian hồi: 10 giây"
+    },
+    "82.skillSubLevel.3.desc": {
+      "source": "使得下一次攻击对目标造成330%的伤害,冷却时间：10秒",
+      "target": "Khiến đòn tấn công tiếp theo gây 330% sát thương cho mục tiêu, thời gian hồi: 10 giây"
+    },
+    "82.skillSubLevel.4.desc": {
+      "source": "使得下一次攻击对目标造成360%的伤害,冷却时间：10秒",
+      "target": "Khiến đòn tấn công tiếp theo gây 360% sát thương cho mục tiêu, thời gian hồi: 10 giây"
+    },
+    "83.desc": {
+      "source": "<(c0xFF00FF00)35级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 35> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "83.name": {
+      "source": "烈火轰杀",
+      "target": "Liệt Hỏa Oanh Sát"
+    },
+    "83.skillSubLevel.0.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成50%的物理攻击并且使得目标的最大物理攻击下降60点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 50% sát thương vật lý và làm giảm 60 điểm tấn công vật lý tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "83.skillSubLevel.1.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成55%的物理攻击并且使得目标的最大物理攻击下降70点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 55% sát thương vật lý và làm giảm 70 điểm tấn công vật lý tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "83.skillSubLevel.2.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成60%的物理攻击并且使得目标的最大物理攻击下降80点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 60% sát thương vật lý và làm giảm 80 điểm tấn công vật lý tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "83.skillSubLevel.3.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成65%的物理攻击并且使得目标的最大物理攻击下降90点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 65% sát thương vật lý và làm giảm 90 điểm tấn công vật lý tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "83.skillSubLevel.4.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成70%的物理攻击并且使得目标的最大物理攻击下降100点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 70% sát thương vật lý và làm giảm 100 điểm tấn công vật lý tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "84.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "84.name": {
+      "source": "佣兵雷电",
+      "target": "Lính đánh thuê Lôi Điện"
+    },
+    "84.skillSubLevel.0.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成80%魔法攻击加上65点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 80% tấn công ma pháp cộng thêm 65 điểm sát thương ma pháp"
+    },
+    "84.skillSubLevel.1.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成85%魔法攻击加上80点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 85% tấn công ma pháp cộng thêm 80 điểm sát thương ma pháp"
+    },
+    "84.skillSubLevel.2.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成90%魔法攻击加上95点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 90% tấn công ma pháp cộng thêm 95 điểm sát thương ma pháp"
+    },
+    "84.skillSubLevel.3.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成95%魔法攻击加上110点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 95% tấn công ma pháp cộng thêm 110 điểm sát thương ma pháp"
+    },
+    "84.skillSubLevel.4.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成100%魔法攻击加上125点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 100% tấn công ma pháp cộng thêm 125 điểm sát thương ma pháp"
+    },
+    "85.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "85.name": {
+      "source": "佣兵冰咆哮",
+      "target": "Lính đánh thuê Băng Bào Hao"
+    },
+    "85.skillSubLevel.0.desc": {
+      "source": "佣兵技能,对3x3范围内的目标造成80%魔法攻击加上160点的魔法伤害,冷却时间：5秒",
+      "target": "Kỹ năng lính đánh thuê, gây 80% tấn công ma pháp cộng thêm 160 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3, thời gian hồi: 5 giây"
+    },
+    "85.skillSubLevel.1.desc": {
+      "source": "佣兵技能,对3x3范围内的目标造成85%魔法攻击加上184点的魔法伤害,冷却时间：5秒",
+      "target": "Kỹ năng lính đánh thuê, gây 85% tấn công ma pháp cộng thêm 184 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3, thời gian hồi: 5 giây"
+    },
+    "85.skillSubLevel.2.desc": {
+      "source": "佣兵技能,对3x3范围内的目标造成90%魔法攻击加上208点的魔法伤害,冷却时间：5秒",
+      "target": "Kỹ năng lính đánh thuê, gây 90% tấn công ma pháp cộng thêm 208 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3, thời gian hồi: 5 giây"
+    },
+    "85.skillSubLevel.3.desc": {
+      "source": "佣兵技能,对3x3范围内的目标造成95%魔法攻击加上232点的魔法伤害,冷却时间：5秒",
+      "target": "Kỹ năng lính đánh thuê, gây 95% tấn công ma pháp cộng thêm 232 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3, thời gian hồi: 5 giây"
+    },
+    "85.skillSubLevel.4.desc": {
+      "source": "佣兵技能,对3x3范围内的目标造成100%魔法攻击加上256点的魔法伤害,冷却时间：5秒",
+      "target": "Kỹ năng lính đánh thuê, gây 100% tấn công ma pháp cộng thêm 256 điểm sát thương ma pháp cho mục tiêu trong phạm vi 3x3, thời gian hồi: 5 giây"
+    },
+    "86.desc": {
+      "source": "<(c0xFF00FF00)35级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 35> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "86.name": {
+      "source": "佣兵魔法盾",
+      "target": "Lính đánh thuê Ma Pháp Thuẫn"
+    },
+    "86.skillSubLevel.0.desc": {
+      "source": "凝聚一个持续20秒的魔法盾来使得物理攻击和魔法攻击对自身的伤害减低24%.冷却时间：5秒",
+      "target": "Ngưng tụ một khiên ma pháp kéo dài 20 giây để giảm 24% sát thương từ đòn tấn công vật lý và ma pháp cho bản thân. Thời gian hồi: 5 giây"
+    },
+    "86.skillSubLevel.1.desc": {
+      "source": "凝聚一个持续30秒的魔法盾来使得物理攻击和魔法攻击对自身的伤害减低28%.冷却时间：5秒",
+      "target": "Ngưng tụ một khiên ma pháp kéo dài 30 giây để giảm 28% sát thương từ đòn tấn công vật lý và ma pháp cho bản thân. Thời gian hồi: 5 giây"
+    },
+    "86.skillSubLevel.2.desc": {
+      "source": "凝聚一个持续40秒的魔法盾来使得物理攻击和魔法攻击对自身的伤害减低32%.冷却时间：5秒",
+      "target": "Ngưng tụ một khiên ma pháp kéo dài 40 giây để giảm 32% sát thương từ đòn tấn công vật lý và ma pháp cho bản thân. Thời gian hồi: 5 giây"
+    },
+    "86.skillSubLevel.3.desc": {
+      "source": "凝聚一个持续50秒的魔法盾来使得物理攻击和魔法攻击对自身的伤害减低36%.冷却时间：5秒",
+      "target": "Ngưng tụ một khiên ma pháp kéo dài 50 giây để giảm 36% sát thương từ đòn tấn công vật lý và ma pháp cho bản thân. Thời gian hồi: 5 giây"
+    },
+    "86.skillSubLevel.4.desc": {
+      "source": "凝聚一个持续60秒的魔法盾来使得物理攻击和魔法攻击对自身的伤害减低40%.冷却时间：5秒",
+      "target": "Ngưng tụ một khiên ma pháp kéo dài 60 giây để giảm 40% sát thương từ đòn tấn công vật lý và ma pháp cho bản thân. Thời gian hồi: 5 giây"
+    },
+    "87.desc": {
+      "source": "<(c0xFF00FF00)35级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 35> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "87.name": {
+      "source": "雷电轰杀",
+      "target": "Lôi Điện Oanh Sát"
+    },
+    "87.skillSubLevel.0.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成50%的魔法攻击并且使得目标的最大魔法攻击下降60点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 50% tấn công ma pháp và làm giảm 60 điểm tấn công ma pháp tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "87.skillSubLevel.1.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成55%的魔法攻击并且使得目标的最大魔法攻击下降70点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 55% tấn công ma pháp và làm giảm 70 điểm tấn công ma pháp tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "87.skillSubLevel.2.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成60%的魔法攻击并且使得目标的最大魔法攻击下降80点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 60% tấn công ma pháp và làm giảm 80 điểm tấn công ma pháp tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "87.skillSubLevel.3.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成65%的魔法攻击并且使得目标的最大魔法攻击下降90点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 65% tấn công ma pháp và làm giảm 90 điểm tấn công ma pháp tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "87.skillSubLevel.4.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成70%的魔法攻击并且使得目标的最大魔法攻击下降100点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 70% tấn công ma pháp và làm giảm 100 điểm tấn công ma pháp tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "88.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "88.name": {
+      "source": "佣兵火符",
+      "target": "Lính đánh thuê Hỏa Phù"
+    },
+    "88.skillSubLevel.0.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成80%道术攻击加上50点的伤害",
+      "target": "Pháp thuật tầm xa, dùng bùa chú tấn công kẻ địch. Gây 80% tấn công đạo thuật cộng thêm 50 điểm sát thương cho mục tiêu"
+    },
+    "88.skillSubLevel.1.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成85%道术攻击加上65点的伤害",
+      "target": "Pháp thuật tầm xa, dùng bùa chú tấn công kẻ địch. Gây 85% tấn công đạo thuật cộng thêm 65 điểm sát thương cho mục tiêu"
+    },
+    "88.skillSubLevel.2.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成90%道术攻击加上80点的伤害",
+      "target": "Pháp thuật tầm xa, dùng bùa chú tấn công kẻ địch. Gây 90% tấn công đạo thuật cộng thêm 80 điểm sát thương cho mục tiêu"
+    },
+    "88.skillSubLevel.3.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成95%道术攻击加上95点的伤害",
+      "target": "Pháp thuật tầm xa, dùng bùa chú tấn công kẻ địch. Gây 95% tấn công đạo thuật cộng thêm 95 điểm sát thương cho mục tiêu"
+    },
+    "88.skillSubLevel.4.desc": {
+      "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成100%道术攻击加上110点的伤害",
+      "target": "Pháp thuật tầm xa, dùng bùa chú tấn công kẻ địch. Gây 100% tấn công đạo thuật cộng thêm 110 điểm sát thương cho mục tiêu"
+    },
+    "89.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "89.name": {
+      "source": "佣兵治愈",
+      "target": "Lính đánh thuê Trị Dũ"
+    },
+    "89.skillSubLevel.0.desc": {
+      "source": "在战斗的时候,能够对自身与主人施放一个治愈术，每秒恢复80点生命值,持续8秒，冷却时间：30秒",
+      "target": "Trong lúc chiến đấu, có thể thi triển thuật trị liệu cho bản thân và chủ nhân, mỗi giây hồi phục 80 điểm sinh lực, kéo dài 8 giây, thời gian hồi: 30 giây"
+    },
+    "89.skillSubLevel.1.desc": {
+      "source": "在战斗的时候,能够对自身与主人施放一个治愈术，每秒恢复100点生命值,持续10秒，冷却时间：28秒",
+      "target": "Trong lúc chiến đấu, có thể thi triển thuật trị liệu cho bản thân và chủ nhân, mỗi giây hồi phục 100 điểm sinh lực, kéo dài 10 giây, thời gian hồi: 28 giây"
+    },
+    "89.skillSubLevel.2.desc": {
+      "source": "在战斗的时候,能够对自身与主人施放一个治愈术，每秒恢复120点生命值,持续12秒，冷却时间：26秒",
+      "target": "Trong lúc chiến đấu, có thể thi triển thuật trị liệu cho bản thân và chủ nhân, mỗi giây hồi phục 120 điểm sinh lực, kéo dài 12 giây, thời gian hồi: 26 giây"
+    },
+    "89.skillSubLevel.3.desc": {
+      "source": "在战斗的时候,能够对自身与主人施放一个治愈术，每秒恢复150点生命值,持续14秒，冷却时间：24秒",
+      "target": "Trong lúc chiến đấu, có thể thi triển thuật trị liệu cho bản thân và chủ nhân, mỗi giây hồi phục 150 điểm sinh lực, kéo dài 14 giây, thời gian hồi: 24 giây"
+    },
+    "89.skillSubLevel.4.desc": {
+      "source": "在战斗的时候,能够对自身与主人施放一个治愈术，每秒恢复200点生命值,持续16秒，冷却时间：22秒",
+      "target": "Trong lúc chiến đấu, có thể thi triển thuật trị liệu cho bản thân và chủ nhân, mỗi giây hồi phục 200 điểm sinh lực, kéo dài 16 giây, thời gian hồi: 22 giây"
+    },
+    "9.desc": {
+      "source": "<(c0xFF00FFFF)17级可以学习,技能书可以通过主线任务或者在书店购买。>",
+      "target": "<(c0xFF00FFFF)Cấp 17 có thể học, sách kỹ năng có thể nhận qua nhiệm vụ chính tuyến hoặc mua ở hiệu sách.>"
+    },
+    "9.name": {
+      "source": "天雷射",
+      "target": "Thiên Lôi Xạ"
+    },
+    "9.skillSubLevel.0.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成70%魔法攻击加上45~85点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 80% tấn công ma pháp cộng thêm 45~85 điểm sát thương ma pháp"
+    },
+    "9.skillSubLevel.1.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成80%魔法攻击加上55~95点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 90% tấn công ma pháp cộng thêm 55~95 điểm sát thương ma pháp"
+    },
+    "9.skillSubLevel.2.desc": {
+      "source": "从空中召唤一道雷电攻击目标,对目标造成90%魔法攻击加上65~110点的魔法伤害",
+      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 100% tấn công ma pháp cộng thêm 65~110 điểm sát thương ma pháp"
+    },
+    "90.desc": {
+      "source": "<(c0xFF00FF00)35级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 35> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "90.name": {
+      "source": "佣兵幽灵战甲",
+      "target": "Lính đánh thuê U Linh Chiến Giáp"
+    },
+    "90.skillSubLevel.0.desc": {
+      "source": "在战斗的时候,能够提高自身与主人的最大魔法防御与最大物理防御15点.持续20秒,冷却时间：20秒",
+      "target": "Trong lúc chiến đấu, có thể tăng 15 điểm phòng ngự ma pháp và phòng ngự vật lý tối đa cho bản thân và chủ nhân. Kéo dài 20 giây, thời gian hồi: 20 giây"
+    },
+    "90.skillSubLevel.1.desc": {
+      "source": "在战斗的时候,能够提高自身与主人的最大魔法防御与最大物理防御30点.持续30秒,冷却时间：20秒",
+      "target": "Trong lúc chiến đấu, có thể tăng 30 điểm phòng ngự ma pháp và phòng ngự vật lý tối đa cho bản thân và chủ nhân. Kéo dài 30 giây, thời gian hồi: 20 giây"
+    },
+    "90.skillSubLevel.2.desc": {
+      "source": "在战斗的时候,能够提高自身与主人的最大魔法防御与最大物理防御45点.持续40秒,冷却时间：20秒",
+      "target": "Trong lúc chiến đấu, có thể tăng 45 điểm phòng ngự ma pháp và phòng ngự vật lý tối đa cho bản thân và chủ nhân. Kéo dài 40 giây, thời gian hồi: 20 giây"
+    },
+    "90.skillSubLevel.3.desc": {
+      "source": "在战斗的时候,能够提高自身与主人的最大魔法防御与最大物理防御60点.持续50秒,冷却时间：20秒",
+      "target": "Trong lúc chiến đấu, có thể tăng 60 điểm phòng ngự ma pháp và phòng ngự vật lý tối đa cho bản thân và chủ nhân. Kéo dài 50 giây, thời gian hồi: 20 giây"
+    },
+    "90.skillSubLevel.4.desc": {
+      "source": "在战斗的时候,能够提高自身与主人的最大魔法防御与最大物理防御80点.持续60秒,冷却时间：20秒",
+      "target": "Trong lúc chiến đấu, có thể tăng 80 điểm phòng ngự ma pháp và phòng ngự vật lý tối đa cho bản thân và chủ nhân. Kéo dài 60 giây, thời gian hồi: 20 giây"
+    },
+    "91.desc": {
+      "source": "<(c0xFF00FF00)35级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 35> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "91.name": {
+      "source": "猛毒轰杀",
+      "target": "Mãnh Độc Oanh Sát"
+    },
+    "91.skillSubLevel.0.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成50%的道术攻击并且使得目标的最大道术攻击下降60点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 50% tấn công đạo thuật và làm giảm 60 điểm tấn công đạo thuật tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "91.skillSubLevel.1.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成55%的道术攻击并且使得目标的最大道术攻击下降70点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 55% tấn công đạo thuật và làm giảm 70 điểm tấn công đạo thuật tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "91.skillSubLevel.2.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成60%的道术攻击并且使得目标的最大道术攻击下降80点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 60% tấn công đạo thuật và làm giảm 80 điểm tấn công đạo thuật tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "91.skillSubLevel.3.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成65%的道术攻击并且使得目标的最大道术攻击下降90点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 65% tấn công đạo thuật và làm giảm 90 điểm tấn công đạo thuật tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "91.skillSubLevel.4.desc": {
+      "source": "攻击以佣兵为中心的9X9内所有可攻击目标，造成70%的道术攻击并且使得目标的最大道术攻击下降100点，持续5秒,冷却时间：30秒",
+      "target": "Tấn công tất cả mục tiêu trong phạm vi 9X9 với lính đánh thuê là trung tâm, gây 70% tấn công đạo thuật và làm giảm 100 điểm tấn công đạo thuật tối đa của mục tiêu, kéo dài 5 giây, thời gian hồi: 30 giây"
+    },
+    "92.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "92.name": {
+      "source": "强健体魄",
+      "target": "Cường Kiện Thể Phách"
+    },
+    "92.skillSubLevel.0.desc": {
+      "source": "在佣兵出战时,增加人物与佣兵的生命值、魔法值1%",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 1% sinh lực, ma lực của nhân vật và lính đánh thuê"
+    },
+    "92.skillSubLevel.1.desc": {
+      "source": "在佣兵出战时,增加人物与佣兵的生命值、魔法值2%",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 2% sinh lực, ma lực của nhân vật và lính đánh thuê"
+    },
+    "92.skillSubLevel.2.desc": {
+      "source": "在佣兵出战时,增加人物与佣兵的生命值、魔法值3%",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 3% sinh lực, ma lực của nhân vật và lính đánh thuê"
+    },
+    "92.skillSubLevel.3.desc": {
+      "source": "在佣兵出战时,增加人物与佣兵的生命值、魔法值4%",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 4% sinh lực, ma lực của nhân vật và lính đánh thuê"
+    },
+    "92.skillSubLevel.4.desc": {
+      "source": "在佣兵出战时,增加人物与佣兵的生命值、魔法值5%",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 5% sinh lực, ma lực của nhân vật và lính đánh thuê"
+    },
+    "93.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "93.name": {
+      "source": "无敌戏法",
+      "target": "Vô Địch Hí Pháp"
+    },
+    "93.skillSubLevel.0.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大攻击25点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 25 điểm tất cả tấn công tối đa của lính đánh thuê và người chơi"
+    },
+    "93.skillSubLevel.1.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大攻击35点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 35 điểm tất cả tấn công tối đa của lính đánh thuê và người chơi"
+    },
+    "93.skillSubLevel.2.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大攻击50点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 50 điểm tất cả tấn công tối đa của lính đánh thuê và người chơi"
+    },
+    "93.skillSubLevel.3.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大攻击70点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 70 điểm tất cả tấn công tối đa của lính đánh thuê và người chơi"
+    },
+    "93.skillSubLevel.4.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大攻击100点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 100 điểm tất cả tấn công tối đa của lính đánh thuê và người chơi"
+    },
+    "94.desc": {
+      "source": "<(c0xFF00FF00)30级>可以学习,花费绑定金币即可直接学习。",
+      "target": "<(c0xFF00FF00)Cấp 30> có thể học, tiêu hao kim tệ khóa để học trực tiếp."
+    },
+    "94.name": {
+      "source": "天罡正气",
+      "target": "Thiên Cương Chính Khí"
+    },
+    "94.skillSubLevel.0.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大防御10点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 10 điểm tất cả phòng ngự tối đa của lính đánh thuê và người chơi"
+    },
+    "94.skillSubLevel.1.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大防御15点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 15 điểm tất cả phòng ngự tối đa của lính đánh thuê và người chơi"
+    },
+    "94.skillSubLevel.2.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大防御20点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 20 điểm tất cả phòng ngự tối đa của lính đánh thuê và người chơi"
+    },
+    "94.skillSubLevel.3.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大防御35点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 35 điểm tất cả phòng ngự tối đa của lính đánh thuê và người chơi"
+    },
+    "94.skillSubLevel.4.desc": {
+      "source": "在佣兵出战时,增加佣兵与玩家的所有最大防御50点",
+      "target": "Khi lính đánh thuê xuất chiến, tăng 50 điểm tất cả phòng ngự tối đa của lính đánh thuê và người chơi"
+    },
+    "95.desc": {
+      "source": "金币副本小怪招下拨",
+      "target": "Tiểu Quái Phó Bản Kim Tệ gọi đợt sau"
+    },
+    "95.name": {
+      "source": "金币副本小怪招下拨",
+      "target": "Tiểu Quái Phó Bản Kim Tệ gọi đợt sau"
+    },
+    "96.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "96.name": {
+      "source": "遁影",
+      "target": "Độn Ảnh"
+    },
+    "96.skillSubLevel.0.desc": {
+      "source": "赛马技能，能让自己隐身免受图腾的主动攻击",
+      "target": "Kỹ năng đua ngựa, có thể giúp bản thân tàng hình để tránh bị đồ đằng chủ động tấn công"
+    },
+    "97.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "97.name": {
+      "source": "飞驰",
+      "target": "Phi Trì"
+    },
+    "97.skillSubLevel.0.desc": {
+      "source": "赛马技能，能增加自身的移动速度",
+      "target": "Kỹ năng đua ngựa, có thể tăng tốc độ di chuyển của bản thân"
+    },
+    "98.desc": {
+      "source": "赛马技能",
+      "target": "Kỹ năng Đua Ngựa"
+    },
+    "98.name": {
+      "source": "落马箭",
+      "target": "Lạc Mã Tiễn"
+    },
+    "98.skillSubLevel.0.desc": {
+      "source": "赛马技能，能使得3X3范围内的目标下马并且减少移动速度",
+      "target": "Kỹ năng đua ngựa, có thể khiến mục tiêu trong phạm vi 3X3 ngã ngựa và giảm tốc độ di chuyển"
+    },
+    "99.desc": {
+      "source": "镖车减速",
+      "target": "Tiêu Xa Giảm Tốc"
+    },
+    "99.name": {
+      "source": "镖车减速",
+      "target": "Tiêu Xa Giảm Tốc"
+    }
+  },
+  "metadata": {
+    "matched_and_changed": 733,
+    "unmatched_paths": [
+      "12.skillSubLevel.3.desc",
+      "13.skillSubLevel.3.desc",
+      "16.skillSubLevel.3.desc",
+      "16.skillSubLevel.4.desc",
+      "17.skillSubLevel.3.desc",
+      "18.skillSubLevel.3.desc",
+      "20.skillSubLevel.3.desc",
+      "20.skillSubLevel.4.desc",
+      "24.skillSubLevel.3.desc",
+      "25.skillSubLevel.3.desc",
+      "255.desc",
+      "255.name",
+      "255.skillSubLevel.0.desc",
+      "256.desc",
+      "256.name",
+      "256.skillSubLevel.0.desc",
+      "256.skillSubLevel.1.desc",
+      "256.skillSubLevel.2.desc",
+      "256.skillSubLevel.3.desc",
+      "257.desc",
+      "257.name",
+      "257.skillSubLevel.0.desc",
+      "257.skillSubLevel.1.desc",
+      "257.skillSubLevel.2.desc",
+      "258.desc",
+      "258.name",
+      "258.skillSubLevel.0.desc",
+      "258.skillSubLevel.1.desc",
+      "258.skillSubLevel.2.desc",
+      "258.skillSubLevel.3.desc",
+      "3.skillSubLevel.3.desc",
+      "4.skillSubLevel.3.desc",
+      "5.skillSubLevel.3.desc",
+      "6.skillSubLevel.3.desc",
+      "6.skillSubLevel.4.desc",
+      "8.skillSubLevel.3.desc"
+    ]
+  }
+}
