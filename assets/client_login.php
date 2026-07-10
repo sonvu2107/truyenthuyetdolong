@@ -1,3 +1,3 @@
 <?php
-header('Location: /client_shell.html?v=20260710questfix1');
+header('Location: /client_shell.html?v=20260710pathfix1');
 exit;

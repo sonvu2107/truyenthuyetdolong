@@ -1,0 +1,15 @@
+--- a/scripts/Logic/Actors/ActorClass/LocalPlayer.as
++++ b/scripts/Logic/Actors/ActorClass/LocalPlayer.as
+@@
+          var _loc12_:EnvirScene = null;
+          var _loc13_:EnvirScene = null;
+          var _loc14_:Point = null;
++         if(param4)
++         {
++            _loc13_ = GameData.enviromentProvider.getEnvirByName(param4);
++            if(_loc13_ && _loc13_.scenceid == GameMap.defaultMap.mapId)
++            {
++               param4 = null;
++            }
++         }
+          if(!param4 || param4 == GameMap.defaultMap.mapName)
