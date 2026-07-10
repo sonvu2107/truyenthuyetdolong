@@ -1,10 +1,10 @@
 {
-  "version": "20260710gatecrc1",
+  "version": "20260710gatecrc2trace",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "07652107E6AAB1E8350272E94CDE594074FF73790D21175E387F740D0E2B2209"
+      "sha256": "646A6CDA0A5CB8D2BF1B78756E947422BADE4532D5A3BEAEFBC922519AA51A87"
     },
     {
       "source": "assets/ClientLang.txt",
