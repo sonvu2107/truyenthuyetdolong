@@ -1,10 +1,25 @@
 {
-  "version": "20260710gatefix5",
+  "version": "20260710ui1",
   "files": [
+    {
+      "source": "assets/client_login.php",
+      "target": "client_login.php",
+      "sha256": "BEB40338A298447DE28176AF9A02319230219BE78B7A6D641B8E93E2DE5482E0"
+    },
+    {
+      "source": "assets/client_shell.html",
+      "target": "client_shell.html",
+      "sha256": "1357D0F0DEF5B2A2778B23BCEAFACE23C91C5E4A70730CD4AB80E5FC360834CC"
+    },
+    {
+      "source": "assets/client_frame.png",
+      "target": "client_frame.png",
+      "sha256": "7CE2146AB005F7710385CED5A8401FC492523BDDF6AEC301B73F36FE3A90D415"
+    },
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "0BAEA36DCF816CD6CFC2A92864854A9EE765F868D6C2CE34D5A5574CCDB3CBD6"
+      "sha256": "6E5F5E4D20CAFB6C6A5ED5C147DA23BED0A38D6E1F8A841AC5FE5760502105F9"
     },
     {
       "source": "assets/ClientLang.txt",
@@ -14,7 +29,7 @@
     {
       "source": "assets/lang/zh-cn/clientlang.cbp",
       "target": "data/lang/zh-cn/clientlang.cbp",
-      "sha256": "38C4EF72D83C718D47B7C8FF7B5DFFA49AF95E02A8926DA67E9696EBBB31DAC5"
+      "sha256": "27DB147BB207B138B7B8255C5F80385DF44138C7B62612149FD1D99B7B1ED5C6"
     },
     {
       "source": "assets/lang/zh-cn/cbp.zip",

@@ -21,6 +21,9 @@ foreach ($path in @($WebRoot, $assetsRoot, $spDefPath)) {
 New-Item -ItemType Directory -Path $backupRoot -Force | Out-Null
 
 $files = @(
+	@{ Source = 'client_login.php'; Target = 'client_login.php' },
+	@{ Source = 'client_shell.html'; Target = 'client_shell.html' },
+	@{ Source = 'client_frame.png'; Target = 'client_frame.png' },
     @{ Source = 'GameFrame.swf'; Target = 'GameFrame.swf' },
     @{ Source = 'ClientLang.txt'; Target = 'data\commonasset\ClientLang.txt' },
     @{ Source = 'lang\zh-cn\clientlang.cbp'; Target = 'data\lang\zh-cn\clientlang.cbp' },
