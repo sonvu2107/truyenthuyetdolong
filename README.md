@@ -9,19 +9,18 @@ Gói này chỉ chứa các tài nguyên công khai cần cập nhật cho game 
 
 Không đưa `wwwroot` nguyên trạng lên Git. Các file đó chứa thông tin kết nối database và khóa đăng nhập.
 
-## Cài một lần trên VPS
+## Cập nhật từ máy có Git
 
 ```powershell
 cd C:\GPHANTL
 git clone https://github.com/sonvu2107/truyenthuyetdolong.git ahtl-web-deploy
 ```
 
-## Cập nhật phiên bản mới
+## Đồng bộ trực tiếp trên Windows Server 2012
 
 ```powershell
-cd C:\GPHANTL\ahtl-web-deploy
-git pull --ff-only
-.\scripts\Deploy-WebAssets.ps1 -GameHost 'http://180.93.244.31:81' -Version '20260710min1'
+certutil.exe -urlcache -split -f https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/main/scripts/Sync-FromGitHub.ps1 C:\GPHANTL\Sync-FromGitHub.ps1
+powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 ```
 
-Script sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database.
+Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database. Cách này không cần cài Git trên VPS cũ.

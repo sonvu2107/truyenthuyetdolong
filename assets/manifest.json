@@ -1,0 +1,25 @@
+{
+  "version": "20260710min1",
+  "files": [
+    {
+      "source": "assets/GameFrame.swf",
+      "target": "GameFrame.swf",
+      "sha256": "072AC6434404203083086A67A7FBC1458400AC4B8B9B1028427133CCFE393671"
+    },
+    {
+      "source": "assets/ClientLang.txt",
+      "target": "data/commonasset/ClientLang.txt",
+      "sha256": "3A2F67508A65358658FD3E74D630F5743DB0C02196F7DFBC4B488D6A891D29FE"
+    },
+    {
+      "source": "assets/lang/zh-cn/clientlang.cbp",
+      "target": "data/lang/zh-cn/clientlang.cbp",
+      "sha256": "38C4EF72D83C718D47B7C8FF7B5DFFA49AF95E02A8926DA67E9696EBBB31DAC5"
+    },
+    {
+      "source": "assets/lang/zh-cn/cbp.zip",
+      "target": "data/lang/zh-cn/cbp.zip",
+      "sha256": "531ECCF935C71CD1A7128872E782B47052F5CA4D567C60D7FA83F388614A1CD5"
+    }
+  ]
+}
