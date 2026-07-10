@@ -11,7 +11,18 @@ html, body {
 	width: 100%;
 	height: 100%;
 	overflow: hidden;
-	background: #000;
+	background: #120805 url(images/box_bg.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+#launcherStage {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 962px;
+	height: 647px;
+	margin-left: -481px;
+	margin-top: -323px;
 }
 
 #launcherFrame {
@@ -20,7 +31,7 @@ html, body {
 	top: 0;
 	width: 962px;
 	height: 647px;
-	background: #000 url(client_frame.png) no-repeat 0 0;
+	background: transparent url(client_frame.png) no-repeat 0 0;
 }
 
 #gamePortal {
@@ -46,13 +57,17 @@ body.game-mode #launcherFrame {
 	display: none;
 }
 
+body.game-mode #launcherStage {
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
 body.game-mode #gamePortal {
 	left: 0;
 	top: 0;
-	width: 1023px;
-	height: 688px;
-	transform: scale(0.94);
-	-ms-transform: scale(0.94);
 }
 </style>
 <script type="text/javascript">
@@ -68,7 +83,22 @@ body.game-mode #gamePortal {
 
 	function syncMode() {
 		var frame = document.getElementById("gamePortal");
-		document.body.className = isGamePage(frame) ? "game-mode" : "launcher-mode";
+		var gameMode = isGamePage(frame);
+		document.body.className = gameMode ? "game-mode" : "launcher-mode";
+		if (gameMode) {
+			var width = document.documentElement.clientWidth || document.body.clientWidth || 962;
+			var height = document.documentElement.clientHeight || document.body.clientHeight || 647;
+			var scale = width < 1000 ? width / 1000 : 1;
+			frame.style.width = Math.ceil(width / scale) + "px";
+			frame.style.height = Math.ceil(height / scale) + "px";
+			frame.style.transform = "scale(" + scale + ")";
+			frame.style.msTransform = "scale(" + scale + ")";
+		} else {
+			frame.style.width = "667px";
+			frame.style.height = "338px";
+			frame.style.transform = "scale(0.712)";
+			frame.style.msTransform = "scale(0.712)";
+		}
 	}
 
 	function init() {
@@ -80,6 +110,11 @@ body.game-mode #gamePortal {
 		}
 		syncMode();
 		window.setInterval(syncMode, 500);
+		if (window.attachEvent) {
+			window.attachEvent("onresize", syncMode);
+		} else {
+			window.onresize = syncMode;
+		}
 	}
 
 	if (window.attachEvent) {
@@ -91,7 +126,9 @@ body.game-mode #gamePortal {
 </script>
 </head>
 <body class="launcher-mode" scroll="no">
-	<div id="launcherFrame"></div>
-	<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260710ui1" frameborder="0" scrolling="no"></iframe>
+	<div id="launcherStage">
+		<div id="launcherFrame"></div>
+		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260710ui2" frameborder="0" scrolling="no"></iframe>
+	</div>
 </body>
 </html>
