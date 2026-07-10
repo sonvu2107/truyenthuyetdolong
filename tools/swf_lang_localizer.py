@@ -30,7 +30,7 @@ HAN_RE = re.compile(r"[\u3400-\u9fff]")
 IDENT_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*")
 ASSIGN_RE = re.compile(
     r"^(?P<indent>\s*)(?P<name>[A-Za-z_][A-Za-z0-9_]*)"
-    r"(?:\[(?P<index>\d+)\])?\s*=\s*(?P<value>.*?);\s*"
+    r"(?:\[(?P<index>\d+)\])?\s*=\s*(?P<value>.*?);[ \t]*"
     r"(?P<newline>\r?\n)?$"
 )
 
@@ -171,15 +171,61 @@ def has_han(value: str) -> bool:
     return HAN_RE.search(value) is not None
 
 
-def patch_source(source: str, lang: ClientLang) -> tuple[str, dict]:
+def load_extra_catalog(paths: list[Path] | None) -> dict[str, dict[str, str]]:
+    if not paths:
+        return {}
+    result: dict[str, dict[str, str]] = {}
+    for path in paths:
+        catalog = json.loads(path.read_text(encoding="utf-8"))
+        if catalog.get("format") != 1 or not isinstance(
+            catalog.get("translations"), dict
+        ):
+            raise LangError(f"Catalog ZH_CN bổ sung không đúng format 1: {path}")
+        for key, entry in catalog["translations"].items():
+            if not isinstance(entry, dict):
+                raise LangError(f"Mục catalog bổ sung không hợp lệ: {key}")
+            source_key = entry.get("source_key", key)
+            if not isinstance(source_key, str) or not source_key:
+                raise LangError(f"Mục catalog bổ sung có source_key không hợp lệ: {key}")
+            source_line = entry.get("source_line")
+            internal_key = (
+                f"{source_key}@{source_line}"
+                if isinstance(source_line, int)
+                else source_key
+            )
+            if internal_key in result:
+                raise LangError(f"Mục catalog bổ sung bị lặp: {internal_key}")
+            source_expression = entry.get("source_expression")
+            target = entry.get("target")
+            target_expression = entry.get("target_expression")
+            if not isinstance(source_expression, str) or not (
+                isinstance(target, str) or isinstance(target_expression, str)
+            ):
+                raise LangError(f"Mục catalog bổ sung thiếu nguồn/đích: {key}")
+            if isinstance(target_expression, str) and not target_expression.strip():
+                raise LangError(f"Mục catalog bổ sung có biểu thức đích rỗng: {key}")
+            if target_expression is None and not target:
+                raise LangError(f"Mục catalog bổ sung chưa dịch: {key}")
+            result[internal_key] = {
+                "source_expression": source_expression,
+                "target": target if isinstance(target, str) else "",
+                "target_expression": target_expression,
+            }
+    return result
+
+
+def patch_source(
+    source: str, lang: ClientLang, extra_catalog: dict[str, dict[str, str]]
+) -> tuple[str, dict]:
     output: list[str] = []
     matched_keys: set[tuple[str, int | None]] = set()
     changed = 0
     matched = 0
     source_assignments = 0
     source_han_assignments = 0
+    matched_extra: set[str] = set()
 
-    for line in source.splitlines(keepends=True):
+    for line_number, line in enumerate(source.splitlines(keepends=True), start=1):
         match = ASSIGN_RE.match(line)
         if not match:
             output.append(line)
@@ -188,8 +234,29 @@ def patch_source(source: str, lang: ClientLang) -> tuple[str, dict]:
         name = match.group("name")
         index_text = match.group("index")
         index = int(index_text) if index_text is not None else None
+        key = f"{name}[{index}]" if index is not None else name
         target: str | None = None
-        if index is None:
+        extra_key = f"{key}@{line_number}"
+        extra_entry = extra_catalog.get(extra_key)
+        if extra_entry is None:
+            extra_key = key
+            extra_entry = extra_catalog.get(extra_key)
+        if extra_entry is not None:
+            source_expression = match.group("value").strip()
+            if source_expression != extra_entry["source_expression"]:
+                raise LangError(
+                    f"Câu gốc ZH_CN không khớp tại {key}: "
+                    f"AS={source_expression!r}, "
+                    f"catalog={extra_entry['source_expression']!r}"
+                )
+            target_expression = extra_entry.get("target_expression")
+            target = (
+                target_expression
+                if isinstance(target_expression, str)
+                else json.dumps(extra_entry["target"], ensure_ascii=False)
+            )
+            matched_extra.add(extra_key)
+        elif index is None:
             target = lang.scalars.get(name)
         elif name in lang.arrays and index < len(lang.arrays[name]):
             target = lang.arrays[name][index]
@@ -242,9 +309,14 @@ def patch_source(source: str, lang: ClientLang) -> tuple[str, dict]:
         "source_han_assignments": source_han_assignments,
         "matched_entries": matched,
         "changed_entries": changed,
+        "extra_catalog_entries": len(extra_catalog),
+        "extra_catalog_matched": len(matched_extra),
         "missing_client_entries": missing_client_entries,
         "residual_han_assignments": residual,
     }
+    missing_extra = sorted(set(extra_catalog) - matched_extra)
+    if missing_extra:
+        raise LangError(f"Catalog bổ sung không khớp các mục: {missing_extra}")
     return patched, report
 
 
@@ -253,7 +325,9 @@ def command_patch(args: argparse.Namespace) -> None:
     if args.reference_client_lang:
         validate_shape(lang, load_client_lang(args.reference_client_lang))
     source = args.source.read_text(encoding="utf-8-sig")
-    patched, report = patch_source(source, lang)
+    patched, report = patch_source(
+        source, lang, load_extra_catalog(args.extra_catalog)
+    )
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(patched, encoding="utf-8", newline="\n")
     if args.report:
@@ -268,6 +342,7 @@ def command_patch(args: argparse.Namespace) -> None:
     print(
         "ActionScript: "
         f"khớp {report['matched_entries']}, đổi {report['changed_entries']}, "
+        f"catalog bổ sung {report['extra_catalog_matched']}, "
         f"còn Hán tự {len(report['residual_han_assignments'])} phép gán"
     )
     print(f"Mục ClientLang chưa có trong SWF: {len(report['missing_client_entries'])}")
@@ -290,6 +365,7 @@ def build_parser() -> argparse.ArgumentParser:
     patch = sub.add_parser("patch-source", help="Áp ClientLang vào lang/ZH_CN.as")
     patch.add_argument("--client-lang", type=Path, required=True)
     patch.add_argument("--reference-client-lang", type=Path)
+    patch.add_argument("--extra-catalog", type=Path, action="append")
     patch.add_argument("--source", type=Path, required=True)
     patch.add_argument("--output", type=Path, required=True)
     patch.add_argument("--report", type=Path)

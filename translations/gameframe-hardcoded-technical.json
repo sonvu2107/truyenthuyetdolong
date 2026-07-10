@@ -1,0 +1,1314 @@
+{
+  "format": 1,
+  "description": "Chuỗi Hán tự hard-code phải giữ nguyên vì là font, route, lệnh, khóa so sánh hoặc khóa tra cứu nội bộ.",
+  "entries": [
+    {
+      "path": "scripts/CommonUI/Button/Spec/Msg/MsgButton1.as",
+      "source_expression": "\"<font color=\\'#00cc33\\' size = \\'12\\' face=\\'宋体\\'>\"",
+      "expected": 3,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        136,
+        143,
+        147
+      ]
+    },
+    {
+      "path": "scripts/CommonUI/Button/Spec/Msg/MsgButton1.as",
+      "source_expression": "\"<font color=\\'#FFD987\\' size = \\'12\\' face=\\'宋体\\'>\"",
+      "expected": 3,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        102,
+        109,
+        113
+      ]
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/label/CustomBigLabel.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        12
+      ]
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/layouter/BaseUILayouter.as",
+      "source_expression": "\"<BR><FONT color=\\'#FF0000\\'>尚未连接UI布局数据服务器</FONT>\"",
+      "expected": 1,
+      "reasons": [
+        "khóa so sánh nội bộ"
+      ],
+      "lines": [
+        837
+      ]
+    },
+    {
+      "path": "scripts/assets/WeatherAssetManager.as",
+      "source_expression": "\"<font face=\\'黑体\\'size=\\'\"",
+      "expected": 1,
+      "reasons": [
+        "mảnh chuỗi tên font hệ thống"
+      ],
+      "lines": [
+        81
+      ]
+    },
+    {
+      "path": "scripts/common/RichTextTranslator.as",
+      "source_expression": "\"宋体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        186
+      ]
+    },
+    {
+      "path": "scripts/common/RichTextTranslator.as",
+      "source_expression": "\"隶书\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        178
+      ]
+    },
+    {
+      "path": "scripts/common/RichTextTranslator.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        182
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@show 全面战争\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        211
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@show 关闭全面战争\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        217
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@show 发喜糖\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        227
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@show 喜宴\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        222
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@show 获得经验\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        207
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@show 获得装备\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        203
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@打你妹\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        240
+      ]
+    },
+    {
+      "path": "scripts/control/controler/ChatCC.as",
+      "source_expression": "\"@打包物品cbp\"",
+      "expected": 1,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        240
+      ]
+    },
+    {
+      "path": "scripts/view/game/GameScene.as",
+      "source_expression": "\"<b><font color=\\'0x00ff00\\' face=\\'幼圆\\' size=\\'22\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        1223
+      ]
+    },
+    {
+      "path": "scripts/view/game/LandingReward/cell/LandingRewardCell1.as",
+      "source_expression": "\"黑体\"",
+      "expected": 3,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        116,
+        149,
+        165
+      ]
+    },
+    {
+      "path": "scripts/view/game/Raids/RaidsFailWin.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        78
+      ]
+    },
+    {
+      "path": "scripts/view/game/Raids/RaidsSuccessWin.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        69
+      ]
+    },
+    {
+      "path": "scripts/view/game/achieve/AchieveWin.as",
+      "source_expression": "\"<b><font face=\\'黑体\\' size=\\'20\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        329
+      ]
+    },
+    {
+      "path": "scripts/view/game/achieve/cell/AchieveListCell.as",
+      "source_expression": "\"<font color=\\'##00ff00\\' face=\\'黑体\\' size=\\'16\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        152
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/ActivePanel.as",
+      "source_expression": "\"<FONT face=\\'黑体\\' size=\\'16\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        56
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/ActivePanel2.as",
+      "source_expression": "\"<FONT face=\\'黑体\\' size=\\'16\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        150
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/ActivePanel2.as",
+      "source_expression": "\"<font size=\\'12\\' face=\\'宋体\\'>\"",
+      "expected": 4,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        175,
+        184,
+        212,
+        221
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/cell/ActiveBossrAppearCell.as",
+      "source_expression": "\"<font size = \\'18\\' face=\\'黑体\\' color=\\'#00cc33\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        89
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/cell/ActiveBossrAppearCell.as",
+      "source_expression": "\"<font size = \\'18\\' face=\\'黑体\\' color=\\'#ff33ff\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        84
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/cell/ActiveBossrAppearCell.as",
+      "source_expression": "\"<font size = \\'18\\' face=\\'黑体\\' color=\\'#ffff33\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        85
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/panel/ActiveBossTipsPane.as",
+      "source_expression": "\"<font face=\\'宋体\\' color=\\'#99ccff\\' size=\\'12\\' >\"",
+      "expected": 4,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        76,
+        80,
+        82,
+        83
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/panel/ActiveBossTipsPane.as",
+      "source_expression": "\"<font face=\\'宋体\\' color=\\'#ff9900\\' size=\\'12\\' >\"",
+      "expected": 5,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        76,
+        80,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/panel/ActiveBossTipsPane.as",
+      "source_expression": "\"<font face=\\'黑体\\' color=\\'#ffff33\\' size=\\'16\\' >\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        73
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/panel/ActiveItemPane.as",
+      "source_expression": "\"<font face=\\'宋体\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        258
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/panel/ActiveItemPane.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'15\\' color = \\'#33cc99\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        226
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/panel/ActiveItemPane.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'15\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        186
+      ]
+    },
+    {
+      "path": "scripts/view/game/active/panel/ActiveSmallItemPane.as",
+      "source_expression": "\"<font face = \\'宋体\\'>\"",
+      "expected": 7,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        105,
+        113,
+        121,
+        129,
+        148,
+        149,
+        162
+      ]
+    },
+    {
+      "path": "scripts/view/game/backpack/page/BackPackAuctionPage.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'20\\' color=\\'#FFCC00\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        196,
+        345
+      ]
+    },
+    {
+      "path": "scripts/view/game/backpack/page/BackPackPanicBuyPage.as",
+      "source_expression": "\"<font size=\\'20\\' face=\\'黑体\\' color=\\'#FF0000\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        343
+      ]
+    },
+    {
+      "path": "scripts/view/game/backpack/win/BagShopBigWin.as",
+      "source_expression": "\"<font size=\\'20\\' face=\\'黑体\\' color=\\'#FF0000\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        199
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityInfoPage.as",
+      "source_expression": "\"<font color=\\'#04e6e9\\' face=\\'黑体\\' size=\\'16\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        201
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityInfoPage.as",
+      "source_expression": "\"<font color=\\'#fffc05\\' face=\\'宋体\\' size=\\'14\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        186
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityInfoPage.as",
+      "source_expression": "\"<font color=\\'#fffc05\\' face=\\'宋体\\' size=\\'16\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        181,
+        183
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityOfficialPage.as",
+      "source_expression": "\"<font color=\\'#66ff33\\' face=\\'黑体\\' size=\\'14\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        325
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityOfficialPage.as",
+      "source_expression": "\"<font color=\\'#ff9933\\' size=\\'32\\' face=\\'隶书\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        404
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityOfficialPage.as",
+      "source_expression": "\"<font size=\\'18\\' face=\\'黑体\\' color=\\'#ffff66\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        219
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityOfficialPage.as",
+      "source_expression": "\"城主\"",
+      "expected": 1,
+      "reasons": [
+        "khóa so sánh nội bộ"
+      ],
+      "lines": [
+        278
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityOfficialPage.as",
+      "source_expression": "\"宋体\"",
+      "expected": 2,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        226,
+        325
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/win/CityAppointWin.as",
+      "source_expression": "\"城主\"",
+      "expected": 1,
+      "reasons": [
+        "khóa so sánh nội bộ"
+      ],
+      "lines": [
+        49
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/win/CytiOfficalResultWin.as",
+      "source_expression": "\"<font color=\\'#2d7a48\\' face=\\'宋体\\' size=\\'16\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        111
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/win/CytiOfficalResultWin.as",
+      "source_expression": "\"宋体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        115
+      ]
+    },
+    {
+      "path": "scripts/view/game/closedBetaTest/Panel/BlessingDownPanel2.as",
+      "source_expression": "\"@n你麻痹的！\"",
+      "expected": 2,
+      "reasons": [
+        "lệnh nội bộ bắt đầu bằng @"
+      ],
+      "lines": [
+        66,
+        72
+      ]
+    },
+    {
+      "path": "scripts/view/game/combineActive/combinedServicePane/CombinedServiceDLItem.as",
+      "source_expression": "\"黑体\"",
+      "expected": 2,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        101,
+        121
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/label/MultiLinkLabel.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        175
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/label/TitleLabel4.as",
+      "source_expression": "\"<b><font face=\\'黑体\\' size=\\'14\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        25
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/label/TitleLabel6.as",
+      "source_expression": "\"<b><font face=\\'黑体\\' >\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        41
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/panel/WinLoadingPanel.as",
+      "source_expression": "\"</font><font face = \\'黑体\\' size = \\'18\\' color=\\'#11F8E6\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        97
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/panel/WinLoadingPanel.as",
+      "source_expression": "\"</font><font face = \\'黑体\\' size = \\'18\\' color=\\'#11F8E6\\'>0%</font>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        89
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/panel/WinLoadingPanel.as",
+      "source_expression": "\"<font face = \\'黑体\\' size = \\'18\\' color=\\'#00ff00\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        89,
+        97
+      ]
+    },
+    {
+      "path": "scripts/view/game/equipBoost/pages/EquipBoostWingMixPage.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        95
+      ]
+    },
+    {
+      "path": "scripts/view/game/escortBelle/EscortBellePanel.as",
+      "source_expression": "\"<FONT face=\\'黑体\\' size=\\'18\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        73
+      ]
+    },
+    {
+      "path": "scripts/view/game/evaluate/page/BugPage.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'16\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        53,
+        66
+      ]
+    },
+    {
+      "path": "scripts/view/game/evaluate/page/BugPage.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'18\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        25,
+        39
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/cell/MedalItemCell.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        154
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/page/GodRingPage.as",
+      "source_expression": "\"<font size=\\'30\\' face=\\'黑体\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        68
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/page/MasonryPage.as",
+      "source_expression": "\"<font size=\\'30\\' face=\\'黑体\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        80
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/page/MasonryPage.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        169
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/page/MedalPage.as",
+      "source_expression": "\"<font size=\\'30\\' face=\\'黑体\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        49
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/View2/HeroInfoPanel2.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'16\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        65
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/page/EquipStrongPage.as",
+      "source_expression": "\"<font size = \\'18\\' color = \\'#ffff00\\' face = \\'黑体\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        324
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/page/EquipStrongPage.as",
+      "source_expression": "\"<font size = \\'18\\' color = \\'#ffffff\\' face = \\'黑体\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        165
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/page/EquipUpLevelPage.as",
+      "source_expression": "\"<font size = \\'18\\' color = \\'#ffff00\\' face = \\'黑体\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        274
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/panel/HeroSkillUpPanel.as",
+      "source_expression": "\"<font color=\\'#f0ff00\\' face=\\'黑体\\' size=\\'18\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        200
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/win/MagicDiamondWin.as",
+      "source_expression": "\"<b><font size=\\'18\\' face=\\'黑体\\' color=\\'#FFFF66\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        257,
+        269
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/win/MagicDiamondWin.as",
+      "source_expression": "\"<font size=\\'18\\' face=\\'黑体\\' color=\\'#00FF00\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        258,
+        270
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/win/heroSkillxxWin.as",
+      "source_expression": "\"<font color=\\'#f0ff00\\' face=\\'黑体\\' size=\\'18\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        105
+      ]
+    },
+    {
+      "path": "scripts/view/game/hundredserver/page/HundredServerRebatePage.as",
+      "source_expression": "\"<font size=\\'20\\' face=\\'黑体\\' color=\\'#FF0000\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        203
+      ]
+    },
+    {
+      "path": "scripts/view/game/itemrecycling/ItemRecyclingWin.as",
+      "source_expression": "\"黑体\"",
+      "expected": 3,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        90,
+        94,
+        97
+      ]
+    },
+    {
+      "path": "scripts/view/game/itemrecycling/ItemRecyclingWinI.as",
+      "source_expression": "\"黑体\"",
+      "expected": 2,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        119,
+        148
+      ]
+    },
+    {
+      "path": "scripts/view/game/itemrecycling/ItemRecyclingWinII.as",
+      "source_expression": "\"黑体\"",
+      "expected": 2,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        75,
+        87
+      ]
+    },
+    {
+      "path": "scripts/view/game/marry/MarrySendCandyWin.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        108
+      ]
+    },
+    {
+      "path": "scripts/view/game/marry/cell/MarryPartnerTitleCell.as",
+      "source_expression": "\"黑体\"",
+      "expected": 2,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "path": "scripts/view/game/marry/page/MarryTitlePage.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        120
+      ]
+    },
+    {
+      "path": "scripts/view/game/marry/panel/PartnerPanel.as",
+      "source_expression": "\"黑体\"",
+      "expected": 2,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        132,
+        143
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureBossPanel.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        37
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureGoldPanel.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        36
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureHaloPanel.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        38
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureWelfarePanel.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        33
+      ]
+    },
+    {
+      "path": "scripts/view/game/mysteryShop/MysteryShopItemCell.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'14\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        292
+      ]
+    },
+    {
+      "path": "scripts/view/game/mysteryShop/mysteryShopWin.as",
+      "source_expression": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#FF0000\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        307
+      ]
+    },
+    {
+      "path": "scripts/view/game/navigation/components/pane/ButtonCdPane.as",
+      "source_expression": "\"<font color=\\'#00ff00\\' face=\\'宋体\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        98
+      ]
+    },
+    {
+      "path": "scripts/view/game/navigation/components/pane/ButtonCdPane.as",
+      "source_expression": "\"<font color=\\'#ffff00\\' face=\\'宋体\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        56
+      ]
+    },
+    {
+      "path": "scripts/view/game/npc/NPCTalkWin.as",
+      "source_expression": "\"\\' face=\\'宋体\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "mảnh chuỗi tên font hệ thống"
+      ],
+      "lines": [
+        1116,
+        1123
+      ]
+    },
+    {
+      "path": "scripts/view/game/npc/NPCTalkWin.as",
+      "source_expression": "\"宋体\"",
+      "expected": 4,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        174,
+        189,
+        202,
+        235
+      ]
+    },
+    {
+      "path": "scripts/view/game/npc/components/FuncListItemRender.as",
+      "source_expression": "\"<u><font face=\\'宋体\\' size=\\'12\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        39
+      ]
+    },
+    {
+      "path": "scripts/view/game/openServiceActivity/cell/RechargePointExchangeCell.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'14\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        210
+      ]
+    },
+    {
+      "path": "scripts/view/game/openServiceActivity/pane/RechargeIntegral.as",
+      "source_expression": "\"<font size=\\'20\\' face=\\'黑体\\' color=\\'#FF0000\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        282
+      ]
+    },
+    {
+      "path": "scripts/view/game/rock/cell/RockHoleCell.as",
+      "source_expression": "\"<font face=\\'黑体\\' color=\\'#ff6633\\' size=\\'14\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        200
+      ]
+    },
+    {
+      "path": "scripts/view/game/rune/panel/RuneBasePanel.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'20\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        570
+      ]
+    },
+    {
+      "path": "scripts/view/game/secretary/panel/SecretaryItemPanel.as",
+      "source_expression": "\"宋体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        79
+      ]
+    },
+    {
+      "path": "scripts/view/game/shop/componentsII/ShopItemCell.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'14\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        245
+      ]
+    },
+    {
+      "path": "scripts/view/game/slg/SlgPKWin.as",
+      "source_expression": "\"<font face=\\'黑体\\' size=\\'14\\' color = \\'#f1d36e\\'><b>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        189,
+        194
+      ]
+    },
+    {
+      "path": "scripts/view/game/slg/components/SlgRankPanel.as",
+      "source_expression": "\"<font size=\\'14\\' face=\\'宋体\\' color = \\'#F200C1\\'>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        65,
+        77
+      ]
+    },
+    {
+      "path": "scripts/view/game/superGift/SuperGiftWin.as",
+      "source_expression": "\"<font face=\\'宋体\\' color=\\'#ffffff\\' size=\\'12\\'>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        284
+      ]
+    },
+    {
+      "path": "scripts/view/game/superGift/SuperGiftWin.as",
+      "source_expression": "\"<font face=\\'宋体\\' color=\\'#ffffff\\' size=\\'12\\'>************</font>\"",
+      "expected": 2,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        189,
+        288
+      ]
+    },
+    {
+      "path": "scripts/view/game/tlqd/page/ExchangeBossPage.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        73
+      ]
+    },
+    {
+      "path": "scripts/view/game/vip/VIPpage2.as",
+      "source_expression": "\"宋体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        93
+      ]
+    },
+    {
+      "path": "scripts/view/game/vip/pane/CommonVipPane.as",
+      "source_expression": "\"<textformat leading=\\'8\\'><font face=\\'宋体\\' size = \\'14\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        49
+      ]
+    },
+    {
+      "path": "scripts/view/game/vip/win/VipCopyByZhiZhunWin.as",
+      "source_expression": "\"宋体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        98
+      ]
+    },
+    {
+      "path": "scripts/view/game/vip/win/VipCopyWin.as",
+      "source_expression": "\"宋体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        48
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/components/WelFareWorldLeaf.as",
+      "source_expression": "\"宋体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        142
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WelFareLevelUpPage.as",
+      "source_expression": "\"黑体\"",
+      "expected": 3,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        84,
+        144,
+        636
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WelFareNoticePage.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        39
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WelFareSurprisePage1.as",
+      "source_expression": "\"黑体\"",
+      "expected": 8,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        137,
+        146,
+        243,
+        347,
+        352,
+        470,
+        516,
+        587
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WellFareLandingRewardPage.as",
+      "source_expression": "\"黑体\"",
+      "expected": 1,
+      "reasons": [
+        "tên font hệ thống"
+      ],
+      "lines": [
+        307
+      ]
+    },
+    {
+      "path": "scripts/view/game/yxhd/page/YXSurpriseGiftPage.as",
+      "source_expression": "\"<font size=\\'14\\' face=\\'黑体\\' color=\\'#FF0000\\'><b>\"",
+      "expected": 1,
+      "reasons": [
+        "font/route/markup kỹ thuật"
+      ],
+      "lines": [
+        145
+      ]
+    }
+  ]
+}

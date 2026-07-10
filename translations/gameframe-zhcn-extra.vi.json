@@ -1,0 +1,478 @@
+{
+  "format": 1,
+  "description": "Các mục mới hơn ClientLang gốc, ghép theo đúng tên biến/chỉ số và kiểm nguyên vế phải ActionScript.",
+  "translations": {
+    "skill[22]": {
+      "source_expression": "\"秒\"",
+      "target": "giây"
+    },
+    "skill[23]": {
+      "source_expression": "\"额外伤害加成:\"",
+      "target": "Sát thương cộng thêm:"
+    },
+    "skill[24]": {
+      "source_expression": "\"设置键盘快捷键\"",
+      "target": "Đặt phím tắt"
+    },
+    "skill[26]": {
+      "source_expression": "\"<font color = \\'#F3F328\\' size=\\'14\\'><b>修 炼</b></font>\"",
+      "target": "<font color = '#F3F328' size='14'><b>Tu Luyện</b></font>"
+    },
+    "skill[27]": {
+      "source_expression": "\"<font color = \\'#FFFF00\\'>$level$级$star$阶</font> 修炼剩余时间 \"",
+      "target": "<font color = '#FFFF00'>Cấp $level$ Bậc $star$</font> Thời gian tu luyện còn lại "
+    },
+    "skill[28]": {
+      "source_expression": "\"下一级\"",
+      "target": "Cấp tiếp theo"
+    },
+    "skill[29]": {
+      "source_expression": "\"返回\"",
+      "target": "Quay lại"
+    },
+    "skill[30]": {
+      "source_expression": "\"$job$技能\"",
+      "target": "Kỹ năng $job$"
+    },
+    "skill[31]": {
+      "source_expression": "\"剩余使用次数:\"",
+      "target": "Số lần sử dụng còn lại:"
+    },
+    "skill[32]": {
+      "source_expression": "\"剩余购买次数:\"",
+      "target": "Số lần mua còn lại:"
+    },
+    "skill[33]": {
+      "source_expression": "\"<font color = \\'#F3F328\\' size=\\'14\\'><b>清除冷却时间</b></font>\"",
+      "target": "<font color = '#F3F328' size='14'><b>Xóa Thời Gian Chờ</b></font>"
+    },
+    "skill[34]": {
+      "source_expression": "\"消费$value$元宝把修炼剩余时间清除\"",
+      "target": "Tiêu hao $value$ Nguyên Bảo để xóa thời gian tu luyện còn lại"
+    },
+    "skill[35]": {
+      "source_expression": "\"群\"",
+      "target": "Nhóm"
+    },
+    "skill[36]": {
+      "source_expression": "\"特殊技能\"",
+      "target": "Kỹ năng đặc biệt"
+    },
+    "skill[37]": {
+      "source_expression": "\"每次使用需要10元宝\"",
+      "target": "Mỗi lần dùng cần 10 Nguyên Bảo"
+    },
+    "skill[38]": {
+      "source_expression": "\"您获得免费技能:\"",
+      "target": "Bạn nhận được kỹ năng miễn phí:"
+    },
+    "skill[39]": {
+      "source_expression": "\"免费技能\"",
+      "target": "Kỹ năng miễn phí"
+    },
+    "skill[40]": {
+      "source_expression": "\"您获得一个 $value$ 状态！\"",
+      "target": "Bạn nhận được trạng thái $value$!"
+    },
+    "skill[41]": {
+      "source_expression": "\"<font color=\\'#FF0000\\'>用完</font>\"",
+      "target": "<font color='#FF0000'>Đã dùng hết</font>"
+    },
+    "skill[42]": {
+      "source_expression": "\"<font color=\\'#00FF00\\'>购买</font>\"",
+      "target": "<font color='#00FF00'>Mua</font>"
+    },
+    "skill[43]": {
+      "source_expression": "\"<font color=\\'#00FF00\\' size=\\'18\\'>你暂时没有获得特殊技能</font>\"",
+      "target": "<font color='#00FF00' size='18'>Bạn tạm thời chưa có kỹ năng đặc biệt</font>"
+    },
+    "skill[45]": {
+      "source_expression": "\"修 炼\"",
+      "target": "Tu Luyện"
+    },
+    "skill[46]": {
+      "source_expression": "\"清除冷却时间\"",
+      "target": "Xóa thời gian chờ"
+    },
+    "skill[47]": {
+      "source_expression": "\"购买技能\"",
+      "target": "Mua kỹ năng"
+    },
+    "Skill_View_Type[10]": {
+      "source_expression": "\"主动技能\"",
+      "target": "Kỹ năng chủ động"
+    },
+    "Skill_View_Type[11]": {
+      "source_expression": "\"被动技能\"",
+      "target": "Kỹ năng bị động"
+    },
+    "Skill_View_Type[12]": {
+      "source_expression": "\"特殊技能\"",
+      "target": "Kỹ năng đặc biệt"
+    },
+    "SkillHlp_TipsItems[9]": {
+      "source_expression": "\"<font color = \\'#F3F328\\'>当前必杀技等级:</font><font color = \\'#FFFFF\\'>($level$级$star$阶)</font>\"",
+      "target": "<font color = '#F3F328'>Cấp Tất Sát Kỹ hiện tại:</font><font color = '#FFFFF'>(Cấp $level$ Bậc $star$)</font>"
+    },
+    "SkillHlp_TipsItems[10]": {
+      "source_expression": "\"升级条件:\"",
+      "target": "Điều kiện nâng cấp:"
+    },
+    "SkillHlp_TipsItems[11]": {
+      "source_expression": "\"需要道具:\"",
+      "target": "Vật phẩm cần:"
+    },
+    "SkillHlp_TipsItems[12]": {
+      "source_expression": "\"需要时间:<font color = \\'#FFFF00\\'>$value$</font> 秒\"",
+      "target": "Thời gian cần:<font color = '#FFFF00'>$value$</font> giây"
+    },
+    "SkillHlp_TipsItems[13]": {
+      "source_expression": "\"熟 练 度:\"",
+      "target": "Độ thuần thục:"
+    },
+    "Nav_Button_Captios[25]": {
+      "source_expression": "\"星魂\"",
+      "target": "Tinh Hồn"
+    },
+    "Nav_Button_Captios[26]": {
+      "source_expression": "\"符文\"",
+      "target": "Phù Văn"
+    },
+    "Nav_Button_Captios[27]": {
+      "source_expression": "\"信\"",
+      "target": "Thư"
+    },
+    "Nav_Button_Captios[28]": {
+      "source_expression": "\"福\"",
+      "target": "Phúc"
+    },
+    "Nav_Button_Captios[29]": {
+      "source_expression": "\"评\"",
+      "target": "Đánh Giá"
+    },
+    "Nav_Button_Captios[30]": {
+      "source_expression": "\"怒\"",
+      "target": "Nộ"
+    },
+    "NavigationHlp_TipsName[42]": {
+      "source_expression": "\"星魂：ctrl+2\"",
+      "target": "Tinh Hồn: Ctrl+2"
+    },
+    "NavigationHlp_TipsName[43]": {
+      "source_expression": "\"符文：ctrl+S\"",
+      "target": "Phù Văn: Ctrl+S"
+    },
+    "NavigationHlp_TipsName[44]": {
+      "source_expression": "\"邮箱\"",
+      "target": "Hộp Thư"
+    },
+    "NavigationHlp_TipsName[45]": {
+      "source_expression": "\"福利\"",
+      "target": "Phúc Lợi"
+    },
+    "NavigationHlp_TipsName[46]": {
+      "source_expression": "\"战斗力评测\"",
+      "target": "Đánh Giá Chiến Lực"
+    },
+    "NavigationHlp_TipsName[47]": {
+      "source_expression": "\"自动使用怒气设置\"",
+      "target": "Cài đặt tự dùng Nộ Khí"
+    },
+    "NavigationHlp_TipsName[48]": {
+      "source_expression": "\"职业\"",
+      "target": "Nghề Nghiệp"
+    },
+    "NavigationHlp_TipsName[49]": {
+      "source_expression": "\"战斗模式\"",
+      "target": "Chế Độ Chiến Đấu"
+    },
+    "NavigationHlp_TipsName[50]": {
+      "source_expression": "\"活\"",
+      "target": "Hoạt"
+    },
+    "NavigationHlp_TipsName[51]": {
+      "source_expression": "\"佣兵：ctrl+3\"",
+      "target": "Dung Binh: Ctrl+3"
+    },
+    "NavigationHlp_TipsName[52]": {
+      "source_expression": "\"坐骑：ctrl+1\"",
+      "target": "Tọa Kỵ: Ctrl+1"
+    },
+    "NavigationHlp_TipsName[53]": {
+      "source_expression": "\"当前为走模式，点击可换成跑动模式\"",
+      "target": "Đang ở chế độ đi bộ, nhấp để chuyển sang chạy"
+    },
+    "NavigationHlp_TipsName[54]": {
+      "source_expression": "\"当前为跑动模式，点击可换成走模式\"",
+      "target": "Đang ở chế độ chạy, nhấp để chuyển sang đi bộ"
+    },
+    "NavigationHlp_TipsName[55]": {
+      "source_expression": "\"成功切换为跑动模式\"",
+      "target": "Đã chuyển sang chế độ chạy"
+    },
+    "NavigationHlp_TipsName[56]": {
+      "source_expression": "\"成功切换为走模式\"",
+      "target": "Đã chuyển sang chế độ đi bộ"
+    },
+    "NavigationHlp_TipsName[57]": {
+      "source_expression": "\"<font color=\\'#009cff\\'>$num$级</FONT>\"",
+      "target": "<font color='#009cff'>Cấp $num$</FONT>"
+    },
+    "NavigationHlp_TipsName[58]": {
+      "source_expression": "\",您可以去转生界面进行人物转生了\"",
+      "target": ", bạn có thể đến giao diện Chuyển Sinh để chuyển sinh nhân vật"
+    },
+    "NavigationHlp_TipsName[59]": {
+      "source_expression": "\"<font color=\\'#$color$\\'>$value$转$num$级</font>\"",
+      "target": "<font color='#$color$'>Chuyển $value$ Cấp $num$</font>"
+    },
+    "NavigationHlp_TipsName[60]": {
+      "source_expression": "\"<font color=\\'#ffffff\\'>$num$级</font>\"",
+      "target": "<font color='#ffffff'>Cấp $num$</font>"
+    },
+    "NavigationHlp_TipsName[61]": {
+      "source_expression": "\"，已达到最高等级\"",
+      "target": ", đã đạt cấp tối đa"
+    },
+    "LangBtnCaption[51]": {
+      "source_expression": "\"评价有奖\"",
+      "target": "Quà Đánh Giá"
+    },
+    "LangBtnCaption[52]": {
+      "source_expression": "\"签到\"",
+      "target": "Điểm Danh"
+    },
+    "LangBtnCaption[53]": {
+      "source_expression": "\"活跃度\"",
+      "target": "Năng Động"
+    },
+    "LangBtnCaption[54]": {
+      "source_expression": "\"经验找回\"",
+      "target": "Thu Hồi Kinh Nghiệm"
+    },
+    "LangBtnCaption[55]": {
+      "source_expression": "\"装备礼包\"",
+      "target": "Quà Trang Bị"
+    },
+    "LangBtnCaption[56]": {
+      "source_expression": "\"符文礼包\"",
+      "target": "Quà Phù Văn"
+    },
+    "LangBtnCaption[57]": {
+      "source_expression": "\"佣兵礼包\"",
+      "target": "Quà Dung Binh"
+    },
+    "LangBtnCaption[58]": {
+      "source_expression": "\"宝石礼包\"",
+      "target": "Quà Bảo Thạch"
+    },
+    "LangBtnCaption[59]": {
+      "source_expression": "\"坐骑礼包\"",
+      "target": "Quà Tọa Kỵ"
+    },
+    "LangBtnCaption[60]": {
+      "source_expression": "\"充值惊喜\"",
+      "target": "Bất Ngờ Nạp Thẻ"
+    },
+    "LangBtnCaption[61]": {
+      "source_expression": "\"10天主题活动\"",
+      "target": "Sự Kiện Chủ Đề 10 Ngày"
+    },
+    "LangBtnCaption[62]": {
+      "source_expression": "\"封测祝福\"",
+      "target": "Chúc Phúc Thử Nghiệm"
+    },
+    "LangBtnCaption[63]": {
+      "source_expression": "\"再充礼包\"",
+      "target": "Quà Nạp Lần Hai"
+    },
+    "LangBtnCaption[64]": {
+      "source_expression": "\"三充礼包\"",
+      "target": "Quà Nạp Lần Ba"
+    },
+    "LangBtnCaption[65]": {
+      "source_expression": "\"豪充礼包\"",
+      "target": "Quà Đại Nạp"
+    },
+    "LangBtnCaption[66]": {
+      "source_expression": "\"每日充值\"",
+      "target": "Nạp Mỗi Ngày"
+    },
+    "LangBtnCaption[67]": {
+      "source_expression": "\"城池争霸\"",
+      "target": "Tranh Bá Thành Trì"
+    },
+    "LangBtnCaption[68]": {
+      "source_expression": "\"挑战BOSS\"",
+      "target": "Khiêu Chiến BOSS"
+    },
+    "LangBtnCaption[69]": {
+      "source_expression": "\"邮件\"",
+      "target": "Thư"
+    },
+    "LangBtnCaption[70]": {
+      "source_expression": "\"诸神圣器\"",
+      "target": "Thánh Khí Chư Thần"
+    },
+    "LangBtnCaption[71]": {
+      "source_expression": "\"手机验证\"",
+      "target": "Xác Thực Điện Thoại"
+    },
+    "LangBtnCaption[72]": {
+      "source_expression": "\"装备回收\"",
+      "target": "Thu Hồi Trang Bị"
+    },
+    "LangBtnCaption[73]": {
+      "source_expression": "\"翅膀礼包\"",
+      "target": "Quà Cánh"
+    },
+    "LangBtnCaption[74]": {
+      "source_expression": "\"城战礼包\"",
+      "target": "Quà Công Thành"
+    },
+    "LangBtnCaption[75]": {
+      "source_expression": "\"世界文明\"",
+      "target": "Văn Minh Thế Giới"
+    },
+    "LangBtnCaption[76]": {
+      "source_expression": "\"获得装备\"",
+      "target": "Nhận Trang Bị"
+    },
+    "LangBtnCaption[77]": {
+      "source_expression": "\"获得经验\"",
+      "target": "Nhận Kinh Nghiệm"
+    },
+    "LangBtnCaption[78]": {
+      "source_expression": "\"某活动\"",
+      "target": "Sự Kiện"
+    },
+    "LangBtnCaption[79]": {
+      "source_expression": "\"时长奖励\"",
+      "target": "Thưởng Thời Lượng"
+    },
+    "LangBtnCaption[80]": {
+      "source_expression": "\"冲级礼包\"",
+      "target": "Quà Xung Cấp"
+    },
+    "LangBtnCaption[81]": {
+      "source_expression": "\"返利礼包\"",
+      "target": "Quà Hoàn Trả"
+    },
+    "LangBtnCaption[82]": {
+      "source_expression": "\"神装礼包\"",
+      "target": "Quà Thần Trang"
+    },
+    "LangBtnCaption[86]": {
+      "source_expression": "\"促销商城\"",
+      "target": "Cửa Hàng Khuyến Mãi"
+    },
+    "LangBtnCaption[87]": {
+      "source_expression": "\"挑战BOSS\"",
+      "target": "Khiêu Chiến BOSS"
+    },
+    "LangBtnCaption[100]": {
+      "source_expression": "\"时效坐骑\"",
+      "target": "Tọa Kỵ Thời Hạn"
+    },
+    "LangBtnCaption[102]": {
+      "source_expression": "\"挂机\"",
+      "target": "Treo Máy"
+    },
+    "LangBtnCaption[103]": {
+      "source_expression": "\"神秘商店\"",
+      "target": "Cửa Hàng Bí Ẩn"
+    },
+    "LangBtnCaption[104]": {
+      "source_expression": "\"恶魔宝窟\"",
+      "target": "Kho Báu Ác Ma"
+    },
+    "LangBtnCaption[105]": {
+      "source_expression": "\"双旦活动\"",
+      "target": "Sự Kiện Giáng Sinh - Năm Mới"
+    },
+    "LangBtnCaption[106]": {
+      "source_expression": "\"屠龙基金\"",
+      "target": "Quỹ Đồ Long"
+    },
+    "LangBtnCaption[107]": {
+      "source_expression": "\"官网签到\"",
+      "target": "Điểm Danh Trang Chủ"
+    },
+    "LangBtnCaption[109]": {
+      "source_expression": "\"超级会员\"",
+      "target": "Siêu Hội Viên"
+    },
+    "LangBtnCaption[110]": {
+      "source_expression": "\"幸运轮盘\"",
+      "target": "Vòng Quay May Mắn"
+    },
+    "LangBtnCaption[111]": {
+      "source_expression": "\"充值豪礼\"",
+      "target": "Quà Nạp Hậu Hĩnh"
+    },
+    "LangBtnCaption[112]": {
+      "source_expression": "\"百服主题活动\"",
+      "target": "Sự Kiện Chủ Đề Trăm Server"
+    },
+    "LangBtnCaption[113]": {
+      "source_expression": "\"加速球礼包\"",
+      "target": "Quà Cầu Tăng Tốc"
+    },
+    "LangBtnCaption[114]": {
+      "source_expression": "\"元宵活动\"",
+      "target": "Sự Kiện Nguyên Tiêu"
+    },
+    "LangBtnCaption[116]": {
+      "source_expression": "\"打宝\"",
+      "target": "Săn Báu"
+    },
+    "LangBtnCaption[117]": {
+      "source_expression": "\"精英打宝\"",
+      "target": "Săn Báu Tinh Anh"
+    },
+    "LangBtnCaption[118]": {
+      "source_expression": "\"资源找回\"",
+      "target": "Thu Hồi Tài Nguyên"
+    },
+    "LangBtnCaption[119]": {
+      "source_expression": "\"7天豪礼\"",
+      "target": "Quà 7 Ngày"
+    },
+    "LangBtnCaption[120]": {
+      "source_expression": "\"天关炼狱\"",
+      "target": "Luyện Ngục Thiên Quan"
+    },
+    "LangBtnCaption[122]": {
+      "source_expression": "\"挑战\"",
+      "target": "Khiêu Chiến"
+    },
+    "LangBtnCaption[123]": {
+      "source_expression": "\"充值回馈\"",
+      "target": "Hoàn Trả Nạp Thẻ"
+    },
+    "LangBtnCaption[125]": {
+      "source_expression": "\"平台抽奖\"",
+      "target": "Rút Thưởng Nền Tảng"
+    },
+    "LangBtnCaption[126]": {
+      "source_expression": "\"屠龙庆典\"",
+      "target": "Lễ Mừng Đồ Long"
+    },
+    "LangBtnCaption[127]": {
+      "source_expression": "\"迅雷会员\"",
+      "target": "Hội Viên Xunlei"
+    },
+    "LangBtnCaption[128]": {
+      "source_expression": "\"迅雷特权\"",
+      "target": "Đặc Quyền Xunlei"
+    },
+    "LangBtnCaption[129]": {
+      "source_expression": "\"迅雷盒子\"",
+      "target": "Hộp Xunlei"
+    },
+    "LangBtnCaption[130]": {
+      "source_expression": "\"豪礼乐不停\"",
+      "target": "Quà Vui Không Ngừng"
+    }
+  }
+}

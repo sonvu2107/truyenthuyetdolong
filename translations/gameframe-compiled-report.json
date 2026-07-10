@@ -3,11 +3,11 @@
   "client_lang_scalars": 132,
   "client_lang_arrays": 110,
   "source_assignments": 5921,
-  "source_han_assignments": 286,
-  "matched_entries": 3134,
-  "changed_entries": 244,
-  "extra_catalog_entries": 244,
-  "extra_catalog_matched": 244,
+  "source_han_assignments": 58,
+  "matched_entries": 2890,
+  "changed_entries": 772,
+  "extra_catalog_entries": 0,
+  "extra_catalog_matched": 0,
   "missing_client_entries": [
     "BagQuick[10]",
     "BagQuick[11]",
@@ -196,31 +196,31 @@
       "line": 297,
       "name": "Rune",
       "index": 6,
-      "value": "\"<font face='黑体' color='#d1bf75' size='18'>Kim Tệ:</font>\""
+      "value": "\"<font face=\\'黑体\\' color=\\'#d1bf75\\' size=\\'18\\'>Kim Tệ:</font>\""
     },
     {
       "line": 300,
       "name": "Rune",
       "index": 9,
-      "value": "\"<font face='黑体' size='18' color='#00ce88'>Thuộc tính</font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'18\\' color=\\'#00ce88\\'>Thuộc tính</font>\""
     },
     {
       "line": 302,
       "name": "Rune",
       "index": 11,
-      "value": "\"<font face='黑体' size='24' color='#cea500'>Master</font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'24\\' color=\\'#cea500\\'>Master</font>\""
     },
     {
       "line": 303,
       "name": "Rune",
       "index": 12,
-      "value": "\"<font face='黑体' size='18' color='#79ce00'> Phó </font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'18\\' color=\\'#79ce00\\'> Phó </font>\""
     },
     {
       "line": 305,
       "name": "Rune",
       "index": 14,
-      "value": "\"<font face='黑体' size='12'> requires $type$: $value$</font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'12\\'> requires $type$: $value$</font>\""
     },
     {
       "line": 1050,
@@ -232,7 +232,7 @@
       "line": 1321,
       "name": "map",
       "index": 14,
-      "value": "\"<b><font color='0xfdf7d9' face='黑体' size='25'>Bạn đã nhập $value$</font></b>\""
+      "value": "\"<b><font color=\\'0xfdf7d9\\' face=\\'黑体\\' size=\\'25\\'>Bạn đã nhập $value$</font></b>\""
     },
     {
       "line": 1473,
@@ -244,7 +244,7 @@
       "line": 1474,
       "name": "quest",
       "index": 71,
-      "value": "\"<IOBJ class='view.game.components.button.FastTransferButton' linkURL='f罗格营地:0:0:基德'></IOBJ>\" + \"<BR>\""
+      "value": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f罗格营地:0:0:基德\\'></IOBJ>\" + \"<BR>\""
     },
     {
       "line": 1495,
@@ -256,7 +256,7 @@
       "line": 1496,
       "name": "quest",
       "index": 93,
-      "value": "\"<IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:0:0:个人副本使者'></IOBJ>\""
+      "value": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:0:0:个人副本使者\\'></IOBJ>\""
     },
     {
       "line": 1498,
@@ -268,7 +268,7 @@
       "line": 1499,
       "name": "quest",
       "index": 96,
-      "value": "\"<IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:0:0:副本使者'></IOBJ>\""
+      "value": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:0:0:副本使者\\'></IOBJ>\""
     },
     {
       "line": 1501,
@@ -328,217 +328,217 @@
       "line": 3102,
       "name": "active",
       "index": 152,
-      "value": "\"<font size='16' face='黑体' color='#C7B26B'>100 máy chủ roulette may mắn</font>,<font size='16' face='黑体' color='#C7B26B'>Kho báu quý hiếm trong hàng trăm máy chủ</font>,<font size='16' face='黑体' color='#C7B26B'>Giảm giá trên 100 máy chủ Thương Thành</font>,<font size='16' face='黑体' color='#C7B26B'>Giải thưởng tiêu dùng Baifu</font>,<font size='16' face='黑体' color='#C7B26B'>Vua lửa thần đang đến</font>,<font size='16' face='黑体' color='#C7B26B'>Trận chiến thành phố đầu tiên gồm 100 máy chủ</font>\""
+      "value": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>100 máy chủ roulette may mắn</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Kho báu quý hiếm trong hàng trăm máy chủ</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Giảm giá trên 100 máy chủ Thương Thành</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Giải thưởng tiêu dùng Baifu</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Vua lửa thần đang đến</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Trận chiến thành phố đầu tiên gồm 100 máy chủ</font>\""
     },
     {
       "line": 3132,
       "name": "active",
       "index": 182,
-      "value": "\"<font size='16' face='黑体' color='#C7B26B'>100 máy chủ roulette may mắn</font>,<font size='16' face='黑体' color='#C7B26B'>Kho báu quý hiếm trong hàng trăm máy chủ</font>,<font size='16' face='黑体' color='#C7B26B'>Giảm giá trên 100 máy chủ Thương Thành</font>,<font size='16' face='黑体' color='#C7B26B'>Giải thưởng tiêu dùng Baifu</font>,<font size='16' face='黑体' color='#C7B26B'>Vua lửa thần đang đến</font>\""
+      "value": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>100 máy chủ roulette may mắn</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Kho báu quý hiếm trong hàng trăm máy chủ</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Giảm giá trên 100 máy chủ Thương Thành</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Giải thưởng tiêu dùng Baifu</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Vua lửa thần đang đến</font>\""
     },
     {
       "line": 3136,
       "name": "active",
       "index": 186,
-      "value": "\"<font size='16' face='黑体'> Haolilile không ngừng </font>\""
+      "value": "\"<font size=\\'16\\' face=\\'黑体\\'> Haolilile không ngừng </font>\""
     },
     {
       "line": 3228,
       "name": "vip",
       "index": 78,
-      "value": "\"<font face='宋体'> trở thành <font color='#F200C1'><font size='16'> Supreme </font>VIP</font> <br> có thể nhận <font color='#F200C1'> Supreme VIPGói Quà</font></font>\""
+      "value": "\"<font face=\\'宋体\\'> trở thành <font color=\\'#F200C1\\'><font size=\\'16\\'> Supreme </font>VIP</font> <br> có thể nhận <font color=\\'#F200C1\\'> Supreme VIPGói Quà</font></font>\""
     },
     {
       "line": 3236,
       "name": "vip",
       "index": 86,
-      "value": "\"<font face='宋体'> trở thành <font color='#00FF00'><font size='16'> Bạc </font>VIP<br> </font> có thể nhận bạc <font color='#00FF00'> VIPGói Quà</font></font>\""
+      "value": "\"<font face=\\'宋体\\'> trở thành <font color=\\'#00FF00\\'><font size=\\'16\\'> Bạc </font>VIP<br> </font> có thể nhận bạc <font color=\\'#00FF00\\'> VIPGói Quà</font></font>\""
     },
     {
       "line": 3237,
       "name": "vip",
       "index": 87,
-      "value": "\"<font face='宋体'> trở thành <font color='#0080FF'><font size='16'> vàng </font>VIP<br> </font> có thể nhận vàng <font color='#0080FF'> VIPGói Quà</font></font>\""
+      "value": "\"<font face=\\'宋体\\'> trở thành <font color=\\'#0080FF\\'><font size=\\'16\\'> vàng </font>VIP<br> </font> có thể nhận vàng <font color=\\'#0080FF\\'> VIPGói Quà</font></font>\""
     },
     {
       "line": 3336,
       "name": "shop",
       "index": 39,
-      "value": "\"<font face='黑体' size='16'>Hhạnh phúc<br>Game</font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'16\\'>Hhạnh phúc<br>Game</font>\""
     },
     {
       "line": 3699,
       "name": "welfare",
       "index": 82,
-      "value": "\"<font size='16' face = '黑体' color='#e0d482'><b> đã chia sẻ thành công $value$ lần </b></font>\""
+      "value": "\"<font size=\\'16\\' face = \\'黑体\\' color=\\'#e0d482\\'><b> đã chia sẻ thành công $value$ lần </b></font>\""
     },
     {
       "line": 4170,
       "name": "hero",
       "index": 309,
-      "value": "\"<A href='M屠龙城:0:0:装备回收'><font color='#00FF00' size='14'><u> Nhận giá trị linh hồn </u></font></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:37:30:装备回收'></IOBJ>\""
+      "value": "\"<A href=\\'M屠龙城:0:0:装备回收\\'><font color=\\'#00FF00\\' size=\\'14\\'><u> Nhận giá trị linh hồn </u></font></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:37:30:装备回收\\'></IOBJ>\""
     },
     {
       "line": 4452,
       "name": "escortBelle",
       "index": 31,
-      "value": "\"<font face='黑体' size='18'><b> Mỗi buổi chiều <br>17:00-17:30<br> là thời gian hộ tống gấp đôi <br> có thể nhận được gấp đôi Phần Thưởng</b></font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'18\\'><b> Mỗi buổi chiều <br>17:00-17:30<br> là thời gian hộ tống gấp đôi <br> có thể nhận được gấp đôi Phần Thưởng</b></font>\""
     },
     {
       "line": 5264,
       "name": "other",
       "index": 74,
-      "value": "\"<font face='黑体' size='14'>Chọn một phước lành </font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'14\\'>Chọn một phước lành </font>\""
     },
     {
       "line": 5277,
       "name": "other",
       "index": 87,
-      "value": "\"<font face='黑体' size='24'> Thần Tài tràn đầy phúc lành đến tặng quà khủng </font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'24\\'> Thần Tài tràn đầy phúc lành đến tặng quà khủng </font>\""
     },
     {
       "line": 5656,
       "name": "transmigration",
       "index": 26,
-      "value": "\"<font face='黑体' size = '20'>Chuyển Sinh Thành công </font>\""
+      "value": "\"<font face=\\'黑体\\' size = \\'20\\'>Chuyển Sinh Thành công </font>\""
     },
     {
       "line": 5995,
       "name": "marry",
       "index": 22,
-      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn hiện có <a href='event:1'><u> ảnh kỷ niệm thông thường </u></a></font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'18\\' color=\\'#FCEE67\\'>Bạn hiện có <a href=\\'event:1\\'><u> ảnh kỷ niệm thông thường </u></a></font>\""
     },
     {
       "line": 5996,
       "name": "marry",
       "index": 23,
-      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn hiện có <a href='event:2'><u> những bức ảnh kỷ niệm tinh tế </u></a></font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'18\\' color=\\'#FCEE67\\'>Bạn hiện có <a href=\\'event:2\\'><u> những bức ảnh kỷ niệm tinh tế </u></a></font>\""
     },
     {
       "line": 5997,
       "name": "marry",
       "index": 24,
-      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn hiện có <a href='event:3'><u> những bức ảnh kỷ niệm rực rỡ </u></a></font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'18\\' color=\\'#FCEE67\\'>Bạn hiện có <a href=\\'event:3\\'><u> những bức ảnh kỷ niệm rực rỡ </u></a></font>\""
     },
     {
       "line": 6019,
       "name": "marry",
       "index": 46,
-      "value": "\"Bạn có thể truy cập <font color='#00ff00'><A href='M圣城:232:126:爱神丘比特'> Cupid ở Thành phố Thánh </A></font> $func1$ để biết chi tiết\""
+      "value": "\"Bạn có thể truy cập <font color=\\'#00ff00\\'><A href=\\'M圣城:232:126:爱神丘比特\\'> Cupid ở Thành phố Thánh </A></font> $func1$ để biết chi tiết\""
     },
     {
       "line": 6025,
       "name": "marry",
       "index": 52,
-      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn chưa có ảnh kỷ niệm ngày cưới, hãy chụp càng sớm càng tốt</font>\""
+      "value": "\"<font face=\\'黑体\\' size=\\'18\\' color=\\'#FCEE67\\'>Bạn chưa có ảnh kỷ niệm ngày cưới, hãy chụp càng sớm càng tốt</font>\""
     },
     {
       "line": 6170,
       "name": "DemonTreasure",
       "index": 4,
-      "value": "\"Bản đồ treo cổ hoang dã không an toàn <font color='#999999'>: <A href='M干燥的高地:37:30:攻城龙兽'><font color='#33FF33'> vùng cao khô cằn </font></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f干燥的高地:37:30:攻城龙兽'></IOBJ>\""
+      "value": "\"Bản đồ treo cổ hoang dã không an toàn <font color=\\'#999999\\'>: <A href=\\'M干燥的高地:37:30:攻城龙兽\\'><font color=\\'#33FF33\\'> vùng cao khô cằn </font></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f干燥的高地:37:30:攻城龙兽\\'></IOBJ>\""
     },
     {
       "line": 6228,
       "name": "christAndYuanDan",
       "index": 13,
-      "value": "\"<font face='宋体' color='#fff000' size='13'><b> Hãy tham gia </b></font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#fff000\\' size=\\'13\\'><b> Hãy tham gia </b></font>\""
     },
     {
       "line": 6304,
       "name": "luckyTurntable",
       "index": 1,
-      "value": "\"<font face='黑体'><b> Vòng quay may mắn </b></font>\""
+      "value": "\"<font face=\\'黑体\\'><b> Vòng quay may mắn </b></font>\""
     },
     {
       "line": 6321,
       "name": "newYear",
       "index": 1,
-      "value": "\"Bạn có thể nhận <font face='黑体' color='#d1bf75' size='15'> bằng cách đăng nhập trong 3 ngày liên tiếp. Hiện tại, bạn có thể yêu cầu $num$ lần </font>.\""
+      "value": "\"Bạn có thể nhận <font face=\\'黑体\\' color=\\'#d1bf75\\' size=\\'15\\'> bằng cách đăng nhập trong 3 ngày liên tiếp. Hiện tại, bạn có thể yêu cầu $num$ lần </font>.\""
     },
     {
       "line": 6376,
       "name": "superGift",
       "index": 1,
-      "value": "\"<font face='黑体' size='24'><b>Nạp ThẻSố tiền tích lũy đạt $num$Nguyên Bảo, hãy tham gia </b></font> ngay lập tức\""
+      "value": "\"<font face=\\'黑体\\' size=\\'24\\'><b>Nạp ThẻSố tiền tích lũy đạt $num$Nguyên Bảo, hãy tham gia </b></font> ngay lập tức\""
     },
     {
       "line": 6377,
       "name": "superGift",
       "index": 2,
-      "value": "\"<font face='宋体' color='#ffff00' size='18'>ngay lập tứcNạp Thẻ→</font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffff00\\' size=\\'18\\'>ngay lập tứcNạp Thẻ→</font>\""
     },
     {
       "line": 6378,
       "name": "superGift",
       "index": 3,
-      "value": "\"<font face='宋体' color='#ffff00' size='18'> thêm showgirl sắc đẹp QQ để nhận </font><font face='宋体' color='#00ff00' size='18'> thành viên bí ẩn Gói Quà</font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffff00\\' size=\\'18\\'> thêm showgirl sắc đẹp QQ để nhận </font><font face=\\'宋体\\' color=\\'#00ff00\\' size=\\'18\\'> thành viên bí ẩn Gói Quà</font>\""
     },
     {
       "line": 6379,
       "name": "superGift",
       "index": 4,
-      "value": "\"<font face='宋体' color='#ffff00' size='14'> Ảnh dịch vụ khách hàng làm đẹp độc quyền </font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffff00\\' size=\\'14\\'> Ảnh dịch vụ khách hàng làm đẹp độc quyền </font>\""
     },
     {
       "line": 6380,
       "name": "superGift",
       "index": 5,
-      "value": "\"<font face='宋体' color='#ffff00' size='14'> Giới thiệu dịch vụ độc quyền dành cho thành viên Super </font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffff00\\' size=\\'14\\'> Giới thiệu dịch vụ độc quyền dành cho thành viên Super </font>\""
     },
     {
       "line": 6381,
       "name": "superGift",
       "index": 6,
-      "value": "\"<font face='宋体' color='#ffff00' size='12'>Q, hãy dùng thử và nhận Phần Thưởng</font> độc quyền\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffff00\\' size=\\'12\\'>Q, hãy dùng thử và nhận Phần Thưởng</font> độc quyền\""
     },
     {
       "line": 6382,
       "name": "superGift",
       "index": 7,
-      "value": "\"<font face='宋体' color='#ffff00' size='12'> showgirl độc quyềnQQ</font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffff00\\' size=\\'12\\'> showgirl độc quyềnQQ</font>\""
     },
     {
       "line": 6383,
       "name": "superGift",
       "index": 8,
-      "value": "\"<font face='宋体' color='#ffff00' size='12'>Click để sao chép </font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffff00\\' size=\\'12\\'>Click để sao chép </font>\""
     },
     {
       "line": 6384,
       "name": "superGift",
       "index": 9,
-      "value": "\"<font face='宋体' color='#ffffff' size='12'>1. Xác minh và điền thông tin: tên vai trò, máy chủ, số tiền Nạp Thẻ <br>2.QQ Sau khi xác minh thành công, bạn có thể tận hưởng dịch vụ cá nhân và độc quyền </font>\""
+      "value": "\"<font face=\\'宋体\\' color=\\'#ffffff\\' size=\\'12\\'>1. Xác minh và điền thông tin: tên vai trò, máy chủ, số tiền Nạp Thẻ <br>2.QQ Sau khi xác minh thành công, bạn có thể tận hưởng dịch vụ cá nhân và độc quyền </font>\""
     },
     {
       "line": 6407,
       "name": "baifu",
       "index": 9,
-      "value": "\"<b><font color='#ffffff' size='16'>Thử thách Hỏa Thần Vương Giới thiệu:<br>1. Trong sự kiện 100 máy chủ, Thiên Đường<font color='#FF9900' size='16'>BOSS Hỏa Thần Vương mạnh nhất</font>sẽ xuất hiện trong<br>   <A href='M屠龙城:197:167'><font color='#ff0000' size='16'><b>Đồ Long Thành phố (tọa độ: 197.167)</b></font></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:197:167'></IOBJ>phạm vi<br>2. Đánh bại Hỏa Thần Vương để nhận số tiền lớn Phần Thưởng<br>3. Sau cái chết của Hỏa Thần Vương, ngày hôm sau<font color='#00ff00' size='16'>13:30</font>Hồi Sinh</font><font color='#FF9900' size='16'><br><br><br><br>Cơ hội rơi:</font></b>\""
+      "value": "\"<b><font color=\\'#ffffff\\' size=\\'16\\'>Thử thách Hỏa Thần Vương Giới thiệu:<br>1. Trong sự kiện 100 máy chủ, Thiên Đường<font color=\\'#FF9900\\' size=\\'16\\'>BOSS Hỏa Thần Vương mạnh nhất</font>sẽ xuất hiện trong<br>   <A href=\\'M屠龙城:197:167\\'><font color=\\'#ff0000\\' size=\\'16\\'><b>Đồ Long Thành phố (tọa độ: 197.167)</b></font></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:197:167\\'></IOBJ>phạm vi<br>2. Đánh bại Hỏa Thần Vương để nhận số tiền lớn Phần Thưởng<br>3. Sau cái chết của Hỏa Thần Vương, ngày hôm sau<font color=\\'#00ff00\\' size=\\'16\\'>13:30</font>Hồi Sinh</font><font color=\\'#FF9900\\' size=\\'16\\'><br><br><br><br>Cơ hội rơi:</font></b>\""
     },
     {
       "line": 6457,
       "name": "yuanXiao",
       "index": 9,
-      "value": "\"<b><font color='#ffffff' size='16'>Thử thách Hắc Long Giới thiệu:\" + \"<br>1. Trong Lễ hội đèn lồng,<font color='#FF9900' size='16'>Xeon BOSS Rồng quỷ bóng tối</font>sẽ xuất hiện trong<br>   \" + \"<A href='M屠龙城:63:68'><font color='#ff0000' size='16'><b>Đồ Long Thành phố (tọa độ: 63,68)</b></font>\" + \"</A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:63:68'></IOBJ>phạm vi<br>   \" + \"2. Đánh bại Hắc Long để nhận số tiền cao Phần Thưởng<br>   \" + \"3. Rồng quỷ bóng tối<font color='#00ff00' size='16'>4 giờ</font>Làm mới một lần</font><font color='#FF9900' size='16'><br><br><br><br>Quái Vật Làm rơi:</font></b>\""
+      "value": "\"<b><font color=\\'#ffffff\\' size=\\'16\\'>Thử thách Hắc Long Giới thiệu:\" + \"<br>1. Trong Lễ hội đèn lồng,<font color=\\'#FF9900\\' size=\\'16\\'>Xeon BOSS Rồng quỷ bóng tối</font>sẽ xuất hiện trong<br>   \" + \"<A href=\\'M屠龙城:63:68\\'><font color=\\'#ff0000\\' size=\\'16\\'><b>Đồ Long Thành phố (tọa độ: 63,68)</b></font>\" + \"</A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:63:68\\'></IOBJ>phạm vi<br>   \" + \"2. Đánh bại Hắc Long để nhận số tiền cao Phần Thưởng<br>   \" + \"3. Rồng quỷ bóng tối<font color=\\'#00ff00\\' size=\\'16\\'>4 giờ</font>Làm mới một lần</font><font color=\\'#FF9900\\' size=\\'16\\'><br><br><br><br>Quái Vật Làm rơi:</font></b>\""
     },
     {
       "line": 6458,
       "name": "yuanXiao",
       "index": 10,
-      "value": "\"\" + \"<font color='#FF9900' size='16'>\" + \"<br><font color='#00ff00' size='16'>1、</font>Trong sự kiện này,người chơi Có sẵn tại<font color='#FFff00' size='16'>thành phố linh thiêng</font>bộ sưu tập<A href='M圣城:320:292'><b><font color='#ff0000' size='16'>[Ngọn lửa tình yêu]</font></b></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f圣城:320:292'></IOBJ>lấy<font color='#FF00ff' size='16'>[Thẻ tình yêu]</font>\" + \"<br><font color='#00ff00' size='16'>2、</font>người chơi thu thập một<font color='#FF0000' size='16'>[Ngọn lửa tình yêu]</font>Có thể lấy một cái<font color='#FF00ff' size='16'>[Thẻ tình yêu]</font>\" + \"<br><font color='#00ff00' size='16'>3、</font>đã thu thập<font color='#FF00ff' size='16'>[Thẻ tình yêu]</font>Giải thưởng có thể đổi\" + \"<br><font color='#00ff00' size='16'>4、</font>mỗi người chơi có<font color='#FFff00' size='16'>5 lần</font>số lần quy đổi\""
+      "value": "\"\" + \"<font color=\\'#FF9900\\' size=\\'16\\'>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>1、</font>Trong sự kiện này,người chơi Có sẵn tại<font color=\\'#FFff00\\' size=\\'16\\'>thành phố linh thiêng</font>bộ sưu tập<A href=\\'M圣城:320:292\\'><b><font color=\\'#ff0000\\' size=\\'16\\'>[Ngọn lửa tình yêu]</font></b></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f圣城:320:292\\'></IOBJ>lấy<font color=\\'#FF00ff\\' size=\\'16\\'>[Thẻ tình yêu]</font>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>2、</font>người chơi thu thập một<font color=\\'#FF0000\\' size=\\'16\\'>[Ngọn lửa tình yêu]</font>Có thể lấy một cái<font color=\\'#FF00ff\\' size=\\'16\\'>[Thẻ tình yêu]</font>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>3、</font>đã thu thập<font color=\\'#FF00ff\\' size=\\'16\\'>[Thẻ tình yêu]</font>Giải thưởng có thể đổi\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>4、</font>mỗi người chơi có<font color=\\'#FFff00\\' size=\\'16\\'>5 lần</font>số lần quy đổi\""
     },
     {
       "line": 6472,
       "name": "yuanXiao",
       "index": 200,
-      "value": "\"<font face='黑体' color='#d1bf75' size='15'> đã đăng nhập 5 ngày liên tục và sẽ nhận được thêm phần thưởng. </font> đã được đăng nhập trong $num$ ngày.\""
+      "value": "\"<font face=\\'黑体\\' color=\\'#d1bf75\\' size=\\'15\\'> đã đăng nhập 5 ngày liên tục và sẽ nhận được thêm phần thưởng. </font> đã được đăng nhập trong $num$ ngày.\""
     },
     {
       "line": 6554,
       "name": "tlqd",
       "index": 59,
-      "value": "\"<font size='16' face='黑体' color='#C7B26B'>Trao đổi kho báu</font>,<font size='16' face='黑体' color='#C7B26B'>siêu thời trang</font>,<font size='16' face='黑体' color='#C7B26B'>Tọa Kỵ trao đổi</font>,<font size='16' face='黑体' color='#C7B26B'>Ăn mừng BOSS</font>\""
+      "value": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Trao đổi kho báu</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>siêu thời trang</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Tọa Kỵ trao đổi</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>Ăn mừng BOSS</font>\""
     }
   ]
 }

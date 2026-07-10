@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "description": "Các lớp giữ nguyên bytecode gốc vì FFDec không thể tái biên dịch hoặc tạo mã khó decompile; chỉ chứa chuỗi debug/editor/lỗi nội bộ, không phải UI gameplay chính.",
+  "entries": [
+    {
+      "path": "scripts/CommonUI/baseUI/layouter/BaseUILayouter.as",
+      "reason": "FFDec báo Not a property or name tại cấu trúc with(IBaseUIComponent(...)); đây là UI editor/layout debug."
+    },
+    {
+      "path": "scripts/Logic/GameLogic.as",
+      "reason": "Bản tái biên dịch làm một method không thể decompile lại; các chuỗi được đề xuất thay chỉ là trace/debug bản đồ và thông báo lỗi nội bộ."
+    },
+    {
+      "path": "scripts/common/GameResource.as",
+      "reason": "Bản tái biên dịch làm một method không thể decompile lại; ba chuỗi được đề xuất thay chỉ là log/lỗi tài nguyên nội bộ."
+    }
+  ]
+}

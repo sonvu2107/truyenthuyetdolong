@@ -1,0 +1,1912 @@
+{
+  "client_lang_entries": 3069,
+  "client_lang_scalars": 132,
+  "client_lang_arrays": 110,
+  "source_assignments": 5921,
+  "source_han_assignments": 5652,
+  "matched_entries": 5509,
+  "changed_entries": 5486,
+  "extra_catalog_entries": 2619,
+  "extra_catalog_matched": 2619,
+  "missing_client_entries": [
+    "BagQuick[10]",
+    "BagQuick[11]",
+    "GameConst_Awards[8]",
+    "GameConst_Awards[9]",
+    "GameConst_MenuCaptions[0]",
+    "GameConst_MenuCaptions[1]",
+    "GameConst_MenuCaptions[2]",
+    "GameConst_MenuCaptions[3]",
+    "GameConst_MenuCaptions[4]",
+    "GameConst_MenuCaptions[5]",
+    "GameConst_MenuCaptions[6]",
+    "GameConst_MenuCaptions[7]",
+    "GameConst_MenuCaptions[8]",
+    "GameConst_MenuCaptions[9]",
+    "GameConst_MenuCaptions[10]",
+    "GameConst_MenuCaptions[11]",
+    "GameConst_MenuCaptions[12]",
+    "GameConst_MenuCaptions[13]",
+    "GameConst_MenuCaptions[14]",
+    "GameConst_MenuCaptions[15]",
+    "GameConst_MenuCaptions[16]",
+    "GameConst_MenuCaptions[17]",
+    "GameConst_MenuCaptions[18]",
+    "GameConst_MenuCaptions[19]",
+    "GameConst_MenuCaptions[20]",
+    "GameConst_MenuCaptions[21]",
+    "GameConst_MenuCaptions[22]",
+    "GameConst_MenuCaptions[23]",
+    "GameConst_MenuCaptions[24]",
+    "GameConst_MenuCaptions[25]",
+    "GameConst_MenuCaptions[26]",
+    "GameConst_MenuCaptions[27]",
+    "GameConst_MenuExtendCaptions[0]",
+    "GameConst_MenuExtendCaptions[1]",
+    "GameConst_MenuExtendCaptions[2]",
+    "GameConst_MenuExtendCaptions[3]",
+    "GameConst_MenuExtendCaptions[4]",
+    "GameConst_MoneyTipName[9]",
+    "GameConst_MoneyTypeName[8]",
+    "GameConst_MoneyTypeName[9]",
+    "GameConst_MonsterPositions[0]",
+    "GameConst_PKMenuCaptions[0]",
+    "GameConst_PKMenuCaptions[1]",
+    "GameConst_PKMenuCaptions[2]",
+    "GameConst_PKMenuCaptions[3]",
+    "GameConst_PKMenuCaptions[4]",
+    "HeroCardName[0]",
+    "HeroCardName[1]",
+    "HeroCardName[2]",
+    "HeroCardName[3]",
+    "ItemHlp_UseConds[0]",
+    "LangBtnCaption[0]",
+    "LangBtnCaption[1]",
+    "LangBtnCaption[2]",
+    "LangBtnCaption[3]",
+    "LangBtnCaption[4]",
+    "LangBtnCaption[5]",
+    "LangBtnCaption[6]",
+    "LangBtnCaption[7]",
+    "MarryName[0]",
+    "MarryName[1]",
+    "MarryName[2]",
+    "Nav_Button_Captios[0]",
+    "Nav_Button_Captios[3]",
+    "Nav_Button_Captios[12]",
+    "Skill_View_Type[0]",
+    "StarSoulHlp[33]",
+    "StarSoulHlp[34]",
+    "StarSoulHlp[35]",
+    "StarSoulHlp[36]",
+    "commonAttrName[127]",
+    "commonAttrName[128]",
+    "commonAttrName[129]",
+    "commonAttrName[130]",
+    "commonAttrName[131]",
+    "commonAttrName[132]",
+    "commonAttrName[133]",
+    "commonAttrName[134]",
+    "commonAttrName[135]",
+    "commonAttrName[136]",
+    "commonAttrName[137]",
+    "commonAttrName[138]",
+    "commonAttrName[139]",
+    "commonAttrName[140]",
+    "commonAttrName[141]",
+    "commonAttrName[142]",
+    "commonAttrName[143]",
+    "commonAttrName[144]",
+    "commonAttrName[145]",
+    "commonAttrName[146]",
+    "commonAttrName[147]",
+    "commonAttrName[148]",
+    "commonAttrName[149]",
+    "dream[2]",
+    "dream[3]",
+    "dream[4]",
+    "dream[5]",
+    "dream[7]",
+    "dream[8]",
+    "dream[12]",
+    "dream[13]",
+    "dream[14]",
+    "dream[15]",
+    "dream[18]",
+    "dream[24]",
+    "dream[25]",
+    "dream[26]",
+    "fanatic[0]",
+    "friendError[0]",
+    "friendError[1]",
+    "friendError[2]",
+    "friendError[3]",
+    "friendError[4]",
+    "friendError[5]",
+    "friendError[6]",
+    "friendError[7]",
+    "friendError[8]",
+    "friendError[9]",
+    "friendError[10]",
+    "friendError[11]",
+    "friendError[12]",
+    "friendError[13]",
+    "friendError[14]",
+    "friendError[15]",
+    "friendError[16]",
+    "friendError[17]",
+    "friendError[18]",
+    "friendError[19]",
+    "friendError[20]",
+    "oldPlayerBack[0]",
+    "oldPlayerBack[1]",
+    "oldPlayerBack[2]",
+    "oldPlayerBack[3]",
+    "oldPlayerBack[4]",
+    "oldPlayerBack[5]",
+    "oldPlayerBack[6]",
+    "oldPlayerBack[7]",
+    "oldPlayerBack[8]",
+    "oldPlayerBack[9]",
+    "oldPlayerBack[10]",
+    "oldPlayerBack[11]",
+    "oldPlayerBack[12]",
+    "oldPlayerBack[13]",
+    "oldPlayerBack[14]",
+    "oldPlayerBack[15]",
+    "oldPlayerBack[16]",
+    "oldPlayerBack[17]",
+    "oldPlayerBack[18]",
+    "oldPlayerBack[19]",
+    "oldPlayerBack[20]",
+    "oldPlayerBack[21]",
+    "oldPlayerBack[22]",
+    "phaseRecharge[2]",
+    "phaseRecharge[3]",
+    "serviceWar[42]",
+    "serviceWar[43]",
+    "serviceWar[44]",
+    "storage[0]",
+    "talisman[0]",
+    "talisman[1]",
+    "talisman[2]",
+    "talisman[3]",
+    "talisman[4]",
+    "talisman[5]",
+    "talisman[6]",
+    "talisman[7]",
+    "talisman[8]",
+    "talisman[9]",
+    "talisman[10]",
+    "talisman[11]",
+    "talisman[12]",
+    "talisman[13]",
+    "talisman[14]",
+    "talisman[15]",
+    "vip[0]",
+    "vip[2]",
+    "vip[3]",
+    "vip[4]",
+    "vip[5]",
+    "vip[6]",
+    "vip[8]"
+  ],
+  "residual_han_assignments": [
+    {
+      "line": 158,
+      "name": "starSoul",
+      "index": 0,
+      "value": "\"星魂值：\""
+    },
+    {
+      "line": 159,
+      "name": "starSoul",
+      "index": 1,
+      "value": "\"十二星宫\""
+    },
+    {
+      "line": 161,
+      "name": "starSoul",
+      "index": 3,
+      "value": "\"十二星宫，完成副本，击杀BOSS，公会活动，每日福利可以获得星魂值<BR>点亮本图后即可进入十二星宫地图，十二星宫可以获得高级勋章与星魂值<BR>每个星图的第五个点和第十个点都可以升到10级，并且可以激活勋章隐藏属性\""
+    },
+    {
+      "line": 213,
+      "name": "FightingReview",
+      "index": 20,
+      "value": "\"装备强化\""
+    },
+    {
+      "line": 214,
+      "name": "FightingReview",
+      "index": 21,
+      "value": "\"装备宝石\""
+    },
+    {
+      "line": 217,
+      "name": "FightingReview",
+      "index": 24,
+      "value": "\"佣兵技能\""
+    },
+    {
+      "line": 222,
+      "name": "FightingReview",
+      "index": 29,
+      "value": "\"符文合成\""
+    },
+    {
+      "line": 269,
+      "name": "Mail",
+      "index": 20,
+      "value": "\"<font color=\\'0xff0000\\'>玩家</font>\""
+    },
+    {
+      "line": 285,
+      "name": "LieMing",
+      "index": 21,
+      "value": "\"确定使用<font color=\\'#00ff00\\'>$value1$</font>吞噬<font color=\\'#ff0000\\'>$value2$</font><br>将获得经验：$value3$\""
+    },
+    {
+      "line": 297,
+      "name": "Rune",
+      "index": 6,
+      "value": "\"<font face=\\'黑体\\' color=\\'#d1bf75\\' size=\\'18\\'>金币:</font>\""
+    },
+    {
+      "line": 300,
+      "name": "Rune",
+      "index": 9,
+      "value": "\"<font face='黑体' size='18' color='#00ce88'>Thuộc tính</font>\""
+    },
+    {
+      "line": 302,
+      "name": "Rune",
+      "index": 11,
+      "value": "\"<font face='黑体' size='24' color='#cea500'>Master</font>\""
+    },
+    {
+      "line": 303,
+      "name": "Rune",
+      "index": 12,
+      "value": "\"<font face='黑体' size='18' color='#79ce00'> Phó </font>\""
+    },
+    {
+      "line": 305,
+      "name": "Rune",
+      "index": 14,
+      "value": "\"<font face='黑体' size='12'> requires $type$: $value$</font>\""
+    },
+    {
+      "line": 314,
+      "name": "Rune",
+      "index": 23,
+      "value": "\"重要提示：<BR>  3个同级任意符文精炼后随机<BR>获得一个同级符文。<br>  有机率精炼出极品属性\""
+    },
+    {
+      "line": 323,
+      "name": "Rune",
+      "index": 32,
+      "value": "\"合成\""
+    },
+    {
+      "line": 324,
+      "name": "Rune",
+      "index": 33,
+      "value": "\"符文商城\""
+    },
+    {
+      "line": 358,
+      "name": "Rune",
+      "index": 67,
+      "value": "\"放入任意符文或人物套装装备时熔炼可以获得金币<br>符文与套装的等级越高获得的金币越多<br>熔炼是有机率人品爆发额外获得经验、绑定金币、金币等<br>放入时请必确认好是否需要熔炼的符文或套装\""
+    },
+    {
+      "line": 378,
+      "name": "Rune",
+      "index": 87,
+      "value": "\"<A href=\\'@@showWin,6,2\\'><font color=\\'#00ff00\\'>商城</font></A>、<A href=\\'@@showWin,1100\\'><font color=\\'#00ff00\\'>传奇宝藏</font></A>、野外怪物死亡可获得符文\""
+    },
+    {
+      "line": 397,
+      "name": "Rune",
+      "index": 106,
+      "value": "\"装备符文\""
+    },
+    {
+      "line": 404,
+      "name": "Rune",
+      "index": 113,
+      "value": "\"2．双击或许拖拽已辨识符文，可将指<br>定的符文放置右侧符文框内\""
+    },
+    {
+      "line": 408,
+      "name": "Rune",
+      "index": 117,
+      "value": "\"2．双击或者拖拽已辨识符文，可将指<br>定的符文放置右侧符文框内\""
+    },
+    {
+      "line": 410,
+      "name": "Rune",
+      "index": 119,
+      "value": "\"4．精炼后的符文依然存在符文精炼栏<br>内，可通过以下操作将其放置回符文<br>包裹内：<br>双击该符文；<br>拖拽该符文至符文包裹内；<br>关闭符文精炼栏；\""
+    },
+    {
+      "line": 679,
+      "name": "GameConst_HeroJobNames",
+      "index": 0,
+      "value": "\"全类型\""
+    },
+    {
+      "line": 684,
+      "name": "GameConst_HeroJobNames",
+      "index": 0,
+      "value": "\"全\""
+    },
+    {
+      "line": 685,
+      "name": "GameConst_HeroJobNames",
+      "index": 0,
+      "value": "\"防\""
+    },
+    {
+      "line": 686,
+      "name": "GameConst_HeroJobNames",
+      "index": 0,
+      "value": "\"攻\""
+    },
+    {
+      "line": 728,
+      "name": "GameConst_MenuCaptions",
+      "index": null,
+      "value": "[\"查看装备\",\"查看资料\",\" 交    易\",\" 私    聊\",\"加为好友\",\"邀请组队\",\"申请入队\",\"复制名称\",\"邀请切磋\",\"查看摆摊\",\"邀请入会\",\"话框聊天\",\"收为徒弟\",\" 赠    送\",\"屏蔽发言\",\"踢出队伍\",\"委任队长\",\"删除好友\",\"删除仇人\",\"添加仇人\",\"查看名片\",\"拜其为师\",\"收其为徒\",\" 拥    吻\",\"GM会话框\",\"召唤队友\",\"赠送鞭炮\",\"赠送红包\",\"话框聊天 \"]"
+    },
+    {
+      "line": 729,
+      "name": "GameConst_MenuExtendCaptions",
+      "index": null,
+      "value": "[\"\",\"拥吻\",\"飞吻\",\"赞美\",\"整蛊\"]"
+    },
+    {
+      "line": 730,
+      "name": "GameConst_PKMenuCaptions",
+      "index": null,
+      "value": "[\"<font color=\\'#00CC00\\'>和平,不对任何玩家造成伤害</font>\",\"<font color=\\'#7447D1\\'>队伍,对队伍外的玩家造成伤害</font>\",\"<font color=\\'#006CD9\\'>行会,对行会外的玩家造成伤害</font>\",\"<font color=\\'#CC0000\\'>善恶,只对红名与褐名玩家造成伤害</font>\",\"<font color=\\'#FFCC00\\'>全体,对任何玩家都能造成伤害</font>\"]"
+    },
+    {
+      "line": 731,
+      "name": "GameConst_ScreenCaptions",
+      "index": null,
+      "value": "[\"<font color=\\'#00CC00\\'>   隐藏全部玩家</font>\",\"<font color=\\'#7447D1\\'>   隐藏同行会玩家</font>\",\"<font color=\\'#006CD9\\'>   隐藏同队伍玩家</font>\",\"<font color=\\'#CC0000\\'>   隐藏技能特效</font>\",\"<font color=\\'#FFCC00\\'>   隐藏人物光效</font>\",\"<font color=\\'#FFCC00\\'>   隐藏称号</font>\",\"<font color=\\'#FFCC00\\'>   隐藏行会名称</font>\",\"<font color=\\'#FFCC00\\'>   隐藏怪物</font>\"]"
+    },
+    {
+      "line": 840,
+      "name": "GameConst_Awards",
+      "index": 11,
+      "value": "\"星魂值\""
+    },
+    {
+      "line": 841,
+      "name": "GameConst_Awards",
+      "index": 12,
+      "value": "\"绑定金币\""
+    },
+    {
+      "line": 892,
+      "name": "beachGril",
+      "index": 3,
+      "value": "\"<font color=\\'#82817f\\'>本宝贝能使您获得</font><font color=\\'#b08b61\\'>$exp$%的经验奖励</font><font color=\\'#82817f\\'>加成，并且能与<br>您：</font><font color=\\'#b08b61\\'>$huodong$</font>\""
+    },
+    {
+      "line": 921,
+      "name": "role",
+      "index": 10,
+      "value": "\"战士\\t\\t\\t 法师             道士\""
+    },
+    {
+      "line": 1050,
+      "name": "property",
+      "index": 21,
+      "value": "\"  Bạn chưa nhận Anh Hùng, có thể đến <BR><A href='M屠龙城:0:0:Anh Hùng Đặc Sứ'>Anh Hùng Đặc Sứ</A> $func1$  để nhận Anh Hùng\""
+    },
+    {
+      "line": 1062,
+      "name": "property",
+      "index": 33,
+      "value": "\"符文合成\""
+    },
+    {
+      "line": 1067,
+      "name": "property",
+      "index": 38,
+      "value": "\"金币\""
+    },
+    {
+      "line": 1074,
+      "name": "property",
+      "index": 50,
+      "value": "\"星魂\""
+    },
+    {
+      "line": 1075,
+      "name": "property",
+      "index": 51,
+      "value": "\"<textformat leading=\\'4\\'><font color=\\'#cc9933\\'>\" + \"体力: <font color=\\'#cccccc\\'>$value$/$value$</font><br>\" + \"法力: <font color=\\'#cccccc\\'>$value$/$value$</font>\" + \"</font></textformat>\""
+    },
+    {
+      "line": 1080,
+      "name": "property",
+      "index": 56,
+      "value": "\"符文\""
+    },
+    {
+      "line": 1083,
+      "name": "property",
+      "index": 59,
+      "value": "\"行会: \""
+    },
+    {
+      "line": 1085,
+      "name": "property",
+      "index": 61,
+      "value": "\"<(c0xFF00FF00)酷炫时装> có thể được mua từ <(c0xFF00FF00)商城中的个性装备>. Nhấp vào nút này để mở <(c0xFF00FF00)个性装备界面>.\""
+    },
+    {
+      "line": 1091,
+      "name": "property",
+      "index": 67,
+      "value": "\"<font color=\\'#00FF00\\'>受到伤害时会减少生命值,生命值少于0时人物会死亡</font>;\" + \"<font color=\\'#00FF00\\'>施放技能时候需要消耗魔法值</font>;\" + \";\" + \"<font color=\\'#00FF00\\'>直接增加对</font><font color=\\'#ffcc00\\'>【怪物】</font><font color=\\'#00FF00\\'>的伤害</font>;\" + \"<font color=\\'#00FF00\\'>达到满级后可以转生,转生时候需要消耗一定的转生灵魄</font>;\" + \"<font color=\\'#00FF00\\'>增加法术命中几率，仅与</font><font color=\\'#ffcc00\\'>【魔法闪避】</font><font color=\\'#00FF00\\'>对抗，不能增加<br>\" + \"由于</font><font color=\\'#ffcc00\\'>【准确】</font><font color=\\'#00FF00\\'>不足带来的</font><font color=\\'#ffcc00\\'>【失手率】</font>;\" + \"<font color=\\'#00FF00\\'>增加对于魔法与道术技能的的闪避<br>几率。仅与</font><font color=\\'#ffcc00\\'>【魔法命中】</font><font color=\\'#00FF00\\'><br>\" + \"对抗,不能增加由于</font><font color=\\'#ffcc00\\'>【敏捷】</font><font color=\\'#00FF00\\'>不足带来的</font><font color=\\'#ffcc00\\'>【闪避率】</font>;\" + \"<font color=\\'#00FF00\\'>增加对于中毒效果（道士的红、绿<br>\" + \"毒，麻痹毒等）的闪避几率</font>;\" + \"<font color=\\'#00FF00\\'>百分比增加生命值的恢复速度</font>;\" + \"<font color=\\'#00FF00\\'>百分比增加魔法值的复速度</font>;\" + \"<font color=\\'#00FF00\\'>百分比减少自身中毒的时间</font>;\" + \"<font color=\\'#00FF00\\'>只要拥有1%或以上的</font><font color=\\'#ffcc00\\'>【死亡回复】</font><font color=\\'#00FF00\\'>，都可以在死亡后马上复活，冷却时间<br>\" + \"是1分钟。同时，</font><font color=\\'#ffcc00\\'>【<死亡回复】</font><font color=\\'#00FF00\\'>的数值表示复活后的生命回复到多少</font>;\" + \"<font color=\\'#00FF00\\'>每一点</font><font color=\\'#ffcc00\\'>【麻痹几率】</font><font color=\\'#00FF00\\'>都会增加1%几率使得在物理攻击时候<br>\" + \"令目标麻痹5秒。麻痹后不能移动、不能使用技能</font>;\" + \"<font color=\\'#00FF00\\'>移动速度显示属性数值越小，移动速度越快</font>;\" + \"<font color=\\'#00FF00\\'>攻击速度显示属性数值越小，攻击速度越快</font>;\" + \"<font color=\\'#00FF00\\'>每1%</font><font color=\\'#ffcc00\\'>【魔法法值抵消伤害】</font><font color=\\'#00FF00\\'>会都使<br>\" + \"得受到伤害的1%变成扣除</font><font color=\\'#ffcc00\\'>【魔法值】</font>;\""
+    },
+    {
+      "line": 1142,
+      "name": "Prop_EquipPosNames",
+      "index": 200,
+      "value": "\"符文\""
+    },
+    {
+      "line": 1218,
+      "name": "bag",
+      "index": 70,
+      "value": "\"背包道具\""
+    },
+    {
+      "line": 1234,
+      "name": "bag",
+      "index": 86,
+      "value": "\"　　　　需要<font color=\\'#FFFF00\\'>$money$元宝</font><br>（或者<font color=\\'#FFFF00\\'>$value$</font>个仓库开启卷轴）\""
+    },
+    {
+      "line": 1248,
+      "name": "bag",
+      "index": 100,
+      "value": "\"<font letterspacing=\\'0\\'>元宝</font>\""
+    },
+    {
+      "line": 1249,
+      "name": "bag",
+      "index": 101,
+      "value": "\"<font letterspacing=\\'0\\'>金币</font>\""
+    },
+    {
+      "line": 1250,
+      "name": "bag",
+      "index": 102,
+      "value": "\"<font letterspacing=\\'0\\'>绑定金币</font>\""
+    },
+    {
+      "line": 1252,
+      "name": "bag",
+      "index": 104,
+      "value": "\"<font color=\\'#ff0000\\'>40级以上装备可以在屠龙城<br>NPC处兑换为神魂值</font>\""
+    },
+    {
+      "line": 1321,
+      "name": "map",
+      "index": 14,
+      "value": "\"<b><font color='0xfdf7d9' face='黑体' size='25'>Bạn đã nhập $value$</font></b>\""
+    },
+    {
+      "line": 1396,
+      "name": "rank",
+      "index": 23,
+      "value": "\"战士,法师,道士\""
+    },
+    {
+      "line": 1470,
+      "name": "quest",
+      "index": 67,
+      "value": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"首充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>任意元宝，可获得\""
+    },
+    {
+      "line": 1471,
+      "name": "quest",
+      "index": 68,
+      "value": "\"<首充礼包/@@showWin,34>\""
+    },
+    {
+      "line": 1472,
+      "name": "quest",
+      "index": 69,
+      "value": "\"<Font color=\\'#ffff00\\'>\" + \"<font color=\\'#ff00ff\\'>[经验]</font>\" + \"护送任务\" + \"</Font>\""
+    },
+    {
+      "line": 1473,
+      "name": "quest",
+      "index": 70,
+      "value": "\"<(接任务)/M罗格营地:0:0:基德>\""
+    },
+    {
+      "line": 1474,
+      "name": "quest",
+      "index": 71,
+      "value": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f罗格营地:0:0:基德\\'></IOBJ>\" + \"<BR>\""
+    },
+    {
+      "line": 1476,
+      "name": "quest",
+      "index": 73,
+      "value": "\"<font color=\\'#3399ff\\'>[活动]</font><Font color=\\'#ffff66\\'>$num$</Font><A href=\\'event:1\\'><font color=\\'#00cc33\\'>查看</font></A>\""
+    },
+    {
+      "line": 1480,
+      "name": "quest",
+      "index": 77,
+      "value": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"再充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>充值2000元宝，可获得\""
+    },
+    {
+      "line": 1481,
+      "name": "quest",
+      "index": 78,
+      "value": "\"<再充礼包/@@showWin,34>\""
+    },
+    {
+      "line": 1482,
+      "name": "quest",
+      "index": 79,
+      "value": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"三充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>充值3000元宝，可获得\""
+    },
+    {
+      "line": 1483,
+      "name": "quest",
+      "index": 80,
+      "value": "\"<三充礼包/@@showWin,34>\""
+    },
+    {
+      "line": 1484,
+      "name": "quest",
+      "index": 81,
+      "value": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"豪充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>充值5000元宝，可获得\""
+    },
+    {
+      "line": 1485,
+      "name": "quest",
+      "index": 82,
+      "value": "\"<豪充礼包/@@showWin,34>\""
+    },
+    {
+      "line": 1486,
+      "name": "quest",
+      "index": 83,
+      "value": "\"|<提升坐骑/@@showWin,81>|<鉴定符文/@@showWin,1004>|<组建队伍/@@showWin,30>|<添加好友/@@showWin,24>|<强化装备/@@showWin,5,0>|<鉴定装备/@@showWin,5,2>|<升级装备/@@showWin,5,1>\""
+    },
+    {
+      "line": 1492,
+      "name": "quest",
+      "index": 89,
+      "value": "\"<font color=\\'#ffff00\\'><font color=\\'#ff00ff\\'>[经验]</font>日常任务</font><A href=\\'@@showWin,1009\\'><font color=\\'#00ff00\\'>(接任务)</font></A>\""
+    },
+    {
+      "line": 1493,
+      "name": "quest",
+      "index": 90,
+      "value": "\"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>送发光神器+10</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>,\" + \"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>送霸气坐骑</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>,\" + \"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>送属性</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>,\" + \"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>坐骑升5星、宝石、高级装备</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>\""
+    },
+    {
+      "line": 1494,
+      "name": "quest",
+      "index": 91,
+      "value": "\"<挑战暗黑BOSS/@@showWin,1094>\""
+    },
+    {
+      "line": 1495,
+      "name": "quest",
+      "index": 92,
+      "value": "\"Tìm kiếm Đồ Long cá nhân thành phố Phó Bản tin nhắn <(接任务)/M屠龙城:0:0:个人副本使者>\""
+    },
+    {
+      "line": 1496,
+      "name": "quest",
+      "index": 93,
+      "value": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:0:0:个人副本使者\\'></IOBJ>\""
+    },
+    {
+      "line": 1498,
+      "name": "quest",
+      "index": 95,
+      "value": "\"Đang tìm kiếm Đồ Long thành phố Phó Bản tin nhắn <(接任务)/M屠龙城:0:0:副本使者>\""
+    },
+    {
+      "line": 1499,
+      "name": "quest",
+      "index": 96,
+      "value": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:0:0:副本使者\\'></IOBJ>\""
+    },
+    {
+      "line": 1500,
+      "name": "quest",
+      "index": 97,
+      "value": "\"<font color=\\'#ff00ff\\'>[装备、经验]</font>\""
+    },
+    {
+      "line": 1501,
+      "name": "quest",
+      "index": 98,
+      "value": "\"Tìm <副本使者/M屠龙城:0:0:副本使者>\""
+    },
+    {
+      "line": 1503,
+      "name": "quest",
+      "index": 100,
+      "value": "\"Tìm <个人副本/M屠龙城:0:0:个人副本使者>\""
+    },
+    {
+      "line": 1504,
+      "name": "quest",
+      "index": 101,
+      "value": "\"<勇闯奶牛副本/M屠龙城:0:0:副本使者>\""
+    },
+    {
+      "line": 1506,
+      "name": "quest",
+      "index": 103,
+      "value": "\"<font color=\\'#ff00ff\\'>[金币]</font>\""
+    },
+    {
+      "line": 1507,
+      "name": "quest",
+      "index": 104,
+      "value": "\"<font color=\\'#ff00ff\\'>[经验]</font>\""
+    },
+    {
+      "line": 1558,
+      "name": "team",
+      "index": 19,
+      "value": "\"[Tuyển đồng đội] $num$ nhanh như $num$, vẫn còn vị trí $num$ trong đội. <申请加入/j1,$num$>\""
+    },
+    {
+      "line": 1757,
+      "name": "equipBoost",
+      "index": 162,
+      "value": "\"<font color=\\'#FFFF33\\'>强化+$value$</font>\""
+    },
+    {
+      "line": 1762,
+      "name": "equipBoost",
+      "index": 167,
+      "value": "\"1、70级以上的装备才能进行转生锻造；<br>2、转生锻造需要消耗一定的材料；<br>3、转生锻造装备会保留装备的极品、强化、鉴定属性；<br>4、只有武器与套装才可以进行转生锻造。\""
+    },
+    {
+      "line": 1763,
+      "name": "equipBoost",
+      "index": 168,
+      "value": "\"1、多个低阶道具可以合成更高一级的道具；<br>2、合成成功率为100%；<br>3、合成需要消耗一定的金币。\""
+    },
+    {
+      "line": 1764,
+      "name": "equipBoost",
+      "index": 169,
+      "value": "\"1、可以将宝石转换为其他属性的宝石；<br>2、转换不会降低宝石的等级；<br>3、转换需要消耗一定的金币；<br>4、转换成功率为100%。\""
+    },
+    {
+      "line": 1765,
+      "name": "equipBoost",
+      "index": 170,
+      "value": "\"1、极品转移可以将一件装备的极品属性转移到指定装备上；<br>2、只有同一部位的装备才能进行转移；<br>3、目标装备如果已经带有极品属性，转移后原有的极品属性会被覆盖；<br>4、材料装备在完成极品属性转移后，会消失。\""
+    },
+    {
+      "line": 1799,
+      "name": "equipBoost",
+      "index": 204,
+      "value": "\"1.宝石可直接在<font color = \\'#00FF00\\'>商城</font>购买获得<br>2.宝石可通过挑战<font color = \\'#00FF00\\'>英雄史册</font>获得<br>3.宝石可通过击杀<font color = \\'#00FF00\\'>个人boss、地图boss、世界boss</font>获得\""
+    },
+    {
+      "line": 1885,
+      "name": "friend",
+      "index": 54,
+      "value": "\"Chú ý: Mỗi người chơi tối đa có thể cùng 4 người Nghĩa Kết Kim Lan, có thể gọi lẫn nhau. Có thể đến <A href='M屠龙城:0:0:战场指挥官'>Đồ Long Thành Chiến Trường Chỉ Huy Quan</A> $func1$ để Kết Bái, sửa danh hiệu, thêm người mới v.v.\""
+    },
+    {
+      "line": 1892,
+      "name": "friend",
+      "index": 61,
+      "value": "\"Chú ý: Cấp bậc phải đạt 20 trở lên mới có thể Kết Hôn, mỗi người chơi tối đa có 1 Đạo Lữ, có thể gọi lẫn nhau. Có thể đến <A href='M王城:0:0:梦飞'>Vương Thành Mộng Phi</A> $func1$ để biết thêm chi tiết\""
+    },
+    {
+      "line": 1906,
+      "name": "friend",
+      "index": 75,
+      "value": "\"Đồ Đệ thăng cấp tới <(c0xFFFFD700)Cấp 70>, và cùng Sư Phụ có <(c0xFF7CFC00)Độ Thân Mật đạt 10000> liền có thể đến Đồ Long Thành <Sư Đồ Quản Lý Viên/M屠龙城:0:0:师徒管理员> <(x屠龙城:0:0:师徒管理员)> nhận phần thưởng Xuất Sư\\\\   Sư Phụ: Thưởng <(c0xFF7CFC00)Điểm Mị Lực/Điểm Soái Khí, Chuyển Sinh Linh Phách, Nguyên Bảo>\\\\   Đồ Đệ: Thưởng <(c0xFF7CFC00)Hoan Lạc Đậu, Chuyển Sinh Linh Phách>\\\\\""
+    },
+    {
+      "line": 1927,
+      "name": "friend",
+      "index": 96,
+      "value": "\"结婚条件：<BR>\" + \"1、等级20级以上，2人组队，1男1女<BR>\" + \"2、结婚时，2人必须在爱神丘比特附近<BR>\" + \"3、需要消耗一定的金钱\""
+    },
+    {
+      "line": 1929,
+      "name": "friendError",
+      "index": null,
+      "value": "[\"没有错误\",\"用户不存在\",\"群不存在\",\"好友数已达上限\",\"群数量已达上限\",\"你已经在此群内\",\"群成员已满\",\"方的设置中禁止进行此操作\",\"服务器内部错误\",\"不能离开自己的群\",\"对方不在线时不能进行此操作\",\"对方群数量已达上限\",\"对方群成员已满\",\"你不能对自己使用此功能\",\"对方好友数量已满\",\"黑名单数量已满\",\"对方仅允许好友加入群\",\"对方仅允许好友邀请加入群\",\"对方禁止加入任何群\",\"对方禁止被加为好友\",\"对方拒绝接收陌生人消息\"]"
+    },
+    {
+      "line": 1930,
+      "name": "friend",
+      "index": 98,
+      "value": "\"Anh ơi, em có cây ngọc hướng gió, em duyên dáng và quyến rũ. Mình xin đăng bài rộng rãi để kết bạn mọi tầng lớp! <加为好友/@@addFriend,%id%,%name1%>%4%40\""
+    },
+    {
+      "line": 1931,
+      "name": "friend",
+      "index": 99,
+      "value": "\"Chị ơi, em như cá và ngỗng trời, em là vua một nước. Mình xin đăng bài rộng rãi để kết bạn mọi tầng lớp! <加为好友/@@addFriend,%id%,%name1%>%6%42\""
+    },
+    {
+      "line": 1932,
+      "name": "friend",
+      "index": 100,
+      "value": "\"Hãy ủng hộ tôi, hãy ủng hộ tôi, hãy thêm tôi làm bạn của bạn nhé~<加为好友/@@addFriend,%id%,%name1%>%26%41\""
+    },
+    {
+      "line": 2126,
+      "name": "skill",
+      "index": 25,
+      "value": "\"<font color = \\'#cfa775\\'>当前技能 \" + \"<font color=\\'#FFFF00\\'>$skill$</font>\" + \" 设置的快捷键为 \" + \"<font color=\\'#FFFF00\\'>$key$</font></font>\""
+    },
+    {
+      "line": 2145,
+      "name": "skill",
+      "index": 44,
+      "value": "\"<font color=\\'#f3f328\\' size=\\'14\\'>隐身术： </font><br>\" + \"<font color=\\'#66ccff\\' size=\\'14\\'>隐藏身形使玩家和怪物无法察觉到您的存在，效果持续20秒；</font><br>\" + \"<font color=\\'#00cc33\\' size=\\'14\\'>装备隐身戒指可获得该技能 </font><br><br>\" + \"<font color=\\'#f3f328\\' size=\\'14\\'>大陨石术：</font><br>\" + \"<font color=\\'#66ccff\\' size=\\'14\\'>对目标范围内的敌人造成自身最大攻击力130%的伤害；</font><br>\" + \"<font color=\\'#00cc33\\' size=\\'14\\'>装备火焰戒指可获得该技能 </font><br><br>\" + \"<font color=\\'#f3f328\\' size=\\'14\\'>瞬间传送术：</font><br>\" + \"<font color=\\'#66ccff\\' size=\\'14\\'>瞬间传送至鼠标所在位置； </font><br>\" + \"<font color=\\'#00cc33\\' size=\\'14\\'>装备传送戒指可获得该技能\""
+    },
+    {
+      "line": 2523,
+      "name": "guild",
+      "index": 150,
+      "value": "\"Nhận tại <A href='M沙皇宫:0:0:城战堡垒行政官员'>Thành Chiến Bảo Lũy Hành Chính Quan Viên</A>$func1$\""
+    },
+    {
+      "line": 2525,
+      "name": "guild",
+      "index": 152,
+      "value": "\"f屠龙城:410:330:\""
+    },
+    {
+      "line": 2554,
+      "name": "guild",
+      "index": 181,
+      "value": "\"m屠龙城:0:0:城主\""
+    },
+    {
+      "line": 2610,
+      "name": "guild",
+      "index": 237,
+      "value": "\"<font color = \\'#f3f328\\' size = \\'14\\'><b>开始历练</b></font>,<font color = \\'#f3f328\\' size = \\'14\\'><b>立即完成</b></font>,<font color = \\'#f3f328\\' size = \\'14\\'><b>完成任务</b></font>,<font color = \\'#f3f328\\' size = \\'14\\'><b>已经历练</b></font>\""
+    },
+    {
+      "line": 2675,
+      "name": "guild",
+      "index": 302,
+      "value": "\"行会\""
+    },
+    {
+      "line": 2698,
+      "name": "guild",
+      "index": 325,
+      "value": "\"行会聚宝盆,行会活动,行会香炉,行会历练,行会光环,行会神兽,行会仓库,行会商店\""
+    },
+    {
+      "line": 2776,
+      "name": "rose",
+      "index": 23,
+      "value": "\"元宝\""
+    },
+    {
+      "line": 2780,
+      "name": "rose",
+      "index": 27,
+      "value": "\"元宝\""
+    },
+    {
+      "line": 2819,
+      "name": "revive",
+      "index": 16,
+      "value": "\"使用<font color=\\'#00ff00\\'>复活药水</font>可原地随机复活<BR>可用<font color=\\'#00ff00\\'>$num$元宝</font>替代\""
+    },
+    {
+      "line": 2820,
+      "name": "revive",
+      "index": 17,
+      "value": "\"元宝复活\""
+    },
+    {
+      "line": 3029,
+      "name": "active",
+      "index": 80,
+      "value": "\"<font color=\\'#FFFFFF\\'>分类: </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:0\\'>全部</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:1\\'>我要升级</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:2\\'>我要变强</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:3\\'>我要装备</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:4\\'>我要赚钱</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:5\\'>我要竞技</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:6\\'>我很无聊</a></font><font color=\\'#FFFFFF\\'>、</font>\""
+    },
+    {
+      "line": 3034,
+      "name": "active",
+      "index": 85,
+      "value": "\"奖励\""
+    },
+    {
+      "line": 3035,
+      "name": "active",
+      "index": 86,
+      "value": "\"<textformat leading=\\'6\\'><font>上班!上学!吃饭!睡觉!没时间完成各种活动,现在三天内的活动可以以闪电完成,获得累计奖励你还等什么!</font><BR>\" + \"<font color=\\'#00FF00\\' size=\\'30\\'>立即完成三天内活动</font>\\t未完成的活动数量$val$个</textformat>\""
+    },
+    {
+      "line": 3038,
+      "name": "active",
+      "index": 89,
+      "value": "\"当前服务器开放<font color=\\'#00cc33\\'>$num1</font>次转生<BR>完成主线任务获得经验加成<font color=\\'#00cc33\\'>$num3</font><BR>日常任务获得经验加成<font color=\\'#00cc33\\'>$num4</font>\""
+    },
+    {
+      "line": 3044,
+      "name": "active",
+      "index": 95,
+      "value": "\"你距离获得 %NJLM%等奖励 还差%NZCJF%点战场积分<br>%NJLM%等奖励 可获得\""
+    },
+    {
+      "line": 3060,
+      "name": "active",
+      "index": 111,
+      "value": "\"参与流程\""
+    },
+    {
+      "line": 3062,
+      "name": "active",
+      "index": 112,
+      "value": "\"活跃度\""
+    },
+    {
+      "line": 3086,
+      "name": "active",
+      "index": 136,
+      "value": "\"奖励\""
+    },
+    {
+      "line": 3101,
+      "name": "active",
+      "index": 151,
+      "value": "\"活跃度\""
+    },
+    {
+      "line": 3102,
+      "name": "active",
+      "index": 152,
+      "value": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服好运轮盘</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服稀世奇珍</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服折扣商城</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服消费大奖</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>烈焰神王来袭</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服首届城战</font>\""
+    },
+    {
+      "line": 3123,
+      "name": "active",
+      "index": 173,
+      "value": "\"<textformat leading=\\'6\\'><font letterspacing=\\'1\\' color=\\'#ffde00\\' size=\\'16\\'>使用绑定金币可追回<font color=\\'#ff0000\\'>$num$%</font>资源<br>使用元宝可追回<font color=\\'#ff0000\\'>100%</font>资源<br>一键找回使用绑金追回<font color=\\'#ff0000\\'>$num$%</font>的所有资源<br>至尊找回使用元宝追回<font color=\\'#ff0000\\'>100%</font>所有资源</font></textformat>\""
+    },
+    {
+      "line": 3127,
+      "name": "active",
+      "index": 177,
+      "value": "\"<font color=\\'#cccc99\\'>绑金追回</font>,<font color=\\'#cccc99\\'>元宝追回</font>,<font color=\\'#cccc99\\'>一键追回</font>,<font color=\\'#cccc99\\'>至尊追回</font>\""
+    },
+    {
+      "line": 3131,
+      "name": "active",
+      "index": 181,
+      "value": "\"绑定金币\""
+    },
+    {
+      "line": 3132,
+      "name": "active",
+      "index": 182,
+      "value": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服好运轮盘</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服稀世奇珍</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服折扣商城</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服消费大奖</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>烈焰神王来袭</font>\""
+    },
+    {
+      "line": 3136,
+      "name": "active",
+      "index": 186,
+      "value": "\"<font size='16' face='黑体'> Haolilile không ngừng </font>\""
+    },
+    {
+      "line": 3214,
+      "name": "vip",
+      "index": 64,
+      "value": "\"攻击加成,专属装备,专属礼包,专属副本,额外使用经验丹,装备合成时获得强化,每日礼包,降低掉落装备概率,怪物掉宝增加,自动学习技能,清除竞技场冷却,每天免费领取仓库扩充,一键维修,追踪功能,减少修理费,增加打怪经验,增加护送次数,远程使用仓库,坐骑一键提升功能,免费赠送符文仓库\""
+    },
+    {
+      "line": 3223,
+      "name": "vip",
+      "index": 73,
+      "value": "\"<font color=\\'#00FF00\\'>[白银VIP]</font>,<font color=\\'#0080FF\\'>[黄金VIP]</font>,<font color=\\'#F200C1\\'>[至尊VIP]</font>,<font color=\\'#FF6600\\'>[超级VIP1]</font>,<font color=\\'#FF6600\\'>[超级VIP2]</font>,<font color=\\'#FF6600\\'>[超级VIP3]</font>\""
+    },
+    {
+      "line": 3225,
+      "name": "vip",
+      "index": 75,
+      "value": "\"元宝\""
+    },
+    {
+      "line": 3228,
+      "name": "vip",
+      "index": 78,
+      "value": "\"<font face='宋体'> trở thành <font color='#F200C1'><font size='16'> Supreme </font>VIP</font> <br> có thể nhận <font color='#F200C1'> Supreme VIPGói Quà</font></font>\""
+    },
+    {
+      "line": 3236,
+      "name": "vip",
+      "index": 86,
+      "value": "\"<font face='宋体'> trở thành <font color='#00FF00'><font size='16'> Bạc </font>VIP<br> </font> có thể nhận bạc <font color='#00FF00'> VIPGói Quà</font></font>\""
+    },
+    {
+      "line": 3237,
+      "name": "vip",
+      "index": 87,
+      "value": "\"<font face='宋体'> trở thành <font color='#0080FF'><font size='16'> vàng </font>VIP<br> </font> có thể nhận vàng <font color='#0080FF'> VIPGói Quà</font></font>\""
+    },
+    {
+      "line": 3254,
+      "name": "vip",
+      "index": 104,
+      "value": "\"<font size=\\'25\\'><b>您当前为超级VIP$num$，还需充值$num$元宝，即可成为超级VIP$num$</b></font>\""
+    },
+    {
+      "line": 3336,
+      "name": "shop",
+      "index": 39,
+      "value": "\"<font face='黑体' size='16'>Hhạnh phúc<br>Game</font>\""
+    },
+    {
+      "line": 3342,
+      "name": "shop",
+      "index": 45,
+      "value": "\"<font color=\\'#CC9933\\'>推荐关键字: </font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:1\\'>VIP</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:2\\'>1元推荐商品</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:3\\'>加属性</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:4\\'>自动吃药</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:5\\'>经验</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:6\\'>装备变强</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:7\\'>宝石</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:8\\'>金币</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:9\\'>行会</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:10\\'>结婚</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:11\\'>时装</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:12\\'>技能</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<BR>\" + \"                      \" + \"<font color=\\'#00cc33\\'><a href=\\'event:13\\'>佣兵</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:14\\'>坐骑</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:15\\'>3元</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:16\\'>5元</a></font>\""
+    },
+    {
+      "line": 3567,
+      "name": "initOnline",
+      "index": 16,
+      "value": "\"<textformat leading=\\'6\\'><font color=\\'#2bd6c0\\'>刷新奖品需要花费</font><font color=\\'#f6e200\\'>100元宝</font><font color=\\'#2bd6c0\\'>刷新奖品，有几率刷新极品奖励<br>注：【倒计时奖励刷新道具】可代替元宝花费，</font><font color=\\'#f6e200\\'>优先消耗道具</font><br></textformat>\""
+    },
+    {
+      "line": 3601,
+      "name": "topUpAward",
+      "index": 0,
+      "value": "\"<b><font size=\\'16\\' color=\\'#ffc98a\\'>只需提取</font><font color=\\'#f9c500\\' size=\\'22\\'>$yuan$</font><font size=\\'16\\' color=\\'#ffc98a\\'>元宝，\" + \"即可领取</font><font color=\\'#f9c500\\' size=\\'22\\'>超值大礼</font></b>\""
+    },
+    {
+      "line": 3603,
+      "name": "topUpAward",
+      "index": 2,
+      "value": "\"<font size=\\'16\\' color=\\'#ffc98a\\'>价值</font><font color=\\'#f9c500\\' size=\\'22\\'>$yuan$</font><font size=\\'16\\' color=\\'#ffc98a\\'>元宝</font>\""
+    },
+    {
+      "line": 3605,
+      "name": "topUpAward",
+      "index": 4,
+      "value": "\"<font color=\\'#00FF00\\'>您当前已经充值:</font><font color=\\'#FFFF00\\'>$val0$</font><font color=\\'#00FF00\\'>元宝</font>\""
+    },
+    {
+      "line": 3699,
+      "name": "welfare",
+      "index": 82,
+      "value": "\"<font size='16' face = '黑体' color='#e0d482'><b> đã chia sẻ thành công $value$ lần </b></font>\""
+    },
+    {
+      "line": 3731,
+      "name": "welfare",
+      "index": 114,
+      "value": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前拥有兑换积分：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$</b></font>\""
+    },
+    {
+      "line": 3739,
+      "name": "welfare",
+      "index": 122,
+      "value": "\"<font color=\\'#0ae8ad\\' size=\\'18\\'><b>首届城主奖励：</b></font><br><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池副首领奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池其他成员奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font>\""
+    },
+    {
+      "line": 3740,
+      "name": "welfare",
+      "index": 123,
+      "value": "\"<font color=\\'#0ae8ad\\' size=\\'18\\'><b>城主奖励：</b></font><br><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池副首领奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池其他成员奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font>\""
+    },
+    {
+      "line": 3906,
+      "name": "mount",
+      "index": 139,
+      "value": "\"<textFormat leading=\\'20\\'>本次获得<font color = \\'#00FF00\\'>兽魂总经验</font>:<font color = \\'#00FF00\\'>$EXP$ + $ADDEXP$</font><BR>\" + \"本次获得<font color = \\'#FFFF00\\'>小惊喜</font>次数:<font color = \\'#FFFF00\\'>$SMALL$</font><BR>\" + \"本次获得<font color = \\'#FF00FF\\'>大惊喜</font>次数:<font color = \\'#FFFF00\\'>$BIG$</font>\" + \"</textFormat>\""
+    },
+    {
+      "line": 3995,
+      "name": "hero",
+      "index": 71,
+      "value": "\"物理攻击：<BR>魔法攻击：<BR>道术攻击：<BR>物理防御：<BR>魔法防御：<BR>生　　命：<BR>魔　　法：<BR>准　　确：<BR>敏　　捷：<BR>幸　　运：<BR>诅　　咒：<BR>经　　验：\""
+    },
+    {
+      "line": 3997,
+      "name": "hero",
+      "index": 73,
+      "value": "\"装备强化\""
+    },
+    {
+      "line": 3998,
+      "name": "hero",
+      "index": 74,
+      "value": "\"装备宝石\""
+    },
+    {
+      "line": 4047,
+      "name": "hero",
+      "index": 155,
+      "value": "\"当前可洗炼<font color=\\'#F3F328\\'>$num0$条</font>极品属性,<font color=\\'#00CC33\\'>强化+$value$</font>可洗炼<font color=\\'#F3F323\\'>$num1$条</font>极品属性\""
+    },
+    {
+      "line": 4054,
+      "name": "hero",
+      "index": 162,
+      "value": "\"佣兵\""
+    },
+    {
+      "line": 4062,
+      "name": "hero",
+      "index": 201,
+      "value": "\"物理攻击\""
+    },
+    {
+      "line": 4063,
+      "name": "hero",
+      "index": 202,
+      "value": "\"魔法攻击\""
+    },
+    {
+      "line": 4070,
+      "name": "hero",
+      "index": 209,
+      "value": "\"宝石背包\""
+    },
+    {
+      "line": 4077,
+      "name": "hero",
+      "index": 216,
+      "value": "\"攻击:$attack$<BR>防御:$defense$<BR>技能:$skill$\""
+    },
+    {
+      "line": 4105,
+      "name": "hero",
+      "index": 244,
+      "value": "\"佣兵装备\""
+    },
+    {
+      "line": 4117,
+      "name": "hero",
+      "index": 256,
+      "value": "\"绑定金币$coin$\""
+    },
+    {
+      "line": 4120,
+      "name": "hero",
+      "index": 259,
+      "value": "\"绑定金币<font color=\\'#66CCFF\\'>$coin$</font>\""
+    },
+    {
+      "line": 4121,
+      "name": "hero",
+      "index": 260,
+      "value": "\"<textformat leading=\\'4\\'>名字:<font color=\\'#F3F328\\'>$name$</font><BR>等级:<font color=\\'#3399FF\\'>$level$</font><BR>职业:<font color=\\'#3399FF\\'>$type$</font></textformat>\""
+    },
+    {
+      "line": 4124,
+      "name": "hero",
+      "index": 263,
+      "value": "\"宝石经验\""
+    },
+    {
+      "line": 4125,
+      "name": "hero",
+      "index": 264,
+      "value": "\"经验：\""
+    },
+    {
+      "line": 4144,
+      "name": "hero",
+      "index": 283,
+      "value": "\"<(c0xFFFFFF00)首次领取佣兵免费，每个\\\\佣兵售价100万绑定金币>\\\\\\\\<购买绑定金币/@@showWin,129>\""
+    },
+    {
+      "line": 4146,
+      "name": "hero",
+      "index": 285,
+      "value": "\"<font color=\\'#66CCFF\\'>提升装备等级才可提升装备强化等级</font>\""
+    },
+    {
+      "line": 4153,
+      "name": "hero",
+      "index": 292,
+      "value": "\"佣兵装备碎片获得途径：魔法门副本、BOSS<BR>试炼副本、充值礼包、在线奖励、促销商城\""
+    },
+    {
+      "line": 4170,
+      "name": "hero",
+      "index": 309,
+      "value": "\"<A href='M屠龙城:0:0:装备回收'><font color='#00FF00' size='14'><u> Nhận giá trị linh hồn </u></font></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:37:30:装备回收'></IOBJ>\""
+    },
+    {
+      "line": 4399,
+      "name": "tianYaHaiJiao",
+      "index": 4,
+      "value": "\"1、夫妻组队奖励更高\\\\\\\\\" + \"2、<(c0xFFFFFF00)免费刷新>次数后,再使用<(c0xFFFFFF00)百花争艳图>, 最后使用<(c0xFFFFFF00)3欢乐豆/元宝>刷新(优先使用<(c0xFFFFFF00)百花争艳图>)\\\\\\\\\" + \"3、每天下午<(c0xFFFFFF00)16:30-17:00>是双倍护送时间,在该时段护送美女将获得双倍奖励\\\\\\\\\" + \"4、护送过程中<(c0xFFFF0000)速度将减慢>,完成后自动恢复\\\\\\\\\" + \"5、护送过程中<(c0xFFFFFF00)无法参与其他活动、副本;无法速传及传送功能;无法使用回城卷等等>\\\\\\\\\""
+    },
+    {
+      "line": 4413,
+      "name": "tianYaHaiJiao",
+      "index": 18,
+      "value": "\"<font color=\\'#99CCCC\\'>你的元宝不足,无法刷新对象</font><br><font color=\\'#00FF00\\'>充值后在商城中提取元宝</font>\""
+    },
+    {
+      "line": 4449,
+      "name": "escortBelle",
+      "index": 28,
+      "value": "\"[$name$]对您护送的宝藏进行<br>打劫，是否和他猜拳PK？\""
+    },
+    {
+      "line": 4452,
+      "name": "escortBelle",
+      "index": 31,
+      "value": "\"<font face='黑体' size='18'><b> Mỗi buổi chiều <br>17:00-17:30<br> là thời gian hộ tống gấp đôi <br> có thể nhận được gấp đôi Phần Thưởng</b></font>\""
+    },
+    {
+      "line": 4539,
+      "name": "raids",
+      "index": 77,
+      "value": "\"<font size=\\'14\\'>装备强化</font>\""
+    },
+    {
+      "line": 4596,
+      "name": "tanget",
+      "index": 13,
+      "value": "[\"初级目标\",\"中级目标\",\"高级目标\",\"转生目标\",\"终极目标\",\"究极目标\"]"
+    },
+    {
+      "line": 4605,
+      "name": "tanget",
+      "index": 22,
+      "value": "\"奖励\""
+    },
+    {
+      "line": 4825,
+      "name": "combineActive",
+      "index": 57,
+      "value": "\"<font color = \\'#ffff00\\'><b>玩法：</b></font>玩家可花费一定元宝点击<font color = \\'#ff0000\\'>转一次</font>按钮<br>进行抽奖，也可以花费更多元宝点击<font color = \\'#ff0000\\'>转10次</font><br>抽中的奖品将会默认放到屠龙仓库中。<font color = \\'#ff0000\\'>转一<br>次</font>不会获得积分，<font color = \\'#ff0000\\'>转10次</font>将获得一积分，<br>积分可以兑换<font color = \\'#ff0000\\'>珍稀道具</font>，点击珍品兑换可打开<br><font color = \\'#ff0000\\'>积分商城</font>。豪礼转盘，豪礼多多，惊喜多多，<br>赶快转动轮盘，下一个幸运儿就是你！\""
+    },
+    {
+      "line": 4880,
+      "name": "sealedBook",
+      "index": 46,
+      "value": "\"你现在接取的是<font color=\\'#00cc33\\'>1星任务</font><font color=\\'#ff3333\\'>（任务星级越高获得的经验越多，星<br>级可用绑定金币或者元宝刷新提升）</font>，确定要接取任务吗？\""
+    },
+    {
+      "line": 4882,
+      "name": "sealedBook",
+      "index": 48,
+      "value": "\"<font>你将花费<font color = \\'#65ff32\\'>$value$绑定金币</font>领取2倍奖励</font>\""
+    },
+    {
+      "line": 4883,
+      "name": "sealedBook",
+      "index": 49,
+      "value": "\"<font>领取当前奖励需要花费<font color = \\'#65ff32\\'>$value$绑定金币</font></font>\""
+    },
+    {
+      "line": 4892,
+      "name": "sealedBook",
+      "index": 58,
+      "value": "\"<font size = \\'14\\' color = \\'$color$\\'>经验：$num$</font>\""
+    },
+    {
+      "line": 4893,
+      "name": "sealedBook",
+      "index": 59,
+      "value": "\"<font size = \\'12\\' color = \\'#f3f328\\'>免费领取</font>，<font size = \\'12\\' color = \\'#f3f328\\'>花费$num$元宝</font>，<font size = \\'12\\' color = \\'#f3f328\\'>花费$num$元宝</font>，<font size = \\'12\\' color = \\'#f3f328\\'>领取5倍奖励</font>\""
+    },
+    {
+      "line": 4902,
+      "name": "questDay",
+      "index": 1,
+      "value": "\"<font size=\\\"12\\\">任务有五个品质，<font color=\\\"#ffffff\\\">白</font>、<font color=\\\"#0099cc\\\">蓝</font>、<font color=\\\"#ffff33\\\">黄</font>、<font color=\\\"#33ff33\\\">绿</font>、<font color=\\\"#ff9900\\\">暗金</font>，品质越高奖励越丰富<br>可以使用元宝一键刷出暗金任务，暗金任务会奖励道具<br>接受的任务可以立即完成并获得任务励<br>每完成 <font color=\\\"#33ff33\\\">5</font> 次任务可以获得礼包 <font color=\\\"#33ff33\\\">1</font> 个</font>\""
+    },
+    {
+      "line": 4949,
+      "name": "statue",
+      "index": 22,
+      "value": "\"<font color = \\'#AB8C70\\'>全服每膜拜/鄙视</font><font color = \\'#9B958B\\'>$allTimes$</font>次,<font color = \\'#AB8C70\\'>则系统赠送所有玩家</font><font color = \\'#9B958B\\'>$times$</font>次膜拜机会\""
+    },
+    {
+      "line": 4965,
+      "name": "statue",
+      "index": 38,
+      "value": "\"<font color = \\'#AB8C70\\'>$num$小时$time$倍杀怪经验</font>\""
+    },
+    {
+      "line": 4997,
+      "name": "statue",
+      "index": 70,
+      "value": "\"<textformat leading=\\'8\\'><font color = \\'#9F9794\\'>【城主失败】玩家</font><font color = \\'#A88C88\\'>$name$</font><font color = \\'#9F9794\\'>于$time$对城主$leader0$发起挑战，城主</font><font color = \\'#A88C88\\'>$leader1$</font><font color = \\'#9F9794\\'>实力不济，不敌落败！</font><font color = \\'#A88C88\\'>今日败绩+1 </font></textformat>\""
+    },
+    {
+      "line": 4999,
+      "name": "statue",
+      "index": 72,
+      "value": "\"1、城主可以投入元宝进行悬赏<br>\" + \"2、投入后，元宝会以1:2的形式转换成欢乐豆<br>\" + \"3、玩家膜拜城主一次就会返回100欢乐豆给膜<br>拜玩家，送完为止。<br>\" + \"4、投放的元宝将反馈给城主行会一定的行会资<br>金。\""
+    },
+    {
+      "line": 5000,
+      "name": "statue",
+      "index": 73,
+      "value": "\"已经达到最高Phần Thưởng倍数\""
+    },
+    {
+      "line": 5203,
+      "name": "other",
+      "index": 13,
+      "value": "\"输入不能超过100个字\""
+    },
+    {
+      "line": 5240,
+      "name": "other",
+      "index": 50,
+      "value": "[\"指挥明星\",\"攻略大师\",\"最佳城主\",\"神勇之师\"]"
+    },
+    {
+      "line": 5241,
+      "name": "other",
+      "index": 51,
+      "value": "[\"在攻城战中，组织和指挥表现出色的玩家\",\"在论坛上发表最佳攻略，或者发表精华攻略贴较多的玩家\",\"在攻城战役中表现出色的城主\",\"服务器历史上攻城胜利次数最多的行会\"]"
+    },
+    {
+      "line": 5256,
+      "name": "other",
+      "index": 66,
+      "value": "[\"专属武器\",\"专属时装\",\"专属坐骑\"]"
+    },
+    {
+      "line": 5260,
+      "name": "other",
+      "index": 70,
+      "value": "[\"精彩瞬间\",\"城战信息\",\"城池官员\"]"
+    },
+    {
+      "line": 5261,
+      "name": "other",
+      "index": 71,
+      "value": "[\"财神送礼\",\"祝福有奖\",\"封测福利\"]"
+    },
+    {
+      "line": 5264,
+      "name": "other",
+      "index": 74,
+      "value": "\"<font face='黑体' size='14'>Chọn một phước lành </font>\""
+    },
+    {
+      "line": 5275,
+      "name": "other",
+      "index": 85,
+      "value": "\"元宝:$num\""
+    },
+    {
+      "line": 5277,
+      "name": "other",
+      "index": 87,
+      "value": "\"<font face='黑体' size='24'> Thần Tài tràn đầy phúc lành đến tặng quà khủng </font>\""
+    },
+    {
+      "line": 5282,
+      "name": "other",
+      "index": 92,
+      "value": "[\"翅膀预览\",\"套装特效\",\"强化特效\",\"宝石特效\"]"
+    },
+    {
+      "line": 5344,
+      "name": "salary",
+      "index": 24,
+      "value": "\"<font color = \\'#cc9933\\'>绑定金币：$num$</font>\""
+    },
+    {
+      "line": 5353,
+      "name": "salary",
+      "index": 33,
+      "value": "\"本周内未签到的日期可以进行补签，<br>补签后可以获得相应天数的奖励与累<br>计签到奖励，补签绝对超值。<br>提示：请留意补签剩余次数\""
+    },
+    {
+      "line": 5367,
+      "name": "salary",
+      "index": 47,
+      "value": "\"<font size=\\'14\\' color = \\'#ffffff\\' ><b>本周已签到</b></font><font size=\\'14\\' color = \\'#00ff00\\' ><b>$num$</b></font><font size=\\'14\\' color = \\'#ffffff\\' ><b>天</b></font>\""
+    },
+    {
+      "line": 5373,
+      "name": "salary",
+      "index": 53,
+      "value": "\"<font color = \\'#d800ff\\' >每周签到满</font><font color = \\'#ffff00\\' >7天</font><font color = \\'#d800ff\\' >可额外获得</font><font color = \\'#ffff00\\' >绚丽翅膀</font><font color = \\'#d800ff\\' >与</font><font color = \\'#ffff00\\' >1亿</font><font color = \\'#d800ff\\' >经验奖励</font><br>\""
+    },
+    {
+      "line": 5377,
+      "name": "salary",
+      "index": 57,
+      "value": "\"<font  color = \\'#ff8311\\'><font  color = \\'#fff711\\'>今日还未签到</font>，你确定现在<font  color = \\'#fff711\\'>领取工资</font>吗？<br>每周签到越多工资越高，签满<font  color = \\'#fff711\\'>7天</font>更有额外的<br><font  color = \\'#fff711\\'>绚丽翅膀</font>和<font  color = \\'#fff711\\'>1亿经验</font>奖励</font>\""
+    },
+    {
+      "line": 5378,
+      "name": "salary",
+      "index": 58,
+      "value": "\"本周还未签满<font  color = \\'#fff711\\'>7天</font>，你确定现在<font  color = \\'#fff711\\'>领取工资</font>吗？<br>你还可以通过补签签满本周，每周签到越多工资越高，<br>签满<font  color = \\'#fff711\\'>7天</font>更有额外的<font  color = \\'#fff711\\'>绚丽翅膀</font>和<font  color = \\'#fff711\\'>1亿经验</font>奖励\""
+    },
+    {
+      "line": 5574,
+      "name": "friendReturn",
+      "index": 6,
+      "value": "\"<textformat leading=\\'8\\'><font size = \\'15\\'>   亲爱的玩家,欢迎回归暗黑屠龙,你已经满足老玩家的回归资格,<BR>你已累计离线<font color = \\'#FFFF00\\'>$num$天</font>,累计充值金额<font color = \\'#FFFF00\\'>$money$元宝</font>,可领取$name$回归礼包</font></textformat>\""
+    },
+    {
+      "line": 5576,
+      "name": "friendReturn",
+      "index": 8,
+      "value": "\"<textformat leading=\\'7\\'><font size = \\'13\\'>说明:<BR>1、玩家回归游戏时的等级达到<BR>65级,且<font color=\\'#00FF00\\'>7天、14天、30天、60</font><BR>天以上未登陆游戏者,自行<BR>登陆游戏将可获得系统赠送<BR>的回归大礼包.<BR>\" + \"2、回归后达到相应活跃度条件,<BR>还可领取特别的奖励.<BR>\" + \"</font></textformat>\""
+    },
+    {
+      "line": 5580,
+      "name": "friendReturn",
+      "index": 12,
+      "value": "\"<textformat leading=\\'7\\'><font size = \\'13\\'>邀请礼包界面说明:<BR>\" + \"1、邀请的对象回归游戏时等级<BR>需<font color=\\'#00FF00\\'>65级</font>且<font color=\\'#00FF00\\'>7天</font>以上未登陆游戏的<BR>\" + \"2、被邀请者上线后点击激活按<BR>钮,邀请者可以获得邀请奖励.<BR>\" + \"3、活动期间内邀请好友数量排名<BR><font color=\\'#00FF00\\'>前5名</font>的玩家可获得排名奖励</font></textformat>\""
+    },
+    {
+      "line": 5583,
+      "name": "friendReturn",
+      "index": 15,
+      "value": "\"<textformat leading=\\'7\\'><font size = \\'13\\'>注:1.回归后活跃度达到20才可点击激活<BR><BR>\" + \"2.邀请人只能被填写一次,即只能填写<BR><BR>\" + \"一个邀请人</font></textformat>\""
+    },
+    {
+      "line": 5647,
+      "name": "transmigration",
+      "index": 17,
+      "value": "\"<textformat leading=\\'8\\'><font size = \\'13\\'>1、转生次数上限随着世界文明度等级<BR>的提升而升高<BR>2、转生需要消耗一定数量的转生灵魄<br>\" + \"3、转生后自身等级将变成40级，但是<BR>可以穿戴低于自身转生次数的所有等级<BR>装备<BR>\" + \"4、每次转生都会获得属性加成，转生<BR>一定次数后可以通过使用技能书提升技<BR>能等级<BR>5、每转生1次，人物最高等级将提升5级\""
+    },
+    {
+      "line": 5650,
+      "name": "transmigration",
+      "index": 20,
+      "value": "\"绑定金币：$num$\\n\""
+    },
+    {
+      "line": 5656,
+      "name": "transmigration",
+      "index": 26,
+      "value": "\"<font face='黑体' size = '20'>Chuyển Sinh Thành công </font>\""
+    },
+    {
+      "line": 5659,
+      "name": "transmigration",
+      "index": 29,
+      "value": "\"<商城/@@showWin,$id$,$pageId$>\""
+    },
+    {
+      "line": 5662,
+      "name": "transmigration",
+      "index": 32,
+      "value": "\"<获得经验/@@showWin,$id$,$pageId$>\""
+    },
+    {
+      "line": 5663,
+      "name": "transmigration",
+      "index": 33,
+      "value": "\"<获得装备/@@showWin,$id$,$pageId$>\""
+    },
+    {
+      "line": 5680,
+      "name": "changSex",
+      "index": 6,
+      "value": "\"<textformat leading=\\'8\\'><font size = \\'13\\'>1、性别转换后装备性别会改变成<BR>转换后的性别<BR>2、职业转换后魅力值将变成帅气值，<BR>数值与排行榜不发生变化</font></textformat>\""
+    },
+    {
+      "line": 5689,
+      "name": "changSex",
+      "index": 15,
+      "value": "\"<font color = \\'#cfa775\\'>元宝</font>\""
+    },
+    {
+      "line": 5738,
+      "name": "itemRecycling",
+      "index": 6,
+      "value": "\"<font size=\\'14\\'>经验</font>,<font size=\\'14\\'>绑定金币</font>,<font size=\\'14\\'>兽魂值</font>,<font size=\\'14\\'>神魂值</font>,药品,各种道具,<font size=\\'14\\'>战魂值</font>,佣兵相关\""
+    },
+    {
+      "line": 5761,
+      "name": "itemRecycling",
+      "index": 29,
+      "value": "\"可获得人物经验，加快升级速度|\" + \"绑定金币可用于狩猎任务、赏金任务、日常任务的星级或品质刷新，也可用于装备强化|\" + \"兽魂值可用于坐骑系统中，兽魂功能的兽魂修炼|\" + \"神魂值可到屠龙城（151,141）找NPC装备兑换使者兑换套装或神装|\" + \"药品|\" + \"各种道具|\" + \"战魂值可到屠龙城（151,141）找NPC装备兑换使者兑换神戒、魔钻或勋章|\" + \"佣兵相关\""
+    },
+    {
+      "line": 5773,
+      "name": "openService",
+      "index": 5,
+      "value": "\"<font size = \\'14\\' ><b>累计提元宝</b></font><Br><font>充值奖上奖</font>\""
+    },
+    {
+      "line": 5774,
+      "name": "openService",
+      "index": 6,
+      "value": "\"<font size = \\'14\\' ><b>坐骑大礼包</b></font><Br><font>最炫坐骑风</font>\""
+    },
+    {
+      "line": 5775,
+      "name": "openService",
+      "index": 7,
+      "value": "\"<font size = \\'14\\' ><b>宝石大礼包</b></font><Br><font>属性提升最佳选择</font>\""
+    },
+    {
+      "line": 5776,
+      "name": "openService",
+      "index": 8,
+      "value": "\"<font size = \\'14\\' ><b>佣兵大礼包</b></font><Br><font>最强佣兵助你征战</font>\""
+    },
+    {
+      "line": 5777,
+      "name": "openService",
+      "index": 10,
+      "value": "\"<font size = \\'15\\' >充值</font>,<font size = \\'30\\' >任意</font><font size = \\'22\\' >金额</font>,<font size = \\'15\\' >立即\" + \"获得</font>,<font size = \\'30\\' >1</font><font size = \\'22\\' >8</font><font size = \\'30\\' >88</font><font size = \\'22\\' >8元宝</font><font size = \\'15\\' >超级大</font><font size = \\'22\\' >礼包</font>,\" + \"<font size = \\'15\\' > 内含超酷的</font>,<font size = \\'30\\' >绚丽翅膀</font>,\" + \"<font size = \\'15\\' >还可免费</font><font size = \\'22\\' ></font>,<font size = \\'30\\' >升一级</font>\""
+    },
+    {
+      "line": 5778,
+      "name": "openService",
+      "index": 11,
+      "value": "\"<font color = \\'#fbc972\\' size = \\'22\\' >只要再充值</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>,<font color = \\'#fbc972\\' size = \\'22\\' >即可获得</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >再充礼包</font>\""
+    },
+    {
+      "line": 5779,
+      "name": "openService",
+      "index": 12,
+      "value": "\"<font color = \\'#fbc972\\' size = \\'22\\' >只要再充值</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>,<font color = \\'#fbc972\\' size = \\'22\\' >即可获得</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >三充礼包</font>\""
+    },
+    {
+      "line": 5780,
+      "name": "openService",
+      "index": 13,
+      "value": "\"<font color = \\'#fbc972\\' size = \\'22\\' >只要再充值</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>,<font color = \\'#fbc972\\' size = \\'22\\' >即可获得</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >豪充礼包</font>\""
+    },
+    {
+      "line": 5801,
+      "name": "openService",
+      "index": 35,
+      "value": "\"在线满$num$分钟立即送一个30分钟的双倍经验道具，活动期间内送$num$次（相当于$num$小时的双倍经验），已赠送$num$次\""
+    },
+    {
+      "line": 5811,
+      "name": "openService",
+      "index": 45,
+      "value": "\"<font size = \\'15\\' >已提取元宝：<font color = \\'#00C957\\'>$num$</font>（还相差<font color = \\'#00C957\\'>$need$</font>元宝即可获取大礼包）</font>\""
+    },
+    {
+      "line": 5812,
+      "name": "openService",
+      "index": 46,
+      "value": "\"<font color = \\'#fbc972\\' size = \\'17\\' >顶级</font>,<font color = \\'#fbc972\\' size = \\'22\\' >神装材料</font>,<font color = \\'#ffa800\\' size = \\'17\\' >稀有来源之一</font>,<font color = \\'#fbc972\\' size = \\'22\\' >\" + \"</font>,<font color = \\'#ffa800\\' size = \\'17\\' >，三档礼包助你</font>,<font color = \\'#fbc972\\' size = \\'22\\' >称霸全服!</font>\""
+    },
+    {
+      "line": 5813,
+      "name": "openService",
+      "index": 47,
+      "value": "\"坐骑\""
+    },
+    {
+      "line": 5814,
+      "name": "openService",
+      "index": 48,
+      "value": "\"佣兵\""
+    },
+    {
+      "line": 5815,
+      "name": "openService",
+      "index": 49,
+      "value": "\"宝石\""
+    },
+    {
+      "line": 5832,
+      "name": "openService",
+      "index": 66,
+      "value": "\"符文\""
+    },
+    {
+      "line": 5833,
+      "name": "openService",
+      "index": 67,
+      "value": "\"装备\""
+    },
+    {
+      "line": 5840,
+      "name": "openService",
+      "index": 74,
+      "value": "\"礼包\""
+    },
+    {
+      "line": 5849,
+      "name": "openService",
+      "index": 83,
+      "value": "\"<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>\""
+    },
+    {
+      "line": 5864,
+      "name": "openService",
+      "index": 98,
+      "value": "\"<font color = \\'#fcff00\\' size = \\'17\\' >1RMB=100元宝</font>\""
+    },
+    {
+      "line": 5879,
+      "name": "openService",
+      "index": 113,
+      "value": "\"战士：,法师：,道士：\""
+    },
+    {
+      "line": 5890,
+      "name": "openService",
+      "index": 124,
+      "value": "\"<font color=\\'#d9680d\\' size=\\'24\\'>充值送</font><font \\tcolor=\\'#ffff00\\' size=\\'24\\'>积分</font><font color=\\'#d9680d\\' size=\\'24\\'>，</font><font color=\\'#ffff00\\' size=\\'24\\'>积分</font><font color=\\'#d9680d\\' size=\\'24\\'>换豪礼</font>\""
+    },
+    {
+      "line": 5925,
+      "name": "godHallows",
+      "index": 6,
+      "value": "\"合成\""
+    },
+    {
+      "line": 5941,
+      "name": "godHallows",
+      "index": 22,
+      "value": "\"<font color=\\'#ffff00\\'>强化 +$num$ </font>\""
+    },
+    {
+      "line": 5960,
+      "name": "caiquan",
+      "index": 12,
+      "value": "\"1、猜拳师越高阶,奖励越丰富.成功护送美女可获得经验、金币奖励\\\\\\\\\" + \"2、<(c0xFFFFFF00)免费刷新>次数后,再使用<(c0xFFFFFF00)百花争艳图>, 最后使用<(c0xFFFFFF00)3欢乐豆/元宝>刷新(优先使用<(c0xFFFFFF00)百花争艳图>)\\\\\\\\\" + \"3、每天下午<(c0xFFFFFF00)16:30-17:00>是双倍护送时间,在该时段护送美女将获得双倍奖励\\\\\\\\\" + \"4、护送过程中<(c0xFFFF0000)速度将减慢>,完成后自动恢复\\\\\\\\\" + \"5、护送过程中<(c0xFFFFFF00)无法参与其他活动、副本;无法速传及传送功能;无法使用回城卷等等>\\\\\\\\\""
+    },
+    {
+      "line": 5962,
+      "name": "caiquan",
+      "index": 14,
+      "value": "\"<font color=\\'#99CCCC\\'>你的元宝不足,无法刷新对象</font><br><font color=\\'#00FF00\\'>充值后在商城中提取元宝</font>\""
+    },
+    {
+      "line": 5995,
+      "name": "marry",
+      "index": 22,
+      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn hiện có <a href='event:1'><u> ảnh kỷ niệm thông thường </u></a></font>\""
+    },
+    {
+      "line": 5996,
+      "name": "marry",
+      "index": 23,
+      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn hiện có <a href='event:2'><u> những bức ảnh kỷ niệm tinh tế </u></a></font>\""
+    },
+    {
+      "line": 5997,
+      "name": "marry",
+      "index": 24,
+      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn hiện có <a href='event:3'><u> những bức ảnh kỷ niệm rực rỡ </u></a></font>\""
+    },
+    {
+      "line": 6019,
+      "name": "marry",
+      "index": 46,
+      "value": "\"Bạn có thể truy cập <font color='#00ff00'><A href='M圣城:232:126:爱神丘比特'> Cupid ở Thành phố Thánh </A></font> $func1$ để biết chi tiết\""
+    },
+    {
+      "line": 6025,
+      "name": "marry",
+      "index": 52,
+      "value": "\"<font face='黑体' size='18' color='#FCEE67'>Bạn chưa có ảnh kỷ niệm ngày cưới, hãy chụp càng sớm càng tốt</font>\""
+    },
+    {
+      "line": 6045,
+      "name": "marry",
+      "index": 72,
+      "value": "\"使用可获得<BR>杀怪经验5%<BR>的加成效果，<BR>持续1小时\""
+    },
+    {
+      "line": 6074,
+      "name": "jewelGame",
+      "index": 7,
+      "value": "\"规则:<br>1.若摇出3个图案都不相同，则只能获得1个宝石碎片；<br>2.若摇出2个相同图案则获得1个对应图案的1级宝石；<br>3.若摇出3个相同图案则获得1个对应图案的2级宝石；<br>4.当摇出2个或者3个相同图案时若其中一个图案带“幸运”则获得1个该图案的3级宝石；<br>5.每日累计摇动次数达到10的倍数时将获得额外1次免费机会；<br>6.有几率触发下次摇动必出2倍或3倍奖励机会，千万不要错过；\""
+    },
+    {
+      "line": 6079,
+      "name": "jewelGame",
+      "index": 12,
+      "value": "\"宝石背包\""
+    },
+    {
+      "line": 6093,
+      "name": "jewelGame",
+      "index": 26,
+      "value": "\"<textformat leading=\\'5\\'><font color=\\'#00FF00\\'>今天剩余免费次数:$val0$/$val1$  每次花费$val2$万绑定金币<br>\" + \"每天绑定金币最多可以摇:$val3$/$val4$次,金币摇次数无限制<br>\" + \"若摇出两个相同的图案可获得1个该图案对应的宝石</font></textformat>\""
+    },
+    {
+      "line": 6139,
+      "name": "diamondGame",
+      "index": 33,
+      "value": "\"<textformat leading=\\'5\\'><font color=\\'#00FF00\\'>今天剩余免费次数:$val0$/$val1$  每次花费$val2$万绑定金币<br>\" + \"每天绑定金币最多可以摇:$val3$/$val4$次,金币摇次数无限制<br>\" + \"若摇出两个相同的图案可获得1个该图案对应的神石</font></textformat>\""
+    },
+    {
+      "line": 6155,
+      "name": "onlineTimeAward",
+      "index": 1,
+      "value": "\"<font size=\\'18\\'>需</font><font size=\\'18\\' color=\\'#00CC33\\'>$time0$</font><font size=\\'18\\'>可以领取</font><font size=\\'18\\' color=\\'#FFA500\\'>$time1$在线礼包</font>\""
+    },
+    {
+      "line": 6170,
+      "name": "DemonTreasure",
+      "index": 4,
+      "value": "\"Bản đồ treo cổ hoang dã không an toàn <font color='#999999'>: <A href='M干燥的高地:37:30:攻城龙兽'><font color='#33FF33'> vùng cao khô cằn </font></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f干燥的高地:37:30:攻城龙兽'></IOBJ>\""
+    },
+    {
+      "line": 6205,
+      "name": "mysteryShop",
+      "index": 7,
+      "value": "\"1. 等级满足<font color=\\'#00ff00\\'>60级</font>才能使用神秘商店。<br>2. 神秘商店每隔<font color=\\'#00ff00\\'>三小时</font>自动刷新一次。<br>3. 每次刷新后只能购买一件物品。<br>4. 神秘商店购买的物品部分为绑定。<br>5. 点击立即刷新需要花费<font color=\\'#00ff00\\'>30元宝</font>。<br>6. 每人每天可在神秘商店购买<font color=\\'#00ff00\\'>30次物品</font>。\""
+    },
+    {
+      "line": 6223,
+      "name": "christAndYuanDan",
+      "index": 8,
+      "value": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前已充值：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$元宝</b></font>\""
+    },
+    {
+      "line": 6228,
+      "name": "christAndYuanDan",
+      "index": 13,
+      "value": "\"<font face='宋体' color='#fff000' size='13'><b> Hãy tham gia </b></font>\""
+    },
+    {
+      "line": 6245,
+      "name": "MonsterTreasure",
+      "index": 8,
+      "value": "\"<FONT color=\\'#cfa775\\'>当前殿堂等级：$num$级<A href=\\'1\\'><FONT color=\\'#33ff33\\'><u>升级</u></FONT></A></FONT>\""
+    },
+    {
+      "line": 6276,
+      "name": "openServiceRace",
+      "index": 3,
+      "value": "\"<font color=\\'#ffd800\\' size=\\'15\\'>排名</font>,<font color=\\'#04d818\\' size=\\'15\\'>评定条件</font>,<font color=\\'#ffd800\\' size=\\'15\\'>名额</font>,<font color=\\'#ffd800\\' size=\\'15\\'>奖励</font>\""
+    },
+    {
+      "line": 6290,
+      "name": "tuLongJiJin",
+      "index": 4,
+      "value": "\"<b><font size = \\'16\\' color=\\'#12f424\\'>购买</font><font size = \\'14\\' color=\\'#f0cd27\\'>$value1$</font><font size = \\'14\\' color=\\'#12f424\\'>基金，即可获得总价值</font><font size = \\'14\\' color=\\'#f0cd27\\'>$value2$</font><font size = \\'14\\' color=\\'#12f424\\'>的返利！</font></b>\""
+    },
+    {
+      "line": 6304,
+      "name": "luckyTurntable",
+      "index": 1,
+      "value": "\"<font face='黑体'><b> Vòng quay may mắn </b></font>\""
+    },
+    {
+      "line": 6308,
+      "name": "luckyTurntable",
+      "index": 5,
+      "value": "\"<font color=\\'#00ff00\\'>【$value$元宝】</font>\""
+    },
+    {
+      "line": 6321,
+      "name": "newYear",
+      "index": 1,
+      "value": "\"Bạn có thể nhận <font face='黑体' color='#d1bf75' size='15'> bằng cách đăng nhập trong 3 ngày liên tiếp. Hiện tại, bạn có thể yêu cầu $num$ lần </font>.\""
+    },
+    {
+      "line": 6327,
+      "name": "newYear",
+      "index": 7,
+      "value": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前已充值：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$元宝</b></font>\""
+    },
+    {
+      "line": 6328,
+      "name": "newYear",
+      "index": 8,
+      "value": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前拥有：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$积分</b></font>\""
+    },
+    {
+      "line": 6330,
+      "name": "newYear",
+      "index": 10,
+      "value": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>充值第一名</b></font>,<font color=\\'#ffffff\\' size=\\'13\\'><b>充值第二名</b></font>,<font color=\\'#ffffff\\' size=\\'13\\'><b>充值第三名</b></font>\""
+    },
+    {
+      "line": 6341,
+      "name": "newYear",
+      "index": 21,
+      "value": "\"<font color=\\'#ffff00\\' size=\\'15\\'>活动结束，消费达到</font><font color=\\'#00ff00\\' size=\\'15\\'>$num$元宝</font><font color=\\'#ffff00\\' size=\\'15\\'>以上,且消费最高的可获得</font>\""
+    },
+    {
+      "line": 6350,
+      "name": "newYear",
+      "index": 30,
+      "value": "\"<font color=\\'#ffffff\\'>累计消费</font><font color=\\'#00ff00\\'>$num$元宝</font><font color=\\'#ffffff\\'>可上排行榜查看排名</font>\""
+    },
+    {
+      "line": 6376,
+      "name": "superGift",
+      "index": 1,
+      "value": "\"<font face='黑体' size='24'><b>Nạp ThẻSố tiền tích lũy đạt $num$Nguyên Bảo, hãy tham gia </b></font> ngay lập tức\""
+    },
+    {
+      "line": 6377,
+      "name": "superGift",
+      "index": 2,
+      "value": "\"<font face='宋体' color='#ffff00' size='18'>ngay lập tứcNạp Thẻ→</font>\""
+    },
+    {
+      "line": 6378,
+      "name": "superGift",
+      "index": 3,
+      "value": "\"<font face='宋体' color='#ffff00' size='18'> thêm showgirl sắc đẹp QQ để nhận </font><font face='宋体' color='#00ff00' size='18'> thành viên bí ẩn Gói Quà</font>\""
+    },
+    {
+      "line": 6379,
+      "name": "superGift",
+      "index": 4,
+      "value": "\"<font face='宋体' color='#ffff00' size='14'> Ảnh dịch vụ khách hàng làm đẹp độc quyền </font>\""
+    },
+    {
+      "line": 6380,
+      "name": "superGift",
+      "index": 5,
+      "value": "\"<font face='宋体' color='#ffff00' size='14'> Giới thiệu dịch vụ độc quyền dành cho thành viên Super </font>\""
+    },
+    {
+      "line": 6381,
+      "name": "superGift",
+      "index": 6,
+      "value": "\"<font face='宋体' color='#ffff00' size='12'>Q, hãy dùng thử và nhận Phần Thưởng</font> độc quyền\""
+    },
+    {
+      "line": 6382,
+      "name": "superGift",
+      "index": 7,
+      "value": "\"<font face='宋体' color='#ffff00' size='12'> showgirl độc quyềnQQ</font>\""
+    },
+    {
+      "line": 6383,
+      "name": "superGift",
+      "index": 8,
+      "value": "\"<font face='宋体' color='#ffff00' size='12'>Click để sao chép </font>\""
+    },
+    {
+      "line": 6384,
+      "name": "superGift",
+      "index": 9,
+      "value": "\"<font face='宋体' color='#ffffff' size='12'>1. Xác minh và điền thông tin: tên vai trò, máy chủ, số tiền Nạp Thẻ <br>2.QQ Sau khi xác minh thành công, bạn có thể tận hưởng dịch vụ cá nhân và độc quyền </font>\""
+    },
+    {
+      "line": 6394,
+      "name": "baifu",
+      "index": 3,
+      "value": "\"<font color=\\'#009966\\'>活动期间每笔充值单独结算达到<font color=\\'#FFFF00\\'>$num$元宝</font>，即可领取1次百服稀世奇珍奖励<font color=\\'#FFFF00\\'>(最多领取6次)</font></font>\""
+    },
+    {
+      "line": 6395,
+      "name": "baifu",
+      "index": 4,
+      "value": "\"<font color=\\'#FFFF00\\'>领取满<font color=\\'#FF0000\\'>6次</font>的玩家还可以获得超级大奖 : </font>\""
+    },
+    {
+      "line": 6397,
+      "name": "baifu",
+      "index": 6,
+      "value": "\"<font color=\\'#009966\\' >如：充值<font color=\\'#FFFF00\\'>$num$元宝</font>可以领取<font color=\\'#FFFF00\\'>2次</font>奖励</font>\""
+    },
+    {
+      "line": 6402,
+      "name": "baifu",
+      "index": 12,
+      "value": "\"攻击 + \""
+    },
+    {
+      "line": 6407,
+      "name": "baifu",
+      "index": 9,
+      "value": "\"<b><font color=\\'#ffffff\\' size=\\'16\\'>挑战烈焰神王介绍：<br>   1、百服活动期间，天界<font color=\\'#FF9900\\' size=\\'16\\'>至强BOSS烈焰神王</font>将出现在<br>   <A href=\\'M屠龙城:197:167\\'><font color=\\'#ff0000\\' size=\\'16\\'><b>屠龙城(坐标：197,167)</b></font></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:197:167\\'></IOBJ>范围<br>   2、击败烈焰神王可获得高额奖励<br>   3、烈焰神王死亡后，第二天<font color=\\'#00ff00\\' size=\\'16\\'>13点30分</font>复活</font><font color=\\'#FF9900\\' size=\\'16\\'><br><br><br><br>有几率掉落：</font></b>\""
+    },
+    {
+      "line": 6418,
+      "name": "baifu",
+      "index": 208,
+      "value": "\"<font color = \\'#ffff00\\'><b>转盘玩法：</b></font><br>玩家可抽奖<font color = \\'#ff0000\\'>1次</font>或者<font color = \\'#ff0000\\'>10次</font>，每次消耗<font color = \\'#ff0000\\'>888元宝</font>，<br>抽奖获得的奖品默认的放在玩家的<font color = \\'#ff0000\\'>屠龙仓库</font>中<br>奖励物品通过精心挑选，幸运的玩家还可以抽<br>取到<font color = \\'#ff0000\\'>三大神戒</font>，<font color = \\'#ff0000\\'>坐骑升星丹</font>，<font color = \\'#ff0000\\'>天神精华</font>等超值<br>奖励。\""
+    },
+    {
+      "line": 6426,
+      "name": "HSConsume",
+      "index": 1,
+      "value": "\"<font size=\\'14\\' color=\\'#FFFF00\\'>活动结束,消费达到</font><font size=\\'14\\' color=\\'#00FF00\\'>$yb$元宝</font><font size=\\'14\\' color=\\'#FFFF00\\'>以上,且消费最高可随机获得</font><font size=\\'20\\' color=\\'#FFFF00\\'>三阶特戒之一</font>\""
+    },
+    {
+      "line": 6427,
+      "name": "HSConsume",
+      "index": 2,
+      "value": "\"<font size=\\'16\\' color=\\'#FFFF00\\'>第</font><font size=\\'16\\' color=\\'#00FF00\\'>$day$</font><font size=\\'16\\' color=\\'#FFFF00\\'>天百服活动目标</font>\""
+    },
+    {
+      "line": 6457,
+      "name": "yuanXiao",
+      "index": 9,
+      "value": "\"<b><font color=\\'#ffffff\\' size=\\'16\\'>挑战暗黑魔龙介绍：\" + \"<br>   1、元宵期间，<font color=\\'#FF9900\\' size=\\'16\\'>至强BOSS暗黑魔龙</font>将出现在<br>   \" + \"<A href=\\'M屠龙城:63:68\\'><font color=\\'#ff0000\\' size=\\'16\\'><b>屠龙城(坐标：63,68)</b></font>\" + \"</A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:63:68\\'></IOBJ>范围<br>   \" + \"2、击败暗黑魔龙可获得高额奖励<br>   \" + \"3、暗黑魔龙每<font color=\\'#00ff00\\' size=\\'16\\'>4小时</font>刷新一次</font><font color=\\'#FF9900\\' size=\\'16\\'><br><br><br><br>怪物掉落：</font></b>\""
+    },
+    {
+      "line": 6458,
+      "name": "yuanXiao",
+      "index": 10,
+      "value": "\"\" + \"<font color=\\'#FF9900\\' size=\\'16\\'>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>1、</font>活动期间,玩家可在<font color=\\'#FFff00\\' size=\\'16\\'>圣城</font>采集<A href=\\'M圣城:320:292\\'><b><font color=\\'#ff0000\\' size=\\'16\\'>【爱情之火】</font></b></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f圣城:320:292\\'></IOBJ>获得<font color=\\'#FF00ff\\' size=\\'16\\'>【爱情卡】</font>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>2、</font>玩家采集一个<font color=\\'#FF0000\\' size=\\'16\\'>【爱情之火】</font>可得一个<font color=\\'#FF00ff\\' size=\\'16\\'>【爱情卡】</font>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>3、</font>采集的<font color=\\'#FF00ff\\' size=\\'16\\'>【爱情卡】</font>可兑换奖品\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>4、</font>每个玩家有<font color=\\'#FFff00\\' size=\\'16\\'>5次</font>的兑换次数\""
+    },
+    {
+      "line": 6460,
+      "name": "yuanXiao",
+      "index": 101,
+      "value": "\"<font color=\\'#00FF00\\'>活动开始时间：2014年2月13日 - 2014年2月17日</font><br><font color=\\'#00FF00\\'>活动剩余时间：</font><font color=\\'#FFFF00\\'>$value$</font><font color=\\'#00FF00\\'>天</font>\""
+    },
+    {
+      "line": 6472,
+      "name": "yuanXiao",
+      "index": 200,
+      "value": "\"<font face='黑体' color='#d1bf75' size='15'> đã đăng nhập 5 ngày liên tục và sẽ nhận được thêm phần thưởng. </font> đã được đăng nhập trong $num$ ngày.\""
+    },
+    {
+      "line": 6478,
+      "name": "yuanXiao",
+      "index": 206,
+      "value": "\"<font size=\\'14\\' color=\\'#ffffff\\'>是否消耗</font><font size=\\'14\\' color=\\'#00ff00\\'>$num$元宝</font><font size=\\'14\\' color=\\'#ffffff\\'>购买</font><font size=\\'14\\' color=\\'#ffd800\\'>$num$</font>\""
+    },
+    {
+      "line": 6547,
+      "name": "tlqd",
+      "index": 52,
+      "value": "\"<textformat leading=\\'6\\'><font color=\\'#ffffff\\' size=\\'13\\'>活动规则：<br>活动时间内，完成下列任意一项日常任务，可获得<font color=\\'#ffcc00\\'>屠龙庆典纪念章$num$枚</font>；<br>每日<font color=\\'#ff0000\\'>0点清空完成次数</font>，请在第二天0点前完成<br>屠龙庆典纪念章：可在屠龙庆兑换界面兑换超级奖励；</font></textformat>\""
+    },
+    {
+      "line": 6554,
+      "name": "tlqd",
+      "index": 59,
+      "value": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>珍品兑换</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>超级时装</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>坐骑兑换</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>庆典BOSS</font>\""
+    },
+    {
+      "line": 6557,
+      "name": "tlqd",
+      "index": 62,
+      "value": "\"<font color = \\'#f3f328\\'>坐骑兑换说明：</font><br><br>\" + \"每人只能兑换一次坐<br>\" + \"骑，双击使用坐骑变身<br>\" + \"卡即可获得坐骑形象！<br>\" + \"<font color=\\'#ff0000\\'>在坐骑面板的时效坐骑<br>\" + \"中可以更换坐骑形象！</font>\""
+    },
+    {
+      "line": 6559,
+      "name": "tlqd",
+      "index": 64,
+      "value": "\"<font color = \\'#f3f328\\'>时装兑换说明：</font><br><br>\" + \"每人只能兑换一件<br>\" + \"时装，双击使用获得<br>\" + \"华丽时装外表的同时，<br>\" + \"还会获得一定的攻击力<br>\" + \"加成的时装属性\""
+    },
+    {
+      "line": 6560,
+      "name": "tlqd",
+      "index": 65,
+      "value": "\"<font color = \\'#f3f328\\'>庆典BOSS玩法说明：</font><br><br>\" + \"当本服所有玩家当天，珍<br>\" + \"品玩法珍宝积分总量达到<br>\" + \" 2000积分 时，即可触发<br>\" + \"庆典BOSS，它将会在当天<br>\" + \"晚上21：30分在神秘避难<br>\" + \"所出现，BOSS存活时间为<br>\" + \"两个半小时候，直到活动<br>\" + \"结束为止，珍宝积分在触<br>\" + \"发BOSS之前可以累积，召<br>\" + \"唤出深渊巨魔，积分清零\""
+    },
+    {
+      "line": 6592,
+      "name": "xunlei",
+      "index": 14,
+      "value": "\"<textformat leading=\\'6\\'><font size = \\'14\\' color = \\'#ffff00\\'><b>充值800元以上的玩家，可加入迅雷贵宾俱乐部，</b></font><br>\" + \"<font size = \\'14\\' color = \\'#ffff00\\'><b>领取贵宾大礼包，同时享有以下福利：</b></font></textformat><br>\" + \"<textformat leading=\\'3\\'>1 游戏内最新消息优先通知；<br>\" + \"2 提供会员关怀服务，建议与问题得以优先处理；<br>\" + \"3 迅雷贵族专属活动；<br>\" + \"4 金牌客服一对一服务，联系QQ：$qq$；<br>\" + \"5 享有新游戏优先体验特权等服务。</textformat>\""
+    }
+  ]
+}

@@ -27,15 +27,15 @@ powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 
 Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database. Cách này không cần cài Git trên VPS cũ.
 
-Phiên bản `20260710langcore1` giữ nền login, kích thước game, 733 chuỗi kỹ năng và bản vá chống tự chạy nhầm cổng cấp 25. Bản này sửa cấu trúc `ClientLang.txt`, đối chiếu đủ 3.069 mục với file Trung gốc, rồi biên dịch 2.868 phép gán giao diện tiếng Việt vào lớp `lang.ZH_CN` của `GameFrame.swf`. Chuỗi `Chưa kích hoạt` nằm ngoài lớp ngôn ngữ cũng được vá theo đúng lớp `model.hlp.SkillHlp`. Sau khi nhập, cả ba lớp `lang.ZH_CN`, `SkillHlp` và `LocalPlayer` đều được xuất ngược từ SWF để xác minh.
+Phiên bản `20260710langfull1` giữ nền login, chế độ phóng to gameplay, 733 chuỗi kỹ năng và bản vá chống tự chạy nhầm cổng cấp 25. Bản này đối chiếu đủ 3.069 mục trong `ClientLang.txt`, biên dịch 5.921 phép gán của lớp `lang.ZH_CN` và vá 1.029 vị trí chuỗi hard-code trong 268 lớp giao diện/gameplay. Sau khi nhập, toàn bộ 2.937 lớp ActionScript được xuất ngược để kiểm tra: không có lớp lỗi decompile, không còn Hán tự hiển thị ngoài danh sách kỹ thuật và điều kiện cùng map của `LocalPlayer` vẫn còn nguyên.
 
-Shell `20260710fullscreen1` giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
+Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
 
 ## Biên dịch CBP an toàn
 
 `tools/cbp_localizer.py` chỉ thay node chuỗi, tính lại độ dài UTF-8 và header CBP, đồng thời kiểm câu gốc trước khi ghi. Catalog kỹ năng hiện tại nằm tại `translations/skillconfig.vi.json`; không dùng lại cách giải nén toàn bộ payload thành văn bản rồi thay chuỗi.
 
-`tools/swf_lang_localizer.py` đọc `ClientLang.txt`, kiểm hình dạng mảng với file Trung gốc và chỉ ghép theo đúng tên biến/chỉ số. `tools/swf_source_patcher.py` dành cho số ít chuỗi hard-code ngoài `lang.ZH_CN`, luôn kiểm đúng file và số lần xuất hiện trước khi thay.
+`tools/swf_lang_localizer.py` đọc `ClientLang.txt` cùng các catalog bổ sung, kiểm hình dạng mảng và chỉ ghép theo đúng tên biến/chỉ số. `tools/translate_gameframe_hardcoded.py` lập catalog cho chuỗi nằm ngoài `lang.ZH_CN`; hai script audit kiểm placeholder, HTML/route kỹ thuật, chuỗi còn Hán tự và đối chiếu lại bytecode đã biên dịch. Ba lớp không thể tái biên dịch ổn định được ghi rõ trong `translations/gameframe-hardcoded-compile-exclusions.json` và giữ nguyên bytecode gốc.
 
 Lệnh `patch-bool-zip` sửa boolean có kiểm tra giá trị gốc. Bản hiện tại dùng lệnh này cho `stdquest.cbp:1.autoRun`, đồng thời xác nhận node `1.id` là nhiệm vụ 485 trước khi đóng gói.
 

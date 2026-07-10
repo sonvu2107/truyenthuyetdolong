@@ -1,0 +1,1714 @@
+{
+  "format": 1,
+  "description": "Bản dịch phần dư theo đoạn, bảo toàn mã ActionScript/HTML/route/placeholder.",
+  "translations": {
+    "starSoul[0]@158": {
+      "source_key": "starSoul[0]",
+      "source_line": 158,
+      "source_expression": "\"星魂值：\"",
+      "target_expression": "\"Điểm Tinh Hồn：\"",
+      "review": "segmented-machine"
+    },
+    "starSoul[1]@159": {
+      "source_key": "starSoul[1]",
+      "source_line": 159,
+      "source_expression": "\"十二星宫\"",
+      "target_expression": "\"Thập Nhị Tinh Cung\"",
+      "review": "segmented-machine"
+    },
+    "starSoul[3]@161": {
+      "source_key": "starSoul[3]",
+      "source_line": 161,
+      "source_expression": "\"十二星宫，完成副本，击杀BOSS，公会活动，每日福利可以获得星魂值<BR>点亮本图后即可进入十二星宫地图，十二星宫可以获得高级勋章与星魂值<BR>每个星图的第五个点和第十个点都可以升到10级，并且可以激活勋章隐藏属性\"",
+      "target_expression": "\"Thập Nhị Tinh Cung,Hoàn thành Phó Bản, giết BOSS,Bang Hội Hoạt động, lợi ích hàng ngày có thể nhận được Điểm Tinh Hồn<BR>Bấm vào hình này để vào Thập Nhị Tinh Cung bản đồ,Thập Nhị Tinh Cung Bạn có thể nhận được huy chương cấp cao và Điểm Tinh Hồn<BR>Điểm thứ năm và thứ mười của mỗi bản đồ sao có thể được nâng cấp lên cấp 10 và các thuộc tính ẩn của huy chương có thể được kích hoạt.\"",
+      "review": "segmented-machine"
+    },
+    "FightingReview[20]@213": {
+      "source_key": "FightingReview[20]",
+      "source_line": 213,
+      "source_expression": "\"装备强化\"",
+      "target_expression": "\"Trang Bị Cường Hóa\"",
+      "review": "segmented-machine"
+    },
+    "FightingReview[21]@214": {
+      "source_key": "FightingReview[21]",
+      "source_line": 214,
+      "source_expression": "\"装备宝石\"",
+      "target_expression": "\"Trang Bị Bảo Thạch\"",
+      "review": "segmented-machine"
+    },
+    "FightingReview[24]@217": {
+      "source_key": "FightingReview[24]",
+      "source_line": 217,
+      "source_expression": "\"佣兵技能\"",
+      "target_expression": "\"Dung Binh Kỹ Năng\"",
+      "review": "segmented-machine"
+    },
+    "FightingReview[29]@222": {
+      "source_key": "FightingReview[29]",
+      "source_line": 222,
+      "source_expression": "\"符文合成\"",
+      "target_expression": "\"Phù Văn Hợp Thành\"",
+      "review": "segmented-machine"
+    },
+    "Mail[20]@269": {
+      "source_key": "Mail[20]",
+      "source_line": 269,
+      "source_expression": "\"<font color=\\'0xff0000\\'>玩家</font>\"",
+      "target_expression": "\"<font color='0xff0000'>người chơi</font>\"",
+      "review": "segmented-machine"
+    },
+    "LieMing[21]@285": {
+      "source_key": "LieMing[21]",
+      "source_line": 285,
+      "source_expression": "\"确定使用<font color=\\'#00ff00\\'>$value1$</font>吞噬<font color=\\'#ff0000\\'>$value2$</font><br>将获得经验：$value3$\"",
+      "target_expression": "\"Được rồi để sử dụng<font color='#00ff00'>$value1$</font>nuốt chửng<font color='#ff0000'>$value2$</font><br>sẽ nhận được Kinh Nghiệm：$value3$\"",
+      "review": "segmented-machine"
+    },
+    "Rune[6]@297": {
+      "source_key": "Rune[6]",
+      "source_line": 297,
+      "source_expression": "\"<font face=\\'黑体\\' color=\\'#d1bf75\\' size=\\'18\\'>金币:</font>\"",
+      "target_expression": "\"<font face='黑体' color='#d1bf75' size='18'>Kim Tệ:</font>\"",
+      "review": "segmented-machine"
+    },
+    "Rune[23]@314": {
+      "source_key": "Rune[23]",
+      "source_line": 314,
+      "source_expression": "\"重要提示：<BR>  3个同级任意符文精炼后随机<BR>获得一个同级符文。<br>  有机率精炼出极品属性\"",
+      "target_expression": "\"LƯU Ý QUAN TRỌNG:<BR>Bất kỳ ai trong số 3 người ngang hàng Phù Văn Ngẫu nhiên sau khi tinh chế<BR>có được anh chị em Phù Văn。<br>Có cơ hội tinh chỉnh các thuộc tính tốt nhất\"",
+      "review": "segmented-machine"
+    },
+    "Rune[32]@323": {
+      "source_key": "Rune[32]",
+      "source_line": 323,
+      "source_expression": "\"合成\"",
+      "target_expression": "\"Hợp Thành\"",
+      "review": "segmented-machine"
+    },
+    "Rune[33]@324": {
+      "source_key": "Rune[33]",
+      "source_line": 324,
+      "source_expression": "\"符文商城\"",
+      "target_expression": "\"Phù Văn Thương Thành\"",
+      "review": "segmented-machine"
+    },
+    "Rune[67]@358": {
+      "source_key": "Rune[67]",
+      "source_line": 358,
+      "source_expression": "\"放入任意符文或人物套装装备时熔炼可以获得金币<br>符文与套装的等级越高获得的金币越多<br>熔炼是有机率人品爆发额外获得经验、绑定金币、金币等<br>放入时请必确认好是否需要熔炼的符文或套装\"",
+      "target_expression": "\"Đặt bất kỳ Phù Văn hoặc bộ ký tự Trang Bị Có thể thu được bằng cách nấu chảy Kim Tệ<br>Phù Văn Cấp độ của bộ đồ càng cao thì càng có nhiều Kim Tệ càng nhiều<br>Luyện kim có cơ hội nhận thêm điểm thông qua vụ nổ nhân vật.Kinh Nghiệm、Kim Tệ Khóa、Kim Tệ Chờ đợi<br>Vui lòng xác nhận xem nó có cần được nấu chảy hay không khi đưa nó vào Phù Văn hoặc đặt\"",
+      "review": "segmented-machine"
+    },
+    "Rune[87]@378": {
+      "source_key": "Rune[87]",
+      "source_line": 378,
+      "source_expression": "\"<A href=\\'@@showWin,6,2\\'><font color=\\'#00ff00\\'>商城</font></A>、<A href=\\'@@showWin,1100\\'><font color=\\'#00ff00\\'>传奇宝藏</font></A>、野外怪物死亡可获得符文\"",
+      "target_expression": "\"<A href='@@showWin,6,2'><font color='#00ff00'>Thương Thành</font></A>、<A href='@@showWin,1100'><font color='#00ff00'>kho báu huyền thoại</font></A>,cánh đồng Quái Vật Có được từ cái chết Phù Văn\"",
+      "review": "segmented-machine"
+    },
+    "Rune[106]@397": {
+      "source_key": "Rune[106]",
+      "source_line": 397,
+      "source_expression": "\"装备符文\"",
+      "target_expression": "\"Trang Bị Phù Văn\"",
+      "review": "segmented-machine"
+    },
+    "Rune[113]@404": {
+      "source_key": "Rune[113]",
+      "source_line": 404,
+      "source_expression": "\"2．双击或许拖拽已辨识符文，可将指<br>定的符文放置右侧符文框内\"",
+      "target_expression": "\"2. Nhấp đúp hoặc kéo được nhận dạng Phù Văn, có thể tham khảo<br>Xác định Phù Văn Đặt bên phải Phù Văn bên trong hộp\"",
+      "review": "segmented-machine"
+    },
+    "Rune[117]@408": {
+      "source_key": "Rune[117]",
+      "source_line": 408,
+      "source_expression": "\"2．双击或者拖拽已辨识符文，可将指<br>定的符文放置右侧符文框内\"",
+      "target_expression": "\"2. Nhấp đúp hoặc kéo biểu tượng đã nhận dạng Phù Văn, có thể tham khảo<br>Xác định Phù Văn Đặt bên phải Phù Văn bên trong hộp\"",
+      "review": "segmented-machine"
+    },
+    "Rune[119]@410": {
+      "source_key": "Rune[119]",
+      "source_line": 410,
+      "source_expression": "\"4．精炼后的符文依然存在符文精炼栏<br>内，可通过以下操作将其放置回符文<br>包裹内：<br>双击该符文；<br>拖拽该符文至符文包裹内；<br>关闭符文精炼栏；\"",
+      "target_expression": "\"4． tinh chế Phù Văn vẫn tồn tại Phù Văn Cột tinh chế<br>bên trong, bạn có thể đặt nó trở lại bằng cách làm như sau Phù Văn<br>Bên trong gói:<br>Nhấp đúp chuột vào Phù Văn；<br>Kéo Phù Văn ĐẾN Phù Văn trong gói;<br>đóng cửa Phù Văn Cột tinh chế;\"",
+      "review": "segmented-machine"
+    },
+    "GameConst_HeroJobNames[0]@679": {
+      "source_key": "GameConst_HeroJobNames[0]",
+      "source_line": 679,
+      "source_expression": "\"全类型\"",
+      "target_expression": "\"Tất cả các loại\"",
+      "review": "segmented-machine"
+    },
+    "GameConst_HeroJobNames[0]@684": {
+      "source_key": "GameConst_HeroJobNames[0]",
+      "source_line": 684,
+      "source_expression": "\"全\"",
+      "target_expression": "\"Hoàn thành\"",
+      "review": "segmented-machine"
+    },
+    "GameConst_HeroJobNames[0]@685": {
+      "source_key": "GameConst_HeroJobNames[0]",
+      "source_line": 685,
+      "source_expression": "\"防\"",
+      "target_expression": "\"Phòng vệ\"",
+      "review": "segmented-machine"
+    },
+    "GameConst_HeroJobNames[0]@686": {
+      "source_key": "GameConst_HeroJobNames[0]",
+      "source_line": 686,
+      "source_expression": "\"攻\"",
+      "target_expression": "\"tấn công\"",
+      "review": "segmented-machine"
+    },
+    "GameConst_MenuCaptions@728": {
+      "source_key": "GameConst_MenuCaptions",
+      "source_line": 728,
+      "source_expression": "[\"查看装备\",\"查看资料\",\" 交    易\",\" 私    聊\",\"加为好友\",\"邀请组队\",\"申请入队\",\"复制名称\",\"邀请切磋\",\"查看摆摊\",\"邀请入会\",\"话框聊天\",\"收为徒弟\",\" 赠    送\",\"屏蔽发言\",\"踢出队伍\",\"委任队长\",\"删除好友\",\"删除仇人\",\"添加仇人\",\"查看名片\",\"拜其为师\",\"收其为徒\",\" 拥    吻\",\"GM会话框\",\"召唤队友\",\"赠送鞭炮\",\"赠送红包\",\"话框聊天 \"]",
+      "target_expression": "[\"Kiểm tra Trang Bị\",\"Xem hồ sơ\",\"buôn bán\",\"trò chuyện riêng tư\",\"Thêm làm bạn bè\",\"Mời đội\",\"Đăng ký tham gia vào đội\",\"Sao chép tên\",\"Mời thảo luận\",\"Kiểm tra các quầy hàng\",\"Mời tham gia\",\"hộp trò chuyện\",\"Nhận làm đệ tử\",\"cho đi\",\"Chặn bình luận\",\"đuổi đội\",\"Bổ nhiệm đội trưởng\",\"xóa bạn bè\",\"Xóa kẻ thù\",\"thêm kẻ thù\",\"Xem danh thiếp\",\"Tôn thờ ông như một giáo viên\",\"Nhận anh làm đệ tử\",\"ôm\",\"hộp thoại GM\",\"Triệu tập đồng đội\",\"Tặng pháo\",\"Tặng phong bì màu đỏ\",\"hộp trò chuyện\"]",
+      "review": "segmented-machine"
+    },
+    "GameConst_MenuExtendCaptions@729": {
+      "source_key": "GameConst_MenuExtendCaptions",
+      "source_line": 729,
+      "source_expression": "[\"\",\"拥吻\",\"飞吻\",\"赞美\",\"整蛊\"]",
+      "target_expression": "[\"\",\"hôn\",\"hôn một cái\",\"khen\",\"Khôn lanh\"]",
+      "review": "segmented-machine"
+    },
+    "GameConst_PKMenuCaptions@730": {
+      "source_key": "GameConst_PKMenuCaptions",
+      "source_line": 730,
+      "source_expression": "[\"<font color=\\'#00CC00\\'>和平,不对任何玩家造成伤害</font>\",\"<font color=\\'#7447D1\\'>队伍,对队伍外的玩家造成伤害</font>\",\"<font color=\\'#006CD9\\'>行会,对行会外的玩家造成伤害</font>\",\"<font color=\\'#CC0000\\'>善恶,只对红名与褐名玩家造成伤害</font>\",\"<font color=\\'#FFCC00\\'>全体,对任何玩家都能造成伤害</font>\"]",
+      "target_expression": "[\"<font color='#00CC00'>hòa bình, không có gì người chơi gây thiệt hại</font>\",\"<font color='#7447D1'>đội, với những người bên ngoài đội người chơi gây thiệt hại</font>\",\"<font color='#006CD9'>Bang Hội,Phải Bang Hội ngoài người chơi gây thiệt hại</font>\",\"<font color='#CC0000'>Thiện và ác chỉ có tên màu đỏ và tên màu nâu người chơi gây thiệt hại</font>\",\"<font color='#FFCC00'>với tất cả, với bất kỳ ai người chơi có thể gây hại</font>\"]",
+      "review": "segmented-machine"
+    },
+    "GameConst_ScreenCaptions@731": {
+      "source_key": "GameConst_ScreenCaptions",
+      "source_line": 731,
+      "source_expression": "[\"<font color=\\'#00CC00\\'>   隐藏全部玩家</font>\",\"<font color=\\'#7447D1\\'>   隐藏同行会玩家</font>\",\"<font color=\\'#006CD9\\'>   隐藏同队伍玩家</font>\",\"<font color=\\'#CC0000\\'>   隐藏技能特效</font>\",\"<font color=\\'#FFCC00\\'>   隐藏人物光效</font>\",\"<font color=\\'#FFCC00\\'>   隐藏称号</font>\",\"<font color=\\'#FFCC00\\'>   隐藏行会名称</font>\",\"<font color=\\'#FFCC00\\'>   隐藏怪物</font>\"]",
+      "target_expression": "[\"<font color='#00CC00'>Ẩn tất cả người chơi</font>\",\"<font color='#7447D1'>Ẩn tương tự Bang Hội người chơi</font>\",\"<font color='#006CD9'>Ẩn cùng một đội người chơi</font>\",\"<font color='#CC0000'>trốn Kỹ Năng hiệu ứng đặc biệt</font>\",\"<font color='#FFCC00'>Hiệu ứng ánh sáng nhân vật ẩn</font>\",\"<font color='#FFCC00'>Tiêu đề ẩn</font>\",\"<font color='#FFCC00'>trốn Bang Hội tên</font>\",\"<font color='#FFCC00'>trốn Quái Vật</font>\"]",
+      "review": "segmented-machine"
+    },
+    "GameConst_Awards[11]@840": {
+      "source_key": "GameConst_Awards[11]",
+      "source_line": 840,
+      "source_expression": "\"星魂值\"",
+      "target_expression": "\"Điểm Tinh Hồn\"",
+      "review": "segmented-machine"
+    },
+    "GameConst_Awards[12]@841": {
+      "source_key": "GameConst_Awards[12]",
+      "source_line": 841,
+      "source_expression": "\"绑定金币\"",
+      "target_expression": "\"Kim Tệ Khóa\"",
+      "review": "segmented-machine"
+    },
+    "beachGril[3]@892": {
+      "source_key": "beachGril[3]",
+      "source_line": 892,
+      "source_expression": "\"<font color=\\'#82817f\\'>本宝贝能使您获得</font><font color=\\'#b08b61\\'>$exp$%的经验奖励</font><font color=\\'#82817f\\'>加成，并且能与<br>您：</font><font color=\\'#b08b61\\'>$huodong$</font>\"",
+      "target_expression": "\"<font color='#82817f'>Sản phẩm này cho phép bạn có được</font><font color='#b08b61'>$exp$%của Kinh Nghiệm Phần Thưởng</font><font color='#82817f'>tiền thưởng và có thể được kết hợp với<br>Bạn:</font><font color='#b08b61'>$huodong$</font>\"",
+      "review": "segmented-machine"
+    },
+    "role[10]@921": {
+      "source_key": "role[10]",
+      "source_line": 921,
+      "source_expression": "\"战士\\t\\t\\t 法师             道士\"",
+      "target_expression": "\"Chiến Sĩ\\t\\t\\t Pháp Sư             Đạo Sĩ\"",
+      "review": "segmented-machine"
+    },
+    "property[33]@1062": {
+      "source_key": "property[33]",
+      "source_line": 1062,
+      "source_expression": "\"符文合成\"",
+      "target_expression": "\"Phù Văn Hợp Thành\"",
+      "review": "segmented-machine"
+    },
+    "property[38]@1067": {
+      "source_key": "property[38]",
+      "source_line": 1067,
+      "source_expression": "\"金币\"",
+      "target_expression": "\"Kim Tệ\"",
+      "review": "segmented-machine"
+    },
+    "property[50]@1074": {
+      "source_key": "property[50]",
+      "source_line": 1074,
+      "source_expression": "\"星魂\"",
+      "target_expression": "\"Tinh Hồn\"",
+      "review": "segmented-machine"
+    },
+    "property[51]@1075": {
+      "source_key": "property[51]",
+      "source_line": 1075,
+      "source_expression": "\"<textformat leading=\\'4\\'><font color=\\'#cc9933\\'>\" + \"体力: <font color=\\'#cccccc\\'>$value$/$value$</font><br>\" + \"法力: <font color=\\'#cccccc\\'>$value$/$value$</font>\" + \"</font></textformat>\"",
+      "target_expression": "\"<textformat leading='4'><font color='#cc9933'>\" + \"sức mạnh thể chất:<font color='#cccccc'>$value$/$value$</font><br>\" + \"Mana:<font color='#cccccc'>$value$/$value$</font>\" + \"</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "property[56]@1080": {
+      "source_key": "property[56]",
+      "source_line": 1080,
+      "source_expression": "\"符文\"",
+      "target_expression": "\"Phù Văn\"",
+      "review": "segmented-machine"
+    },
+    "property[59]@1083": {
+      "source_key": "property[59]",
+      "source_line": 1083,
+      "source_expression": "\"行会: \"",
+      "target_expression": "\"Bang Hội: \"",
+      "review": "segmented-machine"
+    },
+    "property[61]@1085": {
+      "source_key": "property[61]",
+      "source_line": 1085,
+      "source_expression": "\"<(c0xFF00FF00)酷炫时装> có thể được mua từ <(c0xFF00FF00)商城中的个性装备>. Nhấp vào nút này để mở <(c0xFF00FF00)个性装备界面>.\"",
+      "target_expression": "\"<(c0xFF00FF00)thời trang mát mẻ> có thể được mua từ <(c0xFF00FF00)Thương Thành cá tính trong Trang Bị>. Nhấp vào nút này để mở <(c0xFF00FF00)nhân cách Trang Bị giao diện>.\"",
+      "review": "segmented-machine"
+    },
+    "property[67]@1091": {
+      "source_key": "property[67]",
+      "source_line": 1091,
+      "source_expression": "\"<font color=\\'#00FF00\\'>受到伤害时会减少生命值,生命值少于0时人物会死亡</font>;\" + \"<font color=\\'#00FF00\\'>施放技能时候需要消耗魔法值</font>;\" + \";\" + \"<font color=\\'#00FF00\\'>直接增加对</font><font color=\\'#ffcc00\\'>【怪物】</font><font color=\\'#00FF00\\'>的伤害</font>;\" + \"<font color=\\'#00FF00\\'>达到满级后可以转生,转生时候需要消耗一定的转生灵魄</font>;\" + \"<font color=\\'#00FF00\\'>增加法术命中几率，仅与</font><font color=\\'#ffcc00\\'>【魔法闪避】</font><font color=\\'#00FF00\\'>对抗，不能增加<br>\" + \"由于</font><font color=\\'#ffcc00\\'>【准确】</font><font color=\\'#00FF00\\'>不足带来的</font><font color=\\'#ffcc00\\'>【失手率】</font>;\" + \"<font color=\\'#00FF00\\'>增加对于魔法与道术技能的的闪避<br>几率。仅与</font><font color=\\'#ffcc00\\'>【魔法命中】</font><font color=\\'#00FF00\\'><br>\" + \"对抗,不能增加由于</font><font color=\\'#ffcc00\\'>【敏捷】</font><font color=\\'#00FF00\\'>不足带来的</font><font color=\\'#ffcc00\\'>【闪避率】</font>;\" + \"<font color=\\'#00FF00\\'>增加对于中毒效果（道士的红、绿<br>\" + \"毒，麻痹毒等）的闪避几率</font>;\" + \"<font color=\\'#00FF00\\'>百分比增加生命值的恢复速度</font>;\" + \"<font color=\\'#00FF00\\'>百分比增加魔法值的复速度</font>;\" + \"<font color=\\'#00FF00\\'>百分比减少自身中毒的时间</font>;\" + \"<font color=\\'#00FF00\\'>只要拥有1%或以上的</font><font color=\\'#ffcc00\\'>【死亡回复】</font><font color=\\'#00FF00\\'>，都可以在死亡后马上复活，冷却时间<br>\" + \"是1分钟。同时，</font><font color=\\'#ffcc00\\'>【<死亡回复】</font><font color=\\'#00FF00\\'>的数值表示复活后的生命回复到多少</font>;\" + \"<font color=\\'#00FF00\\'>每一点</font><font color=\\'#ffcc00\\'>【麻痹几率】</font><font color=\\'#00FF00\\'>都会增加1%几率使得在物理攻击时候<br>\" + \"令目标麻痹5秒。麻痹后不能移动、不能使用技能</font>;\" + \"<font color=\\'#00FF00\\'>移动速度显示属性数值越小，移动速度越快</font>;\" + \"<font color=\\'#00FF00\\'>攻击速度显示属性数值越小，攻击速度越快</font>;\" + \"<font color=\\'#00FF00\\'>每1%</font><font color=\\'#ffcc00\\'>【魔法法值抵消伤害】</font><font color=\\'#00FF00\\'>会都使<br>\" + \"得受到伤害的1%变成扣除</font><font color=\\'#ffcc00\\'>【魔法值】</font>;\"",
+      "target_expression": "\"<font color='#00FF00'>Giảm khi nhận sát thương Sinh Lực,Sinh Lực Khi nó nhỏ hơn 0, nhân vật sẽ chết.</font>;\" + \"<font color='#00FF00'>dàn diễn viên Kỹ Năng thời gian cần phải được tiêu thụ Pháp Lực</font>;\" + \";\" + \"<font color='#00FF00'>trực tiếp thêm vào</font><font color='#ffcc00'>【Quái Vật】</font><font color='#00FF00'>hư hại</font>;\" + \"<font color='#00FF00'>Sau khi đạt cấp độ đầy đủ, bạn có thể Chuyển Sinh,Chuyển Sinh Phải mất một khoảng thời gian nhất định Chuyển Sinh Linh hồn</font>;\" + \"<font color='#00FF00'>Thêm phép thuật Chính Xác Xác suất chỉ với</font><font color='#ffcc00'>【ảo thuật Né Tránh】</font><font color='#00FF00'>Sự đối đầu không thể gia tăng<br>\" + \"bởi vì</font><font color='#ffcc00'>【chính xác】</font><font color='#00FF00'>do thiếu sót gây ra</font><font color='#ffcc00'>[Tỷ lệ trượt]</font>;\" + \"<font color='#00FF00'>Bổ sung kiến ​​thức về phép thuật và Đạo giáo Kỹ Năng của Né Tránh<br>xác suất. Chỉ với</font><font color='#ffcc00'>【ảo thuật Chính Xác】</font><font color='#00FF00'><br>\" + \"Sự đối đầu, không thể gia tăng do</font><font color='#ffcc00'>[nhanh nhẹn]</font><font color='#00FF00'>do thiếu sót gây ra</font><font color='#ffcc00'>【Né Tránh Tỷ lệ】</font>;\" + \"<font color='#00FF00'>Tăng tác dụng gây ngộ độc (Đạo Sĩ đỏ, xanh lá cây<br>\" + \"chất độc, chất độc làm tê liệt, v.v.)Né Tránh xác suất</font>;\" + \"<font color='#00FF00'>tăng phần trăm Sinh Lực tốc độ phục hồi</font>;\" + \"<font color='#00FF00'>tăng phần trăm Pháp Lực Tốc độ phức hợp</font>;\" + \"<font color='#00FF00'>Phần trăm giảm thời gian tự nhiễm độc</font>;\" + \"<font color='#00FF00'>Chỉ cần bạn sở hữu từ 1% trở lên</font><font color='#ffcc00'>[Trả lời tử thần]</font><font color='#00FF00'>, có thể được thực hiện ngay sau khi chết Hồi Sinh，Thời Gian Chờ<br>\" + \"Đó là 1 phút. đồng thời,</font><font color='#ffcc00'>[<Trả lời tử thần]</font><font color='#00FF00'>biểu diễn số của Hồi Sinh Bao nhiêu cuộc sống sẽ được phục hồi sau</font>;\" + \"<font color='#00FF00'>mọi điểm</font><font color='#ffcc00'>[Xác suất tê liệt]</font><font color='#00FF00'>sẽ tăng cơ hội lên 1% rằng Vật Công khi<br>\" + \"Làm tê liệt mục tiêu trong 5 giây. Không thể di chuyển hoặc sử dụng sau khi bị tê liệt Kỹ Năng</font>;\" + \"<font color='#00FF00'>Giá trị của thuộc tính hiển thị tốc độ di chuyển càng nhỏ thì tốc độ di chuyển càng nhanh.</font>;\" + \"<font color='#00FF00'>Tấn Công Giá trị của thuộc tính hiển thị tốc độ càng nhỏ thì Tấn Công càng nhanh</font>;\" + \"<font color='#00FF00'>cứ 1%</font><font color='#ffcc00'>[Giá trị phép thuật bù đắp sát thương]</font><font color='#00FF00'>Tất cả sẽ làm<br>\" + \"1% thiệt hại nhận được sẽ trở thành khoản khấu trừ</font><font color='#ffcc00'>【Pháp Lực】</font>;\"",
+      "review": "segmented-machine"
+    },
+    "Prop_EquipPosNames[200]@1142": {
+      "source_key": "Prop_EquipPosNames[200]",
+      "source_line": 1142,
+      "source_expression": "\"符文\"",
+      "target_expression": "\"Phù Văn\"",
+      "review": "segmented-machine"
+    },
+    "bag[70]@1218": {
+      "source_key": "bag[70]",
+      "source_line": 1218,
+      "source_expression": "\"背包道具\"",
+      "target_expression": "\"Hành Trang Vật Phẩm\"",
+      "review": "segmented-machine"
+    },
+    "bag[86]@1234": {
+      "source_key": "bag[86]",
+      "source_line": 1234,
+      "source_expression": "\"　　　　需要<font color=\\'#FFFF00\\'>$money$元宝</font><br>（或者<font color=\\'#FFFF00\\'>$value$</font>个仓库开启卷轴）\"",
+      "target_expression": "\"nhu cầu<font color='#FFFF00'>$money$Nguyên Bảo</font><br>(hoặc<font color='#FFFF00'>$value$</font>Cuộn mở kho)\"",
+      "review": "segmented-machine"
+    },
+    "bag[100]@1248": {
+      "source_key": "bag[100]",
+      "source_line": 1248,
+      "source_expression": "\"<font letterspacing=\\'0\\'>元宝</font>\"",
+      "target_expression": "\"<font letterspacing='0'>Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "bag[101]@1249": {
+      "source_key": "bag[101]",
+      "source_line": 1249,
+      "source_expression": "\"<font letterspacing=\\'0\\'>金币</font>\"",
+      "target_expression": "\"<font letterspacing='0'>Kim Tệ</font>\"",
+      "review": "segmented-machine"
+    },
+    "bag[102]@1250": {
+      "source_key": "bag[102]",
+      "source_line": 1250,
+      "source_expression": "\"<font letterspacing=\\'0\\'>绑定金币</font>\"",
+      "target_expression": "\"<font letterspacing='0'>Kim Tệ Khóa</font>\"",
+      "review": "segmented-machine"
+    },
+    "bag[104]@1252": {
+      "source_key": "bag[104]",
+      "source_line": 1252,
+      "source_expression": "\"<font color=\\'#ff0000\\'>40级以上装备可以在屠龙城<br>NPC处兑换为神魂值</font>\"",
+      "target_expression": "\"<font color='#ff0000'>Cấp 40 trở lên Trang Bị Có thể tìm thấy ở Đồ Long thành phố<br>Đổi nó lấy giá trị linh hồn tại NPC</font>\"",
+      "review": "segmented-machine"
+    },
+    "rank[23]@1396": {
+      "source_key": "rank[23]",
+      "source_line": 1396,
+      "source_expression": "\"战士,法师,道士\"",
+      "target_expression": "\"Chiến Sĩ,Pháp Sư,Đạo Sĩ\"",
+      "review": "segmented-machine"
+    },
+    "quest[67]@1470": {
+      "source_key": "quest[67]",
+      "source_line": 1470,
+      "source_expression": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"首充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>任意元宝，可获得\"",
+      "target_expression": "\"<Font color='#ffff66'>\" + \"<font color='#3399ff'>[Giải thưởng lớn]</font> \" + \"Lần sạc đầu tiên Nhiệm Vụ\" + \"</Font>\" + \"<BR>\" + \"<A href='event:1'><font color='0x00ff00'>Nạp Thẻ</font></A>tùy ý Nguyên Bảo, có sẵn\"",
+      "review": "segmented-machine"
+    },
+    "quest[68]@1471": {
+      "source_key": "quest[68]",
+      "source_line": 1471,
+      "source_expression": "\"<首充礼包/@@showWin,34>\"",
+      "target_expression": "\"<Lần sạc đầu tiên Gói Quà/@@showWin,34>\"",
+      "review": "segmented-machine"
+    },
+    "quest[69]@1472": {
+      "source_key": "quest[69]",
+      "source_line": 1472,
+      "source_expression": "\"<Font color=\\'#ffff00\\'>\" + \"<font color=\\'#ff00ff\\'>[经验]</font>\" + \"护送任务\" + \"</Font>\"",
+      "target_expression": "\"<Font color='#ffff00'>\" + \"<font color='#ff00ff'>[Kinh Nghiệm]</font>\" + \"hộ tống Nhiệm Vụ\" + \"</Font>\"",
+      "review": "segmented-machine"
+    },
+    "quest[70]@1473": {
+      "source_key": "quest[70]",
+      "source_line": 1473,
+      "source_expression": "\"<(接任务)/M罗格营地:0:0:基德>\"",
+      "target_expression": "\"<(nắm lấy Nhiệm Vụ)/M罗格营地:0:0:基德>\"",
+      "review": "segmented-machine"
+    },
+    "quest[71]@1474": {
+      "source_key": "quest[71]",
+      "source_line": 1474,
+      "source_expression": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f罗格营地:0:0:基德\\'></IOBJ>\" + \"<BR>\"",
+      "target_expression": "\"<IOBJ class='view.game.components.button.FastTransferButton' linkURL='f罗格营地:0:0:基德'></IOBJ>\" + \"<BR>\"",
+      "review": "segmented-machine"
+    },
+    "quest[73]@1476": {
+      "source_key": "quest[73]",
+      "source_line": 1476,
+      "source_expression": "\"<font color=\\'#3399ff\\'>[活动]</font><Font color=\\'#ffff66\\'>$num$</Font><A href=\\'event:1\\'><font color=\\'#00cc33\\'>查看</font></A>\"",
+      "target_expression": "\"<font color='#3399ff'>[Hoạt động]</font><Font color='#ffff66'>$num$</Font><A href='event:1'><font color='#00cc33'>Kiểm tra</font></A>\"",
+      "review": "segmented-machine"
+    },
+    "quest[77]@1480": {
+      "source_key": "quest[77]",
+      "source_line": 1480,
+      "source_expression": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"再充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>充值2000元宝，可获得\"",
+      "target_expression": "\"<Font color='#ffff66'>\" + \"<font color='#3399ff'>[Giải thưởng lớn]</font> \" + \"nạp tiền Nhiệm Vụ\" + \"</Font>\" + \"<BR>\" + \"<A href='event:1'><font color='0x00ff00'>Nạp Thẻ</font></A>Nạp Thẻ 2000 Nguyên Bảo, có sẵn\"",
+      "review": "segmented-machine"
+    },
+    "quest[78]@1481": {
+      "source_key": "quest[78]",
+      "source_line": 1481,
+      "source_expression": "\"<再充礼包/@@showWin,34>\"",
+      "target_expression": "\"<nạp tiền Gói Quà/@@showWin,34>\"",
+      "review": "segmented-machine"
+    },
+    "quest[79]@1482": {
+      "source_key": "quest[79]",
+      "source_line": 1482,
+      "source_expression": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"三充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>充值3000元宝，可获得\"",
+      "target_expression": "\"<Font color='#ffff66'>\" + \"<font color='#3399ff'>[Giải thưởng lớn]</font> \" + \"Ba lần sạc Nhiệm Vụ\" + \"</Font>\" + \"<BR>\" + \"<A href='event:1'><font color='0x00ff00'>Nạp Thẻ</font></A>Nạp Thẻ 3000 Nguyên Bảo, có sẵn\"",
+      "review": "segmented-machine"
+    },
+    "quest[80]@1483": {
+      "source_key": "quest[80]",
+      "source_line": 1483,
+      "source_expression": "\"<三充礼包/@@showWin,34>\"",
+      "target_expression": "\"<Ba lần sạc Gói Quà/@@showWin,34>\"",
+      "review": "segmented-machine"
+    },
+    "quest[81]@1484": {
+      "source_key": "quest[81]",
+      "source_line": 1484,
+      "source_expression": "\"<Font color=\\'#ffff66\\'>\" + \"<font color=\\'#3399ff\\'>[巨奖]</font> \" + \"豪充任务\" + \"</Font>\" + \"<BR>\" + \"<A href=\\'event:1\\'><font color=\\'0x00ff00\\'>充值</font></A>充值5000元宝，可获得\"",
+      "target_expression": "\"<Font color='#ffff66'>\" + \"<font color='#3399ff'>[Giải thưởng lớn]</font> \" + \"Hạo Xung Nhiệm Vụ\" + \"</Font>\" + \"<BR>\" + \"<A href='event:1'><font color='0x00ff00'>Nạp Thẻ</font></A>Nạp Thẻ 5000 Nguyên Bảo, có sẵn\"",
+      "review": "segmented-machine"
+    },
+    "quest[82]@1485": {
+      "source_key": "quest[82]",
+      "source_line": 1485,
+      "source_expression": "\"<豪充礼包/@@showWin,34>\"",
+      "target_expression": "\"<Hạo Xung Gói Quà/@@showWin,34>\"",
+      "review": "segmented-machine"
+    },
+    "quest[83]@1486": {
+      "source_key": "quest[83]",
+      "source_line": 1486,
+      "source_expression": "\"|<提升坐骑/@@showWin,81>|<鉴定符文/@@showWin,1004>|<组建队伍/@@showWin,30>|<添加好友/@@showWin,24>|<强化装备/@@showWin,5,0>|<鉴定装备/@@showWin,5,2>|<升级装备/@@showWin,5,1>\"",
+      "target_expression": "\"|<khuyến khích Tọa Kỵ/@@showWin,81>|<nhận dạng Phù Văn/@@showWin,1004>|<Thành lập một đội/@@showWin,30>|<Thêm bạn bè/@@showWin,24>|<Cường Hóa Trang Bị/@@showWin,5,0>|<nhận dạng Trang Bị/@@showWin,5,2>|<nâng cấp Trang Bị/@@showWin,5,1>\"",
+      "review": "segmented-machine"
+    },
+    "quest[89]@1492": {
+      "source_key": "quest[89]",
+      "source_line": 1492,
+      "source_expression": "\"<font color=\\'#ffff00\\'><font color=\\'#ff00ff\\'>[经验]</font>日常任务</font><A href=\\'@@showWin,1009\\'><font color=\\'#00ff00\\'>(接任务)</font></A>\"",
+      "target_expression": "\"<font color='#ffff00'><font color='#ff00ff'>[Kinh Nghiệm]</font>hằng ngày Nhiệm Vụ</font><A href='@@showWin,1009'><font color='#00ff00'>(nắm lấy Nhiệm Vụ)</font></A>\"",
+      "review": "segmented-machine"
+    },
+    "quest[90]@1493": {
+      "source_key": "quest[90]",
+      "source_line": 1493,
+      "source_expression": "\"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>送发光神器+10</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>,\" + \"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>送霸气坐骑</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>,\" + \"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>送属性</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>,\" + \"<font color=\\'#3399ff\\'>[奖励]</font><font color=\\'#ffff00\\'>坐骑升5星、宝石、高级装备</font><A href=\\'event:1\\'><font color=\\'0x00ff00\\'>(领取)</font></A>\"",
+      "target_expression": "\"<font color='#3399ff'>[Phần Thưởng]</font><font color='#ffff00'>Nhận tạo tác phát sáng +10</font><A href='event:1'><font color='0x00ff00'>(nhận được)</font></A>,\" + \"<font color='#3399ff'>[Phần Thưởng]</font><font color='#ffff00'>Gửi độc đoán Tọa Kỵ</font><A href='event:1'><font color='0x00ff00'>(nhận được)</font></A>,\" + \"<font color='#3399ff'>[Phần Thưởng]</font><font color='#ffff00'>Gửi thuộc tính</font><A href='event:1'><font color='0x00ff00'>(nhận được)</font></A>,\" + \"<font color='#3399ff'>[Phần Thưởng]</font><font color='#ffff00'>Tọa Kỵ Tăng lên 5 sao,Bảo Thạch,trình độ cao Trang Bị</font><A href='event:1'><font color='0x00ff00'>(nhận được)</font></A>\"",
+      "review": "segmented-machine"
+    },
+    "quest[91]@1494": {
+      "source_key": "quest[91]",
+      "source_line": 1494,
+      "source_expression": "\"<挑战暗黑BOSS/@@showWin,1094>\"",
+      "target_expression": "\"<Thử thách BOSS bóng tối/@@showWin,1094>\"",
+      "review": "segmented-machine"
+    },
+    "quest[92]@1495": {
+      "source_key": "quest[92]",
+      "source_line": 1495,
+      "source_expression": "\"Tìm kiếm Đồ Long cá nhân thành phố Phó Bản tin nhắn <(接任务)/M屠龙城:0:0:个人副本使者>\"",
+      "target_expression": "\"Tìm kiếm Đồ Long cá nhân thành phố Phó Bản tin nhắn <(nắm lấy Nhiệm Vụ)/M屠龙城:0:0:个人副本使者>\"",
+      "review": "segmented-machine"
+    },
+    "quest[93]@1496": {
+      "source_key": "quest[93]",
+      "source_line": 1496,
+      "source_expression": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:0:0:个人副本使者\\'></IOBJ>\"",
+      "target_expression": "\"<IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:0:0:个人副本使者'></IOBJ>\"",
+      "review": "segmented-machine"
+    },
+    "quest[95]@1498": {
+      "source_key": "quest[95]",
+      "source_line": 1498,
+      "source_expression": "\"Đang tìm kiếm Đồ Long thành phố Phó Bản tin nhắn <(接任务)/M屠龙城:0:0:副本使者>\"",
+      "target_expression": "\"Đang tìm kiếm Đồ Long thành phố Phó Bản tin nhắn <(nắm lấy Nhiệm Vụ)/M屠龙城:0:0:副本使者>\"",
+      "review": "segmented-machine"
+    },
+    "quest[96]@1499": {
+      "source_key": "quest[96]",
+      "source_line": 1499,
+      "source_expression": "\"<IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:0:0:副本使者\\'></IOBJ>\"",
+      "target_expression": "\"<IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:0:0:副本使者'></IOBJ>\"",
+      "review": "segmented-machine"
+    },
+    "quest[97]@1500": {
+      "source_key": "quest[97]",
+      "source_line": 1500,
+      "source_expression": "\"<font color=\\'#ff00ff\\'>[装备、经验]</font>\"",
+      "target_expression": "\"<font color='#ff00ff'>[Trang Bị、Kinh Nghiệm]</font>\"",
+      "review": "segmented-machine"
+    },
+    "quest[98]@1501": {
+      "source_key": "quest[98]",
+      "source_line": 1501,
+      "source_expression": "\"Tìm <副本使者/M屠龙城:0:0:副本使者>\"",
+      "target_expression": "\"Tìm <Phó Bản tin nhắn/M屠龙城:0:0:副本使者>\"",
+      "review": "segmented-machine"
+    },
+    "quest[100]@1503": {
+      "source_key": "quest[100]",
+      "source_line": 1503,
+      "source_expression": "\"Tìm <个人副本/M屠龙城:0:0:个人副本使者>\"",
+      "target_expression": "\"Tìm <riêng tư Phó Bản/M屠龙城:0:0:个人副本使者>\"",
+      "review": "segmented-machine"
+    },
+    "quest[101]@1504": {
+      "source_key": "quest[101]",
+      "source_line": 1504,
+      "source_expression": "\"<勇闯奶牛副本/M屠龙城:0:0:副本使者>\"",
+      "target_expression": "\"<Dũng cảm với những con bò Phó Bản/M屠龙城:0:0:副本使者>\"",
+      "review": "segmented-machine"
+    },
+    "quest[103]@1506": {
+      "source_key": "quest[103]",
+      "source_line": 1506,
+      "source_expression": "\"<font color=\\'#ff00ff\\'>[金币]</font>\"",
+      "target_expression": "\"<font color='#ff00ff'>[Kim Tệ]</font>\"",
+      "review": "segmented-machine"
+    },
+    "quest[104]@1507": {
+      "source_key": "quest[104]",
+      "source_line": 1507,
+      "source_expression": "\"<font color=\\'#ff00ff\\'>[经验]</font>\"",
+      "target_expression": "\"<font color='#ff00ff'>[Kinh Nghiệm]</font>\"",
+      "review": "segmented-machine"
+    },
+    "team[19]@1558": {
+      "source_key": "team[19]",
+      "source_line": 1558,
+      "source_expression": "\"[Tuyển đồng đội] $num$ nhanh như $num$, vẫn còn vị trí $num$ trong đội. <申请加入/j1,$num$>\"",
+      "target_expression": "\"[Tuyển đồng đội] $num$ nhanh như $num$, vẫn còn vị trí $num$ trong đội. <Đăng ký tham gia/j1,$num$>\"",
+      "review": "segmented-machine"
+    },
+    "equipBoost[162]@1757": {
+      "source_key": "equipBoost[162]",
+      "source_line": 1757,
+      "source_expression": "\"<font color=\\'#FFFF33\\'>强化+$value$</font>\"",
+      "target_expression": "\"<font color='#FFFF33'>Cường Hóa+$value$</font>\"",
+      "review": "segmented-machine"
+    },
+    "equipBoost[167]@1762": {
+      "source_key": "equipBoost[167]",
+      "source_line": 1762,
+      "source_expression": "\"1、70级以上的装备才能进行转生锻造；<br>2、转生锻造需要消耗一定的材料；<br>3、转生锻造装备会保留装备的极品、强化、鉴定属性；<br>4、只有武器与套装才可以进行转生锻造。\"",
+      "target_expression": "\"1. Cấp 70 trở lên Trang Bị có thể được thực hiện Chuyển Sinh rèn;<br>2、Chuyển Sinh Việc rèn đòi hỏi một lượng vật liệu nhất định;<br>3、Chuyển Sinh rèn Trang Bị sẽ giữ Trang Bị tốt nhất,Cường Hóa, thuộc tính nhận dạng;<br>4. Chỉ có thể sử dụng vũ khí và trang phục.Chuyển Sinh rèn.\"",
+      "review": "segmented-machine"
+    },
+    "equipBoost[168]@1763": {
+      "source_key": "equipBoost[168]",
+      "source_line": 1763,
+      "source_expression": "\"1、多个低阶道具可以合成更高一级的道具；<br>2、合成成功率为100%；<br>3、合成需要消耗一定的金币。\"",
+      "target_expression": "\"1. Nhiều cấp độ thấp Vật Phẩm Có thể Hợp Thành cấp độ cao hơn Vật Phẩm；<br>2、Hợp Thành Tỷ lệ thành công là 100%;<br>3、Hợp Thành Cần tiêu thụ một lượng nhất định Kim Tệ。\"",
+      "review": "segmented-machine"
+    },
+    "equipBoost[169]@1764": {
+      "source_key": "equipBoost[169]",
+      "source_line": 1764,
+      "source_expression": "\"1、可以将宝石转换为其他属性的宝石；<br>2、转换不会降低宝石的等级；<br>3、转换需要消耗一定的金币；<br>4、转换成功率为100%。\"",
+      "target_expression": "\"1. Bạn có thể Bảo Thạch được chuyển đổi sang các thuộc tính khác Bảo Thạch；<br>2. Chuyển đổi sẽ không giảm Bảo Thạch mức độ;<br>3. Chuyển đổi yêu cầu một lượng nhất định Kim Tệ；<br>4. Tỷ lệ chuyển đổi thành công là 100%.\"",
+      "review": "segmented-machine"
+    },
+    "equipBoost[170]@1765": {
+      "source_key": "equipBoost[170]",
+      "source_line": 1765,
+      "source_expression": "\"1、极品转移可以将一件装备的极品属性转移到指定装备上；<br>2、只有同一部位的装备才能进行转移；<br>3、目标装备如果已经带有极品属性，转移后原有的极品属性会被覆盖；<br>4、材料装备在完成极品属性转移后，会消失。\"",
+      "target_expression": "\"1. Chuyển khoản tốt nhất có thể chuyển một mảnh Trang Bị Các thuộc tính tốt nhất được chuyển đến các thuộc tính được chỉ định Trang Bị thượng đẳng;<br>2. Chỉ có phần giống nhau Trang Bị có thể được chuyển giao;<br>3. Mục tiêu Trang Bị Nếu nó đã có thuộc tính chất lượng cao nhất thì thuộc tính chất lượng cao nhất ban đầu sẽ bị ghi đè sau khi chuyển;<br>4. Vật liệu Trang Bị Sau khi hoàn thành việc chuyển giao các thuộc tính tốt nhất, nó sẽ biến mất.\"",
+      "review": "segmented-machine"
+    },
+    "equipBoost[204]@1799": {
+      "source_key": "equipBoost[204]",
+      "source_line": 1799,
+      "source_expression": "\"1.宝石可直接在<font color = \\'#00FF00\\'>商城</font>购买获得<br>2.宝石可通过挑战<font color = \\'#00FF00\\'>英雄史册</font>获得<br>3.宝石可通过击杀<font color = \\'#00FF00\\'>个人boss、地图boss、世界boss</font>获得\"",
+      "target_expression": "\"1.Bảo Thạch có thể trực tiếp<font color = '#00FF00'>Thương Thành</font>Mua và nhận<br>2.Bảo Thạch Vượt qua thử thách<font color = '#00FF00'>Anh Hùng lịch sử</font>lấy<br>3.Bảo Thạch Có thể bị giết bởi<font color = '#00FF00'>Sếp cá nhân, trùm bản đồ, trùm thế giới</font>lấy\"",
+      "review": "segmented-machine"
+    },
+    "friend[96]@1927": {
+      "source_key": "friend[96]",
+      "source_line": 1927,
+      "source_expression": "\"结婚条件：<BR>\" + \"1、等级20级以上，2人组队，1男1女<BR>\" + \"2、结婚时，2人必须在爱神丘比特附近<BR>\" + \"3、需要消耗一定的金钱\"",
+      "target_expression": "\"Điều kiện kết hôn:<BR>\" + \"1. Cấp độ 20 trở lên, đội 2 người, 1 nam và 1 nữ<BR>\" + \"2. Khi kết hôn, hai người phải ở gần thần tình yêu Cupid.<BR>\" + \"3. Cần một số tiền nhất định\"",
+      "review": "segmented-machine"
+    },
+    "friendError@1929": {
+      "source_key": "friendError",
+      "source_line": 1929,
+      "source_expression": "[\"没有错误\",\"用户不存在\",\"群不存在\",\"好友数已达上限\",\"群数量已达上限\",\"你已经在此群内\",\"群成员已满\",\"方的设置中禁止进行此操作\",\"服务器内部错误\",\"不能离开自己的群\",\"对方不在线时不能进行此操作\",\"对方群数量已达上限\",\"对方群成员已满\",\"你不能对自己使用此功能\",\"对方好友数量已满\",\"黑名单数量已满\",\"对方仅允许好友加入群\",\"对方仅允许好友邀请加入群\",\"对方禁止加入任何群\",\"对方禁止被加为好友\",\"对方拒绝接收陌生人消息\"]",
+      "target_expression": "[\"không có lỗi\",\"Người dùng không tồn tại\",\"Nhóm không tồn tại\",\"Số lượng bạn bè đã đạt đến giới hạn trên\",\"Số lượng nhóm đã đạt đến giới hạn trên\",\"Bạn đã ở trong nhóm này\",\"Thành viên nhóm đã đầy đủ\",\"Hoạt động này bị cấm trong cài đặt của đảng\",\"Lỗi nội bộ máy chủ\",\"Không thể rời khỏi nhóm của chính mình\",\"Thao tác này không thể được thực hiện khi bên kia không trực tuyến\",\"Số lượng nhóm đối thủ đã đạt đến giới hạn trên\",\"Nhóm của bên kia có đầy đủ thành viên\",\"Bạn không thể sử dụng tính năng này cho chính mình\",\"Số lượng bạn bè của bên kia đã đầy\",\"Danh sách đen đã đầy\",\"Bên kia chỉ cho phép bạn bè tham gia nhóm\",\"Bên kia chỉ cho phép bạn bè mời bạn bè vào nhóm.\",\"Bên kia bị cấm tham gia bất kỳ nhóm nào\",\"Bên kia bị cấm thêm vào làm bạn bè\",\"Bên kia từ chối nhận tin nhắn từ người lạ\"]",
+      "review": "segmented-machine"
+    },
+    "friend[98]@1930": {
+      "source_key": "friend[98]",
+      "source_line": 1930,
+      "source_expression": "\"Anh ơi, em có cây ngọc hướng gió, em duyên dáng và quyến rũ. Mình xin đăng bài rộng rãi để kết bạn mọi tầng lớp! <加为好友/@@addFriend,%id%,%name1%>%4%40\"",
+      "target_expression": "\"Anh ơi, em có cây ngọc hướng gió, em duyên dáng và quyến rũ. Mình xin đăng bài rộng rãi để kết bạn mọi tầng lớp! <Thêm làm bạn bè/@@addFriend,%id%,%name1%>%4%40\"",
+      "review": "segmented-machine"
+    },
+    "friend[99]@1931": {
+      "source_key": "friend[99]",
+      "source_line": 1931,
+      "source_expression": "\"Chị ơi, em như cá và ngỗng trời, em là vua một nước. Mình xin đăng bài rộng rãi để kết bạn mọi tầng lớp! <加为好友/@@addFriend,%id%,%name1%>%6%42\"",
+      "target_expression": "\"Chị ơi, em như cá và ngỗng trời, em là vua một nước. Mình xin đăng bài rộng rãi để kết bạn mọi tầng lớp! <Thêm làm bạn bè/@@addFriend,%id%,%name1%>%6%42\"",
+      "review": "segmented-machine"
+    },
+    "friend[100]@1932": {
+      "source_key": "friend[100]",
+      "source_line": 1932,
+      "source_expression": "\"Hãy ủng hộ tôi, hãy ủng hộ tôi, hãy thêm tôi làm bạn của bạn nhé~<加为好友/@@addFriend,%id%,%name1%>%26%41\"",
+      "target_expression": "\"Hãy ủng hộ tôi, hãy ủng hộ tôi, hãy thêm tôi làm bạn của bạn nhé~<Thêm làm bạn bè/@@addFriend,%id%,%name1%>%26%41\"",
+      "review": "segmented-machine"
+    },
+    "skill[25]@2126": {
+      "source_key": "skill[25]",
+      "source_line": 2126,
+      "source_expression": "\"<font color = \\'#cfa775\\'>当前技能 \" + \"<font color=\\'#FFFF00\\'>$skill$</font>\" + \" 设置的快捷键为 \" + \"<font color=\\'#FFFF00\\'>$key$</font></font>\"",
+      "target_expression": "\"<font color = '#cfa775'>hiện hành Kỹ Năng \" + \"<font color='#FFFF00'>$skill$</font>\" + \"Các phím tắt được đặt là\" + \"<font color='#FFFF00'>$key$</font></font>\"",
+      "review": "segmented-machine"
+    },
+    "skill[44]@2145": {
+      "source_key": "skill[44]",
+      "source_line": 2145,
+      "source_expression": "\"<font color=\\'#f3f328\\' size=\\'14\\'>隐身术： </font><br>\" + \"<font color=\\'#66ccff\\' size=\\'14\\'>隐藏身形使玩家和怪物无法察觉到您的存在，效果持续20秒；</font><br>\" + \"<font color=\\'#00cc33\\' size=\\'14\\'>装备隐身戒指可获得该技能 </font><br><br>\" + \"<font color=\\'#f3f328\\' size=\\'14\\'>大陨石术：</font><br>\" + \"<font color=\\'#66ccff\\' size=\\'14\\'>对目标范围内的敌人造成自身最大攻击力130%的伤害；</font><br>\" + \"<font color=\\'#00cc33\\' size=\\'14\\'>装备火焰戒指可获得该技能 </font><br><br>\" + \"<font color=\\'#f3f328\\' size=\\'14\\'>瞬间传送术：</font><br>\" + \"<font color=\\'#66ccff\\' size=\\'14\\'>瞬间传送至鼠标所在位置； </font><br>\" + \"<font color=\\'#00cc33\\' size=\\'14\\'>装备传送戒指可获得该技能\"",
+      "target_expression": "\"<font color='#f3f328' size='14'>Tàng hình:</font><br>\" + \"<font color='#66ccff' size='14'>Hình ẩn người chơi Và Quái Vật Không thể phát hiện sự hiện diện của bạn, hiệu ứng kéo dài trong 20 giây;</font><br>\" + \"<font color='#00cc33' size='14'>Trang Bị Nhẫn tàng hình có thể có được thứ này Kỹ Năng </font><br><br>\" + \"<font color='#f3f328' size='14'>Kỹ thuật sao băng lớn:</font><br>\" + \"<font color='#66ccff' size='14'>Gây sát thương tối đa cho kẻ địch trong phạm vi mục tiêu Tấn Công thiệt hại 130%;</font><br>\" + \"<font color='#00cc33' size='14'>Trang Bị Fire Ring có thể có được thứ này Kỹ Năng </font><br><br>\" + \"<font color='#f3f328' size='14'>Dịch chuyển tức thời:</font><br>\" + \"<font color='#66ccff' size='14'>Dịch chuyển tức thời đến vị trí chuột;</font><br>\" + \"<font color='#00cc33' size='14'>Trang Bị Bạn có thể có được điều này bằng cách dịch chuyển chiếc nhẫn Kỹ Năng\"",
+      "review": "segmented-machine"
+    },
+    "guild[237]@2610": {
+      "source_key": "guild[237]",
+      "source_line": 2610,
+      "source_expression": "\"<font color = \\'#f3f328\\' size = \\'14\\'><b>开始历练</b></font>,<font color = \\'#f3f328\\' size = \\'14\\'><b>立即完成</b></font>,<font color = \\'#f3f328\\' size = \\'14\\'><b>完成任务</b></font>,<font color = \\'#f3f328\\' size = \\'14\\'><b>已经历练</b></font>\"",
+      "target_expression": "\"<font color = '#f3f328' size = '14'><b>Bắt đầu luyện tập</b></font>,<font color = '#f3f328' size = '14'><b>Hoàn thành ngay bây giờ</b></font>,<font color = '#f3f328' size = '14'><b>Hoàn thành Nhiệm Vụ</b></font>,<font color = '#f3f328' size = '14'><b>Đã luyện tập rồi</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "guild[302]@2675": {
+      "source_key": "guild[302]",
+      "source_line": 2675,
+      "source_expression": "\"行会\"",
+      "target_expression": "\"Bang Hội\"",
+      "review": "segmented-machine"
+    },
+    "guild[325]@2698": {
+      "source_key": "guild[325]",
+      "source_line": 2698,
+      "source_expression": "\"行会聚宝盆,行会活动,行会香炉,行会历练,行会光环,行会神兽,行会仓库,行会商店\"",
+      "target_expression": "\"Bang Hội bát kho báu,Bang Hội Hoạt động,Bang Hội lư hương,Bang Hội kinh nghiệm,Bang Hội hào quang,Bang Hội quái vật thần thoại,Bang Hội nhà kho,Bang Hội Cửa Hàng\"",
+      "review": "segmented-machine"
+    },
+    "rose[23]@2776": {
+      "source_key": "rose[23]",
+      "source_line": 2776,
+      "source_expression": "\"元宝\"",
+      "target_expression": "\"Nguyên Bảo\"",
+      "review": "segmented-machine"
+    },
+    "rose[27]@2780": {
+      "source_key": "rose[27]",
+      "source_line": 2780,
+      "source_expression": "\"元宝\"",
+      "target_expression": "\"Nguyên Bảo\"",
+      "review": "segmented-machine"
+    },
+    "revive[16]@2819": {
+      "source_key": "revive[16]",
+      "source_line": 2819,
+      "source_expression": "\"使用<font color=\\'#00ff00\\'>复活药水</font>可原地随机复活<BR>可用<font color=\\'#00ff00\\'>$num$元宝</font>替代\"",
+      "target_expression": "\"sử dụng<font color='#00ff00'>Hồi Sinh thuốc</font>Có thể ngẫu nhiên tại chỗ Hồi Sinh<BR>Có sẵn<font color='#00ff00'>$num$Nguyên Bảo</font>thay thế\"",
+      "review": "segmented-machine"
+    },
+    "revive[17]@2820": {
+      "source_key": "revive[17]",
+      "source_line": 2820,
+      "source_expression": "\"元宝复活\"",
+      "target_expression": "\"Nguyên Bảo Hồi Sinh\"",
+      "review": "segmented-machine"
+    },
+    "active[80]@3029": {
+      "source_key": "active[80]",
+      "source_line": 3029,
+      "source_expression": "\"<font color=\\'#FFFFFF\\'>分类: </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:0\\'>全部</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:1\\'>我要升级</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:2\\'>我要变强</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:3\\'>我要装备</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:4\\'>我要赚钱</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:5\\'>我要竞技</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:6\\'>我很无聊</a></font><font color=\\'#FFFFFF\\'>、</font>\"",
+      "target_expression": "\"<font color='#FFFFFF'>Phân loại:</font>\" + \"<font color='#00FF00'><a href='event:0'>tất cả</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00FF00'><a href='event:1'>Tôi muốn nâng cấp</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00FF00'><a href='event:2'>Tôi muốn trở nên mạnh mẽ hơn</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00FF00'><a href='event:3'>Tôi muốn Trang Bị</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00FF00'><a href='event:4'>Tôi muốn kiếm tiền</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00FF00'><a href='event:5'>Tôi muốn cạnh tranh</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00FF00'><a href='event:6'>tôi chán</a></font><font color='#FFFFFF'>、</font>\"",
+      "review": "segmented-machine"
+    },
+    "active[85]@3034": {
+      "source_key": "active[85]",
+      "source_line": 3034,
+      "source_expression": "\"奖励\"",
+      "target_expression": "\"Phần Thưởng\"",
+      "review": "segmented-machine"
+    },
+    "active[86]@3035": {
+      "source_key": "active[86]",
+      "source_line": 3035,
+      "source_expression": "\"<textformat leading=\\'6\\'><font>上班!上学!吃饭!睡觉!没时间完成各种活动,现在三天内的活动可以以闪电完成,获得累计奖励你还等什么!</font><BR>\" + \"<font color=\\'#00FF00\\' size=\\'30\\'>立即完成三天内活动</font>\\t未完成的活动数量$val$个</textformat>\"",
+      "target_expression": "\"<textformat leading='6'><font>Đi làm đi! Đi học! Ăn! Ngủ! Không có thời gian để hoàn thành các hoạt động khác nhau. Giờ đây, các hoạt động trong vòng ba ngày có thể được hoàn thành trong chớp mắt và bạn sẽ nhận được điểm tích lũy.Phần Thưởng Bạn còn chờ gì nữa!</font><BR>\" + \"<font color='#00FF00' size='30'>Hoàn thành ngay các hoạt động trong vòng ba ngày</font>Số lượng hoạt động chưa hoàn thành$val$cá nhân</textformat>\"",
+      "review": "segmented-machine"
+    },
+    "active[89]@3038": {
+      "source_key": "active[89]",
+      "source_line": 3038,
+      "source_expression": "\"当前服务器开放<font color=\\'#00cc33\\'>$num1</font>次转生<BR>完成主线任务获得经验加成<font color=\\'#00cc33\\'>$num3</font><BR>日常任务获得经验加成<font color=\\'#00cc33\\'>$num4</font>\"",
+      "target_expression": "\"Máy chủ hiện tại đang mở<font color='#00cc33'>$num1</font>hạng hai Chuyển Sinh<BR>Hoàn thành Nhiệm Vụ Chính Tuyến lấy Kinh Nghiệm phép cộng<font color='#00cc33'>$num3</font><BR>hằng ngày Nhiệm Vụ lấy Kinh Nghiệm phép cộng<font color='#00cc33'>$num4</font>\"",
+      "review": "segmented-machine"
+    },
+    "active[95]@3044": {
+      "source_key": "active[95]",
+      "source_line": 3044,
+      "source_expression": "\"你距离获得 %NJLM%等奖励 还差%NZCJF%点战场积分<br>%NJLM%等奖励 可获得\"",
+      "target_expression": "\"Bạn nhận được khoảng cách%NJLM%Chờ đợi Phần Thưởng Không đủ tốt%NZCJF%Điểm chiến trường điểm<br>%NJLM%Chờ đợi Phần Thưởng có sẵn\"",
+      "review": "segmented-machine"
+    },
+    "active[111]@3060": {
+      "source_key": "active[111]",
+      "source_line": 3060,
+      "source_expression": "\"参与流程\"",
+      "target_expression": "\"Tham gia vào quá trình\"",
+      "review": "segmented-machine"
+    },
+    "active[112]@3062": {
+      "source_key": "active[112]",
+      "source_line": 3062,
+      "source_expression": "\"活跃度\"",
+      "target_expression": "\"Điểm Năng Động\"",
+      "review": "segmented-machine"
+    },
+    "active[136]@3086": {
+      "source_key": "active[136]",
+      "source_line": 3086,
+      "source_expression": "\"奖励\"",
+      "target_expression": "\"Phần Thưởng\"",
+      "review": "segmented-machine"
+    },
+    "active[151]@3101": {
+      "source_key": "active[151]",
+      "source_line": 3101,
+      "source_expression": "\"活跃度\"",
+      "target_expression": "\"Điểm Năng Động\"",
+      "review": "segmented-machine"
+    },
+    "active[152]@3102": {
+      "source_key": "active[152]",
+      "source_line": 3102,
+      "source_expression": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服好运轮盘</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服稀世奇珍</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服折扣商城</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服消费大奖</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>烈焰神王来袭</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服首届城战</font>\"",
+      "target_expression": "\"<font size='16' face='黑体' color='#C7B26B'>100 máy chủ roulette may mắn</font>,<font size='16' face='黑体' color='#C7B26B'>Kho báu quý hiếm trong hàng trăm máy chủ</font>,<font size='16' face='黑体' color='#C7B26B'>Giảm giá trên 100 máy chủ Thương Thành</font>,<font size='16' face='黑体' color='#C7B26B'>Giải thưởng tiêu dùng Baifu</font>,<font size='16' face='黑体' color='#C7B26B'>Vua lửa thần đang đến</font>,<font size='16' face='黑体' color='#C7B26B'>Trận chiến thành phố đầu tiên gồm 100 máy chủ</font>\"",
+      "review": "segmented-machine"
+    },
+    "active[173]@3123": {
+      "source_key": "active[173]",
+      "source_line": 3123,
+      "source_expression": "\"<textformat leading=\\'6\\'><font letterspacing=\\'1\\' color=\\'#ffde00\\' size=\\'16\\'>使用绑定金币可追回<font color=\\'#ff0000\\'>$num$%</font>资源<br>使用元宝可追回<font color=\\'#ff0000\\'>100%</font>资源<br>一键找回使用绑金追回<font color=\\'#ff0000\\'>$num$%</font>的所有资源<br>至尊找回使用元宝追回<font color=\\'#ff0000\\'>100%</font>所有资源</font></textformat>\"",
+      "target_expression": "\"<textformat leading='6'><font letterspacing='1' color='#ffde00' size='16'>sử dụng Kim Tệ Khóa có thể phục hồi được<font color='#ff0000'>$num$%</font>tài nguyên<br>sử dụng Nguyên Bảo có thể phục hồi được<font color='#ff0000'>100%</font>tài nguyên<br>Truy xuất bằng một cú nhấp chuột bằng cách sử dụng tiền ngoại quan để phục hồi<font color='#ff0000'>$num$%</font>Mọi nguồn lực của<br>Thu hồi và sử dụng tối ưu Nguyên Bảo hồi phục<font color='#ff0000'>100%</font>Tất cả tài nguyên</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "active[177]@3127": {
+      "source_key": "active[177]",
+      "source_line": 3127,
+      "source_expression": "\"<font color=\\'#cccc99\\'>绑金追回</font>,<font color=\\'#cccc99\\'>元宝追回</font>,<font color=\\'#cccc99\\'>一键追回</font>,<font color=\\'#cccc99\\'>至尊追回</font>\"",
+      "target_expression": "\"<font color='#cccc99'>Thu hồi vàng ngoại quan</font>,<font color='#cccc99'>Nguyên Bảo hồi phục</font>,<font color='#cccc99'>Phục hồi bằng một cú nhấp chuột</font>,<font color='#cccc99'>Phục hồi tối cao</font>\"",
+      "review": "segmented-machine"
+    },
+    "active[181]@3131": {
+      "source_key": "active[181]",
+      "source_line": 3131,
+      "source_expression": "\"绑定金币\"",
+      "target_expression": "\"Kim Tệ Khóa\"",
+      "review": "segmented-machine"
+    },
+    "active[182]@3132": {
+      "source_key": "active[182]",
+      "source_line": 3132,
+      "source_expression": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服好运轮盘</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服稀世奇珍</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服折扣商城</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>百服消费大奖</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>烈焰神王来袭</font>\"",
+      "target_expression": "\"<font size='16' face='黑体' color='#C7B26B'>100 máy chủ roulette may mắn</font>,<font size='16' face='黑体' color='#C7B26B'>Kho báu quý hiếm trong hàng trăm máy chủ</font>,<font size='16' face='黑体' color='#C7B26B'>Giảm giá trên 100 máy chủ Thương Thành</font>,<font size='16' face='黑体' color='#C7B26B'>Giải thưởng tiêu dùng Baifu</font>,<font size='16' face='黑体' color='#C7B26B'>Vua lửa thần đang đến</font>\"",
+      "review": "segmented-machine"
+    },
+    "vip[64]@3214": {
+      "source_key": "vip[64]",
+      "source_line": 3214,
+      "source_expression": "\"攻击加成,专属装备,专属礼包,专属副本,额外使用经验丹,装备合成时获得强化,每日礼包,降低掉落装备概率,怪物掉宝增加,自动学习技能,清除竞技场冷却,每天免费领取仓库扩充,一键维修,追踪功能,减少修理费,增加打怪经验,增加护送次数,远程使用仓库,坐骑一键提升功能,免费赠送符文仓库\"",
+      "target_expression": "\"Tấn Công tiền thưởng, độc quyền Trang Bị,loại trừ Gói Quà,loại trừ Phó Bản, sử dụng bổ sung Kinh Nghiệm Đan,Trang Bị Hợp Thành thu được khi Cường Hóa,hằng ngày Gói Quà, giảm độ rơi Trang Bị xác suất,Quái Vật Tăng số lượng kho báu, học tập tự động Kỹ Năng, Xóa thời gian hồi chiêu của đấu trường, nhận mở rộng kho miễn phí mỗi ngày, sửa chữa bằng một cú nhấp chuột, chức năng theo dõi, giảm chi phí sửa chữa, tăng khả năng tiêu diệt quái vật Kinh Nghiệm, tăng số lượng người hộ tống, sử dụng nhà kho từ xa,Tọa Kỵ Cải thiện chức năng một cú nhấp chuột, quà tặng miễn phí Phù Văn nhà kho\"",
+      "review": "segmented-machine"
+    },
+    "vip[73]@3223": {
+      "source_key": "vip[73]",
+      "source_line": 3223,
+      "source_expression": "\"<font color=\\'#00FF00\\'>[白银VIP]</font>,<font color=\\'#0080FF\\'>[黄金VIP]</font>,<font color=\\'#F200C1\\'>[至尊VIP]</font>,<font color=\\'#FF6600\\'>[超级VIP1]</font>,<font color=\\'#FF6600\\'>[超级VIP2]</font>,<font color=\\'#FF6600\\'>[超级VIP3]</font>\"",
+      "target_expression": "\"<font color='#00FF00'>[VIP bạc]</font>,<font color='#0080FF'>[VIP VIP]</font>,<font color='#F200C1'>[VIP tối cao]</font>,<font color='#FF6600'>[Siêu VIP1]</font>,<font color='#FF6600'>[Siêu VIP2]</font>,<font color='#FF6600'>[Siêu VIP3]</font>\"",
+      "review": "segmented-machine"
+    },
+    "vip[75]@3225": {
+      "source_key": "vip[75]",
+      "source_line": 3225,
+      "source_expression": "\"元宝\"",
+      "target_expression": "\"Nguyên Bảo\"",
+      "review": "segmented-machine"
+    },
+    "vip[104]@3254": {
+      "source_key": "vip[104]",
+      "source_line": 3254,
+      "source_expression": "\"<font size=\\'25\\'><b>您当前为超级VIP$num$，还需充值$num$元宝，即可成为超级VIP$num$</b></font>\"",
+      "target_expression": "\"<font size='25'><b>Bạn hiện là siêu VIP$num$, vẫn cần Nạp Thẻ$num$Nguyên Bảo, bạn có thể trở thành siêu VIP$num$</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "shop[45]@3342": {
+      "source_key": "shop[45]",
+      "source_line": 3342,
+      "source_expression": "\"<font color=\\'#CC9933\\'>推荐关键字: </font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:1\\'>VIP</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:2\\'>1元推荐商品</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:3\\'>加属性</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:4\\'>自动吃药</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:5\\'>经验</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:6\\'>装备变强</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:7\\'>宝石</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:8\\'>金币</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:9\\'>行会</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:10\\'>结婚</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:11\\'>时装</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:12\\'>技能</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<BR>\" + \"                      \" + \"<font color=\\'#00cc33\\'><a href=\\'event:13\\'>佣兵</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:14\\'>坐骑</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:15\\'>3元</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00cc33\\'><a href=\\'event:16\\'>5元</a></font>\"",
+      "target_expression": "\"<font color='#CC9933'>Từ khóa được đề xuất:</font>\" + \"<font color='#00cc33'><a href='event:1'>VIP</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:2'>Sản phẩm được đề xuất với giá 1 nhân dân tệ</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:3'>Thêm thuộc tính</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:4'>Tự động uống thuốc</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:5'>Kinh Nghiệm</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:6'>Trang Bị trở nên mạnh mẽ hơn</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:7'>Bảo Thạch</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:8'>Kim Tệ</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:9'>Bang Hội</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:10'>kết hôn</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:11'>thời trang</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:12'>Kỹ Năng</a></font><font color='#FFFFFF'>、</font>\" + \"<BR>\" + \"                      \" + \"<font color='#00cc33'><a href='event:13'>Dung Binh</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:14'>Tọa Kỵ</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:15'>3 nhân dân tệ</a></font><font color='#FFFFFF'>、</font>\" + \"<font color='#00cc33'><a href='event:16'>5 nhân dân tệ</a></font>\"",
+      "review": "segmented-machine"
+    },
+    "initOnline[16]@3567": {
+      "source_key": "initOnline[16]",
+      "source_line": 3567,
+      "source_expression": "\"<textformat leading=\\'6\\'><font color=\\'#2bd6c0\\'>刷新奖品需要花费</font><font color=\\'#f6e200\\'>100元宝</font><font color=\\'#2bd6c0\\'>刷新奖品，有几率刷新极品奖励<br>注：【倒计时奖励刷新道具】可代替元宝花费，</font><font color=\\'#f6e200\\'>优先消耗道具</font><br></textformat>\"",
+      "target_expression": "\"<textformat leading='6'><font color='#2bd6c0'>Tốn phí để làm mới giải thưởng</font><font color='#f6e200'>100 Nguyên Bảo</font><font color='#2bd6c0'>Làm mới các giải thưởng và có cơ hội làm mới những giải thưởng tốt nhất Phần Thưởng<br>Lưu ý: [Đếm ngược Phần Thưởng làm cho khỏe lại Vật Phẩm】có thể thay thế Nguyên Bảo tiêu,</font><font color='#f6e200'>Ưu tiên tiêu dùng Vật Phẩm</font><br></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "topUpAward[0]@3601": {
+      "source_key": "topUpAward[0]",
+      "source_line": 3601,
+      "source_expression": "\"<b><font size=\\'16\\' color=\\'#ffc98a\\'>只需提取</font><font color=\\'#f9c500\\' size=\\'22\\'>$yuan$</font><font size=\\'16\\' color=\\'#ffc98a\\'>元宝，\" + \"即可领取</font><font color=\\'#f9c500\\' size=\\'22\\'>超值大礼</font></b>\"",
+      "target_expression": "\"<b><font size='16' color='#ffc98a'>Chỉ cần giải nén</font><font color='#f9c500' size='22'>$yuan$</font><font size='16' color='#ffc98a'>Nguyên Bảo，\" + \"Sẵn sàng nhận</font><font color='#f9c500' size='22'>quà tặng giá trị lớn</font></b>\"",
+      "review": "segmented-machine"
+    },
+    "topUpAward[2]@3603": {
+      "source_key": "topUpAward[2]",
+      "source_line": 3603,
+      "source_expression": "\"<font size=\\'16\\' color=\\'#ffc98a\\'>价值</font><font color=\\'#f9c500\\' size=\\'22\\'>$yuan$</font><font size=\\'16\\' color=\\'#ffc98a\\'>元宝</font>\"",
+      "target_expression": "\"<font size='16' color='#ffc98a'>giá trị</font><font color='#f9c500' size='22'>$yuan$</font><font size='16' color='#ffc98a'>Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "topUpAward[4]@3605": {
+      "source_key": "topUpAward[4]",
+      "source_line": 3605,
+      "source_expression": "\"<font color=\\'#00FF00\\'>您当前已经充值:</font><font color=\\'#FFFF00\\'>$val0$</font><font color=\\'#00FF00\\'>元宝</font>\"",
+      "target_expression": "\"<font color='#00FF00'>Hiện tại bạn có Nạp Thẻ:</font><font color='#FFFF00'>$val0$</font><font color='#00FF00'>Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "welfare[114]@3731": {
+      "source_key": "welfare[114]",
+      "source_line": 3731,
+      "source_expression": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前拥有兑换积分：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$</b></font>\"",
+      "target_expression": "\"<font color='#ffffff' size='13'><b>Hiện tại có điểm quy đổi:</b></font><font color='#ffd800' size='13'><b>$num$</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "welfare[122]@3739": {
+      "source_key": "welfare[122]",
+      "source_line": 3739,
+      "source_expression": "\"<font color=\\'#0ae8ad\\' size=\\'18\\'><b>首届城主奖励：</b></font><br><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池副首领奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池其他成员奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font>\"",
+      "target_expression": "\"<font color='#0ae8ad' size='18'><b>Chúa thành phố đầu tiên Phần Thưởng：</b></font><br><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><br><font color='#0ae8ad' size='18'><b>Phó lãnh đạo TP.Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><font color='#0ae8ad' size='18'><b>Các thành viên khác của thành phố Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font>\"",
+      "review": "segmented-machine"
+    },
+    "welfare[123]@3740": {
+      "source_key": "welfare[123]",
+      "source_line": 3740,
+      "source_expression": "\"<font color=\\'#0ae8ad\\' size=\\'18\\'><b>城主奖励：</b></font><br><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池副首领奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font><br><br><font color=\\'#0ae8ad\\' size=\\'18\\'><b>城池其他成员奖励：</b></font><br><br><font color=\\'#ffff00\\' size=\\'15\\'>         $num$</font>\"",
+      "target_expression": "\"<font color='#0ae8ad' size='18'><b>Chúa thành phố Phần Thưởng：</b></font><br><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><br><font color='#0ae8ad' size='18'><b>Phó lãnh đạo TP.Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><font color='#0ae8ad' size='18'><b>Các thành viên khác của thành phố Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font>\"",
+      "review": "segmented-machine"
+    },
+    "mount[139]@3906": {
+      "source_key": "mount[139]",
+      "source_line": 3906,
+      "source_expression": "\"<textFormat leading=\\'20\\'>本次获得<font color = \\'#00FF00\\'>兽魂总经验</font>:<font color = \\'#00FF00\\'>$EXP$ + $ADDEXP$</font><BR>\" + \"本次获得<font color = \\'#FFFF00\\'>小惊喜</font>次数:<font color = \\'#FFFF00\\'>$SMALL$</font><BR>\" + \"本次获得<font color = \\'#FF00FF\\'>大惊喜</font>次数:<font color = \\'#FFFF00\\'>$BIG$</font>\" + \"</textFormat>\"",
+      "target_expression": "\"<textFormat leading='20'>Đạt được lần này<font color = '#00FF00'>Tướng quân thú hồn Kinh Nghiệm</font>:<font color = '#00FF00'>$EXP$ + $ADDEXP$</font><BR>\" + \"Đạt được lần này<font color = '#FFFF00'>chút ngạc nhiên</font>Tính thường xuyên:<font color = '#FFFF00'>$SMALL$</font><BR>\" + \"Đạt được lần này<font color = '#FF00FF'>bất ngờ lớn</font>Tính thường xuyên:<font color = '#FFFF00'>$BIG$</font>\" + \"</textFormat>\"",
+      "review": "segmented-machine"
+    },
+    "hero[71]@3995": {
+      "source_key": "hero[71]",
+      "source_line": 3995,
+      "source_expression": "\"物理攻击：<BR>魔法攻击：<BR>道术攻击：<BR>物理防御：<BR>魔法防御：<BR>生　　命：<BR>魔　　法：<BR>准　　确：<BR>敏　　捷：<BR>幸　　运：<BR>诅　　咒：<BR>经　　验：\"",
+      "target_expression": "\"Vật Công：<BR>Pháp Công：<BR>Đạo Công：<BR>Vật Phòng：<BR>Pháp Phòng：<BR>mạng sống:<BR>Ảo thuật:<BR>chính xác:<BR>Nhanh nhẹn:<BR>May mắn:<BR>Lời nguyền:<BR>kinh nghiệm:\"",
+      "review": "segmented-machine"
+    },
+    "hero[73]@3997": {
+      "source_key": "hero[73]",
+      "source_line": 3997,
+      "source_expression": "\"装备强化\"",
+      "target_expression": "\"Trang Bị Cường Hóa\"",
+      "review": "segmented-machine"
+    },
+    "hero[74]@3998": {
+      "source_key": "hero[74]",
+      "source_line": 3998,
+      "source_expression": "\"装备宝石\"",
+      "target_expression": "\"Trang Bị Bảo Thạch\"",
+      "review": "segmented-machine"
+    },
+    "hero[155]@4047": {
+      "source_key": "hero[155]",
+      "source_line": 4047,
+      "source_expression": "\"当前可洗炼<font color=\\'#F3F328\\'>$num0$条</font>极品属性,<font color=\\'#00CC33\\'>强化+$value$</font>可洗炼<font color=\\'#F3F323\\'>$num1$条</font>极品属性\"",
+      "target_expression": "\"Hiện có sẵn để sàng lọc<font color='#F3F328'>$num0$dải</font>Đặc tính tuyệt vời,<font color='#00CC33'>Cường Hóa+$value$</font>Có thể được tinh chế<font color='#F3F323'>$num1$dải</font>Thuộc tính xuất sắc\"",
+      "review": "segmented-machine"
+    },
+    "hero[162]@4054": {
+      "source_key": "hero[162]",
+      "source_line": 4054,
+      "source_expression": "\"佣兵\"",
+      "target_expression": "\"Dung Binh\"",
+      "review": "segmented-machine"
+    },
+    "hero[201]@4062": {
+      "source_key": "hero[201]",
+      "source_line": 4062,
+      "source_expression": "\"物理攻击\"",
+      "target_expression": "\"Vật Công\"",
+      "review": "segmented-machine"
+    },
+    "hero[202]@4063": {
+      "source_key": "hero[202]",
+      "source_line": 4063,
+      "source_expression": "\"魔法攻击\"",
+      "target_expression": "\"Pháp Công\"",
+      "review": "segmented-machine"
+    },
+    "hero[209]@4070": {
+      "source_key": "hero[209]",
+      "source_line": 4070,
+      "source_expression": "\"宝石背包\"",
+      "target_expression": "\"Bảo Thạch Hành Trang\"",
+      "review": "segmented-machine"
+    },
+    "hero[216]@4077": {
+      "source_key": "hero[216]",
+      "source_line": 4077,
+      "source_expression": "\"攻击:$attack$<BR>防御:$defense$<BR>技能:$skill$\"",
+      "target_expression": "\"Tấn Công:$attack$<BR>Phòng Ngự:$defense$<BR>Kỹ Năng:$skill$\"",
+      "review": "segmented-machine"
+    },
+    "hero[244]@4105": {
+      "source_key": "hero[244]",
+      "source_line": 4105,
+      "source_expression": "\"佣兵装备\"",
+      "target_expression": "\"Dung Binh Trang Bị\"",
+      "review": "segmented-machine"
+    },
+    "hero[256]@4117": {
+      "source_key": "hero[256]",
+      "source_line": 4117,
+      "source_expression": "\"绑定金币$coin$\"",
+      "target_expression": "\"Kim Tệ Khóa$coin$\"",
+      "review": "segmented-machine"
+    },
+    "hero[259]@4120": {
+      "source_key": "hero[259]",
+      "source_line": 4120,
+      "source_expression": "\"绑定金币<font color=\\'#66CCFF\\'>$coin$</font>\"",
+      "target_expression": "\"Kim Tệ Khóa<font color='#66CCFF'>$coin$</font>\"",
+      "review": "segmented-machine"
+    },
+    "hero[260]@4121": {
+      "source_key": "hero[260]",
+      "source_line": 4121,
+      "source_expression": "\"<textformat leading=\\'4\\'>名字:<font color=\\'#F3F328\\'>$name$</font><BR>等级:<font color=\\'#3399FF\\'>$level$</font><BR>职业:<font color=\\'#3399FF\\'>$type$</font></textformat>\"",
+      "target_expression": "\"<textformat leading='4'>tên:<font color='#F3F328'>$name$</font><BR>cấp:<font color='#3399FF'>$level$</font><BR>Nghề nghiệp:<font color='#3399FF'>$type$</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "hero[263]@4124": {
+      "source_key": "hero[263]",
+      "source_line": 4124,
+      "source_expression": "\"宝石经验\"",
+      "target_expression": "\"Bảo Thạch Kinh Nghiệm\"",
+      "review": "segmented-machine"
+    },
+    "hero[264]@4125": {
+      "source_key": "hero[264]",
+      "source_line": 4125,
+      "source_expression": "\"经验：\"",
+      "target_expression": "\"Kinh Nghiệm：\"",
+      "review": "segmented-machine"
+    },
+    "hero[283]@4144": {
+      "source_key": "hero[283]",
+      "source_line": 4144,
+      "source_expression": "\"<(c0xFFFFFF00)首次领取佣兵免费，每个\\\\佣兵售价100万绑定金币>\\\\\\\\<购买绑定金币/@@showWin,129>\"",
+      "target_expression": "\"<(c0xFFFFFF00)Bộ sưu tập lần đầu tiên Dung Binh Miễn phí, mọi\\\\Dung Binh Giá bán 1 triệu Kim Tệ Khóa>\\\\\\\\<Mua Kim Tệ Khóa/@@showWin,129>\"",
+      "review": "segmented-machine"
+    },
+    "hero[285]@4146": {
+      "source_key": "hero[285]",
+      "source_line": 4146,
+      "source_expression": "\"<font color=\\'#66CCFF\\'>提升装备等级才可提升装备强化等级</font>\"",
+      "target_expression": "\"<font color='#66CCFF'>khuyến khích Trang Bị Mức độ có thể được cải thiện Trang Bị Cường Hóa cấp</font>\"",
+      "review": "segmented-machine"
+    },
+    "hero[292]@4153": {
+      "source_key": "hero[292]",
+      "source_line": 4153,
+      "source_expression": "\"佣兵装备碎片获得途径：魔法门副本、BOSS<BR>试炼副本、充值礼包、在线奖励、促销商城\"",
+      "target_expression": "\"Dung Binh Trang Bị Cách lấy mảnh vỡ: Cổng ma thuật Phó Bản、BOSS<BR>Sự thử nghiệm Phó Bản、Nạp Thẻ Gói Quà, trực tuyến Phần Thưởng, khuyến mãi Thương Thành\"",
+      "review": "segmented-machine"
+    },
+    "tianYaHaiJiao[4]@4399": {
+      "source_key": "tianYaHaiJiao[4]",
+      "source_line": 4399,
+      "source_expression": "\"1、夫妻组队奖励更高\\\\\\\\\" + \"2、<(c0xFFFFFF00)免费刷新>次数后,再使用<(c0xFFFFFF00)百花争艳图>, 最后使用<(c0xFFFFFF00)3欢乐豆/元宝>刷新(优先使用<(c0xFFFFFF00)百花争艳图>)\\\\\\\\\" + \"3、每天下午<(c0xFFFFFF00)16:30-17:00>是双倍护送时间,在该时段护送美女将获得双倍奖励\\\\\\\\\" + \"4、护送过程中<(c0xFFFF0000)速度将减慢>,完成后自动恢复\\\\\\\\\" + \"5、护送过程中<(c0xFFFFFF00)无法参与其他活动、副本;无法速传及传送功能;无法使用回城卷等等>\\\\\\\\\"",
+      "target_expression": "\"1. Vợ chồng đồng đội Phần Thưởng cao hơn\\\\\\\\\" + \"2、<(c0xFFFFFF00)Làm mới miễn phí>Sau vài lần, sử dụng<(c0xFFFFFF00)Trăm bông hoa nở rộ>, được sử dụng lần cuối<(c0xFFFFFF00)3 hạt đậu hạnh phúc/Nguyên Bảo>Làm mới (Ưu tiên sử dụng<(c0xFFFFFF00)Trăm bông hoa nở rộ>)\\\\\\\\\" + \"3. Mỗi buổi chiều<(c0xFFFFFF00)16:30-17:00>Đó là thời gian hộ tống đôi. Trong thời gian này, cô gái hộ tống sẽ nhận được gấp đôi Phần Thưởng\\\\\\\\\" + \"4. Trong quá trình hộ tống<(c0xFFFF0000)sẽ chậm lại>, tự động khôi phục sau khi hoàn thành\\\\\\\\\" + \"5. Trong quá trình hộ tống<(c0xFFFFFF00)Không thể tham gia các hoạt động khác Phó Bản;Không thể sử dụng chức năng dịch chuyển và dịch chuyển nhanh; Không thể sử dụng cuộn thu hồi thành phố, v.v.>\\\\\\\\\"",
+      "review": "segmented-machine"
+    },
+    "tianYaHaiJiao[18]@4413": {
+      "source_key": "tianYaHaiJiao[18]",
+      "source_line": 4413,
+      "source_expression": "\"<font color=\\'#99CCCC\\'>你的元宝不足,无法刷新对象</font><br><font color=\\'#00FF00\\'>充值后在商城中提取元宝</font>\"",
+      "target_expression": "\"<font color='#99CCCC'>của bạn Nguyên Bảo Không đủ, không thể làm mới đối tượng</font><br><font color='#00FF00'>Nạp Thẻ Sau đó Thương Thành chiết xuất từ ​​​​Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "escortBelle[28]@4449": {
+      "source_key": "escortBelle[28]",
+      "source_line": 4449,
+      "source_expression": "\"[$name$]对您护送的宝藏进行<br>打劫，是否和他猜拳PK？\"",
+      "target_expression": "\"[$name$] trên kho báu mà bạn đã hộ tống<br>Trong vụ cướp, bạn có muốn cạnh tranh với anh ta trong trò chơi đoán không?\"",
+      "review": "segmented-machine"
+    },
+    "raids[77]@4539": {
+      "source_key": "raids[77]",
+      "source_line": 4539,
+      "source_expression": "\"<font size=\\'14\\'>装备强化</font>\"",
+      "target_expression": "\"<font size='14'>Trang Bị Cường Hóa</font>\"",
+      "review": "segmented-machine"
+    },
+    "tanget[13]@4596": {
+      "source_key": "tanget[13]",
+      "source_line": 4596,
+      "source_expression": "[\"初级目标\",\"中级目标\",\"高级目标\",\"转生目标\",\"终极目标\",\"究极目标\"]",
+      "target_expression": "[\"mục tiêu chính\",\"Mục tiêu trung gian\",\"mục tiêu cấp cao\",\"Chuyển Sinh Mục tiêu\",\"mục tiêu cuối cùng\",\"mục tiêu cuối cùng\"]",
+      "review": "segmented-machine"
+    },
+    "tanget[22]@4605": {
+      "source_key": "tanget[22]",
+      "source_line": 4605,
+      "source_expression": "\"奖励\"",
+      "target_expression": "\"Phần Thưởng\"",
+      "review": "segmented-machine"
+    },
+    "combineActive[57]@4825": {
+      "source_key": "combineActive[57]",
+      "source_line": 4825,
+      "source_expression": "\"<font color = \\'#ffff00\\'><b>玩法：</b></font>玩家可花费一定元宝点击<font color = \\'#ff0000\\'>转一次</font>按钮<br>进行抽奖，也可以花费更多元宝点击<font color = \\'#ff0000\\'>转10次</font><br>抽中的奖品将会默认放到屠龙仓库中。<font color = \\'#ff0000\\'>转一<br>次</font>不会获得积分，<font color = \\'#ff0000\\'>转10次</font>将获得一积分，<br>积分可以兑换<font color = \\'#ff0000\\'>珍稀道具</font>，点击珍品兑换可打开<br><font color = \\'#ff0000\\'>积分商城</font>。豪礼转盘，豪礼多多，惊喜多多，<br>赶快转动轮盘，下一个幸运儿就是你！\"",
+      "target_expression": "\"<font color = '#ffff00'><b>Cách chơi:</b></font>người chơi Có thể tốn một số tiền nhất định Nguyên Bảo nhấp chuột<font color = '#ff0000'>Xoay một lần</font>cái nút<br>Chạy xổ số và chi tiêu nhiều hơn Nguyên Bảo nhấp chuột<font color = '#ff0000'>Xoay 10 lần</font><br>Các giải thưởng giành được sẽ được đặt mặc định Đồ Long Trong nhà kho.<font color = '#ff0000'>Rẽ một<br>hạng hai</font>Sẽ không kiếm được điểm,<font color = '#ff0000'>Xoay 10 lần</font>Một điểm sẽ được thưởng,<br>Điểm có thể được đổi<font color = '#ff0000'>Hiếm Vật Phẩm</font>, bấm vào Trao đổi kho báu để mở<br><font color = '#ff0000'>tích phân Thương Thành</font>. Băng chuyền quà tặng sang trọng có nhiều quà tặng sang trọng và bất ngờ.<br>Hãy quay bánh xe thật nhanh, bạn sẽ là người may mắn tiếp theo!\"",
+      "review": "segmented-machine"
+    },
+    "sealedBook[46]@4880": {
+      "source_key": "sealedBook[46]",
+      "source_line": 4880,
+      "source_expression": "\"你现在接取的是<font color=\\'#00cc33\\'>1星任务</font><font color=\\'#ff3333\\'>（任务星级越高获得的经验越多，星<br>级可用绑定金币或者元宝刷新提升）</font>，确定要接取任务吗？\"",
+      "target_expression": "\"Những gì bạn đang nhận được bây giờ là<font color='#00cc33'>1 sao Nhiệm Vụ</font><font color='#ff3333'>（Nhiệm Vụ Xếp hạng sao bạn nhận được càng cao Kinh Nghiệm Càng nhiều sao<br>cấp độ có sẵn Kim Tệ Khóa hoặc Nguyên Bảo Làm mới khuyến mãi)</font>, xác nhận để nhận Nhiệm Vụ?\"",
+      "review": "segmented-machine"
+    },
+    "sealedBook[48]@4882": {
+      "source_key": "sealedBook[48]",
+      "source_line": 4882,
+      "source_expression": "\"<font>你将花费<font color = \\'#65ff32\\'>$value$绑定金币</font>领取2倍奖励</font>\"",
+      "target_expression": "\"<font>bạn sẽ chi tiêu<font color = '#65ff32'>$value$Kim Tệ Khóa</font>Nhận 2 lần Phần Thưởng</font>\"",
+      "review": "segmented-machine"
+    },
+    "sealedBook[49]@4883": {
+      "source_key": "sealedBook[49]",
+      "source_line": 4883,
+      "source_expression": "\"<font>领取当前奖励需要花费<font color = \\'#65ff32\\'>$value$绑定金币</font></font>\"",
+      "target_expression": "\"<font>Nhận hiện tại Phần Thưởng cần phải chi tiêu<font color = '#65ff32'>$value$Kim Tệ Khóa</font></font>\"",
+      "review": "segmented-machine"
+    },
+    "sealedBook[58]@4892": {
+      "source_key": "sealedBook[58]",
+      "source_line": 4892,
+      "source_expression": "\"<font size = \\'14\\' color = \\'$color$\\'>经验：$num$</font>\"",
+      "target_expression": "\"<font size = '14' color = '$color$'>Kinh Nghiệm：$num$</font>\"",
+      "review": "segmented-machine"
+    },
+    "sealedBook[59]@4893": {
+      "source_key": "sealedBook[59]",
+      "source_line": 4893,
+      "source_expression": "\"<font size = \\'12\\' color = \\'#f3f328\\'>免费领取</font>，<font size = \\'12\\' color = \\'#f3f328\\'>花费$num$元宝</font>，<font size = \\'12\\' color = \\'#f3f328\\'>花费$num$元宝</font>，<font size = \\'12\\' color = \\'#f3f328\\'>领取5倍奖励</font>\"",
+      "target_expression": "\"<font size = '12' color = '#f3f328'>Nhận nó miễn phí</font>，<font size = '12' color = '#f3f328'>tiêu$num$Nguyên Bảo</font>，<font size = '12' color = '#f3f328'>tiêu$num$Nguyên Bảo</font>，<font size = '12' color = '#f3f328'>Nhận 5 lần Phần Thưởng</font>\"",
+      "review": "segmented-machine"
+    },
+    "questDay[1]@4902": {
+      "source_key": "questDay[1]",
+      "source_line": 4902,
+      "source_expression": "\"<font size=\\\"12\\\">任务有五个品质，<font color=\\\"#ffffff\\\">白</font>、<font color=\\\"#0099cc\\\">蓝</font>、<font color=\\\"#ffff33\\\">黄</font>、<font color=\\\"#33ff33\\\">绿</font>、<font color=\\\"#ff9900\\\">暗金</font>，品质越高奖励越丰富<br>可以使用元宝一键刷出暗金任务，暗金任务会奖励道具<br>接受的任务可以立即完成并获得任务励<br>每完成 <font color=\\\"#33ff33\\\">5</font> 次任务可以获得礼包 <font color=\\\"#33ff33\\\">1</font> 个</font>\"",
+      "target_expression": "\"<font size=\\\"12\\\">Nhiệm Vụ Có năm phẩm chất,<font color=\\\"#ffffff\\\">trắng</font>、<font color=\\\"#0099cc\\\">màu xanh da trời</font>、<font color=\\\"#ffff33\\\">màu vàng</font>、<font color=\\\"#33ff33\\\">màu xanh lá</font>、<font color=\\\"#ff9900\\\">vàng đậm</font>, chất lượng càng cao Phần Thưởng Càng giàu<br>Có thể được sử dụng Nguyên Bảo Nhận vàng đen chỉ bằng một cú nhấp chuột Nhiệm Vụ, vàng đậm Nhiệm Vụ cuộc họp Phần Thưởng Vật Phẩm<br>được chấp nhận Nhiệm Vụ Có thể hoàn thành và lấy ngay Nhiệm Vụ khuyến khích<br>mỗi lần hoàn thành<font color=\\\"#33ff33\\\">5</font>hạng hai Nhiệm Vụ có thể thu được Gói Quà <font color=\\\"#33ff33\\\">1</font>cá nhân</font>\"",
+      "review": "segmented-machine"
+    },
+    "statue[22]@4949": {
+      "source_key": "statue[22]",
+      "source_line": 4949,
+      "source_expression": "\"<font color = \\'#AB8C70\\'>全服每膜拜/鄙视</font><font color = \\'#9B958B\\'>$allTimes$</font>次,<font color = \\'#AB8C70\\'>则系统赠送所有玩家</font><font color = \\'#9B958B\\'>$times$</font>次膜拜机会\"",
+      "target_expression": "\"<font color = '#AB8C70'>Bị mọi người trên máy chủ tôn thờ/khinh thường</font><font color = '#9B958B'>$allTimes$</font>Hạng hai,<font color = '#AB8C70'>Hệ thống sẽ cho đi tất cả người chơi</font><font color = '#9B958B'>$times$</font>cơ hội để thờ phượng\"",
+      "review": "segmented-machine"
+    },
+    "statue[38]@4965": {
+      "source_key": "statue[38]",
+      "source_line": 4965,
+      "source_expression": "\"<font color = \\'#AB8C70\\'>$num$小时$time$倍杀怪经验</font>\"",
+      "target_expression": "\"<font color = '#AB8C70'>$num$Giờ$time$Tiêu diệt quái vật nhiều gấp đôi Kinh Nghiệm</font>\"",
+      "review": "segmented-machine"
+    },
+    "statue[70]@4997": {
+      "source_key": "statue[70]",
+      "source_line": 4997,
+      "source_expression": "\"<textformat leading=\\'8\\'><font color = \\'#9F9794\\'>【城主失败】玩家</font><font color = \\'#A88C88\\'>$name$</font><font color = \\'#9F9794\\'>于$time$对城主$leader0$发起挑战，城主</font><font color = \\'#A88C88\\'>$leader1$</font><font color = \\'#9F9794\\'>实力不济，不敌落败！</font><font color = \\'#A88C88\\'>今日败绩+1 </font></textformat>\"",
+      "target_expression": "\"<textformat leading='8'><font color = '#9F9794'>[Chúa thành phố thất bại]người chơi</font><font color = '#A88C88'>$name$</font><font color = '#9F9794'>Tại$time$Gửi lãnh chúa thành phố$leader0$Thử thách, Chúa ơi!</font><font color = '#A88C88'>$leader1$</font><font color = '#9F9794'>Thực lực yếu, bị đánh bại!</font><font color = '#A88C88'>Trận thua hôm nay +1</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "statue[72]@4999": {
+      "source_key": "statue[72]",
+      "source_line": 4999,
+      "source_expression": "\"1、城主可以投入元宝进行悬赏<br>\" + \"2、投入后，元宝会以1:2的形式转换成欢乐豆<br>\" + \"3、玩家膜拜城主一次就会返回100欢乐豆给膜<br>拜玩家，送完为止。<br>\" + \"4、投放的元宝将反馈给城主行会一定的行会资<br>金。\"",
+      "target_expression": "\"1. Lãnh chúa thành phố có thể đầu tư Nguyên Bảo Đưa ra phần thưởng<br>\" + \"2. Sau khi đầu tư,Nguyên Bảo Sẽ được quy đổi thành đậu hạnh phúc theo tỷ lệ 1:2<br>\" + \"3、người chơi Thờ chúa thành phố một lần sẽ trả lại 100 Đậu Hạnh Phúc cho màng.<br>tạm biệt người chơi, trong khi nguồn cung cấp vẫn còn.<br>\" + \"4. Đặt vào Nguyên Bảo Sẽ phản hồi cho lãnh chúa thành phố Bang Hội Chắc chắn Bang Hội Thủ đô<br>vàng.\"",
+      "review": "segmented-machine"
+    },
+    "statue[73]@5000": {
+      "source_key": "statue[73]",
+      "source_line": 5000,
+      "source_expression": "\"已经达到最高Phần Thưởng倍数\"",
+      "target_expression": "\"Đã đạt bội số Phần thưởng cao nhất\"",
+      "review": "segmented-machine"
+    },
+    "other[13]@5203": {
+      "source_key": "other[13]",
+      "source_line": 5203,
+      "source_expression": "\"输入不能超过100个字\"",
+      "target_expression": "\"Đầu vào không thể vượt quá 100 ký tự\"",
+      "review": "segmented-machine"
+    },
+    "other[50]@5240": {
+      "source_key": "other[50]",
+      "source_line": 5240,
+      "source_expression": "[\"指挥明星\",\"攻略大师\",\"最佳城主\",\"神勇之师\"]",
+      "target_expression": "[\"ngôi sao nhạc trưởng\",\"bậc thầy chiến lược\",\"Chúa thành phố tốt nhất\",\"Người chủ dũng cảm\"]",
+      "review": "segmented-machine"
+    },
+    "other[51]@5241": {
+      "source_key": "other[51]",
+      "source_line": 5241,
+      "source_expression": "[\"在攻城战中，组织和指挥表现出色的玩家\",\"在论坛上发表最佳攻略，或者发表精华攻略贴较多的玩家\",\"在攻城战役中表现出色的城主\",\"服务器历史上攻城胜利次数最多的行会\"]",
+      "target_expression": "[\"Trong chiến tranh vây thành, người giỏi tổ chức và chỉ huy người chơi\",\"Đăng các chiến lược tốt nhất trên diễn đàn hoặc đăng các chiến lược tốt nhất với nhiều bài đăng người chơi\",\"Một lãnh chúa thành phố đã thể hiện tốt trong trận chiến bao vây\",\"Những chiến thắng công thành nhiều nhất trong lịch sử máy chủ Bang Hội\"]",
+      "review": "segmented-machine"
+    },
+    "other[66]@5256": {
+      "source_key": "other[66]",
+      "source_line": 5256,
+      "source_expression": "[\"专属武器\",\"专属时装\",\"专属坐骑\"]",
+      "target_expression": "[\"Vũ khí độc quyền\",\"thời trang độc quyền\",\"Loại trừ Tọa Kỵ\"]",
+      "review": "segmented-machine"
+    },
+    "other[70]@5260": {
+      "source_key": "other[70]",
+      "source_line": 5260,
+      "source_expression": "[\"精彩瞬间\",\"城战信息\",\"城池官员\"]",
+      "target_expression": "[\"những khoảnh khắc tuyệt vời\",\"thông tin chiến tranh đô thị\",\"quan chức thành phố\"]",
+      "review": "segmented-machine"
+    },
+    "other[71]@5261": {
+      "source_key": "other[71]",
+      "source_line": 5261,
+      "source_expression": "[\"财神送礼\",\"祝福有奖\",\"封测福利\"]",
+      "target_expression": "[\"Thần tài tặng quà\",\"Phước lành và giải thưởng\",\"Lợi ích của phiên bản beta kín\"]",
+      "review": "segmented-machine"
+    },
+    "other[85]@5275": {
+      "source_key": "other[85]",
+      "source_line": 5275,
+      "source_expression": "\"元宝:$num\"",
+      "target_expression": "\"Nguyên Bảo:$num\"",
+      "review": "segmented-machine"
+    },
+    "other[92]@5282": {
+      "source_key": "other[92]",
+      "source_line": 5282,
+      "source_expression": "[\"翅膀预览\",\"套装特效\",\"强化特效\",\"宝石特效\"]",
+      "target_expression": "[\"xem trước cánh\",\"Bộ hiệu ứng đặc biệt\",\"Cường Hóa hiệu ứng đặc biệt\",\"Bảo Thạch hiệu ứng đặc biệt\"]",
+      "review": "segmented-machine"
+    },
+    "salary[24]@5344": {
+      "source_key": "salary[24]",
+      "source_line": 5344,
+      "source_expression": "\"<font color = \\'#cc9933\\'>绑定金币：$num$</font>\"",
+      "target_expression": "\"<font color = '#cc9933'>Kim Tệ Khóa：$num$</font>\"",
+      "review": "segmented-machine"
+    },
+    "salary[33]@5353": {
+      "source_key": "salary[33]",
+      "source_line": 5353,
+      "source_expression": "\"本周内未签到的日期可以进行补签，<br>补签后可以获得相应天数的奖励与累<br>计签到奖励，补签绝对超值。<br>提示：请留意补签剩余次数\"",
+      "target_expression": "\"Những ngày không đăng nhập trong tuần này có thể được đăng nhập lại.<br>Sau khi ký lại bạn có thể nhận được số ngày tương ứng Phần Thưởng và mệt mỏi<br>Đăng ký vào Phần Thưởng, việc tái ký là hoàn toàn xứng đáng.<br>Mẹo: Hãy chú ý đến số lần ký lại còn lại\"",
+      "review": "segmented-machine"
+    },
+    "salary[47]@5367": {
+      "source_key": "salary[47]",
+      "source_line": 5367,
+      "source_expression": "\"<font size=\\'14\\' color = \\'#ffffff\\' ><b>本周已签到</b></font><font size=\\'14\\' color = \\'#00ff00\\' ><b>$num$</b></font><font size=\\'14\\' color = \\'#ffffff\\' ><b>天</b></font>\"",
+      "target_expression": "\"<font size='14' color = '#ffffff' ><b>Đã đăng ký trong tuần này</b></font><font size='14' color = '#00ff00' ><b>$num$</b></font><font size='14' color = '#ffffff' ><b>bầu trời</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "salary[53]@5373": {
+      "source_key": "salary[53]",
+      "source_line": 5373,
+      "source_expression": "\"<font color = \\'#d800ff\\' >每周签到满</font><font color = \\'#ffff00\\' >7天</font><font color = \\'#d800ff\\' >可额外获得</font><font color = \\'#ffff00\\' >绚丽翅膀</font><font color = \\'#d800ff\\' >与</font><font color = \\'#ffff00\\' >1亿</font><font color = \\'#d800ff\\' >经验奖励</font><br>\"",
+      "target_expression": "\"<font color = '#d800ff' >Đăng nhập mỗi tuần</font><font color = '#ffff00' >7 ngày</font><font color = '#d800ff' >Có sẵn bổ sung</font><font color = '#ffff00' >Đôi cánh rực rỡ</font><font color = '#d800ff' >Và</font><font color = '#ffff00' >100 triệu</font><font color = '#d800ff' >Kinh Nghiệm Phần Thưởng</font><br>\"",
+      "review": "segmented-machine"
+    },
+    "salary[57]@5377": {
+      "source_key": "salary[57]",
+      "source_line": 5377,
+      "source_expression": "\"<font  color = \\'#ff8311\\'><font  color = \\'#fff711\\'>今日还未签到</font>，你确定现在<font  color = \\'#fff711\\'>领取工资</font>吗？<br>每周签到越多工资越高，签满<font  color = \\'#fff711\\'>7天</font>更有额外的<br><font  color = \\'#fff711\\'>绚丽翅膀</font>和<font  color = \\'#fff711\\'>1亿经验</font>奖励</font>\"",
+      "target_expression": "\"<font  color = '#ff8311'><font  color = '#fff711'>Chưa đăng nhập hôm nay</font>, bây giờ bạn có chắc chắn không<font  color = '#fff711'>nhận lương</font>?<br>Bạn đăng nhập càng nhiều mỗi tuần, mức lương của bạn sẽ càng cao.<font  color = '#fff711'>7 ngày</font>Thêm thêm<br><font  color = '#fff711'>Đôi cánh rực rỡ</font>Và<font  color = '#fff711'>100 triệu Kinh Nghiệm</font>Phần Thưởng</font>\"",
+      "review": "segmented-machine"
+    },
+    "salary[58]@5378": {
+      "source_key": "salary[58]",
+      "source_line": 5378,
+      "source_expression": "\"本周还未签满<font  color = \\'#fff711\\'>7天</font>，你确定现在<font  color = \\'#fff711\\'>领取工资</font>吗？<br>你还可以通过补签签满本周，每周签到越多工资越高，<br>签满<font  color = \\'#fff711\\'>7天</font>更有额外的<font  color = \\'#fff711\\'>绚丽翅膀</font>和<font  color = \\'#fff711\\'>1亿经验</font>奖励\"",
+      "target_expression": "\"Tuần này vẫn chưa đầy<font  color = '#fff711'>7 ngày</font>, bây giờ bạn có chắc chắn không<font  color = '#fff711'>nhận lương</font>?<br>Bạn cũng có thể đăng nhập trong cả tuần thông qua đăng nhập bổ sung. Bạn càng đăng nhập nhiều lần mỗi tuần, mức lương của bạn sẽ càng cao.<br>Đã ký đầy đủ<font  color = '#fff711'>7 ngày</font>Thêm thêm<font  color = '#fff711'>Đôi cánh rực rỡ</font>Và<font  color = '#fff711'>100 triệu Kinh Nghiệm</font>Phần Thưởng\"",
+      "review": "segmented-machine"
+    },
+    "friendReturn[6]@5574": {
+      "source_key": "friendReturn[6]",
+      "source_line": 5574,
+      "source_expression": "\"<textformat leading=\\'8\\'><font size = \\'15\\'>   亲爱的玩家,欢迎回归暗黑屠龙,你已经满足老玩家的回归资格,<BR>你已累计离线<font color = \\'#FFFF00\\'>$num$天</font>,累计充值金额<font color = \\'#FFFF00\\'>$money$元宝</font>,可领取$name$回归礼包</font></textformat>\"",
+      "target_expression": "\"<textformat leading='8'><font size = '15'>Em yêu người chơi, chào mừng trở lại với bóng tối Đồ Long, bạn đã hài lòng với cái cũ rồi người chơi trả lại đủ điều kiện,<BR>Bạn đã ngoại tuyến tổng cộng<font color = '#FFFF00'>$num$bầu trời</font>,Tổng cộng Nạp Thẻ Số lượng<font color = '#FFFF00'>$money$Nguyên Bảo</font>, có sẵn để sưu tập$name$trở lại Gói Quà</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "friendReturn[8]@5576": {
+      "source_key": "friendReturn[8]",
+      "source_line": 5576,
+      "source_expression": "\"<textformat leading=\\'7\\'><font size = \\'13\\'>说明:<BR>1、玩家回归游戏时的等级达到<BR>65级,且<font color=\\'#00FF00\\'>7天、14天、30天、60</font><BR>天以上未登陆游戏者,自行<BR>登陆游戏将可获得系统赠送<BR>的回归大礼包.<BR>\" + \"2、回归后达到相应活跃度条件,<BR>还可领取特别的奖励.<BR>\" + \"</font></textformat>\"",
+      "target_expression": "\"<textformat leading='7'><font size = '13'>minh họa:<BR>1、người chơi Trở lại trò chơi ở cấp độ<BR>Cấp 65, và<font color='#00FF00'>7 ngày, 14 ngày, 30 ngày, 60</font><BR>Nếu bạn chưa đăng nhập vào trò chơi quá 10 ngày, bạn có thể<BR>Đăng nhập vào game sẽ nhận được quà tặng hệ thống<BR>Sự trở lại của ông lớn Gói Quà.<BR>\" + \"2. Đạt được phản hồi thích hợp sau khi quay lại Điểm Năng Động tình trạng,<BR>Bạn cũng có thể nhận được đặc biệt Phần Thưởng.<BR>\" + \"</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "friendReturn[12]@5580": {
+      "source_key": "friendReturn[12]",
+      "source_line": 5580,
+      "source_expression": "\"<textformat leading=\\'7\\'><font size = \\'13\\'>邀请礼包界面说明:<BR>\" + \"1、邀请的对象回归游戏时等级<BR>需<font color=\\'#00FF00\\'>65级</font>且<font color=\\'#00FF00\\'>7天</font>以上未登陆游戏的<BR>\" + \"2、被邀请者上线后点击激活按<BR>钮,邀请者可以获得邀请奖励.<BR>\" + \"3、活动期间内邀请好友数量排名<BR><font color=\\'#00FF00\\'>前5名</font>的玩家可获得排名奖励</font></textformat>\"",
+      "target_expression": "\"<textformat leading='7'><font size = '13'>mời Gói Quà Mô tả giao diện:<BR>\" + \"1. Cấp độ của đối tượng được mời khi quay lại game<BR>nhu cầu<font color='#00FF00'>Cấp 65</font>Và<font color='#00FF00'>7 ngày</font>Những ai chưa đăng nhập vào game trên<BR>\" + \"2. Sau khi người được mời trực tuyến, nhấp vào nút kích hoạt<BR>nút, người mời có thể nhận được lời mời Phần Thưởng.<BR>\" + \"3. Xếp hạng số lượng bạn bè được mời trong thời gian diễn ra sự kiện<BR><font color='#00FF00'>Top 5</font>của người chơi Xếp hạng có thể đạt được Phần Thưởng</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "friendReturn[15]@5583": {
+      "source_key": "friendReturn[15]",
+      "source_line": 5583,
+      "source_expression": "\"<textformat leading=\\'7\\'><font size = \\'13\\'>注:1.回归后活跃度达到20才可点击激活<BR><BR>\" + \"2.邀请人只能被填写一次,即只能填写<BR><BR>\" + \"一个邀请人</font></textformat>\"",
+      "target_expression": "\"<textformat leading='7'><font size = '13'>Lưu ý: 1. Sau khi trở về Điểm Năng Động Bấm để kích hoạt khi đạt 20<BR><BR>\" + \"2. Người mời chỉ được điền một lần, tức là chỉ<BR><BR>\" + \"một người mời</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "transmigration[17]@5647": {
+      "source_key": "transmigration[17]",
+      "source_line": 5647,
+      "source_expression": "\"<textformat leading=\\'8\\'><font size = \\'13\\'>1、转生次数上限随着世界文明度等级<BR>的提升而升高<BR>2、转生需要消耗一定数量的转生灵魄<br>\" + \"3、转生后自身等级将变成40级，但是<BR>可以穿戴低于自身转生次数的所有等级<BR>装备<BR>\" + \"4、每次转生都会获得属性加成，转生<BR>一定次数后可以通过使用技能书提升技<BR>能等级<BR>5、每转生1次，人物最高等级将提升5级\"",
+      "target_expression": "\"<textformat leading='8'><font size = '13'>1、Chuyển Sinh Giới hạn trên của thời gian phụ thuộc vào trình độ văn minh thế giới.<BR>tăng do sự cải thiện của<BR>2、Chuyển Sinh Phải mất một lượng nhất định Chuyển Sinh Linh hồn<br>\" + \"3、Chuyển Sinh Sau đó, cấp độ của bản thân sẽ trở thành cấp 40, nhưng<BR>Có thể đeo thấp hơn chính nó Chuyển Sinh Tất cả các cấp đại diện<BR>Trang Bị<BR>\" + \"4. Mỗi lần Chuyển Sinh sẽ nhận được tiền thưởng thuộc tính.Chuyển Sinh<BR>Sau một số lần nhất định, bạn có thể sử dụng Sách Kỹ Năng Cải thiện kỹ năng<BR>Cấp độ khả năng<BR>5. Mỗi Chuyển Sinh Một lần, cấp độ tối đa của nhân vật sẽ được tăng thêm 5 cấp.\"",
+      "review": "segmented-machine"
+    },
+    "transmigration[20]@5650": {
+      "source_key": "transmigration[20]",
+      "source_line": 5650,
+      "source_expression": "\"绑定金币：$num$\\n\"",
+      "target_expression": "\"Kim Tệ Khóa：$num$\\n\"",
+      "review": "segmented-machine"
+    },
+    "transmigration[29]@5659": {
+      "source_key": "transmigration[29]",
+      "source_line": 5659,
+      "source_expression": "\"<商城/@@showWin,$id$,$pageId$>\"",
+      "target_expression": "\"<Thương Thành/@@showWin,$id$,$pageId$>\"",
+      "review": "segmented-machine"
+    },
+    "transmigration[32]@5662": {
+      "source_key": "transmigration[32]",
+      "source_line": 5662,
+      "source_expression": "\"<获得经验/@@showWin,$id$,$pageId$>\"",
+      "target_expression": "\"<lấy Kinh Nghiệm/@@showWin,$id$,$pageId$>\"",
+      "review": "segmented-machine"
+    },
+    "transmigration[33]@5663": {
+      "source_key": "transmigration[33]",
+      "source_line": 5663,
+      "source_expression": "\"<获得装备/@@showWin,$id$,$pageId$>\"",
+      "target_expression": "\"<lấy Trang Bị/@@showWin,$id$,$pageId$>\"",
+      "review": "segmented-machine"
+    },
+    "changSex[6]@5680": {
+      "source_key": "changSex[6]",
+      "source_line": 5680,
+      "source_expression": "\"<textformat leading=\\'8\\'><font size = \\'13\\'>1、性别转换后装备性别会改变成<BR>转换后的性别<BR>2、职业转换后魅力值将变成帅气值，<BR>数值与排行榜不发生变化</font></textformat>\"",
+      "target_expression": "\"<textformat leading='8'><font size = '13'>1. Sau khi chuyển đổi giới tính Trang Bị giới tính sẽ thay đổi thành<BR>chuyển đổi giới tính<BR>2. Sau khi thay đổi nghề nghiệp, giá trị quyến rũ sẽ trở thành giá trị đẹp trai.<BR>Giá trị và thứ hạng sẽ không thay đổi</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "changSex[15]@5689": {
+      "source_key": "changSex[15]",
+      "source_line": 5689,
+      "source_expression": "\"<font color = \\'#cfa775\\'>元宝</font>\"",
+      "target_expression": "\"<font color = '#cfa775'>Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "itemRecycling[6]@5738": {
+      "source_key": "itemRecycling[6]",
+      "source_line": 5738,
+      "source_expression": "\"<font size=\\'14\\'>经验</font>,<font size=\\'14\\'>绑定金币</font>,<font size=\\'14\\'>兽魂值</font>,<font size=\\'14\\'>神魂值</font>,药品,各种道具,<font size=\\'14\\'>战魂值</font>,佣兵相关\"",
+      "target_expression": "\"<font size='14'>Kinh Nghiệm</font>,<font size='14'>Kim Tệ Khóa</font>,<font size='14'>Giá trị linh hồn thú</font>,<font size='14'>giá trị tâm hồn</font>, thuốc, khác nhau Vật Phẩm,<font size='14'>Giá trị tinh thần chiến đấu</font>,Dung Binh Có liên quan\"",
+      "review": "segmented-machine"
+    },
+    "itemRecycling[29]@5761": {
+      "source_key": "itemRecycling[29]",
+      "source_line": 5761,
+      "source_expression": "\"可获得人物经验，加快升级速度|\" + \"绑定金币可用于狩猎任务、赏金任务、日常任务的星级或品质刷新，也可用于装备强化|\" + \"兽魂值可用于坐骑系统中，兽魂功能的兽魂修炼|\" + \"神魂值可到屠龙城（151,141）找NPC装备兑换使者兑换套装或神装|\" + \"药品|\" + \"各种道具|\" + \"战魂值可到屠龙城（151,141）找NPC装备兑换使者兑换神戒、魔钻或勋章|\" + \"佣兵相关\"",
+      "target_expression": "\"Ký tự có sẵn Kinh Nghiệm, tăng tốc độ nâng cấp|\" + \"Kim Tệ Khóa Có thể dùng để đi săn Nhiệm Vụ, tiền thưởng Nhiệm Vụ,hằng ngày Nhiệm Vụ Xếp hạng sao hoặc làm mới chất lượng cũng có thể được sử dụng để Trang Bị Cường Hóa|\" + \"Giá trị linh hồn quái vật có thể được sử dụng cho Tọa Kỵ Trong hệ thống, thú hồn rèn luyện chức năng thú hồn|\" + \"Giá trị linh hồn có sẵn Đồ Long Tìm NPC trong thành phố (151,141)Trang Bị Đổi Sứ Giả đổi một bộ hoặc trang phục thần thánh |\" + \"Thuốc |\" + \"Nhiều Vật Phẩm|\" + \"Giá trị tinh thần chiến đấu có sẵn Đồ Long Tìm NPC trong thành phố (151,141)Trang Bị Đổi sứ để đổi nhẫn thần, kim cương ma thuật hay huy chương |\" + \"Dung Binh Có liên quan\"",
+      "review": "segmented-machine"
+    },
+    "openService[5]@5773": {
+      "source_key": "openService[5]",
+      "source_line": 5773,
+      "source_expression": "\"<font size = \\'14\\' ><b>累计提元宝</b></font><Br><font>充值奖上奖</font>\"",
+      "target_expression": "\"<font size = '14' ><b>Rút tiền tích lũy Nguyên Bảo</b></font><Br><font>Nạp Thẻ Giải thưởng trên giải thưởng</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[6]@5774": {
+      "source_key": "openService[6]",
+      "source_line": 5774,
+      "source_expression": "\"<font size = \\'14\\' ><b>坐骑大礼包</b></font><Br><font>最炫坐骑风</font>\"",
+      "target_expression": "\"<font size = '14' ><b>Tọa Kỵ to lớn Gói Quà</b></font><Br><font>Rực rỡ nhất Tọa Kỵ gió</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[7]@5775": {
+      "source_key": "openService[7]",
+      "source_line": 5775,
+      "source_expression": "\"<font size = \\'14\\' ><b>宝石大礼包</b></font><Br><font>属性提升最佳选择</font>\"",
+      "target_expression": "\"<font size = '14' ><b>Bảo Thạch to lớn Gói Quà</b></font><Br><font>Sự lựa chọn tốt nhất để cải thiện thuộc tính</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[8]@5776": {
+      "source_key": "openService[8]",
+      "source_line": 5776,
+      "source_expression": "\"<font size = \\'14\\' ><b>佣兵大礼包</b></font><Br><font>最强佣兵助你征战</font>\"",
+      "target_expression": "\"<font size = '14' ><b>Dung Binh to lớn Gói Quà</b></font><Br><font>mạnh nhất Dung Binh Giúp bạn chiến đấu</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[10]@5777": {
+      "source_key": "openService[10]",
+      "source_line": 5777,
+      "source_expression": "\"<font size = \\'15\\' >充值</font>,<font size = \\'30\\' >任意</font><font size = \\'22\\' >金额</font>,<font size = \\'15\\' >立即\" + \"获得</font>,<font size = \\'30\\' >1</font><font size = \\'22\\' >8</font><font size = \\'30\\' >88</font><font size = \\'22\\' >8元宝</font><font size = \\'15\\' >超级大</font><font size = \\'22\\' >礼包</font>,\" + \"<font size = \\'15\\' > 内含超酷的</font>,<font size = \\'30\\' >绚丽翅膀</font>,\" + \"<font size = \\'15\\' >还可免费</font><font size = \\'22\\' ></font>,<font size = \\'30\\' >升一级</font>\"",
+      "target_expression": "\"<font size = '15' >Nạp Thẻ</font>,<font size = '30' >tùy ý</font><font size = '22' >Số lượng</font>,<font size = '15' >ngay lập tức\" + \"lấy</font>,<font size = '30' >1</font><font size = '22' >8</font><font size = '30' >88</font><font size = '22' >8 Nguyên Bảo</font><font size = '15' >siêu lớn</font><font size = '22' >Gói Quà</font>,\" + \"<font size = '15' >Chứa siêu mát mẻ</font>,<font size = '30' >Đôi cánh rực rỡ</font>,\" + \"<font size = '15' >Cũng miễn phí</font><font size = '22' ></font>,<font size = '30' >Nâng cấp</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[11]@5778": {
+      "source_key": "openService[11]",
+      "source_line": 5778,
+      "source_expression": "\"<font color = \\'#fbc972\\' size = \\'22\\' >只要再充值</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>,<font color = \\'#fbc972\\' size = \\'22\\' >即可获得</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >再充礼包</font>\"",
+      "target_expression": "\"<font color = '#fbc972' size = '22' >Chỉ một lần nữa Nạp Thẻ</font>,<font color = '#ffcc00' size = '30' >$num$Nguyên Bảo</font>,<font color = '#fbc972' size = '22' >Bạn có thể nhận được</font>,<font color = '#ffcc00' size = '30' >nạp tiền Gói Quà</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[12]@5779": {
+      "source_key": "openService[12]",
+      "source_line": 5779,
+      "source_expression": "\"<font color = \\'#fbc972\\' size = \\'22\\' >只要再充值</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>,<font color = \\'#fbc972\\' size = \\'22\\' >即可获得</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >三充礼包</font>\"",
+      "target_expression": "\"<font color = '#fbc972' size = '22' >Chỉ một lần nữa Nạp Thẻ</font>,<font color = '#ffcc00' size = '30' >$num$Nguyên Bảo</font>,<font color = '#fbc972' size = '22' >Bạn có thể nhận được</font>,<font color = '#ffcc00' size = '30' >Ba lần sạc Gói Quà</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[13]@5780": {
+      "source_key": "openService[13]",
+      "source_line": 5780,
+      "source_expression": "\"<font color = \\'#fbc972\\' size = \\'22\\' >只要再充值</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>,<font color = \\'#fbc972\\' size = \\'22\\' >即可获得</font>,<font color = \\'#ffcc00\\' size = \\'30\\' >豪充礼包</font>\"",
+      "target_expression": "\"<font color = '#fbc972' size = '22' >Chỉ một lần nữa Nạp Thẻ</font>,<font color = '#ffcc00' size = '30' >$num$Nguyên Bảo</font>,<font color = '#fbc972' size = '22' >Bạn có thể nhận được</font>,<font color = '#ffcc00' size = '30' >Hạo Xung Gói Quà</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[35]@5801": {
+      "source_key": "openService[35]",
+      "source_line": 5801,
+      "source_expression": "\"在线满$num$分钟立即送一个30分钟的双倍经验道具，活动期间内送$num$次（相当于$num$小时的双倍经验），已赠送$num$次\"",
+      "target_expression": "\"đầy đủ trực tuyến$num$Số phút sẽ mang lại cho bạn gấp đôi 30 phút ngay lập tức Kinh Nghiệm Vật Phẩm, được trao trong thời gian sự kiện$num$lần (tương đương với$num$nhân đôi giờ Kinh Nghiệm), được tặng làm quà$num$hạng hai\"",
+      "review": "segmented-machine"
+    },
+    "openService[45]@5811": {
+      "source_key": "openService[45]",
+      "source_line": 5811,
+      "source_expression": "\"<font size = \\'15\\' >已提取元宝：<font color = \\'#00C957\\'>$num$</font>（还相差<font color = \\'#00C957\\'>$need$</font>元宝即可获取大礼包）</font>\"",
+      "target_expression": "\"<font size = '15' >Đã trích xuất Nguyên Bảo：<font color = '#00C957'>$num$</font>(vẫn khác<font color = '#00C957'>$need$</font>Nguyên Bảo Bạn có thể nhận được một lớn Gói Quà）</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[46]@5812": {
+      "source_key": "openService[46]",
+      "source_line": 5812,
+      "source_expression": "\"<font color = \\'#fbc972\\' size = \\'17\\' >顶级</font>,<font color = \\'#fbc972\\' size = \\'22\\' >神装材料</font>,<font color = \\'#ffa800\\' size = \\'17\\' >稀有来源之一</font>,<font color = \\'#fbc972\\' size = \\'22\\' >\" + \"</font>,<font color = \\'#ffa800\\' size = \\'17\\' >，三档礼包助你</font>,<font color = \\'#fbc972\\' size = \\'22\\' >称霸全服!</font>\"",
+      "target_expression": "\"<font color = '#fbc972' size = '17' >Đứng đầu</font>,<font color = '#fbc972' size = '22' >Vật liệu trang bị thần thánh</font>,<font color = '#ffa800' size = '17' >Một trong những nguồn hiếm hoi</font>,<font color = '#fbc972' size = '22' >\" + \"</font>,<font color = '#ffa800' size = '17' >, bánh răng thứ ba Gói Quà giúp bạn</font>,<font color = '#fbc972' size = '22' >Thống trị toàn bộ máy chủ!</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[47]@5813": {
+      "source_key": "openService[47]",
+      "source_line": 5813,
+      "source_expression": "\"坐骑\"",
+      "target_expression": "\"Tọa Kỵ\"",
+      "review": "segmented-machine"
+    },
+    "openService[48]@5814": {
+      "source_key": "openService[48]",
+      "source_line": 5814,
+      "source_expression": "\"佣兵\"",
+      "target_expression": "\"Dung Binh\"",
+      "review": "segmented-machine"
+    },
+    "openService[49]@5815": {
+      "source_key": "openService[49]",
+      "source_line": 5815,
+      "source_expression": "\"宝石\"",
+      "target_expression": "\"Bảo Thạch\"",
+      "review": "segmented-machine"
+    },
+    "openService[66]@5832": {
+      "source_key": "openService[66]",
+      "source_line": 5832,
+      "source_expression": "\"符文\"",
+      "target_expression": "\"Phù Văn\"",
+      "review": "segmented-machine"
+    },
+    "openService[67]@5833": {
+      "source_key": "openService[67]",
+      "source_line": 5833,
+      "source_expression": "\"装备\"",
+      "target_expression": "\"Trang Bị\"",
+      "review": "segmented-machine"
+    },
+    "openService[74]@5840": {
+      "source_key": "openService[74]",
+      "source_line": 5840,
+      "source_expression": "\"礼包\"",
+      "target_expression": "\"Gói Quà\"",
+      "review": "segmented-machine"
+    },
+    "openService[83]@5849": {
+      "source_key": "openService[83]",
+      "source_line": 5849,
+      "source_expression": "\"<font color = \\'#ffcc00\\' size = \\'30\\' >$num$元宝</font>\"",
+      "target_expression": "\"<font color = '#ffcc00' size = '30' >$num$Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[98]@5864": {
+      "source_key": "openService[98]",
+      "source_line": 5864,
+      "source_expression": "\"<font color = \\'#fcff00\\' size = \\'17\\' >1RMB=100元宝</font>\"",
+      "target_expression": "\"<font color = '#fcff00' size = '17' >1RMB=100 Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "openService[113]@5879": {
+      "source_key": "openService[113]",
+      "source_line": 5879,
+      "source_expression": "\"战士：,法师：,道士：\"",
+      "target_expression": "\"Chiến Sĩ：,Pháp Sư：,Đạo Sĩ：\"",
+      "review": "segmented-machine"
+    },
+    "openService[124]@5890": {
+      "source_key": "openService[124]",
+      "source_line": 5890,
+      "source_expression": "\"<font color=\\'#d9680d\\' size=\\'24\\'>充值送</font><font \\tcolor=\\'#ffff00\\' size=\\'24\\'>积分</font><font color=\\'#d9680d\\' size=\\'24\\'>，</font><font color=\\'#ffff00\\' size=\\'24\\'>积分</font><font color=\\'#d9680d\\' size=\\'24\\'>换豪礼</font>\"",
+      "target_expression": "\"<font color='#d9680d' size='24'>Nạp Thẻ giao</font><font \\tcolor='#ffff00' size='24'>tích phân</font><font color='#d9680d' size='24'>，</font><font color='#ffff00' size='24'>tích phân</font><font color='#d9680d' size='24'>Đổi quà sang trọng</font>\"",
+      "review": "segmented-machine"
+    },
+    "godHallows[6]@5925": {
+      "source_key": "godHallows[6]",
+      "source_line": 5925,
+      "source_expression": "\"合成\"",
+      "target_expression": "\"Hợp Thành\"",
+      "review": "segmented-machine"
+    },
+    "godHallows[22]@5941": {
+      "source_key": "godHallows[22]",
+      "source_line": 5941,
+      "source_expression": "\"<font color=\\'#ffff00\\'>强化 +$num$ </font>\"",
+      "target_expression": "\"<font color='#ffff00'>Cường Hóa +$num$ </font>\"",
+      "review": "segmented-machine"
+    },
+    "caiquan[12]@5960": {
+      "source_key": "caiquan[12]",
+      "source_line": 5960,
+      "source_expression": "\"1、猜拳师越高阶,奖励越丰富.成功护送美女可获得经验、金币奖励\\\\\\\\\" + \"2、<(c0xFFFFFF00)免费刷新>次数后,再使用<(c0xFFFFFF00)百花争艳图>, 最后使用<(c0xFFFFFF00)3欢乐豆/元宝>刷新(优先使用<(c0xFFFFFF00)百花争艳图>)\\\\\\\\\" + \"3、每天下午<(c0xFFFFFF00)16:30-17:00>是双倍护送时间,在该时段护送美女将获得双倍奖励\\\\\\\\\" + \"4、护送过程中<(c0xFFFF0000)速度将减慢>,完成后自动恢复\\\\\\\\\" + \"5、护送过程中<(c0xFFFFFF00)无法参与其他活动、副本;无法速传及传送功能;无法使用回城卷等等>\\\\\\\\\"",
+      "target_expression": "\"1. Bậc thầy quyền anh càng cao thì Phần Thưởng Càng giàu có. Bạn có thể có được bằng cách hộ tống thành công một phụ nữ xinh đẹp.Kinh Nghiệm、Kim Tệ Phần Thưởng\\\\\\\\\" + \"2、<(c0xFFFFFF00)Làm mới miễn phí>Sau vài lần, sử dụng<(c0xFFFFFF00)Trăm bông hoa nở rộ>, được sử dụng lần cuối<(c0xFFFFFF00)3 hạt đậu hạnh phúc/Nguyên Bảo>Làm mới (Ưu tiên sử dụng<(c0xFFFFFF00)Trăm bông hoa nở rộ>)\\\\\\\\\" + \"3. Mỗi buổi chiều<(c0xFFFFFF00)16:30-17:00>Đó là thời gian hộ tống đôi. Trong thời gian này, cô gái hộ tống sẽ nhận được gấp đôi Phần Thưởng\\\\\\\\\" + \"4. Trong quá trình hộ tống<(c0xFFFF0000)sẽ chậm lại>, tự động khôi phục sau khi hoàn thành\\\\\\\\\" + \"5. Trong quá trình hộ tống<(c0xFFFFFF00)Không thể tham gia các hoạt động khác Phó Bản;Không thể sử dụng chức năng dịch chuyển và dịch chuyển nhanh; Không thể sử dụng cuộn thu hồi thành phố, v.v.>\\\\\\\\\"",
+      "review": "segmented-machine"
+    },
+    "caiquan[14]@5962": {
+      "source_key": "caiquan[14]",
+      "source_line": 5962,
+      "source_expression": "\"<font color=\\'#99CCCC\\'>你的元宝不足,无法刷新对象</font><br><font color=\\'#00FF00\\'>充值后在商城中提取元宝</font>\"",
+      "target_expression": "\"<font color='#99CCCC'>của bạn Nguyên Bảo Không đủ, không thể làm mới đối tượng</font><br><font color='#00FF00'>Nạp Thẻ Sau đó Thương Thành chiết xuất từ ​​​​Nguyên Bảo</font>\"",
+      "review": "segmented-machine"
+    },
+    "marry[72]@6045": {
+      "source_key": "marry[72]",
+      "source_line": 6045,
+      "source_expression": "\"使用可获得<BR>杀怪经验5%<BR>的加成效果，<BR>持续1小时\"",
+      "target_expression": "\"có sẵn bằng cách sử dụng<BR>Giết quái vật Kinh Nghiệm 5%<BR>Hiệu ứng thưởng của<BR>Kéo dài 1 giờ\"",
+      "review": "segmented-machine"
+    },
+    "jewelGame[7]@6074": {
+      "source_key": "jewelGame[7]",
+      "source_line": 6074,
+      "source_expression": "\"规则:<br>1.若摇出3个图案都不相同，则只能获得1个宝石碎片；<br>2.若摇出2个相同图案则获得1个对应图案的1级宝石；<br>3.若摇出3个相同图案则获得1个对应图案的2级宝石；<br>4.当摇出2个或者3个相同图案时若其中一个图案带“幸运”则获得1个该图案的3级宝石；<br>5.每日累计摇动次数达到10的倍数时将获得额外1次免费机会；<br>6.有几率触发下次摇动必出2倍或3倍奖励机会，千万不要错过；\"",
+      "target_expression": "\"luật lệ:<br>1. Nếu ba mẫu lắc ra không giống nhau, bạn chỉ có thể lấy một mẫu.Bảo Thạch mảnh vỡ; mảnh vỡ<br>2. Nếu lắc 2 mẫu giống hệt nhau, bạn sẽ nhận được 1 cấp 1 của mẫu tương ứng.Bảo Thạch；<br>3. Nếu lắc ra 3 mẫu giống hệt nhau, bạn sẽ nhận được 1 cấp 2 của mẫu tương ứng.Bảo Thạch；<br>4. Khi lắc ra 2 hoặc 3 mẫu giống hệt nhau, nếu 1 trong các mẫu “may mắn” bạn sẽ nhận được 1 cấp 3 của mẫu đó.Bảo Thạch；<br>5. Khi số lần lắc tích lũy hàng ngày đạt bội số của 10, bạn sẽ có thêm cơ hội miễn phí;<br>6. Có khả năng kích hoạt lần lắc tiếp theo sẽ là 2 hoặc 3 lần.Phần Thưởng Đừng bỏ lỡ cơ hội;\"",
+      "review": "segmented-machine"
+    },
+    "jewelGame[12]@6079": {
+      "source_key": "jewelGame[12]",
+      "source_line": 6079,
+      "source_expression": "\"宝石背包\"",
+      "target_expression": "\"Bảo Thạch Hành Trang\"",
+      "review": "segmented-machine"
+    },
+    "jewelGame[26]@6093": {
+      "source_key": "jewelGame[26]",
+      "source_line": 6093,
+      "source_expression": "\"<textformat leading=\\'5\\'><font color=\\'#00FF00\\'>今天剩余免费次数:$val0$/$val1$  每次花费$val2$万绑定金币<br>\" + \"每天绑定金币最多可以摇:$val3$/$val4$次,金币摇次数无限制<br>\" + \"若摇出两个相同的图案可获得1个该图案对应的宝石</font></textformat>\"",
+      "target_expression": "\"<textformat leading='5'><font color='#00FF00'>Thời gian rảnh còn lại trong ngày hôm nay:$val0$/$val1$dành mỗi lần$val2$Mười nghìn Kim Tệ Khóa<br>\" + \"mỗi ngày Kim Tệ Khóa Bạn có thể lắc nhiều nhất:$val3$/$val4$Hạng hai,Kim Tệ Số lần lắc không giới hạn<br>\" + \"Nếu lắc 2 biểu tượng giống nhau thì bạn sẽ nhận được 1 biểu tượng tương ứng.Bảo Thạch</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "diamondGame[33]@6139": {
+      "source_key": "diamondGame[33]",
+      "source_line": 6139,
+      "source_expression": "\"<textformat leading=\\'5\\'><font color=\\'#00FF00\\'>今天剩余免费次数:$val0$/$val1$  每次花费$val2$万绑定金币<br>\" + \"每天绑定金币最多可以摇:$val3$/$val4$次,金币摇次数无限制<br>\" + \"若摇出两个相同的图案可获得1个该图案对应的神石</font></textformat>\"",
+      "target_expression": "\"<textformat leading='5'><font color='#00FF00'>Thời gian rảnh còn lại trong ngày hôm nay:$val0$/$val1$dành mỗi lần$val2$Mười nghìn Kim Tệ Khóa<br>\" + \"mỗi ngày Kim Tệ Khóa Bạn có thể lắc nhiều nhất:$val3$/$val4$Hạng hai,Kim Tệ Số lần lắc không giới hạn<br>\" + \"Nếu lắc ra 2 mẫu giống hệt nhau, bạn có thể nhận được 1 viên đá thiêng tương ứng với mẫu đó.</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "onlineTimeAward[1]@6155": {
+      "source_key": "onlineTimeAward[1]",
+      "source_line": 6155,
+      "source_expression": "\"<font size=\\'18\\'>需</font><font size=\\'18\\' color=\\'#00CC33\\'>$time0$</font><font size=\\'18\\'>可以领取</font><font size=\\'18\\' color=\\'#FFA500\\'>$time1$在线礼包</font>\"",
+      "target_expression": "\"<font size='18'>nhu cầu</font><font size='18' color='#00CC33'>$time0$</font><font size='18'>Có thể được thu thập</font><font size='18' color='#FFA500'>$time1$trực tuyến Gói Quà</font>\"",
+      "review": "segmented-machine"
+    },
+    "mysteryShop[7]@6205": {
+      "source_key": "mysteryShop[7]",
+      "source_line": 6205,
+      "source_expression": "\"1. 等级满足<font color=\\'#00ff00\\'>60级</font>才能使用神秘商店。<br>2. 神秘商店每隔<font color=\\'#00ff00\\'>三小时</font>自动刷新一次。<br>3. 每次刷新后只能购买一件物品。<br>4. 神秘商店购买的物品部分为绑定。<br>5. 点击立即刷新需要花费<font color=\\'#00ff00\\'>30元宝</font>。<br>6. 每人每天可在神秘商店购买<font color=\\'#00ff00\\'>30次物品</font>。\"",
+      "target_expression": "\"1. Đạt mức độ<font color='#00ff00'>Cấp 60</font>sử dụng bí ẩn Cửa Hàng。<br>2. Bí ẩn Cửa Hàng mọi<font color='#00ff00'>ba giờ</font>Tự động làm mới một lần.<br>3. Chỉ có thể mua một vật phẩm sau mỗi lần làm mới.<br>4. Bí ẩn Cửa Hàng Các mặt hàng đã mua bị ràng buộc một phần.<br>5. Bấm vào để làm mới ngay lập tức và sẽ mất phí<font color='#00ff00'>30 Nguyên Bảo</font>。<br>6. Mọi người đều có thể chơi Bí Ẩn mỗi ngày Cửa Hàng Mua<font color='#00ff00'>30 mặt hàng</font>。\"",
+      "review": "segmented-machine"
+    },
+    "christAndYuanDan[8]@6223": {
+      "source_key": "christAndYuanDan[8]",
+      "source_line": 6223,
+      "source_expression": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前已充值：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$元宝</b></font>\"",
+      "target_expression": "\"<font color='#ffffff' size='13'><b>Hiện nay Nạp Thẻ：</b></font><font color='#ffd800' size='13'><b>$num$Nguyên Bảo</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "MonsterTreasure[8]@6245": {
+      "source_key": "MonsterTreasure[8]",
+      "source_line": 6245,
+      "source_expression": "\"<FONT color=\\'#cfa775\\'>当前殿堂等级：$num$级<A href=\\'1\\'><FONT color=\\'#33ff33\\'><u>升级</u></FONT></A></FONT>\"",
+      "target_expression": "\"<FONT color='#cfa775'>Cấp độ hội trường hiện tại:$num$lớp học<A href='1'><FONT color='#33ff33'><u>nâng cấp</u></FONT></A></FONT>\"",
+      "review": "segmented-machine"
+    },
+    "openServiceRace[3]@6276": {
+      "source_key": "openServiceRace[3]",
+      "source_line": 6276,
+      "source_expression": "\"<font color=\\'#ffd800\\' size=\\'15\\'>排名</font>,<font color=\\'#04d818\\' size=\\'15\\'>评定条件</font>,<font color=\\'#ffd800\\' size=\\'15\\'>名额</font>,<font color=\\'#ffd800\\' size=\\'15\\'>奖励</font>\"",
+      "target_expression": "\"<font color='#ffd800' size='15'>Xếp hạng</font>,<font color='#04d818' size='15'>Điều kiện đánh giá</font>,<font color='#ffd800' size='15'>hạn ngạch</font>,<font color='#ffd800' size='15'>Phần Thưởng</font>\"",
+      "review": "segmented-machine"
+    },
+    "tuLongJiJin[4]@6290": {
+      "source_key": "tuLongJiJin[4]",
+      "source_line": 6290,
+      "source_expression": "\"<b><font size = \\'16\\' color=\\'#12f424\\'>购买</font><font size = \\'14\\' color=\\'#f0cd27\\'>$value1$</font><font size = \\'14\\' color=\\'#12f424\\'>基金，即可获得总价值</font><font size = \\'14\\' color=\\'#f0cd27\\'>$value2$</font><font size = \\'14\\' color=\\'#12f424\\'>的返利！</font></b>\"",
+      "target_expression": "\"<b><font size = '16' color='#12f424'>Mua</font><font size = '14' color='#f0cd27'>$value1$</font><font size = '14' color='#12f424'>Quỹ, bạn có thể nhận được tổng giá trị</font><font size = '14' color='#f0cd27'>$value2$</font><font size = '14' color='#12f424'>hạ giá!</font></b>\"",
+      "review": "segmented-machine"
+    },
+    "luckyTurntable[5]@6308": {
+      "source_key": "luckyTurntable[5]",
+      "source_line": 6308,
+      "source_expression": "\"<font color=\\'#00ff00\\'>【$value$元宝】</font>\"",
+      "target_expression": "\"<font color='#00ff00'>【$value$Nguyên Bảo】</font>\"",
+      "review": "segmented-machine"
+    },
+    "newYear[7]@6327": {
+      "source_key": "newYear[7]",
+      "source_line": 6327,
+      "source_expression": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前已充值：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$元宝</b></font>\"",
+      "target_expression": "\"<font color='#ffffff' size='13'><b>Hiện nay Nạp Thẻ：</b></font><font color='#ffd800' size='13'><b>$num$Nguyên Bảo</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "newYear[8]@6328": {
+      "source_key": "newYear[8]",
+      "source_line": 6328,
+      "source_expression": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>目前拥有：</b></font><font color=\\'#ffd800\\' size=\\'13\\'><b>$num$积分</b></font>\"",
+      "target_expression": "\"<font color='#ffffff' size='13'><b>Hiện đang sở hữu:</b></font><font color='#ffd800' size='13'><b>$num$tích phân</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "newYear[10]@6330": {
+      "source_key": "newYear[10]",
+      "source_line": 6330,
+      "source_expression": "\"<font color=\\'#ffffff\\' size=\\'13\\'><b>充值第一名</b></font>,<font color=\\'#ffffff\\' size=\\'13\\'><b>充值第二名</b></font>,<font color=\\'#ffffff\\' size=\\'13\\'><b>充值第三名</b></font>\"",
+      "target_expression": "\"<font color='#ffffff' size='13'><b>Nạp Thẻ vị trí đầu tiên</b></font>,<font color='#ffffff' size='13'><b>Nạp Thẻ vị trí thứ hai</b></font>,<font color='#ffffff' size='13'><b>Nạp Thẻ vị trí thứ ba</b></font>\"",
+      "review": "segmented-machine"
+    },
+    "newYear[21]@6341": {
+      "source_key": "newYear[21]",
+      "source_line": 6341,
+      "source_expression": "\"<font color=\\'#ffff00\\' size=\\'15\\'>活动结束，消费达到</font><font color=\\'#00ff00\\' size=\\'15\\'>$num$元宝</font><font color=\\'#ffff00\\' size=\\'15\\'>以上,且消费最高的可获得</font>\"",
+      "target_expression": "\"<font color='#ffff00' size='15'>Sự kiện kết thúc và mức tiêu thụ đạt</font><font color='#00ff00' size='15'>$num$Nguyên Bảo</font><font color='#ffff00' size='15'>Ở trên và người có mức tiêu thụ cao nhất có thể nhận được</font>\"",
+      "review": "segmented-machine"
+    },
+    "newYear[30]@6350": {
+      "source_key": "newYear[30]",
+      "source_line": 6350,
+      "source_expression": "\"<font color=\\'#ffffff\\'>累计消费</font><font color=\\'#00ff00\\'>$num$元宝</font><font color=\\'#ffffff\\'>可上排行榜查看排名</font>\"",
+      "target_expression": "\"<font color='#ffffff'>Tiêu thụ tích lũy</font><font color='#00ff00'>$num$Nguyên Bảo</font><font color='#ffffff'>Bạn có thể kiểm tra thứ hạng trên bảng xếp hạng</font>\"",
+      "review": "segmented-machine"
+    },
+    "baifu[3]@6394": {
+      "source_key": "baifu[3]",
+      "source_line": 6394,
+      "source_expression": "\"<font color=\\'#009966\\'>活动期间每笔充值单独结算达到<font color=\\'#FFFF00\\'>$num$元宝</font>，即可领取1次百服稀世奇珍奖励<font color=\\'#FFFF00\\'>(最多领取6次)</font></font>\"",
+      "target_expression": "\"<font color='#009966'>Mỗi giao dịch trong thời gian diễn ra sự kiện Nạp Thẻ Khu định cư riêng biệt đạt tới<font color='#FFFF00'>$num$Nguyên Bảo</font>, bạn có thể nhận được 1 kho báu quý hiếm gồm 100 máy chủ Phần Thưởng<font color='#FFFF00'>(Có thể tích lũy tối đa 6 lần)</font></font>\"",
+      "review": "segmented-machine"
+    },
+    "baifu[4]@6395": {
+      "source_key": "baifu[4]",
+      "source_line": 6395,
+      "source_expression": "\"<font color=\\'#FFFF00\\'>领取满<font color=\\'#FF0000\\'>6次</font>的玩家还可以获得超级大奖 : </font>\"",
+      "target_expression": "\"<font color='#FFFF00'>Đã nhận đầy đủ<font color='#FF0000'>6 lần</font>của người chơi Bạn cũng có thể giành được giải thưởng siêu lớn:</font>\"",
+      "review": "segmented-machine"
+    },
+    "baifu[6]@6397": {
+      "source_key": "baifu[6]",
+      "source_line": 6397,
+      "source_expression": "\"<font color=\\'#009966\\' >如：充值<font color=\\'#FFFF00\\'>$num$元宝</font>可以领取<font color=\\'#FFFF00\\'>2次</font>奖励</font>\"",
+      "target_expression": "\"<font color='#009966' >giống:Nạp Thẻ<font color='#FFFF00'>$num$Nguyên Bảo</font>Có thể được thu thập<font color='#FFFF00'>2 lần</font>Phần Thưởng</font>\"",
+      "review": "segmented-machine"
+    },
+    "baifu[12]@6402": {
+      "source_key": "baifu[12]",
+      "source_line": 6402,
+      "source_expression": "\"攻击 + \"",
+      "target_expression": "\"Tấn Công + \"",
+      "review": "segmented-machine"
+    },
+    "baifu[9]@6407": {
+      "source_key": "baifu[9]",
+      "source_line": 6407,
+      "source_expression": "\"<b><font color=\\'#ffffff\\' size=\\'16\\'>挑战烈焰神王介绍：<br>   1、百服活动期间，天界<font color=\\'#FF9900\\' size=\\'16\\'>至强BOSS烈焰神王</font>将出现在<br>   <A href=\\'M屠龙城:197:167\\'><font color=\\'#ff0000\\' size=\\'16\\'><b>屠龙城(坐标：197,167)</b></font></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:197:167\\'></IOBJ>范围<br>   2、击败烈焰神王可获得高额奖励<br>   3、烈焰神王死亡后，第二天<font color=\\'#00ff00\\' size=\\'16\\'>13点30分</font>复活</font><font color=\\'#FF9900\\' size=\\'16\\'><br><br><br><br>有几率掉落：</font></b>\"",
+      "target_expression": "\"<b><font color='#ffffff' size='16'>Thử thách Hỏa Thần Vương Giới thiệu:<br>1. Trong sự kiện 100 máy chủ, Thiên Đường<font color='#FF9900' size='16'>BOSS Hỏa Thần Vương mạnh nhất</font>sẽ xuất hiện trong<br>   <A href='M屠龙城:197:167'><font color='#ff0000' size='16'><b>Đồ Long Thành phố (tọa độ: 197.167)</b></font></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:197:167'></IOBJ>phạm vi<br>2. Đánh bại Hỏa Thần Vương để nhận số tiền lớn Phần Thưởng<br>3. Sau cái chết của Hỏa Thần Vương, ngày hôm sau<font color='#00ff00' size='16'>13:30</font>Hồi Sinh</font><font color='#FF9900' size='16'><br><br><br><br>Cơ hội rơi:</font></b>\"",
+      "review": "segmented-machine"
+    },
+    "baifu[208]@6418": {
+      "source_key": "baifu[208]",
+      "source_line": 6418,
+      "source_expression": "\"<font color = \\'#ffff00\\'><b>转盘玩法：</b></font><br>玩家可抽奖<font color = \\'#ff0000\\'>1次</font>或者<font color = \\'#ff0000\\'>10次</font>，每次消耗<font color = \\'#ff0000\\'>888元宝</font>，<br>抽奖获得的奖品默认的放在玩家的<font color = \\'#ff0000\\'>屠龙仓库</font>中<br>奖励物品通过精心挑选，幸运的玩家还可以抽<br>取到<font color = \\'#ff0000\\'>三大神戒</font>，<font color = \\'#ff0000\\'>坐骑升星丹</font>，<font color = \\'#ff0000\\'>天神精华</font>等超值<br>奖励。\"",
+      "target_expression": "\"<font color = '#ffff00'><b>Trò chơi bàn xoay:</b></font><br>người chơi Có sẵn để xổ số<font color = '#ff0000'>1 lần</font>hoặc<font color = '#ff0000'>10 lần</font>, mỗi lần tiêu thụ<font color = '#ff0000'>888 Nguyên Bảo</font>，<br>Các giải thưởng thu được trong xổ số được mặc định đặt trong người chơi của<font color = '#ff0000'>Đồ Long nhà kho</font>ở giữa<br>Phần Thưởng Vật phẩm được chọn lọc kỹ lưỡng và may mắn người chơi Bạn vẫn có thể hút thuốc<br>lấy<font color = '#ff0000'>Ba chiếc nhẫn thần thánh vĩ đại</font>，<font color = '#ff0000'>Tọa Kỵ Shengxingdan</font>，<font color = '#ff0000'>Bản chất của Thiên Chúa</font>Siêu giá trị<br>Phần Thưởng。\"",
+      "review": "segmented-machine"
+    },
+    "HSConsume[1]@6426": {
+      "source_key": "HSConsume[1]",
+      "source_line": 6426,
+      "source_expression": "\"<font size=\\'14\\' color=\\'#FFFF00\\'>活动结束,消费达到</font><font size=\\'14\\' color=\\'#00FF00\\'>$yb$元宝</font><font size=\\'14\\' color=\\'#FFFF00\\'>以上,且消费最高可随机获得</font><font size=\\'20\\' color=\\'#FFFF00\\'>三阶特戒之一</font>\"",
+      "target_expression": "\"<font size='14' color='#FFFF00'>Sự kiện kết thúc và mức tiêu thụ đạt</font><font size='14' color='#00FF00'>$yb$Nguyên Bảo</font><font size='14' color='#FFFF00'>Ở trên và mức tiêu thụ tối đa có thể được lấy ngẫu nhiên</font><font size='20' color='#FFFF00'>Một trong những chiếc nhẫn đặc biệt cấp ba</font>\"",
+      "review": "segmented-machine"
+    },
+    "HSConsume[2]@6427": {
+      "source_key": "HSConsume[2]",
+      "source_line": 6427,
+      "source_expression": "\"<font size=\\'16\\' color=\\'#FFFF00\\'>第</font><font size=\\'16\\' color=\\'#00FF00\\'>$day$</font><font size=\\'16\\' color=\\'#FFFF00\\'>天百服活动目标</font>\"",
+      "target_expression": "\"<font size='16' color='#FFFF00'>KHÔNG.</font><font size='16' color='#00FF00'>$day$</font><font size='16' color='#FFFF00'>Mục tiêu hoạt động của Thiên Bạch Phủ</font>\"",
+      "review": "segmented-machine"
+    },
+    "yuanXiao[9]@6457": {
+      "source_key": "yuanXiao[9]",
+      "source_line": 6457,
+      "source_expression": "\"<b><font color=\\'#ffffff\\' size=\\'16\\'>挑战暗黑魔龙介绍：\" + \"<br>   1、元宵期间，<font color=\\'#FF9900\\' size=\\'16\\'>至强BOSS暗黑魔龙</font>将出现在<br>   \" + \"<A href=\\'M屠龙城:63:68\\'><font color=\\'#ff0000\\' size=\\'16\\'><b>屠龙城(坐标：63,68)</b></font>\" + \"</A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f屠龙城:63:68\\'></IOBJ>范围<br>   \" + \"2、击败暗黑魔龙可获得高额奖励<br>   \" + \"3、暗黑魔龙每<font color=\\'#00ff00\\' size=\\'16\\'>4小时</font>刷新一次</font><font color=\\'#FF9900\\' size=\\'16\\'><br><br><br><br>怪物掉落：</font></b>\"",
+      "target_expression": "\"<b><font color='#ffffff' size='16'>Thử thách Hắc Long Giới thiệu:\" + \"<br>1. Trong Lễ hội đèn lồng,<font color='#FF9900' size='16'>Xeon BOSS Rồng quỷ bóng tối</font>sẽ xuất hiện trong<br>   \" + \"<A href='M屠龙城:63:68'><font color='#ff0000' size='16'><b>Đồ Long Thành phố (tọa độ: 63,68)</b></font>\" + \"</A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f屠龙城:63:68'></IOBJ>phạm vi<br>   \" + \"2. Đánh bại Hắc Long để nhận số tiền cao Phần Thưởng<br>   \" + \"3. Rồng quỷ bóng tối<font color='#00ff00' size='16'>4 giờ</font>Làm mới một lần</font><font color='#FF9900' size='16'><br><br><br><br>Quái Vật Làm rơi:</font></b>\"",
+      "review": "segmented-machine"
+    },
+    "yuanXiao[10]@6458": {
+      "source_key": "yuanXiao[10]",
+      "source_line": 6458,
+      "source_expression": "\"\" + \"<font color=\\'#FF9900\\' size=\\'16\\'>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>1、</font>活动期间,玩家可在<font color=\\'#FFff00\\' size=\\'16\\'>圣城</font>采集<A href=\\'M圣城:320:292\\'><b><font color=\\'#ff0000\\' size=\\'16\\'>【爱情之火】</font></b></A><IOBJ class=\\'view.game.components.button.FastTransferButton\\' linkURL=\\'f圣城:320:292\\'></IOBJ>获得<font color=\\'#FF00ff\\' size=\\'16\\'>【爱情卡】</font>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>2、</font>玩家采集一个<font color=\\'#FF0000\\' size=\\'16\\'>【爱情之火】</font>可得一个<font color=\\'#FF00ff\\' size=\\'16\\'>【爱情卡】</font>\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>3、</font>采集的<font color=\\'#FF00ff\\' size=\\'16\\'>【爱情卡】</font>可兑换奖品\" + \"<br><font color=\\'#00ff00\\' size=\\'16\\'>4、</font>每个玩家有<font color=\\'#FFff00\\' size=\\'16\\'>5次</font>的兑换次数\"",
+      "target_expression": "\"\" + \"<font color='#FF9900' size='16'>\" + \"<br><font color='#00ff00' size='16'>1、</font>Trong sự kiện này,người chơi Có sẵn tại<font color='#FFff00' size='16'>thành phố linh thiêng</font>bộ sưu tập<A href='M圣城:320:292'><b><font color='#ff0000' size='16'>[Ngọn lửa tình yêu]</font></b></A><IOBJ class='view.game.components.button.FastTransferButton' linkURL='f圣城:320:292'></IOBJ>lấy<font color='#FF00ff' size='16'>[Thẻ tình yêu]</font>\" + \"<br><font color='#00ff00' size='16'>2、</font>người chơi thu thập một<font color='#FF0000' size='16'>[Ngọn lửa tình yêu]</font>Có thể lấy một cái<font color='#FF00ff' size='16'>[Thẻ tình yêu]</font>\" + \"<br><font color='#00ff00' size='16'>3、</font>đã thu thập<font color='#FF00ff' size='16'>[Thẻ tình yêu]</font>Giải thưởng có thể đổi\" + \"<br><font color='#00ff00' size='16'>4、</font>mỗi người chơi có<font color='#FFff00' size='16'>5 lần</font>số lần quy đổi\"",
+      "review": "segmented-machine"
+    },
+    "yuanXiao[101]@6460": {
+      "source_key": "yuanXiao[101]",
+      "source_line": 6460,
+      "source_expression": "\"<font color=\\'#00FF00\\'>活动开始时间：2014年2月13日 - 2014年2月17日</font><br><font color=\\'#00FF00\\'>活动剩余时间：</font><font color=\\'#FFFF00\\'>$value$</font><font color=\\'#00FF00\\'>天</font>\"",
+      "target_expression": "\"<font color='#00FF00'>Thời gian bắt đầu sự kiện: 13/02/2014 - 17/02/2014</font><br><font color='#00FF00'>Thời gian còn lại của sự kiện:</font><font color='#FFFF00'>$value$</font><font color='#00FF00'>bầu trời</font>\"",
+      "review": "segmented-machine"
+    },
+    "yuanXiao[206]@6478": {
+      "source_key": "yuanXiao[206]",
+      "source_line": 6478,
+      "source_expression": "\"<font size=\\'14\\' color=\\'#ffffff\\'>是否消耗</font><font size=\\'14\\' color=\\'#00ff00\\'>$num$元宝</font><font size=\\'14\\' color=\\'#ffffff\\'>购买</font><font size=\\'14\\' color=\\'#ffd800\\'>$num$</font>\"",
+      "target_expression": "\"<font size='14' color='#ffffff'>Có nên tiêu thụ không</font><font size='14' color='#00ff00'>$num$Nguyên Bảo</font><font size='14' color='#ffffff'>Mua</font><font size='14' color='#ffd800'>$num$</font>\"",
+      "review": "segmented-machine"
+    },
+    "tlqd[52]@6547": {
+      "source_key": "tlqd[52]",
+      "source_line": 6547,
+      "source_expression": "\"<textformat leading=\\'6\\'><font color=\\'#ffffff\\' size=\\'13\\'>活动规则：<br>活动时间内，完成下列任意一项日常任务，可获得<font color=\\'#ffcc00\\'>屠龙庆典纪念章$num$枚</font>；<br>每日<font color=\\'#ff0000\\'>0点清空完成次数</font>，请在第二天0点前完成<br>屠龙庆典纪念章：可在屠龙庆兑换界面兑换超级奖励；</font></textformat>\"",
+      "target_expression": "\"<textformat leading='6'><font color='#ffffff' size='13'>Quy tắc hoạt động:<br>Trong thời gian hoạt động, hãy hoàn thành bất kỳ công việc hàng ngày nào sau đây Nhiệm Vụ, có sẵn<font color='#ffcc00'>Đồ Long Huy chương ăn mừng$num$miếng</font>；<br>hằng ngày<font color='#ff0000'>Xóa số lần hoàn thành ở 0 điểm</font>, vui lòng hoàn thành trước 0h ngày hôm sau<br>Đồ Long Huy chương kỷ niệm: có sẵn tại Đồ Long Giao diện đổi thưởng Qing để đổi siêu Phần Thưởng；</font></textformat>\"",
+      "review": "segmented-machine"
+    },
+    "tlqd[59]@6554": {
+      "source_key": "tlqd[59]",
+      "source_line": 6554,
+      "source_expression": "\"<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>珍品兑换</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>超级时装</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>坐骑兑换</font>,<font size=\\'16\\' face=\\'黑体\\' color=\\'#C7B26B\\'>庆典BOSS</font>\"",
+      "target_expression": "\"<font size='16' face='黑体' color='#C7B26B'>Trao đổi kho báu</font>,<font size='16' face='黑体' color='#C7B26B'>siêu thời trang</font>,<font size='16' face='黑体' color='#C7B26B'>Tọa Kỵ trao đổi</font>,<font size='16' face='黑体' color='#C7B26B'>Ăn mừng BOSS</font>\"",
+      "review": "segmented-machine"
+    },
+    "tlqd[62]@6557": {
+      "source_key": "tlqd[62]",
+      "source_line": 6557,
+      "source_expression": "\"<font color = \\'#f3f328\\'>坐骑兑换说明：</font><br><br>\" + \"每人只能兑换一次坐<br>\" + \"骑，双击使用坐骑变身<br>\" + \"卡即可获得坐骑形象！<br>\" + \"<font color=\\'#ff0000\\'>在坐骑面板的时效坐骑<br>\" + \"中可以更换坐骑形象！</font>\"",
+      "target_expression": "\"<font color = '#f3f328'>Tọa Kỵ Hướng dẫn đổi quà:</font><br><br>\" + \"Mỗi người chỉ có thể đổi một chuyến đi<br>\" + \"Đi xe, nhấp đúp chuột để sử dụng Tọa Kỵ chuyển đổi<br>\" + \"Thẻ có sẵn Tọa Kỵ Hình ảnh!<br>\" + \"<font color='#ff0000'>hiện hữu Tọa Kỵ Lão hóa bảng điều khiển Tọa Kỵ<br>\" + \"Có thể thay thế ở Tọa Kỵ Hình ảnh!</font>\"",
+      "review": "segmented-machine"
+    },
+    "tlqd[64]@6559": {
+      "source_key": "tlqd[64]",
+      "source_line": 6559,
+      "source_expression": "\"<font color = \\'#f3f328\\'>时装兑换说明：</font><br><br>\" + \"每人只能兑换一件<br>\" + \"时装，双击使用获得<br>\" + \"华丽时装外表的同时，<br>\" + \"还会获得一定的攻击力<br>\" + \"加成的时装属性\"",
+      "target_expression": "\"<font color = '#f3f328'>Hướng dẫn đổi quà thời trang:</font><br><br>\" + \"Mỗi người chỉ được đổi một món<br>\" + \"Thời trang, nhấp đúp để sử dụng nó để nhận<br>\" + \"Mặc dù có vẻ ngoài thời trang lộng lẫy,<br>\" + \"Bạn cũng sẽ nhận được một số Tấn Công lực lượng<br>\" + \"Thuộc tính thời trang thưởng\"",
+      "review": "segmented-machine"
+    },
+    "tlqd[65]@6560": {
+      "source_key": "tlqd[65]",
+      "source_line": 6560,
+      "source_expression": "\"<font color = \\'#f3f328\\'>庆典BOSS玩法说明：</font><br><br>\" + \"当本服所有玩家当天，珍<br>\" + \"品玩法珍宝积分总量达到<br>\" + \" 2000积分 时，即可触发<br>\" + \"庆典BOSS，它将会在当天<br>\" + \"晚上21：30分在神秘避难<br>\" + \"所出现，BOSS存活时间为<br>\" + \"两个半小时候，直到活动<br>\" + \"结束为止，珍宝积分在触<br>\" + \"发BOSS之前可以累积，召<br>\" + \"唤出深渊巨魔，积分清零\"",
+      "target_expression": "\"<font color = '#f3f328'>Hướng dẫn chơi BOSS ăn mừng:</font><br><br>\" + \"Khi máy chủ này sở hữu người chơi Ngày hôm đó, Jane<br>\" + \"Tổng số điểm kho báu trò chơi đã đạt tới<br>\" + \"Nó có thể được kích hoạt khi bạn có 2000 điểm.<br>\" + \"Chúc mừng BOSS, sẽ vào ngày đó<br>\" + \"21h30 tại nơi ẩn náu bí ẩn<br>\" + \"Có vẻ như thời gian sống sót của BOSS là<br>\" + \"Còn hai tiếng rưỡi nữa là đến sự kiện<br>\" + \"Cho đến cuối cùng, các điểm kho báu vẫn chạm vào<br>\" + \"Bạn có thể tích lũy trước khi gửi BOSS, triệu hồi<br>\" + \"Triệu hồi Abyss Troll và xóa điểm\"",
+      "review": "segmented-machine"
+    },
+    "xunlei[14]@6592": {
+      "source_key": "xunlei[14]",
+      "source_line": 6592,
+      "source_expression": "\"<textformat leading=\\'6\\'><font size = \\'14\\' color = \\'#ffff00\\'><b>充值800元以上的玩家，可加入迅雷贵宾俱乐部，</b></font><br>\" + \"<font size = \\'14\\' color = \\'#ffff00\\'><b>领取贵宾大礼包，同时享有以下福利：</b></font></textformat><br>\" + \"<textformat leading=\\'3\\'>1 游戏内最新消息优先通知；<br>\" + \"2 提供会员关怀服务，建议与问题得以优先处理；<br>\" + \"3 迅雷贵族专属活动；<br>\" + \"4 金牌客服一对一服务，联系QQ：$qq$；<br>\" + \"5 享有新游戏优先体验特权等服务。</textformat>\"",
+      "target_expression": "\"<textformat leading='6'><font size = '14' color = '#ffff00'><b>Nạp Thẻ Hơn 800 nhân dân tệ người chơi, bạn có thể tham gia Câu lạc bộ Thunder VIP,</b></font><br>\" + \"<font size = '14' color = '#ffff00'><b>Nhận vé VIP Gói Quà, và được hưởng những lợi ích sau:</b></font></textformat><br>\" + \"<textformat leading='3'>1 Ưu tiên thông báo tin tức mới nhất trong game;<br>\" + \"2. Cung cấp các dịch vụ chăm sóc thành viên và ưu tiên các đề xuất và vấn đề;<br>\" + \"3 hoạt động độc quyền dành cho Thunder Nobles;<br>\" + \"4. Dịch vụ khách hàng huy chương vàng dịch vụ một-một, liên hệ QQ:$qq$；<br>\" + \"5 Tận hưởng các dịch vụ như quyền truy cập ưu tiên vào các trò chơi mới.</textformat>\"",
+      "review": "segmented-machine"
+    }
+  }
+}

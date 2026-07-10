@@ -1,9 +1,1089 @@
 {
   "files": [
     {
+      "path": "scripts/CommonUI/Button/Spec/Msg/MsgButtonMgr.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Label/CountdownLabel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Label/TimerLabel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/MsgBox/MsgBtnStyleBoxSuper.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/NavBar.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/TabNavBar4.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/TabNavBar6.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/TabNavBar8.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/TabNavBar9.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/ToggleButtonBar.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/ToggleButtonBar6.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Navigate/ToggleButtonBar9.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/CommonUI/Panel/CustomPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/Slider/CustomSlider.as",
+      "replacement_count": 11
+    },
+    {
+      "path": "scripts/CommonUI/TextInput/CustomTextInput0.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/CommonUI/Window/MsgInput/MsgInputBoxMgr.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/buttons/CustomTextButton.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/check/CustomCheckBoxGroup.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/check/CustomRadioGroup.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/core/NineGridBitmapData.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/grid/CustomGrid.as",
+      "replacement_count": 15
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/label/CustomLabel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/lang/UILang.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/layouter/BaseUILayouter.as",
+      "replacement_count": 8
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/list/CustomList.as",
+      "replacement_count": 7
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/manager/UIManager.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/menu/CustomMenu.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/menu/CustomMenuItem.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/msgBox/CustomMessageBox.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/msgBox/CustomMessageBox1.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/page/CustomNavigateBar.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/page/CustomPageControl.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/sprite/ScaleSprite.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/tree/CustomTree.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/tree/CustomTreeLineRender.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/tree/data/CustomTreeLine.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/GameFrame.as",
+      "replacement_count": 19
+    },
+    {
+      "path": "scripts/Logic/Actors/ActorClass/CustomActor.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/Logic/Actors/ActorClass/LocalPlayer.as",
+      "replacement_count": 8
+    },
+    {
+      "path": "scripts/Logic/Actors/ActorClass/StdMonster.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/Logic/Effects/DamageTextFactory.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/Logic/Effects/Magic/CustomMagicChopEffect.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/Logic/GameLogic.as",
+      "replacement_count": 27
+    },
+    {
+      "path": "scripts/Logic/LogicManager.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/Logic/Map/GameMap.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/Logic/component/LMPWnd.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/RPGEngine/Map/CustomGameMap.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/RPGEngine/Map/CustomMap.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/RPGEngine/Map/CustomRenderMap.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/RPGEngine/Map/Display/MapMoveObject.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/RPGEngine/Map/Path/ASPath.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/RPGEngine/Map/ResMgr/MapResManager.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/assets/WeatherAssetManager.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/baseDisplayObject/BaseRotationBitmap.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/ActivePanelMgr.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/ChatMessageMgr.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/Characters/user/CharStatus.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/common/Data/Evironment/EnvirProvider.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/GameData.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/Data/Items/provider/StdItemProvider.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/Items/provider/SuitConfigProvider.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/Welfare/WelfareButtonFun.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/achieve/provider/AchieveProvider.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/common/Data/achieve/user/UserAchieve.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/advanceNotice/std/StdAdvanceNotice.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/common/Data/chat/user/ChatMessage.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/Data/guide/provider/GuideProvider.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/common/Data/guide/std/StdGuideNotice.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/common/Data/guild/user/GuildMemberData.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/holiDay/provide/HoliDayProvider.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/common/Data/job/provider/JobProvider.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/common/Data/peerage/provider/PeerageProvider.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/common/Data/quest/provider/QuestGoldProvider.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/quest/provider/QuestRefreshStarProvider.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/quest/std/StdQuest.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/common/Data/quest/user/UserQuest.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/common/Data/raids/provider/RaidsProvide.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/rune/user/RuneConfig.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/common/Data/skill/std/StdSkill.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/common/Data/titles/provider/StdTitlesProvider.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/Data/vip/VIPProvider.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/common/GameCursor.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/GameResource.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/GameSounds.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/GlobalData.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/MarketDataMgr.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/QuestDataMgr.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/RankDataMgr.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/RockDataMgr.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/common/TeamDataMgr.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/common/globalFunc/ChatFunc.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/globalFunc/GlobalFunc.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/common/globalFunc/ItemFunc.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/common/globalFunc/MFCFunc.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/communicate/GameSocket.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/communicate/MainGameSocket.as",
+      "replacement_count": 25
+    },
+    {
+      "path": "scripts/communicate/packet/ClientPacket.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/control/controler/AchieveCC.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/control/controler/BagCC.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/control/controler/EmailCC.as",
+      "replacement_count": 13
+    },
+    {
+      "path": "scripts/control/controler/GuildCC.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/control/controler/LoginCC.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/control/controler/MarketCC.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/control/controler/MiscCC.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/control/controler/MountCC.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/control/controler/OtherCC.as",
+      "replacement_count": 17
+    },
+    {
+      "path": "scripts/control/controler/QuestCC.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/control/controler/RaidsCC.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/control/controler/RoleCC.as",
+      "replacement_count": 23
+    },
+    {
+      "path": "scripts/control/controler/RuneCC.as",
+      "replacement_count": 24
+    },
+    {
+      "path": "scripts/control/controler/StarSoulCC.as",
+      "replacement_count": 10
+    },
+    {
+      "path": "scripts/control/navigator/GameNavigator.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/events/DataEventDispatcher.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/model/HyperlinkHandler.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/model/hlp/HeroHlp.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/model/hlp/ItemHlp.as",
+      "replacement_count": 13
+    },
+    {
+      "path": "scripts/model/hlp/QuestHlp.as",
+      "replacement_count": 36
+    },
+    {
       "path": "scripts/model/hlp/SkillHlp.as",
       "replacement_count": 1
+    },
+    {
+      "path": "scripts/model/item/ItemCooling.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/model/loading/ResourceLoader.as",
+      "replacement_count": 8
+    },
+    {
+      "path": "scripts/ui/DebuggerWin.as",
+      "replacement_count": 11
+    },
+    {
+      "path": "scripts/ui/face/ChatFacePanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/utils/NumericUtils.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/utils/TipMsgEntity.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/CustomerService/CustomerServiceWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/CustomerService/page/CustomerServiceGamePage.as",
+      "replacement_count": 8
+    },
+    {
+      "path": "scripts/view/game/Dream/DreamWin.as",
+      "replacement_count": 13
+    },
+    {
+      "path": "scripts/view/game/GameSceneLogic.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/RPPaiHang/RPJXWin.as",
+      "replacement_count": 10
+    },
+    {
+      "path": "scripts/view/game/RPPaiHang/RPPaiHangWin.as",
+      "replacement_count": 16
+    },
+    {
+      "path": "scripts/view/game/Raids/cell/RaidsSectionCell.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/active/ActivePanel2.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/active/components/ActiveBossPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/active/panel/WorldLeafPanel.as",
+      "replacement_count": 9
+    },
+    {
+      "path": "scripts/view/game/active/win/WorldCivilizationWin.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/anger/AngerConfigWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/answer/panel/AnswerEndPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/attackActor/AttackActorWin.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/beastsoul/cell/EnergyBall.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/boss/page/ActiveBossPage.as",
+      "replacement_count": 8
+    },
+    {
+      "path": "scripts/view/game/boss/page/ActiveWorldBossPage.as",
+      "replacement_count": 20
+    },
+    {
+      "path": "scripts/view/game/boss/panel/OneRoleBossRect.as",
+      "replacement_count": 9
+    },
+    {
+      "path": "scripts/view/game/caiquan/cell/CaiquanMasterCell.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/view/game/chat/sec/ChatSystemTipPanel.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/chat/win/ChatGMInputWin.as",
+      "replacement_count": 23
+    },
+    {
+      "path": "scripts/view/game/city/CityWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/city/data/CityData.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/view/game/city/page/CityOfficialPage.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/city/win/CityAppointWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/city/win/CityBannerWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/city/win/CytiOfficalResultWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/closedBetaTest/CloseBetaTestWin.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/closedBetaTest/Panel/BlessingDownPanel1.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/view/game/closedBetaTest/Panel/BlessingDownPanel2.as",
+      "replacement_count": 12
+    },
+    {
+      "path": "scripts/view/game/closedBetaTest/Panel/BlessingTopPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/closedBetaTest/data/OneData.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/view/game/components/award/AwardDBCell.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/components/boxes/HeroEquipTip.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/components/boxes/HeroEquipTip2.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/components/boxes/NewItemsWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/components/boxes/RockUpBox.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/components/boxes/UseItemBox.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/components/items/ItemProfileWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/continuousHit/ContinuousHitNumber.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/endlessEnjoyment/EndlessEnjoymentWin.as",
+      "replacement_count": 8
+    },
+    {
+      "path": "scripts/view/game/equipBoost/pages/EquipBoostAuthenticatePage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/equipBoost/pages/EquipBoostUpgradePage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/evaluate/EvaluateWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/evaluate/Panel/EvaluateListPanel.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/evaluate/data/EvaluateInfo.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/evaluate/page/EvaluatePage.as",
+      "replacement_count": 9
+    },
+    {
+      "path": "scripts/view/game/evaluate/sendPhp/SendPhp.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/fatigue/MobileCheckWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/fightingReview/page/FCPlayerListPage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/godhallows/GodHallowsWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/guild/cell/SingGuildItemCell.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/guild/win/fun/GuildJuBaopenWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/happyGame/HappyGameWin.as",
+      "replacement_count": 18
+    },
+    {
+      "path": "scripts/view/game/happyGame/cell/HappyGameCell.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/happyGame/cell/ItemPickupCell.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/View2/HeroWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/hero/View2/cell/HeroCell2.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/hero/cell/HeroGridCell.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/hero/componentes/HeroEquipRefineBar.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/page/EquipStrongPage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/page/EquipUpLevelPage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/page/HeroRolePage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/panel/HeroFacePanel.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/hero/panel/HeroSkillLearnPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/panel/HeroSkillUpPanel.as",
+      "replacement_count": 8
+    },
+    {
+      "path": "scripts/view/game/hero/win/HeroBaseEquipWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/win/HeroEquipRefineWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/win/HeroImageBook.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/hero/win/heroSkillxxWin.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/hundredserver/page/HundredServerBossPage.as",
+      "replacement_count": 7
+    },
+    {
+      "path": "scripts/view/game/hundredserver/page/HundredServerRarePage.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/view/game/jewelGame/cell/JewelExchangeCell.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/lansquenet/LansquenetWin.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/view/game/lansquenet/panel/LansquenetOneData.as",
+      "replacement_count": 7
+    },
+    {
+      "path": "scripts/view/game/lwantmoney/LWantMoneyWin.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/view/game/lwantmoney/page/ExpPage.as",
+      "replacement_count": 16
+    },
+    {
+      "path": "scripts/view/game/map/MapDescribeWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/map/WorldMapWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/map/nodes/MapMainActorNode.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/map/nodes/MapTelePortNode.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/map/panelII/MapWorldPanelII.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/marry/MarryWeddingWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/marry/MarryingWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/navRightAreaWin/RightAreaClientLogonWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/navigation/components/button/NavGodHallowsBtn.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/navigation/components/button/NavItemRecyclingBtn.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/navigation/components/button/NavQuestBtn.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/navigation/components/button/NavRaidsBtn.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/navigation/components/button/TestNavGoldBtn.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/navigation/components/button/TestNavHuntingBtn.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/navigation/components/buttonArea/NavBottomArea.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/navigation/components/buttonArea/NavTopRightArea.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/navigation/components/facePanel/LogoPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/npc/NPCTalkWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/onlineAward/OnlineAwardCell.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/onlineAward/OnlineAwardWin.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/view/game/other/FBGridPanel.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/property/win/PropertyRoleWin.as",
+      "replacement_count": 4
+    },
+    {
+      "path": "scripts/view/game/proposal/ProposalWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/quest/ActiveQuestPanel.as",
+      "replacement_count": 28
+    },
+    {
+      "path": "scripts/view/game/quest/panelComponents/QuestPanelItemRender.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rich/RichWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rich/SpecifyDiceWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/rich/components/RichEventPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rich/components/RichTouziPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rock/cell/RockGrid.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rock/page/RockBasePage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rock/page/RockRolePage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rock/panel/RockBagPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rock/win/RockShopWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rose/RoseSendPanel2.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rune/panel/RuneBasePanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/rune/panel/RuneEquipBoosPanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/secretary/SecretaryWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/secretary/panel/SecretaryItemPanel.as",
+      "replacement_count": 10
+    },
+    {
+      "path": "scripts/view/game/shop/components/grid/cell/ShopGoodsGridCell.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/game/smallWin/SmallWin.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/starSoul/star/StarSoulPoint.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/view/game/themeActivity/BenefitPeopleActivityWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/tlqd/page/ZhenPinPage.as",
+      "replacement_count": 21
+    },
+    {
+      "path": "scripts/view/game/vip/TopVipPane.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/vip/VIPWin.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/vip/win/VipCopyByZhiZhunWin.as",
+      "replacement_count": 9
+    },
+    {
+      "path": "scripts/view/game/wing/WingWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/wing/win/UpGradeWingWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/yxhd/page/YXBossPage.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/view/game/yxhd/page/YXFlowerPage.as",
+      "replacement_count": 5
+    },
+    {
+      "path": "scripts/view/game/yxhd/page/YXLoverCardPage.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/view/guide/GameGuideView.as",
+      "replacement_count": 7
+    },
+    {
+      "path": "scripts/view/guide/component/DoublePasswordGuideWin.as",
+      "replacement_count": 6
+    },
+    {
+      "path": "scripts/view/guide/component/HunterQstGuideView.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/guide/component/NewEquipTipWin.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/guide/component/SpecialCopyGuideView.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/view/login/LoginScene.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/role/panel/RoleChoosePanel.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/role/panel/RoleCreatePanelBase.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/wylib/Bitmaps/BitmapGroup.as",
+      "replacement_count": 2
+    },
+    {
+      "path": "scripts/wylib/CBP/CBPReader.as",
+      "replacement_count": 7
+    },
+    {
+      "path": "scripts/wylib/Loaders/BinLoaderQueue.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/wylib/Loaders/BmpLoaderQueue.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/wylib/Packs/BitmapPack/MDPSWFBitmapDirectory.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/wylib/Packs/MDPackDirectory.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/wylib/Packs/MDPackFile.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/wylib/Packs/MDPackGroup.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/wylib/Packs/MDPackItem.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/wylib/Packs/MDPackage.as",
+      "replacement_count": 2
     }
   ],
-  "replacement_count": 1
+  "replacement_count": 1029
 }
