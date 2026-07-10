@@ -33,7 +33,11 @@ if ($gateHash -ne $expectedSha256) {
 
 New-Item -ItemType Directory -Path $InstallRoot -Force | Out-Null
 $installedWrapper = Join-Path $InstallRoot 'Start-GateWithDynamicHandshake.ps1'
-Copy-Item -LiteralPath $sourceWrapper -Destination $installedWrapper -Force
+$sourceFullPath = [IO.Path]::GetFullPath($sourceWrapper)
+$installedFullPath = [IO.Path]::GetFullPath($installedWrapper)
+if (-not [string]::Equals($sourceFullPath, $installedFullPath, [StringComparison]::OrdinalIgnoreCase)) {
+    Copy-Item -LiteralPath $sourceWrapper -Destination $installedWrapper -Force
+}
 
 $existingTask = Get-ScheduledTask -TaskName $TaskName -ErrorAction SilentlyContinue
 if ($existingTask -and $existingTask.State -eq 'Running') {
