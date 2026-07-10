@@ -1,10 +1,10 @@
 {
-  "version": "20260710zhcnvi2",
+  "version": "20260710gatecrc1",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "0BAEA36DCF816CD6CFC2A92864854A9EE765F868D6C2CE34D5A5574CCDB3CBD6"
+      "sha256": "07652107E6AAB1E8350272E94CDE594074FF73790D21175E387F740D0E2B2209"
     },
     {
       "source": "assets/ClientLang.txt",
