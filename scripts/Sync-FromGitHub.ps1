@@ -9,6 +9,7 @@ $ErrorActionPreference = 'Stop'
 $repoBase = "https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/$Branch"
 $workRoot = Join-Path $env:TEMP ('ahtl-github-sync-' + [Guid]::NewGuid().ToString('N'))
 $backupRoot = Join-Path $WebRoot ('_deploy_backups\github_' + (Get-Date -Format 'yyyyMMdd_HHmmss'))
+$cacheKey = [DateTime]::UtcNow.Ticks
 
 function Get-GitHubFile {
     param(
@@ -18,7 +19,8 @@ function Get-GitHubFile {
 
     New-Item -ItemType Directory -Path (Split-Path -Parent $Destination) -Force | Out-Null
     $log = "$Destination.download.log"
-    cmd.exe /c "certutil.exe -urlcache -split -f $repoBase/$RelativePath $Destination > $log 2>&1"
+    $url = "$repoBase/$RelativePath?cache=$cacheKey"
+    cmd.exe /c "certutil.exe -urlcache -split -f $url $Destination > $log 2>&1"
     if ($LASTEXITCODE -ne 0) {
         $details = Get-Content -LiteralPath $log -Raw -ErrorAction SilentlyContinue
         throw "Khong tai duoc $RelativePath. $details"
