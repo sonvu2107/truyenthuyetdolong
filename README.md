@@ -29,6 +29,8 @@ Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backup
 
 Phiên bản `20260710langcore1` giữ nền login, kích thước game, 733 chuỗi kỹ năng và bản vá chống tự chạy nhầm cổng cấp 25. Bản này sửa cấu trúc `ClientLang.txt`, đối chiếu đủ 3.069 mục với file Trung gốc, rồi biên dịch 2.868 phép gán giao diện tiếng Việt vào lớp `lang.ZH_CN` của `GameFrame.swf`. Chuỗi `Chưa kích hoạt` nằm ngoài lớp ngôn ngữ cũng được vá theo đúng lớp `model.hlp.SkillHlp`. Sau khi nhập, cả ba lớp `lang.ZH_CN`, `SkillHlp` và `LocalPlayer` đều được xuất ngược từ SWF để xác minh.
 
+Shell `20260710fullscreen1` giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
+
 ## Biên dịch CBP an toàn
 
 `tools/cbp_localizer.py` chỉ thay node chuỗi, tính lại độ dài UTF-8 và header CBP, đồng thời kiểm câu gốc trước khi ghi. Catalog kỹ năng hiện tại nằm tại `translations/skillconfig.vi.json`; không dùng lại cách giải nén toàn bộ payload thành văn bản rồi thay chuỗi.

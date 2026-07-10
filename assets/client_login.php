@@ -1,3 +1,3 @@
 <?php
-header('Location: /client_shell.html?v=20260710langcore1');
+header('Location: /client_shell.html?v=20260710fullscreen1');
 exit;

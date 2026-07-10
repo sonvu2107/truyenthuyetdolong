@@ -57,6 +57,10 @@ body.game-mode #launcherFrame {
 	display: none;
 }
 
+body.game-mode {
+	background: #000;
+}
+
 body.game-mode #launcherStage {
 	left: 0;
 	top: 0;
@@ -72,6 +76,10 @@ body.game-mode #gamePortal {
 </style>
 <script type="text/javascript">
 (function () {
+	var GAME_BASE_HEIGHT = 750;
+	var GAME_MIN_WIDTH = 1000;
+	var GAME_MAX_WIDTH = 1400;
+
 	function isGamePage(frame) {
 		try {
 			var path = String(frame.contentWindow.location.pathname || "").toLowerCase();
@@ -88,12 +96,26 @@ body.game-mode #gamePortal {
 		if (gameMode) {
 			var width = document.documentElement.clientWidth || document.body.clientWidth || 962;
 			var height = document.documentElement.clientHeight || document.body.clientHeight || 647;
-			var scale = width < 1000 ? width / 1000 : 1;
-			frame.style.width = Math.ceil(width / scale) + "px";
-			frame.style.height = Math.ceil(height / scale) + "px";
+			var scale = height / GAME_BASE_HEIGHT;
+			var logicalWidth = Math.ceil(width / scale);
+			if (logicalWidth < GAME_MIN_WIDTH) {
+				logicalWidth = GAME_MIN_WIDTH;
+				scale = Math.min(width / logicalWidth, height / GAME_BASE_HEIGHT);
+			} else if (logicalWidth > GAME_MAX_WIDTH) {
+				logicalWidth = GAME_MAX_WIDTH;
+				scale = Math.min(width / logicalWidth, height / GAME_BASE_HEIGHT);
+			}
+			var renderedWidth = Math.floor(logicalWidth * scale);
+			var renderedHeight = Math.floor(GAME_BASE_HEIGHT * scale);
+			frame.style.left = Math.floor((width - renderedWidth) / 2) + "px";
+			frame.style.top = Math.floor((height - renderedHeight) / 2) + "px";
+			frame.style.width = logicalWidth + "px";
+			frame.style.height = GAME_BASE_HEIGHT + "px";
 			frame.style.transform = "scale(" + scale + ")";
 			frame.style.msTransform = "scale(" + scale + ")";
 		} else {
+			frame.style.left = "402px";
+			frame.style.top = "202px";
 			frame.style.width = "667px";
 			frame.style.height = "338px";
 			frame.style.transform = "scale(0.712)";
@@ -128,7 +150,7 @@ body.game-mode #gamePortal {
 <body class="launcher-mode" scroll="no">
 	<div id="launcherStage">
 		<div id="launcherFrame"></div>
-		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260710langcore1" frameborder="0" scrolling="no"></iframe>
+		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260710fullscreen1" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 	</div>
 </body>
 </html>

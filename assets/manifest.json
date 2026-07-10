@@ -1,15 +1,15 @@
 {
-  "version": "20260710langcore1",
+  "version": "20260710fullscreen1",
   "files": [
     {
       "source": "assets/client_login.php",
       "target": "client_login.php",
-      "sha256": "9B0DEA6536604CDE18DC4AB00FC3F905A40BA72C7114BEE5E25A5DDF61ADEF42"
+      "sha256": "4DDDE080DCEE3C226EABC97362423DE5A6B5915A60AB1C6C59FF03418CE58A71"
     },
     {
       "source": "assets/client_shell.html",
       "target": "client_shell.html",
-      "sha256": "CF605E17722AC65883DB724CE8BB4F63620D35AB4CEE0ED7C15568A8E5D156F8"
+      "sha256": "28C6A5EC780D4F1EB70581F10EA48C269CEFA28E5C05DDB26D3C4A9AD40FD93C"
     },
     {
       "source": "assets/client_frame.png",
@@ -39,7 +39,7 @@
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "DCC27C15F2898DA0B26B8481B80CF14A72AF9488A475063A26A5D8A88553D8B1"
+      "sha256": "C87D0FECA7561C94ED57686FF146BF8BF36B1D2265DB88F9DE206CAD98A01A0A"
     }
   ]
 }
