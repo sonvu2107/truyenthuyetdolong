@@ -73,12 +73,38 @@ body.game-mode #gamePortal {
 	left: 0;
 	top: 0;
 }
+
+#fullscreenButton {
+	display: none;
+	position: fixed;
+	right: 10px;
+	top: 10px;
+	z-index: 20;
+	padding: 7px 10px;
+	border: 1px solid #c99845;
+	border-radius: 3px;
+	color: #ffe7a8;
+	background: rgba(30, 10, 4, 0.82);
+	font: bold 12px Arial, Helvetica, sans-serif;
+	cursor: pointer;
+	opacity: 0.72;
+}
+
+#fullscreenButton:hover,
+#fullscreenButton:focus {
+	opacity: 1;
+}
+
+body.game-mode #fullscreenButton {
+	display: block;
+}
 </style>
 <script type="text/javascript">
 (function () {
-	var GAME_BASE_HEIGHT = 750;
-	var GAME_MIN_WIDTH = 1000;
-	var GAME_MAX_WIDTH = 1400;
+	var GAME_BASE_WIDTH = 1000;
+	var GAME_BASE_HEIGHT = 600;
+	var gameStarted = false;
+	var lastLayoutTrace = "";
 
 	function isGamePage(frame) {
 		try {
@@ -89,49 +115,137 @@ body.game-mode #gamePortal {
 		}
 	}
 
-	function syncMode() {
+	function traceLayout(data) {
+		if (data === lastLayoutTrace) {
+			return;
+		}
+		lastLayoutTrace = data;
+		try {
+			(new Image()).src = "/client_trace.php?step=shell_game_layout&data=" +
+				encodeURIComponent(data) + "&t=" + (new Date()).getTime();
+		} catch (ignore) {}
+	}
+
+	function layoutGame() {
 		var frame = document.getElementById("gamePortal");
-		var gameMode = isGamePage(frame);
-		document.body.className = gameMode ? "game-mode" : "launcher-mode";
-		if (gameMode) {
-			var width = document.documentElement.clientWidth || document.body.clientWidth || 962;
-			var height = document.documentElement.clientHeight || document.body.clientHeight || 647;
-			var scale = height / GAME_BASE_HEIGHT;
-			var logicalWidth = Math.ceil(width / scale);
-			if (logicalWidth < GAME_MIN_WIDTH) {
-				logicalWidth = GAME_MIN_WIDTH;
-				scale = Math.min(width / logicalWidth, height / GAME_BASE_HEIGHT);
-			} else if (logicalWidth > GAME_MAX_WIDTH) {
-				logicalWidth = GAME_MAX_WIDTH;
-				scale = Math.min(width / logicalWidth, height / GAME_BASE_HEIGHT);
-			}
-			var renderedWidth = Math.floor(logicalWidth * scale);
-			var renderedHeight = Math.floor(GAME_BASE_HEIGHT * scale);
-			frame.style.left = Math.floor((width - renderedWidth) / 2) + "px";
-			frame.style.top = Math.floor((height - renderedHeight) / 2) + "px";
-			frame.style.width = logicalWidth + "px";
-			frame.style.height = GAME_BASE_HEIGHT + "px";
-			frame.style.transform = "scale(" + scale + ")";
-			frame.style.msTransform = "scale(" + scale + ")";
-		} else {
+		var width = document.documentElement.clientWidth || document.body.clientWidth || 1000;
+		var height = document.documentElement.clientHeight || document.body.clientHeight || 600;
+		var scale = Math.min(width / GAME_BASE_WIDTH, height / GAME_BASE_HEIGHT);
+		if (!isFinite(scale) || scale <= 0) {
+			scale = 1;
+		}
+		var logicalWidth = Math.ceil(width / scale);
+		var logicalHeight = Math.ceil(height / scale);
+		document.body.className = "game-mode";
+		frame.style.left = "0";
+		frame.style.top = "0";
+		frame.style.width = logicalWidth + "px";
+		frame.style.height = logicalHeight + "px";
+		frame.style.transform = "scale(" + scale + ")";
+		frame.style.msTransform = "scale(" + scale + ")";
+		traceLayout(
+			"viewport=" + width + "x" + height +
+			"|logical=" + logicalWidth + "x" + logicalHeight +
+			"|scale=" + scale.toFixed(3)
+		);
+	}
+
+	function layoutLauncher() {
+		var frame = document.getElementById("gamePortal");
+		document.body.className = "launcher-mode";
 			frame.style.left = "402px";
 			frame.style.top = "202px";
 			frame.style.width = "667px";
 			frame.style.height = "338px";
 			frame.style.transform = "scale(0.712)";
 			frame.style.msTransform = "scale(0.712)";
+	}
+
+	function prepareGameMode() {
+		gameStarted = true;
+		layoutGame();
+	}
+
+	function syncMode() {
+		var frame = document.getElementById("gamePortal");
+		if (gameStarted || isGamePage(frame)) {
+			prepareGameMode();
+		} else {
+			layoutLauncher();
+		}
+	}
+
+	function isGameLauncherAction(target, frame) {
+		var node = target;
+		while (node && node !== frame.contentDocument) {
+			var href = node.href ? String(node.href).toLowerCase() : "";
+			var id = String(node.id || "").toLowerCase();
+			var className = String(node.className || "").toLowerCase();
+			if (href.indexOf("/game/login.php") !== -1 ||
+				id === "last_server" || id === "last_server3" ||
+				/(^|\s)btn(\s|$)/.test(className)) {
+				return true;
+			}
+			node = node.parentNode;
+		}
+		return false;
+	}
+
+	function hookLauncherActions(frame) {
+		try {
+			var doc = frame.contentDocument || frame.contentWindow.document;
+			var path = String(frame.contentWindow.location.pathname || "").toLowerCase();
+			if (!doc || path.indexOf("/a.php") === -1 || doc.__gameLayoutHooked) {
+				return;
+			}
+			doc.__gameLayoutHooked = true;
+			var pointerHandler = function (event) {
+				event = event || frame.contentWindow.event;
+				if (isGameLauncherAction(event.srcElement || event.target, frame)) {
+					prepareGameMode();
+				}
+			};
+			var keyHandler = function (event) {
+				event = event || frame.contentWindow.event;
+				if ((event.keyCode || event.which) === 13) {
+					prepareGameMode();
+				}
+			};
+			if (doc.attachEvent) {
+				doc.attachEvent("onclick", pointerHandler);
+				doc.attachEvent("onkeydown", keyHandler);
+			} else {
+				doc.addEventListener("click", pointerHandler, true);
+				doc.addEventListener("keydown", keyHandler, true);
+			}
+		} catch (ignore) {}
+	}
+
+	function toggleFullscreen() {
+		var root = document.documentElement;
+		var request = root.requestFullscreen || root.webkitRequestFullscreen ||
+			root.mozRequestFullScreen || root.msRequestFullscreen;
+		if (request) {
+			request.call(root);
 		}
 	}
 
 	function init() {
 		var frame = document.getElementById("gamePortal");
 		if (frame.attachEvent) {
-			frame.attachEvent("onload", syncMode);
+			frame.attachEvent("onload", function () {
+				syncMode();
+				hookLauncherActions(frame);
+			});
 		} else {
-			frame.onload = syncMode;
+			frame.onload = function () {
+				syncMode();
+				hookLauncherActions(frame);
+			};
 		}
 		syncMode();
-		window.setInterval(syncMode, 500);
+		hookLauncherActions(frame);
+		document.getElementById("fullscreenButton").onclick = toggleFullscreen;
 		if (window.attachEvent) {
 			window.attachEvent("onresize", syncMode);
 		} else {
@@ -144,13 +258,15 @@ body.game-mode #gamePortal {
 	} else {
 		window.onload = init;
 	}
+	window.prepareGameMode = prepareGameMode;
 }());
 </script>
 </head>
 <body class="launcher-mode" scroll="no">
 	<div id="launcherStage">
 		<div id="launcherFrame"></div>
-		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260710fullscreen1" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260710fullscreen2" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 	</div>
+	<button id="fullscreenButton" type="button" title="Phóng game ra toàn màn hình">&#x26F6; Toàn màn hình</button>
 </body>
 </html>
