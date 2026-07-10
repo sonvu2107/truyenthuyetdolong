@@ -1,10 +1,10 @@
 {
-  "version": "20260710min1",
+  "version": "20260710stable1",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "072AC6434404203083086A67A7FBC1458400AC4B8B9B1028427133CCFE393671"
+      "sha256": "0BAEA36DCF816CD6CFC2A92864854A9EE765F868D6C2CE34D5A5574CCDB3CBD6"
     },
     {
       "source": "assets/ClientLang.txt",
