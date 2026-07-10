@@ -27,4 +27,4 @@ powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 
 Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database. Cách này không cần cài Git trên VPS cũ.
 
-Phiên bản `20260710ui2` bỏ nền đen ngoài khung login, dùng kích thước game 1024×680 khi launcher hỗ trợ và chỉ co vừa đủ trên client cũ. Runtime chuyển sang `cbppack=1`, nạp gói CBP Việt hóa mới và đổi cache tài nguyên sang `20260710ui2`.
+Phiên bản `20260710restore1` giữ nền login và kích thước game mới, đồng thời trả runtime về `cbppack=0` cùng bộ CBP hợp lệ để khôi phục khả năng vào game. Không bật lại gói CBP dịch bằng thay chuỗi cho đến khi cấu trúc độ dài chuỗi được biên dịch đúng.
