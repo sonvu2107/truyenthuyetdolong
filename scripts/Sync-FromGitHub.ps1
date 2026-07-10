@@ -31,7 +31,7 @@ try {
     $manifest = Get-Content -LiteralPath (Join-Path $workRoot 'manifest.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 
     foreach ($file in $manifest.files) {
-        $download = Join-Path $workRoot ($file.source -replace '/', '\\')
+        $download = Join-Path $workRoot ($file.source.Replace('/', '\'))
         Get-GitHubFile -RelativePath $file.source -Destination $download
         $actual = (Get-FileHash -LiteralPath $download -Algorithm SHA256).Hash
         if ($actual -ne $file.sha256) {
@@ -46,9 +46,9 @@ try {
 
     New-Item -ItemType Directory -Path $backupRoot -Force | Out-Null
     foreach ($file in $manifest.files) {
-        $source = Join-Path $workRoot ($file.source -replace '/', '\\')
-        $target = Join-Path $WebRoot ($file.target -replace '/', '\\')
-        $backup = Join-Path $backupRoot ($file.target -replace '/', '\\')
+        $source = Join-Path $workRoot ($file.source.Replace('/', '\'))
+        $target = Join-Path $WebRoot ($file.target.Replace('/', '\'))
+        $backup = Join-Path $backupRoot ($file.target.Replace('/', '\'))
         New-Item -ItemType Directory -Path (Split-Path -Parent $backup) -Force | Out-Null
         if (Test-Path -LiteralPath $target) {
             Copy-Item -LiteralPath $target -Destination $backup -Force
