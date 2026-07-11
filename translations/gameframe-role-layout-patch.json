@@ -1,0 +1,41 @@
+{
+  "format": 1,
+  "description": "Sửa màu và nhãn ô trang bị riêng cho trang Nhân Vật, giữ nguyên tên toàn cục.",
+  "files": [
+    {
+      "path": "scripts/view/game/property/win/PropertyRoleWin.as",
+      "replacements": [
+        {
+          "source": "_loc3_ = [\"Vai trò\",\"Bảo Thạch\",\"Chuyển Sinh\",\"linh hồn\"];",
+          "target": "_loc3_ = [\"Nhân Vật\",\"Hồn Thạch\",\"Chuyển Sinh\",\"Võ Hồn\"];",
+          "expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/property/page/PropertyBaseEquipPage.as",
+      "replacements": [
+        {
+          "source": "public static const CellLabels:Array = [\"\",LangManager.Lang.Prop_EquipPosNames[3],\"\",LangManager.Lang.Prop_EquipPosNames[2],LangManager.Lang.Prop_EquipPosNames[1],LangManager.Lang.Prop_EquipPosNames[4],LangManager.Lang.Prop_EquipPosNames[6],LangManager.Lang.Prop_EquipPosNames[6],LangManager.Lang.Prop_EquipPosNames[7],LangManager.Lang.Prop_EquipPosNames[7],LangManager.Lang.Prop_EquipPosNames[11],LangManager.Lang.Prop_EquipPosNames[10]];",
+          "target": "public static const CellLabels:Array = [\"\",\"Mũ\",\"\",\"Áo\",\"Vũ Khí\",\"Dây\",\"Vòng\",\"Vòng\",\"Nhẫn\",\"Nhẫn\",\"NL\",\"Đá\"];",
+          "expected": 1
+        },
+        {
+          "source": "public static const CellLabels1:Array = [LangManager.Lang.Prop_EquipPosNames[8],LangManager.Lang.Prop_EquipPosNames[12],LangManager.Lang.Prop_EquipPosNames[15],LangManager.Lang.Prop_EquipPosNames[9],LangManager.Lang.Prop_EquipPosNames[5]];",
+          "target": "public static const CellLabels1:Array = [\"Đai\",\"TT\",\"Đặc\",\"Giày\",\"Huy Hiệu\"];",
+          "expected": 1
+        },
+        {
+          "source": "TextFactory.drawTextOnBitmap(_loc11_,LangManager.Lang.Prop_EquipPosNames[_loc12_],GameConst.BackgroundTextColor,false,_loc10_,TextFormatAlign.CENTER);",
+          "target": "TextFactory.drawTextOnBitmap(_loc11_,_loc3_ == this._stdEquipGrid.colCount ? CellLabels[_loc14_] : CellLabels1[_loc14_],13608821,false,_loc10_,TextFormatAlign.CENTER);",
+          "expected": 2
+        },
+        {
+          "source": "this._guildName = LangManager.Lang.property[59] + \"<font color=\\'#\" + VALUE_COLOR + \"\\'>\" + LangManager.Lang.Common_None + \"</font>\";",
+          "target": "this._guildName = \"<font color=\\'#\" + VALUE_COLOR + \"\\'>\" + LangManager.Lang.Common_None + \"</font>\";",
+          "expected": 1
+        }
+      ]
+    }
+  ]
+}

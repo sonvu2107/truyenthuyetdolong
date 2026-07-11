@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "path": "scripts/view/game/property/win/PropertyRoleWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/property/page/PropertyBaseEquipPage.as",
+      "replacement_count": 5
+    }
+  ],
+  "replacement_count": 6
+}

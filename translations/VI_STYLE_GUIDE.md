@@ -143,3 +143,5 @@ Ví dụ sai vì làm hỏng tự tìm đường/trả nhiệm vụ:
 - Các sửa thủ công nên đặt ở `gameframe-zhcn-final.vi.json` để override.
 - Với nút/tab/title trong SWF, ưu tiên bản ngắn hơn bản đầy đủ.
 - Nếu rút gọn vẫn tràn, phải sửa layout ActionScript hoặc thay asset ảnh.
+- Các chuỗi được `SplitString` theo dấu phẩy là dữ liệu có cấu trúc: phải giữ nguyên số phần tử, vị trí phần tử rỗng và thứ tự so với bản gốc.
+- Tên ô trang bị 40 px dùng bộ nhãn rút gọn riêng trong layout; không rút tên `Prop_EquipPosNames` toàn cục.

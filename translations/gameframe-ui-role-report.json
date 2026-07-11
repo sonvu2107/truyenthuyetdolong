@@ -1,0 +1,117 @@
+{
+  "changed": 16,
+  "changes": [
+    {
+      "key": "property[0]",
+      "line": 1029,
+      "source": "Thuộc Tính, Tọa Kỵ, Hồn Thạch, Anh Hùng, Pháp Bảo",
+      "target": "Thuộc Tính,Tọa Kỵ,Hồn Thạch,Dung Binh,Pháp Bảo,Phù Văn,Chuyển Sinh,Võ Hồn",
+      "category": "structural-array"
+    },
+    {
+      "key": "property[3]",
+      "line": 1032,
+      "source": "Vật Công:, Ma Công:, Đạo Công:, Vật Phòng:, Ma Phòng:,,,,,,Sinh Lực:, Nội Lực:,,,Chính Xác:, Nhanh Nhẹn:, May Mắn:, Nguyền Rủa:, Vinh Dự:, Trị PK:, $charm$:, Linh Phách Chuyển Sinh:",
+      "target": "Vật Công:,Ma Công:,Đạo Công:,Vật Phòng:,Ma Phòng:,,,,,,Chính Xác:,Nhanh Nhẹn:,May Mắn:,Nguyền Rủa:,Linh Phách CS:,Tốc Chạy:,Tốc Đánh:",
+      "category": "structural-array"
+    },
+    {
+      "key": "property[30]",
+      "line": 1059,
+      "source": "</font><font color='#00FF00'>【Giải Thích Thuộc Tính Chi Tiết】</font>",
+      "target": "<font face='Tahoma' size='12' color='#00FF00'>[Chi Tiết Chỉ Số]</font>",
+      "category": "button"
+    },
+    {
+      "key": "property[52]",
+      "line": 1076,
+      "source": "Cặp đôi <font color='#cc9933'>: </font><font color='#3399cc'>$value$</font>",
+      "target": "<font color='#cc9933'>Cặp đôi: </font><font color='#3399cc'>$value$</font>",
+      "category": "label"
+    },
+    {
+      "key": "property[53]",
+      "line": 1077,
+      "source": "Giá trị <font color='#cc9933'>pk: </font><font color='#3399cc'>$value$</font>",
+      "target": "<font color='#cc9933'>PK: </font><font color='#3399cc'>$value$</font>",
+      "category": "label"
+    },
+    {
+      "key": "property[59]",
+      "line": 1083,
+      "source": "Bang Hội: ",
+      "target": "Bang: ",
+      "category": "label"
+    },
+    {
+      "key": "npc[21]",
+      "line": 2218,
+      "source": "Sửa Nhanh",
+      "target": "Sửa hết",
+      "category": "button"
+    },
+    {
+      "key": "npc[100]",
+      "line": 2233,
+      "source": "Sửa chữa Trang Bị",
+      "target": "Sửa đồ",
+      "category": "button"
+    },
+    {
+      "key": "LangBtnCaption[36]",
+      "line": 5476,
+      "source": "Tri Ân Gộp Server",
+      "target": "Tri Ân",
+      "category": "top-icon"
+    },
+    {
+      "key": "LangBtnCaption[37]",
+      "line": 5477,
+      "source": "Quà Gộp Server",
+      "target": "Quà Gộp",
+      "category": "top-icon"
+    },
+    {
+      "key": "LangBtnCaption[65]",
+      "line": 5505,
+      "source": "Quà Đại Nạp",
+      "target": "Quà Nạp",
+      "category": "top-icon"
+    },
+    {
+      "key": "LangBtnCaption[66]",
+      "line": 5506,
+      "source": "Nạp Mỗi Ngày",
+      "target": "Nạp Ngày",
+      "category": "top-icon"
+    },
+    {
+      "key": "LangBtnCaption[79]",
+      "line": 5519,
+      "source": "Thưởng Thời Lượng",
+      "target": "Quà Online",
+      "category": "top-icon"
+    },
+    {
+      "key": "LangBtnCaption[86]",
+      "line": 5523,
+      "source": "Cửa Hàng Khuyến Mãi",
+      "target": "Ưu Đãi",
+      "category": "top-icon"
+    },
+    {
+      "key": "LangBtnCaption[119]",
+      "line": 5542,
+      "source": "Quà 7 Ngày",
+      "target": "Quà 7N",
+      "category": "top-icon"
+    },
+    {
+      "key": "transmigration[25]",
+      "line": 5655,
+      "source": "Cấp $num$ · Cần thêm $num$ cấp để CS $num$.",
+      "target": "Cấp $num$ · Thiếu $num$ cấp để CS $num$.",
+      "category": "message"
+    }
+  ]
+}

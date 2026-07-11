@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "description": "Khôi phục cấu trúc mảng Vai trò và rút gọn nhãn icon/UI hẹp.",
+  "overrides": {
+    "property[0]": {
+      "source": "Thuộc Tính, Tọa Kỵ, Hồn Thạch, Anh Hùng, Pháp Bảo",
+      "target": "Thuộc Tính,Tọa Kỵ,Hồn Thạch,Dung Binh,Pháp Bảo,Phù Văn,Chuyển Sinh,Võ Hồn",
+      "category": "structural-array"
+    },
+    "property[3]": {
+      "source": "Vật Công:, Ma Công:, Đạo Công:, Vật Phòng:, Ma Phòng:,,,,,,Sinh Lực:, Nội Lực:,,,Chính Xác:, Nhanh Nhẹn:, May Mắn:, Nguyền Rủa:, Vinh Dự:, Trị PK:, $charm$:, Linh Phách Chuyển Sinh:",
+      "target": "Vật Công:,Ma Công:,Đạo Công:,Vật Phòng:,Ma Phòng:,,,,,,Chính Xác:,Nhanh Nhẹn:,May Mắn:,Nguyền Rủa:,Linh Phách CS:,Tốc Chạy:,Tốc Đánh:",
+      "category": "structural-array"
+    },
+    "property[30]": {
+      "source": "</font><font color='#00FF00'>【Giải Thích Thuộc Tính Chi Tiết】</font>",
+      "target": "<font face='Tahoma' size='12' color='#00FF00'>[Chi Tiết Chỉ Số]</font>",
+      "category": "button"
+    },
+    "property[52]": {
+      "source": "Cặp đôi <font color='#cc9933'>: </font><font color='#3399cc'>$value$</font>",
+      "target": "<font color='#cc9933'>Cặp đôi: </font><font color='#3399cc'>$value$</font>",
+      "category": "label"
+    },
+    "property[53]": {
+      "source": "Giá trị <font color='#cc9933'>pk: </font><font color='#3399cc'>$value$</font>",
+      "target": "<font color='#cc9933'>PK: </font><font color='#3399cc'>$value$</font>",
+      "category": "label"
+    },
+    "property[59]": {
+      "source": "Bang Hội: ",
+      "target": "Bang: ",
+      "category": "label"
+    },
+    "npc[21]": {"source": "Sửa Nhanh", "target": "Sửa hết", "category": "button"},
+    "npc[100]": {"source": "Sửa chữa Trang Bị", "target": "Sửa đồ", "category": "button"},
+    "LangBtnCaption[36]": {"source": "Tri Ân Gộp Server", "target": "Tri Ân", "category": "top-icon"},
+    "LangBtnCaption[37]": {"source": "Quà Gộp Server", "target": "Quà Gộp", "category": "top-icon"},
+    "LangBtnCaption[65]": {"source": "Quà Đại Nạp", "target": "Quà Nạp", "category": "top-icon"},
+    "LangBtnCaption[66]": {"source": "Nạp Mỗi Ngày", "target": "Nạp Ngày", "category": "top-icon"},
+    "LangBtnCaption[79]": {"source": "Thưởng Thời Lượng", "target": "Quà Online", "category": "top-icon"},
+    "LangBtnCaption[86]": {"source": "Cửa Hàng Khuyến Mãi", "target": "Ưu Đãi", "category": "top-icon"},
+    "LangBtnCaption[119]": {"source": "Quà 7 Ngày", "target": "Quà 7N", "category": "top-icon"},
+    "transmigration[25]": {
+      "source": "Cấp $num$ · Cần thêm $num$ cấp để CS $num$.",
+      "target": "Cấp $num$ · Thiếu $num$ cấp để CS $num$.",
+      "category": "message"
+    }
+  }
+}
