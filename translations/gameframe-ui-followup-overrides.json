@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "description": "Rút gọn các màn kế tiếp: kết hôn, quà 7 ngày, nạp mỗi ngày và shop ưu đãi.",
+  "overrides": {
+    "marry[44]": {
+      "source": "<font color='#3399cc'>Không có </font><font size='' color='#ffff33'><u><a href='event:1'>Tôi muốn nhận đã kết hôn</a></u></font>",
+      "target": "<font color='#3399cc'>Chưa có </font><font size='12' color='#ffff33'><u><a href='event:1'>Kết hôn</a></u></font>",
+      "category": "role-link"
+    },
+    "sevenDayGift[1]": {
+      "source": "<font color='#ffffff' size = '15'> Bạn đã đăng nhập vào <font color='#00ff00'>$num$</font> ngày </font>",
+      "target": "<font face='Tahoma' color='#ffffff' size='13'>Đăng nhập: <font color='#00ff00'>$num$</font> ngày</font>",
+      "category": "status"
+    },
+    "openService[53]": {
+      "source": "<font size = '17'color = '#cab96b'><b> Nhanh Nạp Thẻ</b></font>",
+      "target": "<font face='Tahoma' size='16' color='#cab96b'><b>Nạp Ngay</b></font>",
+      "category": "button"
+    },
+    "openService[54]": {
+      "source": "<font size = '17'color = '#cab96b'><b> Nhận Phần Thưởng</b></font>",
+      "target": "<font face='Tahoma' size='16' color='#cab96b'><b>Nhận</b></font>",
+      "category": "button"
+    },
+    "openService[93]": {
+      "source": "<font size = '22'color = '#ffde00'><b> Nhanh Nạp Thẻ</b></font>",
+      "target": "<font face='Tahoma' size='18' color='#ffde00'><b>Nạp Ngay</b></font>",
+      "category": "button"
+    },
+    "openService[94]": {
+      "source": "<font size = '22'color = '#ffde00'><b> Nhận Phần Thưởng</b></font>",
+      "target": "<font face='Tahoma' size='18' color='#ffde00'><b>Nhận</b></font>",
+      "category": "button"
+    },
+    "openService[110]": {
+      "source": "Không để bán",
+      "target": "Khóa",
+      "category": "item-label"
+    },
+    "firstRecharge[4]": {
+      "source": "Bảy ngày một tuần, khoản tiền gửi đầu tiên Phần Thưởng khác nhau mỗi ngày, vì vậy hãy chú ý theo dõi!",
+      "target": "Quà đổi theo ngày · Hãy kiểm tra mỗi ngày.",
+      "category": "description"
+    },
+    "firstRecharge[5]": {
+      "source": "Nạp Thẻ Gói Quà lớn hàng ngày",
+      "target": "Quà Nạp Mỗi Ngày",
+      "category": "title"
+    },
+    "firstRecharge[6]": {
+      "source": "<font size='20' color='#e5aa70'>DHàng ngàyNạp Thẻ</font><font size='20' color='#ffe64f'>Bất kỳ số lượng nào</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nạp bất kỳ mỗi ngày</font>",
+      "category": "description"
+    },
+    "firstRecharge[7]": {
+      "source": "<font size='20' color='#e5aa70'> có thể nhận được giá trị </font><font size='20' color='#ffe64f'>1888 nhân dân tệ Nạp Thẻ Gói Quà</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nhận quà trị giá <font color='#ffe64f'>1888 KNB</font></font>",
+      "category": "description"
+    },
+    "firstRecharge[8]": {
+      "source": "<font size='20' color='#e5aa70'> Mỗi ngày tính một ít tiền và sẽ có </font><font size='20' color='#ffe64f'> những điều tuyệt vời khác nhau mỗi ngày</font>",
+      "target": "<font face='Tahoma' size='15' color='#ffe64f'>Quà thay đổi theo từng ngày</font>",
+      "category": "description"
+    },
+    "firstRecharge[9]": {
+      "source": "<font size='20' color='#e5aa70'>Nạp Thẻ</font><font size='20' color='#ffe64f'>$num$Nguyên Bảo</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nạp <font color='#ffe64f'>$num$ KNB</font></font>",
+      "category": "description"
+    },
+    "firstRecharge[10]": {
+      "source": "<font size='20' color='#e5aa70'> có thể nhận được giá trị </font><font size='20' color='#ffe64f'>$num$ nhân dân tệ Nạp Thẻ Gói Quà</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nhận quà trị giá <font color='#ffe64f'>$num$ KNB</font></font>",
+      "category": "description"
+    },
+    "firstRecharge[11]": {
+      "source": "<font size='20' color='#e5aa70'> Sạc một ít tiền mỗi ngày và </font><font size='20' color='#ffe64f'> sẽ có những điều tuyệt vời khác nhau mỗi ngày</font>",
+      "target": "<font face='Tahoma' size='15' color='#ffe64f'>Quà thay đổi theo từng ngày</font>",
+      "category": "description"
+    },
+    "Common_Remain": {
+      "source": "Còn Lại",
+      "target": "Còn",
+      "category": "shop-label"
+    },
+    "bag[91]": {"source": "Thời gian khuyến mãi còn lại:", "target": "Còn:", "category": "shop-label"},
+    "bag[94]": {"source": "Giới hạn cho mỗi người:", "target": "Mỗi người: ", "category": "shop-label"},
+    "bag[95]": {"source": "một", "target": " lần", "category": "unit"},
+    "bag[96]": {"source": "Giới hạn mỗi người: không giới hạn", "target": "Không giới hạn", "category": "shop-label"},
+    "bag[98]": {"source": "Shop Khuyến Mãi", "target": "Shop Ưu Đãi", "category": "title"}
+  }
+}

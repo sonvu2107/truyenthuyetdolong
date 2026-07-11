@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "description": "Sửa panel chi tiết, tiêu đề trang động, nhãn Chuyển Sinh và đơn vị thời gian.",
+  "files": [
+    {
+      "path": "scripts/CommonUI/baseUI/lang/UILang.as",
+      "replacements": [
+        {
+          "source": "public static var Lang:Array = [\"bầu trời\",\"Giờ\",\"điểm\",\"Thứ hai\",\"Chắc chắn\"];",
+          "target": "public static var Lang:Array = [\" ngày \",\" giờ \",\" phút \",\" giây\",\"Xác nhận\"];",
+          "expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/property/components/PropertySubPane.as",
+      "replacements": [
+        {
+          "source": "this._spceialPropertyTipPanel.move(width + 39,-135);",
+          "target": "this._spceialPropertyTipPanel.move(-235,-135);",
+          "expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/property/page/PropertyRoleEquipPage.as",
+      "replacements": [
+        {
+          "source": "if(this.contains(_otherEquipGrid))\n         {\n            this.removeChild(_otherEquipGrid);\n            this.addChild(_otherEquipGrid);\n         }\n         this._wingBtn = new MsgButton(MsgButtonTypes.Wing);",
+          "target": "if(this.contains(_otherEquipGrid))\n         {\n            this.removeChild(_otherEquipGrid);\n            this.addChild(_otherEquipGrid);\n         }\n         this.addChild(this._propertyPanel);\n         this._wingBtn = new MsgButton(MsgButtonTypes.Wing);",
+          "expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/property/win/PropertyRoleWin.as",
+      "replacements": [
+        {
+          "source": "_loc3_ = [\"Nhân Vật\",\"Hồn Thạch\",\"Chuyển Sinh\",\"Võ Hồn\"];\n            this.setTitleIcon(PropertyRoleWin.iconTypes[m_navBar.selectedIndex]);\n            this.title = _loc3_[m_navBar.selectedIndex];",
+          "target": "if(_loc2_ is PropertyRoleEquipPage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[0]);\n               this.title = \"Nhân Vật\";\n            }\n            else if(_loc2_ is RockRolePage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[1]);\n               this.title = \"Hồn Thạch\";\n            }\n            else if(_loc2_ is TransmigrationPage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[2]);\n               this.title = \"Chuyển Sinh\";\n            }\n            else if(_loc2_ is LieMingPage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[3]);\n               this.title = \"Võ Hồn\";\n            }",
+          "expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationPage.as",
+      "replacements": [
+        {
+          "source": "var _loc5_:String = LangManager.Lang.itemAttrName[param1];",
+          "target": "var _loc5_:String = LangManager.Lang.itemAttrName[param1];\n         _loc5_ = _loc5_.replace(\"Sinh Lực Tối Đa\",\"HP tối đa\");\n         _loc5_ = _loc5_.replace(\"Pháp Lực Tối Đa\",\"MP tối đa\");\n         _loc5_ = _loc5_.replace(\"Công Kích Tối Đa Hồn Thạch\",\"Công Hồn Thạch\");",
+          "expected": 1
+        },
+        {
+          "source": "_loc3_ = LangManager.Lang.itemAttrName[param1].replace(\"$VALUE$\",\"：<font face=\\'Tahoma\\' size=\\'12\\' color=\\'#f3f328\\'>\" + _loc4_ + \"</font>\");",
+          "target": "_loc3_ = _loc5_.replace(\"$VALUE$\",\": <font face=\\'Tahoma\\' size=\\'12\\' color=\\'#f3f328\\'>\" + _loc4_ + \"</font>\");",
+          "expected": 1
+        },
+        {
+          "source": "this.gotoXiaoMiBtn.caption = LangManager.Lang.transmigration[10];\n                  if(param1)\n                  {\n                     ChatFunc.doFlyTipMsg(_loc5_);\n                  }",
+          "target": "this.gotoXiaoMiBtn.caption = LangManager.Lang.transmigration[10];\n                  if(param1)\n                  {\n                     ChatFunc.doFlyTipMsg(\"Thiếu \" + (_loc3_.lv - GlobalData.role.level) + \" cấp\");\n                  }",
+          "expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationWin.as",
+      "replacements": [
+        {
+          "source": "this.gotoXiaoMiBtn.caption = LangManager.Lang.transmigration[10];\n               if(param1)\n               {\n                  ChatFunc.doFlyTipMsg(_loc4_);\n               }",
+          "target": "this.gotoXiaoMiBtn.caption = LangManager.Lang.transmigration[10];\n               if(param1)\n               {\n                  ChatFunc.doFlyTipMsg(\"Thiếu \" + (_loc2_.lv - GlobalData.role.level) + \" cấp\");\n               }",
+          "expected": 1
+        }
+      ]
+    }
+  ]
+}

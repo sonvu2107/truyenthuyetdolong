@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "path": "scripts/CommonUI/baseUI/lang/UILang.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/property/components/PropertySubPane.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/property/page/PropertyRoleEquipPage.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/property/win/PropertyRoleWin.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationPage.as",
+      "replacement_count": 3
+    },
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationWin.as",
+      "replacement_count": 1
+    }
+  ],
+  "replacement_count": 8
+}
