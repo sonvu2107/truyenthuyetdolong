@@ -1,5 +1,5 @@
 {
-  "version": "20260711uifix4",
+  "version": "20260711uifix5",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "A7340F64ADF73947D9715F5C50ADA557AD3E070596A9E451E17AFD73D579976E"
+      "sha256": "E14002A9E8AA4192F43CCC6BC5B3D307111D0F469E2105EB50B0BF4E38F77BF3"
     },
     {
       "source": "assets/ClientLang.txt",

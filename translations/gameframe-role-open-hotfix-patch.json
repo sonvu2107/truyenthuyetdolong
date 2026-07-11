@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "description": "Khôi phục cơ chế khởi tạo tiêu đề ổn định để cửa sổ Nhân Vật mở lại từ thanh chức năng.",
+  "files": [
+    {
+      "path": "scripts/view/game/property/win/PropertyRoleWin.as",
+      "replacements": [
+        {
+          "source": "if(_loc2_ is PropertyRoleEquipPage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[0]);\n               this.title = \"Nhân Vật\";\n            }\n            else if(_loc2_ is RockRolePage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[1]);\n               this.title = \"Hồn Thạch\";\n            }\n            else if(_loc2_ is TransmigrationPage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[2]);\n               this.title = \"Chuyển Sinh\";\n            }\n            else if(_loc2_ is LieMingPage)\n            {\n               this.setTitleIcon(PropertyRoleWin.iconTypes[3]);\n               this.title = \"Võ Hồn\";\n            }",
+          "target": "_loc3_ = [\"Nhân Vật\",\"Hồn Thạch\",\"Chuyển Sinh\",\"Võ Hồn\"];\n            this.setTitleIcon(PropertyRoleWin.iconTypes[m_navBar.selectedIndex]);\n            this.title = _loc3_[m_navBar.selectedIndex];",
+          "expected": 1
+        }
+      ]
+    }
+  ]
+}
