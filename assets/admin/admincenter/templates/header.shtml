@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<title>Quản trị Âm Hắc Đồ Long OL</title>
+<link rel="stylesheet" type="text/css" href="templates/css/admin.css" />
+<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi1" />
+<script type="text/javascript" src="templates/js/jquery.js"></script>
+<script type="text/javascript" src="templates/js/admin.js"></script>
+<script type="text/javascript" src="templates/js/gridview.js"></script>
+<script type="text/javascript" src="templates/js/jquery.tablesorter.js"></script>
+<link rel="stylesheet" type="text/css" href="templates/js/datepick/redmond.datepick.css" />
+<script type="text/javascript" src="templates/js/datepick/jquery.datepick.js"></script>
+<script type="text/javascript" src="templates/js/datepick/jquery.datepick-zh-CN.js"></script>
+<script type="text/javascript" src="templates/js/jqmessagebox.js"></script>
+<script type="text/javascript" src="templates/js/jquery.idTabs.min.js"></script>
+<script type="text/javascript" src="templates/js/jquery.json.js"></script>
+<script type="text/javascript" src="templates/js/spider.js"></script>
+<script type="text/javascript" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+</head>

@@ -1,5 +1,5 @@
 {
-  "version": "20260711welfare1",
+  "version": "20260711adminvi1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -39,7 +39,7 @@
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "08BD4A3BE3574D8DEE244BF5726F3FA54382642D174A8B3297830FFE26B4BA82"
+      "sha256": "329CC620BFC953762B3AE5FBE421EF603B0E35A6ACF8BE0BAFE0A6954C5C6CED"
     },
     {
       "source": "assets/game/djrm.php",
@@ -50,6 +50,71 @@
       "source": "launcher/AHTL_Launcher_Fixed.exe",
       "target": "download/AHTL_Launcher_Fixed.exe",
       "sha256": "9E71A7C5D0C9EDFD6F1DAC40AB6C48DFDFD1F729BB35DE27FA2B40C1EBC2D735"
+    },
+    {
+      "source": "assets/admin/common/admin_vi.js",
+      "target": "oss/common/admin_vi.js",
+      "sha256": "CD4A0F734CB4AB787CC05FFA871EC98CCD0876B197DEF0AF48C07D4BC24DD58D"
+    },
+    {
+      "source": "assets/admin/common/admin_vi.css",
+      "target": "oss/common/admin_vi.css",
+      "sha256": "96978F7A054A34B4A4B2ACD92EC11A894B68DD933D52AC70168BC47ED9B3C5ED"
+    },
+    {
+      "source": "assets/admin/admincenter/templates/header.shtml",
+      "target": "oss/admincenter/templates/header.shtml",
+      "sha256": "5EAC7898EDB8C4FD3BBBADE0F6C278CF31E7EF7B10643ECCC81E213E89F4C113"
+    },
+    {
+      "source": "assets/admin/admincenter/templates/login.shtml",
+      "target": "oss/admincenter/templates/login.shtml",
+      "sha256": "4E86D32DE19C432E37C3CE6F90E1C02DA87F9F4DF738BA367908D124B9FC9592"
+    },
+    {
+      "source": "assets/admin/admincenter/templates/top.shtml",
+      "target": "oss/admincenter/templates/top.shtml",
+      "sha256": "A2B70875D8FE981888D1CC8885D0642B056C59FE13470B3F9B13578ED9D8139A"
+    },
+    {
+      "source": "assets/admin/admincenter/templates/menu.shtml",
+      "target": "oss/admincenter/templates/menu.shtml",
+      "sha256": "CD82E362DFADA3022C8A6B8EDFFA8F4B91BB2AA01D61D737628495CCD08FB338"
+    },
+    {
+      "source": "assets/admin/admincenter/templates/body.shtml",
+      "target": "oss/admincenter/templates/body.shtml",
+      "sha256": "BF67FA4499C9FBB3106F4979CA48551EBA9128D32215574BED629E3EF09CF21D"
+    },
+    {
+      "source": "assets/admin/admintool/templates/header.shtml",
+      "target": "oss/admintool/templates/header.shtml",
+      "sha256": "DF4F1F3F4B6D0AEB9A8B853A8F8AAD053FBD2312BFAD33A7F76E4E80ECCE8733"
+    },
+    {
+      "source": "assets/admin/admintool/templates/new_header.shtml",
+      "target": "oss/admintool/templates/new_header.shtml",
+      "sha256": "419022113167AA9094F3DBAE1A91843CB151E6FC7006B1A141DEA036B64105F0"
+    },
+    {
+      "source": "assets/admin/admintool/templates/login.shtml",
+      "target": "oss/admintool/templates/login.shtml",
+      "sha256": "C7A978082231A6F28CDA8DD41869B53660A9635D041FDE19D6DA323B8F10E1BC"
+    },
+    {
+      "source": "assets/admin/admintool/templates/admin_top.shtml",
+      "target": "oss/admintool/templates/admin_top.shtml",
+      "sha256": "99D0EA7E3634FE0CE1E5C6F2209BA44DD673C164EE7A26A03F09400CA94C36B5"
+    },
+    {
+      "source": "assets/admin/admintool/templates/admin_left.shtml",
+      "target": "oss/admintool/templates/admin_left.shtml",
+      "sha256": "0534DC4513118C562D8D2C08DD573431A58212C8B85C5E53EC62F70C9F44783E"
+    },
+    {
+      "source": "assets/admin/admintool/templates/index.shtml",
+      "target": "oss/admintool/templates/index.shtml",
+      "sha256": "CDE99DD2EC53213FFA774CFDD5B7A28DA45A7D9A6F841337B2ED61E1FD1F67CF"
     }
   ]
 }

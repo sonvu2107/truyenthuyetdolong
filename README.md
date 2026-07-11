@@ -9,8 +9,11 @@ Gói này chỉ chứa các tài nguyên công khai cần cập nhật cho game 
 - `assets/client_login.php`, `assets/client_shell.html` và `assets/client_frame.png`
 - `assets/game/GameConfig.php` để bật gói CBP tổng và đổi phiên bản cache tài nguyên
 - `assets/game/djrm.php` để nhúng Flash ở chế độ windowless, không che nút HTML
+- `assets/admin/` chứa lớp Việt hóa an toàn cho `oss/admincenter` và `oss/admintool`; chỉ gồm template, CSS và JavaScript, không chứa mật khẩu hoặc cấu hình database
 
 Không đưa `wwwroot` nguyên trạng lên Git. Các file đó chứa thông tin kết nối database và khóa đăng nhập.
+
+Phiên bản `20260711adminvi1` Việt hóa trang đăng nhập, thanh điều hướng, danh mục vận hành và các nhãn phổ biến của hai trang quản trị. Bộ dịch dùng một lớp giao diện chung tại `oss/common/admin_vi.js`, vì vậy không thay đổi truy vấn, lệnh GM hoặc dữ liệu người chơi. Đăng nhập an toàn từ VPS qua `http://127.0.0.1:81/oss/admincenter/`; địa chỉ công khai chỉ nên dùng sau khi đã bổ sung HTTPS hoặc giới hạn IP.
 
 ## Cập nhật từ máy có Git
 

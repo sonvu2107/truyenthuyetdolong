@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<title>Danh mục quản trị</title>
+<link rel="stylesheet" type="text/css" href="templates/css/admin.css" />
+<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi1" />
+<script type="text/javascript" src="templates/js/jquery.js"></script>
+<script type="text/javascript" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+<style type="text/css">
+   body{background:url(templates/images/menu_bg2.jpg);}
+</style>
+<body>
+<div id="memu">
+    <table height="100%" cellspacing="0" cellpadding="0" width="171" border="0">
+    <tr>
+      <td valign="top" align="center">
+        <table cellspacing="0" cellpadding="0" width="100%" border="0">
+          <tr>
+            <td height="10"></td>
+          </tr>
+        </table>
+
+<{foreach from=$menu key=key item=m}>
+        <table cellspacing="0" cellpadding="0" width="151" border="0">
+          <tr height="22">
+            <td style="padding-left:30px;" class="menuPtd" align="left"><a class="menuParent" style="cursor:pointer;" onclick="javascript:$('#menu_<{$key}>').toggle();"><{$m.title}></a></td>
+          </tr>
+          <tr height="4">
+            <td></td>
+          </tr>
+        </table>
+
+          <table  cellspacing="0" cellpadding="0" width="150" border="0" id="menu_<{$key}>">
+           <{foreach from=$m.sub key=k item=s}>
+              <tr height="20">
+                <td align="center" width="15"><img height="9" src="templates/images/menu_icon.gif" width="9" /></td>
+                <td align="left"><a class="menuChild" href="<{$s.url}>" target="main"><{$s.title}></a></td>
+              </tr>
+           <{/foreach}>
+            <tr height="4">
+                <td></td>
+              </tr>
+           </table>
+<{/foreach}>
+        </table>
+      </td>
+
+      <td width="1" bgcolor="#D1E6F7"></td>
+    </tr>
+  </table>
+  </div>
+
+  </body>
+  </html>

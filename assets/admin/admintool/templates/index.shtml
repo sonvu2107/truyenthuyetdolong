@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <title>Quản trị máy chủ Âm Hắc Đồ Long OL</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Charisma, a fully featured, responsive, HTML5, Bootstrap admin template.">
+    <meta name="author" content="Muhammad Usman">
+
+    <!-- The styles -->
+    <link id="bs-css" href="templates/new_css/bootstrap-cerulean.css" rel="stylesheet">
+    <link href="../common/admin_vi.css?v=20260711adminvi1" rel="stylesheet">
+    <script src="../common/admin_vi.js?v=20260711adminvi1" type="text/javascript"></script>
+    <style type="text/css">
+      body {
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+      .nav .nav-header {
+          font-size: 13px;
+          line-height:38px;
+     }
+
+    .nav-tabs > li > a, .nav-pills > li > a{
+        font-size: 11px;
+        padding-left: 36px;
+         font-weight: normal;
+    }
+    .active a .hidden-tablet{
+         font-size: 11px;
+         color: #999999;
+    }
+    .ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+    .ui-timepicker-div dl { text-align: left; }
+    .ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+    .ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+    .ui-timepicker-div td { font-size: 90%; }
+    .ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+    </style>
+    <link href="templates/new_css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="templates/new_css/charisma-app.css" rel="stylesheet">
+    <link href="templates/new_css/jquery-ui-1.8.21.custom.css" rel="stylesheet">
+    <link href='templates/new_css/fullcalendar.css' rel='stylesheet'>
+    <link href='templates/new_css/fullcalendar.print.css' rel='stylesheet'  media='print'>
+    <link href='templates/new_css/chosen.css' rel='stylesheet'>
+    <link href='templates/new_css/uniform.default.css' rel='stylesheet'>
+    <link href='templates/new_css/colorbox.css' rel='stylesheet'>
+    <link href='templates/new_css/jquery.cleditor.css' rel='stylesheet'>
+    <link href='templates/new_css/jquery.noty.css' rel='stylesheet'>
+    <link href='templates/new_css/noty_theme_default.css' rel='stylesheet'>
+    <link href='templates/new_css/elfinder.min.css' rel='stylesheet'>
+    <link href='templates/new_css/elfinder.theme.css' rel='stylesheet'>
+    <link href='templates/new_css/jquery.iphone.toggle.css' rel='stylesheet'>
+    <link href='templates/new_css/opa-icons.css' rel='stylesheet'>
+    <link href='templates/new_css/uploadify.css' rel='stylesheet'>
+
+    <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- The fav icon -->
+    <link rel="shortcut icon" href="templates/img/favicon.ico">
+
+</head>
+
+<body>
+        <!-- topbar starts -->
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container-fluid">
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".top-nav.nav-collapse,.sidebar-nav.nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <a class="brand" href="#"> <img alt="" src="templates/img/logo20.png" /> <span>Âm Hắc Đồ Long OL</span></a>
+
+                <!-- theme selector starts -->
+                <div class="btn-group pull-right theme-container" >
+                    <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="icon-tint"></i><span class="hidden-phone"> <{$lang.top.toggleinfo}></span>
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu" id="select_server">
+                    <{foreach from=$serverlist key=k item=v}>
+                        <li class="divider"></li>
+                        <li><i class="icon-blank"></i><span style="color:#333333;"> <{$k}></span></li>
+                        <li class="divider"></li>
+                    <{foreach from=$v key=sk item=s}>
+                        <li><a data-value="" href="<{$s}>"><i class="icon-blank"></i> <{$sk}> <{$lang.info.server}></a></li>
+                    <{/foreach}>
+                    <{/foreach}>
+                    </ul>
+                </div>
+                <!-- theme selector ends -->
+
+                <!-- user dropdown starts -->
+                <div class="btn-group pull-right" >
+                    <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="icon-user"></i><span class="hidden-phone"> Quản trị</span>
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="source/login.php?ac=logout"><{$lang.top.exit}></a></li>
+                    </ul>
+                </div>
+                <!-- user dropdown ends -->
+
+                <div class="top-nav nav-collapse">
+                    <ul class="nav">
+                        <li><a><{$lang.top.hi}>，<span style="color:#f60;"><{$userInfo.username}></span>
+                        <{$lang.top.welcome}><{$lang.top.login}>
+                        <strong><span style="color:#f60;"><{$lang.info.gamename}></span><span style="color:red;"><{$servername.sname}> <{$lang.info.server}></span></strong>
+                        <{$lang.info.manage}></a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+    </div>
+    <!-- topbar ends -->
+        <div class="container-fluid">
+        <div class="row-fluid">
+
+            <!-- left menu starts -->
+            <div class="span2 main-menu-span">
+                <div class="well nav-collapse sidebar-nav">
+                    <ul class="nav nav-tabs nav-stacked main-menu">
+            <{foreach from=$menu item=kind key=key}>
+                <{foreach from=$kind item=parentkind key=k}>
+                    <{if $k == 'parent' && $parentkind.show == 'YES'}>
+                        <li class="nav-header hidden-tablet" style="cursor:pointer;"><i class="<{$parentkind.icon}>"></i><{$parentkind.name}></li>
+                    <{elseif $k == "son"}>
+                        <ul class="nav nav-tabs nav-stacked main-menu">
+                        <{foreach from=$parentkind item=sonkind key=sonk}>
+                            <{if $sonkind.show == 'YES'}>
+                        <li><a class="ajax-link" href="source/<{$sonkind.filename}>" target="main"><span class="hidden-tablet"> <{$sonkind.name}></span></a></li>
+                            <{/if}>
+                        <{/foreach}>
+                        </ul>
+                    <{else}>
+                        <{php}>break;<{/php}>
+                    <{/if}>
+                <{/foreach}>
+            <{/foreach}>
+                        <{if $userInfo.super == 'YES'}>
+                        <li class="nav-header hidden-tablet" style="cursor:pointer;"><i class="icon-lock"></i>管理员工具</li>
+                        <ul class="nav nav-tabs nav-stacked main-menu">
+                        <li><a class="ajax-link" href="source/showadmin.php" target="main"><span class="hidden-tablet">  所有管理员</span></a></li>
+                        <li><a class="ajax-link" href="source/addadmin.php" target="main"><span class="hidden-tablet"> 添加管理员</span></a></li>
+                        <li><a class="ajax-link" href="source/admingroup.php" target="main"><span class="hidden-tablet"> 管理员分组</span></a></li>
+                        <li><a class="ajax-link" href="source/adminlog.php" target="main"><span class="hidden-tablet"> 管理员日志</span></a></li>
+                        </ul>
+                        <{/if}>
+                    </ul>
+                </div><!--/.well -->
+            </div><!--/span-->
+            <!-- left menu ends -->
+
+
+            <div id="content" class="span10">
+            <!-- content starts -->
+
+                <iframe id="main" name="main" frameborder="0" scrolling="no" width="100%" onload="this.height=main.document.body.scrollHeight"  src="<{if $smarty.request.ref}>source/<{$smarty.request.ref}><{else}>source/default.php<{/if}>"></iframe>
+
+
+                    <!-- content ends -->
+            </div><!--/#content.span10-->
+                </div><!--/fluid-row-->
+
+        <hr>
+
+        <div class="modal hide fade" id="myModal">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h3>Settings</h3>
+            </div>
+            <div class="modal-body">
+                <p>Here settings can be configured...</p>
+            </div>
+            <div class="modal-footer">
+                <a href="#" class="btn" data-dismiss="modal">Close</a>
+                <a href="#" class="btn btn-primary">Save changes</a>
+            </div>
+        </div>
+
+        <footer>
+            <p class="pull-left">&copy; <a href="#" target="_blank">暗黑修仙</a> 2013</p>
+            <p class="pull-right">Powered by: <a href="#">游世</a></p>
+        </footer>
+
+    </div><!--/.fluid-container-->
+
+    <!-- external javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <!-- jQuery -->
+    <script src="templates/new_js/jquery-1.7.2.min.js"></script>
+    <!-- jQuery UI -->
+    <script src="templates/new_js/jquery-ui-1.8.21.custom.min.js"></script>
+    <!-- transition / effect library -->
+    <script src="templates/new_js/bootstrap-transition.js"></script>
+    <!-- alert enhancer library -->
+    <script src="templates/new_js/bootstrap-alert.js"></script>
+    <!-- modal / dialog library -->
+    <script src="templates/new_js/bootstrap-modal.js"></script>
+    <!-- custom dropdown library -->
+    <script src="templates/new_js/bootstrap-dropdown.js"></script>
+    <!-- scrolspy library -->
+    <script src="templates/new_js/bootstrap-scrollspy.js"></script>
+    <!-- library for creating tabs -->
+    <script src="templates/new_js/bootstrap-tab.js"></script>
+    <!-- library for advanced tooltip -->
+    <script src="templates/new_js/bootstrap-tooltip.js"></script>
+    <!-- popover effect library -->
+    <script src="templates/new_js/bootstrap-popover.js"></script>
+    <!-- button enhancer library -->
+    <script src="templates/new_js/bootstrap-button.js"></script>
+    <!-- accordion library (optional, not used in demo) -->
+    <script src="templates/new_js/bootstrap-collapse.js"></script>
+    <!-- carousel slideshow library (optional, not used in demo) -->
+    <script src="templates/new_js/bootstrap-carousel.js"></script>
+    <!-- autocomplete library -->
+    <script src="templates/new_js/bootstrap-typeahead.js"></script>
+    <!-- tour library -->
+    <script src="templates/new_js/bootstrap-tour.js"></script>
+    <!-- library for cookie management -->
+    <script src="templates/new_js/jquery.cookie.js"></script>
+    <!-- calander plugin -->
+    <script src='templates/new_js/fullcalendar.min.js'></script>
+    <!-- data table plugin -->
+    <script src='templates/new_js/jquery.dataTables.min.js'></script>
+    <script src='templates/new_js/jquery-ui-timepicker-addon.js'></script>
+
+    <!-- chart libraries start -->
+    <script src="templates/new_js/excanvas.js"></script>
+    <script src="templates/new_js/jquery.flot.min.js"></script>
+    <script src="templates/new_js/jquery.flot.pie.min.js"></script>
+    <script src="templates/new_js/jquery.flot.stack.js"></script>
+    <script src="templates/new_js/jquery.flot.resize.min.js"></script>
+    <!-- chart libraries end -->
+
+    <!-- select or dropdown enhancer -->
+    <script src="templates/new_js/jquery.chosen.min.js"></script>
+    <!-- checkbox, radio, and file input styler -->
+    <script src="templates/new_js/jquery.uniform.min.js"></script>
+    <!-- plugin for gallery image view -->
+    <script src="templates/new_js/jquery.colorbox.min.js"></script>
+    <!-- rich text editor library -->
+    <script src="templates/new_js/jquery.cleditor.min.js"></script>
+    <!-- notification plugin -->
+    <script src="templates/new_js/jquery.noty.js"></script>
+    <!-- file manager library -->
+    <script src="templates/new_js/jquery.elfinder.min.js"></script>
+    <!-- star rating plugin -->
+    <script src="templates/new_js/jquery.raty.min.js"></script>
+    <!-- for iOS style toggle switch -->
+    <script src="templates/new_js/jquery.iphone.toggle.js"></script>
+    <!-- autogrowing textarea plugin -->
+    <script src="templates/new_js/jquery.autogrow-textarea.js"></script>
+    <!-- multiple file upload plugin -->
+    <script src="templates/new_js/jquery.uploadify-3.1.min.js"></script>
+    <!-- history.js for cross-browser state change on ajax -->
+    <script src="templates/new_js/jquery.history.js"></script>
+    <!-- application script for Charisma demo -->
+    <script src="templates/new_js/charisma.js"></script>
+</body>
+</html>

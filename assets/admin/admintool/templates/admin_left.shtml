@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Danh mục quản trị</title>
+<link href="../templates/css/admin.css" rel="stylesheet" type="text/css">
+<link href="../../common/admin_vi.css?v=20260711adminvi1" rel="stylesheet" type="text/css">
+<style type="text/css">
+#memu #click_this {
+    background-position:0% -42px;
+    background-color:#dfd;
+    font-weight:bold;
+}
+</style>
+<script type="text/javascript" src="../templates/js/jquery.js"></script>
+<script type="text/javascript" src="../../common/admin_vi.js?v=20260711adminvi1"></script>
+<script type="text/javascript"><!--
+//默认隐藏所有菜单项，显示第一个菜单项
+$(document).ready(function(){
+    var setmenu = $('#mainNav').find('ul').hide();
+    setmenu.eq(0).show();
+});
+
+//始终只显示一个菜单项
+$(document).ready(function(){
+    $('.main').each(function(){
+        $(this).click(function(){
+            if($(this).next('ul').css('display') == 'none'){
+                $('#mainNav').find('ul').hide();
+                $(this).next('ul').show();
+            }else{
+                $(this).next('ul').hide();
+            }
+        });
+    });
+});
+//凸显选中菜单变色功能
+$(function() {
+    $("#memu").find('a').each(function() {
+        var target = $(this).attr('target')
+        if (target && target == "main") {
+            $(this).click(function() {
+                $('#click_this').attr('id', '');
+                $(this).attr('id', 'click_this');
+            });
+        }
+    });
+});
+
+
+--></script>
+</head>
+<body>
+<div id="wrapper">
+<div id="memu">
+<ul class="menu" id="mainNav">
+            <{if $menu}>
+            <{foreach from=$menu item=kind key=key}>
+            <li>
+            <{foreach from=$kind item=parentkind key=k}>
+            <{if $k == 'parent' && $parentkind.show == 'YES'}>
+            <a class="main" style="cursor:pointer;"><span><{$parentkind.name}></span></a>
+            <{elseif $k == "son"}>
+                <ul>
+                <{foreach from=$parentkind item=sonkind key=sonk}>
+                <{if $sonkind.show == 'YES'}>
+                    <li><{if $sonkind.filename}><a href="<{$sonkind.filename}>" target="main"><{$sonkind.name}></a><{else}><{$sonkind.name}><{/if}></li>
+                    <{/if}>
+                <{/foreach}>
+                </ul>
+            <{else}>
+            <{php}>break;<{/php}>
+            <{/if}>
+            <{/foreach}>
+            </li>
+            <{/foreach}>
+            <{/if}>
+
+            <{if $userInfo.super == 'YES'}>
+            <li><a class="main" style="cursor:pointer;"><span>Công cụ quản trị viên</span></a>
+                <ul style="display:none;">
+                        <li><a href="./showadmin.php" target="main">Danh sách quản trị viên</a></li>
+                    <li><a href="./addadmin.php" target="main">Thêm quản trị viên</a></li>
+                    <li><a href="./admingroup.php" target="main">Nhóm quản trị viên</a></li>
+                    <li><a href="./adminlog.php" target="main">Nhật ký quản trị viên</a></li>
+                </ul>
+            </li>
+            <{/if}>
+        </ul>
+        </div>
+</div>
+</body>
+</html>

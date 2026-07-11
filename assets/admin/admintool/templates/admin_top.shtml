@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title><{$title}> - Quản trị máy chủ</title>
+        <script language=JavaScript><!--
+            function logout(){
+                if (confirm("<{$lang.top.exitmsg}>"))
+                top.location = "login.php?ac=logout";
+                return false;
+            }
+
+            function changeServer(str){
+                 var main = top.frames['main'];
+                 var path = main.location.pathname;
+                 var pathurl = path.replace("/oss/admintool/source/","");
+
+                 top.location = '?ac=host&host='+str+'&ref='+encodeURI(pathurl);
+            }
+            function changelang(str){
+                 if (confirm("<{$lang.top.togglelang}>")){
+                     top.location = '?ac=lang&lang='+str;
+                 }else{
+                     window.location.reload();
+                 }
+            }
+        --></script>
+        <base target="main">
+        <link href="../templates/css/admin.css" rel="stylesheet" type="text/css">
+        <link href="../../common/admin_vi.css?v=20260711adminvi1" rel="stylesheet" type="text/css">
+        <script src="../../common/admin_vi.js?v=20260711adminvi1" type="text/javascript"></script>
+    </head>
+    <body leftmargin="0" topmargin="0">
+        <div id="header"> <span style="position: absolute; right: 5px; top: 2px;"><!--
+            <{$lang.top.default_lang}>：
+            <select style="height: 22px;" name="select_server" onchange="changelang(this.value);">
+               <{foreach from=$language key=key item=i}>
+                  <option value="<{$key}>" <{if $default_lang == $key}>selected<{/if}>><{$i}></option>
+               <{/foreach}>
+            </select>
+            --><select style="height: 22px;" name="select_server" onchange="changeServer(this.value);">
+                  <option value="" selected><{$lang.top.toggleinfo}></option>
+               <{if $smarty.session.gid == 0 && $smarty.session.super == 'YES'}>
+                    <{foreach from=$serverlist key=k item=v}>
+                       <option disabled><{$k}></option>
+                       <{foreach from=$v key=sk item=s}>
+                        <option value="<{$s}>"> <{$sk}> <{$lang.info.server}></option>
+                       <{/foreach}>
+                    <{/foreach}>
+               <{else}>
+                    <{foreach from=$serverlist key=k item=v}>
+                    <option value="<{$v}>"> <{$k}> <{$lang.info.server}></option>
+                    <{/foreach}>
+               <{/if}>
+            </select>
+            <input type="button" onClick="javascript: logout()" class="bigBtn" value="Đăng xuất">
+            </span> Xin chào, <span style="color:#f60;">【<{$userInfo.username}>】</span>. Máy chủ: <strong>【<{$servername.sname}>】</strong>
+        </div>
+    </body>
+</html>

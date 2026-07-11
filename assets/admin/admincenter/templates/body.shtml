@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Trung tâm quản trị Âm Hắc Đồ Long OL</title>
+<link rel="stylesheet" type="text/css" href="templates/css/admin.css" />
+<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi1" />
+<script type="text/javascript" src="templates/js/jquery.js"></script>
+<script type="text/javascript" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+</head>
+<frameset rows="32,*" frameborder="NO" border="0" framespacing="0">
+    <frame noresize="noresize" frameborder="NO" name="topFrame"
+        scrolling="no" marginwidth="0" marginheight="0" target="main" src="index.php?c=index&f=top" />
+    <frameset cols="175,*" id="frame">
+        <frame name="leftFrame" noresize="noresize" marginwidth="0"    marginheight="0" frameborder="0" scrolling="auto" target="main"    src="index.php?c=index&f=menu" />
+        <frame name="main" marginwidth="0" marginheight="0" frameborder="0" scrolling="auto" target="_self" src="index.php?c=index&f=body" />
+    </frameset>
+    <noframes>
+        <body>
+        Trình duyệt của bạn không hỗ trợ khung quản trị.
+        </body>
+    </noframes>
+</frameset>
+
+
+
+</body>
+</html>

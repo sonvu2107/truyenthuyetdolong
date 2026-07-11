@@ -1,0 +1,58 @@
+html, body, input, select, textarea, button, table {
+    font-family: "Segoe UI", Arial, Tahoma, sans-serif !important;
+}
+
+body {
+    color: #243447;
+    font-size: 13px;
+}
+
+input, select, textarea, button, .btn, .bigBtn {
+    font-size: 13px !important;
+}
+
+input[type="text"], input[type="password"], select, textarea {
+    border-radius: 3px;
+}
+
+table td, table th {
+    line-height: 1.45;
+}
+
+#header {
+    font-size: 13px;
+}
+
+#memu a, #mainNav a {
+    font-size: 13px !important;
+    line-height: 1.5;
+}
+
+.vi-login-button {
+    min-width: 120px;
+    padding: 8px 18px;
+    border: 1px solid #216b9e;
+    border-radius: 4px;
+    color: #fff;
+    background: #2d86c1;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.vi-login-button:hover {
+    background: #246f9f;
+}
+
+.vi-login-title {
+    color: #1d4f73;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.vi-login-note {
+    margin-top: 8px;
+    color: #64748b;
+    font-size: 12px;
+    text-align: center;
+}

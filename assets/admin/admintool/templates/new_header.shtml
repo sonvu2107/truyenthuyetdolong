@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <title>Quản trị máy chủ Âm Hắc Đồ Long OL</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Charisma, a fully featured, responsive, HTML5, Bootstrap admin template.">
+    <meta name="author" content="Muhammad Usman">
+
+    <!-- The styles -->
+    <link id="bs-css" href="../templates/new_css/bootstrap-cerulean.css" rel="stylesheet">
+    <link href="../../common/admin_vi.css?v=20260711adminvi1" rel="stylesheet">
+    <script src="../../common/admin_vi.js?v=20260711adminvi1" type="text/javascript"></script>
+    <style type="text/css">
+      body {
+        padding-bottom: 40px;
+          min-height:1200px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+      .datepicker{
+        width:120px;
+    }
+    .ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+    .ui-timepicker-div dl { text-align: left; }
+    .ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+    .ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+    .ui-timepicker-div td { font-size: 90%; }
+    .ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+    </style>
+    <link href="../templates/new_css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="../templates/new_css/charisma-app.css" rel="stylesheet">
+    <link href="../templates/new_css/jquery-ui-1.8.21.custom.css" rel="stylesheet">
+    <link href='../templates/new_css/fullcalendar.css' rel='stylesheet'>
+    <link href='../templates/new_css/fullcalendar.print.css' rel='stylesheet'  media='print'>
+    <link href='../templates/new_css/chosen.css' rel='stylesheet'>
+    <link href='../templates/new_css/uniform.default.css' rel='stylesheet'>
+    <link href='../templates/new_css/colorbox.css' rel='stylesheet'>
+    <link href='../templates/new_css/jquery.cleditor.css' rel='stylesheet'>
+    <link href='../templates/new_css/jquery.noty.css' rel='stylesheet'>
+    <link href='../templates/new_css/noty_theme_default.css' rel='stylesheet'>
+    <link href='../templates/new_css/elfinder.min.css' rel='stylesheet'>
+    <link href='../templates/new_css/elfinder.theme.css' rel='stylesheet'>
+    <link href='../templates/new_css/jquery.iphone.toggle.css' rel='stylesheet'>
+    <link href='../templates/new_css/opa-icons.css' rel='stylesheet'>
+    <link href='../templates/new_css/uploadify.css' rel='stylesheet'>
+
+    <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- The fav icon -->
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+</head>
+<body>
