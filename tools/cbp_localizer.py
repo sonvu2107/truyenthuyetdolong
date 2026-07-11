@@ -245,6 +245,86 @@ def apply_catalog(data: bytes, catalog: dict) -> tuple[bytes, int, int]:
     return output, changed, node_count
 
 
+def load_datafix(path: Path) -> dict:
+    datafix = json.loads(path.read_text(encoding="utf-8"))
+    if (
+        datafix.get("format") != 1
+        or datafix.get("purpose") != "server-parity-datafix"
+        or not isinstance(datafix.get("changes"), dict)
+    ):
+        raise CbpError(
+            "Datafix phải có format=1, purpose=server-parity-datafix và changes"
+        )
+    return datafix
+
+
+def apply_datafix(data: bytes, datafix: dict) -> tuple[bytes, int, int]:
+    """Áp sửa dữ liệu có chủ đích, tách biệt hoàn toàn khỏi catalog dịch thuật."""
+    header, root, node_count = decode_cbp(data)
+    nodes = dict(walk_nodes(root))
+    changed = 0
+
+    for path, entry in datafix["changes"].items():
+        node = nodes.get(path)
+        if node is None:
+            raise CbpError(f"Datafix tham chiếu node không tồn tại: {path}")
+        if not isinstance(entry, dict):
+            raise CbpError(f"Mục datafix không hợp lệ: {path}")
+
+        kind = entry.get("kind")
+        source = entry.get("source")
+        target = entry.get("target")
+        if kind == "string":
+            if node.kind != 3 or not isinstance(source, str) or not isinstance(target, str):
+                raise CbpError(f"Datafix string không hợp lệ tại {path}")
+            current = node.text
+            if current != source:
+                raise CbpError(
+                    f"Giá trị gốc không khớp tại {path}: "
+                    f"CBP={current!r}, datafix={source!r}"
+                )
+            if current != target:
+                node.text = target
+                changed += 1
+            continue
+
+        if kind == "number":
+            if node.kind != 2 or not isinstance(source, (int, float)) or not isinstance(target, (int, float)):
+                raise CbpError(f"Datafix number không hợp lệ tại {path}")
+            current = struct.unpack("<d", node.raw_value)[0]
+            if current != float(source):
+                raise CbpError(
+                    f"Giá trị gốc không khớp tại {path}: "
+                    f"CBP={current!r}, datafix={source!r}"
+                )
+            if current != float(target):
+                node.raw_value = struct.pack("<d", float(target))
+                changed += 1
+            continue
+
+        if kind == "boolean":
+            if node.kind != 1 or not isinstance(source, bool) or not isinstance(target, bool):
+                raise CbpError(f"Datafix boolean không hợp lệ tại {path}")
+            current = bool(node.raw_value[0])
+            if current != source:
+                raise CbpError(
+                    f"Giá trị gốc không khớp tại {path}: "
+                    f"CBP={current!r}, datafix={source!r}"
+                )
+            if current != target:
+                node.raw_value = bytes((1 if target else 0,)) + node.raw_value[1:]
+                changed += 1
+            continue
+
+        raise CbpError(f"Kiểu datafix không được hỗ trợ tại {path}: {kind!r}")
+
+    output = encode_cbp(header, root)
+    _, _, checked_nodes = decode_cbp(output)
+    if checked_nodes != node_count:
+        raise CbpError("Số node thay đổi sau khi áp datafix")
+    return output, changed, checked_nodes
+
+
 def find_zip_name(names: list[str], wanted: str) -> str:
     matches = [name for name in names if name.lower() == wanted.lower()]
     if len(matches) != 1:
@@ -652,6 +732,24 @@ def command_apply_zip(args: argparse.Namespace) -> None:
     )
 
 
+def command_apply_datafix_zip(args: argparse.Namespace) -> None:
+    datafix = load_datafix(args.datafix)
+    file_name = datafix.get("file")
+    if not isinstance(file_name, str) or not file_name.lower().endswith(".cbp"):
+        raise CbpError("Datafix thiếu tên file CBP")
+    source = read_zip_entry(args.input_zip, file_name)
+    replacement, changed, nodes = apply_datafix(source, datafix)
+    write_zip_with_replacement(args.input_zip, args.output_zip, file_name, replacement)
+    check = read_zip_entry(args.output_zip, file_name)
+    _, _, checked_nodes = decode_cbp(check)
+    if checked_nodes != nodes:
+        raise CbpError("Số node thay đổi sau khi ghi ZIP datafix")
+    print(
+        f"Đã tạo {args.output_zip}: áp {changed} datafix vào {file_name}, "
+        f"kiểm lại {checked_nodes} node"
+    )
+
+
 def command_validate(args: argparse.Namespace) -> None:
     _, _, nodes = decode_cbp(args.input.read_bytes())
     print(f"CBP hợp lệ: {args.input} ({nodes} node)")
@@ -764,6 +862,15 @@ def build_parser() -> argparse.ArgumentParser:
     apply_zip.add_argument("--catalog", type=Path, required=True)
     apply_zip.add_argument("--output-zip", type=Path, required=True)
     apply_zip.set_defaults(func=command_apply_zip)
+
+    apply_datafix_zip = sub.add_parser(
+        "apply-datafix-zip",
+        help="Áp bản sửa dữ liệu server-parity có kiểm tra vào CBP trong ZIP",
+    )
+    apply_datafix_zip.add_argument("--input-zip", type=Path, required=True)
+    apply_datafix_zip.add_argument("--datafix", type=Path, required=True)
+    apply_datafix_zip.add_argument("--output-zip", type=Path, required=True)
+    apply_datafix_zip.set_defaults(func=command_apply_datafix_zip)
 
     validate = sub.add_parser("validate", help="Kiểm tra một file CBP")
     validate.add_argument("--input", type=Path, required=True)

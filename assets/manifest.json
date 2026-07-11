@@ -1,15 +1,15 @@
 {
-  "version": "20260711routefix1",
+  "version": "20260711routefix2",
   "files": [
     {
       "source": "assets/client_login.php",
       "target": "client_login.php",
-      "sha256": "CE00E3ABC994F4E42F495F775BBE651B430C678E564B11E1F6EC8D81D3F1E093"
+      "sha256": "18B3EA4C3A5DBDE555C1489DF397F09BE617FF2F1FC63F89DA8E4917F820C5D9"
     },
     {
       "source": "assets/client_shell.html",
       "target": "client_shell.html",
-      "sha256": "2AEC3BA8A7CF1F347A8110C95B6B54E9162A808BB67A127EA3D28C8153D4DBCD"
+      "sha256": "1C35F1B5D8433D7B9433EB3500718D95DB04DCB730D1D6EF662A6F81BA221C0C"
     },
     {
       "source": "assets/client_frame.png",
@@ -34,17 +34,22 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "33E6948512C563A1EF424EFE23A474C5DA25DFE52761F9C01F92B54BC712C6E1"
+      "sha256": "88C51CC2AAC49C5AE273C4225E199A15EF094DED34F622CD8E5E80669DD9CABF"
     },
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "37FA29BC1AA16875DE6561096B264B846785471662A73D1300A2331D395138DC"
+      "sha256": "694340C6215AFEDC1ACBAE1234591740CE61755CE134098B50567612D14AF8AD"
     },
     {
       "source": "assets/game/djrm.php",
       "target": "game/djrm.php",
       "sha256": "4EFA4520D4429242E1017E7794DBAF70668C56B7D72CCF43C25D8962AD07E108"
+    },
+    {
+      "source": "launcher/AHTL_Launcher_Fixed.exe",
+      "target": "download/AHTL_Launcher_Fixed.exe",
+      "sha256": "3D8348A39989F02E03D693A507A91D9187B1814B0EEACD54B4A3EA40F47E64D7"
     }
   ]
 }

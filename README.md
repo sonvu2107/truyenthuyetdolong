@@ -28,7 +28,9 @@ powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 
 Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database. Cách này không cần cài Git trên VPS cũ.
 
-Phiên bản `20260711routefix1` giữ nền login, chế độ phóng to gameplay, 733 chuỗi kỹ năng, 5.285 chuỗi vật phẩm và 405 chuỗi nhiệm vụ hiển thị. Bản này khôi phục 288 khóa scene/NPC cùng payload của 106 nội dung có liên kết `/M`, nên tự tìm đường và trả nhiệm vụ tiếp tục dùng đúng định danh tiếng Trung của dữ liệu môi trường. Guard mới chặn việc dịch nhầm khóa định tuyến ở các lần build sau. `game/djrm.php` cũng được đồng bộ để Flash chạy `wmode=opaque` đúng dạng param, không phủ nút toàn màn hình của shell.
+Phiên bản `20260711routefix2` giữ nền login, chế độ phóng to gameplay, 733 chuỗi kỹ năng, 5.285 chuỗi vật phẩm và 405 chuỗi nhiệm vụ hiển thị. Bản này khôi phục 288 khóa scene/NPC cùng payload của 106 nội dung có liên kết `/M`, đồng thời đồng bộ riêng nhiệm vụ 494 và 35 với chuỗi hiện tại của LogicServer: Lính Gác Rogue → Đại Thiên Sứ Tyrael → Lính Đánh Thuê Rogue. Guard vẫn chặn việc dịch nhầm khóa định tuyến ở các lần build sau; sửa lệch phiên bản máy chủ phải đi qua catalog `server-parity-datafix` riêng. `game/djrm.php` cũng được đồng bộ để Flash chạy `wmode=opaque` đúng dạng param, không phủ nút toàn màn hình của shell.
+
+Nút toàn màn hình trong shell gọi `window.external.ToggleFullscreen()` khi chạy bằng `launcher/AHTL_Launcher_Fixed.exe`. Launcher .NET Framework x86 này giữ tương thích Flash ActiveX 32-bit, chuyển cửa sổ native sang `FormBorderStyle.None + Maximized`, hỗ trợ F11/Esc và khôi phục đúng kích thước cũ. Build lại bằng `powershell -ExecutionPolicy Bypass -File launcher/Build-Launcher.ps1`.
 
 Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
 
@@ -39,5 +41,7 @@ Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều 
 `tools/swf_lang_localizer.py` đọc `ClientLang.txt` cùng các catalog bổ sung, kiểm hình dạng mảng và chỉ ghép theo đúng tên biến/chỉ số. `tools/translate_gameframe_hardcoded.py` lập catalog cho chuỗi nằm ngoài `lang.ZH_CN`; hai script audit kiểm placeholder, HTML/route kỹ thuật, chuỗi còn Hán tự và đối chiếu lại bytecode đã biên dịch. Ba lớp không thể tái biên dịch ổn định được ghi rõ trong `translations/gameframe-hardcoded-compile-exclusions.json` và giữ nguyên bytecode gốc.
 
 Lệnh `patch-bool-zip` sửa boolean có kiểm tra giá trị gốc. Bản hiện tại dùng lệnh này cho `stdquest.cbp:1.autoRun`, đồng thời xác nhận node `1.id` là nhiệm vụ 485 trước khi đóng gói.
+
+Lệnh `apply-datafix-zip` chỉ nhận catalog có `purpose=server-parity-datafix`; nó kiểm tra giá trị gốc của từng node string/number/boolean trước khi sửa. Bản vá nhiệm vụ hiện tại nằm tại `translations/stdquest.server-parity.datafix.json`, tách biệt khỏi catalog dịch để không vô hiệu hóa guard khóa scene/NPC.
 
 Patch nguồn của phần nhận diện cùng map nằm tại `patches/GameFrame-LocalPlayer-same-scene-id.patch`. File `GameFrame.swf` được xuất lại lớp `Logic.Actors.ActorClass.LocalPlayer` để xác minh điều kiện `scenceid == GameMap.defaultMap.mapId` đã được biên dịch vào SWF.

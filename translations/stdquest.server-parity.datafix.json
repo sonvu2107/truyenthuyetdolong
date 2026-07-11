@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "purpose": "server-parity-datafix",
+  "file": "stdquest.cbp",
+  "description": "Đồng bộ nhiệm vụ 494 và 35 với LogicServer đang chạy; đây là sửa dữ liệu định tuyến, không phải dịch khóa scene/NPC.",
+  "changes": {
+    "8.comp.npc": {
+      "kind": "string",
+      "source": "罗格佣兵",
+      "target": "大天使泰瑞尔"
+    },
+    "8.content": {
+      "kind": "string",
+      "source": "找到前方的罗格佣兵.",
+      "target": "Tìm Đại Thiên Sứ phía trước."
+    },
+    "29.name": {
+      "kind": "string",
+      "source": "回到营地",
+      "target": "Rogue Dung Binh"
+    },
+    "29.parentid": {
+      "kind": "number",
+      "source": 519,
+      "target": 494
+    },
+    "29.showTimerBox": {
+      "kind": "boolean",
+      "source": true,
+      "target": false
+    },
+    "29.prom.scene": {
+      "kind": "string",
+      "source": "石块荒野",
+      "target": "群魔堡垒"
+    },
+    "29.prom.npc": {
+      "kind": "string",
+      "source": "罗格智者",
+      "target": "大天使泰瑞尔"
+    },
+    "29.comp.scene": {
+      "kind": "string",
+      "source": "罗格营地",
+      "target": "群魔堡垒"
+    },
+    "29.comp.npc": {
+      "kind": "string",
+      "source": "大天使泰瑞尔",
+      "target": "罗格佣兵"
+    },
+    "29.content": {
+      "kind": "string",
+      "source": "Tiêu diệt quái vật xong trả lời <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>.",
+      "target": "Tìm Lính Đánh Thuê Rogue phía trước."
+    }
+  }
+}

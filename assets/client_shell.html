@@ -223,6 +223,18 @@ body.game-mode #fullscreenButton {
 	}
 
 	function toggleFullscreen() {
+		// Launcher x86 mới cung cấp bridge native này. Cửa sổ host mới là lớp
+		// sở hữu viền/kích thước, nên đây là đường toàn màn hình đáng tin cậy.
+		try {
+			var nativeState = window.external.ToggleFullscreen();
+			var button = document.getElementById("fullscreenButton");
+			if (button) {
+				button.innerHTML = nativeState ? "&#x26F6; Thu nhỏ" : "&#x26F6; Toàn màn hình";
+			}
+			setTimeout(syncMode, 50);
+			return;
+		} catch (ignoreNativeBridge) {}
+
 		var root = document.documentElement;
 		var active = document.fullscreenElement || document.webkitFullscreenElement ||
 			document.mozFullScreenElement || document.msFullscreenElement;
@@ -282,7 +294,7 @@ body.game-mode #fullscreenButton {
 <body class="launcher-mode" scroll="no">
 	<div id="launcherStage">
 		<div id="launcherFrame"></div>
-		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260711routefix1" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260711routefix2" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 	</div>
 	<button id="fullscreenButton" type="button" title="Phóng game ra toàn màn hình">&#x26F6; Toàn màn hình</button>
 </body>
