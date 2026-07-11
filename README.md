@@ -15,6 +15,12 @@ Không đưa `wwwroot` nguyên trạng lên Git. Các file đó chứa thông ti
 
 Phiên bản `20260711adminvi1` Việt hóa trang đăng nhập, thanh điều hướng, danh mục vận hành và các nhãn phổ biến của hai trang quản trị. Bộ dịch dùng một lớp giao diện chung tại `oss/common/admin_vi.js`, vì vậy không thay đổi truy vấn, lệnh GM hoặc dữ liệu người chơi. Đăng nhập an toàn từ VPS qua `http://127.0.0.1:81/oss/admincenter/`; địa chỉ công khai chỉ nên dùng sau khi đã bổ sung HTTPS hoặc giới hạn IP.
 
+Chỉ triển khai phần admin trên máy có checkout repo:
+
+```powershell
+powershell.exe -ExecutionPolicy Bypass -File scripts\Deploy-AdminVietnamese.ps1 -WebRoot C:\GPHANTL\server\GPHweb\wwwroot
+```
+
 ## Cập nhật từ máy có Git
 
 ```powershell

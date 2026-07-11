@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="templates/css/admin.css" />
 <link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi1" />
 <script type="text/javascript" src="templates/js/jquery.js"></script>
-<script type="text/javascript" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi1"></script>
 <style type="text/css">
    body{background:url(templates/images/menu_bg2.jpg);}
 </style>

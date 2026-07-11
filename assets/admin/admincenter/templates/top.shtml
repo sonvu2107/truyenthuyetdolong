@@ -17,7 +17,7 @@
 <script type="text/javascript" src="templates/js/jquery.idTabs.min.js"></script>
 <script type="text/javascript" src="templates/js/jquery.json.js"></script>
 <script type="text/javascript" src="templates/js/spider.js"></script>
-<script type="text/javascript" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi1"></script>
 </head>
 
 <div id="wrapper">

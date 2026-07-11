@@ -8,7 +8,7 @@
     <!-- The styles -->
     <link id="bs-css" href="../templates/new_css/bootstrap-cerulean.css" rel="stylesheet">
     <link href="../../common/admin_vi.css?v=20260711adminvi1" rel="stylesheet">
-    <script src="../../common/admin_vi.js?v=20260711adminvi1" type="text/javascript"></script>
+    <script src="../../common/admin_vi.js?v=20260711adminvi1" type="text/javascript" charset="utf-8"></script>
     <style type="text/css">
       body {
         padding-bottom: 40px;
