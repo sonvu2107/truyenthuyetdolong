@@ -54,7 +54,7 @@ namespace AHTLLauncherFixed
             Controls.Add(browser);
 
             KeyDown += LauncherKeyDown;
-            Shown += delegate { browser.Navigate(ReadLoginUrl()); };
+            Shown += delegate { browser.Navigate(AddCacheBuster(ReadLoginUrl())); };
         }
 
         private static Icon LoadLauncherIcon()
@@ -81,6 +81,12 @@ namespace AHTLLauncherFixed
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             return "http://180.93.244.31:81/client_login.php";
+        }
+
+        private static string AddCacheBuster(string url)
+        {
+            string separator = url.Contains("?") ? "&" : "?";
+            return url + separator + "_cb=" + DateTime.UtcNow.Ticks;
         }
 
         private static IDictionary<string, string> ReadIni(string path)

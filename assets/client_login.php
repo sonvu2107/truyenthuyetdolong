@@ -1,3 +1,6 @@
 <?php
-header('Location: /client_shell.html?v=20260711short2');
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+header('Pragma: no-cache');
+header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');
+header('Location: /client_shell.html?v=20260711launchfix1');
 exit;
