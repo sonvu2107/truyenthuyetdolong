@@ -1,0 +1,891 @@
+{
+  "format": 1,
+  "file": "stdquest.cbp",
+  "description": "Việt hóa từ các file Lua gốc và tiếng Việt theo cùng khóa",
+  "translations": {
+    "0.name": {
+      "source": "英雄降临",
+      "target": "Anh Hùng Hàng Lâm"
+    },
+    "1.name": {
+      "source": "营地危机",
+      "target": "Doanh Địa Nguy Cơ"
+    },
+    "10.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "10.name": {
+      "source": "骷髅恶魔",
+      "target": "Khô Lâu Ác Ma"
+    },
+    "10.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "11.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "11.name": {
+      "source": "横扫千军",
+      "target": "Hoành Tảo Thiên Quân"
+    },
+    "11.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "111.name": {
+      "source": "强大战力",
+      "target": "Cường Đại Chiến Lực"
+    },
+    "113.comp.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "113.name": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "114.comp.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "114.name": {
+      "source": "清理高地",
+      "target": "Thanh Lý Cao Địa"
+    },
+    "114.prom.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "115.name": {
+      "source": "战争物资",
+      "target": "Chiến Tranh Vật Tư"
+    },
+    "115.prom.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "116.name": {
+      "source": "收集草药",
+      "target": "Thu Thập Thảo Dược"
+    },
+    "117.name": {
+      "source": "清理魔洞",
+      "target": "Thanh Lý Ma Động"
+    },
+    "118.name": {
+      "source": "回去屠龙城",
+      "target": "Về Đồ Long Thành"
+    },
+    "119.name": {
+      "source": "强者之路",
+      "target": "Cường Giả Chi Lộ"
+    },
+    "12.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "12.name": {
+      "source": "遗忘骑士",
+      "target": "Di Vong Kỵ Sĩ"
+    },
+    "12.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "12.target.0.location.entityName": {
+      "source": "遗忘骑士",
+      "target": "Di Vong Kỵ Sĩ"
+    },
+    "120.name": {
+      "source": "你是主角",
+      "target": "Ngươi Là Chủ Giác"
+    },
+    "121.name": {
+      "source": "勇者降临",
+      "target": "Dũng Giả Hàng Lâm"
+    },
+    "122.name": {
+      "source": "实力小试",
+      "target": "Thực Lực Tiểu Thí"
+    },
+    "124.name": {
+      "source": "英雄救美",
+      "target": "Anh Hùng Cứu Mỹ"
+    },
+    "125.name": {
+      "source": "入洞探查",
+      "target": "Nhập Động Tham Tra"
+    },
+    "126.name": {
+      "source": "骷髅战士",
+      "target": "Khô Lâu Chiến Sĩ"
+    },
+    "126.target.0.location.entityName": {
+      "source": "骷髅战士",
+      "target": "Khô Lâu Chiến Sĩ"
+    },
+    "129.name": {
+      "source": "昔日龙卫",
+      "target": "Tích Nhật Long Vệ"
+    },
+    "129.target.0.location.entityName": {
+      "source": "骷髅战将",
+      "target": "Khô Lâu Chiến Tướng"
+    },
+    "13.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "13.name": {
+      "source": "邪恶魔子",
+      "target": "Tà Ác Ma Tử"
+    },
+    "13.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "13.target.0.location.entityName": {
+      "source": "邪恶魔子",
+      "target": "Tà Ác Ma Tử"
+    },
+    "130.name": {
+      "source": "龙卫传说",
+      "target": "Long Vệ Truyền Thuyết"
+    },
+    "14.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "14.name": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "14.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "140.name": {
+      "source": "食人花魔",
+      "target": "Thực Nhân Hoa Ma"
+    },
+    "144.name": {
+      "source": "初临大陆",
+      "target": "Sơ Lâm Đại Lục"
+    },
+    "145.name": {
+      "source": "幼龙之灾",
+      "target": "Ấu Long Chi Tai"
+    },
+    "15.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "15.name": {
+      "source": "发光之体",
+      "target": "Phát Quang Chi Thể"
+    },
+    "15.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "16.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "16.name": {
+      "source": "邪恶之母",
+      "target": "Tà Ác Chi Mẫu"
+    },
+    "16.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "16.target.0.location.entityName": {
+      "source": "邪恶之母",
+      "target": "Tà Ác Chi Mẫu"
+    },
+    "17.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "17.name": {
+      "source": "黑暗骑士",
+      "target": "Hắc Ám Kỵ Sĩ"
+    },
+    "17.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "17.target.0.location.entityName": {
+      "source": "黑暗骑士",
+      "target": "Hắc Ám Kỵ Sĩ"
+    },
+    "173.name": {
+      "source": "赏金任务",
+      "target": "Thưởng Kim Nhiệm Vụ"
+    },
+    "173.target.2.location.entityName": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "174.name": {
+      "source": "狩猎任务",
+      "target": "Thú Liệp Nhiệm Vụ"
+    },
+    "174.target.2.location.entityName": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "175.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "176.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "177.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "178.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "179.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "18.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "18.name": {
+      "source": "挑战恶魔",
+      "target": "Khiêu Chiến Ác Ma"
+    },
+    "18.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "180.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "181.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "182.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "183.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "184.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "185.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "186.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "187.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "188.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "189.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "19.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "19.name": {
+      "source": "骷髅战将",
+      "target": "Khô Lâu Chiến Tướng"
+    },
+    "19.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "19.target.0.location.entityName": {
+      "source": "骷髅战将",
+      "target": "Khô Lâu Chiến Tướng"
+    },
+    "190.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "191.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "192.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "193.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "194.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "195.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "196.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "197.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "198.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "199.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "2.name": {
+      "source": "恶魔隐患",
+      "target": "Ác Ma Ẩn Hoạn"
+    },
+    "20.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "20.name": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "20.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "200.name": {
+      "source": "新的征程",
+      "target": "Tân Đích Chinh Trình"
+    },
+    "201.name": {
+      "source": "添加一个好友",
+      "target": "Thêm Một Hảo Hữu"
+    },
+    "202.name": {
+      "source": "强化三次装备",
+      "target": "Cường Hóa 3 Lần Trang Bị"
+    },
+    "203.name": {
+      "source": "提升一次坐骑",
+      "target": "Đề Thăng 1 Lần Thú Cưỡi"
+    },
+    "204.name": {
+      "source": "创建一次队伍",
+      "target": "Tạo 1 Lần Tổ Đội"
+    },
+    "205.name": {
+      "source": "完成一次阳光沙滩",
+      "target": "Hoàn Thành 1 Lần Dương Quang Sa Than"
+    },
+    "206.name": {
+      "source": "鉴定一次装备",
+      "target": "Giám Định 1 Lần Trang Bị"
+    },
+    "21.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "21.name": {
+      "source": "空间裂缝",
+      "target": "Không Gian Liệt Phùng"
+    },
+    "21.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "22.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "22.name": {
+      "source": "神秘奶牛关",
+      "target": "Thần Bí Nãi Ngưu Quan"
+    },
+    "22.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "23.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "23.name": {
+      "source": "平生天敌",
+      "target": "Bình Sinh Thiên Địch"
+    },
+    "23.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "24.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "24.name": {
+      "source": "污染荒野",
+      "target": "Ô Nhiễm Hoang Dã"
+    },
+    "24.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "25.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "25.name": {
+      "source": "神秘骑士",
+      "target": "Thần Bí Kỵ Sĩ"
+    },
+    "25.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "26.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "26.name": {
+      "source": "精英怪物",
+      "target": "Tinh Anh Quái Vật"
+    },
+    "26.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "27.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "27.name": {
+      "source": "高大戈登",
+      "target": "Cao Đại Gordon"
+    },
+    "27.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "28.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "28.name": {
+      "source": "遗忘之塔",
+      "target": "Di Vong Chi Tháp"
+    },
+    "28.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "29.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "3.name": {
+      "source": "智者凯恩",
+      "target": "Trí Giả Cain"
+    },
+    "30.name": {
+      "source": "命运曙光",
+      "target": "Mệnh Vận Thự Quang"
+    },
+    "31.name": {
+      "source": "邪恶洞穴",
+      "target": "Tà Ác Động Huyệt"
+    },
+    "32.name": {
+      "source": "沉沦一族",
+      "target": "Trầm Luân Nhất Tộc"
+    },
+    "33.name": {
+      "source": "修女埋骨",
+      "target": "Tu Nữ Mai Cốt"
+    },
+    "34.name": {
+      "source": "利爪爬怪",
+      "target": "Lợi Trảo Ba Quái"
+    },
+    "34.target.0.location.entityName": {
+      "source": "利爪爬怪",
+      "target": "Lợi Trảo Ba Quái"
+    },
+    "35.name": {
+      "source": "噬魂老鼠",
+      "target": "Phệ Hồn Lão Thử"
+    },
+    "36.name": {
+      "source": "堕落罗格",
+      "target": "Đọa Lạc Rogue"
+    },
+    "37.name": {
+      "source": "魔神浩劫",
+      "target": "Ma Thần Hạo Kiếp"
+    },
+    "38.name": {
+      "source": "毁灭王座",
+      "target": "Hủy Diệt Vương Tọa"
+    },
+    "39.name": {
+      "source": "铁匠恰西",
+      "target": "Thiết Tượng Charsi"
+    },
+    "4.name": {
+      "source": "首领卡夏",
+      "target": "Thủ Lĩnh Kashya"
+    },
+    "40.name": {
+      "source": "熟人相见",
+      "target": "Thục Nhân Tương Kiến"
+    },
+    "41.name": {
+      "source": "库拉斯特",
+      "target": "Kurast"
+    },
+    "42.name": {
+      "source": "进入崔凡克",
+      "target": "Tiến Vào Travincal"
+    },
+    "43.name": {
+      "source": "嗜血恶魔",
+      "target": "Thí Huyết Ác Ma"
+    },
+    "43.target.0.location.entityName": {
+      "source": "嗜血恶魔",
+      "target": "Thí Huyết Ác Ma"
+    },
+    "44.name": {
+      "source": "出手掩护",
+      "target": "Xuất Thủ Yểm Hộ"
+    },
+    "45.name": {
+      "source": "青火恶魔",
+      "target": "Thanh Hỏa Ác Ma"
+    },
+    "45.target.0.location.entityName": {
+      "source": "青火恶魔",
+      "target": "Thanh Hỏa Ác Ma"
+    },
+    "46.name": {
+      "source": "嗜血蝙蝠",
+      "target": "Thí Huyết Biên Bức"
+    },
+    "46.target.0.location.entityName": {
+      "source": "嗜血蝙蝠",
+      "target": "Thí Huyết Biên Bức"
+    },
+    "47.name": {
+      "source": "祖玛之力",
+      "target": "Zuma Chi Lực"
+    },
+    "48.comp.npc": {
+      "source": "猎魔勇士",
+      "target": "Liệp Ma Dũng Sĩ"
+    },
+    "48.name": {
+      "source": "猎魔勇士",
+      "target": "Liệp Ma Dũng Sĩ"
+    },
+    "49.name": {
+      "source": "采集草药",
+      "target": "Thái Tập Thảo Dược"
+    },
+    "49.prom.npc": {
+      "source": "猎魔勇士",
+      "target": "Liệp Ma Dũng Sĩ"
+    },
+    "5.name": {
+      "source": "女巫阿卡拉",
+      "target": "Nữ Vu Akara"
+    },
+    "50.name": {
+      "source": "光明之力",
+      "target": "Quang Minh Chi Lực"
+    },
+    "51.name": {
+      "source": "尸虫源头",
+      "target": "Thi Trùng Nguyên Đầu"
+    },
+    "52.name": {
+      "source": "鲁高因法师",
+      "target": "Lut Gholein Pháp Sư"
+    },
+    "53.comp.npc": {
+      "source": "亚马逊战士",
+      "target": "Amazon Chiến Sĩ"
+    },
+    "53.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "53.name": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "54.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "54.name": {
+      "source": "地狱之门",
+      "target": "Địa Ngục Chi Môn"
+    },
+    "54.prom.npc": {
+      "source": "亚马逊战士",
+      "target": "Amazon Chiến Sĩ"
+    },
+    "54.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "55.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "55.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "56.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "56.name": {
+      "source": "邪恶爬怪",
+      "target": "Tà Ác Ba Quái"
+    },
+    "56.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "56.target.0.location.entityName": {
+      "source": "邪恶爬怪",
+      "target": "Tà Ác Ba Quái"
+    },
+    "57.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "57.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "58.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "58.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "59.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "59.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "6.name": {
+      "source": "沉沦恶魔",
+      "target": "Trầm Luân Ác Ma"
+    },
+    "60.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "60.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "61.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "64.comp.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "65.comp.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "65.prom.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "66.comp.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "66.prom.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "67.prom.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "7.name": {
+      "source": "永除后患",
+      "target": "Vĩnh Trừ Hậu Hoạn"
+    },
+    "73.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "73.name": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "74.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "74.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "75.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "75.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "76.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "76.name": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "76.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "76.target.0.location.entityName": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "77.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "77.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "78.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "78.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "79.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "79.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "8.comp.npc": {
+      "source": "罗格佣兵",
+      "target": "Rogue Dung Binh"
+    },
+    "8.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "8.name": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "80.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "80.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "81.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "81.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "82.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "89.comp.npc": {
+      "source": "罗格安雅",
+      "target": "Rogue Anya"
+    },
+    "9.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "9.name": {
+      "source": "支援前方",
+      "target": "Chi Viện Tiền Phương"
+    },
+    "9.prom.npc": {
+      "source": "罗格佣兵",
+      "target": "Rogue Dung Binh"
+    },
+    "9.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "90.prom.npc": {
+      "source": "罗格安雅",
+      "target": "Rogue Anya"
+    }
+  },
+  "metadata": {
+    "source_keys": 500,
+    "matched_and_changed": 219,
+    "missing_target_keys": [],
+    "ambiguous_source_values": [],
+    "duplicate_source_keys": [],
+    "duplicate_target_keys": []
+  }
+}

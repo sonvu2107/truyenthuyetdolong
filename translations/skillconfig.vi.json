@@ -13,7 +13,7 @@
     },
     "0.skillSubLevel.0.desc": {
       "source": "被动技能；提高准确值3点.",
-      "target": "Thử nghiệm"
+      "target": "Kỹ năng bị động: tăng 3 điểm chính xác."
     },
     "1.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
@@ -25,15 +25,15 @@
     },
     "1.skillSubLevel.0.desc": {
       "source": "被动技能；提高准确值3点.",
-      "target": "Kỹ năng bị động; Tăng 3 điểm chính xác, tăng 10 điểm tốc độ tấn công."
+      "target": "Kỹ năng bị động: tăng 3 điểm chính xác."
     },
     "1.skillSubLevel.1.desc": {
       "source": "被动技能；提高准确值5点.",
-      "target": "Kỹ năng bị động; Tăng 5 điểm chính xác, tăng 20 điểm tốc độ tấn công."
+      "target": "Kỹ năng bị động: tăng 5 điểm chính xác."
     },
     "1.skillSubLevel.2.desc": {
       "source": "被动技能；提高准确值8点.",
-      "target": "Kỹ năng bị động; Tăng 8 điểm chính xác, tăng 30 điểm tốc độ tấn công."
+      "target": "Kỹ năng bị động: tăng 8 điểm chính xác."
     },
     "10.desc": {
       "source": "<(c0xFF00FFFF)17级可以学习,技能书可以通过主线任务或者在书店购买。>",
@@ -661,15 +661,15 @@
     },
     "159.skillSubLevel.0.desc": {
       "source": "增加自身移动速度30与自身物理最大攻击力2%,持续时间10秒!",
-      "target": "Tăng 50 tốc độ di chuyển và 2% tấn công vật lý tối đa cho bản thân, kéo dài 6 giây!"
+      "target": "Tăng 30 tốc độ di chuyển và 2% Công vật lý tối đa, kéo dài 10 giây."
     },
     "159.skillSubLevel.1.desc": {
       "source": "增加自身移动速度50与自身物理最大攻击力4%,持续时间10秒!",
-      "target": "Tăng 100 tốc độ di chuyển và 4% tấn công vật lý tối đa cho bản thân, kéo dài 6 giây!"
+      "target": "Tăng 50 tốc độ di chuyển và 4% Công vật lý tối đa, kéo dài 10 giây."
     },
     "159.skillSubLevel.2.desc": {
       "source": "增加自身移动速度80与自身物理最大攻击力6%,持续时间10秒!",
-      "target": "Tăng 150 tốc độ di chuyển và 6% tấn công vật lý tối đa cho bản thân, kéo dài 6 giây!"
+      "target": "Tăng 80 tốc độ di chuyển và 6% Công vật lý tối đa, kéo dài 10 giây."
     },
     "16.desc": {
       "source": "<(c0xFF00FFFF)35级可以学习,技能书可以通过消灭25-34级的怪物获得或者在书店购买。><(c0xFF00FF00)至尊VIP用户可以免费激活技能。>",
@@ -817,7 +817,7 @@
     },
     "170.desc": {
       "source": "兽魂品质达到<(c0xFF00FFFF)1级>时自动激活。",
-      "target": "Phẩm chất Thú Hồn đạt <(c0xFF00FFFF)Ưu Lương 100%> tự động kích hoạt."
+      "target": "Tự mở khi phẩm chất Thú Hồn đạt <(c0xFF00FFFF)cấp 1>."
     },
     "170.name": {
       "source": "万兽守护(兽魂)",
@@ -837,7 +837,7 @@
     },
     "171.desc": {
       "source": "兽魂品质达到<(c0xFF00FFFF)2级>时自动激活。",
-      "target": "Phẩm chất Thú Hồn đạt <(c0xFF00FFFF)Trác Việt 100%> tự động kích hoạt."
+      "target": "Tự mở khi phẩm chất Thú Hồn đạt <(c0xFF00FFFF)cấp 2>."
     },
     "171.name": {
       "source": "嗜血本能(兽魂)",
@@ -849,15 +849,15 @@
     },
     "171.skillSubLevel.1.desc": {
       "source": "被动：增加自身攻击力3%",
-      "target": "Bị động: Tăng 6% tấn công của bản thân"
+      "target": "Bị động: tăng 3% Công bản thân."
     },
     "171.skillSubLevel.2.desc": {
       "source": "被动：增加自身攻击力3%",
-      "target": "Bị động: Tăng 10% tấn công của bản thân"
+      "target": "Bị động: tăng 3% Công bản thân."
     },
     "172.desc": {
       "source": "兽魂品质达到<(c0xFF00FFFF)3级>时可激活。",
-      "target": "Phẩm chất Thú Hồn đạt <(c0xFF00FFFF)Hi Hữu 100%> có thể kích hoạt."
+      "target": "Mở khi phẩm chất Thú Hồn đạt <(c0xFF00FFFF)cấp 3>."
     },
     "172.name": {
       "source": "兽王之躯(兽魂)",
@@ -877,7 +877,7 @@
     },
     "173.desc": {
       "source": "兽魂品质达到<(c0xFF00FFFF)1级>时自动激活。",
-      "target": "Kỹ năng Thú Hồn"
+      "target": "Tự mở khi phẩm chất Thú Hồn đạt <(c0xFF00FFFF)cấp 1>."
     },
     "173.name": {
       "source": "万兽守护(兽魂)",
@@ -885,7 +885,7 @@
     },
     "174.desc": {
       "source": "兽魂品质达到<(c0xFF00FFFF)1级>时自动激活。",
-      "target": "Kỹ năng Thú Hồn"
+      "target": "Tự mở khi phẩm chất Thú Hồn đạt <(c0xFF00FFFF)cấp 1>."
     },
     "174.name": {
       "source": "万兽守护(兽魂)",
@@ -897,7 +897,7 @@
     },
     "175.name": {
       "source": "世界之石炸弹",
-      "target": "Kỹ năng Thú Hồn"
+      "target": "Bom Đá Thế Giới"
     },
     "176.desc": {
       "source": "赛马技能",
@@ -1041,15 +1041,15 @@
     },
     "19.skillSubLevel.0.desc": {
       "source": "根据已经佩戴的材料,让目标进入持续减血状态与减防御状态.<(c0xFFFF0000)如果没有装备任何材料,这个技能不会有任何效果.>施法材料可以在杂货商处购买.",
-      "target": "Dựa trên tài liệu đã trang bị, khiến mục tiêu rơi vào trạng thái liên tục mất máu và giảm phòng ngự.<(c0xFFFF0000)Nếu không trang bị tài liệu nào, kỹ năng này sẽ không có hiệu quả.>Tài liệu thi triển có thể mua ở chỗ Thương Nhân Tạp Hóa."
+      "target": "Dùng đạo cụ đã trang bị để khiến mục tiêu mất HP liên tục và giảm Thủ.<(c0xFFFF0000)Không trang bị đạo cụ thì kỹ năng không có hiệu lực.>Đạo cụ thi triển mua tại Thương Nhân Tạp Hóa."
     },
     "19.skillSubLevel.1.desc": {
       "source": "根据已经佩戴的材料,让目标进入持续减血状态与减防御状态.<(c0xFFFF0000)如果没有装备任何材料,这个技能不会有任何效果.>施法材料可以在杂货商处购买.",
-      "target": "Dựa trên tài liệu đã trang bị, khiến mục tiêu rơi vào trạng thái liên tục mất máu và giảm phòng ngự.<(c0xFFFF0000)Nếu không trang bị tài liệu nào, kỹ năng này sẽ không có hiệu quả.>Tài liệu thi triển có thể mua ở chỗ Thương Nhân Tạp Hóa."
+      "target": "Dùng đạo cụ đã trang bị để khiến mục tiêu mất HP liên tục và giảm Thủ.<(c0xFFFF0000)Không trang bị đạo cụ thì kỹ năng không có hiệu lực.>Đạo cụ thi triển mua tại Thương Nhân Tạp Hóa."
     },
     "19.skillSubLevel.2.desc": {
       "source": "根据已经佩戴的材料,让目标进入持续减血状态与减防御状态.<(c0xFFFF0000)如果没有装备任何材料,这个技能不会有任何效果.>施法材料可以在杂货商处购买.",
-      "target": "Dựa trên tài liệu đã trang bị, khiến mục tiêu rơi vào trạng thái liên tục mất máu và giảm phòng ngự.<(c0xFFFF0000)Nếu không trang bị tài liệu nào, kỹ năng này sẽ không có hiệu quả.>Tài liệu thi triển có thể mua ở chỗ Thương Nhân Tạp Hóa."
+      "target": "Dùng đạo cụ đã trang bị để khiến mục tiêu mất HP liên tục và giảm Thủ.<(c0xFFFF0000)Không trang bị đạo cụ thì kỹ năng không có hiệu lực.>Đạo cụ thi triển mua tại Thương Nhân Tạp Hóa."
     },
     "190.desc": {
       "source": "使用后对目标玩家减速一半，持续10秒时间;首次免费，之后每次使用花费100元宝，最多使用10次",
@@ -1109,7 +1109,7 @@
     },
     "194.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 30 Huyết Điểu"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 30 Huyết Điểu"
     },
     "194.name": {
       "source": "蛮力平击",
@@ -1117,7 +1117,7 @@
     },
     "195.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "195.name": {
       "source": "蛮力平击",
@@ -1125,7 +1125,7 @@
     },
     "196.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "196.name": {
       "source": "蛮力平击",
@@ -1133,7 +1133,7 @@
     },
     "197.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "197.name": {
       "source": "蛮力平击",
@@ -1141,7 +1141,7 @@
     },
     "198.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "198.name": {
       "source": "蛮力平击",
@@ -1149,7 +1149,7 @@
     },
     "199.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "199.name": {
       "source": "蛮力平击",
@@ -1181,7 +1181,7 @@
     },
     "20.name": {
       "source": "灵魂火咒",
-      "target": "Linh Hồn Hỏa Chú"
+      "target": "Linh Hồn Hỏa Phù"
     },
     "20.skillSubLevel.0.desc": {
       "source": "远程法术,通过驱使护身符来攻击敌人.对目标造成100%道术攻击加上22~27点的伤害",
@@ -1197,7 +1197,7 @@
     },
     "200.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "200.name": {
       "source": "减益状态",
@@ -1205,7 +1205,7 @@
     },
     "201.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "201.name": {
       "source": "速度变化",
@@ -1213,7 +1213,7 @@
     },
     "202.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "202.name": {
       "source": "状态变化",
@@ -1221,7 +1221,7 @@
     },
     "203.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "203.name": {
       "source": "血量变化",
@@ -1229,7 +1229,7 @@
     },
     "204.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "204.name": {
       "source": "状态变化",
@@ -1237,7 +1237,7 @@
     },
     "205.desc": {
       "source": "<(c0xFF00FFFF)7级可以学习,技能书可以通过主线任务或者在书店购买。>",
-      "target": "Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
+      "target": "<(c0xFF00FFFF)Kỹ năng BOSS bản đồ cấp 35 Trầm Luân Ma"
     },
     "205.name": {
       "source": "状态变化",
@@ -1293,7 +1293,7 @@
     },
     "21.name": {
       "source": "骷髅复苏",
-      "target": "Khô Lâu Phục Tô"
+      "target": "Triệu Hồi Khô Lâu"
     },
     "21.skillSubLevel.0.desc": {
       "source": "召唤出一个1级的护卫为主人战斗,召唤上限为两只.通过杀怪,护卫最高可以升到7级.但在角色死亡、下线后,等级会重置.（ctrl+a可控制神兽的动作）",
@@ -1373,7 +1373,7 @@
     },
     "22.name": {
       "source": "隐匿术",
-      "target": "Ẩn Nặc Thuật"
+      "target": "Ẩn Thân Thuật"
     },
     "22.skillSubLevel.0.desc": {
       "source": "将自己身形隐藏使怪物无法察觉自己的存在.持续20秒.遁隐时间会随着自身道术攻击提升而提升",
@@ -1429,7 +1429,7 @@
     },
     "23.name": {
       "source": "群体隐匿术",
-      "target": "Quần Thể Ẩn Nặc Thuật"
+      "target": "Ẩn Thân Quần Thể"
     },
     "23.skillSubLevel.0.desc": {
       "source": "更加强大的隐身术,能够隐藏3X3范围内的全体玩家.持续20秒.遁隐时间会随着自身道术攻击提升而提升",
@@ -1489,7 +1489,7 @@
     },
     "26.name": {
       "source": "群体治疗术",
-      "target": "Quần Thể Trị Dũ Thuật"
+      "target": "Hồi Phục Quần Thể"
     },
     "26.skillSubLevel.0.desc": {
       "source": "强大的治疗法术,能够恢复自己和周围所有玩家的生命,治疗鼠标指向地方的3x3范围内的目标每秒恢复生命值120点.道术攻击越高,持续时间越长",
@@ -1649,7 +1649,7 @@
     },
     "4.skillSubLevel.0.desc": {
       "source": "对目标造成80%伤害,并对目标周围造成20%的伤害",
-      "target": "Gây 80% sát thương cho mục tiêu, và gây 20% sát thương ra xung quanh mục tiêu, đồng thời gây hiệu ứng đẩy lùi"
+      "target": "Gây 80% sát thương lên mục tiêu và 20% sát thương lên các mục tiêu xung quanh."
     },
     "4.skillSubLevel.1.desc": {
       "source": "对目标造成90%伤害,并对目标周围造成40%的伤害",
@@ -1749,15 +1749,15 @@
     },
     "5.skillSubLevel.0.desc": {
       "source": "冲锋并对敌人给予冲撞打击,对目标造成100点减速效果",
-      "target": "Xung phong và tung đòn va chạm vào kẻ thù, gây 100 điểm hiệu ứng giảm tốc cho mục tiêu, đồng thời gây hiệu ứng đẩy lùi, tối đa đẩy lùi 3 ô"
+      "target": "Xung phong va chạm kẻ địch, gây 100 điểm giảm tốc."
     },
     "5.skillSubLevel.1.desc": {
       "source": "冲锋并对敌人给予冲撞打击,对目标造成200点减速效果",
-      "target": "Xung phong và tung đòn va chạm vào kẻ thù, gây 200 điểm hiệu ứng giảm tốc cho mục tiêu, đồng thời gây hiệu ứng đẩy lùi, tối đa đẩy lùi 3 ô"
+      "target": "Xung phong va chạm kẻ địch, gây 200 điểm giảm tốc."
     },
     "5.skillSubLevel.2.desc": {
       "source": "冲锋并对敌人给予冲撞打击,对目标造成300点减速效果",
-      "target": "Xung phong và tung đòn va chạm vào kẻ thù, gây 300 điểm hiệu ứng giảm tốc cho mục tiêu, đồng thời gây hiệu ứng đẩy lùi, tối đa đẩy lùi 3 ô"
+      "target": "Xung phong va chạm kẻ địch, gây 300 điểm giảm tốc."
     },
     "50.desc": {
       "source": "行会副本BOSS龙怒",
@@ -2733,15 +2733,15 @@
     },
     "9.skillSubLevel.0.desc": {
       "source": "从空中召唤一道雷电攻击目标,对目标造成70%魔法攻击加上45~85点的魔法伤害",
-      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 80% tấn công ma pháp cộng thêm 45~85 điểm sát thương ma pháp"
+      "target": "Triệu hồi lôi điện từ trên không, gây 70% Công ma pháp + 45~85 sát thương ma pháp."
     },
     "9.skillSubLevel.1.desc": {
       "source": "从空中召唤一道雷电攻击目标,对目标造成80%魔法攻击加上55~95点的魔法伤害",
-      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 90% tấn công ma pháp cộng thêm 55~95 điểm sát thương ma pháp"
+      "target": "Triệu hồi lôi điện từ trên không, gây 80% Công ma pháp + 55~95 sát thương ma pháp."
     },
     "9.skillSubLevel.2.desc": {
       "source": "从空中召唤一道雷电攻击目标,对目标造成90%魔法攻击加上65~110点的魔法伤害",
-      "target": "Triệu hồi một tia sét từ trên không tấn công mục tiêu, gây 100% tấn công ma pháp cộng thêm 65~110 điểm sát thương ma pháp"
+      "target": "Triệu hồi lôi điện từ trên không, gây 90% Công ma pháp + 65~110 sát thương ma pháp."
     },
     "90.desc": {
       "source": "<(c0xFF00FF00)35级>可以学习,花费绑定金币即可直接学习。",

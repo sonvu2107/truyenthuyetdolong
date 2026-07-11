@@ -3,6 +3,8 @@
 
 Các lệnh chính:
   skill-catalog  Tạo catalog JSON từ Skill.txt và skillconfig.cbp sạch.
+  item-catalog   Tạo catalog JSON từ Item gốc và Item tiếng Việt.
+  value-catalog  Tạo catalog từ các file Lua đối chiếu theo cùng khóa.
   apply          Áp catalog vào một file CBP.
   apply-zip      Áp catalog vào đúng file bên trong cbp.zip.
   validate       Đọc và kiểm tra toàn bộ cây của một file CBP.
@@ -246,6 +248,16 @@ SKILL_PATTERN = re.compile(
     re.IGNORECASE | re.DOTALL,
 )
 
+ITEM_PATTERN = re.compile(
+    r'(?P<field>[ni])(?P<item>\d+)\s*=\s*"(?P<value>(?:\\.|[^"\\])*)"',
+    re.IGNORECASE | re.DOTALL,
+)
+
+LUA_VALUE_PATTERN = re.compile(
+    r'(?P<key>[A-Za-z_][A-Za-z0-9_]*)\s*=\s*"(?P<value>(?:\\.|[^"\\])*)"',
+    re.DOTALL,
+)
+
 
 def unescape_config_string(value: str) -> str:
     output: list[str] = []
@@ -306,6 +318,178 @@ def make_skill_catalog(cbp_data: bytes, skill_text: str, file_name: str) -> dict
     }
 
 
+def parse_item_strings(text: str) -> tuple[dict[str, str], list[str]]:
+    values: dict[str, str] = {}
+    duplicates: set[str] = set()
+    field_names = {"n": "name", "i": "desc"}
+    for match in ITEM_PATTERN.finditer(text):
+        path = f"{int(match.group('item'))}.{field_names[match.group('field').lower()]}"
+        value = unescape_config_string(match.group("value"))
+        if path in values:
+            duplicates.add(path)
+        # File Lua dùng giá trị khai báo sau cùng khi một ID bị lặp.
+        values[path] = value
+    if not values:
+        raise CbpError("Không tìm thấy mục n<ID> hoặc i<ID> trong Item.txt")
+    return values, sorted(duplicates)
+
+
+def parse_item_files(paths: list[Path]) -> tuple[dict[str, str], list[str]]:
+    values: dict[str, str] = {}
+    duplicates: set[str] = set()
+    for path in paths:
+        parsed, _ = parse_item_strings(path.read_text(encoding="utf-8-sig"))
+        for item_path, value in parsed.items():
+            if item_path in values:
+                duplicates.add(item_path)
+                if values[item_path] != value:
+                    raise CbpError(
+                        f"Mục vật phẩm mâu thuẫn giữa các file: {item_path}"
+                    )
+            values[item_path] = value
+    return values, sorted(duplicates)
+
+
+def parse_lua_values(paths: list[Path]) -> tuple[dict[str, str], list[str]]:
+    values: dict[str, str] = {}
+    duplicates: set[str] = set()
+    for path in paths:
+        local_values: dict[str, str] = {}
+        for match in LUA_VALUE_PATTERN.finditer(path.read_text(encoding="utf-8-sig")):
+            key = match.group("key")
+            value = unescape_config_string(match.group("value"))
+            if key in local_values:
+                duplicates.add(key)
+            # Lua dùng giá trị sau cùng khi một khóa bị lặp trong cùng file.
+            local_values[key] = value
+        if not local_values:
+            raise CbpError(f"Không tìm thấy chuỗi Lua trong {path}")
+        for key, value in local_values.items():
+            if key in values and values[key] != value:
+                raise CbpError(f"Khóa Lua mâu thuẫn giữa các file: {key}")
+            if key in values:
+                duplicates.add(key)
+            values[key] = value
+    return values, sorted(duplicates)
+
+
+def make_value_catalog(
+    cbp_data: bytes,
+    source_paths: list[Path],
+    target_paths: list[Path],
+    file_name: str,
+    allow_partial: bool = False,
+) -> dict:
+    _, root, _ = decode_cbp(cbp_data)
+    source_values, source_duplicates = parse_lua_values(source_paths)
+    target_values, target_duplicates = parse_lua_values(target_paths)
+    missing_targets = sorted(set(source_values) - set(target_values))
+    if missing_targets and not allow_partial:
+        raise CbpError(
+            "Value catalog không an toàn: "
+            f"thiếu {len(missing_targets)} bản dịch "
+            f"(mẫu: {', '.join(missing_targets[:5])})"
+        )
+
+    source_to_targets: dict[str, set[str]] = {}
+    for key, source in source_values.items():
+        target = target_values.get(key)
+        if target is None or target == source:
+            continue
+        source_to_targets.setdefault(source, set()).add(target)
+
+    unique_targets = {
+        source: next(iter(targets))
+        for source, targets in source_to_targets.items()
+        if len(targets) == 1
+    }
+    ambiguous_sources = sorted(
+        source for source, targets in source_to_targets.items() if len(targets) > 1
+    )
+    translations: dict[str, dict[str, str]] = {}
+    for path, node in walk_strings(root):
+        target = unique_targets.get(node.text)
+        if target is not None:
+            translations[path] = {"source": node.text, "target": target}
+
+    return {
+        "format": 1,
+        "file": file_name,
+        "description": "Việt hóa từ các file Lua gốc và tiếng Việt theo cùng khóa",
+        "translations": dict(sorted(translations.items())),
+        "metadata": {
+            "source_keys": len(source_values),
+            "matched_and_changed": len(translations),
+            "missing_target_keys": missing_targets,
+            "ambiguous_source_values": ambiguous_sources,
+            "duplicate_source_keys": source_duplicates,
+            "duplicate_target_keys": target_duplicates,
+        },
+    }
+
+
+def make_item_catalog(
+    cbp_data: bytes,
+    source_paths: list[Path],
+    target_paths: list[Path],
+    file_name: str,
+    allow_partial: bool = False,
+) -> dict:
+    _, root, _ = decode_cbp(cbp_data)
+    strings = dict(walk_strings(root))
+    source_values, source_duplicates = parse_item_files(source_paths)
+    target_values, target_duplicates = parse_item_files(target_paths)
+    translations: dict[str, dict[str, str]] = {}
+    missing_targets: list[str] = []
+    unmatched_paths: list[str] = []
+    source_mismatches: list[str] = []
+
+    for path, source in sorted(source_values.items()):
+        target = target_values.get(path)
+        if target is None:
+            missing_targets.append(path)
+            continue
+        node = strings.get(path)
+        if node is None:
+            unmatched_paths.append(path)
+            continue
+        if node.text != source:
+            source_mismatches.append(path)
+            continue
+        if target != source:
+            translations[path] = {"source": source, "target": target}
+
+    if (missing_targets or source_mismatches) and not allow_partial:
+        messages: list[str] = []
+        if missing_targets:
+            messages.append(
+                f"thiếu {len(missing_targets)} bản dịch "
+                f"(mẫu: {', '.join(missing_targets[:5])})"
+            )
+        if source_mismatches:
+            messages.append(
+                f"lệch {len(source_mismatches)} câu gốc CBP "
+                f"(mẫu: {', '.join(source_mismatches[:5])})"
+            )
+        raise CbpError("Item catalog không an toàn: " + ", ".join(messages))
+
+    return {
+        "format": 1,
+        "file": file_name,
+        "description": "Việt hóa vật phẩm từ các phần Item gốc và tiếng Việt đã đối chiếu",
+        "translations": translations,
+        "metadata": {
+            "source_entries": len(source_values),
+            "matched_and_changed": len(translations),
+            "unmatched_paths": unmatched_paths,
+            "missing_target_paths": missing_targets,
+            "source_mismatch_paths": source_mismatches,
+            "duplicate_source_paths": source_duplicates,
+            "duplicate_target_paths": target_duplicates,
+        },
+    }
+
+
 def command_skill_catalog(args: argparse.Namespace) -> None:
     cbp_data = read_zip_entry(args.input_zip, args.file)
     catalog = make_skill_catalog(
@@ -320,6 +504,47 @@ def command_skill_catalog(args: argparse.Namespace) -> None:
     print(
         f"Đã tạo {args.output}: {len(catalog['translations'])} câu thay đổi, "
         f"{len(catalog['metadata']['unmatched_paths'])} đường dẫn không khớp"
+    )
+
+
+def command_item_catalog(args: argparse.Namespace) -> None:
+    cbp_data = read_zip_entry(args.input_zip, args.file)
+    catalog = make_item_catalog(
+        cbp_data,
+        args.source,
+        args.target,
+        args.file,
+        args.allow_partial,
+    )
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(
+        json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(
+        f"Đã tạo {args.output}: {len(catalog['translations'])} câu thay đổi, "
+        f"{len(catalog['metadata']['unmatched_paths'])} đường dẫn không khớp, "
+        f"bỏ qua {len(catalog['metadata']['missing_target_paths']) + len(catalog['metadata']['source_mismatch_paths'])} "
+        "mục không an toàn"
+    )
+
+
+def command_value_catalog(args: argparse.Namespace) -> None:
+    cbp_data = read_zip_entry(args.input_zip, args.file)
+    catalog = make_value_catalog(
+        cbp_data,
+        args.source,
+        args.target,
+        args.file,
+        args.allow_partial,
+    )
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(
+        json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(
+        f"Đã tạo {args.output}: {len(catalog['translations'])} câu thay đổi, "
+        f"bỏ qua {len(catalog['metadata']['missing_target_keys'])} khóa thiếu dịch, "
+        f"{len(catalog['metadata']['ambiguous_source_values'])} câu gốc mơ hồ"
     )
 
 
@@ -401,6 +626,42 @@ def build_parser() -> argparse.ArgumentParser:
     skill.add_argument("--file", default="skillconfig.cbp")
     skill.add_argument("--output", type=Path, required=True)
     skill.set_defaults(func=command_skill_catalog)
+
+    item = sub.add_parser("item-catalog", help="Tạo catalog stditems từ Item gốc và tiếng Việt")
+    item.add_argument("--input-zip", type=Path, required=True)
+    item.add_argument(
+        "--source",
+        type=Path,
+        action="append",
+        required=True,
+        help="File Item tiếng Trung; lặp lại tùy theo số phần dữ liệu",
+    )
+    item.add_argument(
+        "--target",
+        type=Path,
+        action="append",
+        required=True,
+        help="File Item tiếng Việt tương ứng; có thể chia nhỏ hơn file nguồn",
+    )
+    item.add_argument("--file", default="stditems.cbp")
+    item.add_argument(
+        "--allow-partial",
+        action="store_true",
+        help="Chỉ tạo các cặp khớp CBP; ghi riêng mục thiếu/lệch để xử lý thủ công",
+    )
+    item.add_argument("--output", type=Path, required=True)
+    item.set_defaults(func=command_item_catalog)
+
+    value = sub.add_parser(
+        "value-catalog", help="Tạo catalog CBP từ file Lua theo cùng khóa"
+    )
+    value.add_argument("--input-zip", type=Path, required=True)
+    value.add_argument("--source", type=Path, action="append", required=True)
+    value.add_argument("--target", type=Path, action="append", required=True)
+    value.add_argument("--file", required=True)
+    value.add_argument("--allow-partial", action="store_true")
+    value.add_argument("--output", type=Path, required=True)
+    value.set_defaults(func=command_value_catalog)
 
     apply = sub.add_parser("apply", help="Áp catalog vào một file CBP")
     apply.add_argument("--input", type=Path, required=True)
