@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "version": "20260711welfare1",
+  "gameframe_ui_changes": 97,
+  "gameframe_layout_changes": 1,
+  "protected_source_diff_count": 0,
+  "as3_class_count": 2937,
+  "cbp_zip_entries": 225,
+  "cbp_changes": {
+    "welFare.cbp": 7,
+    "uiawarditems.cbp": 13,
+    "stditems.cbp": 11
+  },
+  "gameframe_size": 2514242,
+  "gameframe_sha256": "A3B93713C31975434EB6A811628003DECFCD6BA9EF6E35A47AE51E9EFBBA95C5",
+  "cbp_zip_size": 1042899,
+  "cbp_zip_sha256": "056E2CCA29CF95045A2E7560B10FCEEF666DE22669000099AD1AF42A61118BF9"
+}

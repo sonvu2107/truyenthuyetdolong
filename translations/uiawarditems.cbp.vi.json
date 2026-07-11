@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "file": "uiawarditems.cbp",
+  "description": "Việt hóa các nhóm nhập mã quà trong Phúc Lợi Chiến Thần.",
+  "translations": {
+    "0.name": {"source": "新手卡礼包", "target": "Quà Tân Thủ"},
+    "0.buttons.0.name": {"source": "输入序列号，领取礼包", "target": "Nhập mã để nhận"},
+    "0.desc": {"source": "输入卡号即可领取奖励", "target": "Nhập mã để nhận quà"},
+    "1.name": {"source": "行会卡礼包", "target": "Quà Bang"},
+    "1.buttons.0.name": {"source": "输入序列号，领取礼包", "target": "Nhập mã để nhận"},
+    "1.desc": {"source": "输入卡号即可领取奖励", "target": "Nhập mã để nhận quà"},
+    "2.name": {"source": "活动礼包", "target": "Quà Sự Kiện"},
+    "2.buttons.0.name": {"source": "输入序列号，领取礼包", "target": "Nhập mã để nhận"},
+    "2.desc": {"source": "这是一份神奇的礼包.拥有它您将驰骋于暗黑屠龙中!\\<(c0xFF00FF00)礼包领取说明:\\点击下面按钮打开输入框,将线下活动发放的激活码粘贴之,即可领取相关的活动礼包>", "target": "Gói quà sự kiện dành cho người chơi.\\<(c0xFF00FF00)Cách nhận:\\Bấm nút bên dưới, dán mã sự kiện rồi xác nhận.>"},
+    "3.name": {"source": "活动礼包", "target": "Quà Sự Kiện"},
+    "3.desc": {"source": "输入序列号，领取礼包", "target": "Nhập mã để nhận"},
+    "4.name": {"source": "登陆器奖励", "target": "Quà Launcher"},
+    "4.desc": {"source": "成功下载登陆器即可领取奖励", "target": "Tải launcher để nhận quà"}
+  }
+}

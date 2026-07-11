@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "file": "stditems.cbp",
+  "description": "Rút gọn tên gói quà hiển thị trong Phúc Lợi Chiến Thần.",
+  "translations": {
+    "487.name": {"source": "1阶礼包", "target": "Quà CS 1"},
+    "488.name": {"source": "2阶礼包", "target": "Quà CS 2"},
+    "489.name": {"source": "3阶礼包", "target": "Quà CS 3"},
+    "490.name": {"source": "4阶礼包", "target": "Quà CS 4"},
+    "491.name": {"source": "5阶礼包", "target": "Quà CS 5"},
+    "492.name": {"source": "6阶礼包", "target": "Quà CS 6"},
+    "493.name": {"source": "7阶礼包", "target": "Quà CS 7"},
+    "494.name": {"source": "8阶礼包", "target": "Quà CS 8"},
+    "495.name": {"source": "9阶礼包", "target": "Quà CS 9"},
+    "496.name": {"source": "10阶礼包", "target": "Quà CS 10"},
+    "2020.name": {"source": "70级新手包", "target": "Quà Cấp 70"}
+  }
+}

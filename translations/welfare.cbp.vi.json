@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "file": "welFare.cbp",
+  "description": "Việt hóa tên các mục chia sẻ trong Phúc Lợi Chiến Thần.",
+  "translations": {
+    "CourseShare.ShareBase.0.Name": {"source": "游戏分享", "target": "Chia Sẻ Game"},
+    "CourseShare.ShareBase.1.Name": {"source": "登陆分享", "target": "Chia Sẻ Đăng Nhập"},
+    "CourseShare.ShareBase.2.Name": {"source": "宝石提升", "target": "Nâng Gem"},
+    "CourseShare.ShareBase.3.Name": {"source": "等级炫耀", "target": "Khoe Cấp"},
+    "CourseShare.ShareBase.4.Name": {"source": "坐骑进阶", "target": "Nâng Thú"},
+    "CourseShare.ShareBase.5.Name": {"source": "符文提升", "target": "Nâng Phù"},
+    "CourseShare.ShareBase.6.Name": {"source": "装备提升", "target": "Nâng Trang Bị"}
+  }
+}

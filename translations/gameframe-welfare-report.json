@@ -1,0 +1,684 @@
+{
+  "changed": 97,
+  "changes": [
+    {
+      "key": "bag[106]",
+      "line": 1254,
+      "source": "sử dụng",
+      "target": "Dùng",
+      "category": "button"
+    },
+    {
+      "key": "bag[108]",
+      "line": 1256,
+      "source": "Số lượng sử dụng:",
+      "target": "Số lượng:",
+      "category": "label"
+    },
+    {
+      "key": "bag[109]",
+      "line": 1257,
+      "source": "lớn nhất",
+      "target": "Tối đa",
+      "category": "button"
+    },
+    {
+      "key": "bag[110]",
+      "line": 1258,
+      "source": "Không nhắc lại",
+      "target": "Không hỏi lại",
+      "category": "checkbox"
+    },
+    {
+      "key": "welfare[1]",
+      "line": 3618,
+      "source": "Quan Tâm Online",
+      "target": "Quà Online",
+      "category": "tab"
+    },
+    {
+      "key": "welfare[3]",
+      "line": 3620,
+      "source": "Nạp Bất Ngờ",
+      "target": "Quà Nạp",
+      "category": "tab"
+    },
+    {
+      "key": "welfare[4]",
+      "line": 3621,
+      "source": "Đổi Mã Quà",
+      "target": "Mã Quà",
+      "category": "tab"
+    },
+    {
+      "key": "welfare[5]",
+      "line": 3622,
+      "source": "Vui lòng nhập mã thẻ",
+      "target": "Nhập mã quà",
+      "category": "input"
+    },
+    {
+      "key": "welfare[6]",
+      "line": 3623,
+      "source": "Nhận Lễ Bao",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "welfare[7]",
+      "line": 3624,
+      "source": "<font color='#ffff00'>Hướng dẫn nhận lễ bao:</font><br/>Dán mã kích hoạt được phát trong hoạt động offline vào khung nhập mã thẻ phía trên, nhấn nút nhận thưởng để nhận lễ bao hoạt động tương ứng",
+      "target": "<font color='#ffff00'>Cách nhận:</font><br/>Dán mã quà vào ô trên rồi bấm Nhận.",
+      "category": "description"
+    },
+    {
+      "key": "welfare[9]",
+      "line": 3626,
+      "source": "Nhận Lễ Bao",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "welfare[11]",
+      "line": 3628,
+      "source": "<textformat leading='3'><font size='16' color='#FFFFFF'>Vui lòng lưu ý <font color='#FFFF00'>Số lượng KNB rút</font> có thỏa mãn <font color='#FFFF00'>mức giá tương ứng<BR>của lễ bao</font> không, không thỏa mãn thì không thể nhận bình thường.</font></textformat>",
+      "target": "<textformat leading='3'><font size='14' color='#FFFFFF'>Nạp đủ <font color='#FFFF00'>Nguyên Bảo theo mốc</font> để nhận quà.</font></textformat>",
+      "category": "description"
+    },
+    {
+      "key": "welfare[12]",
+      "line": 3629,
+      "source": "Ta Muốn Nạp Thẻ",
+      "target": "Nạp Ngay",
+      "category": "button"
+    },
+    {
+      "key": "welfare[13]",
+      "line": 3630,
+      "source": "<font size='16' color='#FFFFFF'>Số lượng KNB đã rút: <font color='#FFFF00'>$value$</font> KNB</font>",
+      "target": "<font size='14' color='#FFFFFF'>Đã nạp: <font color='#FFFF00'>$value$</font> Nguyên Bảo</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[14]",
+      "line": 3631,
+      "source": "Vật Phẩm Thưởng",
+      "target": "Quà",
+      "category": "label"
+    },
+    {
+      "key": "welfare[15]",
+      "line": 3632,
+      "source": "Thông Cáo Cập Nhật",
+      "target": "Cập Nhật",
+      "category": "title"
+    },
+    {
+      "key": "welfare[16]",
+      "line": 3633,
+      "source": "Hạng Mục Đề Cử",
+      "target": "Đề Xuất",
+      "category": "title"
+    },
+    {
+      "key": "welfare[17]",
+      "line": 3634,
+      "source": "Kinh Nghiệm Rời Mạng",
+      "target": "EXP Offline",
+      "category": "title"
+    },
+    {
+      "key": "welfare[18]",
+      "line": 3635,
+      "source": "Đề cử bạn hoàn thành các việc sau để tăng tốc thăng cấp!",
+      "target": "Hoàn thành đề xuất để tăng cấp nhanh.",
+      "category": "description"
+    },
+    {
+      "key": "welfare[19]",
+      "line": 3636,
+      "source": "<font color='#FFFFFF'>Nhận Miễn Phí</font>",
+      "target": "<font color='#FFFFFF'>Miễn phí</font>",
+      "category": "option"
+    },
+    {
+      "key": "welfare[20]",
+      "line": 3637,
+      "source": "<font color='#FFFFFF'>Nhận Gấp Đôi</font>",
+      "target": "<font color='#FFFFFF'>Gấp 2</font>",
+      "category": "option"
+    },
+    {
+      "key": "welfare[21]",
+      "line": 3638,
+      "source": "<font color='#FFFFFF'>Nhận Gấp Ba</font>",
+      "target": "<font color='#FFFFFF'>Gấp 3</font>",
+      "category": "option"
+    },
+    {
+      "key": "welfare[22]",
+      "line": 3639,
+      "source": "<font color='#FFFFFF'>Nhận Gấp Năm</font>",
+      "target": "<font color='#FFFFFF'>Gấp 5</font>",
+      "category": "option"
+    },
+    {
+      "key": "welfare[23]",
+      "line": 3640,
+      "source": "<font size='16' color='#00FF00'>Thời gian rời mạng tích lũy <font color = '#FFCC00'>$num$</font> giờ</font>",
+      "target": "<font size='14' color='#00FF00'>Offline: <font color='#FFCC00'>$num$</font> giờ</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[24]",
+      "line": 3641,
+      "source": "<font color='#00FF00'>Chọn <font color = '#FFCC00'>Nhận Gấp Năm</font> cao nhất có thể nhận: <font color = '#FFCC00'>$num$</font> EXP</font>",
+      "target": "<font color='#00FF00'>Gấp 5: <font color='#FFCC00'>$num$</font> EXP</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[25]",
+      "line": 3642,
+      "source": "<font size='16' color='#00FF00'>Bạn có thể nhận tối đa <font color = '#FFCC00'>$num$</font> EXP</font>",
+      "target": "<font size='14' color='#00FF00'>Tối đa: <font color='#FFCC00'>$num$</font> EXP</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[27]",
+      "line": 3644,
+      "source": "<font color='#00FF00'>Phần thiếu Đan EXP Rời Mạng, EXP sẽ nhận lại theo <font color = '#FFCC00'>tỷ lệ bình thường</font></font>",
+      "target": "<font color='#00FF00'>Thiếu Đan: phần còn lại nhận theo <font color='#FFCC00'>tỷ lệ thường</font>.</font>",
+      "category": "description"
+    },
+    {
+      "key": "welfare[29]",
+      "line": 3646,
+      "source": "<font size='16'>Mục Tiêu Năng Động Cần Hoàn Thành</font>",
+      "target": "<font size='16'>Mục Tiêu Hôm Nay</font>",
+      "category": "title"
+    },
+    {
+      "key": "welfare[30]",
+      "line": 3647,
+      "source": "<font size='16'>Đã điểm danh $num$ ngày</font>",
+      "target": "<font size='14'>Điểm danh: $num$ ngày</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[32]",
+      "line": 3649,
+      "source": "<font size='16'>Năng Động hôm nay của bạn đã đạt $num$</font>",
+      "target": "<font size='14'>Năng động: $num$</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[33]",
+      "line": 3650,
+      "source": "<font color = '#00FF00'> Cấp $Level$ có thể khiêu chiến </font>",
+      "target": "<font color='#00FF00'>Mở ở cấp $Level$</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[34]",
+      "line": 3651,
+      "source": "<font color = '#00FF00'> Đang Tiến Hành </font>",
+      "target": "<font color='#00FF00'>Đang làm</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[35]",
+      "line": 3652,
+      "source": "<font color = '#00FF00'>Hoàn Thành</font>",
+      "target": "<font color='#00FF00'>Hoàn thành</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[36]",
+      "line": 3653,
+      "source": "Nhận EXP Rời Mạng",
+      "target": "Nhận EXP Offline",
+      "category": "title"
+    },
+    {
+      "key": "welfare[37]",
+      "line": 3654,
+      "source": "Dùng Nguyên Bảo thay thế khi thiếu Đan EXP Rời Mạng",
+      "target": "Dùng Nguyên Bảo khi thiếu Đan",
+      "category": "checkbox"
+    },
+    {
+      "key": "welfare[40]",
+      "line": 3657,
+      "source": "<font color = '#00FF00'>Bạn còn thiếu <font color = '#FFCC00'>$num$</font> Đan EXP Rời Mạng, phần EXP còn lại sẽ nhận theo <font color = '#FFCC00'>tỷ lệ bình thường</font></font>",
+      "target": "<font color='#00FF00'>Thiếu <font color='#FFCC00'>$num$</font> Đan; EXP còn lại tính thường.</font>",
+      "category": "description"
+    },
+    {
+      "key": "welfare[41]",
+      "line": 3658,
+      "source": "<font size = '16' color = '#00FF00'>Bạn sẽ nhận <font color='#FFCC00'>$num$</font> EXP </font>",
+      "target": "<font size='14' color='#00FF00'>Nhận: <font color='#FFCC00'>$num$</font> EXP</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[43]",
+      "line": 3660,
+      "source": "<font color = '#00FF00'>Năng Động $num$</font>",
+      "target": "<font color='#00FF00'>Năng động: $num$</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[44]",
+      "line": 3661,
+      "source": "Hôm Nay Đã Điểm Danh",
+      "target": "Đã điểm danh",
+      "category": "button"
+    },
+    {
+      "key": "welfare[46]",
+      "line": 3663,
+      "source": "Mục Tiêu Năng Động Đã Đạt",
+      "target": "Đã đạt mục tiêu",
+      "category": "status"
+    },
+    {
+      "key": "welfare[48]",
+      "line": 3665,
+      "source": "<font color = '#00FF00'>Chọn nhận bội số để nhận nhiều EXP Rời Mạng hơn</font>",
+      "target": "<font color='#00FF00'>Chọn hệ số để nhận thêm EXP offline.</font>",
+      "category": "description"
+    },
+    {
+      "key": "welfare[50]",
+      "line": 3667,
+      "source": "<font size='16' color='#FFFF00'>      Mỗi loại túi quà chỉ được nhận 1 lần。</font>",
+      "target": "<font size='13' color='#FFFF00'>Mỗi gói chỉ nhận 1 lần.</font>",
+      "category": "notice"
+    },
+    {
+      "key": "welfare[51]",
+      "line": 3668,
+      "source": "Thưởng Đăng Nhập",
+      "target": "Đăng Nhập",
+      "category": "tab"
+    },
+    {
+      "key": "welfare[52]",
+      "line": 3669,
+      "source": "Quà Lên Cấp",
+      "target": "Quà Cấp",
+      "category": "tab"
+    },
+    {
+      "key": "welfare[53]",
+      "line": 3670,
+      "source": "Chia sẻ hành trình",
+      "target": "Chia Sẻ",
+      "category": "tab"
+    },
+    {
+      "key": "welfare[54]",
+      "line": 3671,
+      "source": "Cập nhật thông báo",
+      "target": "Cập Nhật",
+      "category": "tab"
+    },
+    {
+      "key": "welfare[55]",
+      "line": 3672,
+      "source": "<FONT SIZE = '16' color = '#ff9c00'><b> Bạn đã đăng nhập vào ngày <font color = '#ff144b'> $value$ </font></b></FONT>",
+      "target": "<font size='14' color='#ff9c00'><b>Đăng nhập: <font color='#ff144b'>$value$</font> ngày</b></font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[56]",
+      "line": 3673,
+      "source": "<FONT SIZE = '16' color = '#ff9c00'><b> rồi giải nén <font color = '#ff144b'> $value$ </font>Nguyên Bảo có thể thu được </b></FONT>",
+      "target": "<font size='14' color='#ff9c00'><b>Cần nạp thêm <font color='#ff144b'>$value$</font> Nguyên Bảo</b></font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[57]",
+      "line": 3674,
+      "source": "<FONT SIZE = '16' color = '#ff9c00'><b> thẻ người mới Bang Hội không thể thiếu thẻ </b></FONT>",
+      "target": "<font size='14' color='#ff9c00'><b>Quà Tân Thủ</b></font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[58]",
+      "line": 3675,
+      "source": "<FONT SIZE = '12' color = '#f3f328'><b> là Phần Thưởng hào phóng, nhận ngay </b></FONT>",
+      "target": "<font size='12' color='#f3f328'><b>Nhận</b></font>",
+      "category": "button"
+    },
+    {
+      "key": "welfare[59]",
+      "line": 3676,
+      "source": "<FONT SIZE = '12' color = '#f3f328'><b>Xem tất cảGói Quà</b></FONT>",
+      "target": "<font size='12' color='#f3f328'><b>Xem Quà</b></font>",
+      "category": "button"
+    },
+    {
+      "key": "welfare[60]",
+      "line": 3677,
+      "source": "<FONT SIZE = '12' color = '#f3f328'><b> Nhận nhiều loại Gói Quà</b></FONT>",
+      "target": "<font size='12' color='#f3f328'><b>Nhận Quà</b></font>",
+      "category": "button"
+    },
+    {
+      "key": "welfare[61]",
+      "line": 3678,
+      "source": "<font color = '#B08B61'> tập trung vào </font>",
+      "target": "<font color='#B08B61'>Đề xuất</font>",
+      "category": "title"
+    },
+    {
+      "key": "welfare[62]",
+      "line": 3679,
+      "source": "<font color = '#B08B61'> Tôi muốn nâng cấp </font><font color = '#9E948B'> (có thể thực hiện được các mục $value$) </font>",
+      "target": "<font color='#B08B61'>Tăng cấp</font><font color='#9E948B'> ($value$ mục)</font>",
+      "category": "goal"
+    },
+    {
+      "key": "welfare[63]",
+      "line": 3680,
+      "source": "<font color = '#B08B61'> Tôi muốn trở nên mạnh mẽ hơn </font><font color = '#9E948B'> (có thể thực hiện được các vật phẩm $value$) </font>",
+      "target": "<font color='#B08B61'>Tăng lực chiến</font><font color='#9E948B'> ($value$ mục)</font>",
+      "category": "goal"
+    },
+    {
+      "key": "welfare[64]",
+      "line": 3681,
+      "source": "<font color = '#B08B61'>I muốn Trang Bị</font><font color = '#9E948B'>($value$ có thể thực hiện được)</font>",
+      "target": "<font color='#B08B61'>Kiếm trang bị</font><font color='#9E948B'> ($value$ mục)</font>",
+      "category": "goal"
+    },
+    {
+      "key": "welfare[65]",
+      "line": 3682,
+      "source": "<font color = '#B08B61'>I muốn kiếm tiền</font><font color = '#9E948B'>($value$ có thể thực hiện được các mục)</font>",
+      "target": "<font color='#B08B61'>Kiếm tiền</font><font color='#9E948B'> ($value$ mục)</font>",
+      "category": "goal"
+    },
+    {
+      "key": "welfare[66]",
+      "line": 3683,
+      "source": "[Tham gia ngay]",
+      "target": "[Đi ngay]",
+      "category": "link"
+    },
+    {
+      "key": "welfare[67]",
+      "line": 3684,
+      "source": "Sau đó giải nén $value$Nguyên Bảo để lấy $libao$",
+      "target": "Nạp thêm $value$ Nguyên Bảo để nhận $libao$",
+      "category": "progress"
+    },
+    {
+      "key": "welfare[68]",
+      "line": 3685,
+      "source": "<font size='20' color='#FF0000'><b> Tôi rất vui và chúc bạn mọi điều tốt đẹp nhất. Gói Quà</b></font>",
+      "target": "<font size='18' color='#FF9900'><b>Quà Nạp Theo Mốc</b></font>",
+      "category": "title"
+    },
+    {
+      "key": "welfare[69]",
+      "line": 3686,
+      "source": "$libao$ Gói Quà chứa",
+      "target": "Quà trong $libao$",
+      "category": "label"
+    },
+    {
+      "key": "welfare[70]",
+      "line": 3687,
+      "source": "<font size='13' color='#928155'><b> Chia sẻ lịch sử </b></font>",
+      "target": "<font size='13' color='#928155'><b>Lịch Sử Chia Sẻ</b></font>",
+      "category": "title"
+    },
+    {
+      "key": "welfare[71]",
+      "line": 3688,
+      "source": "<font size='13' color='#928155'><b> Chia sẻ Phần Thưởng</b></font>",
+      "target": "<font size='13' color='#928155'><b>Thưởng Chia Sẻ</b></font>",
+      "category": "title"
+    },
+    {
+      "key": "welfare[72]",
+      "line": 3689,
+      "source": "Số lượng cổ phiếu thành công của <font color='#a1948e'> được xóa vào 24h hàng ngày. Hãy yêu cầu và chia sẻ Phần Thưởng kịp thời! </font>",
+      "target": "<font color='#a1948e'>Lượt chia sẻ làm mới lúc 0h. Hãy nhận thưởng trong ngày.</font>",
+      "category": "notice"
+    },
+    {
+      "key": "welfare[73]",
+      "line": 3690,
+      "source": "<font color='#a1948e'> Số lượng cổ phiếu hiện nay: $value$</font>",
+      "target": "<font color='#a1948e'>Đã chia sẻ: $value$ lượt</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[74]",
+      "line": 3691,
+      "source": "Chia sẻ trò chơi",
+      "target": "Chia Sẻ Game",
+      "category": "share"
+    },
+    {
+      "key": "welfare[75]",
+      "line": 3692,
+      "source": "Khuyến mãi Bảo Thạch",
+      "target": "Nâng Gem",
+      "category": "share"
+    },
+    {
+      "key": "welfare[76]",
+      "line": 3693,
+      "source": "Thể hiện đẳng cấp",
+      "target": "Khoe Cấp",
+      "category": "share"
+    },
+    {
+      "key": "welfare[77]",
+      "line": 3694,
+      "source": "Tọa Kỵ nâng cao",
+      "target": "Nâng Thú",
+      "category": "share"
+    },
+    {
+      "key": "welfare[78]",
+      "line": 3695,
+      "source": "Khuyến mãi Phù Văn",
+      "target": "Nâng Phù",
+      "category": "share"
+    },
+    {
+      "key": "welfare[79]",
+      "line": 3696,
+      "source": "Khuyến mãi Trang Bị",
+      "target": "Nâng Trang Bị",
+      "category": "share"
+    },
+    {
+      "key": "welfare[80]",
+      "line": 3697,
+      "source": "Số lần <font color='#a78b76'> có thể được chia sẻ: $value$</font>",
+      "target": "Còn <font color='#a78b76'>$value$ lượt</font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[81]",
+      "line": 3698,
+      "source": "<font color='#a78b76'> Chia sẻ lên: </font>",
+      "target": "<font color='#a78b76'>Chia sẻ:</font>",
+      "category": "label"
+    },
+    {
+      "key": "welfare[82]",
+      "line": 3699,
+      "source": "<font size='16' face = '黑体' color='#e0d482'><b> đã chia sẻ thành công $value$ lần </b></font>",
+      "target": "<font size='14' face='Tahoma' color='#e0d482'><b>Đã chia sẻ $value$ lần</b></font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[83]",
+      "line": 3700,
+      "source": "Nâng cấp Gói Quà để giúp tăng trưởng",
+      "target": "Quà Theo Cấp",
+      "category": "title"
+    },
+    {
+      "key": "welfare[84]",
+      "line": 3701,
+      "source": "Lưu ý: Cấp độ càng cao thì Phần Thưởng sẽ càng hào phóng. Hãy nhanh chóng nâng cấp và nhận nó.",
+      "target": "Cấp càng cao, quà càng tốt. Đạt mốc để nhận.",
+      "category": "notice"
+    },
+    {
+      "key": "welfare[85]",
+      "line": 3702,
+      "source": "cấp độ",
+      "target": " cấp",
+      "category": "unit"
+    },
+    {
+      "key": "welfare[86]",
+      "line": 3703,
+      "source": "rẽ",
+      "target": " CS",
+      "category": "unit"
+    },
+    {
+      "key": "welfare[87]",
+      "line": 3704,
+      "source": "(Bạn có thể nhận $num$Kinh Nghiệm miễn phí)",
+      "target": "(Miễn phí: $num$ EXP)",
+      "category": "option"
+    },
+    {
+      "key": "welfare[88]",
+      "line": 3705,
+      "source": "(Bạn có thể nhận $num$Kinh Nghiệm, bạn cần viên thuốc đôi $count$)",
+      "target": "($num$ EXP · Cần $count$ Đan x2)",
+      "category": "option"
+    },
+    {
+      "key": "welfare[89]",
+      "line": 3706,
+      "source": "(Bạn có thể nhận $num$Kinh Nghiệm, bạn cần viên thuốc ba viên $count$)",
+      "target": "($num$ EXP · Cần $count$ Đan x3)",
+      "category": "option"
+    },
+    {
+      "key": "welfare[90]",
+      "line": 3707,
+      "source": "(Bạn có thể nhận được $num$Kinh Nghiệm, bạn cần viên thuốc gấp 5 lần $count$)",
+      "target": "($num$ EXP · Cần $count$ Đan x5)",
+      "category": "option"
+    },
+    {
+      "key": "welfare[91]",
+      "line": 3708,
+      "source": "Số lượng cổ phiếu đã hết",
+      "target": "Đã hết lượt chia sẻ",
+      "category": "message"
+    },
+    {
+      "key": "welfare[92]",
+      "line": 3709,
+      "source": "<u><a href='event:3'>Xem chi tiết nền văn minh thế giới </a></u>",
+      "target": "<u><a href='event:3'>Xem cấp thế giới</a></u>",
+      "category": "link"
+    },
+    {
+      "key": "welfare[93]",
+      "line": 3710,
+      "source": "Máy chủ <font color='#cc9966' size='15'><b> đang mở: </b></font>",
+      "target": "<font color='#cc9966' size='15'><b>Máy chủ đang hoạt động</b></font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[94]",
+      "line": 3711,
+      "source": "<font color='#cc9966' size='15'><b>Sự kiện chủ đề hôm nay</b></font>",
+      "target": "<font color='#cc9966' size='15'><b>Sự kiện hôm nay</b></font>",
+      "category": "title"
+    },
+    {
+      "key": "welfare[95]",
+      "line": 3712,
+      "source": "Thời gian mở máy chủ:",
+      "target": "Mở máy chủ: ",
+      "category": "label"
+    },
+    {
+      "key": "welfare[96]",
+      "line": 3713,
+      "source": "Trình độ văn minh thế giới:",
+      "target": "Cấp thế giới: ",
+      "category": "label"
+    },
+    {
+      "key": "welfare[97]",
+      "line": 3714,
+      "source": "cấp độ",
+      "target": "",
+      "category": "unit"
+    },
+    {
+      "key": "welfare[98]",
+      "line": 3715,
+      "source": "rẽ",
+      "target": " CS · Cấp ",
+      "category": "unit"
+    },
+    {
+      "key": "welfare[99]",
+      "line": 3716,
+      "source": "Cấp độ hiện tại của bạn là:",
+      "target": "Cấp hiện tại: ",
+      "category": "label"
+    },
+    {
+      "key": "welfare[100]",
+      "line": 3717,
+      "source": "Trình độ văn minh thế giới hiện tại bổ sung Kinh Nghiệm vào Nhiệm Vụ.",
+      "target": "Thưởng EXP nhiệm vụ theo cấp thế giới: ",
+      "category": "description"
+    },
+    {
+      "key": "welfare[101]",
+      "line": 3718,
+      "source": "Gộp server",
+      "target": "Gộp Server",
+      "category": "button"
+    },
+    {
+      "key": "welfare[102]",
+      "line": 3719,
+      "source": "<font color='#ffd800' size='15'><b>Thời gian bắt đầu hoạt động:$num$</b></font>",
+      "target": "<font color='#ffd800' size='14'><b>Bắt đầu: $num$</b></font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[103]",
+      "line": 3720,
+      "source": "<font color='#ffd800' size='15'><b>Thời gian còn lại của hoạt động:$num$</b></font>",
+      "target": "<font color='#ffd800' size='14'><b>Còn lại: $num$</b></font>",
+      "category": "status"
+    },
+    {
+      "key": "welfare[104]",
+      "line": 3721,
+      "source": "Sự kiện vẫn chưa bắt đầu",
+      "target": "Chưa bắt đầu",
+      "category": "status"
+    },
+    {
+      "key": "welfare[105]",
+      "line": 3722,
+      "source": "Sự kiện đã kết thúc",
+      "target": "Đã kết thúc",
+      "category": "status"
+    }
+  ]
+}

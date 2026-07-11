@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "description": "Ẩn bộ đếm số ngày máy chủ lỗi thời trong Phúc Lợi và giữ nhãn trạng thái ngắn.",
+  "files": [
+    {
+      "path": "scripts/view/game/welfare/components/WelFareWorldLeaf.as",
+      "replacements": [
+        {
+          "source": "this.m_day.start(108,100,10);",
+          "target": "this.m_day.start(108,100,10);\n         this.m_day.visible = false;\n         this.dayLabel2.visible = false;",
+          "expected": 1
+        }
+      ]
+    }
+  ]
+}

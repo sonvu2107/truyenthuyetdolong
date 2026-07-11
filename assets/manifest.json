@@ -1,5 +1,5 @@
 {
-  "version": "20260711rolestable1",
+  "version": "20260711welfare1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "1A1E7F428A5877514187065E0BABDAF26CE3F054F88D90A64123DD0F9B00800E"
+      "sha256": "A3B93713C31975434EB6A811628003DECFCD6BA9EF6E35A47AE51E9EFBBA95C5"
     },
     {
       "source": "assets/ClientLang.txt",
@@ -34,7 +34,7 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "88C51CC2AAC49C5AE273C4225E199A15EF094DED34F622CD8E5E80669DD9CABF"
+      "sha256": "056E2CCA29CF95045A2E7560B10FCEEF666DE22669000099AD1AF42A61118BF9"
     },
     {
       "source": "assets/game/GameConfig.php",

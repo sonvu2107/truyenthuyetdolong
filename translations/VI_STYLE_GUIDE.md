@@ -114,6 +114,15 @@ nhận được
 - Hộp yêu cầu phải tách ba dòng: `Xu khóa`, `Cấp`, `Linh phách`.
 - Thông báo thiếu cấp dùng mẫu `Cấp X · Cần thêm Y cấp để CS Z`.
 
+### Quy ước riêng cho Phúc Lợi Chiến Thần
+
+- Tab cố định dùng: `Quà Online`, `Đăng Nhập`, `Quà Cấp`, `Quà Nạp`, `Mã Quà`, `Chia Sẻ`, `Cập Nhật`.
+- Gói theo Chuyển Sinh dùng mẫu `Quà CS X`; gói theo cấp dùng `Quà Cấp X`.
+- Nút nhận quà chỉ dùng `Nhận`; nút nạp dùng `Nạp Ngay`; nhập mã dùng `Nhập mã để nhận`.
+- Trạng thái phải viết hoa đầu câu và ưu tiên mẫu ngắn: `Đã nhận`, `Chưa mở`, `Còn X lượt`.
+- Không hiển thị số ngày tính từ mốc sự kiện hoặc mốc mở server cũ; dùng `Máy chủ đang hoạt động`.
+- Nội dung mô tả phải giữ số, điều kiện và biến động như `$value$`, `$num$`, `$libao$`, nhưng bỏ câu quảng cáo hoặc lời chúc không cung cấp thông tin.
+
 ## Quy tắc cho CBP
 
 - Chỉ sửa `target` trong các file `*.vi.json`.
