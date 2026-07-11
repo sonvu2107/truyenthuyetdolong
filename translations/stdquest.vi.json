@@ -85,7 +85,7 @@
     },
     "102.name": {
       "source": "分内之事",
-      "target": "Việc Trong Phận Sự"
+      "target": "Việc Bổn Phận"
     },
     "102.prom.scene": {
       "source": "世界要塞",
@@ -101,7 +101,7 @@
     },
     "103.name": {
       "source": "离开要塞",
-      "target": "Rời Đi Yếu Tắc"
+      "target": "Rời Yếu Tắc"
     },
     "103.prom.scene": {
       "source": "世界要塞",
@@ -117,7 +117,7 @@
     },
     "104.name": {
       "source": "巅峰之约",
-      "target": "Đỉnh Phong Chi Ước"
+      "target": "Hẹn Ước Đỉnh Phong"
     },
     "104.prom.npc": {
       "source": "美女小佳",
@@ -237,15 +237,15 @@
     },
     "113.comp.scene": {
       "source": "干燥的高地",
-      "target": "Can Táo Đích Cao Địa"
+      "target": "Cao Địa Khô Cằn"
     },
     "113.content": {
       "source": "去干燥的高地找到督军.",
-      "target": "Đến Can Táo Đích Cao Địa tìm Đốc Quân."
+      "target": "Đến Cao Địa Khô Cằn tìm Đốc Quân."
     },
     "113.name": {
       "source": "干燥的高地",
-      "target": "Can Táo Đích Cao Địa"
+      "target": "Cao Địa Khô Cằn"
     },
     "113.prom.npc": {
       "source": "美女小佳",
@@ -253,11 +253,11 @@
     },
     "114.comp.scene": {
       "source": "干燥的高地",
-      "target": "Can Táo Đích Cao Địa"
+      "target": "Cao Địa Khô Cằn"
     },
     "114.content": {
       "source": "消灭干燥高地的任意怪物.",
-      "target": "Tiêu diệt quái vật bất kỳ ở Can Táo Đích Cao Địa."
+      "target": "Tiêu diệt quái vật bất kỳ ở Cao Địa Khô Cằn."
     },
     "114.name": {
       "source": "清理高地",
@@ -265,7 +265,7 @@
     },
     "114.prom.scene": {
       "source": "干燥的高地",
-      "target": "Can Táo Đích Cao Địa"
+      "target": "Cao Địa Khô Cằn"
     },
     "115.content": {
       "source": "护送战争物质去冥河魔洞一层交到野蛮人首领手里.",
@@ -277,7 +277,7 @@
     },
     "115.prom.scene": {
       "source": "干燥的高地",
-      "target": "Can Táo Đích Cao Địa"
+      "target": "Cao Địa Khô Cằn"
     },
     "116.content": {
       "source": "帮野蛮人首领收集草药.",
@@ -413,7 +413,7 @@
     },
     "127.name": {
       "source": "嗜血利爪",
-      "target": "Thí Huyết Lợi Trảo"
+      "target": "Thị Huyết Lợi Trảo"
     },
     "128.content": {
       "source": "消灭利爪猫妖后回复<白日门勇士/M骷髅洞:99:64:白日门勇士>.",
@@ -865,7 +865,7 @@
     },
     "165.name": {
       "source": "战盟往事",
-      "target": "Chiến Minh Chuyện Cũ"
+      "target": "Chuyện Cũ Chiến Minh"
     },
     "165.prom.scene": {
       "source": "失落之塔",
@@ -1005,7 +1005,7 @@
     },
     "173.name": {
       "source": "赏金任务",
-      "target": "Thưởng Kim Nhiệm Vụ"
+      "target": "Nhiệm Vụ Treo Thưởng"
     },
     "173.target.10.location.entityName": {
       "source": "堕落兽王",
@@ -1053,7 +1053,7 @@
     },
     "173.target.8.location.entityName": {
       "source": "狂暴迦蛇",
-      "target": "Cuồng Bạo Già Xà"
+      "target": "Cuồng Bạo Ca Xà"
     },
     "174.content": {
       "source": "领取狩猎任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦.",
@@ -1133,7 +1133,7 @@
     },
     "174.target.8.location.entityName": {
       "source": "狂暴迦蛇",
-      "target": "Cuồng Bạo Già Xà"
+      "target": "Cuồng Bạo Ca Xà"
     },
     "175.content": {
       "source": "每日杀怪，经验多多!",
@@ -1249,7 +1249,7 @@
     },
     "186.target.1.location.entityName": {
       "source": "嗜血骑士",
-      "target": "Thí Huyết Kỵ Sĩ"
+      "target": "Thị Huyết Kỵ Sĩ"
     },
     "186.target.3.location.entityName": {
       "source": "杀戮恶魔",
@@ -1265,7 +1265,7 @@
     },
     "187.target.2.location.entityName": {
       "source": "嗜血骑士",
-      "target": "Thí Huyết Kỵ Sĩ"
+      "target": "Thị Huyết Kỵ Sĩ"
     },
     "187.target.4.location.entityName": {
       "source": "杀戮恶魔",
@@ -1333,11 +1333,11 @@
     },
     "192.target.3.location.entityName": {
       "source": "嗜血骑士",
-      "target": "Thí Huyết Kỵ Sĩ"
+      "target": "Thị Huyết Kỵ Sĩ"
     },
     "192.target.4.location.entityName": {
       "source": "嗜血骑士",
-      "target": "Thí Huyết Kỵ Sĩ"
+      "target": "Thị Huyết Kỵ Sĩ"
     },
     "193.content": {
       "source": "每日杀怪,经验多多.",
@@ -1353,7 +1353,7 @@
     },
     "193.target.4.location.entityName": {
       "source": "嗜血骑士",
-      "target": "Thí Huyết Kỵ Sĩ"
+      "target": "Thị Huyết Kỵ Sĩ"
     },
     "194.content": {
       "source": "每日杀怪,经验多多.",
@@ -1365,7 +1365,7 @@
     },
     "194.target.0.location.entityName": {
       "source": "嗜血骑士",
-      "target": "Thí Huyết Kỵ Sĩ"
+      "target": "Thị Huyết Kỵ Sĩ"
     },
     "194.target.1.location.entityName": {
       "source": "杀戮恶魔",
@@ -1765,15 +1765,15 @@
     },
     "43.content": {
       "source": "消灭嗜血恶魔后回复<莱雅/M崔凡克:228:88:莱雅>.",
-      "target": "Tiêu diệt Thí Huyết Ác Ma xong trả lời <Leia/M Travincal:228:88:Leia>."
+      "target": "Tiêu diệt Thị Huyết Ác Ma xong trả lời <Leia/M Travincal:228:88:Leia>."
     },
     "43.name": {
       "source": "嗜血恶魔",
-      "target": "Thí Huyết Ác Ma"
+      "target": "Thị Huyết Ác Ma"
     },
     "43.target.0.location.entityName": {
       "source": "嗜血恶魔",
-      "target": "Thí Huyết Ác Ma"
+      "target": "Thị Huyết Ác Ma"
     },
     "44.content": {
       "source": "猎杀食尸虫拯救<幸存游民/M崔凡克:194:101:幸存游民>.",
@@ -1797,15 +1797,15 @@
     },
     "46.content": {
       "source": "猎杀嗜血蝙蝠后找到<神秘刺客/M崔凡克:141:152:神秘刺客>交付任务.",
-      "target": "Săn giết Thí Huyết Biên Bức xong tìm <Thần Bí Thích Khách/M Travincal:141:152:Thần Bí Thích Khách> giao nhiệm vụ."
+      "target": "Săn giết Thị Huyết Biên Bức xong tìm <Thần Bí Thích Khách/M Travincal:141:152:Thần Bí Thích Khách> giao nhiệm vụ."
     },
     "46.name": {
       "source": "嗜血蝙蝠",
-      "target": "Thí Huyết Biên Bức"
+      "target": "Thị Huyết Biên Bức"
     },
     "46.target.0.location.entityName": {
       "source": "嗜血蝙蝠",
-      "target": "Thí Huyết Biên Bức"
+      "target": "Thị Huyết Biên Bức"
     },
     "47.content": {
       "source": "消灭幻影祖玛教主.",
@@ -2073,11 +2073,11 @@
     },
     "64.content": {
       "source": "消灭嗜血甲虫后对话<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>.",
-      "target": "Tiêu diệt Thí Huyết Giáp Trùng rồi nói chuyện <Ác Ma Sát Thủ/M U Ám Tùng Lâm:124:108:Ác Ma Sát Thủ>."
+      "target": "Tiêu diệt Thị Huyết Giáp Trùng rồi nói chuyện <Ác Ma Sát Thủ/M U Ám Tùng Lâm:124:108:Ác Ma Sát Thủ>."
     },
     "64.name": {
       "source": "嗜血甲虫",
-      "target": "Thí Huyết Giáp Trùng"
+      "target": "Thị Huyết Giáp Trùng"
     },
     "64.prom.scene": {
       "source": "幽暗丛林",
@@ -2085,7 +2085,7 @@
     },
     "64.target.0.location.entityName": {
       "source": "嗜血甲虫",
-      "target": "Thí Huyết Giáp Trùng"
+      "target": "Thị Huyết Giáp Trùng"
     },
     "65.comp.npc": {
       "source": "恶魔杀手",
@@ -2173,11 +2173,11 @@
     },
     "69.content": {
       "source": "拜访服装店老板.屠龙城:103:55:国王骑士>.交付任务.拉铁力>.",
-      "target": "Bái phỏng Phục Trang Điếm Lão Bản."
+      "target": "Gặp Chủ Tiệm Y Phục."
     },
     "69.name": {
       "source": "拜访服装店老板",
-      "target": "Bái Phỏng Phục Trang Điếm Lão Bản"
+      "target": "Gặp Chủ Tiệm Y Phục"
     },
     "69.prom.npc": {
       "source": "美女小佳",
@@ -2197,7 +2197,7 @@
     },
     "70.name": {
       "source": "了解狩猎任务",
-      "target": "Tìm Hiểu Nhiệm Vụ Thú Liệp"
+      "target": "Tìm Hiểu NV Săn Bắn"
     },
     "71.comp.npc": {
       "source": "美女小佳",
@@ -2261,7 +2261,7 @@
     },
     "75.name": {
       "source": "沙虫王的故事",
-      "target": "Sa Trùng Vương Câu Chuyện"
+      "target": "Truyền Thuyết Sa Trùng Vương"
     },
     "75.prom.scene": {
       "source": "黑暗森林",
@@ -2293,11 +2293,11 @@
     },
     "77.content": {
       "source": "消灭狂暴迦蛇.",
-      "target": "Tiêu diệt Cuồng Bạo Già Xà."
+      "target": "Tiêu diệt Cuồng Bạo Ca Xà."
     },
     "77.name": {
       "source": "狂暴迦蛇",
-      "target": "Cuồng Bạo Già Xà"
+      "target": "Cuồng Bạo Ca Xà"
     },
     "77.prom.scene": {
       "source": "黑暗森林",
@@ -2305,7 +2305,7 @@
     },
     "77.target.0.location.entityName": {
       "source": "狂暴迦蛇",
-      "target": "Cuồng Bạo Già Xà"
+      "target": "Cuồng Bạo Ca Xà"
     },
     "78.comp.scene": {
       "source": "黑暗森林",
@@ -2465,11 +2465,11 @@
     },
     "85.content": {
       "source": "消灭嗜血王.",
-      "target": "Tiêu diệt Thí Huyết Vương."
+      "target": "Tiêu diệt Thị Huyết Vương."
     },
     "85.name": {
       "source": "嗜血魔王",
-      "target": "Thí Huyết Ma Vương"
+      "target": "Thị Huyết Ma Vương"
     },
     "85.prom.scene": {
       "source": "黑暗教堂",
@@ -2779,9 +2779,47 @@
   "metadata": {
     "matched_and_changed": 693,
     "merged_from": [
-      "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\ahtl-quest-catalogs\\chunk4.json",
-      "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\ahtl-quest-catalogs\\chunk5.json",
-      "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\ahtl-quest-catalogs\\chunk6.json"
+      "ahtl-web-deploy\\translations\\stdquest.vi.json",
+      "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\ahtl-quest-catalogs\\chunk9.json"
+    ],
+    "skipped_conflict_paths": [
+      "100.name",
+      "100.target.0.location.entityName",
+      "102.name",
+      "103.name",
+      "104.name",
+      "109.name",
+      "110.name",
+      "146.comp.npc",
+      "146.name",
+      "147.name",
+      "147.prom.npc",
+      "164.name",
+      "164.target.0.location.entityName",
+      "165.name",
+      "166.name",
+      "166.target.0.location.entityName",
+      "169.name",
+      "169.target.0.location.entityName",
+      "170.comp.npc",
+      "170.name",
+      "171.prom.npc",
+      "173.target.19.location.entityName",
+      "174.target.19.location.entityName",
+      "174.target.26.location.entityName",
+      "67.name",
+      "69.name",
+      "70.name",
+      "79.name",
+      "79.target.0.location.entityName",
+      "8.comp.npc",
+      "9.prom.npc",
+      "94.name",
+      "94.target.0.location.entityName",
+      "97.target.0.location.entityName",
+      "98.name",
+      "99.name",
+      "99.target.0.location.entityName"
     ]
   }
 }

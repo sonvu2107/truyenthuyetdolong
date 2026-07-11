@@ -1,3 +1,3 @@
 <?php
-header('Location: /client_shell.html?v=20260711questvi2');
+header('Location: /client_shell.html?v=20260711questfix1');
 exit;

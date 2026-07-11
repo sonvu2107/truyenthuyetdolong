@@ -565,7 +565,7 @@ def command_merge_catalogs(args: argparse.Namespace) -> None:
                 )
                 continue
             translations[node_path] = entry
-    if conflicts:
+    if conflicts and not args.prefer_first:
         raise CbpError(
             f"Có {len(conflicts)} xung đột catalog: " + "; ".join(conflicts[:10])
         )
@@ -577,6 +577,11 @@ def command_merge_catalogs(args: argparse.Namespace) -> None:
         "metadata": {
             "matched_and_changed": len(translations),
             "merged_from": [str(path) for path in args.catalog],
+            "skipped_conflict_paths": (
+                [conflict.split(":", 1)[0] for conflict in conflicts]
+                if args.prefer_first
+                else []
+            ),
         },
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)
@@ -705,6 +710,11 @@ def build_parser() -> argparse.ArgumentParser:
         "merge-catalogs", help="Gộp catalog cùng file CBP với kiểm tra xung đột"
     )
     merge.add_argument("--catalog", type=Path, action="append", required=True)
+    merge.add_argument(
+        "--prefer-first",
+        action="store_true",
+        help="Khi có xung đột đã rà soát, giữ bản dịch ở catalog đứng trước",
+    )
     merge.add_argument("--output", type=Path, required=True)
     merge.set_defaults(func=command_merge_catalogs)
 
