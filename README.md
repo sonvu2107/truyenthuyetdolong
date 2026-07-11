@@ -34,6 +34,8 @@ Nút toàn màn hình trong shell gọi `window.external.ToggleFullscreen()` khi
 
 Phiên bản `20260711uifit1` chỉnh riêng bảng thưởng đăng nhập: dùng Arial 14 cho phần tiếng Việt, chèn `<br>` ở mô tả thưởng tuần và rút gọn các tab/tên hàng. Hệ thống label của game render chữ thành bitmap từ một `TextField` đã bật `multiline`; vì vậy xuống dòng có chủ đích bằng `<br>` an toàn hơn việc ép `wordWrap` hoặc đổi font toàn cục. Các thay đổi tái lập nằm trong `translations/gameframe-ui-fit-overrides.json`.
 
+Phiên bản `20260711short1` áp lô rút gọn UI đầu tiên gồm 68 khóa nút/action/caption có độ tin cậy cao. Catalog nguồn nằm tại `translations/gameframe-ui-short-overrides.json`; công cụ `tools/apply_swf_ui_overrides.py` kiểm đúng giá trị hiện tại theo khóa trước khi ghi. Báo cáo độ dài toàn bộ UI nằm tại `translations/gameframe-ui-length-audit.json`. Bản này cũng chặn nhãn số ngày còn thiếu hiển thị `0` hoặc số âm trong hai lớp LandingReward.
+
 Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
 
 ## Biên dịch CBP an toàn

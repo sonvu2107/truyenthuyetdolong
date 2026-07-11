@@ -1,0 +1,26 @@
+{
+  "format": 1,
+  "description": "Không cho nhãn số ngày còn thiếu hiển thị giá trị 0 hoặc âm ở bảng thưởng đăng nhập.",
+  "files": [
+    {
+      "path": "scripts/view/game/LandingReward/cell/LandingRewardCell.as",
+      "replacements": [
+        {
+          "source": "day = this.conversion(data.stdAchieve.name) - LandingRewardWin.LandingDay;",
+          "target": "day = Math.max(1,this.conversion(data.stdAchieve.name) - LandingRewardWin.LandingDay);",
+          "expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/LandingReward/cell/LandingRewardCell1.as",
+      "replacements": [
+        {
+          "source": "day = this.conversion(data.stdAchieve.name) - WellFareLandingRewardPage.LandingDay;",
+          "target": "day = Math.max(1,this.conversion(data.stdAchieve.name) - WellFareLandingRewardPage.LandingDay);",
+          "expected": 1
+        }
+      ]
+    }
+  ]
+}

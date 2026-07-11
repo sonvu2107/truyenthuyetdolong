@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "path": "scripts/view/game/LandingReward/cell/LandingRewardCell.as",
+      "replacement_count": 1
+    },
+    {
+      "path": "scripts/view/game/LandingReward/cell/LandingRewardCell1.as",
+      "replacement_count": 1
+    }
+  ],
+  "replacement_count": 2
+}

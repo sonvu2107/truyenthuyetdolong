@@ -1,0 +1,481 @@
+{
+  "changed": 68,
+  "changes": [
+    {
+      "key": "starSoul[4]",
+      "line": 162,
+      "source": "Nguồn gốc của Cung điện Ngôi sao",
+      "target": "Nguồn Tinh Cung",
+      "category": "caption"
+    },
+    {
+      "key": "FightingReview[0]",
+      "line": 193,
+      "source": "Kiểm tra sức mạnh chiến đấu",
+      "target": "Soi lực chiến",
+      "category": "title"
+    },
+    {
+      "key": "FightingReview[2]",
+      "line": 195,
+      "source": "Tiêu chuẩn sức mạnh chiến đấu",
+      "target": "Chuẩn lực chiến",
+      "category": "label"
+    },
+    {
+      "key": "FightingReview[3]",
+      "line": 196,
+      "source": "So sánh sức mạnh chiến đấu",
+      "target": "So lực chiến",
+      "category": "caption"
+    },
+    {
+      "key": "Mail[5]",
+      "line": 254,
+      "source": "Trích xuất bằng một cú nhấp chuột",
+      "target": "Nhận hết",
+      "category": "button"
+    },
+    {
+      "key": "Common_OK",
+      "line": 487,
+      "source": "Xác Nhận",
+      "target": "OK",
+      "category": "button"
+    },
+    {
+      "key": "Common_MountSoul",
+      "line": 576,
+      "source": "linh hồn quái thú",
+      "target": "Thú hồn",
+      "category": "label"
+    },
+    {
+      "key": "Common_Get_Reward",
+      "line": 598,
+      "source": "Nhận Thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "Common_Power",
+      "line": 609,
+      "source": "sức mạnh chiến đấu",
+      "target": "Lực chiến",
+      "category": "label"
+    },
+    {
+      "key": "GameConst_Awards[10]",
+      "line": 839,
+      "source": "Giá trị linh hồn thú",
+      "target": "Điểm Thú hồn",
+      "category": "label"
+    },
+    {
+      "key": "bag[26]",
+      "line": 1174,
+      "source": "Xác Nhận",
+      "target": "OK",
+      "category": "button"
+    },
+    {
+      "key": "rank[11]",
+      "line": 1384,
+      "source": "sức mạnh chiến đấu",
+      "target": "Lực chiến",
+      "category": "label"
+    },
+    {
+      "key": "quest[1]",
+      "line": 1404,
+      "source": "Nhiệm Vụ Hiện Tại",
+      "target": "NV hiện tại",
+      "category": "tab"
+    },
+    {
+      "key": "quest[2]",
+      "line": 1405,
+      "source": "Có Thể Nhận",
+      "target": "NV nhận",
+      "category": "tab"
+    },
+    {
+      "key": "quest[5]",
+      "line": 1408,
+      "source": "Phần Thưởng",
+      "target": "Thưởng",
+      "category": "label"
+    },
+    {
+      "key": "team[17]",
+      "line": 1556,
+      "source": "Chiến lược<br>Chiến lược",
+      "target": "Chiến thuật",
+      "category": "caption"
+    },
+    {
+      "key": "godequipBoost[5]",
+      "line": 1813,
+      "source": "Trang phục của Chúa",
+      "target": "Thần trang",
+      "category": "caption"
+    },
+    {
+      "key": "friend[101]",
+      "line": 1933,
+      "source": "Tìm bạn bè chỉ bằng một cú nhấp chuột",
+      "target": "Tìm bạn",
+      "category": "button"
+    },
+    {
+      "key": "achieve[22]",
+      "line": 2907,
+      "source": "Nhận nó với một cú nhấp chuột",
+      "target": "Nhận hết",
+      "category": "button"
+    },
+    {
+      "key": "active[91]",
+      "line": 3040,
+      "source": "Bổ sung bằng một cú nhấp chuột",
+      "target": "Bù nhanh",
+      "category": "button"
+    },
+    {
+      "key": "active[92]",
+      "line": 3041,
+      "source": "Nhận giải thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "active[146]",
+      "line": 3096,
+      "source": "Sức mạnh chiến đấu được đề xuất:",
+      "target": "Lực chiến đề cử:",
+      "category": "label"
+    },
+    {
+      "key": "active[154]",
+      "line": 3104,
+      "source": "Hoạt động lễ hội đèn lồng",
+      "target": "Tết Nguyên Tiêu",
+      "category": "title"
+    },
+    {
+      "key": "shop[6]",
+      "line": 3303,
+      "source": "Nhận Thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "near[27]",
+      "line": 3384,
+      "source": "Thành lập nhóm bằng một cú nhấp chuột",
+      "target": "Lập đội",
+      "category": "button"
+    },
+    {
+      "key": "near[31]",
+      "line": 3388,
+      "source": "Tham gia nhóm chỉ bằng một cú nhấp chuột",
+      "target": "Vào đội",
+      "category": "button"
+    },
+    {
+      "key": "fanatic[16]",
+      "line": 3483,
+      "source": "Xác nhận",
+      "target": "OK",
+      "category": "button"
+    },
+    {
+      "key": "fanatic[29]",
+      "line": 3506,
+      "source": "Nhận Thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "initOnline[5]",
+      "line": 3556,
+      "source": "Nhận thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "firstRecharge[0]",
+      "line": 3584,
+      "source": "<font size = '20'>Nhận Thưởng</font>",
+      "target": "<font face='Tahoma' size='14'>Nhận</font>",
+      "category": "button-font"
+    },
+    {
+      "key": "welfare[101]",
+      "line": 3718,
+      "source": "Hoạt động sáp nhập máy chủ",
+      "target": "Gộp server",
+      "category": "tab"
+    },
+    {
+      "key": "mount[70]",
+      "line": 3837,
+      "source": "Nâng Cấp",
+      "target": "Nâng",
+      "category": "button"
+    },
+    {
+      "key": "mount[87]",
+      "line": 3854,
+      "source": "Nâng Cấp",
+      "target": "Nâng",
+      "category": "button"
+    },
+    {
+      "key": "mount[123]",
+      "line": 3890,
+      "source": "sức mạnh chiến đấu",
+      "target": "Lực chiến",
+      "category": "label"
+    },
+    {
+      "key": "hero[60]",
+      "line": 3984,
+      "source": "Nâng Cấp",
+      "target": "Nâng",
+      "category": "button"
+    },
+    {
+      "key": "hero[82]",
+      "line": 4006,
+      "source": "Nâng cấp bằng một cú nhấp chuột",
+      "target": "Nâng nhanh",
+      "category": "button"
+    },
+    {
+      "key": "hero[107]",
+      "line": 4031,
+      "source": "Đào tạo bằng một cú nhấp chuột",
+      "target": "Luyện nhanh",
+      "category": "button"
+    },
+    {
+      "key": "hero[206]",
+      "line": 4067,
+      "source": "Kiểm soát đối tượng",
+      "target": "Vật thủ",
+      "category": "label"
+    },
+    {
+      "key": "hero[207]",
+      "line": 4068,
+      "source": "Phòng thủ phép thuật",
+      "target": "Pháp thủ",
+      "category": "label"
+    },
+    {
+      "key": "answer[20]",
+      "line": 4224,
+      "source": "<font size = '15'>Xác Nhận</font>",
+      "target": "<font face='Tahoma' size='13'>OK</font>",
+      "category": "button-font"
+    },
+    {
+      "key": "tanget[3]",
+      "line": 4586,
+      "source": "<font color = '#ffffff'>Nhận Thưởng</font>",
+      "target": "<font color='#ffffff'>Nhận</font>",
+      "category": "button"
+    },
+    {
+      "key": "landingReward[1]",
+      "line": 4743,
+      "source": "Nhận Thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "combineActive[12]",
+      "line": 4804,
+      "source": "Nhận Thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "sealedBook[5]",
+      "line": 4839,
+      "source": "<font size = '15' color = '#b29a6c'>Phần Thưởng</font>",
+      "target": "<font face='Tahoma' size='13' color='#b29a6c'>Thưởng</font>",
+      "category": "label-font"
+    },
+    {
+      "key": "sealedBook[20]",
+      "line": 4854,
+      "source": "Xác Nhận",
+      "target": "OK",
+      "category": "button"
+    },
+    {
+      "key": "statue[49]",
+      "line": 4976,
+      "source": "Trao phần thưởng cho việc thờ cúng",
+      "target": "Thưởng bái",
+      "category": "caption"
+    },
+    {
+      "key": "holiday[7]",
+      "line": 5105,
+      "source": "Nhận Thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "holiday[11]",
+      "line": 5109,
+      "source": "<font size = '15'>Nhận Thưởng</font>",
+      "target": "<font face='Tahoma' size='13'>Nhận</font>",
+      "category": "button-font"
+    },
+    {
+      "key": "other[54]",
+      "line": 5244,
+      "source": "Bổ nhiệm vào chức vụ chính thức",
+      "target": "Bổ nhiệm",
+      "category": "title"
+    },
+    {
+      "key": "other[91]",
+      "line": 5281,
+      "source": "Xem trước hiệu ứng đặc biệt",
+      "target": "Xem hiệu ứng",
+      "category": "caption"
+    },
+    {
+      "key": "salary[59]",
+      "line": 5379,
+      "source": "Nhận giải thưởng của bạn trực tiếp",
+      "target": "Nhận ngay",
+      "category": "button"
+    },
+    {
+      "key": "newYearLargess[14]",
+      "line": 5401,
+      "source": "<font size = '15'>Xác Nhận</font>",
+      "target": "<font face='Tahoma' size='13'>OK</font>",
+      "category": "button-font"
+    },
+    {
+      "key": "newYearLargess[25]",
+      "line": 5412,
+      "source": "Nhận Thưởng",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "godWealth[2]",
+      "line": 5425,
+      "source": "<font size='16'>Nhiệm vụ hiện tại</font>",
+      "target": "<font face='Tahoma' size='13'>NV hiện tại</font>",
+      "category": "tab-font"
+    },
+    {
+      "key": "changJob[14]",
+      "line": 5620,
+      "source": "Một cú nhấp chuột để cởi quần áo",
+      "target": "Gỡ hết",
+      "category": "button"
+    },
+    {
+      "key": "openService[65]",
+      "line": 5831,
+      "source": "chiến tranh đô thị",
+      "target": "Công thành",
+      "category": "caption"
+    },
+    {
+      "key": "openService[82]",
+      "line": 5848,
+      "source": "Trang phục của Chúa",
+      "target": "Thần trang",
+      "category": "caption"
+    },
+    {
+      "key": "jewelGame[3]",
+      "line": 6070,
+      "source": "Rút thăm trúng thưởng tự động",
+      "target": "Tự quay",
+      "category": "button"
+    },
+    {
+      "key": "jewelGame[11]",
+      "line": 6078,
+      "source": "Một cú nhấp chuột để nhận",
+      "target": "Nhặt hết",
+      "category": "button"
+    },
+    {
+      "key": "jewelGame[23]",
+      "line": 6090,
+      "source": "Rút thăm trúng thưởng tự động",
+      "target": "Tự quay",
+      "category": "button"
+    },
+    {
+      "key": "diamondGame[11]",
+      "line": 6117,
+      "source": "Một cú nhấp chuột để nhận",
+      "target": "Nhặt hết",
+      "category": "button"
+    },
+    {
+      "key": "diamondGame[26]",
+      "line": 6132,
+      "source": "Đá thần thánh Hành Trang",
+      "target": "Túi Thần Thạch",
+      "category": "title"
+    },
+    {
+      "key": "newYear[35]",
+      "line": 6355,
+      "source": "Không có trong danh sách",
+      "target": "Chưa xếp hạng",
+      "category": "label"
+    },
+    {
+      "key": "mobilephoneGift[0]",
+      "line": 6365,
+      "source": "Điện thoại di động Gói Quà",
+      "target": "Quà điện thoại",
+      "category": "title"
+    },
+    {
+      "key": "HSConsume[17]",
+      "line": 6442,
+      "source": "Không có trong danh sách",
+      "target": "Chưa xếp hạng",
+      "category": "label"
+    },
+    {
+      "key": "tgly[4]",
+      "line": 6490,
+      "source": "Thủ tục hải quan Phần Thưởng",
+      "target": "Thưởng vượt ải",
+      "category": "label"
+    },
+    {
+      "key": "tgly[6]",
+      "line": 6492,
+      "source": "Sát thương mỗi giây:",
+      "target": "DPS:",
+      "category": "label"
+    },
+    {
+      "key": "xunlei[5]",
+      "line": 6583,
+      "source": "Tiếp nhận một cách dứt khoát",
+      "target": "Nhận ngay",
+      "category": "button"
+    }
+  ]
+}
