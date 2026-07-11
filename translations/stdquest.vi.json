@@ -1,0 +1,2787 @@
+{
+  "format": 1,
+  "file": "stdquest.cbp",
+  "description": "Catalog CBP đã gộp từ các lô Việt hóa an toàn",
+  "translations": {
+    "0.content": {
+      "source": "找到恰西.",
+      "target": "Tìm Charsi."
+    },
+    "0.name": {
+      "source": "英雄降临",
+      "target": "Anh Hùng Hàng Lâm"
+    },
+    "1.content": {
+      "source": "猎杀血鹰后与营地守卫对话.",
+      "target": "Săn giết Huyết Ưng xong đối thoại với Doanh Địa Thủ Vệ."
+    },
+    "1.name": {
+      "source": "营地危机",
+      "target": "Doanh Địa Nguy Cơ"
+    },
+    "10.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "10.content": {
+      "source": "消灭前方的骷髅小怪后回复<雷山德/M群魔堡垒:52:113:雷山德>.",
+      "target": "Tiêu diệt Khô Lâu Tiểu Quái phía trước xong trả lời <Lysander/M Quần Ma Bảo Lũy:52:113:Lysander>."
+    },
+    "10.name": {
+      "source": "骷髅恶魔",
+      "target": "Khô Lâu Ác Ma"
+    },
+    "10.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "100.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "100.content": {
+      "source": "消灭洛萨血魔.",
+      "target": "Tiêu diệt Lothar Huyết Ma."
+    },
+    "100.name": {
+      "source": "洛萨血魔",
+      "target": "Lothar Huyết Ma"
+    },
+    "100.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "100.target.0.location.entityName": {
+      "source": "洛萨血魔",
+      "target": "Lothar Huyết Ma"
+    },
+    "101.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "101.content": {
+      "source": "消灭世界要塞内的邪恶骑士.",
+      "target": "Tiêu diệt Tà Ác Kỵ Sĩ trong Thế Giới Yếu Tắc."
+    },
+    "101.name": {
+      "source": "邪恶骑士",
+      "target": "Tà Ác Kỵ Sĩ"
+    },
+    "101.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "101.target.0.location.entityName": {
+      "source": "邪恶骑士",
+      "target": "Tà Ác Kỵ Sĩ"
+    },
+    "102.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "102.content": {
+      "source": "消灭要塞内的死神魔蛇.",
+      "target": "Tiêu diệt Tử Thần Ma Xà trong Yếu Tắc."
+    },
+    "102.name": {
+      "source": "分内之事",
+      "target": "Việc Trong Phận Sự"
+    },
+    "102.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "103.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "103.content": {
+      "source": "回去找到<任务使者/M屠龙城:134:130:任务使者>.",
+      "target": "Quay về tìm <Nhiệm Vụ Sứ Giả/M Đồ Long Thành:134:130:Nhiệm Vụ Sứ Giả>."
+    },
+    "103.name": {
+      "source": "离开要塞",
+      "target": "Rời Đi Yếu Tắc"
+    },
+    "103.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "104.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "104.content": {
+      "source": "等级达到70级后找到美女小佳.",
+      "target": "Cấp bậc đạt đến 70 cấp rồi tìm mỹ nữ Tiểu Giai."
+    },
+    "104.name": {
+      "source": "巅峰之约",
+      "target": "Đỉnh Phong Chi Ước"
+    },
+    "104.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "104.target.0.location.entityName": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "105.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "105.content": {
+      "source": "了解魔神巴尔的信息",
+      "target": "Tìm hiểu thông tin về Ma Thần Baal."
+    },
+    "105.name": {
+      "source": "魔神信息",
+      "target": "Ma Thần Tín Tức"
+    },
+    "105.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "106.content": {
+      "source": "去神秘避难所找到灭魔元帅.",
+      "target": "Đến Thần Bí Tị Nạn Sở tìm Diệt Ma Nguyên Soái."
+    },
+    "106.name": {
+      "source": "虚幻空间",
+      "target": "Hư Huyễn Không Gian"
+    },
+    "106.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "107.content": {
+      "source": "消灭怪物魔神近卫后找到督军交付.",
+      "target": "Tiêu diệt quái vật Ma Thần Cận Vệ xong tìm Đốc Quân giao phó."
+    },
+    "107.name": {
+      "source": "避难所灾难",
+      "target": "Tị Nạn Sở Tai Nạn"
+    },
+    "108.content": {
+      "source": "消灭死神魔蛇后找到阿卡拉交付.",
+      "target": "Tiêu diệt Tử Thần Ma Xà xong tìm Akara giao phó."
+    },
+    "108.name": {
+      "source": "避难所死神",
+      "target": "Tị Nạn Sở Tử Thần"
+    },
+    "108.target.0.location.entityName": {
+      "source": "避难所死神",
+      "target": "Tị Nạn Sở Tử Thần"
+    },
+    "109.content": {
+      "source": "对话阿卡拉了解避难所往事.",
+      "target": "Nói chuyện với Akara để hiểu rõ chuyện cũ của Tị Nạn Sở."
+    },
+    "109.name": {
+      "source": "祖玛封印",
+      "target": "Zuma Phong Ấn"
+    },
+    "11.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "11.content": {
+      "source": "清除前方的指尖法师后找<霸天破神/M群魔堡垒:70:138:霸天破神>交付.",
+      "target": "Thanh trừ Chỉ Tiêm Pháp Sư phía trước xong tìm <Bá Thiên Phá Thần/M Quần Ma Bảo Lũy:70:138:Bá Thiên Phá Thần> giao phó."
+    },
+    "11.name": {
+      "source": "横扫千军",
+      "target": "Hoành Tảo Thiên Quân"
+    },
+    "11.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "110.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "110.content": {
+      "source": "回去找到<任务使者/M屠龙城:134:130:任务使者>.",
+      "target": "Quay về tìm <Nhiệm Vụ Sứ Giả/M Đồ Long Thành:134:130:Nhiệm Vụ Sứ Giả>."
+    },
+    "110.name": {
+      "source": "回屠龙城",
+      "target": "Về Đồ Long Thành"
+    },
+    "111.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "111.content": {
+      "source": "找到美女小佳.",
+      "target": "Tìm mỹ nữ Tiểu Giai."
+    },
+    "111.name": {
+      "source": "强大战力",
+      "target": "Cường Đại Chiến Lực"
+    },
+    "111.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "112.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "112.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "113.comp.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "113.content": {
+      "source": "去干燥的高地找到督军.",
+      "target": "Đến Can Táo Đích Cao Địa tìm Đốc Quân."
+    },
+    "113.name": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "113.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "114.comp.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "114.content": {
+      "source": "消灭干燥高地的任意怪物.",
+      "target": "Tiêu diệt quái vật bất kỳ ở Can Táo Đích Cao Địa."
+    },
+    "114.name": {
+      "source": "清理高地",
+      "target": "Thanh Lý Cao Địa"
+    },
+    "114.prom.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "115.content": {
+      "source": "护送战争物质去冥河魔洞一层交到野蛮人首领手里.",
+      "target": "Hộ tống vật tư chiến tranh tới Minh Hà Ma Động Tầng 1 giao tận tay Dã Man Nhân Thủ Lĩnh."
+    },
+    "115.name": {
+      "source": "战争物资",
+      "target": "Chiến Tranh Vật Tư"
+    },
+    "115.prom.scene": {
+      "source": "干燥的高地",
+      "target": "Can Táo Đích Cao Địa"
+    },
+    "116.content": {
+      "source": "帮野蛮人首领收集草药.",
+      "target": "Giúp Dã Man Nhân Thủ Lĩnh thu thập Thảo Dược."
+    },
+    "116.name": {
+      "source": "收集草药",
+      "target": "Thu Thập Thảo Dược"
+    },
+    "117.content": {
+      "source": "消灭冥河魔洞一层内的任意怪物.",
+      "target": "Tiêu diệt quái vật bất kỳ trong Minh Hà Ma Động Tầng 1."
+    },
+    "117.name": {
+      "source": "清理魔洞",
+      "target": "Thanh Lý Ma Động"
+    },
+    "118.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "118.content": {
+      "source": "回去屠龙城找到美女小佳.",
+      "target": "Quay về Đồ Long Thành tìm mỹ nữ Tiểu Giai."
+    },
+    "118.name": {
+      "source": "回去屠龙城",
+      "target": "Về Đồ Long Thành"
+    },
+    "119.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "119.content": {
+      "source": "将等级提升到一转60级.",
+      "target": "Đem cấp bậc tăng lên 60 cấp (Chuyển sinh 1)."
+    },
+    "119.name": {
+      "source": "强者之路",
+      "target": "Cường Giả Chi Lộ"
+    },
+    "119.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "119.target.0.location.entityName": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "12.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "12.name": {
+      "source": "遗忘骑士",
+      "target": "Di Vong Kỵ Sĩ"
+    },
+    "12.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "12.target.0.location.entityName": {
+      "source": "遗忘骑士",
+      "target": "Di Vong Kỵ Sĩ"
+    },
+    "120.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "120.content": {
+      "source": "继续对话美女小佳.",
+      "target": "Tiếp tục nói chuyện mỹ nữ Tiểu Giai."
+    },
+    "120.name": {
+      "source": "你是主角",
+      "target": "Ngươi Là Chủ Giác"
+    },
+    "120.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "121.content": {
+      "source": "找到<村长/M边界村:101:108:村长>了解发生在这个大陆里的黑暗动荡.",
+      "target": "Tìm <Thôn Trưởng/M Biên Giới Thôn:101:108:Thôn Trưởng> tìm hiểu sự nhiễu loạn hắc ám trên đại lục này."
+    },
+    "121.name": {
+      "source": "勇者降临",
+      "target": "Dũng Giả Hàng Lâm"
+    },
+    "122.name": {
+      "source": "实力小试",
+      "target": "Thực Lực Tiểu Thí"
+    },
+    "123.content": {
+      "source": "找到月儿.",
+      "target": "Tìm Nguyệt Nhi."
+    },
+    "123.name": {
+      "source": "助人为乐",
+      "target": "Trợ Nhân Vi Lạc"
+    },
+    "124.content": {
+      "source": "消灭前方的稻草魔人.",
+      "target": "Tiêu diệt Đạo Thảo Ma Nhân phía trước."
+    },
+    "124.name": {
+      "source": "英雄救美",
+      "target": "Anh Hùng Cứu Mỹ"
+    },
+    "125.content": {
+      "source": "进入骷髅洞探查.",
+      "target": "Tiến vào Khô Lâu Động tìm hiểu."
+    },
+    "125.name": {
+      "source": "入洞探查",
+      "target": "Nhập Động Tham Tra"
+    },
+    "126.content": {
+      "source": "猎杀骷髅战士后回复<嗜魔灵/M骷髅洞:99:90:嗜魔灵>.",
+      "target": "Săn giết Khô Lâu Chiến Sĩ xong trả lời <Thí Ma Linh/M Khô Lâu Động:99:90:Thí Ma Linh>."
+    },
+    "126.name": {
+      "source": "骷髅战士",
+      "target": "Khô Lâu Chiến Sĩ"
+    },
+    "126.target.0.location.entityName": {
+      "source": "骷髅战士",
+      "target": "Khô Lâu Chiến Sĩ"
+    },
+    "127.content": {
+      "source": "消灭怪物后找到<白日门勇士/M骷髅洞:99:64:白日门勇士>.",
+      "target": "Tiêu diệt quái vật rồi tìm <Bạch Nhật Môn Dũng Sĩ/M Khô Lâu Động:99:64:Bạch Nhật Môn Dũng Sĩ>."
+    },
+    "127.name": {
+      "source": "嗜血利爪",
+      "target": "Thí Huyết Lợi Trảo"
+    },
+    "128.content": {
+      "source": "消灭利爪猫妖后回复<白日门勇士/M骷髅洞:99:64:白日门勇士>.",
+      "target": "Tiêu diệt Lợi Trảo Miêu Yêu xong trả lời <Bạch Nhật Môn Dũng Sĩ/M Khô Lâu Động:99:64:Bạch Nhật Môn Dũng Sĩ>."
+    },
+    "128.name": {
+      "source": "利爪猫妖",
+      "target": "Lợi Trảo Miêu Yêu"
+    },
+    "128.target.0.location.entityName": {
+      "source": "利爪猫妖",
+      "target": "Lợi Trảo Miêu Yêu"
+    },
+    "129.content": {
+      "source": "拜访前方的<破军/M骷髅洞:137:35:破军>.",
+      "target": "Bái phỏng <Phá Quân/M Khô Lâu Động:137:35:Phá Quân> phía trước."
+    },
+    "129.name": {
+      "source": "昔日龙卫",
+      "target": "Tích Nhật Long Vệ"
+    },
+    "129.target.0.location.entityName": {
+      "source": "骷髅战将",
+      "target": "Khô Lâu Chiến Tướng"
+    },
+    "13.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "13.content": {
+      "source": "打败邪恶魔子后找到<骑士长/M群魔堡垒:94:123:骑士长>交付任务.",
+      "target": "Đánh bại Tà Ác Ma Tử xong tìm <Kỵ Sĩ Trưởng/M Quần Ma Bảo Lũy:94:123:Kỵ Sĩ Trưởng> giao nhiệm vụ."
+    },
+    "13.name": {
+      "source": "邪恶魔子",
+      "target": "Tà Ác Ma Tử"
+    },
+    "13.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "13.target.0.location.entityName": {
+      "source": "邪恶魔子",
+      "target": "Tà Ác Ma Tử"
+    },
+    "130.content": {
+      "source": "继续对话<破军/M骷髅洞:137:35:破军>.",
+      "target": "Tiếp tục nói chuyện <Phá Quân/M Khô Lâu Động:137:35:Phá Quân>."
+    },
+    "130.name": {
+      "source": "龙卫传说",
+      "target": "Long Vệ Truyền Thuyết"
+    },
+    "131.content": {
+      "source": "去僵尸洞找到<神龙勇士/M僵尸洞:79:141:神龙勇士>.",
+      "target": "Đến Cương Thi Động tìm <Thần Long Dũng Sĩ/M Cương Thi Động:79:141:Thần Long Dũng Sĩ>."
+    },
+    "131.name": {
+      "source": "尸洞危机",
+      "target": "Thi Động Nguy Cơ"
+    },
+    "132.content": {
+      "source": "消灭僵尸.",
+      "target": "Tiêu diệt Cương Thi."
+    },
+    "132.name": {
+      "source": "僵尸祸患",
+      "target": "Cương Thi Họa Hoạn"
+    },
+    "133.content": {
+      "source": "消灭银角虫.",
+      "target": "Tiêu diệt Ngân Giác Trùng."
+    },
+    "133.name": {
+      "source": "魔虫之灾",
+      "target": "Ma Trùng Chi Tai"
+    },
+    "134.content": {
+      "source": "消灭血僵尸后找到<尸洞高人/M僵尸洞:93:91:尸洞高人>交付任务.",
+      "target": "Tiêu diệt Huyết Cương Thi rồi tìm <Thi Động Cao Nhân/M Cương Thi Động:93:91:Thi Động Cao Nhân> giao nhiệm vụ."
+    },
+    "134.name": {
+      "source": "再接再厉",
+      "target": "Không Ngừng Cố Gắng"
+    },
+    "135.content": {
+      "source": "消灭怪物后找到<冒险者/M僵尸洞:82:60:冒险者>报告情况.",
+      "target": "Tiêu diệt quái vật xong tìm <Mạo Hiểm Giả/M Cương Thi Động:82:60:Mạo Hiểm Giả> báo cáo tình hình."
+    },
+    "135.name": {
+      "source": "碎裂僵尸",
+      "target": "Toái Liệt Cương Thi"
+    },
+    "135.target.0.location.entityName": {
+      "source": "碎裂僵尸",
+      "target": "Toái Liệt Cương Thi"
+    },
+    "136.content": {
+      "source": "消灭电僵尸后找到<炼金老者/M僵尸洞:103:43:炼金老者>交付任务.",
+      "target": "Tiêu diệt Điện Cương Thi rồi tìm <Luyện Kim Lão Giả/M Cương Thi Động:103:43:Luyện Kim Lão Giả> giao nhiệm vụ."
+    },
+    "136.name": {
+      "source": "除魔务尽",
+      "target": "Trừ Ma Vụ Tận"
+    },
+    "137.content": {
+      "source": "继续对话<炼金老者/M僵尸洞:103:43:炼金老者>.",
+      "target": "Tiếp tục nói chuyện <Luyện Kim Lão Giả/M Cương Thi Động:103:43:Luyện Kim Lão Giả>."
+    },
+    "137.name": {
+      "source": "三圣传说",
+      "target": "Tam Thánh Truyền Thuyết"
+    },
+    "138.content": {
+      "source": "去毒蛇山谷找到昔日的<羽林卫/M毒蛇山谷:55:151:羽林卫>.",
+      "target": "Đến Độc Xà Sơn Cốc tìm <Vũ Lâm Vệ/M Độc Xà Sơn Cốc:55:151:Vũ Lâm Vệ> năm xưa."
+    },
+    "138.name": {
+      "source": "不学无术",
+      "target": "Bất Học Vô Thuật"
+    },
+    "139.content": {
+      "source": "消灭怪物后找到<老兵/M毒蛇山谷:112:116:老兵>.",
+      "target": "Tiêu diệt quái vật xong tìm <Lão Binh/M Độc Xà Sơn Cốc:112:116:Lão Binh>."
+    },
+    "139.name": {
+      "source": "花斑蜘蛛",
+      "target": "Hoa Ban Tri Chu"
+    },
+    "139.target.0.location.entityName": {
+      "source": "花斑蜘蛛",
+      "target": "Hoa Ban Tri Chu"
+    },
+    "14.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "14.content": {
+      "source": "去火焰之河找<暗裔剑魔/M火焰之河:91:79:暗裔剑魔>.",
+      "target": "Đến Hỏa Diễm Chi Hà tìm <Ám Duệ Kiếm Ma/M Hỏa Diễm Chi Hà:91:79:Ám Duệ Kiếm Ma>."
+    },
+    "14.name": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "14.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "140.content": {
+      "source": "消灭前方的食人花后找到<山谷守卫/M毒蛇山谷:53:95:山谷守卫>交付任务.",
+      "target": "Tiêu diệt Thực Nhân Hoa phía trước rồi tìm <Sơn Cốc Thủ Vệ/M Độc Xà Sơn Cốc:53:95:Sơn Cốc Thủ Vệ> giao nhiệm vụ."
+    },
+    "140.name": {
+      "source": "食人花魔",
+      "target": "Thực Nhân Hoa Ma"
+    },
+    "141.content": {
+      "source": "消灭红蛇后回复<山谷守卫/M毒蛇山谷:53:95:山谷守卫>.",
+      "target": "Tiêu diệt Hồng Xà rồi trả lời <Sơn Cốc Thủ Vệ/M Độc Xà Sơn Cốc:53:95:Sơn Cốc Thủ Vệ>."
+    },
+    "141.name": {
+      "source": "毒蛇之灾",
+      "target": "Độc Xà Chi Tai"
+    },
+    "142.content": {
+      "source": "消灭残暴的兽族后回复<圣城使者/M毒蛇山谷:44:41:圣城使者>交付任务.",
+      "target": "Tiêu diệt Thú Tộc Tàn Bạo rồi trả lời <Thánh Thành Sứ Giả/M Độc Xà Sơn Cốc:44:41:Thánh Thành Sứ Giả> giao nhiệm vụ."
+    },
+    "142.name": {
+      "source": "兽族隐患",
+      "target": "Thú Tộc Ẩn Hoạn"
+    },
+    "143.content": {
+      "source": "拜访<奥斯玛/M王城:84:66:奥斯玛>.",
+      "target": "Bái phỏng <Ozzy/M Vương Thành:84:66:Ozzy>."
+    },
+    "143.name": {
+      "source": "圣城祭司",
+      "target": "Thánh Thành Tế Tư"
+    },
+    "144.content": {
+      "source": "找到前方等待的幻影导师.",
+      "target": "Tìm Ảo Ảnh Đạo Sư đang đợi phía trước."
+    },
+    "144.name": {
+      "source": "初临大陆",
+      "target": "Sơ Lâm Đại Lục"
+    },
+    "145.content": {
+      "source": "消灭前方的幼龙后找到仙踪精灵.",
+      "target": "Tiêu diệt Ấu Long phía trước xong tìm Tiên Tung Tinh Linh."
+    },
+    "145.name": {
+      "source": "幼龙之灾",
+      "target": "Ấu Long Chi Tai"
+    },
+    "146.comp.npc": {
+      "source": "玛雅使者",
+      "target": "Maya Sứ Giả"
+    },
+    "146.content": {
+      "source": "找<玛雅使者/M勇者大陆:220:175:玛雅使者>对话.",
+      "target": "Tìm <Maya Sứ Giả/M Dũng Giả Đại Lục:220:175:Maya Sứ Giả> nói chuyện."
+    },
+    "146.name": {
+      "source": "玛雅使者",
+      "target": "Maya Sứ Giả"
+    },
+    "147.content": {
+      "source": "找到<海罗德/M勇者大陆:265:221:海罗德>对话.",
+      "target": "Tìm <Herod/M Dũng Giả Đại Lục:265:221:Herod> nói chuyện."
+    },
+    "147.name": {
+      "source": "赠送装备",
+      "target": "Tặng Trang Bị"
+    },
+    "147.prom.npc": {
+      "source": "玛雅使者",
+      "target": "Maya Sứ Giả"
+    },
+    "148.content": {
+      "source": "消灭牛怪后找到<少女安娜/M勇者大陆:286:251:少女安娜>对话.",
+      "target": "Tiêu diệt Ngưu Quái rồi tìm <Thiếu Nữ Anna/M Dũng Giả Đại Lục:286:251:Thiếu Nữ Anna> nói chuyện."
+    },
+    "148.name": {
+      "source": "消灭牛怪",
+      "target": "Tiêu Diệt Ngưu Quái"
+    },
+    "149.content": {
+      "source": "消灭骷髅怪后找到<少女安娜/M勇者大陆:286:251:少女安娜>对话.",
+      "target": "Tiêu diệt Khô Lâu Quái rồi tìm <Thiếu Nữ Anna/M Dũng Giả Đại Lục:286:251:Thiếu Nữ Anna> nói chuyện."
+    },
+    "149.name": {
+      "source": "邪恶骷髅",
+      "target": "Tà Ác Khô Lâu"
+    },
+    "15.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "15.content": {
+      "source": "猎杀并调查邪恶之母后找<蛮王/M火焰之河:135:52:蛮王>交付.",
+      "target": "Săn giết và điều tra Tà Ác Chi Mẫu xong tìm <Man Vương/M Hỏa Diễm Chi Hà:135:52:Man Vương> giao phó."
+    },
+    "15.name": {
+      "source": "发光之体",
+      "target": "Phát Quang Chi Thể"
+    },
+    "15.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "150.content": {
+      "source": "消灭黑巫师后找<露西/M冰风谷:35:51:露西>对话.",
+      "target": "Tiêu diệt Hắc Vu Sư rồi tìm <Lucy/M Băng Phong Cốc:35:51:Lucy> nói chuyện."
+    },
+    "150.name": {
+      "source": "黑暗巫师",
+      "target": "Hắc Ám Vu Sư"
+    },
+    "151.content": {
+      "source": "消灭血虫后找到<苏菲菲/M冰风谷:59:87:苏菲菲>对话.",
+      "target": "Tiêu diệt Huyết Trùng rồi tìm <Tô Phỉ Phỉ/M Băng Phong Cốc:59:87:Tô Phỉ Phỉ> nói chuyện."
+    },
+    "151.name": {
+      "source": "冰地血虫",
+      "target": "Băng Địa Huyết Trùng"
+    },
+    "152.content": {
+      "source": "消灭寒冰魔怪后找<阿莱恩/M冰风谷:72:91:阿莱恩>对话.",
+      "target": "Tiêu diệt Hàn Băng Ma Quái rồi tìm <Alain/M Băng Phong Cốc:72:91:Alain> nói chuyện."
+    },
+    "152.name": {
+      "source": "寒冰魔怪",
+      "target": "Hàn Băng Ma Quái"
+    },
+    "153.content": {
+      "source": "消灭前方的暗杀者后找到<赛薇娜/M冰风谷:105:67:赛薇娜>交付.",
+      "target": "Tiêu diệt Ám Sát Giả phía trước rồi tìm <Savina/M Băng Phong Cốc:105:67:Savina> giao phó."
+    },
+    "153.name": {
+      "source": "暗杀军团",
+      "target": "Ám Sát Quân Đoàn"
+    },
+    "154.content": {
+      "source": "消灭前方的雪后找到<赛薇娜/M冰风谷:105:67:赛薇娜>交付.",
+      "target": "Tiêu diệt Tuyết Hậu phía trước rồi tìm <Savina/M Băng Phong Cốc:105:67:Savina> giao phó."
+    },
+    "154.name": {
+      "source": "寒冰皇后",
+      "target": "Hàn Băng Hoàng Hậu"
+    },
+    "155.content": {
+      "source": "进入亚特兰蒂斯找到<罗兰佣兵/M亚特兰蒂斯:49:80:罗兰佣兵>.",
+      "target": "Tiến vào Atlantis tìm <Roland Dung Binh/M Atlantis:49:80:Roland Dung Binh>."
+    },
+    "155.name": {
+      "source": "远古文明",
+      "target": "Viễn Cổ Văn Minh"
+    },
+    "156.content": {
+      "source": "消灭小巴哈姆特后找到<塞尔维思/M亚特兰蒂斯:97:92:塞尔维思>.",
+      "target": "Tiêu diệt Tiểu Bahamut rồi tìm <Selrys/M Atlantis:97:92:Selrys>."
+    },
+    "156.name": {
+      "source": "食人恶鱼",
+      "target": "Thực Nhân Ác Ngư"
+    },
+    "157.content": {
+      "source": "消灭蓝翼海怪后找到<奥斯本/M亚特兰蒂斯:103:132:奥斯本>交付.",
+      "target": "Tiêu diệt Lam Dực Hải Quái rồi tìm <Osborn/M Atlantis:103:132:Osborn> giao phó."
+    },
+    "157.name": {
+      "source": "蓝翼海怪",
+      "target": "Lam Dực Hải Quái"
+    },
+    "157.target.0.location.entityName": {
+      "source": "蓝翼海怪",
+      "target": "Lam Dực Hải Quái"
+    },
+    "158.content": {
+      "source": "消灭大巴哈姆特后找到<卡隆/M亚特兰蒂斯:144:161:卡隆>.",
+      "target": "Tiêu diệt Đại Bahamut rồi tìm <Charon/M Atlantis:144:161:Charon>."
+    },
+    "158.name": {
+      "source": "食人鱼灾",
+      "target": "Thực Nhân Ngư Tai"
+    },
+    "159.content": {
+      "source": "消灭银弓海怪后找到<莉亚儿/M亚特兰蒂斯:34:44:莉亚儿>.",
+      "target": "Tiêu diệt Ngân Cung Hải Quái rồi tìm <Liar/M Atlantis:34:44:Liar>."
+    },
+    "159.name": {
+      "source": "银弓海怪",
+      "target": "Ngân Cung Hải Quái"
+    },
+    "159.target.0.location.entityName": {
+      "source": "银弓海怪",
+      "target": "Ngân Cung Hải Quái"
+    },
+    "16.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "16.content": {
+      "source": "消灭邪恶之母后找到<瑞卡夫/M火焰之河:138:94:瑞卡夫>对话.",
+      "target": "Tiêu diệt Tà Ác Chi Mẫu xong tìm <Radament/M Hỏa Diễm Chi Hà:138:94:Radament> nói chuyện."
+    },
+    "16.name": {
+      "source": "邪恶之母",
+      "target": "Tà Ác Chi Mẫu"
+    },
+    "16.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "16.target.0.location.entityName": {
+      "source": "邪恶之母",
+      "target": "Tà Ác Chi Mẫu"
+    },
+    "160.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "160.content": {
+      "source": "消灭海妖后找到<迪恩/M失落之塔:104:137:迪恩>交付.",
+      "target": "Tiêu diệt Hải Yêu rồi tìm <Dean/M Thất Lạc Chi Tháp:104:137:Dean> giao phó."
+    },
+    "160.name": {
+      "source": "海妖之患",
+      "target": "Hải Yêu Chi Hoạn"
+    },
+    "161.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "161.content": {
+      "source": "对话<迪恩/M失落之塔:104:137:迪恩>交付.",
+      "target": "Nói chuyện <Dean/M Thất Lạc Chi Tháp:104:137:Dean> giao phó."
+    },
+    "161.name": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "161.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "162.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "162.content": {
+      "source": "消灭鬼魅后找到<迪恩/M失落之塔:104:137:迪恩>交付.",
+      "target": "Tiêu diệt Quỷ Mị rồi tìm <Dean/M Thất Lạc Chi Tháp:104:137:Dean> giao phó."
+    },
+    "162.name": {
+      "source": "魔鬼之灾",
+      "target": "Ma Quỷ Chi Tai"
+    },
+    "162.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "163.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "163.content": {
+      "source": "消灭牛魔王后找到<尤达/M失落之塔:69:112:尤达>交付.",
+      "target": "Tiêu diệt Ngưu Ma Vương rồi tìm <Yoda/M Thất Lạc Chi Tháp:69:112:Yoda> giao phó."
+    },
+    "163.name": {
+      "source": "牛魔王怪",
+      "target": "Ngưu Ma Vương Quái"
+    },
+    "163.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "164.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "164.content": {
+      "source": "消灭诅咒巫师后找到<罗斯兰/M失落之塔:55:74:罗斯兰>.",
+      "target": "Tiêu diệt Nguyền Rủa Vu Sư rồi tìm <Rosalind/M Thất Lạc Chi Tháp:55:74:Rosalind>."
+    },
+    "164.name": {
+      "source": "诅咒巫师",
+      "target": "Nguyền Rủa Vu Sư"
+    },
+    "164.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "164.target.0.location.entityName": {
+      "source": "诅咒巫师",
+      "target": "Nguyền Rủa Vu Sư"
+    },
+    "165.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "165.content": {
+      "source": "继续对话<罗斯兰/M失落之塔:55:74:罗斯兰>.",
+      "target": "Tiếp tục nói chuyện <Rosalind/M Thất Lạc Chi Tháp:55:74:Rosalind>."
+    },
+    "165.name": {
+      "source": "战盟往事",
+      "target": "Chiến Minh Chuyện Cũ"
+    },
+    "165.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "166.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "166.content": {
+      "source": "消灭失落戈登后找<艾维斯/M失落之塔:51:53:艾维斯>对话.",
+      "target": "Tiêu diệt Thất Lạc Gordon rồi tìm <Elvis/M Thất Lạc Chi Tháp:51:53:Elvis> nói chuyện."
+    },
+    "166.name": {
+      "source": "失落戈登",
+      "target": "Thất Lạc Gordon"
+    },
+    "166.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "166.target.0.location.entityName": {
+      "source": "失落戈登",
+      "target": "Thất Lạc Gordon"
+    },
+    "167.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "167.content": {
+      "source": "消灭失落骑士后找<特鲁娜/M失落之塔:76:76:特鲁娜>对话.",
+      "target": "Tiêu diệt Thất Lạc Kỵ Sĩ rồi tìm <Truna/M Thất Lạc Chi Tháp:76:76:Truna> nói chuyện."
+    },
+    "167.name": {
+      "source": "失落骑士",
+      "target": "Thất Lạc Kỵ Sĩ"
+    },
+    "167.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "167.target.0.location.entityName": {
+      "source": "失落骑士",
+      "target": "Thất Lạc Kỵ Sĩ"
+    },
+    "168.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "168.content": {
+      "source": "继续对话<特鲁娜/M失落之塔:76:76:特鲁娜>.",
+      "target": "Tiếp tục nói chuyện <Truna/M Thất Lạc Chi Tháp:76:76:Truna>."
+    },
+    "168.name": {
+      "source": "魔王之力",
+      "target": "Ma Vương Chi Lực"
+    },
+    "168.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "169.comp.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "169.content": {
+      "source": "消灭巴洛克后找到<特鲁娜/M失落之塔:76:76:特鲁娜>交付.",
+      "target": "Tiêu diệt Balrog rồi tìm <Truna/M Thất Lạc Chi Tháp:76:76:Truna> giao phó."
+    },
+    "169.name": {
+      "source": "魔王巴洛克",
+      "target": "Ma Vương Balrog"
+    },
+    "169.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "169.target.0.location.entityName": {
+      "source": "魔王巴洛克",
+      "target": "Ma Vương Balrog"
+    },
+    "17.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "17.content": {
+      "source": "消灭黑暗骑士后找<罗格勇士/M火焰之河:91:131:罗格勇士>交付任务.",
+      "target": "Tiêu diệt Hắc Ám Kỵ Sĩ xong tìm <Rogue Dũng Sĩ/M Hỏa Diễm Chi Hà:91:131:Rogue Dũng Sĩ> giao nhiệm vụ."
+    },
+    "17.name": {
+      "source": "黑暗骑士",
+      "target": "Hắc Ám Kỵ Sĩ"
+    },
+    "17.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "17.target.0.location.entityName": {
+      "source": "黑暗骑士",
+      "target": "Hắc Ám Kỵ Sĩ"
+    },
+    "170.comp.npc": {
+      "source": "魔导帕蒂",
+      "target": "Ma Đạo Patty"
+    },
+    "170.content": {
+      "source": "拜访<魔导帕蒂/M勇者大陆:116:144:魔导帕蒂>对话.",
+      "target": "Bái phỏng <Ma Đạo Patty/M Dũng Giả Đại Lục:116:144:Ma Đạo Patty> nói chuyện."
+    },
+    "170.name": {
+      "source": "魔导帕蒂",
+      "target": "Ma Đạo Patty"
+    },
+    "170.prom.scene": {
+      "source": "失落之塔",
+      "target": "Thất Lạc Chi Tháp"
+    },
+    "171.name": {
+      "source": "出发圣城",
+      "target": "Xuất Phát Thánh Thành"
+    },
+    "171.prom.npc": {
+      "source": "魔导帕蒂",
+      "target": "Ma Đạo Patty"
+    },
+    "172.content": {
+      "source": "拜访<奥斯玛/M王城:84:66:奥斯玛>.",
+      "target": "Bái phỏng <Ozzy/M Vương Thành:84:66:Ozzy>."
+    },
+    "172.name": {
+      "source": "祭司之力",
+      "target": "Tế Tư Chi Lực"
+    },
+    "173.content": {
+      "source": "领取赏金任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦.",
+      "target": "Nhận nhiệm vụ Tiền Thưởng, thông qua làm mới có thể nhận phần thưởng phong phú, nhớ kỹ hoàn thành nhiệm vụ xong có thể nhận phần thưởng gấp nhiều lần nha."
+    },
+    "173.name": {
+      "source": "赏金任务",
+      "target": "Thưởng Kim Nhiệm Vụ"
+    },
+    "173.target.10.location.entityName": {
+      "source": "堕落兽王",
+      "target": "Đọa Lạc Thú Vương"
+    },
+    "173.target.11.location.entityName": {
+      "source": "剧毒甲虫",
+      "target": "Kịch Độc Giáp Trùng"
+    },
+    "173.target.12.location.entityName": {
+      "source": "爆裂魔兽",
+      "target": "Bạo Liệt Ma Thú"
+    },
+    "173.target.13.location.entityName": {
+      "source": "利爪魔怪",
+      "target": "Lợi Trảo Ma Quái"
+    },
+    "173.target.14.location.entityName": {
+      "source": "八歧魔蛇",
+      "target": "Bát Kỳ Ma Xà"
+    },
+    "173.target.15.location.entityName": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Hộ Vệ"
+    },
+    "173.target.16.location.entityName": {
+      "source": "恶魔伯爵",
+      "target": "Ác Ma Bá Tước"
+    },
+    "173.target.17.location.entityName": {
+      "source": "狂暴丛林兽",
+      "target": "Cuồng Bạo Tùng Lâm Thú"
+    },
+    "173.target.19.location.entityName": {
+      "source": "罗格巨人",
+      "target": "Rogue Cự Nhân"
+    },
+    "173.target.2.location.entityName": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "173.target.20.location.entityName": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Hộ Vệ"
+    },
+    "173.target.8.location.entityName": {
+      "source": "狂暴迦蛇",
+      "target": "Cuồng Bạo Già Xà"
+    },
+    "174.content": {
+      "source": "领取狩猎任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦.",
+      "target": "Nhận nhiệm vụ Thú Liệp, thông qua làm mới có thể nhận phần thưởng phong phú, nhớ kỹ hoàn thành nhiệm vụ xong có thể nhận phần thưởng gấp nhiều lần nha."
+    },
+    "174.name": {
+      "source": "狩猎任务",
+      "target": "Thú Liệp Nhiệm Vụ"
+    },
+    "174.target.10.location.entityName": {
+      "source": "堕落兽王",
+      "target": "Đọa Lạc Thú Vương"
+    },
+    "174.target.11.location.entityName": {
+      "source": "剧毒甲虫",
+      "target": "Kịch Độc Giáp Trùng"
+    },
+    "174.target.12.location.entityName": {
+      "source": "爆裂魔兽",
+      "target": "Bạo Liệt Ma Thú"
+    },
+    "174.target.13.location.entityName": {
+      "source": "利爪魔怪",
+      "target": "Lợi Trảo Ma Quái"
+    },
+    "174.target.14.location.entityName": {
+      "source": "八歧魔蛇",
+      "target": "Bát Kỳ Ma Xà"
+    },
+    "174.target.15.location.entityName": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Hộ Vệ"
+    },
+    "174.target.16.location.entityName": {
+      "source": "恶魔伯爵",
+      "target": "Ác Ma Bá Tước"
+    },
+    "174.target.17.location.entityName": {
+      "source": "狂暴丛林兽",
+      "target": "Cuồng Bạo Tùng Lâm Thú"
+    },
+    "174.target.19.location.entityName": {
+      "source": "罗格巨人",
+      "target": "Rogue Cự Nhân"
+    },
+    "174.target.2.location.entityName": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "174.target.20.location.entityName": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Hộ Vệ"
+    },
+    "174.target.21.location.entityName": {
+      "source": "八歧魔蛇",
+      "target": "Bát Kỳ Ma Xà"
+    },
+    "174.target.22.location.entityName": {
+      "source": "爆裂魔兽",
+      "target": "Bạo Liệt Ma Thú"
+    },
+    "174.target.23.location.entityName": {
+      "source": "利爪魔怪",
+      "target": "Lợi Trảo Ma Quái"
+    },
+    "174.target.24.location.entityName": {
+      "source": "狂暴丛林兽",
+      "target": "Cuồng Bạo Tùng Lâm Thú"
+    },
+    "174.target.26.location.entityName": {
+      "source": "罗格巨人",
+      "target": "Rogue Cự Nhân"
+    },
+    "174.target.27.location.entityName": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Hộ Vệ"
+    },
+    "174.target.8.location.entityName": {
+      "source": "狂暴迦蛇",
+      "target": "Cuồng Bạo Già Xà"
+    },
+    "175.content": {
+      "source": "每日杀怪，经验多多!",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều!"
+    },
+    "175.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "176.content": {
+      "source": "装备强化等级越高,获得的属性越显著,快去强化装备吧!",
+      "target": "Cấp cường hóa trang bị càng cao, thuộc tính nhận được càng rõ rệt, mau đi cường hóa trang bị đi!"
+    },
+    "176.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "177.content": {
+      "source": "好的装备属性,都是鉴定出来的.",
+      "target": "Trang bị có thuộc tính tốt, đều là giám định ra đó."
+    },
+    "177.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "178.content": {
+      "source": "升级装备可以获得强大的属性,快去升级装备吧!",
+      "target": "Nâng cấp trang bị có thể nhận được thuộc tính cường đại, mau đi nâng cấp trang bị đi!"
+    },
+    "178.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "179.content": {
+      "source": "五阶坐骑就会开通兽魂功能,兽魂将能大幅度提升战力,快去升级坐骑吧!",
+      "target": "Thú cưỡi bậc 5 sẽ mở ra tính năng Thú Hồn, Thú Hồn sẽ có thể tăng mạnh chiến lực, mau đi thăng cấp thú cưỡi đi!"
+    },
+    "179.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "18.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "18.content": {
+      "source": "打败巨大恶魔后找<梅杰夫/M火焰之河:72:133:梅杰夫>交付.",
+      "target": "Đánh bại Cự Đại Ác Ma xong tìm <Meshif/M Hỏa Diễm Chi Hà:72:133:Meshif> giao phó."
+    },
+    "18.name": {
+      "source": "挑战恶魔",
+      "target": "Khiêu Chiến Ác Ma"
+    },
+    "18.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "180.content": {
+      "source": "鉴定符文能获得更加强大的属性,快去鉴定符文吧!",
+      "target": "Giám định Phù Văn có thể nhận được thuộc tính cường đại hơn, mau đi giám định Phù Văn đi!"
+    },
+    "180.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "181.content": {
+      "source": "队友是你最佳的战力,快去寻找你的小伙伴吧!",
+      "target": "Đồng đội là chiến lực tốt nhất của ngươi, mau đi tìm tiểu hỏa bạn của ngươi đi!"
+    },
+    "181.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "182.content": {
+      "source": "每日杀怪,经验多多.!",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều.!"
+    },
+    "182.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "183.content": {
+      "source": "每日杀怪,经验多多",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều"
+    },
+    "183.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "184.content": {
+      "source": "每日杀怪,经验多多.!",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều.!"
+    },
+    "184.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "185.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "185.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "186.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "186.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "186.target.1.location.entityName": {
+      "source": "嗜血骑士",
+      "target": "Thí Huyết Kỵ Sĩ"
+    },
+    "186.target.3.location.entityName": {
+      "source": "杀戮恶魔",
+      "target": "Sát Lục Ác Ma"
+    },
+    "187.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "187.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "187.target.2.location.entityName": {
+      "source": "嗜血骑士",
+      "target": "Thí Huyết Kỵ Sĩ"
+    },
+    "187.target.4.location.entityName": {
+      "source": "杀戮恶魔",
+      "target": "Sát Lục Ác Ma"
+    },
+    "188.content": {
+      "source": "朋友多了路好走,快去添加好友吧!",
+      "target": "Nhiều bạn bè dễ đi đường, mau đi thêm hảo hữu đi!"
+    },
+    "188.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "189.content": {
+      "source": "朋友多了路好走,快去添加好友吧!",
+      "target": "Nhiều bạn bè dễ đi đường, mau đi thêm hảo hữu đi!"
+    },
+    "189.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "19.comp.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "19.content": {
+      "source": "消灭骷髅战将后找<梅杰夫/M火焰之河:72:133:梅杰夫>交付任务.",
+      "target": "Tiêu diệt Khô Lâu Chiến Tướng xong tìm <Meshif/M Hỏa Diễm Chi Hà:72:133:Meshif> giao nhiệm vụ."
+    },
+    "19.name": {
+      "source": "骷髅战将",
+      "target": "Khô Lâu Chiến Tướng"
+    },
+    "19.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "19.target.0.location.entityName": {
+      "source": "骷髅战将",
+      "target": "Khô Lâu Chiến Tướng"
+    },
+    "190.content": {
+      "source": "朋友多了路好走,快去添加好友吧!",
+      "target": "Nhiều bạn bè dễ đi đường, mau đi thêm hảo hữu đi!"
+    },
+    "190.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "191.content": {
+      "source": "朋友多了路好走,快去添加好友吧!",
+      "target": "Nhiều bạn bè dễ đi đường, mau đi thêm hảo hữu đi!"
+    },
+    "191.name": {
+      "source": "每日任务",
+      "target": "Mỗi Ngày Nhiệm Vụ"
+    },
+    "192.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "192.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "192.target.3.location.entityName": {
+      "source": "嗜血骑士",
+      "target": "Thí Huyết Kỵ Sĩ"
+    },
+    "192.target.4.location.entityName": {
+      "source": "嗜血骑士",
+      "target": "Thí Huyết Kỵ Sĩ"
+    },
+    "193.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "193.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "193.target.0.location.entityName": {
+      "source": "杀戮恶魔",
+      "target": "Sát Lục Ác Ma"
+    },
+    "193.target.4.location.entityName": {
+      "source": "嗜血骑士",
+      "target": "Thí Huyết Kỵ Sĩ"
+    },
+    "194.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "194.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "194.target.0.location.entityName": {
+      "source": "嗜血骑士",
+      "target": "Thí Huyết Kỵ Sĩ"
+    },
+    "194.target.1.location.entityName": {
+      "source": "杀戮恶魔",
+      "target": "Sát Lục Ác Ma"
+    },
+    "195.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "195.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "195.target.0.location.entityName": {
+      "source": "噬魂恶魔",
+      "target": "Phệ Hồn Ác Ma"
+    },
+    "196.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "196.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "196.target.1.location.entityName": {
+      "source": "噬魂恶魔",
+      "target": "Phệ Hồn Ác Ma"
+    },
+    "197.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "197.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "197.target.2.location.entityName": {
+      "source": "噬魂恶魔",
+      "target": "Phệ Hồn Ác Ma"
+    },
+    "198.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "198.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "198.target.3.location.entityName": {
+      "source": "噬魂恶魔",
+      "target": "Phệ Hồn Ác Ma"
+    },
+    "199.content": {
+      "source": "每日杀怪,经验多多.",
+      "target": "Mỗi ngày giết quái, kinh nghiệm vô cùng nhiều."
+    },
+    "199.name": {
+      "source": "击杀怪物",
+      "target": "Kích Sát Quái Vật"
+    },
+    "199.target.4.location.entityName": {
+      "source": "噬魂恶魔",
+      "target": "Phệ Hồn Ác Ma"
+    },
+    "2.content": {
+      "source": "猎杀营地外围的长钉恶魔后找到刺客娜塔亚.",
+      "target": "Săn giết Trường Đinh Ác Ma ở ngoại vi doanh địa xong tìm Thích Khách Natalya."
+    },
+    "2.name": {
+      "source": "恶魔隐患",
+      "target": "Ác Ma Ẩn Hoạn"
+    },
+    "20.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "20.content": {
+      "source": "去找到<石块荒野阿卡拉/M石块荒野:84:75:石块荒野阿卡拉>调查魔法石柱的事情.",
+      "target": "Đi tìm <Thạch Khối Hoang Dã Akara/M Thạch Khối Hoang Dã:84:75:Thạch Khối Hoang Dã Akara> điều tra chuyện Ma Pháp Thạch Trụ."
+    },
+    "20.name": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "20.prom.scene": {
+      "source": "火焰之河",
+      "target": "Hỏa Diễm Chi Hà"
+    },
+    "200.content": {
+      "source": "到达55级后,去找<任务使者/M屠龙城:134:130:任务使者>接受指引.",
+      "target": "Đạt đến cấp 55, đi tìm <Nhiệm Vụ Sứ Giả/M Đồ Long Thành:134:130:Nhiệm Vụ Sứ Giả> tiếp nhận chỉ dẫn."
+    },
+    "200.name": {
+      "source": "新的征程",
+      "target": "Tân Đích Chinh Trình"
+    },
+    "201.content": {
+      "source": "完成任务后去找<阿卡拉/M屠龙城:189:138:阿卡拉>对话.",
+      "target": "Hoàn thành nhiệm vụ xong tìm <Akara/M Đồ Long Thành:189:138:Akara> nói chuyện."
+    },
+    "201.name": {
+      "source": "添加一个好友",
+      "target": "Thêm Một Hảo Hữu"
+    },
+    "202.content": {
+      "source": "完成任务后找<贾美拉/M屠龙城:132:95:贾美拉>对话.",
+      "target": "Hoàn thành nhiệm vụ xong tìm <Jamella/M Đồ Long Thành:132:95:Jamella> nói chuyện."
+    },
+    "202.name": {
+      "source": "强化三次装备",
+      "target": "Cường Hóa 3 Lần Trang Bị"
+    },
+    "203.content": {
+      "source": "完成任务后找<任务使者/M屠龙城:134:130:屠龙城>对话.",
+      "target": "Hoàn thành nhiệm vụ xong tìm <Nhiệm Vụ Sứ Giả/M Đồ Long Thành:134:130:Đồ Long Thành> nói chuyện."
+    },
+    "203.name": {
+      "source": "提升一次坐骑",
+      "target": "Đề Thăng 1 Lần Thú Cưỡi"
+    },
+    "204.content": {
+      "source": "完成任务后,找<基德/M屠龙城:145:103:基德>对话.",
+      "target": "Hoàn thành nhiệm vụ xong, tìm <Gheed/M Đồ Long Thành:145:103:Gheed> nói chuyện."
+    },
+    "204.name": {
+      "source": "创建一次队伍",
+      "target": "Tạo 1 Lần Tổ Đội"
+    },
+    "205.content": {
+      "source": "找<沙滩大使/M屠龙城:162:131:沙滩大使>进入阳光沙滩,然后和<仓库管理员/M屠龙城:132:167:仓库管理员>对话",
+      "target": "Tìm <Sa Than Đại Sứ/M Đồ Long Thành:162:131:Sa Than Đại Sứ> tiến vào Dương Quang Sa Than (Bãi Cát Ánh Dương), sau đó cùng <Thương Khố Quản Lý Viên/M Đồ Long Thành:132:167:Thương Khố Quản Lý Viên> nói chuyện"
+    },
+    "205.name": {
+      "source": "完成一次阳光沙滩",
+      "target": "Hoàn Thành 1 Lần Dương Quang Sa Than"
+    },
+    "206.content": {
+      "source": "去找<马拉/M屠龙城:167:124:马拉>对话.",
+      "target": "Đi tìm <Mala/M Đồ Long Thành:167:124:Mala> nói chuyện."
+    },
+    "206.name": {
+      "source": "鉴定一次装备",
+      "target": "Giám Định 1 Lần Trang Bị"
+    },
+    "21.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "21.content": {
+      "source": "消灭禽兽后找到<暗黑奶牛/M石块荒野:26:150:暗黑奶牛>对话.",
+      "target": "Tiêu diệt Cầm Thú xong tìm <Ám Hắc Nãi Ngưu/M Thạch Khối Hoang Dã:26:150:Ám Hắc Nãi Ngưu> nói chuyện."
+    },
+    "21.name": {
+      "source": "空间裂缝",
+      "target": "Không Gian Liệt Phùng"
+    },
+    "21.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "22.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "22.content": {
+      "source": "跟<暗黑奶牛/M石块荒野:26:150:暗黑奶牛>对话.",
+      "target": "Cùng <Ám Hắc Nãi Ngưu/M Thạch Khối Hoang Dã:26:150:Ám Hắc Nãi Ngưu> nói chuyện."
+    },
+    "22.name": {
+      "source": "神秘奶牛关",
+      "target": "Thần Bí Nãi Ngưu Quan"
+    },
+    "22.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "23.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "23.content": {
+      "source": "劈死羊人后找<荒野守卫/M石块荒野:38:98:荒野守卫>对话.",
+      "target": "Bổ chết Dương Nhân xong tìm <Hoang Dã Thủ Vệ/M Thạch Khối Hoang Dã:38:98:Hoang Dã Thủ Vệ> nói chuyện."
+    },
+    "23.name": {
+      "source": "平生天敌",
+      "target": "Bình Sinh Thiên Địch"
+    },
+    "23.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "24.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "24.content": {
+      "source": "消灭污染怪后找<圣堂游侠/M石块荒野:63:61:圣堂游侠>交付任务.",
+      "target": "Tiêu diệt Ô Nhiễm Quái xong tìm <Thánh Đường Du Hiệp/M Thạch Khối Hoang Dã:63:61:Thánh Đường Du Hiệp> giao nhiệm vụ."
+    },
+    "24.name": {
+      "source": "污染荒野",
+      "target": "Ô Nhiễm Hoang Dã"
+    },
+    "24.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "25.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "25.content": {
+      "source": "消灭死神骑士后回复<麦琳/M石块荒野:109:55:麦琳>.",
+      "target": "Tiêu diệt Tử Thần Kỵ Sĩ xong trả lời <Mael/M Thạch Khối Hoang Dã:109:55:Mael>."
+    },
+    "25.name": {
+      "source": "神秘骑士",
+      "target": "Thần Bí Kỵ Sĩ"
+    },
+    "25.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "26.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "26.content": {
+      "source": "消灭精英暗黑骷髅王后找到<迪莫/M石块荒野:144:69:迪莫>对话.",
+      "target": "Tiêu diệt Tinh Anh Ám Hắc Khô Lâu Vương xong tìm <Timo/M Thạch Khối Hoang Dã:144:69:Timo> nói chuyện."
+    },
+    "26.name": {
+      "source": "精英怪物",
+      "target": "Tinh Anh Quái Vật"
+    },
+    "26.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "27.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "27.content": {
+      "source": "消灭死神戈登后找<罗格智者/M石块荒野:144:105:罗格智者>对话.",
+      "target": "Tiêu diệt Tử Thần Gordon xong tìm <Rogue Trí Giả/M Thạch Khối Hoang Dã:144:105:Rogue Trí Giả> nói chuyện."
+    },
+    "27.name": {
+      "source": "高大戈登",
+      "target": "Cao Đại Gordon"
+    },
+    "27.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "28.comp.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "28.content": {
+      "source": "消灭附近的堕落罗格后找<罗格智者/M罗格营地:63:61:罗格智者>交付.",
+      "target": "Tiêu diệt Đọa Lạc Rogue xung quanh xong tìm <Rogue Trí Giả/M Rogue Doanh Địa:63:61:Rogue Trí Giả> giao phó."
+    },
+    "28.name": {
+      "source": "遗忘之塔",
+      "target": "Di Vong Chi Tháp"
+    },
+    "28.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "29.content": {
+      "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
+      "target": "Tiêu diệt quái vật xong trả lời <Đại Thiên Sứ Tyrael/M Thánh Thành:223:140:Đại Thiên Sứ Tyrael>."
+    },
+    "29.prom.scene": {
+      "source": "石块荒野",
+      "target": "Thạch Khối Hoang Dã"
+    },
+    "3.content": {
+      "source": "拜访凯恩.",
+      "target": "Bái phỏng Cain."
+    },
+    "3.name": {
+      "source": "智者凯恩",
+      "target": "Trí Giả Cain"
+    },
+    "30.name": {
+      "source": "命运曙光",
+      "target": "Mệnh Vận Thự Quang"
+    },
+    "31.content": {
+      "source": "去邪恶洞穴内找到<暗黑法师/M邪恶的洞穴:105:112:暗黑法师>.",
+      "target": "Đến Tà Ác Động Huyệt tìm <Ám Hắc Pháp Sư/M Tà Ác Đích Động Huyệt:105:112:Ám Hắc Pháp Sư>."
+    },
+    "31.name": {
+      "source": "邪恶洞穴",
+      "target": "Tà Ác Động Huyệt"
+    },
+    "32.content": {
+      "source": "消灭沉沦祭司后回复<德鲁伊/M邪恶的洞穴:118:87:德鲁伊>.",
+      "target": "Tiêu diệt Trầm Luân Tế Tư xong trả lời <Druid/M Tà Ác Đích Động Huyệt:118:87:Druid>."
+    },
+    "32.name": {
+      "source": "沉沦一族",
+      "target": "Trầm Luân Nhất Tộc"
+    },
+    "33.content": {
+      "source": "消灭骷髅怪后回复<威娜/M邪恶的洞穴:113:44:威娜>.",
+      "target": "Tiêu diệt Khô Lâu Quái xong trả lời <Venna/M Tà Ác Đích Động Huyệt:113:44:Venna>."
+    },
+    "33.name": {
+      "source": "修女埋骨",
+      "target": "Tu Nữ Mai Cốt"
+    },
+    "34.name": {
+      "source": "利爪爬怪",
+      "target": "Lợi Trảo Ba Quái"
+    },
+    "34.target.0.location.entityName": {
+      "source": "利爪爬怪",
+      "target": "Lợi Trảo Ba Quái"
+    },
+    "35.content": {
+      "source": "消灭禽兽恶魔后回复<野蛮战士/M邪恶的洞穴:59:109:野蛮战士>.",
+      "target": "Tiêu diệt Cầm Thú Ác Ma xong trả lời <Dã Man Chiến Sĩ/M Tà Ác Đích Động Huyệt:59:109:Dã Man Chiến Sĩ>."
+    },
+    "35.name": {
+      "source": "噬魂老鼠",
+      "target": "Phệ Hồn Lão Thử"
+    },
+    "36.content": {
+      "source": "消灭堕落罗格卫兵后回复<野蛮战士/M邪恶的洞穴:59:109:野蛮战士>.",
+      "target": "Tiêu diệt Đọa Lạc Rogue Vệ Binh xong trả lời <Dã Man Chiến Sĩ/M Tà Ác Đích Động Huyệt:59:109:Dã Man Chiến Sĩ>."
+    },
+    "36.name": {
+      "source": "堕落罗格",
+      "target": "Đọa Lạc Rogue"
+    },
+    "37.content": {
+      "source": "找到<凯恩/M圣城:220:180:凯恩>.",
+      "target": "Tìm <Cain/M Thánh Thành:220:180:Cain>."
+    },
+    "37.name": {
+      "source": "魔神浩劫",
+      "target": "Ma Thần Hạo Kiếp"
+    },
+    "38.content": {
+      "source": "进入毁灭王座探寻.",
+      "target": "Tiến vào Hủy Diệt Vương Tọa tìm kiếm."
+    },
+    "38.name": {
+      "source": "毁灭王座",
+      "target": "Hủy Diệt Vương Tọa"
+    },
+    "39.content": {
+      "source": "拜访<恰西/M圣城:166:243:恰西>.",
+      "target": "Bái phỏng <Charsi/M Thánh Thành:166:243:Charsi>."
+    },
+    "39.name": {
+      "source": "铁匠恰西",
+      "target": "Thiết Tượng Charsi"
+    },
+    "4.content": {
+      "source": "拜访营地首领卡夏.",
+      "target": "Bái phỏng Doanh Địa Thủ Lĩnh Kashya."
+    },
+    "4.name": {
+      "source": "首领卡夏",
+      "target": "Thủ Lĩnh Kashya"
+    },
+    "40.content": {
+      "source": "去拜访来到圣城的<阿卡拉/M圣城:194:265:阿卡拉>.",
+      "target": "Đi bái phỏng <Akara/M Thánh Thành:194:265:Akara> mới tới Thánh Thành."
+    },
+    "40.name": {
+      "source": "熟人相见",
+      "target": "Thục Nhân Tương Kiến"
+    },
+    "41.content": {
+      "source": "找到圣城外的<玫瑰露娜/M圣城:363:42:玫瑰露娜>.",
+      "target": "Tìm <Mai Côi Luna/M Thánh Thành:363:42:Mai Côi Luna> ngoài Thánh Thành."
+    },
+    "41.name": {
+      "source": "库拉斯特",
+      "target": "Kurast"
+    },
+    "42.content": {
+      "source": "进入崔凡克内找到<恶魔猎手/M邪恶洞穴:212:50:恶魔猎手>.交付.",
+      "target": "Tiến vào Travincal tìm <Ác Ma Liệp Thủ/M Tà Ác Động Huyệt:212:50:Ác Ma Liệp Thủ>. giao phó."
+    },
+    "42.name": {
+      "source": "进入崔凡克",
+      "target": "Tiến Vào Travincal"
+    },
+    "43.content": {
+      "source": "消灭嗜血恶魔后回复<莱雅/M崔凡克:228:88:莱雅>.",
+      "target": "Tiêu diệt Thí Huyết Ác Ma xong trả lời <Leia/M Travincal:228:88:Leia>."
+    },
+    "43.name": {
+      "source": "嗜血恶魔",
+      "target": "Thí Huyết Ác Ma"
+    },
+    "43.target.0.location.entityName": {
+      "source": "嗜血恶魔",
+      "target": "Thí Huyết Ác Ma"
+    },
+    "44.content": {
+      "source": "猎杀食尸虫拯救<幸存游民/M崔凡克:194:101:幸存游民>.",
+      "target": "Săn giết Thực Thi Trùng giải cứu <Hạnh Tồn Du Dân/M Travincal:194:101:Hạnh Tồn Du Dân>."
+    },
+    "44.name": {
+      "source": "出手掩护",
+      "target": "Xuất Thủ Yểm Hộ"
+    },
+    "45.content": {
+      "source": "消灭青火恶魔后回复<智慧老者/M崔凡克:174:154:智慧老者>.",
+      "target": "Tiêu diệt Thanh Hỏa Ác Ma xong trả lời <Trí Tuệ Lão Giả/M Travincal:174:154:Trí Tuệ Lão Giả>."
+    },
+    "45.name": {
+      "source": "青火恶魔",
+      "target": "Thanh Hỏa Ác Ma"
+    },
+    "45.target.0.location.entityName": {
+      "source": "青火恶魔",
+      "target": "Thanh Hỏa Ác Ma"
+    },
+    "46.content": {
+      "source": "猎杀嗜血蝙蝠后找到<神秘刺客/M崔凡克:141:152:神秘刺客>交付任务.",
+      "target": "Săn giết Thí Huyết Biên Bức xong tìm <Thần Bí Thích Khách/M Travincal:141:152:Thần Bí Thích Khách> giao nhiệm vụ."
+    },
+    "46.name": {
+      "source": "嗜血蝙蝠",
+      "target": "Thí Huyết Biên Bức"
+    },
+    "46.target.0.location.entityName": {
+      "source": "嗜血蝙蝠",
+      "target": "Thí Huyết Biên Bức"
+    },
+    "47.content": {
+      "source": "消灭幻影祖玛教主.",
+      "target": "Tiêu diệt Ảo Ảnh Zuma Giáo Chủ."
+    },
+    "47.name": {
+      "source": "祖玛之力",
+      "target": "Zuma Chi Lực"
+    },
+    "48.comp.npc": {
+      "source": "猎魔勇士",
+      "target": "Liệp Ma Dũng Sĩ"
+    },
+    "48.content": {
+      "source": "拜访猎魔勇士.",
+      "target": "Bái phỏng Liệp Ma Dũng Sĩ."
+    },
+    "48.name": {
+      "source": "猎魔勇士",
+      "target": "Liệp Ma Dũng Sĩ"
+    },
+    "49.content": {
+      "source": "采集止血草.",
+      "target": "Thu thập Chỉ Huyết Thảo."
+    },
+    "49.name": {
+      "source": "采集草药",
+      "target": "Thái Tập Thảo Dược"
+    },
+    "49.prom.npc": {
+      "source": "猎魔勇士",
+      "target": "Liệp Ma Dũng Sĩ"
+    },
+    "5.content": {
+      "source": "拜访前面的女巫阿卡拉.",
+      "target": "Bái phỏng Nữ Vu Akara phía trước."
+    },
+    "5.name": {
+      "source": "女巫阿卡拉",
+      "target": "Nữ Vu Akara"
+    },
+    "50.content": {
+      "source": "消灭堕落战士后找到<圣堂祭司/M崔凡克:58:195:圣堂祭司>对话.",
+      "target": "Tiêu diệt Đọa Lạc Chiến Sĩ xong tìm <Thánh Đường Tế Tư/M Travincal:58:195:Thánh Đường Tế Tư> nói chuyện."
+    },
+    "50.name": {
+      "source": "光明之力",
+      "target": "Quang Minh Chi Lực"
+    },
+    "51.content": {
+      "source": "消灭尸虫后回复<圣堂祭司/M崔凡克:58:195:圣堂祭司>.",
+      "target": "Tiêu diệt Thi Trùng xong trả lời <Thánh Đường Tế Tư/M Travincal:58:195:Thánh Đường Tế Tư>."
+    },
+    "51.name": {
+      "source": "尸虫源头",
+      "target": "Thi Trùng Nguyên Đầu"
+    },
+    "52.content": {
+      "source": "拜访屠龙城<卓格南/M屠龙城:167:44:卓格南>.",
+      "target": "Bái phỏng Đồ Long Thành <Drognan/M Đồ Long Thành:167:44:Drognan>."
+    },
+    "52.name": {
+      "source": "鲁高因法师",
+      "target": "Lut Gholein Pháp Sư"
+    },
+    "53.comp.npc": {
+      "source": "亚马逊战士",
+      "target": "Amazon Chiến Sĩ"
+    },
+    "53.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "53.content": {
+      "source": "去黑暗神殿找到<亚马逊战士/M黑暗神殿:83:120:亚马逊战士>.",
+      "target": "Đến Hắc Ám Thần Điện tìm <Amazon Chiến Sĩ/M Hắc Ám Thần Điện:83:120:Amazon Chiến Sĩ>."
+    },
+    "53.name": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "54.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "54.content": {
+      "source": "消灭邪恶战士后找<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>.",
+      "target": "Tiêu diệt Tà Ác Chiến Sĩ xong tìm <Ám Hắc Thánh Kỵ/M Hắc Ám Thần Điện:152:86:Ám Hắc Thánh Kỵ>."
+    },
+    "54.name": {
+      "source": "地狱之门",
+      "target": "Địa Ngục Chi Môn"
+    },
+    "54.prom.npc": {
+      "source": "亚马逊战士",
+      "target": "Amazon Chiến Sĩ"
+    },
+    "54.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "55.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "55.content": {
+      "source": "消灭戈尔贡蛇人后回复<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>.",
+      "target": "Tiêu diệt Gorgon Xà Nhân rồi trả lời <Ám Hắc Thánh Kỵ/M Hắc Ám Thần Điện:152:86:Ám Hắc Thánh Kỵ>."
+    },
+    "55.name": {
+      "source": "利爪神殿",
+      "target": "Lợi Trảo Thần Điện"
+    },
+    "55.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "56.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "56.content": {
+      "source": "消灭邪恶爬怪后回复<神殿护卫/M黑暗神殿:107:40:神殿护卫>.",
+      "target": "Tiêu diệt Tà Ác Ba Quái xong trả lời <Thần Điện Hộ Vệ/M Hắc Ám Thần Điện:107:40:Thần Điện Hộ Vệ>."
+    },
+    "56.name": {
+      "source": "邪恶爬怪",
+      "target": "Tà Ác Ba Quái"
+    },
+    "56.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "56.target.0.location.entityName": {
+      "source": "邪恶爬怪",
+      "target": "Tà Ác Ba Quái"
+    },
+    "57.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "57.content": {
+      "source": "收集虫卵后回复<神殿护卫/M黑暗神殿:106:40:神殿护卫>.",
+      "target": "Thu thập Trùng Noãn rồi trả lời <Thần Điện Hộ Vệ/M Hắc Ám Thần Điện:106:40:Thần Điện Hộ Vệ>."
+    },
+    "57.name": {
+      "source": "大胆尝试",
+      "target": "To Gan Thử Thách"
+    },
+    "57.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "58.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "58.content": {
+      "source": "消灭骷髅魔仆后回复<暗影龙卫/M黑暗神殿:54:67:暗影龙卫>.",
+      "target": "Tiêu diệt Khô Lâu Ma Bộc rồi trả lời <Ám Ảnh Long Vệ/M Hắc Ám Thần Điện:54:67:Ám Ảnh Long Vệ>."
+    },
+    "58.name": {
+      "source": "试试身手",
+      "target": "Thử Thân Thủ"
+    },
+    "58.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "59.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "59.content": {
+      "source": "消灭剧毒尾蝎后回复<安德拉/M黑暗神殿:32:109:安德拉>.",
+      "target": "Tiêu diệt Kịch Độc Vĩ Hạt rồi trả lời <Andara/M Hắc Ám Thần Điện:32:109:Andara>."
+    },
+    "59.name": {
+      "source": "黑暗时代",
+      "target": "Hắc Ám Thời Đại"
+    },
+    "59.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "6.content": {
+      "source": "去营地外消灭沉沦恶魔后找到法师艾希.",
+      "target": "Ra ngoài doanh địa tiêu diệt Trầm Luân Ác Ma xong tìm Pháp Sư Ashe."
+    },
+    "6.name": {
+      "source": "沉沦恶魔",
+      "target": "Trầm Luân Ác Ma"
+    },
+    "60.comp.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "60.content": {
+      "source": "对话<安德拉/M黑暗神殿:32:109:安德拉>.",
+      "target": "Nói chuyện <Andara/M Hắc Ám Thần Điện:32:109:Andara>."
+    },
+    "60.name": {
+      "source": "破坏之力",
+      "target": "Phá Hoại Chi Lực"
+    },
+    "60.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "61.comp.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "61.content": {
+      "source": "去幽暗丛林找到<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>.",
+      "target": "Đến U Ám Tùng Lâm tìm <Hratli/M U Ám Tùng Lâm:153:127:Hratli>."
+    },
+    "61.name": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "61.prom.scene": {
+      "source": "黑暗神殿",
+      "target": "Hắc Ám Thần Điện"
+    },
+    "62.comp.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "62.content": {
+      "source": "消灭巨大蚊子后回复<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>.",
+      "target": "Tiêu diệt Cự Đại Văn Tử rồi trả lời <Hratli/M U Ám Tùng Lâm:153:127:Hratli>."
+    },
+    "62.name": {
+      "source": "恶虫之灾",
+      "target": "Ác Trùng Chi Tai"
+    },
+    "62.prom.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "63.comp.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "63.content": {
+      "source": "消灭丛林小恶魔后对话<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>.",
+      "target": "Tiêu diệt Tùng Lâm Tiểu Ác Ma rồi nói chuyện <Hratli/M U Ám Tùng Lâm:153:127:Hratli>."
+    },
+    "63.name": {
+      "source": "地狱喽啰",
+      "target": "Địa Ngục Lâu La"
+    },
+    "63.prom.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "64.comp.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "64.comp.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "64.content": {
+      "source": "消灭嗜血甲虫后对话<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>.",
+      "target": "Tiêu diệt Thí Huyết Giáp Trùng rồi nói chuyện <Ác Ma Sát Thủ/M U Ám Tùng Lâm:124:108:Ác Ma Sát Thủ>."
+    },
+    "64.name": {
+      "source": "嗜血甲虫",
+      "target": "Thí Huyết Giáp Trùng"
+    },
+    "64.prom.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "64.target.0.location.entityName": {
+      "source": "嗜血甲虫",
+      "target": "Thí Huyết Giáp Trùng"
+    },
+    "65.comp.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "65.comp.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "65.content": {
+      "source": "消灭丛林王后回复<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>..>.",
+      "target": "Tiêu diệt Tùng Lâm Vương rồi trả lời <Ác Ma Sát Thủ/M U Ám Tùng Lâm:124:108:Ác Ma Sát Thủ>."
+    },
+    "65.name": {
+      "source": "丛林魔王",
+      "target": "Tùng Lâm Ma Vương"
+    },
+    "65.prom.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "65.prom.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "66.comp.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "66.comp.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "66.content": {
+      "source": "消灭蛇怪后找到<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>交付.",
+      "target": "Tiêu diệt Xà Quái rồi tìm <Ác Ma Sát Thủ/M U Ám Tùng Lâm:124:108:Ác Ma Sát Thủ> giao phó."
+    },
+    "66.name": {
+      "source": "神殿蛇怪",
+      "target": "Thần Điện Xà Quái"
+    },
+    "66.prom.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "66.prom.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "67.comp.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "67.content": {
+      "source": "找<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>交付任务.",
+      "target": "Tìm <Hratli/M U Ám Tùng Lâm:153:127:Hratli> giao nhiệm vụ."
+    },
+    "67.name": {
+      "source": "佣兵事宜",
+      "target": "Dung Binh Sự Nghi"
+    },
+    "67.prom.npc": {
+      "source": "恶魔杀手",
+      "target": "Ác Ma Sát Thủ"
+    },
+    "67.prom.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "68.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "68.content": {
+      "source": "去拜访猎户沙雅.",
+      "target": "Đi bái phỏng Liệp Hộ Sa Nhã."
+    },
+    "68.name": {
+      "source": "屠龙城游历",
+      "target": "Đồ Long Thành Du Lịch"
+    },
+    "68.prom.scene": {
+      "source": "幽暗丛林",
+      "target": "U Ám Tùng Lâm"
+    },
+    "69.content": {
+      "source": "拜访服装店老板.屠龙城:103:55:国王骑士>.交付任务.拉铁力>.",
+      "target": "Bái phỏng Phục Trang Điếm Lão Bản."
+    },
+    "69.name": {
+      "source": "拜访服装店老板",
+      "target": "Bái Phỏng Phục Trang Điếm Lão Bản"
+    },
+    "69.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "7.content": {
+      "source": "消灭骷髅小怪后找到罗格哨兵交付任务.",
+      "target": "Tiêu diệt Khô Lâu Tiểu Quái xong tìm Rogue Tiêu Binh giao nhiệm vụ."
+    },
+    "7.name": {
+      "source": "永除后患",
+      "target": "Vĩnh Trừ Hậu Hoạn"
+    },
+    "70.content": {
+      "source": "了解狩猎任务.",
+      "target": "Tìm hiểu nhiệm vụ Thú Liệp."
+    },
+    "70.name": {
+      "source": "了解狩猎任务",
+      "target": "Tìm Hiểu Nhiệm Vụ Thú Liệp"
+    },
+    "71.comp.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "71.content": {
+      "source": "对话<猎户沙雅/M屠龙城:110:120:猎户沙雅>.",
+      "target": "Nói chuyện <Liệp Hộ Sa Nhã/M Đồ Long Thành:110:120:Liệp Hộ Sa Nhã>."
+    },
+    "71.name": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "72.content": {
+      "source": "拜访<国王骑士/M屠龙城:103:55:国王骑士>.",
+      "target": "Bái phỏng <Quốc Vương Kỵ Sĩ/M Đồ Long Thành:103:55:Quốc Vương Kỵ Sĩ>."
+    },
+    "72.name": {
+      "source": "护送美女",
+      "target": "Hộ Tống Mỹ Nữ"
+    },
+    "72.prom.npc": {
+      "source": "美女小佳",
+      "target": "Mỹ Nữ Tiểu Giai"
+    },
+    "73.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "73.content": {
+      "source": "去黑暗森林找到皇家圣骑.",
+      "target": "Đến Hắc Ám Sâm Lâm tìm Hoàng Gia Thánh Kỵ."
+    },
+    "73.name": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "74.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "74.content": {
+      "source": "消灭炼狱魔仆.",
+      "target": "Tiêu diệt Luyện Ngục Ma Bộc."
+    },
+    "74.name": {
+      "source": "恶魔仆从",
+      "target": "Ác Ma Bộc Tùng"
+    },
+    "74.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "75.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "75.content": {
+      "source": "继续对话沙漠佣兵",
+      "target": "Tiếp tục nói chuyện Sa Mạc Dung Binh."
+    },
+    "75.name": {
+      "source": "沙虫王的故事",
+      "target": "Sa Trùng Vương Câu Chuyện"
+    },
+    "75.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "76.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "76.content": {
+      "source": "消灭邪恶羊怪.",
+      "target": "Tiêu diệt Tà Ác Dương Quái."
+    },
+    "76.name": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "76.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "76.target.0.location.entityName": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "77.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "77.content": {
+      "source": "消灭狂暴迦蛇.",
+      "target": "Tiêu diệt Cuồng Bạo Già Xà."
+    },
+    "77.name": {
+      "source": "狂暴迦蛇",
+      "target": "Cuồng Bạo Già Xà"
+    },
+    "77.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "77.target.0.location.entityName": {
+      "source": "狂暴迦蛇",
+      "target": "Cuồng Bạo Già Xà"
+    },
+    "78.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "78.content": {
+      "source": "消灭剧毒甲虫.",
+      "target": "Tiêu diệt Kịch Độc Giáp Trùng."
+    },
+    "78.name": {
+      "source": "剧毒甲虫",
+      "target": "Kịch Độc Giáp Trùng"
+    },
+    "78.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "78.target.0.location.entityName": {
+      "source": "剧毒甲虫",
+      "target": "Kịch Độc Giáp Trùng"
+    },
+    "79.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "79.content": {
+      "source": "消灭罗格巨人.",
+      "target": "Tiêu diệt Rogue Cự Nhân."
+    },
+    "79.name": {
+      "source": "罗格巨人",
+      "target": "Rogue Cự Nhân"
+    },
+    "79.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "79.target.0.location.entityName": {
+      "source": "罗格巨人",
+      "target": "Rogue Cự Nhân"
+    },
+    "8.comp.npc": {
+      "source": "罗格佣兵",
+      "target": "Rogue Dung Binh"
+    },
+    "8.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "8.name": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "80.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "80.content": {
+      "source": "消灭八歧魔蛇.",
+      "target": "Tiêu diệt Bát Kỳ Ma Xà."
+    },
+    "80.name": {
+      "source": "八歧魔蛇",
+      "target": "Bát Kỳ Ma Xà"
+    },
+    "80.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "80.target.0.location.entityName": {
+      "source": "八歧魔蛇",
+      "target": "Bát Kỳ Ma Xà"
+    },
+    "81.comp.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "81.content": {
+      "source": "消灭狂暴丛林兽.",
+      "target": "Tiêu diệt Cuồng Bạo Tùng Lâm Thú."
+    },
+    "81.name": {
+      "source": "狂暴丛林兽",
+      "target": "Cuồng Bạo Tùng Lâm Thú"
+    },
+    "81.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "81.target.0.location.entityName": {
+      "source": "狂暴丛林兽",
+      "target": "Cuồng Bạo Tùng Lâm Thú"
+    },
+    "82.comp.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "82.content": {
+      "source": "去黑暗教堂冒险.",
+      "target": "Đến Hắc Ám Giáo Đường mạo hiểm."
+    },
+    "82.name": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "82.prom.scene": {
+      "source": "黑暗森林",
+      "target": "Hắc Ám Sâm Lâm"
+    },
+    "83.comp.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "83.content": {
+      "source": "消灭堕落兽王.",
+      "target": "Tiêu diệt Đọa Lạc Thú Vương."
+    },
+    "83.name": {
+      "source": "堕落兽王",
+      "target": "Đọa Lạc Thú Vương"
+    },
+    "83.prom.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "83.target.0.location.entityName": {
+      "source": "堕落兽王",
+      "target": "Đọa Lạc Thú Vương"
+    },
+    "84.comp.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "84.content": {
+      "source": "消灭恶魔伯爵.",
+      "target": "Tiêu diệt Ác Ma Bá Tước."
+    },
+    "84.name": {
+      "source": "恶魔伯爵",
+      "target": "Ác Ma Bá Tước"
+    },
+    "84.prom.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "84.target.0.location.entityName": {
+      "source": "恶魔伯爵",
+      "target": "Ác Ma Bá Tước"
+    },
+    "85.comp.npc": {
+      "source": "暗黑刺客",
+      "target": "Ám Hắc Thích Khách"
+    },
+    "85.comp.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "85.content": {
+      "source": "消灭嗜血王.",
+      "target": "Tiêu diệt Thí Huyết Vương."
+    },
+    "85.name": {
+      "source": "嗜血魔王",
+      "target": "Thí Huyết Ma Vương"
+    },
+    "85.prom.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "86.comp.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "86.content": {
+      "source": "消灭利爪神殿长.",
+      "target": "Tiêu diệt Lợi Trảo Thần Điện Trưởng."
+    },
+    "86.name": {
+      "source": "利爪魔怪",
+      "target": "Lợi Trảo Ma Quái"
+    },
+    "86.prom.npc": {
+      "source": "暗黑刺客",
+      "target": "Ám Hắc Thích Khách"
+    },
+    "86.prom.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "86.target.0.location.entityName": {
+      "source": "利爪魔怪",
+      "target": "Lợi Trảo Ma Quái"
+    },
+    "87.comp.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "87.content": {
+      "source": "去埋骨之地.",
+      "target": "Đến Mai Cốt Chi Địa."
+    },
+    "87.name": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "87.prom.scene": {
+      "source": "黑暗教堂",
+      "target": "Hắc Ám Giáo Đường"
+    },
+    "88.comp.npc": {
+      "source": "首领护卫",
+      "target": "Thủ Lĩnh Hộ Vệ"
+    },
+    "88.comp.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "88.content": {
+      "source": "消灭血鸟护卫.",
+      "target": "Tiêu diệt Huyết Điểu Hộ Vệ."
+    },
+    "88.name": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Hộ Vệ"
+    },
+    "88.prom.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "88.target.0.location.entityName": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Hộ Vệ"
+    },
+    "89.comp.npc": {
+      "source": "罗格安雅",
+      "target": "Rogue Anya"
+    },
+    "89.comp.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "89.content": {
+      "source": "消灭沉沦石像鬼.",
+      "target": "Tiêu diệt Trầm Luân Thạch Tượng Quỷ."
+    },
+    "89.name": {
+      "source": "石像恶鬼",
+      "target": "Thạch Tượng Ác Quỷ"
+    },
+    "89.prom.npc": {
+      "source": "首领护卫",
+      "target": "Thủ Lĩnh Hộ Vệ"
+    },
+    "89.prom.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "9.comp.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "9.content": {
+      "source": "消灭前方的沉沦魔巫师后找到<龙行者/M群魔堡垒:68:82:龙行者>.",
+      "target": "Tiêu diệt Trầm Luân Ma Vu Sư phía trước xong tìm <Long Hành Giả/M Quần Ma Bảo Lũy:68:82:Long Hành Giả>."
+    },
+    "9.name": {
+      "source": "支援前方",
+      "target": "Chi Viện Tiền Phương"
+    },
+    "9.prom.npc": {
+      "source": "罗格佣兵",
+      "target": "Rogue Dung Binh"
+    },
+    "9.prom.scene": {
+      "source": "群魔堡垒",
+      "target": "Quần Ma Bảo Lũy"
+    },
+    "90.comp.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "90.content": {
+      "source": "消灭鬼蛇.",
+      "target": "Tiêu diệt Quỷ Xà."
+    },
+    "90.name": {
+      "source": "神秘鬼蛇",
+      "target": "Thần Bí Quỷ Xà"
+    },
+    "90.prom.npc": {
+      "source": "罗格安雅",
+      "target": "Rogue Anya"
+    },
+    "90.prom.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "91.comp.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "91.content": {
+      "source": "消灭爆裂魔兽.",
+      "target": "Tiêu diệt Bạo Liệt Ma Thú."
+    },
+    "91.name": {
+      "source": "爆裂魔兽",
+      "target": "Bạo Liệt Ma Thú"
+    },
+    "91.prom.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "91.target.0.location.entityName": {
+      "source": "爆裂魔兽",
+      "target": "Bạo Liệt Ma Thú"
+    },
+    "92.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "92.content": {
+      "source": "去世界要塞冒险.",
+      "target": "Đến Thế Giới Yếu Tắc mạo hiểm."
+    },
+    "92.name": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "92.prom.scene": {
+      "source": "埋骨之地",
+      "target": "Mai Cốt Chi Địa"
+    },
+    "93.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "93.content": {
+      "source": "消灭甲虫恶魔.",
+      "target": "Tiêu diệt Giáp Trùng Ác Ma."
+    },
+    "93.name": {
+      "source": "恶魔甲虫",
+      "target": "Ác Ma Giáp Trùng"
+    },
+    "93.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "94.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "94.content": {
+      "source": "消灭诅咒将军.",
+      "target": "Tiêu diệt Nguyền Rủa Tướng Quân."
+    },
+    "94.name": {
+      "source": "诅咒将军",
+      "target": "Nguyền Rủa Tướng Quân"
+    },
+    "94.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "94.target.0.location.entityName": {
+      "source": "诅咒将军",
+      "target": "Nguyền Rủa Tướng Quân"
+    },
+    "95.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "95.content": {
+      "source": "消灭恶魔鬼.",
+      "target": "Tiêu diệt Ác Ma Quỷ."
+    },
+    "95.name": {
+      "source": "要塞恶鬼",
+      "target": "Yếu Tắc Ác Quỷ"
+    },
+    "95.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "96.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "96.content": {
+      "source": "消灭铁血兽人.",
+      "target": "Tiêu diệt Thiết Huyết Thú Nhân."
+    },
+    "96.name": {
+      "source": "铁血兽人",
+      "target": "Thiết Huyết Thú Nhân"
+    },
+    "96.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "96.target.0.location.entityName": {
+      "source": "铁血兽人",
+      "target": "Thiết Huyết Thú Nhân"
+    },
+    "97.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "97.content": {
+      "source": "消灭诅咒法师.",
+      "target": "Tiêu diệt Nguyền Rủa Pháp Sư."
+    },
+    "97.name": {
+      "source": "邪恶力量",
+      "target": "Tà Ác Lực Lượng"
+    },
+    "97.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "97.target.0.location.entityName": {
+      "source": "诅咒法师",
+      "target": "Nguyền Rủa Pháp Sư"
+    },
+    "98.comp.npc": {
+      "source": "天启者",
+      "target": "Thiên Khải Giả"
+    },
+    "98.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "98.content": {
+      "source": "消灭爆裂怒迦.",
+      "target": "Tiêu diệt Bạo Liệt Nộ Gia."
+    },
+    "98.name": {
+      "source": "一丝希望",
+      "target": "Một Tia Hi Vọng"
+    },
+    "98.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "99.comp.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "99.content": {
+      "source": "消灭邪恶戈登.",
+      "target": "Tiêu diệt Tà Ác Gordon."
+    },
+    "99.name": {
+      "source": "邪恶戈登",
+      "target": "Tà Ác Gordon"
+    },
+    "99.prom.npc": {
+      "source": "天启者",
+      "target": "Thiên Khải Giả"
+    },
+    "99.prom.scene": {
+      "source": "世界要塞",
+      "target": "Thế Giới Yếu Tắc"
+    },
+    "99.target.0.location.entityName": {
+      "source": "邪恶戈登",
+      "target": "Tà Ác Gordon"
+    }
+  },
+  "metadata": {
+    "matched_and_changed": 693,
+    "merged_from": [
+      "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\ahtl-quest-catalogs\\chunk4.json",
+      "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\ahtl-quest-catalogs\\chunk5.json",
+      "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\ahtl-quest-catalogs\\chunk6.json"
+    ]
+  }
+}

@@ -5,6 +5,7 @@ Các lệnh chính:
   skill-catalog  Tạo catalog JSON từ Skill.txt và skillconfig.cbp sạch.
   item-catalog   Tạo catalog JSON từ Item gốc và Item tiếng Việt.
   value-catalog  Tạo catalog từ các file Lua đối chiếu theo cùng khóa.
+  merge-catalogs Gộp các catalog cùng CBP, kiểm tra xung đột từng node.
   apply          Áp catalog vào một file CBP.
   apply-zip      Áp catalog vào đúng file bên trong cbp.zip.
   validate       Đọc và kiểm tra toàn bộ cây của một file CBP.
@@ -548,6 +549,43 @@ def command_value_catalog(args: argparse.Namespace) -> None:
     )
 
 
+def command_merge_catalogs(args: argparse.Namespace) -> None:
+    catalogs = [load_catalog(path) for path in args.catalog]
+    file_names = {catalog.get("file") for catalog in catalogs}
+    if len(file_names) != 1 or not isinstance(next(iter(file_names)), str):
+        raise CbpError("Các catalog cần gộp phải cùng một file CBP")
+    translations: dict[str, dict[str, str]] = {}
+    conflicts: list[str] = []
+    for path, catalog in zip(args.catalog, catalogs):
+        for node_path, entry in catalog["translations"].items():
+            existing = translations.get(node_path)
+            if existing is not None and existing != entry:
+                conflicts.append(
+                    f"{node_path}: {existing.get('target')!r} <> {entry.get('target')!r} ({path})"
+                )
+                continue
+            translations[node_path] = entry
+    if conflicts:
+        raise CbpError(
+            f"Có {len(conflicts)} xung đột catalog: " + "; ".join(conflicts[:10])
+        )
+    output = {
+        "format": 1,
+        "file": next(iter(file_names)),
+        "description": "Catalog CBP đã gộp từ các lô Việt hóa an toàn",
+        "translations": dict(sorted(translations.items())),
+        "metadata": {
+            "matched_and_changed": len(translations),
+            "merged_from": [str(path) for path in args.catalog],
+        },
+    }
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(
+        json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(f"Đã gộp {args.output}: {len(translations)} câu thay đổi")
+
+
 def command_apply(args: argparse.Namespace) -> None:
     catalog = load_catalog(args.catalog)
     output, changed, nodes = apply_catalog(args.input.read_bytes(), catalog)
@@ -662,6 +700,13 @@ def build_parser() -> argparse.ArgumentParser:
     value.add_argument("--allow-partial", action="store_true")
     value.add_argument("--output", type=Path, required=True)
     value.set_defaults(func=command_value_catalog)
+
+    merge = sub.add_parser(
+        "merge-catalogs", help="Gộp catalog cùng file CBP với kiểm tra xung đột"
+    )
+    merge.add_argument("--catalog", type=Path, action="append", required=True)
+    merge.add_argument("--output", type=Path, required=True)
+    merge.set_defaults(func=command_merge_catalogs)
 
     apply = sub.add_parser("apply", help="Áp catalog vào một file CBP")
     apply.add_argument("--input", type=Path, required=True)

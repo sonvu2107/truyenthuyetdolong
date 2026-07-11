@@ -1,5 +1,5 @@
 {
-  "version": "20260711questvi1",
+  "version": "20260711questvi2",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -34,7 +34,7 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "BDDCD89A22D3F916D66A304677587AD38C8DF5CB3208143AE30D95933BA9F715"
+      "sha256": "B2D9C1A44451FB42771873E3684E9E117C15C496D315F652982D7B788E5B06ED"
     },
     {
       "source": "assets/game/GameConfig.php",
