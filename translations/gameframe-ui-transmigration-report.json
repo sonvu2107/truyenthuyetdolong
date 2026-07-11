@@ -1,0 +1,201 @@
+{
+  "changed": 28,
+  "changes": [
+    {
+      "key": "transmigration[0]",
+      "line": 5630,
+      "source": "Vai trò Chuyển Sinh",
+      "target": "Chuyển Sinh",
+      "category": "title"
+    },
+    {
+      "key": "transmigration[1]",
+      "line": 5631,
+      "source": "Trình độ văn minh thế giới hiện nay:",
+      "target": "<font face='Tahoma' size='12'>Cấp thế giới:</font>",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[2]",
+      "line": 5632,
+      "source": "Hiện đang sở hữu linh hồn của Chuyển Sinh:",
+      "target": "<font face='Tahoma' size='12'>Linh phách CS:</font>",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[3]",
+      "line": 5633,
+      "source": "Giới hạn CS:",
+      "target": "<font face='Tahoma' size='12'>Giới hạn CS:</font>",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[4]",
+      "line": 5634,
+      "source": "Bạn hiện đã truy cập Chuyển Sinh lần:",
+      "target": "<font face='Tahoma' size='12'>Số lần CS:</font>",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[5]",
+      "line": 5635,
+      "source": "rẽ",
+      "target": " CS",
+      "category": "unit"
+    },
+    {
+      "key": "transmigration[6]",
+      "line": 5636,
+      "source": "cấp độ",
+      "target": "",
+      "category": "unit"
+    },
+    {
+      "key": "transmigration[7]",
+      "line": 5637,
+      "source": "điểm",
+      "target": "",
+      "category": "unit"
+    },
+    {
+      "key": "transmigration[9]",
+      "line": 5639,
+      "source": "nhận được",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "transmigration[10]",
+      "line": 5640,
+      "source": "Nâng cấp nhanh",
+      "target": "Tăng cấp",
+      "category": "button"
+    },
+    {
+      "key": "transmigration[11]",
+      "line": 5641,
+      "source": "Kiếm tiền nhanh",
+      "target": "Kiếm xu",
+      "category": "button"
+    },
+    {
+      "key": "transmigration[12]",
+      "line": 5642,
+      "source": "Nhận linh hồn",
+      "target": "Nhận",
+      "category": "button"
+    },
+    {
+      "key": "transmigration[14]",
+      "line": 5644,
+      "source": "Tôi muốn Chuyển SinhTrang Bị",
+      "target": "Xem đồ CS",
+      "category": "caption"
+    },
+    {
+      "key": "transmigration[18]",
+      "line": 5648,
+      "source": "Hiệu ứng thưởng $num$Chuyển Sinh:",
+      "target": "<font face='Tahoma' size='12'>Thưởng CS $num$:</font>",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[19]",
+      "line": 5649,
+      "source": "Yêu cầu chuyển ký tự $num$:",
+      "target": "<font face='Tahoma' size='12'>Yêu cầu CS $num$:</font>",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[20]",
+      "line": 5650,
+      "source": "Kim Tệ Khóa：$num$\n",
+      "target": "Xu khóa: $num$\n",
+      "category": "description"
+    },
+    {
+      "key": "transmigration[21]",
+      "line": 5651,
+      "source": "Cấp độ nhân vật: $num$",
+      "target": "Cấp: $num$\n",
+      "category": "description"
+    },
+    {
+      "key": "transmigration[22]",
+      "line": 5652,
+      "source": "Tinh thần Chuyển Sinh: $num$",
+      "target": "Linh phách: $num$",
+      "category": "description"
+    },
+    {
+      "key": "transmigration[23]",
+      "line": 5653,
+      "source": "Không đủ linh hồn",
+      "target": "Thiếu linh phách",
+      "category": "message"
+    },
+    {
+      "key": "transmigration[24]",
+      "line": 5654,
+      "source": "Không đủ vốn ràng buộc",
+      "target": "Thiếu xu khóa",
+      "category": "message"
+    },
+    {
+      "key": "transmigration[25]",
+      "line": 5655,
+      "source": "Cấp độ nhân vật hiện tại là $num$. Nếu bạn nâng cấp lên $num$, bạn có thể thay đổi Chuyển Sinh thành $num$.",
+      "target": "Cấp $num$ · Cần thêm $num$ cấp để CS $num$.",
+      "category": "message"
+    },
+    {
+      "key": "transmigration[27]",
+      "line": 5657,
+      "source": "Sản sinh ra linh hồn Chuyển Sinh:",
+      "target": "Linh phách nhận:",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[28]",
+      "line": 5658,
+      "source": "Sản sinh tâm hồn",
+      "target": "Tạo linh phách",
+      "category": "button"
+    },
+    {
+      "key": "transmigration[31]",
+      "line": 5661,
+      "source": "<font color = '#cccccc'>1, các thuộc tính cơ bản của nhân vật có thể được cải thiện <br>2, có thể đeo Chuyển SinhTrang Bị<br>3, Kỹ Năng có thể được nâng cấp </font>",
+      "target": "<font face='Tahoma' size='12' color='#cccccc'>1. Tăng thuộc tính<br>2. Trang bị đồ CS<br>3. Nâng cấp kỹ năng</font>",
+      "category": "description"
+    },
+    {
+      "key": "transmigration[34]",
+      "line": 5664,
+      "source": "<A href='event:1'><font size = '15' color='#00cc33'><b>I muốn Chuyển SinhTrang Bị</b></font></A>",
+      "target": "<A href='event:1'><font face='Tahoma' size='12' color='#00cc33'><b>Xem đồ CS</b></font></A>",
+      "category": "link"
+    },
+    {
+      "key": "transmigration[35]",
+      "line": 5665,
+      "source": "Bảo Thạch Phòng Ngự tối đa: $VALUE$",
+      "target": "Thủ Hồn Thạch: $VALUE$",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[37]",
+      "line": 5667,
+      "source": "Nhân vật <font size = '17' color='#ff33cc'><b> $num$ có thể Chuyển Sinh</b></font>",
+      "target": "<font face='Tahoma' size='12'>Cấp <font size='16' color='#ff33cc'><b>$num$ mở CS</b></font></font>",
+      "category": "caption"
+    },
+    {
+      "key": "transmigration[38]",
+      "line": 5668,
+      "source": ", ký tự $num$ có thể là Chuyển Sinh",
+      "target": ", cấp $num$ mở CS",
+      "category": "caption"
+    }
+  ]
+}

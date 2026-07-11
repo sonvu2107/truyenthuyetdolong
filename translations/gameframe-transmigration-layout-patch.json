@@ -1,0 +1,34 @@
+{
+  "format": 1,
+  "description": "Sắp lại bốn thông số của TransmigrationPage trong khung logic 475 px.",
+  "files": [
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationPage.as",
+      "replacements": [
+        {"source": "this._label1.setSize(120,25);\n         this._label1.move(40 - 5,102 - 65);", "target": "this._label1.setSize(88,25);\n         this._label1.move(35,37);", "expected": 1},
+        {"source": "this._label2.setSize(120,25);\n         this._label2.move(this._label1.x + this._label1.uiWidth + 5,this._label1.y);", "target": "this._label2.setSize(52,25);\n         this._label2.move(128,this._label1.y);", "expected": 1},
+        {"source": "this._label3.setSize(120,25);\n         this._label3.move(40 - 5,127 - 65);", "target": "this._label3.setSize(88,25);\n         this._label3.move(35,62);", "expected": 1},
+        {"source": "this._label4.setSize(120,25);\n         this._label4.move(this._label3.x + this._label3.uiWidth + 5,this._label3.y);", "target": "this._label4.setSize(52,25);\n         this._label4.move(128,this._label3.y);", "expected": 1},
+        {"source": "this._label5.setSize(120,25);\n         this._label5.move(280 - 5,102 - 65);", "target": "this._label5.setSize(85,25);\n         this._label5.move(250,37);", "expected": 1},
+        {"source": "this._label6.setSize(120,25);\n         this._label6.move(this._label5.x + this._label5.uiWidth - 5,this._label5.y);", "target": "this._label6.setSize(70,25);\n         this._label6.move(340,this._label5.y);", "expected": 1},
+        {"source": "this._label7.setSize(120,25);\n         this._label7.move(280 - 5,127 - 65);", "target": "this._label7.setSize(85,25);\n         this._label7.move(250,62);", "expected": 1},
+        {"source": "this._label8.setSize(120,25);\n         this._label8.move(this._label7.x + this._label7.uiWidth - 5,this._label7.y);", "target": "this._label8.setSize(70,25);\n         this._label8.move(340,this._label7.y);", "expected": 1},
+        {"source": "this.goToWoldLvBtn.move(220 - 5,98 - 65);", "target": "this.goToWoldLvBtn.move(185,33);", "expected": 1},
+        {"source": "this.goToFBBtn.move(220 - 5,125 - 65);", "target": "this.goToFBBtn.move(185,60);", "expected": 1},
+        {"source": "<font color=\\'#cccccc\\'>", "target": "<font face=\\'Tahoma\\' size=\\'12\\' color=\\'#cccccc\\'>", "expected": 4},
+        {"source": "<textformat leading=\\'3\\'><font color = \\'#00cc33\\'>", "target": "<textformat leading=\\'2\\'><font face=\\'Tahoma\\' size=\\'12\\' color=\\'#00cc33\\'>", "expected": 2},
+        {"source": "<font color = \\'#f3f328\\'>", "target": "<font face=\\'Tahoma\\' size=\\'12\\' color=\\'#f3f328\\'>", "expected": 7},
+        {"source": "_loc5_ = _loc5_.replace(\"$num$\",_loc3_.id + LangManager.Lang.transmigration[5] + _loc3_.lv + LangManager.Lang.transmigration[6]);", "target": "_loc5_ = _loc5_.replace(\"$num$\",_loc3_.id + LangManager.Lang.transmigration[5] + \" · cấp \" + _loc3_.lv + LangManager.Lang.transmigration[6]);", "expected": 1},
+        {"source": "this.lvText.caption = LangManager.Lang.transmigration[37].toString().replace(\"$num$\",_loc3_.id + LangManager.Lang.transmigration[5] + _loc3_.lv + LangManager.Lang.transmigration[6]);", "target": "this.lvText.caption = LangManager.Lang.transmigration[37].toString().replace(\"$num$\",_loc3_.id + LangManager.Lang.transmigration[5] + \" · cấp \" + _loc3_.lv + LangManager.Lang.transmigration[6]);", "expected": 1},
+        {"source": "_loc6_ = GlobalData.role.actorCircle + LangManager.Lang.transmigration[5] + GlobalData.role.level;", "target": "_loc6_ = GlobalData.role.actorCircle + LangManager.Lang.transmigration[5] + \" · cấp \" + GlobalData.role.level;", "expected": 1}
+      ]
+    },
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationWin.as",
+      "replacements": [
+        {"source": "_loc5_ = _loc5_.replace(\"$num$\",_loc3_.id + LangManager.Lang.transmigration[5] + _loc3_.lv + LangManager.Lang.transmigration[6]);", "target": "_loc5_ = _loc5_.replace(\"$num$\",_loc3_.id + LangManager.Lang.transmigration[5] + \" · cấp \" + _loc3_.lv + LangManager.Lang.transmigration[6]);", "expected": 1},
+        {"source": "_loc5_ = GlobalData.role.actorCircle + LangManager.Lang.transmigration[5] + GlobalData.role.level;", "target": "_loc5_ = GlobalData.role.actorCircle + LangManager.Lang.transmigration[5] + \" · cấp \" + GlobalData.role.level;", "expected": 1}
+      ]
+    }
+  ]
+}

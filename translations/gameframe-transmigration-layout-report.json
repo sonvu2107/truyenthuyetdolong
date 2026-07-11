@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationPage.as",
+      "replacement_count": 26
+    },
+    {
+      "path": "scripts/view/game/transmigration/TransmigrationWin.as",
+      "replacement_count": 2
+    }
+  ],
+  "replacement_count": 28
+}

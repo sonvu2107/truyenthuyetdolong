@@ -1,5 +1,5 @@
 {
-  "version": "20260711short2",
+  "version": "20260711csui1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "994D77244D63123FA47FE767423B85745701CB884B9CE7C34AFB9EBDDF36122E"
+      "sha256": "CEFE79487B0423B5955E4265F2D79811B1F0D527294D136E105C68A78BCA574C"
     },
     {
       "source": "assets/ClientLang.txt",

@@ -106,6 +106,14 @@ nhận được
 => Nhận
 ```
 
+### Quy ước riêng cho Chuyển Sinh
+
+- `Chuyển Sinh` có thể viết tắt thành `CS` trong nhãn hẹp, nhưng giữ nguyên trong tiêu đề chính.
+- Dùng `Linh phách` thay cho các bản dịch máy `linh hồn Chuyển Sinh` hoặc `tinh thần Chuyển Sinh`.
+- Bốn nhãn cố định là `Cấp thế giới`, `Giới hạn CS`, `Linh phách CS`, `Số lần CS`.
+- Hộp yêu cầu phải tách ba dòng: `Xu khóa`, `Cấp`, `Linh phách`.
+- Thông báo thiếu cấp dùng mẫu `Cấp X · Cần thêm Y cấp để CS Z`.
+
 ## Quy tắc cho CBP
 
 - Chỉ sửa `target` trong các file `*.vi.json`.
