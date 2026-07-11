@@ -32,6 +32,8 @@ Phiên bản `20260711routefix2` giữ nền login, chế độ phóng to gamepl
 
 Nút toàn màn hình trong shell gọi `window.external.ToggleFullscreen()` khi chạy bằng `launcher/AHTL_Launcher_Fixed.exe`. Launcher .NET Framework x86 này giữ tương thích Flash ActiveX 32-bit, chuyển cửa sổ native sang `FormBorderStyle.None + Maximized`, hỗ trợ F11/Esc và khôi phục đúng kích thước cũ. Build lại bằng `powershell -ExecutionPolicy Bypass -File launcher/Build-Launcher.ps1`.
 
+Phiên bản `20260711uifit1` chỉnh riêng bảng thưởng đăng nhập: dùng Arial 14 cho phần tiếng Việt, chèn `<br>` ở mô tả thưởng tuần và rút gọn các tab/tên hàng. Hệ thống label của game render chữ thành bitmap từ một `TextField` đã bật `multiline`; vì vậy xuống dòng có chủ đích bằng `<br>` an toàn hơn việc ép `wordWrap` hoặc đổi font toàn cục. Các thay đổi tái lập nằm trong `translations/gameframe-ui-fit-overrides.json`.
+
 Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
 
 ## Biên dịch CBP an toàn

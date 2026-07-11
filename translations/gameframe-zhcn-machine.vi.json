@@ -7320,14 +7320,14 @@
     },
     "welfare[51]": {
       "source_expression": "\"登陆奖励\"",
-      "target": "Đăng nhập Phần Thưởng",
+      "target": "Thưởng Đăng Nhập",
       "review": "machine",
       "source_line": 3668,
       "source_sha256": "e44d440a017678497c8f30d10f101adbb0b60446429b1d654ae653d32fb0aa16"
     },
     "welfare[52]": {
       "source_expression": "\"升级礼包\"",
-      "target": "Nâng cấp Gói Quà",
+      "target": "Quà Lên Cấp",
       "review": "machine",
       "source_line": 3669,
       "source_sha256": "a23374cb67590171260ef78a04edda8ebff1c9417440612ddb490d74a0e5f913"
@@ -10330,15 +10330,15 @@
     },
     "landingReward[5]": {
       "source_expression": "\"<font size = \\'17\\'>每周登陆7天将获得全勤奖，您本周已登陆<font color = \\'#00ff00\\' size = \\'17\\'>$value$</font>天</font>\"",
-      "target": "<font size = '17'> sẽ nhận được giải thưởng tham dự hoàn hảo nếu bạn đăng nhập 7 ngày một tuần. Bạn đã đăng nhập <font color = '#00ff00' size = '17'>$value$</font> các ngày trong tuần này</font>",
-      "review": "machine",
+      "target": "<font face='Arial' size='14'>Đủ 7 ngày nhận thưởng tuần.<br>Tuần này: <font color='#00ff00'>$value$</font>/7 ngày</font>",
+      "review": "manual-ui-fit",
       "source_line": 4747,
       "source_sha256": "bbd6825681189b0691544c04c68fba804fbaa3131c9bc8e7e2854853a1dbb176"
     },
     "landingReward[6]": {
       "source_expression": "\"累计登陆第$value$天\"",
-      "target": "Tổng số ngày đăng nhập $value$",
-      "review": "machine",
+      "target": "<font face='Arial' size='14'>Ngày đăng nhập: $value$</font>",
+      "review": "manual-ui-fit",
       "source_line": 4748,
       "source_sha256": "4fc0fce786aefbca9f709e2984667b75a90e3164d81ca35fb584b6d1fba41b63"
     },

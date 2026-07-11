@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "description": "Rút gọn và định dạng riêng các nhãn phúc lợi dài; áp sau bước Việt hóa lang.ZH_CN.",
+  "files": [
+    {
+      "path": "scripts/lang/ZH_CN.as",
+      "replacements": [
+        {
+          "source": "welfare[1] = \"Quan Tâm Trực Tuyến\";",
+          "target": "welfare[1] = \"Quan Tâm Online\";",
+          "expected": 1
+        },
+        {
+          "source": "welfare[3] = \"Nạp Thẻ Bất Ngờ\";",
+          "target": "welfare[3] = \"Nạp Bất Ngờ\";",
+          "expected": 1
+        },
+        {
+          "source": "welfare[4] = \"Dâng Tặng Lễ Bao\";",
+          "target": "welfare[4] = \"Đổi Mã Quà\";",
+          "expected": 1
+        },
+        {
+          "source": "welfare[51] = \"Đăng nhập Phần Thưởng\";",
+          "target": "welfare[51] = \"Thưởng Đăng Nhập\";",
+          "expected": 1
+        },
+        {
+          "source": "welfare[52] = \"Nâng cấp Gói Quà\";",
+          "target": "welfare[52] = \"Quà Lên Cấp\";",
+          "expected": 1
+        },
+        {
+          "source": "landingReward[2] = \"<font size = \\'17\\'>Còn thiếu <font color = \\'#00ff00\\' size = \\'17\\'>$value$</font> ngày</font>\";",
+          "target": "landingReward[2] = \"<font face=\\'Arial\\' size=\\'14\\'>Thiếu <font color=\\'#00ff00\\'>$value$</font> ngày</font>\";",
+          "expected": 1
+        },
+        {
+          "source": "landingReward[3] = \"<font size = \\'17\\'>Số Ngày Đăng Nhập                Phần Thưởng</font>\";",
+          "target": "landingReward[3] = \"<font face=\\'Arial\\' size=\\'14\\'>Ngày đăng nhập                         Phần thưởng</font>\";",
+          "expected": 1
+        },
+        {
+          "source": "landingReward[4] = \"<font size = \\'17\\'>Đăng nhập ngày thứ <font color = \\'#00ff00\\' size = \\'17\\'>$value$</font></font>\";",
+          "target": "landingReward[4] = \"<font face=\\'Arial\\' size=\\'14\\'>Đăng nhập ngày <font color=\\'#00ff00\\'>$value$</font></font>\";",
+          "expected": 1
+        },
+        {
+          "source": "landingReward[5] = \"<font size = \\'17\\'> sẽ nhận được giải thưởng tham dự hoàn hảo nếu bạn đăng nhập 7 ngày một tuần. Bạn đã đăng nhập <font color = \\'#00ff00\\' size = \\'17\\'>$value$</font> các ngày trong tuần này</font>\";",
+          "target": "landingReward[5] = \"<font face=\\'Arial\\' size=\\'14\\'>Đủ 7 ngày nhận thưởng tuần.<br>Tuần này: <font color=\\'#00ff00\\'>$value$</font>/7 ngày</font>\";",
+          "expected": 1
+        },
+        {
+          "source": "landingReward[6] = \"Tổng số ngày đăng nhập $value$\";",
+          "target": "landingReward[6] = \"<font face=\\'Arial\\' size=\\'14\\'>Ngày đăng nhập: $value$</font>\";",
+          "expected": 1
+        }
+      ]
+    }
+  ]
+}

@@ -2380,10 +2380,10 @@ answer =
 welfare = 
 {
 	 "Phúc Lợi Chiến Thần",
-	 "Quan Tâm Trực Tuyến",
+	 "Quan Tâm Online",
 	 "Năng Động Mỗi Ngày",
-	 "Nạp Thẻ Bất Ngờ",
-	 "Dâng Tặng Lễ Bao",
+	 "Nạp Bất Ngờ",
+	 "Đổi Mã Quà",
 	 "Vui lòng nhập mã thẻ",
 	 "Nhận Lễ Bao",
 	 "<font color='#ffff00'>Hướng dẫn nhận lễ bao:</font><br/>Dán mã kích hoạt được phát trong hoạt động offline vào khung nhập mã thẻ phía trên, nhấn nút nhận thưởng để nhận lễ bao hoạt động tương ứng",
@@ -2762,9 +2762,9 @@ landingReward =
 {
 	 "Thưởng Đăng Nhập",
 	 "Nhận Thưởng",
-	 "<font size = '17'>Còn thiếu <font color = '#00ff00' size = '17'>$value$</font> ngày</font>",
-	 "<font size = '17'>Số Ngày Đăng Nhập                Phần Thưởng</font>",
-	 "<font size = '17'>Đăng nhập ngày thứ <font color = '#00ff00' size = '17'>$value$</font></font>",
+	 "<font face='Arial' size='14'>Thiếu <font color='#00ff00'>$value$</font> ngày</font>",
+	 "<font face='Arial' size='14'>Ngày đăng nhập                         Phần thưởng</font>",
+	 "<font face='Arial' size='14'>Đăng nhập ngày <font color='#00ff00'>$value$</font></font>",
 
 },
 happlyWorke = 
