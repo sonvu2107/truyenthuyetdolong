@@ -5,7 +5,7 @@
 <meta name="keywords" content="" />
 <title>Quản trị Âm Hắc Đồ Long OL</title>
 <link rel="stylesheet" type="text/css" href="templates/css/admin.css" />
-<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi1" />
+<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi2" />
 <script type="text/javascript" src="templates/js/jquery.js"></script>
 <script type="text/javascript" src="templates/js/admin.js"></script>
 <script type="text/javascript" src="templates/js/gridview.js"></script>
@@ -17,7 +17,7 @@
 <script type="text/javascript" src="templates/js/jquery.idTabs.min.js"></script>
 <script type="text/javascript" src="templates/js/jquery.json.js"></script>
 <script type="text/javascript" src="templates/js/spider.js"></script>
-<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi2"></script>
 </head>
 
 <div id="wrapper">

@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Đăng nhập quản trị Âm Hắc Đồ Long OL</title>
-<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi1" />
+<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi2" />
 <style type="text/css">
 * {
 overflow: hidden;
@@ -34,7 +34,7 @@ color: #f00;
 text-align: center;
 }
 </style>
-<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi2"></script>
 </head>
 <body>
 <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">

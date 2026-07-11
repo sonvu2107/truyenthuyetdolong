@@ -4,14 +4,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Trung tâm quản trị Âm Hắc Đồ Long OL</title>
 <link rel="stylesheet" type="text/css" href="templates/css/admin.css" />
-<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi1" />
+<link rel="stylesheet" type="text/css" href="../common/admin_vi.css?v=20260711adminvi2" />
 <script type="text/javascript" src="templates/js/jquery.js"></script>
-<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi1"></script>
+<script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi2"></script>
 </head>
 <frameset rows="32,*" frameborder="NO" border="0" framespacing="0">
     <frame noresize="noresize" frameborder="NO" name="topFrame"
         scrolling="no" marginwidth="0" marginheight="0" target="main" src="index.php?c=index&f=top" />
-    <frameset cols="175,*" id="frame">
+    <frameset cols="235,*" id="frame">
         <frame name="leftFrame" noresize="noresize" marginwidth="0"    marginheight="0" frameborder="0" scrolling="auto" target="main"    src="index.php?c=index&f=menu" />
         <frame name="main" marginwidth="0" marginheight="0" frameborder="0" scrolling="auto" target="_self" src="index.php?c=index&f=body" />
     </frameset>

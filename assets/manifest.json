@@ -1,5 +1,5 @@
 {
-  "version": "20260711adminvi1",
+  "version": "20260711adminvi2",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -54,7 +54,7 @@
     {
       "source": "assets/admin/common/admin_vi.js",
       "target": "oss/common/admin_vi.js",
-      "sha256": "CD4A0F734CB4AB787CC05FFA871EC98CCD0876B197DEF0AF48C07D4BC24DD58D"
+      "sha256": "B67DB5F2B77B91EEB82A3717767770B366BD515931EB291C9AABD1437F7E61B8"
     },
     {
       "source": "assets/admin/common/admin_vi.css",
@@ -64,57 +64,57 @@
     {
       "source": "assets/admin/admincenter/templates/header.shtml",
       "target": "oss/admincenter/templates/header.shtml",
-      "sha256": "9055C0A25DDFAA948EC115D81EF4E7B3B83400D5BC5655562389AB6BFCDB228C"
+      "sha256": "417FF14B6E99E48A228FC88630A62DF0165ACD8E6C6F2AAC50B31BE6C20729A0"
     },
     {
       "source": "assets/admin/admincenter/templates/login.shtml",
       "target": "oss/admincenter/templates/login.shtml",
-      "sha256": "EAB3E25B851743CCB20C7A1DDB1B66E5E414127BB497A7C9FB2F94E270384D94"
+      "sha256": "BD5BC22E1AFE0136B5D17653E2098F682CF5116FF54D08817384D31E75BC52E8"
     },
     {
       "source": "assets/admin/admincenter/templates/top.shtml",
       "target": "oss/admincenter/templates/top.shtml",
-      "sha256": "CD4235868182C6C634E8330BFE6A4CF340383699F1006A1DB6A663CDBA405319"
+      "sha256": "8F893DD764DEB42E1C4C5C1A5F9D90F1286D013EF214F370F2905BB7502B652B"
     },
     {
       "source": "assets/admin/admincenter/templates/menu.shtml",
       "target": "oss/admincenter/templates/menu.shtml",
-      "sha256": "224DAE0D03F8650FE340C89A02C362FD91064A60BE2BCF9915BBDAF76028B1B4"
+      "sha256": "DF79591B7DAECE0E468BEE547FE894317C1E03CE07BF178810238527B3AB7F20"
     },
     {
       "source": "assets/admin/admincenter/templates/body.shtml",
       "target": "oss/admincenter/templates/body.shtml",
-      "sha256": "2C7BEF0177BF38672ABAAC332E32313EF02E366C4664429F8C29A9BCDFCEF50F"
+      "sha256": "D7B02EB0251F6F000DF6DAD86B540C16C3C381FB8A1F5214BA86A4C144E84F06"
     },
     {
       "source": "assets/admin/admintool/templates/header.shtml",
       "target": "oss/admintool/templates/header.shtml",
-      "sha256": "96D9D7020A5CCD742393F12A124E147E5783BECCB7660DA4F60E102487B435A5"
+      "sha256": "5D74927C16C37597BCC2AD1B2C1BF0FD5B81EA1261F99C07F502BC0AFEA64EA5"
     },
     {
       "source": "assets/admin/admintool/templates/new_header.shtml",
       "target": "oss/admintool/templates/new_header.shtml",
-      "sha256": "381F625AB1782425003C436E525A0877333EE53780DD5A29E5776C5C427F5C5C"
+      "sha256": "223160AE2558955D480298D9C67465D337425A80DDB96AEA6DD678B303DA0C3F"
     },
     {
       "source": "assets/admin/admintool/templates/login.shtml",
       "target": "oss/admintool/templates/login.shtml",
-      "sha256": "B67048D6664E3CE81B36068968A93B338918D8048F86516E89B30108C6664E1D"
+      "sha256": "A9CC8B9FEE1A7D27568B05CD716CBE90AC53CC9CA48D9498F0B292852EB2CADA"
     },
     {
       "source": "assets/admin/admintool/templates/admin_top.shtml",
       "target": "oss/admintool/templates/admin_top.shtml",
-      "sha256": "96F057A0DCA3989EA84A85E16A8ECB2684154CFA0FE4521EC04C3D31F81C28AF"
+      "sha256": "FD35AD45C7A674A1877A9CB3125AB40788055E27D8CB7C84348BEB2205E00C76"
     },
     {
       "source": "assets/admin/admintool/templates/admin_left.shtml",
       "target": "oss/admintool/templates/admin_left.shtml",
-      "sha256": "CC6897F75AAD4F24F6F0C33F56E52F847C8E3F776412A4196232EF81D80A8A53"
+      "sha256": "ED1426AE41CEAF28E3FDDED499B93C71BDF30139D392F2FC357D8F7570233491"
     },
     {
       "source": "assets/admin/admintool/templates/index.shtml",
       "target": "oss/admintool/templates/index.shtml",
-      "sha256": "DBC06C9166577641B8B4D353FA267B98C2C1C246438F3481AAD47DAC0E553650"
+      "sha256": "57283C0D092775BA9FCA64D7218619005F241445E764C9A45C2B4A25F3111D07"
     }
   ]
 }

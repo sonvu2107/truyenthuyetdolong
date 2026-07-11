@@ -10,6 +10,7 @@
         '管理平台': 'Hệ thống quản trị',
         '页面管理': 'Quản lý chức năng',
         '管理': 'Quản trị',
+        '首页': 'Trang chủ',
         '账号：': 'Tài khoản:',
         '账号': 'Tài khoản',
         '帐号：': 'Tài khoản:',

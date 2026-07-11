@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Danh mục quản trị</title>
 <link href="../templates/css/admin.css" rel="stylesheet" type="text/css">
-<link href="../../common/admin_vi.css?v=20260711adminvi1" rel="stylesheet" type="text/css">
+<link href="../../common/admin_vi.css?v=20260711adminvi2" rel="stylesheet" type="text/css">
 <style type="text/css">
 #memu #click_this {
     background-position:0% -42px;
@@ -13,7 +13,7 @@
 }
 </style>
 <script type="text/javascript" src="../templates/js/jquery.js"></script>
-<script type="text/javascript" charset="utf-8" src="../../common/admin_vi.js?v=20260711adminvi1"></script>
+<script type="text/javascript" charset="utf-8" src="../../common/admin_vi.js?v=20260711adminvi2"></script>
 <script type="text/javascript"><!--
 //默认隐藏所有菜单项，显示第一个菜单项
 $(document).ready(function(){
