@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "description": "Dựng lại GameFrame từ nền mở được panel Nhân Vật, chỉ áp catalog rút gọn ngôn ngữ.",
+  "base_commit": "c97a119",
+  "base_sha256": "348B5C007531CC35DFC377579EA8DF2B229188583BF40C0FDEC95D91DDFB328B",
+  "language_catalog": "translations/gameframe-ui-followup-overrides.json",
+  "language_change_count": 21,
+  "protected_source_diff_count": 0,
+  "protected_classes": [
+    "control.navigator.GameNavigator",
+    "view.game.navigation.components.buttonArea.NavBottomArea",
+    "view.game.property.win.PropertyBaseWin",
+    "view.game.property.win.PropertyRoleWin",
+    "view.game.property.page.PropertyBaseEquipPage",
+    "view.game.property.page.PropertyRoleEquipPage",
+    "view.game.property.components.PropertySubPane",
+    "view.game.transmigration.TransmigrationPage",
+    "view.game.transmigration.TransmigrationWin",
+    "Logic.GameLogic",
+    "Logic.Actors.ActorClass.LocalPlayer"
+  ],
+  "output_size": 2512765,
+  "output_sha256": "1A1E7F428A5877514187065E0BABDAF26CE3F054F88D90A64123DD0F9B00800E"
+}

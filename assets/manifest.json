@@ -1,5 +1,5 @@
 {
-  "version": "20260711launchfix1",
+  "version": "20260711rolestable1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "E14002A9E8AA4192F43CCC6BC5B3D307111D0F469E2105EB50B0BF4E38F77BF3"
+      "sha256": "1A1E7F428A5877514187065E0BABDAF26CE3F054F88D90A64123DD0F9B00800E"
     },
     {
       "source": "assets/ClientLang.txt",

@@ -1,0 +1,152 @@
+{
+  "changed": 21,
+  "changes": [
+    {
+      "key": "Common_Remain",
+      "line": 536,
+      "source": "Còn Lại",
+      "target": "Còn",
+      "category": "shop-label"
+    },
+    {
+      "key": "bag[91]",
+      "line": 1239,
+      "source": "Thời gian khuyến mãi còn lại:",
+      "target": "Còn:",
+      "category": "shop-label"
+    },
+    {
+      "key": "bag[94]",
+      "line": 1242,
+      "source": "Giới hạn cho mỗi người:",
+      "target": "Mỗi người: ",
+      "category": "shop-label"
+    },
+    {
+      "key": "bag[95]",
+      "line": 1243,
+      "source": "một",
+      "target": " lần",
+      "category": "unit"
+    },
+    {
+      "key": "bag[96]",
+      "line": 1244,
+      "source": "Giới hạn mỗi người: không giới hạn",
+      "target": "Không giới hạn",
+      "category": "shop-label"
+    },
+    {
+      "key": "bag[98]",
+      "line": 1246,
+      "source": "Shop Khuyến Mãi",
+      "target": "Shop Ưu Đãi",
+      "category": "title"
+    },
+    {
+      "key": "firstRecharge[4]",
+      "line": 3588,
+      "source": "Bảy ngày một tuần, khoản tiền gửi đầu tiên Phần Thưởng khác nhau mỗi ngày, vì vậy hãy chú ý theo dõi!",
+      "target": "Quà đổi theo ngày · Hãy kiểm tra mỗi ngày.",
+      "category": "description"
+    },
+    {
+      "key": "firstRecharge[5]",
+      "line": 3589,
+      "source": "Nạp Thẻ Gói Quà lớn hàng ngày",
+      "target": "Quà Nạp Mỗi Ngày",
+      "category": "title"
+    },
+    {
+      "key": "firstRecharge[6]",
+      "line": 3590,
+      "source": "<font size='20' color='#e5aa70'>DHàng ngàyNạp Thẻ</font><font size='20' color='#ffe64f'>Bất kỳ số lượng nào</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nạp bất kỳ mỗi ngày</font>",
+      "category": "description"
+    },
+    {
+      "key": "firstRecharge[7]",
+      "line": 3591,
+      "source": "<font size='20' color='#e5aa70'> có thể nhận được giá trị </font><font size='20' color='#ffe64f'>1888 nhân dân tệ Nạp Thẻ Gói Quà</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nhận quà trị giá <font color='#ffe64f'>1888 KNB</font></font>",
+      "category": "description"
+    },
+    {
+      "key": "firstRecharge[8]",
+      "line": 3592,
+      "source": "<font size='20' color='#e5aa70'> Mỗi ngày tính một ít tiền và sẽ có </font><font size='20' color='#ffe64f'> những điều tuyệt vời khác nhau mỗi ngày</font>",
+      "target": "<font face='Tahoma' size='15' color='#ffe64f'>Quà thay đổi theo từng ngày</font>",
+      "category": "description"
+    },
+    {
+      "key": "firstRecharge[9]",
+      "line": 3593,
+      "source": "<font size='20' color='#e5aa70'>Nạp Thẻ</font><font size='20' color='#ffe64f'>$num$Nguyên Bảo</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nạp <font color='#ffe64f'>$num$ KNB</font></font>",
+      "category": "description"
+    },
+    {
+      "key": "firstRecharge[10]",
+      "line": 3594,
+      "source": "<font size='20' color='#e5aa70'> có thể nhận được giá trị </font><font size='20' color='#ffe64f'>$num$ nhân dân tệ Nạp Thẻ Gói Quà</font>",
+      "target": "<font face='Tahoma' size='15' color='#e5aa70'>Nhận quà trị giá <font color='#ffe64f'>$num$ KNB</font></font>",
+      "category": "description"
+    },
+    {
+      "key": "firstRecharge[11]",
+      "line": 3595,
+      "source": "<font size='20' color='#e5aa70'> Sạc một ít tiền mỗi ngày và </font><font size='20' color='#ffe64f'> sẽ có những điều tuyệt vời khác nhau mỗi ngày</font>",
+      "target": "<font face='Tahoma' size='15' color='#ffe64f'>Quà thay đổi theo từng ngày</font>",
+      "category": "description"
+    },
+    {
+      "key": "openService[53]",
+      "line": 5819,
+      "source": "<font size = '17'color = '#cab96b'><b> Nhanh Nạp Thẻ</b></font>",
+      "target": "<font face='Tahoma' size='16' color='#cab96b'><b>Nạp Ngay</b></font>",
+      "category": "button"
+    },
+    {
+      "key": "openService[54]",
+      "line": 5820,
+      "source": "<font size = '17'color = '#cab96b'><b> Nhận Phần Thưởng</b></font>",
+      "target": "<font face='Tahoma' size='16' color='#cab96b'><b>Nhận</b></font>",
+      "category": "button"
+    },
+    {
+      "key": "openService[93]",
+      "line": 5859,
+      "source": "<font size = '22'color = '#ffde00'><b> Nhanh Nạp Thẻ</b></font>",
+      "target": "<font face='Tahoma' size='18' color='#ffde00'><b>Nạp Ngay</b></font>",
+      "category": "button"
+    },
+    {
+      "key": "openService[94]",
+      "line": 5860,
+      "source": "<font size = '22'color = '#ffde00'><b> Nhận Phần Thưởng</b></font>",
+      "target": "<font face='Tahoma' size='18' color='#ffde00'><b>Nhận</b></font>",
+      "category": "button"
+    },
+    {
+      "key": "openService[110]",
+      "line": 5876,
+      "source": "Không để bán",
+      "target": "Khóa",
+      "category": "item-label"
+    },
+    {
+      "key": "marry[44]",
+      "line": 6017,
+      "source": "<font color='#3399cc'>Không có </font><font size='' color='#ffff33'><u><a href='event:1'>Tôi muốn nhận đã kết hôn</a></u></font>",
+      "target": "<font color='#3399cc'>Chưa có </font><font size='12' color='#ffff33'><u><a href='event:1'>Kết hôn</a></u></font>",
+      "category": "role-link"
+    },
+    {
+      "key": "sevenDayGift[1]",
+      "line": 6524,
+      "source": "<font color='#ffffff' size = '15'> Bạn đã đăng nhập vào <font color='#00ff00'>$num$</font> ngày </font>",
+      "target": "<font face='Tahoma' color='#ffffff' size='13'>Đăng nhập: <font color='#00ff00'>$num$</font> ngày</font>",
+      "category": "status"
+    }
+  ]
+}
