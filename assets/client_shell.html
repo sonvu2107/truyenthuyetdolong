@@ -36,6 +36,7 @@ html, body {
 
 #gamePortal {
 	position: absolute;
+	z-index: 1;
 	border: 0;
 	margin: 0;
 	padding: 0;
@@ -79,7 +80,7 @@ body.game-mode #gamePortal {
 	position: fixed;
 	right: 10px;
 	top: 10px;
-	z-index: 20;
+	z-index: 2147483647;
 	padding: 7px 10px;
 	border: 1px solid #c99845;
 	border-radius: 3px;
@@ -223,11 +224,27 @@ body.game-mode #fullscreenButton {
 
 	function toggleFullscreen() {
 		var root = document.documentElement;
+		var active = document.fullscreenElement || document.webkitFullscreenElement ||
+			document.mozFullScreenElement || document.msFullscreenElement;
+		var exit = document.exitFullscreen || document.webkitExitFullscreen ||
+			document.mozCancelFullScreen || document.msExitFullscreen;
+		if (active && exit) {
+			exit.call(document);
+			return;
+		}
 		var request = root.requestFullscreen || root.webkitRequestFullscreen ||
 			root.mozRequestFullScreen || root.msRequestFullscreen;
 		if (request) {
-			request.call(root);
+			try {
+				request.call(root);
+				return;
+			} catch (ignore) {}
 		}
+		// Launcher dùng CWebBrowser/IE không luôn hỗ trợ Fullscreen API. Shell là
+		// cửa sổ trên cùng nên resizeTo vẫn có thể phóng cửa sổ native ra desktop.
+		try { window.moveTo(0, 0); } catch (ignoreMove) {}
+		try { window.resizeTo(screen.availWidth, screen.availHeight); } catch (ignoreResize) {}
+		setTimeout(syncMode, 50);
 	}
 
 	function init() {
@@ -265,7 +282,7 @@ body.game-mode #fullscreenButton {
 <body class="launcher-mode" scroll="no">
 	<div id="launcherStage">
 		<div id="launcherFrame"></div>
-		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260711questfix1" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+		<iframe id="gamePortal" name="gamePortal" src="login_p.php?v=20260711routefix1" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 	</div>
 	<button id="fullscreenButton" type="button" title="Phóng game ra toàn màn hình">&#x26F6; Toàn màn hình</button>
 </body>

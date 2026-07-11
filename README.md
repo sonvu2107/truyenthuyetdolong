@@ -8,6 +8,7 @@ Gói này chỉ chứa các tài nguyên công khai cần cập nhật cho game 
 - `assets/lang/zh-cn/cbp.zip`
 - `assets/client_login.php`, `assets/client_shell.html` và `assets/client_frame.png`
 - `assets/game/GameConfig.php` để bật gói CBP tổng và đổi phiên bản cache tài nguyên
+- `assets/game/djrm.php` để nhúng Flash ở chế độ windowless, không che nút HTML
 
 Không đưa `wwwroot` nguyên trạng lên Git. Các file đó chứa thông tin kết nối database và khóa đăng nhập.
 
@@ -27,7 +28,7 @@ powershell.exe -ExecutionPolicy Bypass -File C:\GPHANTL\Sync-FromGitHub.ps1
 
 Script kiểm SHA-256, sao lưu các file bị thay vào `wwwroot\_deploy_backups`, chép asset mới và chỉ thay dòng `GAMEAPPURL` trong `game\SPDef.php`; không chép đè khóa đăng nhập hoặc cấu hình database. Cách này không cần cài Git trên VPS cũ.
 
-Phiên bản `20260711questfix1` giữ nền login, chế độ phóng to gameplay, 733 chuỗi kỹ năng, 5.285 chuỗi vật phẩm, 693 chuỗi nhiệm vụ và bản vá chống tự chạy nhầm cổng cấp 25. Bản này đối chiếu đủ 3.069 mục trong `ClientLang.txt`, biên dịch 5.921 phép gán của lớp `lang.ZH_CN` và vá 1.029 vị trí chuỗi hard-code trong 268 lớp giao diện/gameplay. Gói kỹ năng, vật phẩm và nhiệm vụ được biên dịch lại từ CBP sạch, giữ nguyên 18.239 node kỹ năng, 380.242 node vật phẩm và 24.977 node nhiệm vụ; lô nhiệm vụ mâu thuẫn đã được chuẩn hóa tên riêng và thuật ngữ, còn 575 mục vật phẩm cùng các nhiệm vụ chưa có cặp dữ liệu an toàn vẫn giữ nguyên tiếng Trung để tránh hiện sai thông tin. Sau khi nhập, toàn bộ 2.937 lớp ActionScript được xuất ngược để kiểm tra: không có lớp lỗi decompile, không còn Hán tự hiển thị ngoài danh sách kỹ thuật và điều kiện cùng map của `LocalPlayer` vẫn còn nguyên.
+Phiên bản `20260711routefix1` giữ nền login, chế độ phóng to gameplay, 733 chuỗi kỹ năng, 5.285 chuỗi vật phẩm và 405 chuỗi nhiệm vụ hiển thị. Bản này khôi phục 288 khóa scene/NPC cùng payload của 106 nội dung có liên kết `/M`, nên tự tìm đường và trả nhiệm vụ tiếp tục dùng đúng định danh tiếng Trung của dữ liệu môi trường. Guard mới chặn việc dịch nhầm khóa định tuyến ở các lần build sau. `game/djrm.php` cũng được đồng bộ để Flash chạy `wmode=opaque` đúng dạng param, không phủ nút toàn màn hình của shell.
 
 Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
 

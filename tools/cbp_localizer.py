@@ -34,6 +34,12 @@ CBP_MAGIC = 5_259_843
 CBP_VERSION = 17_435_658
 HEADER_SIZE = 64
 
+QUEST_ROUTE_PATH_PATTERN = re.compile(
+    r"(?:^|\.)(?:comp|prom)\.(?:scene|npc)$"
+    r"|\.target\.\d+\.location\.(?:entityName|sceneName)$"
+)
+QUEST_MOVE_LINK_PATTERN = re.compile(r"<[^<>]*/M([^<>]*)>")
+
 
 class CbpError(ValueError):
     pass
@@ -184,10 +190,38 @@ def load_catalog(path: Path) -> dict:
     return catalog
 
 
+def is_quest_route_path(path: str) -> bool:
+    return bool(QUEST_ROUTE_PATH_PATTERN.search(path))
+
+
+def quest_move_payloads(text: str) -> list[str]:
+    return QUEST_MOVE_LINK_PATTERN.findall(text)
+
+
+def validate_catalog_translation(
+    file_name: str, path: str, source: str, target: str
+) -> None:
+    if file_name.lower() != "stdquest.cbp":
+        return
+    if is_quest_route_path(path) and target != source:
+        raise CbpError(
+            f"Không được dịch khóa định tuyến nhiệm vụ tại {path}: "
+            f"{source!r} -> {target!r}"
+        )
+    source_payloads = quest_move_payloads(source)
+    target_payloads = quest_move_payloads(target)
+    if source_payloads != target_payloads:
+        raise CbpError(
+            f"Payload /M bị thay đổi tại {path}: "
+            f"source={source_payloads!r}, target={target_payloads!r}"
+        )
+
+
 def apply_catalog(data: bytes, catalog: dict) -> tuple[bytes, int, int]:
     header, root, node_count = decode_cbp(data)
     strings = dict(walk_strings(root))
     changed = 0
+    file_name = str(catalog.get("file", ""))
     for path, entry in catalog["translations"].items():
         if path not in strings:
             raise CbpError(f"Catalog tham chiếu node không tồn tại: {path}")
@@ -202,6 +236,7 @@ def apply_catalog(data: bytes, catalog: dict) -> tuple[bytes, int, int]:
         target = entry["target"]
         if not isinstance(target, str):
             raise CbpError(f"Câu đích không phải chuỗi tại {path}")
+        validate_catalog_translation(file_name, path, entry["source"], target)
         if target != node.text:
             node.text = target
             changed += 1
