@@ -9,7 +9,7 @@
 <script type="text/javascript" src="templates/js/jquery.js"></script>
 <script type="text/javascript" charset="utf-8" src="../common/admin_vi.js?v=20260711adminvi2"></script>
 <style type="text/css">
-   body{background:url(templates/images/menu_bg2.jpg);}
+   body{background:#e6f3ff;}
 </style>
 <body>
 <div id="memu">

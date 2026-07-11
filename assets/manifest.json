@@ -79,7 +79,7 @@
     {
       "source": "assets/admin/admincenter/templates/menu.shtml",
       "target": "oss/admincenter/templates/menu.shtml",
-      "sha256": "DF79591B7DAECE0E468BEE547FE894317C1E03CE07BF178810238527B3AB7F20"
+      "sha256": "77959A7694B59B05028FE13574E1D4FCE40A451209BDAFAB1BE52D54B3C0E279"
     },
     {
       "source": "assets/admin/admincenter/templates/body.shtml",
