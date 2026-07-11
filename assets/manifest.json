@@ -4,12 +4,12 @@
     {
       "source": "assets/client_login.php",
       "target": "client_login.php",
-      "sha256": "946980CFCC2E8FD4C60B577C7B65E2AB76C00A16BD5DB054582B5CDE3CEC3EFD"
+      "sha256": "96DA54F4BB9A19CDDC311D9122B0D9CC41A234618FC8CF3230D5935D4EC547F6"
     },
     {
       "source": "assets/client_shell.html",
       "target": "client_shell.html",
-      "sha256": "1F14E2D03507CEFC9EC96FCC6E354171F7E23DA4D36D3F23434ED29364ACC1E5"
+      "sha256": "068310B6687EDB07377479A650E5990FFA5D0FDBCEB8AE32F986F04476AA9390"
     },
     {
       "source": "assets/client_frame.png",
@@ -39,7 +39,7 @@
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "639390CBE62EECFD2BA36315AC9E44A208E880F0D9957605647AAC14A26D4ED5"
+      "sha256": "F58F729FE38D53C4055DC510E779A434D7472665288BF0A089E101B4CC71AEF5"
     }
   ]
 }
