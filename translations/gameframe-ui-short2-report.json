@@ -1,0 +1,782 @@
+{
+  "changed": 111,
+  "changes": [
+    {
+      "key": "FightingReview[9]",
+      "line": 202,
+      "source": "<font color='#FF0000'> có thể cải thiện </font>",
+      "target": "Có thể tăng",
+      "category": "caption"
+    },
+    {
+      "key": "FightingReview[16]",
+      "line": 209,
+      "source": "Khuyến nghị linh hồn thú",
+      "target": "Nâng phẩm Thú hồn",
+      "category": "caption"
+    },
+    {
+      "key": "FightingReview[18]",
+      "line": 211,
+      "source": "Linh hồn quái thú Kỹ Năng",
+      "target": "Kỹ năng Thú hồn",
+      "category": "caption"
+    },
+    {
+      "key": "FightingReview[47]",
+      "line": 240,
+      "source": "Sức mạnh chiến đấu ngang bằng với tôi",
+      "target": "Lực chiến ngang ta",
+      "category": "caption"
+    },
+    {
+      "key": "Mail[4]",
+      "line": 253,
+      "source": "Một cú nhấp chuột để đọc",
+      "target": "Đọc hết",
+      "category": "button"
+    },
+    {
+      "key": "Mail[12]",
+      "line": 261,
+      "source": "Trích xuất tệp đính kèm",
+      "target": "Nhận đính kèm",
+      "category": "button"
+    },
+    {
+      "key": "LieMing[2]",
+      "line": 279,
+      "source": "<font size = '15' color = '#f3f328'><b> Triệu hồi bằng một cú nhấp chuột </b></font>",
+      "target": "Gọi nhanh",
+      "category": "button"
+    },
+    {
+      "key": "LieMing[3]",
+      "line": 280,
+      "source": "<font size = '15' color = '#f3f328'><b> nuốt chửng </b></font> chỉ bằng một cú nhấp chuột",
+      "target": "Nuốt hết",
+      "category": "button"
+    },
+    {
+      "key": "Rune[4]",
+      "line": 295,
+      "source": "Danh sách xếp hạng Phù Văn",
+      "target": "BXH Phù Văn",
+      "category": "caption"
+    },
+    {
+      "key": "Rune[80]",
+      "line": 371,
+      "source": "Nhận dạng thông thường",
+      "target": "Nhận dạng thường",
+      "category": "caption"
+    },
+    {
+      "key": "GameConst_JobNames[0]",
+      "line": 651,
+      "source": "Toàn Chức Nghiệp",
+      "target": "Mọi nghề",
+      "category": "caption"
+    },
+    {
+      "key": "property[23]",
+      "line": 1052,
+      "source": "Điểm Đánh Giá Hồn Thạch:",
+      "target": "Điểm Hồn Thạch:",
+      "category": "label"
+    },
+    {
+      "key": "property[43]",
+      "line": 1072,
+      "source": "trình diễn thời trang",
+      "target": "Hiện thời trang",
+      "category": "caption"
+    },
+    {
+      "key": "property[70]",
+      "line": 1094,
+      "source": "<font color = '#f3f328'size = '14'><b> được thăng cấp một lần </b></font>",
+      "target": "Nâng x1",
+      "category": "button"
+    },
+    {
+      "key": "property[71]",
+      "line": 1095,
+      "source": "<font color = '#f3f328'size = '14'><b> được thăng cấp mười lần </b></font>",
+      "target": "Nâng x10",
+      "category": "button"
+    },
+    {
+      "key": "property[72]",
+      "line": 1096,
+      "source": "<font color = '#f3f328'size = '14'><b> cải tiến một bánh răng </b></font>",
+      "target": "Nâng 1 bậc",
+      "category": "button"
+    },
+    {
+      "key": "property[77]",
+      "line": 1101,
+      "source": "Hiển thị theo mặc định",
+      "target": "Mặc định",
+      "category": "caption"
+    },
+    {
+      "key": "property[81]",
+      "line": 1105,
+      "source": "Hiển thị theo mặc định",
+      "target": "Mặc định",
+      "category": "title"
+    },
+    {
+      "key": "bag[98]",
+      "line": 1246,
+      "source": "Khuyến mãi Thương Thành",
+      "target": "Shop Khuyến Mãi",
+      "category": "title"
+    },
+    {
+      "key": "bag[110]",
+      "line": 1258,
+      "source": "Không còn lời nhắc nào cho lần đăng nhập này",
+      "target": "Không nhắc lại",
+      "category": "caption"
+    },
+    {
+      "key": "map[12]",
+      "line": 1319,
+      "source": "Bản đồ địa phương Quái Vật",
+      "target": "Quái bản đồ",
+      "category": "caption"
+    },
+    {
+      "key": "rank[13]",
+      "line": 1386,
+      "source": "màn hình rõ ràng",
+      "target": "Xóa màn hình",
+      "category": "button"
+    },
+    {
+      "key": "equipBoost[153]",
+      "line": 1748,
+      "source": "Các thuộc tính tốt nhất được chuyển giao bởi <font color='#FF0000'>: </font>",
+      "target": "Thuộc tính chuyển:",
+      "category": "label"
+    },
+    {
+      "key": "friend[9]",
+      "line": 1840,
+      "source": "Truy Tung Người Chơi",
+      "target": "Truy tung",
+      "category": "title"
+    },
+    {
+      "key": "guild[55]",
+      "line": 2428,
+      "source": "Thông Tin Công Thành Chiến",
+      "target": "Tin Công Thành",
+      "category": "caption"
+    },
+    {
+      "key": "guild[225]",
+      "line": 2598,
+      "source": "Bảng xếp hạng tuần trước",
+      "target": "Hạng tuần trước",
+      "category": "label"
+    },
+    {
+      "key": "guild[242]",
+      "line": 2615,
+      "source": "Bạn có thể tham gia ngay hôm nay: <font color = '#fffff'>$num$</font>",
+      "target": "Lượt hôm nay:",
+      "category": "label"
+    },
+    {
+      "key": "guild[246]",
+      "line": 2619,
+      "source": "<font color = '#f3f328' size = '14'><b> Mở bằng một cú nhấp chuột </b></font>",
+      "target": "Mở nhanh",
+      "category": "button"
+    },
+    {
+      "key": "guild[249]",
+      "line": 2622,
+      "source": "<font color = '#f3f328' size = '14'><b> Triệu hồi quái thú thần thoại </b></font>",
+      "target": "Gọi Thần thú",
+      "category": "caption"
+    },
+    {
+      "key": "guild[250]",
+      "line": 2623,
+      "source": "<font color = '#f3f328' size = '14'><b> Giết quái thú thần thoại </b></font>",
+      "target": "Diệt Thần thú",
+      "category": "caption"
+    },
+    {
+      "key": "guild[263]",
+      "line": 2636,
+      "source": "Vật phẩm rơi ra từ quái thú thần thoại",
+      "target": "Vật phẩm Thần thú",
+      "category": "title"
+    },
+    {
+      "key": "guild[266]",
+      "line": 2639,
+      "source": "Mức tiêu thụ Nguyên Bảo:",
+      "target": "Tốn KNB:",
+      "category": "label"
+    },
+    {
+      "key": "revive[10]",
+      "line": 2813,
+      "source": "Trở về thành phố an toàn Hồi Sinh",
+      "target": "Về thành hồi sinh",
+      "category": "button"
+    },
+    {
+      "key": "revive[11]",
+      "line": 2814,
+      "source": "Bước vào nơi tận cùng thế giới Hồi Sinh",
+      "target": "Hồi sinh tận thế",
+      "category": "button"
+    },
+    {
+      "key": "achieve[20]",
+      "line": 2905,
+      "source": "cấp độ tiếp theo",
+      "target": "Cấp sau",
+      "category": "label"
+    },
+    {
+      "key": "achieve[21]",
+      "line": 2906,
+      "source": "Tiến trình điểm thành tích <font size = '14' color = '#cccc66'> </font>",
+      "target": "Tiến độ thành tựu",
+      "category": "caption"
+    },
+    {
+      "key": "achieve[23]",
+      "line": 2908,
+      "source": "Số lượng người hâm mộ:",
+      "target": "Fan:",
+      "category": "label"
+    },
+    {
+      "key": "active[90]",
+      "line": 3039,
+      "source": "Chiến trường cá nhân Phần Thưởng",
+      "target": "Thưởng cá nhân",
+      "category": "title"
+    },
+    {
+      "key": "active[128]",
+      "line": 3078,
+      "source": "Sự kiện ra mắt máy chủ",
+      "target": "Sự kiện mở server",
+      "category": "caption"
+    },
+    {
+      "key": "active[153]",
+      "line": 3103,
+      "source": "Hàng trăm dịch vụ và quà tặng",
+      "target": "Quà 100 Server",
+      "category": "title"
+    },
+    {
+      "key": "active[161]",
+      "line": 3111,
+      "source": "<b><font color='#ffffff' size='18'>Giải thưởng tham gia</font></b>",
+      "target": "Thưởng tham gia",
+      "category": "caption"
+    },
+    {
+      "key": "active[170]",
+      "line": 3120,
+      "source": "<font color='#ffde00'> có thể được phục hồi </font>",
+      "target": "Thu hồi được",
+      "category": "label"
+    },
+    {
+      "key": "active[171]",
+      "line": 3121,
+      "source": "<font color='#ffde00'> Ràng buộc tiền và thu hồi </font>",
+      "target": "Thu hồi Xu khóa",
+      "category": "caption"
+    },
+    {
+      "key": "active[174]",
+      "line": 3124,
+      "source": "<font color='#cccc99' size='15'><b> Khôi phục bằng một cú nhấp chuột </b></font>",
+      "target": "Thu hồi nhanh",
+      "category": "button"
+    },
+    {
+      "key": "vip[128]",
+      "line": 3278,
+      "source": "Thử thách ngay bây giờ",
+      "target": "Đánh ngay",
+      "category": "button"
+    },
+    {
+      "key": "shop[53]",
+      "line": 3350,
+      "source": "Khuyến mãi Thương Thành",
+      "target": "Shop Khuyến Mãi",
+      "category": "caption"
+    },
+    {
+      "key": "fanatic[24]",
+      "line": 3501,
+      "source": "Xác thực bằng số điện thoại miễn phí",
+      "target": "Xác thực SĐT",
+      "category": "title"
+    },
+    {
+      "key": "welfare[118]",
+      "line": 3735,
+      "source": "Thời gian sáp nhập máy chủ <font color='#cc9966' size='15'>: </font><font color='#ffd800' size='15'><b>$num$</b></font>",
+      "target": "Thời gian gộp:",
+      "category": "label"
+    },
+    {
+      "key": "mount[124]",
+      "line": 3891,
+      "source": "Cải thiện chất lượng của linh hồn quái thú",
+      "target": "Nâng phẩm Thú hồn",
+      "category": "title"
+    },
+    {
+      "key": "mount[142]",
+      "line": 3909,
+      "source": "<font color='#d61eec'> có thể được thay thế bằng roi cưỡi ngựa </font>",
+      "target": "Dùng Roi thay thế",
+      "category": "caption"
+    },
+    {
+      "key": "mount[150]",
+      "line": 3917,
+      "source": "<font size = '12' color = '#00ff00'> Bạn có thể thay đổi ngoại hình của mình bằng cách cưỡi </font>",
+      "target": "Cưỡi để đổi ngoại hình",
+      "category": "caption"
+    },
+    {
+      "key": "hero[91]",
+      "line": 4015,
+      "source": "Chọn lớp Cường Hóa chỉ bằng một cú nhấp chuột",
+      "target": "Chọn cấp nâng nhanh",
+      "category": "caption"
+    },
+    {
+      "key": "hero[94]",
+      "line": 4018,
+      "source": "thuộc tính ban đầu",
+      "target": "Thuộc tính gốc",
+      "category": "label"
+    },
+    {
+      "key": "hero[96]",
+      "line": 4020,
+      "source": "Huấn luyện thuộc tính",
+      "target": "Luyện thuộc tính",
+      "category": "title"
+    },
+    {
+      "key": "hero[159]",
+      "line": 4051,
+      "source": "Vật Phẩm không đủ và được thay thế bằng Nguyên Bảo",
+      "target": "Thiếu đồ, dùng KNB",
+      "category": "caption"
+    },
+    {
+      "key": "hero[166]",
+      "line": 4058,
+      "source": "<font color='#66CCFF'> có thể là Cường Hóa thành +$strong$</font>",
+      "target": "Nâng tối đa +",
+      "category": "label"
+    },
+    {
+      "key": "hero[234]",
+      "line": 4095,
+      "source": "Sách minh họa minh họa",
+      "target": "Sổ Huyễn Hóa",
+      "category": "caption"
+    },
+    {
+      "key": "answer[15]",
+      "line": 4219,
+      "source": "<font>Ngươi nhận được Kinh nghiệm: <font color = '#FFFF00'>$value$</font></font>",
+      "target": "EXP nhận:",
+      "category": "label"
+    },
+    {
+      "key": "answer[60]",
+      "line": 4264,
+      "source": "<font size = '15'> giải đáp thắc mắc nhanh chóng </font>",
+      "target": "Đua trả lời",
+      "category": "caption"
+    },
+    {
+      "key": "raids[66]",
+      "line": 4528,
+      "source": "Sức mạnh chiến đấu đề xuất: <font color = '#cccccc'>$value$</font>",
+      "target": "Lực chiến đề cử:",
+      "category": "label"
+    },
+    {
+      "key": "raids[81]",
+      "line": 4543,
+      "source": "<font size='14'>Hợp Thành Thiết bị ma thuật </font>",
+      "target": "Ghép Thần trang",
+      "category": "button"
+    },
+    {
+      "key": "raids[95]",
+      "line": 4557,
+      "source": "<font size='14' color = '#ffaa14'> đã vượt qua Phần Thưởng</font> một cách hoàn hảo",
+      "target": "Thưởng hoàn mỹ",
+      "category": "caption"
+    },
+    {
+      "key": "raids[102]",
+      "line": 4564,
+      "source": "Xếp hạng sao tích lũy Phần Thưởng",
+      "target": "Thưởng tích sao",
+      "category": "caption"
+    },
+    {
+      "key": "combineActive[60]",
+      "line": 4828,
+      "source": "Các mảnh của trang phục ma thuật để mở máy chủ",
+      "target": "Mảnh Thần trang",
+      "category": "caption"
+    },
+    {
+      "key": "sealedBook[53]",
+      "line": 4887,
+      "source": "<font size = '14' color = '#f3f328'><b> Nhận gấp 2 lần số lượng </b></font>",
+      "target": "Nhận x2",
+      "category": "button"
+    },
+    {
+      "key": "sealedBook[54]",
+      "line": 4888,
+      "source": "<font size = '14' color = '#f3f328'><b> Nhận gấp 3 lần số lượng </b></font>",
+      "target": "Nhận x3",
+      "category": "button"
+    },
+    {
+      "key": "sealedBook[56]",
+      "line": 4890,
+      "source": "<font size = '15' color = '#f3f328'><b> Hoàn thành ngay lập tức</b></font>",
+      "target": "Xong ngay",
+      "category": "button"
+    },
+    {
+      "key": "questDay[4]",
+      "line": 4905,
+      "source": "<font size='14' color='#F3F328'><b> Hoàn thành ngay lập tức</b></font>",
+      "target": "Xong ngay",
+      "category": "button"
+    },
+    {
+      "key": "statue[20]",
+      "line": 4947,
+      "source": "Chúa thành phố tôn thờ",
+      "target": "Bái Thành Chủ",
+      "category": "title"
+    },
+    {
+      "key": "statue[48]",
+      "line": 4975,
+      "source": "Hiệu ứng ánh sáng tượng",
+      "target": "Hiệu ứng tượng",
+      "category": "caption"
+    },
+    {
+      "key": "other[19]",
+      "line": 5209,
+      "source": "Nói về một giải thưởng",
+      "target": "Chia sẻ có thưởng",
+      "category": "title"
+    },
+    {
+      "key": "other[45]",
+      "line": 5235,
+      "source": "Chúa thành phố độc quyền Phần Thưởng",
+      "target": "Thưởng riêng Thành Chủ",
+      "category": "caption"
+    },
+    {
+      "key": "other[65]",
+      "line": 5255,
+      "source": "Chúa thành phố độc quyền Phần Thưởng",
+      "target": "Thưởng riêng Thành Chủ",
+      "category": "title"
+    },
+    {
+      "key": "other[93]",
+      "line": 5283,
+      "source": "Hoạt động Phần Thưởng",
+      "target": "Thưởng hoạt động",
+      "category": "caption"
+    },
+    {
+      "key": "worldCivilization[2]",
+      "line": 5559,
+      "source": "Ảnh hưởng tiền thưởng",
+      "target": "Hiệu ứng cộng",
+      "category": "caption"
+    },
+    {
+      "key": "changJob[1]",
+      "line": 5607,
+      "source": "Tôi muốn thay đổi nghề nghiệp của mình thành:",
+      "target": "Đổi nghề thành:",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[3]",
+      "line": 5633,
+      "source": "Giới hạn trên hiện tại của Chuyển Sinh là:",
+      "target": "Giới hạn CS:",
+      "category": "label"
+    },
+    {
+      "key": "transmigration[11]",
+      "line": 5641,
+      "source": "Kiếm tiền nhanh chóng",
+      "target": "Kiếm tiền nhanh",
+      "category": "caption"
+    },
+    {
+      "key": "transmigration[26]",
+      "line": 5656,
+      "source": "<font face='黑体' size = '20'>Chuyển Sinh Thành công </font>",
+      "target": "CS thành công",
+      "category": "caption"
+    },
+    {
+      "key": "transmigration[30]",
+      "line": 5660,
+      "source": "Ưu điểm của Chuyển Sinh",
+      "target": "Lợi ích CS",
+      "category": "title"
+    },
+    {
+      "key": "changSex[1]",
+      "line": 5675,
+      "source": "<font color = '#cfa775'> trước khi chuyển đổi </font>",
+      "target": "Trước đổi",
+      "category": "label"
+    },
+    {
+      "key": "changSex[2]",
+      "line": 5676,
+      "source": "<font color = '#cfa775'> được chuyển đổi thành </font>",
+      "target": "Sau đổi",
+      "category": "label"
+    },
+    {
+      "key": "openService[0]",
+      "line": 5768,
+      "source": "Sự kiện ra mắt máy chủ",
+      "target": "Sự kiện mở server",
+      "category": "title"
+    },
+    {
+      "key": "openService[26]",
+      "line": 5793,
+      "source": "Bộ đồ cấp độ thần thánh",
+      "target": "Bộ Thần Cấp",
+      "category": "title"
+    },
+    {
+      "key": "openService[29]",
+      "line": 5796,
+      "source": "<font color = '#ffdd84'><b>Danh sách người chiến thắng vị trí đầu tiên</b></font>",
+      "target": "DS hạng nhất",
+      "category": "caption"
+    },
+    {
+      "key": "openService[52]",
+      "line": 5818,
+      "source": "<font color = '#36a531'><A href='event:1'><u>Danh sách người chiến thắng</u></a></font>",
+      "target": "DS nhận thưởng",
+      "category": "caption"
+    },
+    {
+      "key": "mentoringTrial[7]",
+      "line": 5905,
+      "source": "Người học việc có thể có được:",
+      "target": "Đồ đệ nhận:",
+      "category": "label"
+    },
+    {
+      "key": "godHallows[0]",
+      "line": 5919,
+      "source": "hiện vật thiêng liêng",
+      "target": "Thánh Khí Chư Thần",
+      "category": "title"
+    },
+    {
+      "key": "godHallows[20]",
+      "line": 5939,
+      "source": "Nhẫn thần thánh Hợp Thành",
+      "target": "Ghép Thần Nhẫn",
+      "category": "button"
+    },
+    {
+      "key": "godHallows[21]",
+      "line": 5940,
+      "source": "<font size='14'>Hợp ThànhKim cương ma thuật</font>",
+      "target": "Ghép Ma Toản",
+      "category": "button"
+    },
+    {
+      "key": "marry[63]",
+      "line": 6036,
+      "source": "Thưởng thức phong bì màu đỏ",
+      "target": "Dùng Hồng Bao",
+      "category": "button"
+    },
+    {
+      "key": "yuanZuiZhiZhan[0]",
+      "line": 6061,
+      "source": "chiến tranh tội lỗi nguyên thủy",
+      "target": "Chiến Nguyên Tội",
+      "category": "title"
+    },
+    {
+      "key": "diamondGame[12]",
+      "line": 6118,
+      "source": "Đá thần thánh Hành Trang",
+      "target": "Túi Thần Thạch",
+      "category": "caption"
+    },
+    {
+      "key": "onlineTimeAward[0]",
+      "line": 6154,
+      "source": "Thời lượngPhần Thưởng",
+      "target": "Thưởng Online",
+      "category": "title"
+    },
+    {
+      "key": "christAndYuanDan[2]",
+      "line": 6217,
+      "source": "Nguyên Bảo Thực hiện một điều ước",
+      "target": "Ước Nguyên Bảo",
+      "category": "caption"
+    },
+    {
+      "key": "newYear[11]",
+      "line": 6331,
+      "source": "Người chiến thắng <font color='#ffffff' size='13'>: $num$</font>",
+      "target": "Người nhận:",
+      "category": "label"
+    },
+    {
+      "key": "newYear[38]",
+      "line": 6358,
+      "source": "<font color='#ffffff'> được tiêu thụ trong ngày $num$Nguyên Bảo</font>",
+      "target": "KNB tiêu hôm nay",
+      "category": "label"
+    },
+    {
+      "key": "mobilephoneGift[4]",
+      "line": 6369,
+      "source": "<font color='#ffff00'> Xác minh điện thoại di động </font>",
+      "target": "Xác thực SĐT",
+      "category": "caption"
+    },
+    {
+      "key": "baifu[1]",
+      "line": 6392,
+      "source": "Giảm giá trên toàn bộ máy chủ Thương Thành",
+      "target": "Shop Giảm Giá",
+      "category": "caption"
+    },
+    {
+      "key": "baifu[203]",
+      "line": 6413,
+      "source": "<font size = '16' color = '#00ff21'><b>Chủ nhân thành phố đầu tiên Phần Thưởng: </b></font>",
+      "target": "Thưởng Thành Chủ đầu:",
+      "category": "label"
+    },
+    {
+      "key": "baifu[209]",
+      "line": 6419,
+      "source": "Danh sách người trúng thưởng lớn",
+      "target": "DS trúng giải lớn",
+      "category": "caption"
+    },
+    {
+      "key": "yuanXiao[102]",
+      "line": 6461,
+      "source": "Vấn đề này Phần Thưởng:",
+      "target": "Thưởng kỳ này:",
+      "category": "label"
+    },
+    {
+      "key": "yuanXiao[111]",
+      "line": 6470,
+      "source": "<font color='#FF0000'> Văn bản chiến thắng ở vòng cuối cùng: $value$</font>",
+      "target": "Kết quả vòng trước:",
+      "category": "label"
+    },
+    {
+      "key": "tgly[0]",
+      "line": 6486,
+      "source": "Luyện ngục Thiên Quan",
+      "target": "Luyện Ngục Thiên Quan",
+      "category": "title"
+    },
+    {
+      "key": "tgly[2]",
+      "line": 6488,
+      "source": "<font size='14'>Sát thương cao nhất mỗi giây</font>",
+      "target": "DPS cao nhất",
+      "category": "label"
+    },
+    {
+      "key": "tgly[3]",
+      "line": 6489,
+      "source": "Nên sử dụng <font color='#ffffff'> để xóa cấp độ và sát thương trong vài giây </font> <font color='#00ff21'>$num$</font>",
+      "target": "DPS đề cử",
+      "category": "label"
+    },
+    {
+      "key": "jingYingDaBao[5]",
+      "line": 6504,
+      "source": "Thời gian làm mới vòng tiếp theo của <font size = '15' color='#ffe64f'>: $value$ điểm </font>",
+      "target": "Lượt mới:",
+      "category": "label"
+    },
+    {
+      "key": "jingYingDaBao[8]",
+      "line": 6507,
+      "source": "<font color='#cb1629'> không được làm mới</font>",
+      "target": "Chưa làm mới",
+      "category": "label"
+    },
+    {
+      "key": "bossHome[1]",
+      "line": 6516,
+      "source": "Ràng buộc tiền để nhập",
+      "target": "Vào bằng Xu khóa",
+      "category": "button"
+    },
+    {
+      "key": "sevenDayGift[0]",
+      "line": 6523,
+      "source": "7 ngày quà tặng sang trọng",
+      "target": "Quà 7 Ngày",
+      "category": "title"
+    },
+    {
+      "key": "tlqd[73]",
+      "line": 6568,
+      "source": "Hoàn thành ngay bây giờ",
+      "target": "Xong ngay",
+      "category": "button"
+    }
+  ]
+}

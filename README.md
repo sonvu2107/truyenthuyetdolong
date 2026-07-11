@@ -36,6 +36,8 @@ Phiên bản `20260711uifit1` chỉnh riêng bảng thưởng đăng nhập: dù
 
 Phiên bản `20260711short1` áp lô rút gọn UI đầu tiên gồm 68 khóa nút/action/caption có độ tin cậy cao. Catalog nguồn nằm tại `translations/gameframe-ui-short-overrides.json`; công cụ `tools/apply_swf_ui_overrides.py` kiểm đúng giá trị hiện tại theo khóa trước khi ghi. Báo cáo độ dài toàn bộ UI nằm tại `translations/gameframe-ui-length-audit.json`. Bản này cũng chặn nhãn số ngày còn thiếu hiển thị `0` hoặc số âm trong hai lớp LandingReward.
 
+Phiên bản `20260711short2` bổ sung 111 tab/title/label đã rà soát thủ công. `gameframe-ui-short2-targets.json` lưu quyết định câu chữ, `resolve_swf_ui_targets.py` chốt source từ bản short1 và sinh catalog `gameframe-ui-short2-overrides.json`; tổng cộng 179 override được đối chiếu lại sau biên dịch.
+
 Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều rộng theo tỷ lệ cửa sổ rồi phóng đồng đều và căn giữa. Nhờ vậy gameplay lấp đầy cửa sổ ở các tỷ lệ phổ biến, toàn bộ UI được phóng cùng nhau, trong khi Flash không phải render trực tiếp vùng 1920×1080 gây giảm khung hình.
 
 ## Biên dịch CBP an toàn
