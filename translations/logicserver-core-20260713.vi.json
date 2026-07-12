@@ -33982,7 +33982,7 @@
           "key": "name80",
           "occurrence": 1,
           "source": "坚硬外壳",
-          "target": "坚硬外壳"
+          "target": "Vỏ Cứng"
         },
         {
           "key": "name800",
@@ -34342,7 +34342,7 @@
           "key": "name81",
           "occurrence": 1,
           "source": "安达利尔",
-          "target": "安达利尔"
+          "target": "Andariel"
         },
         {
           "key": "name810",
@@ -34426,19 +34426,19 @@
           "key": "name82",
           "occurrence": 1,
           "source": "恶魔利爪",
-          "target": "恶魔利爪"
+          "target": "Vuốt Quỷ"
         },
         {
           "key": "name83",
           "occurrence": 1,
           "source": "强大巫术",
-          "target": "强大巫术"
+          "target": "Phép Thuật Mạnh Mẽ"
         },
         {
           "key": "name84",
           "occurrence": 1,
           "source": "憎恨之王",
-          "target": "憎恨之王"
+          "target": "Vua Hận Thù"
         },
         {
           "key": "name840",
@@ -34612,31 +34612,31 @@
           "key": "name85",
           "occurrence": 1,
           "source": "人类敌手",
-          "target": "人类敌手"
+          "target": "Kẻ Thù Nhân Loại"
         },
         {
           "key": "name86",
           "occurrence": 1,
           "source": "通知情况",
-          "target": "通知情况"
+          "target": "Báo Tình Hình"
         },
         {
           "key": "name87",
           "occurrence": 1,
           "source": "怪物激增",
-          "target": "怪物激增"
+          "target": "Quái Vật Bùng Phát"
         },
         {
           "key": "name88",
           "occurrence": 1,
           "source": "赫拉迪克智者",
-          "target": "赫拉迪克智者"
+          "target": "Hiền Giả Horadric"
         },
         {
           "key": "name89",
           "occurrence": 1,
           "source": "黑暗神殿",
-          "target": "黑暗神殿"
+          "target": "Thần Điện Hắc Ám"
         },
         {
           "key": "name9",
@@ -34648,61 +34648,61 @@
           "key": "name90",
           "occurrence": 1,
           "source": "时过境迁",
-          "target": "时过境迁"
+          "target": "Thời Thế Đổi Thay"
         },
         {
           "key": "name91",
           "occurrence": 1,
           "source": "女巫来了",
-          "target": "女巫来了"
+          "target": "Phù Thủy Đến Rồi"
         },
         {
           "key": "name92",
           "occurrence": 1,
           "source": "又见马拉",
-          "target": "又见马拉"
+          "target": "Gặp Lại Mara"
         },
         {
           "key": "name93",
           "occurrence": 1,
           "source": "温柔铁匠",
-          "target": "温柔铁匠"
+          "target": "Thợ Rèn Dịu Dàng"
         },
         {
           "key": "name94",
           "occurrence": 1,
           "source": "鲁高因法师",
-          "target": "鲁高因法师"
+          "target": "Pháp Sư Lut Gholein"
         },
         {
           "key": "name95",
           "occurrence": 1,
           "source": "黑暗神殿",
-          "target": "黑暗神殿"
+          "target": "Thần Điện Hắc Ám"
         },
         {
           "key": "name96",
           "occurrence": 1,
           "source": "亚马逊战士",
-          "target": "亚马逊战士"
+          "target": "Chiến Binh Amazon"
         },
         {
           "key": "name97",
           "occurrence": 1,
           "source": "地狱之门",
-          "target": "地狱之门"
+          "target": "Cổng Địa Ngục"
         },
         {
           "key": "name98",
           "occurrence": 1,
           "source": "五个封印",
-          "target": "五个封印"
+          "target": "Năm Phong Ấn"
         },
         {
           "key": "name99",
           "occurrence": 1,
           "source": "邪恶爬怪",
-          "target": "邪恶爬怪"
+          "target": "Quái Bò Tà Ác"
         },
         {
           "key": "passTip4091",
