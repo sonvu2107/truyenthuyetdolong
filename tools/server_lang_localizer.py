@@ -28,6 +28,7 @@ COLOR_RE = re.compile(r"c0x[0-9A-Fa-f]{8}")
 class Assignment:
     key: str
     occurrence: int
+    quote: str
     value: str
     value_start: int
     value_end: int
@@ -109,6 +110,7 @@ def assignments(text: str, path: Path) -> dict[tuple[str, int], Assignment]:
         found[(key, occurrence)] = Assignment(
             key=key,
             occurrence=occurrence,
+            quote=quote,
             value=text[value_start:cursor],
             value_start=value_start,
             value_end=cursor,
@@ -123,16 +125,45 @@ def invariant_values(value: str) -> dict[str, Counter[str] | int]:
         "routes": Counter(ROUTE_RE.findall(value)),
         "colors": Counter(COLOR_RE.findall(value)),
         "line_breaks": value.count("\\\\"),
+        "trailing_backslashes": len(value) - len(value.rstrip("\\\\")),
     }
 
 
-def validate_translation(source: str, target: str, label: str) -> list[str]:
+def is_escaped(value: str, position: int) -> bool:
+    backslashes = 0
+    position -= 1
+    while position >= 0 and value[position] == "\\\\":
+        backslashes += 1
+        position -= 1
+    return backslashes % 2 == 1
+
+
+def validate_lua_string_fragment(value: str, quote: str, label: str) -> list[str]:
+    """Chặn text có thể làm đổi điểm kết thúc của Lua string source.
+
+    `target` được chèn vào giữa cặp nháy đã tồn tại của file snapshot. Chuỗi
+    không được chứa newline/raw quote và không được kết thúc bằng một số dấu
+    ``\\`` lẻ, vì dấu cuối cùng sẽ escape nháy đóng của source.
+    """
+    errors: list[str] = []
+    if "\x00" in value or "\r" in value or "\n" in value:
+        errors.append(f"{label}: target chứa ký tự điều khiển không hợp lệ cho Lua string")
+    if any(char == quote and not is_escaped(value, index) for index, char in enumerate(value)):
+        errors.append(f"{label}: target chứa nháy {quote} chưa escape")
+    trailing_backslashes = len(value) - len(value.rstrip("\\\\"))
+    if trailing_backslashes % 2:
+        errors.append(f"{label}: target kết thúc bằng dấu \\ lẻ, sẽ escape nháy đóng Lua")
+    return errors
+
+
+def validate_translation(source: str, target: str, label: str, quote: str) -> list[str]:
     old = invariant_values(source)
     new = invariant_values(target)
     errors: list[str] = []
-    for key in ("placeholders", "routes", "colors", "line_breaks"):
+    for key in ("placeholders", "routes", "colors", "line_breaks", "trailing_backslashes"):
         if old[key] != new[key]:
             errors.append(f"{label}: {key} khác source")
+    errors.extend(validate_lua_string_fragment(target, quote, label))
     return errors
 
 
@@ -225,6 +256,7 @@ def command_generate(args: argparse.Namespace) -> int:
                 source.value,
                 target_value,
                 f"{filename}:{assignment_label(*identity)}",
+                source.quote,
             )
             if errors:
                 report["rejected"].append({
@@ -296,7 +328,7 @@ def replace_entries(
         if assignment.value != source:
             errors.append(f"{label}: source mismatch")
             continue
-        errors.extend(validate_translation(source, target, label))
+        errors.extend(validate_translation(source, target, label, assignment.quote))
         replacements.append((assignment.value_start, assignment.value_end, target))
     if errors:
         return text, errors
