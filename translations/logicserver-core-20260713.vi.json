@@ -1862,7 +1862,7 @@
           "key": "n02083",
           "occurrence": 1,
           "source": "<#NR准备好进入奶牛关了吗?#>提示:奶牛关会在副本时间结束后关闭",
-          "target": "<#NR准备好进入奶牛关了吗?#>提示:奶牛关会在副本时间结束后关闭"
+          "target": "<#NRSẵn sàng vào Ải Bò chưa?#>Gợi ý: Ải Bò sẽ đóng khi hết thời gian phó bản."
         },
         {
           "key": "n02084",
@@ -1874,13 +1874,13 @@
           "key": "n02085",
           "occurrence": 1,
           "source": "<#NR发出恶臭的尸体,冒似蕴藏着什么秘密!或者击杀了隔壁的碎骨者后才能知道!#> 提示:当已收集了奶牛关传送书后才能触发。击杀碎骨者后,前来获得维特之脚!",
-          "target": "<#NR发出恶臭的尸体,冒似蕴藏着什么秘密!或者击杀了隔壁的碎骨者后才能知道!#> 提示:当已收集了奶牛关传送书后才能触发。击杀碎骨者后,前来获得维特之脚!"
+          "target": "<#NRXác chết bốc mùi này dường như giấu bí mật. Có lẽ phải hạ Kẻ Nghiền Xương bên cạnh mới rõ!#> Gợi ý: Có Sách Truyền Tống Ải Bò mới kích hoạt được. Hạ Kẻ Nghiền Xương để nhận Chân Wirt!"
         },
         {
           "key": "n02086",
           "occurrence": 1,
           "source": "<#NR英雄,快杀了那只可恶的罪恶铁匠。救出我,我就告诉你关于赫拉迪克方块的事!#> 提示:当已收集了维特之脚,击杀罪恶铁匠后解救迪卡•凯恩能获得赫拉迪克方块",
-          "target": "<#NR英雄,快杀了那只可恶的罪恶铁匠。救出我,我就告诉你关于赫拉迪克方块的事!#> 提示:当已收集了维特之脚,击杀罪恶铁匠后解救迪卡•凯恩能获得赫拉迪克方块"
+          "target": "<#NRAnh Hùng, hãy hạ tên Thợ Rèn Tội Lỗi đáng ghét. Cứu ta, ta sẽ nói về Khối Lập Phương Horadric!#> Gợi ý: Có Chân Wirt, hạ Thợ Rèn Tội Lỗi rồi cứu Deckard Cain để nhận Khối Lập Phương Horadric."
         },
         {
           "key": "n02087",
