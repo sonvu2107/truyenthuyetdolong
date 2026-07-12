@@ -27154,7 +27154,7 @@
           "key": "desc119",
           "occurrence": 1,
           "source": "消灭嗜血骑士后回复<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>.",
-          "target": "消灭嗜血骑士后回复<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>."
+          "target": "Diệt Kỵ Sĩ Khát Máu rồi báo <Sát Thủ Hắc Ám/M黑暗神殿二层:72:45:暗黑刺客>."
         },
         {
           "key": "desc12",
@@ -27166,55 +27166,55 @@
           "key": "desc120",
           "occurrence": 1,
           "source": "对话<火焰法师/M黑暗神殿二层:113:98:火焰法师>.",
-          "target": "对话<火焰法师/M黑暗神殿二层:113:98:火焰法师>."
+          "target": "Nói chuyện với <Pháp Sư Lửa/M黑暗神殿二层:113:98:火焰法师>."
         },
         {
           "key": "desc121",
           "occurrence": 1,
           "source": "消灭杀戮恶魔后回复<火焰法师/M黑暗神殿二层:113:98:火焰法师>.",
-          "target": "消灭杀戮恶魔后回复<火焰法师/M黑暗神殿二层:113:98:火焰法师>."
+          "target": "Diệt Ác Quỷ Sát Lục rồi báo <Pháp Sư Lửa/M黑暗神殿二层:113:98:火焰法师>."
         },
         {
           "key": "desc122",
           "occurrence": 1,
           "source": "回去找到<卓格南/M屠龙城:208:92:卓格南>.",
-          "target": "回去找到<卓格南/M屠龙城:208:92:卓格南>."
+          "target": "Quay về tìm <Drognan/M屠龙城:208:92:卓格南>."
         },
         {
           "key": "desc123",
           "occurrence": 1,
           "source": "对话<要塞接引者/M屠龙城:36:97:要塞接引者>.",
-          "target": "对话<要塞接引者/M屠龙城:36:97:要塞接引者>."
+          "target": "Nói chuyện với <Người Dẫn Pháo Đài/M屠龙城:36:97:要塞接引者>."
         },
         {
           "key": "desc124",
           "occurrence": 1,
           "source": "进入世界要塞找到<马拉酋长/M世界要塞:99:208:马拉酋长>.",
-          "target": "进入世界要塞找到<马拉酋长/M世界要塞:99:208:马拉酋长>."
+          "target": "Vào Pháo Đài Thế Giới, tìm <Tộc Trưởng Mara/M世界要塞:99:208:马拉酋长>."
         },
         {
           "key": "desc125",
           "occurrence": 1,
           "source": "对话<马拉酋长/M世界要塞:99:208:马拉酋长>.",
-          "target": "对话<马拉酋长/M世界要塞:99:208:马拉酋长>."
+          "target": "Nói chuyện với <Tộc Trưởng Mara/M世界要塞:99:208:马拉酋长>."
         },
         {
           "key": "desc126",
           "occurrence": 1,
           "source": "消灭噬魂恶魔后回复<马拉酋长/M世界要塞:99:208:马拉酋长>.",
-          "target": "消灭噬魂恶魔后回复<马拉酋长/M世界要塞:99:208:马拉酋长>."
+          "target": "Diệt Ác Quỷ Phệ Hồn rồi báo <Tộc Trưởng Mara/M世界要塞:99:208:马拉酋长>."
         },
         {
           "key": "desc127",
           "occurrence": 1,
           "source": "找到<圣堂大主教/M世界要塞:162:282:圣堂大主教>.",
-          "target": "找到<圣堂大主教/M世界要塞:162:282:圣堂大主教>."
+          "target": "Tìm <Tổng Giám Mục Thánh Đường/M世界要塞:162:282:圣堂大主教>."
         },
         {
           "key": "desc128",
           "occurrence": 1,
           "source": "消灭高等尖刺恶魔后回复<德萨斯/M世界要塞:180:100:德萨斯>.",
-          "target": "消灭高等尖刺恶魔后回复<德萨斯/M世界要塞:180:100:德萨斯>."
+          "target": "Diệt Ác Quỷ Gai Cao Cấp rồi báo <Dethas/M世界要塞:180:100:德萨斯>."
         },
         {
           "key": "desc129",
