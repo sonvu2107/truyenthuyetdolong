@@ -1286,13 +1286,13 @@
           "key": "n00001",
           "occurrence": 1,
           "source": "<#NR燃烧吧~~骚年,站在我的周围,我给你温暖!给你经验~~#>",
-          "target": "<#NR燃烧吧~~骚年,站在我的周围,我给你温暖!给你经验~~#>"
+          "target": "<#NRBùng cháy đi, thiếu niên! Đứng gần ta để nhận ấm áp và KN!#>"
         },
         {
           "key": "n00002",
           "occurrence": 1,
           "source": "<#NR熄灭了.请每天9:00~0:00的每个整点后的10分钟来抢经验咯!#>",
-          "target": "<#NR熄灭了.请每天9:00~0:00的每个整点后的10分钟来抢经验咯!#>"
+          "target": "<#NRTắt rồi. Mỗi ngày, hãy đến tranh KN trong 10 phút sau mỗi giờ từ 9:00~0:00!#>"
         },
         {
           "key": "n00003",
@@ -1304,7 +1304,7 @@
           "key": "n00004",
           "occurrence": 1,
           "source": "我是城池行政官员,专门负责城池专属日常事务.",
-          "target": "我是城池行政官员,专门负责城池专属日常事务."
+          "target": "Ta là Quan Chấp Chính Thành Trì, phụ trách công việc thường ngày của thành."
         },
         {
           "key": "n00005",
@@ -1316,13 +1316,13 @@
           "key": "n00006",
           "occurrence": 1,
           "source": "<#NR我是战场管理员,请问要买药吗?#>",
-          "target": "<#NR我是战场管理员,请问要买药吗?#>"
+          "target": "<#NRTa là Quản Lý Chiến Trường, muốn mua thuốc chứ?#>"
         },
         {
           "key": "n00007",
           "occurrence": 1,
           "source": "<#NR全球限量版军需,只有我这里有售!#>",
-          "target": "<#NR全球限量版军需,只有我这里有售!#>"
+          "target": "<#NRQuân nhu bản giới hạn toàn cầu, chỉ ta có bán!#>"
         },
         {
           "key": "n00008",
@@ -1334,13 +1334,13 @@
           "key": "n00009",
           "occurrence": 1,
           "source": "我是初级争霸管理员",
-          "target": "我是初级争霸管理员"
+          "target": "Ta là Quản Lý Tranh Bá Sơ Cấp"
         },
         {
           "key": "n00010",
           "occurrence": 1,
           "source": "我是高级争霸管理员",
-          "target": "我是高级争霸管理员"
+          "target": "Ta là Quản Lý Tranh Bá Cao Cấp"
         },
         {
           "key": "n00011",
@@ -1352,7 +1352,7 @@
           "key": "n00012",
           "occurrence": 1,
           "source": "或许,你就是我在等的那个人.\\\\",
-          "target": "或许,你就是我在等的那个人.\\\\"
+          "target": "Có lẽ ngươi chính là người ta chờ đợi.\\\\"
         },
         {
           "key": "n00013",
@@ -1364,13 +1364,13 @@
           "key": "n00014",
           "occurrence": 1,
           "source": "我静悄悄地来到这里兜售,希望别给林氏宫的成冠发现",
-          "target": "我静悄悄地来到这里兜售,希望别给林氏宫的成冠发现"
+          "target": "Ta lén đến đây bày bán, mong đừng để Hoàng Cung họ Lâm phát hiện"
         },
         {
           "key": "n00015",
           "occurrence": 1,
           "source": "你敢来挑战我的试炼吗?",
-          "target": "你敢来挑战我的试炼吗?"
+          "target": "Dám thử thách thí luyện của ta chứ?"
         },
         {
           "key": "n00016",
@@ -1382,7 +1382,7 @@
           "key": "n00017",
           "occurrence": 1,
           "source": "想来挑战吗？",
-          "target": "想来挑战吗？"
+          "target": "Muốn thử thách chứ?"
         },
         {
           "key": "n02004",
@@ -1508,37 +1508,37 @@
           "key": "n02024",
           "occurrence": 1,
           "source": "小小尸王,汝等岂惧之!为了千年的宝藏,再多困难也挡不住我那炽热的心,哈哈哈.",
-          "target": "小小尸王,汝等岂惧之!为了千年的宝藏,再多困难也挡不住我那炽热的心,哈哈哈."
+          "target": "Thi Vương nhỏ bé, các ngươi há phải sợ! Vì kho báu ngàn năm, khó khăn nào ngăn được lòng ta! Ha ha ha."
         },
         {
           "key": "n02025",
           "occurrence": 1,
           "source": "妖月恶魔苏醒,天空游侠不知所踪,血月临空,武者的灵魂炽烈焚天,遵循命运之轮的轨迹,血之历练开启,恶魔妖月终将殒于勇者之手.",
-          "target": "妖月恶魔苏醒,天空游侠不知所踪,血月临空,武者的灵魂炽烈焚天,遵循命运之轮的轨迹,血之历练开启,恶魔妖月终将殒于勇者之手."
+          "target": "Ma Nguyệt Yêu Thần thức tỉnh, Kỵ Sĩ Bầu Trời mất tích; Huyết Nguyệt treo cao, lịch luyện máu đã mở. Ma Nguyệt sẽ bại dưới tay dũng sĩ."
         },
         {
           "key": "n02026",
           "occurrence": 1,
           "source": "桀桀桀,数钱数到手抽筋.贪恋财富的冒险者,有胆量便进入天地宝窟,里面有数不尽的金钱哦.",
-          "target": "桀桀桀,数钱数到手抽筋.贪恋财富的冒险者,有胆量便进入天地宝窟,里面有数不尽的金钱哦."
+          "target": "Tiền thật nhiều, đếm đến mỏi tay! Mạo hiểm giả mê tài phú, hãy vào Kho Báu Thiên Địa — vàng đầy bên trong!"
         },
         {
           "key": "n02027",
           "occurrence": 1,
           "source": "小小恶龙,亦妄想称神?奉吾兄长之命,特在此指引屠龙勇士进入神殿.",
-          "target": "小小恶龙,亦妄想称神?奉吾兄长之命,特在此指引屠龙勇士进入神殿."
+          "target": "Ác Long nhỏ bé mà dám xưng thần? Theo lệnh huynh trưởng, ta dẫn Dũng Sĩ Đồ Long vào Thần Điện."
         },
         {
           "key": "n02028",
           "occurrence": 1,
           "source": "诶哟!我看你骨骼精奇,天生就是挖矿的好材料!里面绝对没有纯度5的铜矿!\\\\",
-          "target": "诶哟!我看你骨骼精奇,天生就是挖矿的好材料!里面绝对没有纯度5的铜矿!\\\\"
+          "target": "A ha! Ta thấy ngươi cốt cách phi phàm, sinh ra để đào mỏ! Bên trong tuyệt đối không có quặng đồng độ tinh khiết 5 đâu!\\\\"
         },
         {
           "key": "n02029",
           "occurrence": 1,
           "source": "这里就是宝石洞窟,小心那些抢矿大盗!\\\\",
-          "target": "这里就是宝石洞窟,小心那些抢矿大盗!\\\\"
+          "target": "Đây là Động Bảo Thạch, coi chừng bọn cướp mỏ!\\\\"
         },
         {
           "key": "n02030",
@@ -1550,7 +1550,7 @@
           "key": "n02031",
           "occurrence": 1,
           "source": "赤月魔域的第6代统领,赤月狂魔带领数万月魔蜘蛛再次向人类发起了进攻!又是一场生死考研,王城的英雄勇士们将再次为保卫家园而战!",
-          "target": "赤月魔域的第6代统领,赤月狂魔带领数万月魔蜘蛛再次向人类发起了进攻!又是一场生死考研,王城的英雄勇士们将再次为保卫家园而战!"
+          "target": "Cuồng Ma Xích Nguyệt, thống lĩnh đời thứ sáu của Ma Vực Xích Nguyệt, dẫn vạn Nhện Ma Nguyệt tấn công nhân loại lần nữa! Dũng sĩ Vương Thành hãy chiến đấu bảo vệ quê hương!"
         },
         {
           "key": "n02032",
@@ -1580,7 +1580,7 @@
           "key": "n02036",
           "occurrence": 1,
           "source": "我这里有药品出售,可以让你轻松通关!",
-          "target": "我这里有药品出售,可以让你轻松通关!"
+          "target": "Ta bán thuốc, giúp ngươi vượt ải dễ dàng!"
         },
         {
           "key": "n02037",
@@ -1592,49 +1592,49 @@
           "key": "n02038",
           "occurrence": 1,
           "source": "恭喜大侠满载而归!",
-          "target": "恭喜大侠满载而归!"
+          "target": "Chúc đại hiệp thắng lợi trở về!"
         },
         {
           "key": "n02039",
           "occurrence": 1,
           "source": "击杀小怪可以获得金币,另外还可以获得攻击加成BUFF,击杀BOSS可以获得大量的金币!",
-          "target": "击杀小怪可以获得金币,另外还可以获得攻击加成BUFF,击杀BOSS可以获得大量的金币!"
+          "target": "Diệt quái thường nhận Vàng và buff Tấn Công; diệt Boss nhận nhiều Vàng!"
         },
         {
           "key": "n02040",
           "occurrence": 1,
           "source": "击杀怪物可以获得大量的经验,如果你有经验加成BUFF,嘿嘿,不敢想象会有多少!还可以购买守卫帮你杀怪",
-          "target": "击杀怪物可以获得大量的经验,如果你有经验加成BUFF,嘿嘿,不敢想象会有多少!还可以购买守卫帮你杀怪"
+          "target": "Diệt quái nhận nhiều KN. Có buff KN thì phần thưởng càng lớn! Có thể mua Hộ Vệ giúp đánh quái."
         },
         {
           "key": "n02041",
           "occurrence": 1,
           "source": "英雄勇士们为保卫家园而战!",
-          "target": "英雄勇士们为保卫家园而战!"
+          "target": "Dũng sĩ, hãy chiến đấu bảo vệ quê hương!"
         },
         {
           "key": "n02042",
           "occurrence": 1,
           "source": "碎片   碎片   我要宝石碎片......",
-          "target": "碎片   碎片   我要宝石碎片......"
+          "target": "Mảnh vỡ... Mảnh vỡ... Ta cần Mảnh Đá Quý..."
         },
         {
           "key": "n02043",
           "occurrence": 1,
           "source": "杀死了前面的BOSS后可以获得每个BOSS身上的“水域青龙珠”,拥有5颗“水域青龙珠”就可以召唤龙王!",
-          "target": "杀死了前面的BOSS后可以获得每个BOSS身上的“水域青龙珠”,拥有5颗“水域青龙珠”就可以召唤龙王!"
+          "target": "Diệt Boss phía trước để nhận Ngọc Rồng Xanh Thủy Vực. Có 5 viên sẽ triệu hồi Long Vương!"
         },
         {
           "key": "n02044",
           "occurrence": 1,
           "source": "先到雕像后面采集10颗金刚强化石然后在金刚雕像处就可以召唤出怪物.",
-          "target": "先到雕像后面采集10颗金刚强化石然后在金刚雕像处就可以召唤出怪物."
+          "target": "Thu thập 10 Đá Cường Hóa Kim Cang sau tượng, rồi triệu hồi quái tại Tượng Kim Cang."
         },
         {
           "key": "n02045",
           "occurrence": 1,
           "source": "先到雕像后面采集10颗金刚强化玉,然后到赤血魔尊处就可以召唤出BOSS",
-          "target": "先到雕像后面采集10颗金刚强化玉,然后到赤血魔尊处就可以召唤出BOSS"
+          "target": "Thu thập 10 Ngọc Cường Hóa Kim Cang sau tượng, rồi triệu hồi Boss Xích Huyết Ma Tôn."
         },
         {
           "key": "n02046",
@@ -1646,7 +1646,7 @@
           "key": "n02047",
           "occurrence": 1,
           "source": "向你心爱的人表达你对她的爱意吧,愿天下有情人终成眷属!",
-          "target": "向你心爱的人表达你对她的爱意吧,愿天下有情人终成眷属!"
+          "target": "Hãy gửi tình yêu đến người ngươi thương. Chúc người có tình thành quyến thuộc!"
         },
         {
           "key": "n02048",
@@ -1664,13 +1664,13 @@
           "key": "n02050",
           "occurrence": 1,
           "source": "欢迎来到帆船酒店,请问要入住吗?",
-          "target": "欢迎来到帆船酒店,请问要入住吗?"
+          "target": "Chào mừng đến Quán Rượu Thuyền Buồm, muốn nghỉ trọ chứ?"
         },
         {
           "key": "n02051",
           "occurrence": 1,
           "source": "请问需要什么服务吗?",
-          "target": "请问需要什么服务吗?"
+          "target": "Ngươi cần dịch vụ gì?"
         },
         {
           "key": "n02052",
