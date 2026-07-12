@@ -1376,7 +1376,7 @@
           "key": "n00016",
           "occurrence": 1,
           "source": "这里是荣誉神殿,恭喜贵行会占领了城战堡垒.\\\\荣誉篝火会给你带来荣誉及经验增长,荣誉篝火就在广场高台上,沿着路标走上去吧.\\\\您带齐了药品没?没?!来我这里买吧.\\\\<(c0xFF00FF00)温馨提示:>打死BOSS会有惊喜的,当然也是凭实力的!\\\\<#BLI004购买药品/@NPCTradeInfoToClient,5>",
-          "target": "这里是荣誉神殿,恭喜贵行会占领了城战堡垒.\\\\荣誉篝火会给你带来荣誉及经验增长,荣誉篝火就在广场高台上,沿着路标走上去吧.\\\\您带齐了药品没?没?!来我这里买吧.\\\\<(c0xFF00FF00)温馨提示:>打死BOSS会有惊喜的,当然也是凭实力的!\\\\<#BLI004购买药品/@NPCTradeInfoToClient,5>"
+          "target": "Đây là Điện Danh Dự, chúc mừng Bang Hội của ngươi đã chiếm Thành Chiến Pháo Đài.\\\\Lửa Trại Danh Dự tăng Danh Dự và KN, nằm trên đài cao quảng trường; hãy theo biển chỉ dẫn.\\\\Đủ thuốc chưa? Chưa thì mua tại ta!\\\\<(c0xFF00FF00)Gợi ý:> Diệt Boss có bất ngờ, nhưng phải đủ thực lực!\\\\<#BLI004购买药品/@NPCTradeInfoToClient,5>"
         },
         {
           "key": "n00017",
@@ -3266,13 +3266,13 @@
           "key": "uldt016",
           "occurrence": 1,
           "source": "<font color='#00ff06' size='14'>剩余时间:</font><font size='14' color='#00efff'>%time%</font>",
-          "target": "<font color='#00ff06' size='14'>剩余时间:</font><font size='14' color='#00efff'>%time%</font>"
+          "target": "<font color='#00ff06' size='14'>Thời gian còn:</font><font size='14' color='#00efff'>%time%</font>"
         },
         {
           "key": "uldt017",
           "occurrence": 1,
           "source": "<(c0x00ffff00)温馨提示:\\\\1.击杀所有小怪后将出现BOSS魔神,击杀BOSS魔神即可副本通关\\\\2.可点 离开 按钮退出!>\\\\<(c0x0000ff06)重要提示：击杀所有怪物后到副本使者处领取多倍经验!\\\\\\\\屠龙城副本使者领取经验>",
-          "target": "<(c0x00ffff00)温馨提示:\\\\1.击杀所有小怪后将出现BOSS魔神,击杀BOSS魔神即可副本通关\\\\2.可点 离开 按钮退出!>\\\\<(c0x0000ff06)重要提示：击杀所有怪物后到副本使者处领取多倍经验!\\\\\\\\屠龙城副本使者领取经验>"
+          "target": "<(c0x00ffff00)Gợi ý:\\\\1. Diệt hết quái nhỏ sẽ xuất hiện Ma Thần Boss; hạ Boss là qua phó bản\\\\2. Bấm Rời để thoát!>\\\\<(c0x0000ff06)Quan trọng: Diệt hết quái rồi đến Sứ Giả Phó Bản nhận KN nhiều lần!\\\\\\\\Đồ Long Thành · Sứ Giả Phó Bản nhận KN>"
         },
         {
           "key": "uldt018",
