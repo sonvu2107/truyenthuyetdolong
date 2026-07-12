@@ -30124,7 +30124,7 @@
           "key": "desc79",
           "occurrence": 1,
           "source": "猎杀恐怖狼牙猪后回复<策士统领/M崔凡克二层:81:110:策士统领>的罪行.",
-          "target": "猎杀恐怖狼牙猪后回复<策士统领/M崔凡克二层:81:110:策士统领>的罪行."
+          "target": "Săn Lợn Nan Huyết Kinh Hoàng rồi báo <Thống Lĩnh Quân Sư/M崔凡克二层:81:110:策士统领> về tội ác của chúng."
         },
         {
           "key": "desc8",
@@ -30136,7 +30136,7 @@
           "key": "desc80",
           "occurrence": 1,
           "source": "消灭圣甲虫后回复<策士统领/M崔凡克二层:81:110:策士统领>.",
-          "target": "消灭圣甲虫后回复<策士统领/M崔凡克二层:81:110:策士统领>."
+          "target": "Diệt Bọ Cánh Cứng Thánh rồi báo <Thống Lĩnh Quân Sư/M崔凡克二层:81:110:策士统领>."
         },
         {
           "key": "desc800",
@@ -30496,7 +30496,7 @@
           "key": "desc81",
           "occurrence": 1,
           "source": "对话<圣城使者/M崔凡克二层:152:139:圣城使者>了解安达利尔曾经的罪行.",
-          "target": "对话<圣城使者/M崔凡克二层:152:139:圣城使者>了解安达利尔曾经的罪行."
+          "target": "Nói chuyện với <Sứ Giả Thánh Thành/M崔凡克二层:152:139:圣城使者> để tìm hiểu tội ác của Andariel."
         },
         {
           "key": "desc810",
@@ -30580,19 +30580,19 @@
           "key": "desc82",
           "occurrence": 1,
           "source": "消灭恶魔利爪后回复<策士统领/M崔凡克二层:81:110:策士统领>.",
-          "target": "消灭恶魔利爪后回复<策士统领/M崔凡克二层:81:110:策士统领>."
+          "target": "Diệt Vuốt Quỷ rồi báo <Thống Lĩnh Quân Sư/M崔凡克二层:81:110:策士统领>."
         },
         {
           "key": "desc83",
           "occurrence": 1,
           "source": "消灭魔化的兽族后回复<圣堂主教/M邪恶洞穴二层:48:166:圣堂主教>.",
-          "target": "消灭魔化的兽族后回复<圣堂主教/M邪恶洞穴二层:48:166:圣堂主教>."
+          "target": "Diệt Thú Tộc Ma Hóa rồi báo <Giám Mục Thánh Đường/M邪恶洞穴二层:48:166:圣堂主教>."
         },
         {
           "key": "desc84",
           "occurrence": 1,
           "source": "继续<圣堂主教/M崔凡克二层:48:166:圣堂主教>对话.",
-          "target": "继续<圣堂主教/M崔凡克二层:48:166:圣堂主教>对话."
+          "target": "Tiếp tục nói chuyện với <Giám Mục Thánh Đường/M崔凡克二层:48:166:圣堂主教>."
         },
         {
           "key": "desc840",
@@ -30766,25 +30766,25 @@
           "key": "desc85",
           "occurrence": 1,
           "source": "消灭魔族喽啰后回复<圣堂主教/M崔凡克二层:48:166:圣堂主教>.",
-          "target": "消灭魔族喽啰后回复<圣堂主教/M崔凡克二层:48:166:圣堂主教>."
+          "target": "Diệt Lâu La Ma Tộc rồi báo <Giám Mục Thánh Đường/M崔凡克二层:48:166:圣堂主教>."
         },
         {
           "key": "desc86",
           "occurrence": 1,
           "source": "找到<凯恩/M圣城:220:180:凯恩>报告主教的口讯.",
-          "target": "找到<凯恩/M圣城:220:180:凯恩>报告主教的口讯."
+          "target": "Tìm <Cain/M圣城:220:180:凯恩> để báo tin của Giám Mục."
         },
         {
           "key": "desc87",
           "occurrence": 1,
           "source": "消灭来袭的恐怖狼牙猪后回复<卫队长/M邪恶洞穴二层:75:100:卫队长>.",
-          "target": "消灭来袭的恐怖狼牙猪后回复<卫队长/M邪恶洞穴二层:75:100:卫队长>."
+          "target": "Diệt Lợn Nan Huyết Kinh Hoàng tấn công rồi báo <Đội Trưởng Cận Vệ/M邪恶洞穴二层:75:100:卫队长>."
         },
         {
           "key": "desc88",
           "occurrence": 1,
           "source": "找到<接引者/M圣城:323:332:接引者>对话.",
-          "target": "找到<接引者/M圣城:323:332:接引者>对话."
+          "target": "Tìm <Người Dẫn/M圣城:323:332:接引者> để nói chuyện."
         },
         {
           "key": "desc89",
