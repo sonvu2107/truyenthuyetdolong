@@ -560,25 +560,25 @@
           "key": "h00093",
           "occurrence": 1,
           "source": "剑指跨服城战堡垒战,决战天下之巅.跨服城战堡垒战将于<(c0xFF00FF00)每周四20:00-22:00>开启.",
-          "target": "剑指跨服城战堡垒战,决战天下之巅.跨服城战堡垒战将于<(c0xFF00FF00)每周四20:00-22:00>开启."
+          "target": "Hướng đến Thành Chiến Liên Server, quyết chiến đỉnh cao thiên hạ. Sự kiện mở <(c0xFF00FF00)Thứ 5 hằng tuần 20:00-22:00>."
         },
         {
           "key": "h00094",
           "occurrence": 1,
           "source": "跨服争霸,<(c0xFF00FF00)每周六晚22:20-23:10>为跨服天下第一战神争夺战的活动时间.",
-          "target": "跨服争霸,<(c0xFF00FF00)每周六晚22:20-23:10>为跨服天下第一战神争夺战的活动时间."
+          "target": "Tranh Bá Liên Server: <(c0xFF00FF00)Thứ 7 hằng tuần 22:20-23:10> là thời gian tranh ngôi Chiến Thần Thiên Hạ Đệ Nhất."
         },
         {
           "key": "h00095",
           "occurrence": 1,
           "source": "跨服BOSS争霸赛,丰厚奖励等你拿.跨服BOSS争霸将于<(c0xFF00FF00)每周二晚上22:20-23:30>开启.",
-          "target": "跨服BOSS争霸赛,丰厚奖励等你拿.跨服BOSS争霸将于<(c0xFF00FF00)每周二晚上22:20-23:30>开启."
+          "target": "Tranh Bá Boss Liên Server, nhiều phần thưởng đang chờ. Mở <(c0xFF00FF00)Thứ 3 hằng tuần 22:20-23:30>."
         },
         {
           "key": "h00096",
           "occurrence": 1,
           "source": "跨服BOSS战,强力BOSS等你挑战,BOSS战将于<(c0xFF00FF00)每周二晚上22:20-23:30>开启.\\\\一共拥有4只BOSS,每只BOSS<(c0xFFFF0000)死亡1分钟后>出现下一只BOSS,BOSS的奖励丰厚,最强的BOSS在等着你的挑战.",
-          "target": "跨服BOSS战,强力BOSS等你挑战,BOSS战将于<(c0xFF00FF00)每周二晚上22:20-23:30>开启.\\\\一共拥有4只BOSS,每只BOSS<(c0xFFFF0000)死亡1分钟后>出现下一只BOSS,BOSS的奖励丰厚,最强的BOSS在等着你的挑战."
+          "target": "Boss Liên Server: Boss mạnh đang chờ thử thách. Mở <(c0xFF00FF00)Thứ 3 hằng tuần 22:20-23:30>.\\\\Có 4 Boss; mỗi Boss chết <(c0xFFFF0000)sau 1 phút> sẽ xuất hiện Boss kế tiếp. Phần thưởng rất phong phú!"
         },
         {
           "key": "h00097",
@@ -710,7 +710,7 @@
           "key": "h00117",
           "occurrence": 1,
           "source": "<#NR沙滩宝贝不仅能为您提供额外的经验加成,您还能与沙滩宝贝进行各种互动哦!#>",
-          "target": "<#NR沙滩宝贝不仅能为您提供额外的经验加成,您还能与沙滩宝贝进行各种互动哦!#>"
+          "target": "<#NRNgười Đẹp Bãi Biển tăng thêm KN và cho ngươi nhiều tương tác thú vị!#>"
         },
         {
           "key": "h00118",
