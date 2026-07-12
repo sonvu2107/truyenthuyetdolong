@@ -1442,55 +1442,55 @@
           "key": "n02013",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像得以扬名天下,只要你有实力本雕像就将以你为名!<br>拥有条件:占领城池行会首领#>",
-          "target": "<#NR想为自己树立一尊雕像得以扬名天下,只要你有实力本雕像就将以你为名!<br>拥有条件:占领城池行会首领#>"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Chỉ cần đủ thực lực, tượng sẽ mang tên ngươi!<br>Điều kiện: Bang Chủ Bang Hội chiếm thành#>"
         },
         {
           "key": "n02014",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:本服战力排行第一的战士\\\\奖励:第一战士头衔,拥有头衔的玩家攻击有5%的伤害加成",
-          "target": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:本服战力排行第一的战士\\\\奖励:第一战士头衔,拥有头衔的玩家攻击有5%的伤害加成"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Chiến Binh có CS cao nhất server\\\\Thưởng: Danh hiệu Chiến Binh Số 1, tăng 5% sát thương"
         },
         {
           "key": "n02015",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:本服战力排行第一的法师\\\\奖励:第一法师头衔,拥有头衔的玩家攻击有5%的伤害加成",
-          "target": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:本服战力排行第一的法师\\\\奖励:第一法师头衔,拥有头衔的玩家攻击有5%的伤害加成"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Pháp Sư có CS cao nhất server\\\\Thưởng: Danh hiệu Pháp Sư Số 1, tăng 5% sát thương"
         },
         {
           "key": "n02016",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:本服战力排行第一的道士\\\\奖励:第一道士头衔,拥有头衔的玩家攻击有5%的伤害加成",
-          "target": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:本服战力排行第一的道士\\\\奖励:第一道士头衔,拥有头衔的玩家攻击有5%的伤害加成"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Đạo Sĩ có CS cao nhất server\\\\Thưởng: Danh hiệu Đạo Sĩ Số 1, tăng 5% sát thương"
         },
         {
           "key": "n02017",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像得以扬名天下?只要你有实力,本雕像将以你为名!#>\\\\拥有条件:跨服城主所在的行会首领\\\\",
-          "target": "<#NR想为自己树立一尊雕像得以扬名天下?只要你有实力,本雕像将以你为名!#>\\\\拥有条件:跨服城主所在的行会首领\\\\"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Bang Chủ của Thành Chủ Liên Server\\\\"
         },
         {
           "key": "n02018",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:跨服战力排行第一的战士\\\\",
-          "target": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:跨服战力排行第一的战士\\\\"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Chiến Binh có CS Liên Server cao nhất\\\\"
         },
         {
           "key": "n02019",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:跨服战力排行第一的法师\\\\",
-          "target": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:跨服战力排行第一的法师\\\\"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Pháp Sư có CS Liên Server cao nhất\\\\"
         },
         {
           "key": "n02020",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:跨服战力排行第一的道士\\\\",
-          "target": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:跨服战力排行第一的道士\\\\"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Đạo Sĩ có CS Liên Server cao nhất\\\\"
         },
         {
           "key": "n02021",
           "occurrence": 1,
           "source": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:在天下第一活动中排名第一\\\\",
-          "target": "<#NR想为自己树立一尊雕像,从此天下扬名?机会来了!只要你有实力,本雕像就将以你为名!#>\\\\拥有条件:在天下第一活动中排名第一\\\\"
+          "target": "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\\\Điều kiện: Hạng 1 sự kiện Thiên Hạ Đệ Nhất\\\\"
         },
         {
           "key": "n02022",
