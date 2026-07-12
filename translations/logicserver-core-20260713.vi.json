@@ -38,61 +38,61 @@
           "key": "h00006",
           "occurrence": 1,
           "source": "<#NR村里现在不太平啊,我作为村长为民甚忧!#>",
-          "target": "<#NR村里现在不太平啊,我作为村长为民甚忧!#>"
+          "target": "<#NRLàng ta bất ổn, ta lo cho dân lắm!#>"
         },
         {
           "key": "h00007",
           "occurrence": 1,
           "source": "<#NR当初赫拉迪克组织是多么强大,我们的首领夏塔拉是伟大的神圣魔法师,后来牺牲了自己用己身灵魂之力封印了迪亚波罗,时过境迁,迪亚波罗又复活了,夏塔拉的魂力也消散了,现在唯有拥有灵魂之力的人才能再次打败他.#>",
-          "target": "<#NR当初赫拉迪克组织是多么强大,我们的首领夏塔拉是伟大的神圣魔法师,后来牺牲了自己用己身灵魂之力封印了迪亚波罗,时过境迁,迪亚波罗又复活了,夏塔拉的魂力也消散了,现在唯有拥有灵魂之力的人才能再次打败他.#>"
+          "target": "<#NRHội Horadric từng rất hùng mạnh. Thủ lĩnh Tal Rasha là Đại Pháp Sư Thánh, đã hy sinh dùng linh hồn phong ấn Diablo. Nay Diablo sống lại; chỉ người có sức mạnh linh hồn mới hạ được hắn.#>"
         },
         {
           "key": "h00008",
           "occurrence": 1,
           "source": "<#NR如今地狱恶魔来袭,人类危在旦夕,人类军团为了保卫家园已经死伤殆尽了,哎......我们需要更多的英雄来帮助我们!#>",
-          "target": "<#NR如今地狱恶魔来袭,人类危在旦夕,人类军团为了保卫家园已经死伤殆尽了,哎......我们需要更多的英雄来帮助我们!#>"
+          "target": "<#NRMa Quỷ địa ngục đã tràn đến, nhân loại bên bờ diệt vong. Quân đoàn bảo vệ quê hương gần như đã hi sinh hết. Ta cần thêm anh hùng!#>"
         },
         {
           "key": "h00009",
           "occurrence": 1,
           "source": "<#NR我最喜欢暗黑的那把水晶剑了,你想要吗?我可以打造的哦!#>",
-          "target": "<#NR我最喜欢暗黑的那把水晶剑了,你想要吗?我可以打造的哦!#>"
+          "target": "<#NRTa rất thích Kiếm Pha Lê. Muốn một thanh chứ? Ta rèn được đấy!#>"
         },
         {
           "key": "h00010",
           "occurrence": 1,
           "source": "<#NR当年我在群魔堡垒那里卖装备的,后来被恶魔攻陷,没办法只能来到这里谋生了.#>",
-          "target": "<#NR当年我在群魔堡垒那里卖装备的,后来被恶魔攻陷,没办法只能来到这里谋生了.#>"
+          "target": "<#NRTrước đây ta bán trang bị ở Pháo Đài Hỗn Mang. Sau khi bị ma quỷ chiếm đóng, ta đành đến đây mưu sinh.#>"
         },
         {
           "key": "h00011",
           "occurrence": 1,
           "source": "<#NR现在禁赌,我只好卖首饰了,当年暗黑里小伙伴们都喜欢来我这里赌装备啊!扔了满地的钱有没有啊,作弊器修改的.#>",
-          "target": "<#NR现在禁赌,我只好卖首饰了,当年暗黑里小伙伴们都喜欢来我这里赌装备啊!扔了满地的钱有没有啊,作弊器修改的.#>"
+          "target": "<#NRCấm đỏ đen rồi, ta đành bán trang sức. Hồi đó ai cũng đến đây đánh bạc tìm đồ, tiền rơi đầy đất!#>"
         },
         {
           "key": "h00012",
           "occurrence": 1,
           "source": "<#NR当年我在鲁高因那里卖魔法物品的,但现在我的东西都卖得差不多了,只剩下一些技能书还没卖完.#>",
-          "target": "<#NR当年我在鲁高因那里卖魔法物品的,但现在我的东西都卖得差不多了,只剩下一些技能书还没卖完.#>"
+          "target": "<#NRTrước đây ta bán đồ phép ở Lut Gholein. Giờ hàng gần hết, chỉ còn vài Sách Kỹ Năng.#>"
         },
         {
           "key": "h00013",
           "occurrence": 1,
           "source": "<#NR以前的暗黑仓库是没有管理员的只有一个大箱子,现在请我过来帮忙看管一下#>",
-          "target": "<#NR以前的暗黑仓库是没有管理员的只有一个大箱子,现在请我过来帮忙看管一下#>"
+          "target": "<#NRKho ngày xưa chỉ có một hòm lớn, không ai trông coi. Giờ họ mời ta đến quản lý.#>"
         },
         {
           "key": "h00014",
           "occurrence": 1,
           "source": "<#NR我以前和你一样也是一名充满热血的勇者,直到我膝盖中了一箭.#>",
-          "target": "<#NR我以前和你一样也是一名充满热血的勇者,直到我膝盖中了一箭.#>"
+          "target": "<#NRTa từng là chiến binh như ngươi, cho đến khi trúng tên vào gối.#>"
         },
         {
           "key": "h00015",
           "occurrence": 1,
           "source": "<#NR你觉得我美吗?待我长发及腰,送我一部土豪金可好?#>",
-          "target": "<#NR你觉得我美吗?待我长发及腰,送我一部土豪金可好?#>"
+          "target": "<#NRTa đẹp không? Khi tóc ta dài đến eo, tặng ta một món quà thật xứng nhé?#>"
         },
         {
           "key": "h00016",
@@ -104,31 +104,31 @@
           "key": "h00017",
           "occurrence": 1,
           "source": "<#NR看普天之下,莫非王土:率土之滨,莫非王臣.#>",
-          "target": "<#NR看普天之下,莫非王土:率土之滨,莫非王臣.#>"
+          "target": "<#NRKhắp thiên hạ, đâu chẳng là đất vua; bốn bể đều là thần dân vua.#>"
         },
         {
           "key": "h00018",
           "occurrence": 1,
           "source": "<#NR只恨当年选择做了一名城卫军,而没有加入与恶魔正面交战的人类军团#>",
-          "target": "<#NR只恨当年选择做了一名城卫军,而没有加入与恶魔正面交战的人类军团#>"
+          "target": "<#NRTa chỉ hận năm xưa làm thành vệ, không gia nhập quân đoàn đối đầu ma quỷ.#>"
         },
         {
           "key": "h00019",
           "occurrence": 1,
           "source": "<#NR战乱导致整个大陆的秩序混乱不堪,人类的贪婪比起恶魔更加可怕,比起地狱的怪物,我更憎恨那些人类的渣滓#>",
-          "target": "<#NR战乱导致整个大陆的秩序混乱不堪,人类的贪婪比起恶魔更加可怕,比起地狱的怪物,我更憎恨那些人类的渣滓#>"
+          "target": "<#NRChiến loạn khiến đại lục rối ren. Lòng tham của con người còn đáng sợ hơn ma quỷ; ta khinh nhất là lũ cặn bã ấy.#>"
         },
         {
           "key": "h00020",
           "occurrence": 1,
           "source": "<#NR恶魔的脚步在前进,不知道圣城还能享受多久的宁静#>",
-          "target": "<#NR恶魔的脚步在前进,不知道圣城还能享受多久的宁静#>"
+          "target": "<#NRMa Quỷ đang tiến bước. Không biết Thánh Thành còn yên bình được bao lâu.#>"
         },
         {
           "key": "h00021",
           "occurrence": 1,
           "source": "<#NR我们发现悲痛女王安达利尔意欲打通地狱深渊,召唤地狱之门让恶魔大军降临人界.#>",
-          "target": "<#NR我们发现悲痛女王安达利尔意欲打通地狱深渊,召唤地狱之门让恶魔大军降临人界.#>"
+          "target": "<#NRChúng ta phát hiện Nữ Hoàng Đau Khổ Andariel đang định mở Vực Sâu Địa Ngục, triệu hồi đại quân ma quỷ xuống nhân giới.#>"
         },
         {
           "key": "h00022",
@@ -140,7 +140,7 @@
           "key": "h00023",
           "occurrence": 1,
           "source": "<#NR你以为我会仅仅满足于一个小小的城主,哼欲望是永远不能得到满足的.#>",
-          "target": "<#NR你以为我会仅仅满足于一个小小的城主,哼欲望是永远不能得到满足的.#>"
+          "target": "<#NRNgươi nghĩ ta chỉ thỏa mãn với chức Thành Chủ sao? Hừ, dục vọng không bao giờ có điểm dừng.#>"
         },
         {
           "key": "h00024",
@@ -164,43 +164,43 @@
           "key": "h00027",
           "occurrence": 1,
           "source": "<#NR你以为我只是个养马的吗?你错了,大错特错且错的相当彻底,听好了,其实我是人皇陛下亲自御封十一品正御马监察官员!#>",
-          "target": "<#NR你以为我只是个养马的吗?你错了,大错特错且错的相当彻底,听好了,其实我是人皇陛下亲自御封十一品正御马监察官员!#>"
+          "target": "<#NRNgươi nghĩ ta chỉ là kẻ nuôi ngựa? Sai rồi! Ta là Ngự Mã Giám Sát Quan được Hoàng Đế sắc phong!#>"
         },
         {
           "key": "h00028",
           "occurrence": 1,
           "source": "<#NR哈洛加斯的百年信誉杂货店,在这里只有你想不到,没有你买不到。#>",
-          "target": "<#NR哈洛加斯的百年信誉杂货店,在这里只有你想不到,没有你买不到。#>"
+          "target": "<#NRCửa Hàng Tạp Hóa Harrogath trăm năm uy tín. Ở đây, thứ ngươi cần đều có!#>"
         },
         {
           "key": "h00029",
           "occurrence": 1,
           "source": "<#NR我的父辈是暗黑中的刺客职业,可厉害了,近身可以飞腿攻击,远程可以放火焰陷阱,因为这个,我长大后也成为了一名刺客!#>",
-          "target": "<#NR我的父辈是暗黑中的刺客职业,可厉害了,近身可以飞腿攻击,远程可以放火焰陷阱,因为这个,我长大后也成为了一名刺客!#>"
+          "target": "<#NRCha ông ta là Sát Thủ lừng danh. Cận chiến tung cước, tầm xa đặt bẫy lửa; vì thế ta cũng trở thành Sát Thủ!#>"
         },
         {
           "key": "h00030",
           "occurrence": 1,
           "source": "<#NR我是任务发布的使者.#>狩猎任务:开启等级45级\\\\赏金任务:开启等级1转40级\\\\日常任务:开启等级1转45级",
-          "target": "<#NR我是任务发布的使者.#>狩猎任务:开启等级45级\\\\赏金任务:开启等级1转40级\\\\日常任务:开启等级1转45级"
+          "target": "<#NRTa là Sứ Giả Nhiệm Vụ.#>Nhiệm Vụ Săn: Mở cấp 45\\\\Nhiệm Vụ Treo Thưởng: Mở ở CS 1 cấp 40\\\\Nhiệm Vụ Hằng Ngày: Mở ở CS 1 cấp 45"
         },
         {
           "key": "h00031",
           "occurrence": 1,
           "source": "<#NR我的伤什么时候才能好啊!#>",
-          "target": "<#NR我的伤什么时候才能好啊!#>"
+          "target": "<#NRBao giờ vết thương của ta mới lành đây!#>"
         },
         {
           "key": "h00032",
           "occurrence": 1,
           "source": "<#NR可以用神魂值和战魂值在我这里兑换强大的装备!#>",
-          "target": "<#NR可以用神魂值和战魂值在我这里兑换强大的装备!#>"
+          "target": "<#NRDùng Thần Hồn và Chiến Hồn đổi trang bị mạnh tại đây!#>"
         },
         {
           "key": "h00033",
           "occurrence": 1,
           "source": "<#NR我就是当年在群魔堡垒卖衣服的贾美拉,我的服饰会让你光彩照人.#>",
-          "target": "<#NR我就是当年在群魔堡垒卖衣服的贾美拉,我的服饰会让你光彩照人.#>"
+          "target": "<#NRTa là Jamella, từng bán y phục ở Pháo Đài Hỗn Mang. Trang phục của ta sẽ khiến ngươi nổi bật!#>"
         },
         {
           "key": "h00034",
@@ -230,25 +230,25 @@
           "key": "h00038",
           "occurrence": 1,
           "source": "<#NR我是善良的女巫,我当年就是站在这里卖药水发家致富的,我这边的药是最好的了!#>",
-          "target": "<#NR我是善良的女巫,我当年就是站在这里卖药水发家致富的,我这边的药是最好的了!#>"
+          "target": "<#NRTa là phù thủy tốt bụng. Nhờ bán thuốc ở đây mà làm nên cơ nghiệp; thuốc của ta là tốt nhất!#>"
         },
         {
           "key": "h00039",
           "occurrence": 1,
           "source": "<#NR战士必须要经得起考验!#>",
-          "target": "<#NR战士必须要经得起考验!#>"
+          "target": "<#NRChiến binh phải chịu được thử thách!#>"
         },
         {
           "key": "h00040",
           "occurrence": 1,
           "source": "<#NR我是英勇天使泰瑞尔,来自天堂安格里斯委员会,后来为了帮助人类对付燃烧地狱的入侵来到人界对抗魔神,看到人类的为自己命运而斗,我由衷的佩服,能与人类并肩作战是我的荣耀。#>",
-          "target": "<#NR我是英勇天使泰瑞尔,来自天堂安格里斯委员会,后来为了帮助人类对付燃烧地狱的入侵来到人界对抗魔神,看到人类的为自己命运而斗,我由衷的佩服,能与人类并肩作战是我的荣耀。#>"
+          "target": "<#NRTa là Thiên Thần Dũng Cảm Tyrael, đến từ Hội Đồng Angiris. Ta xuống nhân giới chống lại Ma Thần và rất khâm phục con người dám chiến đấu vì số phận. Được kề vai sát cánh cùng các ngươi là vinh dự của ta.#>"
         },
         {
           "key": "h00041",
           "occurrence": 1,
           "source": "<#NR死在我刀下的魔族,没有几万,也有几十万吧,万人斩!#>",
-          "target": "<#NR死在我刀下的魔族,没有几万,也有几十万吧,万人斩!#>"
+          "target": "<#NRMa Quỷ chết dưới đao ta, không vạn thì cũng mấy chục vạn. Ta là Vạn Nhân Trảm!#>"
         },
         {
           "key": "h00042",
@@ -260,7 +260,7 @@
           "key": "h00043",
           "occurrence": 1,
           "source": "<#NR这个丛林因为阴深诡异,所以叫幽暗丛林.#>",
-          "target": "<#NR这个丛林因为阴深诡异,所以叫幽暗丛林.#>"
+          "target": "<#NRKhu rừng này u ám, quỷ dị nên gọi là Rừng U Ám.#>"
         },
         {
           "key": "h00044",
@@ -296,7 +296,7 @@
           "key": "h00049",
           "occurrence": 1,
           "source": "<#NR我是接引者.#>",
-          "target": "<#NR我是接引者.#>"
+          "target": "<#NRTa là Người Dẫn Đường.#>"
         },
         {
           "key": "h00050",
@@ -308,7 +308,7 @@
           "key": "h00051",
           "occurrence": 1,
           "source": "<#NR崔凡克都是高等的恶魔,大部分怪物据说是当初库拉斯特海港那边的剥皮丛林跑过来的.#>",
-          "target": "<#NR崔凡克都是高等的恶魔,大部分怪物据说是当初库拉斯特海港那边的剥皮丛林跑过来的.#>"
+          "target": "<#NRTravinical đầy ma quỷ cấp cao; phần lớn được cho là từ Rừng Lột Da gần Cảng Kurast tràn sang.#>"
         },
         {
           "key": "h00052",
