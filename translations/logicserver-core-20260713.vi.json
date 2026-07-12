@@ -27034,55 +27034,55 @@
           "key": "desc100",
           "occurrence": 1,
           "source": "继续和<神殿护卫/M黑暗神殿:107:40:神殿护卫>对话.",
-          "target": "继续和<神殿护卫/M黑暗神殿:107:40:神殿护卫>对话."
+          "target": "Tiếp tục nói chuyện với <Hộ Vệ Thần Điện/M黑暗神殿:107:40:神殿护卫>."
         },
         {
           "key": "desc101",
           "occurrence": 1,
           "source": "找到<神殿护卫/M黑暗神殿:106:40:神殿护卫>.",
-          "target": "找到<神殿护卫/M黑暗神殿:106:40:神殿护卫>."
+          "target": "Tìm <Hộ Vệ Thần Điện/M黑暗神殿:106:40:神殿护卫>."
         },
         {
           "key": "desc102",
           "occurrence": 1,
           "source": "消灭骷髅魔仆后回复<暗影龙卫/M黑暗神殿:54:67:暗影龙卫>.",
-          "target": "消灭骷髅魔仆后回复<暗影龙卫/M黑暗神殿:54:67:暗影龙卫>."
+          "target": "Diệt Ma Bộc Xương Khô rồi báo <Long Vệ Bóng Tối/M黑暗神殿:54:67:暗影龙卫>."
         },
         {
           "key": "desc103",
           "occurrence": 1,
           "source": "继续和<神殿护卫/M黑暗神殿:106:40:神殿护卫>对话.",
-          "target": "继续和<神殿护卫/M黑暗神殿:106:40:神殿护卫>对话."
+          "target": "Tiếp tục nói chuyện với <Hộ Vệ Thần Điện/M黑暗神殿:106:40:神殿护卫>."
         },
         {
           "key": "desc104",
           "occurrence": 1,
           "source": "收集虫卵后回复<神殿护卫/M黑暗神殿:106:40:神殿护卫>.",
-          "target": "收集虫卵后回复<神殿护卫/M黑暗神殿:106:40:神殿护卫>."
+          "target": "Thu thập Trứng Côn Trùng rồi báo <Hộ Vệ Thần Điện/M黑暗神殿:106:40:神殿护卫>."
         },
         {
           "key": "desc105",
           "occurrence": 1,
           "source": "消灭剧毒尾蝎后回复<安德拉/M黑暗神殿:32:109:安德拉>.",
-          "target": "消灭剧毒尾蝎后回复<安德拉/M黑暗神殿:32:109:安德拉>."
+          "target": "Diệt Bọ Cạp Đuôi Độc rồi báo <Andra/M黑暗神殿:32:109:安德拉>."
         },
         {
           "key": "desc106",
           "occurrence": 1,
           "source": "对话<安德拉/M黑暗神殿:32:109:安德拉>.",
-          "target": "对话<安德拉/M黑暗神殿:32:109:安德拉>."
+          "target": "Nói chuyện với <Andra/M黑暗神殿:32:109:安德拉>."
         },
         {
           "key": "desc107",
           "occurrence": 1,
           "source": "消灭剧毒尾蝎后回复<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>.",
-          "target": "消灭剧毒尾蝎后回复<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>."
+          "target": "Diệt Bọ Cạp Đuôi Độc rồi báo <Thánh Kỵ Hắc Ám/M黑暗神殿:152:86:暗黑圣骑>."
         },
         {
           "key": "desc108",
           "occurrence": 1,
           "source": "对话<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>.",
-          "target": "对话<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>."
+          "target": "Nói chuyện với <Thánh Kỵ Hắc Ám/M黑暗神殿:152:86:暗黑圣骑>."
         },
         {
           "key": "desc109",
@@ -30856,7 +30856,7 @@
           "key": "desc99",
           "occurrence": 1,
           "source": "消灭邪恶爬怪后回复<神殿护卫/M黑暗神殿:107:40:神殿护卫>.",
-          "target": "消灭邪恶爬怪后回复<神殿护卫/M黑暗神殿:107:40:神殿护卫>."
+          "target": "Diệt Quái Bò Tà Ác rồi báo <Hộ Vệ Thần Điện/M黑暗神殿:107:40:神殿护卫>."
         },
         {
           "key": "name0",
