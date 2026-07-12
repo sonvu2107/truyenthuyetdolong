@@ -224,7 +224,7 @@
           "key": "h00037",
           "occurrence": 1,
           "source": "行万里路不如读万卷书,想买快买,别磨磨唧唧的.",
-          "target": "行万里路不如读万卷书,想买快买,别磨磨唧唧的."
+          "target": "Đi vạn dặm không bằng đọc vạn sách. Muốn mua thì mua, đừng lề mề."
         },
         {
           "key": "h00038",
@@ -254,7 +254,7 @@
           "key": "h00042",
           "occurrence": 1,
           "source": "不医死几个人,都对不起我“赛华佗”的名号.",
-          "target": "不医死几个人,都对不起我“赛华佗”的名号."
+          "target": "Không chữa chết vài người thì phụ danh thần y Hoa Đà mất."
         },
         {
           "key": "h00043",
@@ -266,31 +266,31 @@
           "key": "h00044",
           "occurrence": 1,
           "source": "从俺手中出去的兵器,无一不是精品.别看俺长得磕碜了点,但俺的手艺绝对不是盖的.",
-          "target": "从俺手中出去的兵器,无一不是精品.别看俺长得磕碜了点,但俺的手艺绝对不是盖的."
+          "target": "Vũ khí từ tay ta đều là hàng tốt. Đừng chê ta xấu, tay nghề của ta không phải chuyện đùa."
         },
         {
           "key": "h00045",
           "occurrence": 1,
           "source": "早知道被猪妖咬一口会变成这种模样,当时就应该反咬那头猪一口.",
-          "target": "早知道被猪妖咬一口会变成这种模样,当时就应该反咬那头猪一口."
+          "target": "Biết bị Yêu Heo cắn sẽ thành thế này, lúc đó ta đã cắn lại nó rồi."
         },
         {
           "key": "h00046",
           "occurrence": 1,
           "source": "也不知我家死鬼跑到哪里风流去了,已经三年未归,害我苦苦守活寡.",
-          "target": "也不知我家死鬼跑到哪里风流去了,已经三年未归,害我苦苦守活寡."
+          "target": "Không biết chồng ta phiêu bạt nơi nào, ba năm chưa về, để ta cô quạnh mãi."
         },
         {
           "key": "h00047",
           "occurrence": 1,
           "source": "游侠的生活不是你能想象的惊险刺激,那种热血,那份兄弟情谊,令我至今想不起来.",
-          "target": "游侠的生活不是你能想象的惊险刺激,那种热血,那份兄弟情谊,令我至今想不起来."
+          "target": "Đời Du Hiệp đầy hiểm nguy và máu lửa, tình huynh đệ ấy khiến ta đến giờ vẫn không nhớ nổi."
         },
         {
           "key": "h00048",
           "occurrence": 1,
           "source": "影卫从来不惧死亡,因为我们是从死人堆里爬出来的死士.",
-          "target": "影卫从来不惧死亡,因为我们是从死人堆里爬出来的死士."
+          "target": "Ảnh Vệ không sợ chết, vì chúng ta bò ra từ núi xác người."
         },
         {
           "key": "h00049",
@@ -302,7 +302,7 @@
           "key": "h00050",
           "occurrence": 1,
           "source": "每次随机传送需要扣除10000金币.\\\\消耗元宝必上一层.",
-          "target": "每次随机传送需要扣除10000金币.\\\\消耗元宝必上一层."
+          "target": "Mỗi lần dịch chuyển ngẫu nhiên tốn 10K Vàng.\\\\Dùng Nguyên Bảo chắc chắn lên 1 tầng."
         },
         {
           "key": "h00051",
@@ -422,13 +422,13 @@
           "key": "h00070",
           "occurrence": 1,
           "source": "<#NR只有拥有精湛骑术的勇士才有资格成为神圣骑士#>\\\\",
-          "target": "<#NR只有拥有精湛骑术的勇士才有资格成为神圣骑士#>\\\\"
+          "target": "<#NRChỉ dũng sĩ có thuật cưỡi ngựa tuyệt đỉnh mới xứng đáng thành Thánh Kỵ Sĩ.#>\\\\"
         },
         {
           "key": "h00071",
           "occurrence": 1,
           "source": "<#NR是骡子是马都拉出来溜溜#>\\\\",
-          "target": "<#NR是骡子是马都拉出来溜溜#>\\\\"
+          "target": "<#NRĐã là ngựa hay la, kéo ra thử sức.#>\\\\"
         },
         {
           "key": "h00072",
@@ -482,7 +482,7 @@
           "key": "h00080",
           "occurrence": 1,
           "source": "<(irichImg#5)> \\\\想要转职变性请让老夫送你一程吧",
-          "target": "<(irichImg#5)> \\\\想要转职变性请让老夫送你一程吧"
+          "target": "<(irichImg#5)> \\\\Muốn đổi nghề/giới tính, để lão phu giúp ngươi!"
         },
         {
           "key": "h00081",
@@ -1274,7 +1274,7 @@
           "key": "h00300",
           "occurrence": 1,
           "source": "暗黑屠龙收集兑换（活动）",
-          "target": "暗黑屠龙收集兑换（活动）"
+          "target": "Đổi Quà Sưu Tầm Ám Hắc Đồ Long"
         },
         {
           "key": "h00301",
@@ -1388,7 +1388,7 @@
           "key": "n02004",
           "occurrence": 1,
           "source": "我是玫瑰精灵!",
-          "target": "我是玫瑰精灵!"
+          "target": "Ta Là Tinh Linh Hoa Hồng!"
         },
         {
           "key": "n02005",
@@ -1400,13 +1400,13 @@
           "key": "n02006",
           "occurrence": 1,
           "source": "我是剑翁的徒弟!\\\\<(c0xFF00FF00)注意:离开活动后,将不返还报名费!>",
-          "target": "我是剑翁的徒弟!\\\\<(c0xFF00FF00)注意:离开活动后,将不返还报名费!>"
+          "target": "Ta là đệ tử của Kiếm Ông!\\\\<(c0xFF00FF00)Lưu ý: Rời sự kiện sẽ không hoàn phí đăng ký!>"
         },
         {
           "key": "n02007",
           "occurrence": 1,
           "source": "我是行会管理员!\\\\",
-          "target": "我是行会管理员!\\\\"
+          "target": "Ta Là Quản Lý Bang Hội!\\\\"
         },
         {
           "key": "n02008",
