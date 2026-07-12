@@ -39644,61 +39644,61 @@
           "key": "n62",
           "occurrence": 1,
           "source": "苍狼战甲(男)",
-          "target": "苍狼战甲(男)"
+          "target": "Giáp Thương Lang (Nam)"
         },
         {
           "key": "i62",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼战甲(男)> 可以合成一个 <(c0xFFFF6600)黄金战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼战甲(男)> 可以合成一个 <(c0xFFFF6600)黄金战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Thương Lang (Nam)> hợp thành <(c0xFFFF6600)Giáp Hoàng Kim (Nam)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n63",
           "occurrence": 1,
           "source": "苍狼战甲(女)",
-          "target": "苍狼战甲(女)"
+          "target": "Giáp Thương Lang (Nữ)"
         },
         {
           "key": "i63",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼战甲(女)> 可以合成一个 <(c0xFFFF6600)黄金战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼战甲(女)> 可以合成一个 <(c0xFFFF6600)黄金战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Thương Lang (Nữ)> hợp thành <(c0xFFFF6600)Giáp Hoàng Kim (Nữ)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n64",
           "occurrence": 1,
           "source": "苍狼头盔",
-          "target": "苍狼头盔"
+          "target": "Mũ Thương Lang"
         },
         {
           "key": "i64",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼头盔> 可以合成一个 <(c0xFFFF6600)黄金头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼头盔> 可以合成一个 <(c0xFFFF6600)黄金头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Thương Lang> hợp thành <(c0xFFFF6600)Mũ Hoàng Kim>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n65",
           "occurrence": 1,
           "source": "苍狼项链",
-          "target": "苍狼项链"
+          "target": "Dây Chuyền Thương Lang"
         },
         {
           "key": "i65",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼项链> 可以合成一个 <(c0xFFFF6600)黄金项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼项链> 可以合成一个 <(c0xFFFF6600)黄金项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Thương Lang> hợp thành <(c0xFFFF6600)Dây Chuyền Hoàng Kim>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n66",
           "occurrence": 1,
           "source": "苍狼手镯",
-          "target": "苍狼手镯"
+          "target": "Vòng Tay Thương Lang"
         },
         {
           "key": "i66",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼手镯> 可以合成一个 <(c0xFFFF6600)黄金手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼手镯> 可以合成一个 <(c0xFFFF6600)黄金手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Thương Lang> hợp thành <(c0xFFFF6600)Vòng Tay Hoàng Kim>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n67",
