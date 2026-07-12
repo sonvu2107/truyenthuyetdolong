@@ -2618,85 +2618,85 @@
           "key": "marry0023",
           "occurrence": 1,
           "source": "使用礼花,将会按照不同样式全场播放炫丽烟火效果",
-          "target": "使用礼花,将会按照不同样式全场播放炫丽烟火效果"
+          "target": "Dùng pháo hoa để cả lễ đường hiện hiệu ứng rực rỡ theo kiểu đã chọn."
         },
         {
           "key": "marry0024",
           "occurrence": 1,
           "source": "直线型礼花(100000绑定金币)",
-          "target": "直线型礼花(100000绑定金币)"
+          "target": "Pháo Hoa Thẳng (100K Vàng Khóa)"
         },
         {
           "key": "marry0025",
           "occurrence": 1,
           "source": "十字交叉礼花(100元宝)",
-          "target": "十字交叉礼花(100元宝)"
+          "target": "Pháo Hoa Chữ Thập (100 Nguyên Bảo)"
         },
         {
           "key": "marry0026",
           "occurrence": 1,
           "source": "心形礼花(200元宝)",
-          "target": "心形礼花(200元宝)"
+          "target": "Pháo Hoa Trái Tim (200 Nguyên Bảo)"
         },
         {
           "key": "marry0027",
           "occurrence": 1,
           "source": "双心形礼花(400元宝)",
-          "target": "双心形礼花(400元宝)"
+          "target": "Pháo Hoa Hai Trái Tim (400 Nguyên Bảo)"
         },
         {
           "key": "marry0028",
           "occurrence": 1,
           "source": "您已经发过一次喜糖了",
-          "target": "您已经发过一次喜糖了"
+          "target": "Đã phát Kẹo Cưới một lần."
         },
         {
           "key": "marry0029",
           "occurrence": 1,
           "source": "只有新郎和新娘才可以发喜糖",
-          "target": "只有新郎和新娘才可以发喜糖"
+          "target": "Chỉ cô dâu và chú rể mới được phát Kẹo Cưới."
         },
         {
           "key": "marry0030",
           "occurrence": 1,
           "source": "您当前没有喜糖可以领取",
-          "target": "您当前没有喜糖可以领取"
+          "target": "Không có Kẹo Cưới để nhận."
         },
         {
           "key": "marry0031",
           "occurrence": 1,
           "source": "您不在洞房里,不能进行此操作",
-          "target": "您不在洞房里,不能进行此操作"
+          "target": "Không ở phòng tân hôn nên không thể thực hiện."
         },
         {
           "key": "marry0032",
           "occurrence": 1,
           "source": "您还没有伴侣,请结婚后再来修改称号!",
-          "target": "您还没有伴侣,请结婚后再来修改称号!"
+          "target": "Ngươi chưa có bạn đời. Hãy kết hôn rồi quay lại đổi danh hiệu!"
         },
         {
           "key": "marry0033",
           "occurrence": 1,
           "source": "修改称号成功",
-          "target": "修改称号成功"
+          "target": "Đổi Danh Hiệu Thành Công"
         },
         {
           "key": "marry0034",
           "occurrence": 1,
           "source": "喜宴已经结束",
-          "target": "喜宴已经结束"
+          "target": "Tiệc Cưới Đã Kết Thúc"
         },
         {
           "key": "marry0035",
           "occurrence": 1,
           "source": "您已经免费享用过一次喜宴了!",
-          "target": "您已经免费享用过一次喜宴了!"
+          "target": "Đã dùng tiệc cưới miễn phí một lần!"
         },
         {
           "key": "marry0036",
           "occurrence": 1,
           "source": "喜宴红包",
-          "target": "喜宴红包"
+          "target": "Lì Xì Tiệc Cưới"
         },
         {
           "key": "marry0037",
@@ -2714,7 +2714,7 @@
           "key": "marry0039",
           "occurrence": 1,
           "source": "婚礼喜糖",
-          "target": "婚礼喜糖"
+          "target": "Kẹo Cưới"
         },
         {
           "key": "marry0040",
@@ -2738,37 +2738,37 @@
           "key": "marry0043",
           "occurrence": 1,
           "source": "您已经祝福过他们了",
-          "target": "您已经祝福过他们了"
+          "target": "Ngươi đã chúc phúc cho họ rồi."
         },
         {
           "key": "marry0044",
           "occurrence": 1,
           "source": "请将食材交给您的伴侣来制作!",
-          "target": "请将食材交给您的伴侣来制作!"
+          "target": "Hãy đưa nguyên liệu cho bạn đời chế biến!"
         },
         {
           "key": "marry0045",
           "occurrence": 1,
           "source": "您今天已经领过该物品了,请明天再来!",
-          "target": "您今天已经领过该物品了,请明天再来!"
+          "target": "Hôm nay đã nhận vật phẩm này, hãy quay lại ngày mai!"
         },
         {
           "key": "marry0046",
           "occurrence": 1,
           "source": "对方拒绝了你的求婚",
-          "target": "对方拒绝了你的求婚"
+          "target": "Đối phương đã từ chối lời cầu hôn."
         },
         {
           "key": "marry0047",
           "occurrence": 1,
           "source": "不接受基友或拉拉在一起哦,必须一男一女才能申请结婚",
-          "target": "不接受基友或拉拉在一起哦,必须一男一女才能申请结婚"
+          "target": "Chỉ một nam và một nữ mới có thể đăng ký kết hôn."
         },
         {
           "key": "marry0048",
           "occurrence": 1,
           "source": "成功给对方发送求婚邀请,请等待回复",
-          "target": "成功给对方发送求婚邀请,请等待回复"
+          "target": "Đã gửi lời cầu hôn, hãy chờ phản hồi."
         },
         {
           "key": "marry0049",
