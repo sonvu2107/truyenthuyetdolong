@@ -27352,7 +27352,7 @@
           "key": "desc149",
           "occurrence": 1,
           "source": "找到<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.",
-          "target": "找到<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>."
+          "target": "Tìm <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>."
         },
         {
           "key": "desc15",
@@ -27364,55 +27364,55 @@
           "key": "desc150",
           "occurrence": 1,
           "source": "消灭督瑞尔之魂后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.",
-          "target": "消灭督瑞尔之魂后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>."
+          "target": "Diệt Linh Hồn Duriel rồi báo <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>."
         },
         {
           "key": "desc151",
           "occurrence": 1,
           "source": "消灭诅咒将军后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.",
-          "target": "消灭诅咒将军后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>."
+          "target": "Diệt Tướng Quân Nguyền Rủa rồi báo <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>."
         },
         {
           "key": "desc152",
           "occurrence": 1,
           "source": "继续对话<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.",
-          "target": "继续对话<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>."
+          "target": "Tiếp tục nói chuyện với <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>."
         },
         {
           "key": "desc153",
           "occurrence": 1,
           "source": "消灭诅咒法师后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.",
-          "target": "消灭诅咒法师后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>."
+          "target": "Diệt Pháp Sư Nguyền Rủa rồi báo <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>."
         },
         {
           "key": "desc154",
           "occurrence": 1,
           "source": "继续对话<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.冰女巫>.>.",
-          "target": "继续对话<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.冰女巫>.>."
+          "target": "Tiếp tục nói chuyện với <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>. Nữ Phù Thủy Băng."
         },
         {
           "key": "desc155",
           "occurrence": 1,
           "source": "消灭铁血兽人后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.",
-          "target": "消灭铁血兽人后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>."
+          "target": "Diệt Thú Nhân Thiết Huyết rồi báo <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>."
         },
         {
           "key": "desc156",
           "occurrence": 1,
           "source": "找到<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>.",
-          "target": "找到<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>."
+          "target": "Tìm <Druid Hắc Ám/M世界要塞二层:239:190:暗黑德鲁伊>."
         },
         {
           "key": "desc157",
           "occurrence": 1,
           "source": "继续对话<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>.",
-          "target": "继续对话<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>."
+          "target": "Tiếp tục nói chuyện với <Druid Hắc Ám/M世界要塞二层:239:190:暗黑德鲁伊>."
         },
         {
           "key": "desc158",
           "occurrence": 1,
           "source": "消灭邪恶骑士后回复<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>.",
-          "target": "消灭邪恶骑士后回复<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>."
+          "target": "Diệt Kỵ Sĩ Tà Ác rồi báo <Druid Hắc Ám/M世界要塞二层:239:190:暗黑德鲁伊>."
         },
         {
           "key": "desc159",
