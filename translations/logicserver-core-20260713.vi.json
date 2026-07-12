@@ -27842,51 +27842,51 @@
         },
         {
           "key": "desc222",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭大巴哈姆特后找到<卡隆/M亚特兰蒂斯:144:161:卡隆>.",
-          "target": "消灭大巴哈姆特后找到<卡隆/M亚特兰蒂斯:144:161:卡隆>."
+          "target": "Diệt Đại Bahamut rồi tìm <Karon/M亚特兰蒂斯:144:161:卡隆>."
         },
         {
           "key": "desc223",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭银弓海怪后找到<莉亚儿/M亚特兰蒂斯:34:44:莉亚儿>.",
-          "target": "消灭银弓海怪后找到<莉亚儿/M亚特兰蒂斯:34:44:莉亚儿>."
+          "target": "Diệt Hải Quái Cung Bạc rồi tìm <Lia/M亚特兰蒂斯:34:44:莉亚儿>."
         },
         {
           "key": "desc224",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭海妖后找到<迪恩/M失落之塔:104:137:迪恩>交付.",
-          "target": "消灭海妖后找到<迪恩/M失落之塔:104:137:迪恩>交付."
+          "target": "Diệt Hải Yêu rồi báo <Dean/M失落之塔:104:137:迪恩>."
         },
         {
           "key": "desc225",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "对话<迪恩/M失落之塔:104:137:迪恩>交付.",
-          "target": "对话<迪恩/M失落之塔:104:137:迪恩>交付."
+          "target": "Nói chuyện với <Dean/M失落之塔:104:137:迪恩> để nộp."
         },
         {
           "key": "desc226",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭鬼魅后找到<迪恩/M失落之塔:104:137:迪恩>交付.",
-          "target": "消灭鬼魅后找到<迪恩/M失落之塔:104:137:迪恩>交付."
+          "target": "Diệt Bóng Ma rồi báo <Dean/M失落之塔:104:137:迪恩>."
         },
         {
           "key": "desc227",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭牛魔王后找到<尤达/M失落之塔:69:112:尤达>交付.",
-          "target": "消灭牛魔王后找到<尤达/M失落之塔:69:112:尤达>交付."
+          "target": "Diệt Ngưu Ma Vương rồi báo <Yoda/M失落之塔:69:112:尤达>."
         },
         {
           "key": "desc228",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭诅咒巫师后找到<罗斯兰/M失落之塔:55:74:罗斯兰>.",
-          "target": "消灭诅咒巫师后找到<罗斯兰/M失落之塔:55:74:罗斯兰>."
+          "target": "Diệt Pháp Sư Nguyền Rủa rồi tìm <Roslan/M失落之塔:55:74:罗斯兰>."
         },
         {
           "key": "desc229",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "继续对话<罗斯兰/M失落之塔:55:74:罗斯兰>.",
-          "target": "继续对话<罗斯兰/M失落之塔:55:74:罗斯兰>."
+          "target": "Tiếp tục nói chuyện với <Roslan/M失落之塔:55:74:罗斯兰>."
         },
         {
           "key": "desc23",
@@ -27896,15 +27896,15 @@
         },
         {
           "key": "desc230",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭失落戈登后找<艾维斯/M失落之塔:51:53:艾维斯>对话.",
-          "target": "消灭失落戈登后找<艾维斯/M失落之塔:51:53:艾维斯>对话."
+          "target": "Diệt Gordon Thất Lạc rồi nói chuyện với <Avis/M失落之塔:51:53:艾维斯>."
         },
         {
           "key": "desc231",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭失落骑士后找<特鲁娜/M失落之塔:76:76:特鲁娜>对话.",
-          "target": "消灭失落骑士后找<特鲁娜/M失落之塔:76:76:特鲁娜>对话."
+          "target": "Diệt Kỵ Sĩ Thất Lạc rồi nói chuyện với <Truna/M失落之塔:76:76:特鲁娜>."
         },
         {
           "key": "desc232",
