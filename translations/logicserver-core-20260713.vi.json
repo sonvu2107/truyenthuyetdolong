@@ -1964,7 +1964,7 @@
           "key": "gh00005",
           "occurrence": 1,
           "source": "单纯的烤火是不是很无聊？\\\\\\\\每日12:00-12:30双倍篝火期间,您可在我这里进行一些趣味小游戏,我们的口号是:轻松身心,增加收益!",
-          "target": "单纯的烤火是不是很无聊？\\\\\\\\每日12:00-12:30双倍篝火期间,您可在我这里进行一些趣味小游戏,我们的口号是:轻松身心,增加收益!"
+          "target": "Chỉ đốt lửa có chán không?\\\\\\\\Trong giờ Lửa Trại x2 12:00-12:30, ngươi có thể chơi mini game tại ta. Thư giãn, tăng thu nhập!"
         },
         {
           "key": "gh00006",
@@ -1994,7 +1994,7 @@
           "key": "gh00010",
           "occurrence": 1,
           "source": "火焰等级越高经验就越多\\\\您今日剩余烤火时间:<(c0xFF00FF00)%d秒>\\\\目前你拥有的火种数量:<(c0xFF00FF00)%d>\\\\您个人目前火焰等级:<(c0xFF00FF00)%d级/%d级>\\\\距火焰等级重置时间:<(c0xFF00FF00)%d天>\\\\篝火经验加成<(c0xFF00FF00)%d%%>\\\\每<(c0xFF00FF00)10秒>加<(c0xFF00FF00)1次>经验火种,每日<(c0xFF00FF00)2小时>免费",
-          "target": "火焰等级越高经验就越多\\\\您今日剩余烤火时间:<(c0xFF00FF00)%d秒>\\\\目前你拥有的火种数量:<(c0xFF00FF00)%d>\\\\您个人目前火焰等级:<(c0xFF00FF00)%d级/%d级>\\\\距火焰等级重置时间:<(c0xFF00FF00)%d天>\\\\篝火经验加成<(c0xFF00FF00)%d%%>\\\\每<(c0xFF00FF00)10秒>加<(c0xFF00FF00)1次>经验火种,每日<(c0xFF00FF00)2小时>免费"
+          "target": "Cấp lửa càng cao, KN càng nhiều\\\\Lửa Trại còn hôm nay: <(c0xFF00FF00)%d giây>\\\\Hỏa Chủng hiện có: <(c0xFF00FF00)%d>\\\\Cấp lửa cá nhân: <(c0xFF00FF00)%d/%d>\\\\Đặt lại cấp lửa sau: <(c0xFF00FF00)%d ngày>\\\\KN Lửa Trại cộng <(c0xFF00FF00)%d%%>\\\\Mỗi <(c0xFF00FF00)10 giây> nhận <(c0xFF00FF00)1 lần> KN/Hỏa Chủng; miễn phí <(c0xFF00FF00)2 giờ> mỗi ngày"
         },
         {
           "key": "gh00011",
@@ -2030,7 +2030,7 @@
           "key": "gh00016",
           "occurrence": 1,
           "source": "您当前火焰等级为Lv %d\\\\篝火经验加成 %d%%\\\\\\\\<(c0xFF00FF00)下级火焰效果:>\\\\\\\\您下级火焰等级为Lv %d\\\\篝火经验加成 %d%%\\\\\\\\升级Lv%d火焰需要消耗%d个火种\\\\您确定升级吗？",
-          "target": "您当前火焰等级为Lv %d\\\\篝火经验加成 %d%%\\\\\\\\<(c0xFF00FF00)下级火焰效果:>\\\\\\\\您下级火焰等级为Lv %d\\\\篝火经验加成 %d%%\\\\\\\\升级Lv%d火焰需要消耗%d个火种\\\\您确定升级吗？"
+          "target": "Cấp lửa hiện tại: Lv %d\\\\KN Lửa Trại cộng %d%%\\\\\\\\<(c0xFF00FF00)Hiệu quả cấp lửa kế tiếp:>\\\\\\\\Cấp lửa kế tiếp: Lv %d\\\\KN Lửa Trại cộng %d%%\\\\\\\\Nâng lửa Lv%d tốn %d Hỏa Chủng\\\\Xác nhận nâng cấp?"
         },
         {
           "key": "gh00017",
@@ -2060,7 +2060,7 @@
           "key": "gh00021",
           "occurrence": 1,
           "source": "您身上已经存在<(c0xFF00FF00)1.2倍火种状态>,若再次开启<(c0xFF00FF00)1.5倍火种>,将替换掉原有的1.2倍火种效果,请问是否继续？\\\\（消耗%d元宝,将开启%d分钟1.5倍状态!）",
-          "target": "您身上已经存在<(c0xFF00FF00)1.2倍火种状态>,若再次开启<(c0xFF00FF00)1.5倍火种>,将替换掉原有的1.2倍火种效果,请问是否继续？\\\\（消耗%d元宝,将开启%d分钟1.5倍状态!）"
+          "target": "Ngươi đã có <(c0xFF00FF00)buff Hỏa Chủng x1.2>. Mở <(c0xFF00FF00)Hỏa Chủng x1.5> sẽ thay buff x1.2. Tiếp tục?\\\\(Tốn %d Nguyên Bảo, mở buff x1.5 trong %d phút!)"
         },
         {
           "key": "gh00022",
@@ -2078,7 +2078,7 @@
           "key": "gh00024",
           "occurrence": 1,
           "source": "开启后将会增加%d分钟获得1.5倍火种效果,需花费%d元宝,确定开启吗?",
-          "target": "开启后将会增加%d分钟获得1.5倍火种效果,需花费%d元宝,确定开启吗?"
+          "target": "Mở buff Hỏa Chủng x1.5 thêm %d phút, tốn %d Nguyên Bảo. Xác nhận?"
         },
         {
           "key": "gh00025",
@@ -2090,7 +2090,7 @@
           "key": "gh00026",
           "occurrence": 1,
           "source": "<(c0xFFFF0000)12:00-12:30期间可以开启烧烤活动!\\\\每次烧烤为%d分钟。>\\\\<(c0xFF00FF00)添加调料可以有几率出现高级食物,高级食物将有更丰厚奖励!>\\\\<(c0xFFFF0000)正在烧烤:烤肉\\\\%d%%出现羊肉\\\\%d%%出现羊腿\\\\%d%%出现羊排>\\\\今日添加调料:剩余%d次\\\\距离烧烤完成 %d分%d秒",
-          "target": "<(c0xFFFF0000)12:00-12:30期间可以开启烧烤活动!\\\\每次烧烤为%d分钟。>\\\\<(c0xFF00FF00)添加调料可以有几率出现高级食物,高级食物将有更丰厚奖励!>\\\\<(c0xFFFF0000)正在烧烤:烤肉\\\\%d%%出现羊肉\\\\%d%%出现羊腿\\\\%d%%出现羊排>\\\\今日添加调料:剩余%d次\\\\距离烧烤完成 %d分%d秒"
+          "target": "<(c0xFFFF0000)Có thể Nướng Thịt từ 12:00-12:30!\\\\Mỗi lần nướng %d phút.>\\\\<(c0xFF00FF00)Thêm gia vị có thể ra món cao cấp với phần thưởng tốt hơn!>\\\\<(c0xFFFF0000)Đang nướng: Thịt\\\\%d%% ra Thịt Cừu\\\\%d%% ra Đùi Cừu\\\\%d%% ra Sườn Cừu>\\\\Gia vị còn hôm nay: %d lần\\\\Hoàn thành sau %d phút %d giây"
         },
         {
           "key": "gh00027",
