@@ -28,7 +28,7 @@ function Get-GitHubFile {
     cmd.exe /c "certutil.exe -urlcache -split -f $url $Destination > $log 2>&1"
     if ($LASTEXITCODE -ne 0) {
         $details = Get-Content -LiteralPath $log -Raw -ErrorAction SilentlyContinue
-        throw "Không tải được $RelativePath. $details"
+        throw "Khong tai duoc $RelativePath. $details"
     }
     Remove-Item -LiteralPath $log -Force -ErrorAction SilentlyContinue
 }
@@ -40,12 +40,12 @@ try {
     $manifestFiles = @($manifest.files)
 
     if ($manifest.version -ne '20260712uifit3' -or $manifestFiles.Count -ne $expectedFiles.Count) {
-        throw 'Manifest screenshot UI không đúng version hoặc phạm vi.'
+        throw 'Manifest screenshot UI khong dung version hoac pham vi.'
     }
     for ($index = 0; $index -lt $expectedFiles.Count; $index++) {
         if ($manifestFiles[$index].source -ne $expectedFiles[$index].source -or
             $manifestFiles[$index].target -ne $expectedFiles[$index].target) {
-            throw 'Manifest screenshot UI có file ngoài phạm vi cho phép.'
+            throw 'Manifest screenshot UI co file ngoai pham vi cho phep.'
         }
     }
 
@@ -60,7 +60,7 @@ try {
 
     $spDefPath = Join-Path $WebRoot 'game\SPDef.php'
     if (-not (Test-Path -LiteralPath $spDefPath)) {
-        throw "Không tìm thấy $spDefPath"
+        throw "Khong tim thay $spDefPath"
     }
     New-Item -ItemType Directory -Path $backupRoot -Force | Out-Null
     New-Item -ItemType Directory -Path (Join-Path $backupRoot 'game') -Force | Out-Null
@@ -69,7 +69,7 @@ try {
     foreach ($file in $manifestFiles) {
         $target = Join-Path $WebRoot $file.target
         if (-not (Test-Path -LiteralPath $target)) {
-            throw "Không tìm thấy file deploy đích: $target"
+            throw "Khong tim thay file deploy dich: $target"
         }
         $backup = Join-Path $backupRoot $file.target
         New-Item -ItemType Directory -Path (Split-Path -Parent $backup) -Force | Out-Null
@@ -86,10 +86,10 @@ try {
     $pattern = "define\('GAMEAPPURL','[^']*'\);"
     $replacement = "define('GAMEAPPURL','$($GameHost.TrimEnd('/'))/GameFrame.swf?v=$($manifest.version)');"
     if ($spDef -notmatch $pattern) {
-        throw 'Không tìm thấy dòng GAMEAPPURL trong game\SPDef.php.'
+        throw 'Khong tim thay dong GAMEAPPURL trong game\SPDef.php.'
     }
     Set-Content -LiteralPath $spDefPath -Value ($spDef -replace $pattern, $replacement) -Encoding UTF8
-    Write-Output "Đã deploy screenshot UI $($manifest.version); backup: $backupRoot"
+    Write-Output "Da deploy screenshot UI $($manifest.version); backup: $backupRoot"
 }
 finally {
     Remove-Item -LiteralPath $workRoot -Recurse -Force -ErrorAction SilentlyContinue
