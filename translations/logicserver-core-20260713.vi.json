@@ -30790,7 +30790,7 @@
           "key": "desc89",
           "occurrence": 1,
           "source": "向东走遇见<猎户沙雅/M屠龙城:99:308:猎户沙雅>对话.",
-          "target": "向东走遇见<猎户沙雅/M屠龙城:99:308:猎户沙雅>对话."
+          "target": "Đi về phía đông, gặp <Thợ Săn Saya/M屠龙城:99:308:猎户沙雅> để nói chuyện."
         },
         {
           "key": "desc9",
@@ -30802,55 +30802,55 @@
           "key": "desc90",
           "occurrence": 1,
           "source": "继续和<猎户沙雅/屠龙城:223:190:猎户沙雅>对话.",
-          "target": "继续和<猎户沙雅/屠龙城:223:190:猎户沙雅>对话."
+          "target": "Tiếp tục nói chuyện với <Thợ Săn Saya/屠龙城:223:190:猎户沙雅>."
         },
         {
           "key": "desc91",
           "occurrence": 1,
           "source": "拜见屠龙城的<阿卡拉/M屠龙城:189:138:阿卡拉>.",
-          "target": "拜见屠龙城的<阿卡拉/M屠龙城:189:138:阿卡拉>."
+          "target": "Ghé <Akara/M屠龙城:189:138:阿卡拉> ở Đồ Long Thành."
         },
         {
           "key": "desc92",
           "occurrence": 1,
           "source": "去拜访屠龙城的<马拉/M屠龙城:167:124:马拉>.",
-          "target": "去拜访屠龙城的<马拉/M屠龙城:167:124:马拉>."
+          "target": "Ghé <Mara/M屠龙城:167:124:马拉> ở Đồ Long Thành."
         },
         {
           "key": "desc93",
           "occurrence": 1,
           "source": "继续和<马拉/M屠龙城:167:124:马拉>对话.",
-          "target": "继续和<马拉/M屠龙城:167:124:马拉>对话."
+          "target": "Tiếp tục nói chuyện với <Mara/M屠龙城:167:124:马拉>."
         },
         {
           "key": "desc94",
           "occurrence": 1,
           "source": "拜访屠龙城<卓格南/M屠龙城:167:44:卓格南>.",
-          "target": "拜访屠龙城<卓格南/M屠龙城:167:44:卓格南>."
+          "target": "Ghé <Drognan/M屠龙城:167:44:卓格南> ở Đồ Long Thành."
         },
         {
           "key": "desc95",
           "occurrence": 1,
           "source": "去黑暗神殿找到<亚马逊战士/M黑暗神殿:83:120:亚马逊战士>.",
-          "target": "去黑暗神殿找到<亚马逊战士/M黑暗神殿:83:120:亚马逊战士>."
+          "target": "Đến Thần Điện Hắc Ám, tìm <Chiến Binh Amazon/M黑暗神殿:83:120:亚马逊战士>."
         },
         {
           "key": "desc96",
           "occurrence": 1,
           "source": "继续和<亚马逊战士/M黑暗神殿:83:120:亚马逊战士>对话.",
-          "target": "继续和<亚马逊战士/M黑暗神殿:83:120:亚马逊战士>对话."
+          "target": "Tiếp tục nói chuyện với <Chiến Binh Amazon/M黑暗神殿:83:120:亚马逊战士>."
         },
         {
           "key": "desc97",
           "occurrence": 1,
           "source": "消灭邪恶战士后找<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>.",
-          "target": "消灭邪恶战士后找<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>."
+          "target": "Diệt Chiến Sĩ Tà Ác rồi tìm <Thánh Kỵ Hắc Ám/M黑暗神殿:152:86:暗黑圣骑>."
         },
         {
           "key": "desc98",
           "occurrence": 1,
           "source": "继续和<神殿护卫/M黑暗神殿:107:40:神殿护卫>对话.",
-          "target": "继续和<神殿护卫/M黑暗神殿:107:40:神殿护卫>对话."
+          "target": "Tiếp tục nói chuyện với <Hộ Vệ Thần Điện/M黑暗神殿:107:40:神殿护卫>."
         },
         {
           "key": "desc99",
