@@ -1,0 +1,967 @@
+{
+  "format": 1,
+  "file": "stditems.cbp",
+  "description": "Dịch tên item hiển thị theo catalog LogicServer.",
+  "translations": {
+    "251.name": {
+      "source": "龙吟头盔",
+      "target": "Long Ngâm Đầu Khôi"
+    },
+    "252.name": {
+      "source": "龙吟项链",
+      "target": "Long Ngâm Hạng Liên"
+    },
+    "253.name": {
+      "source": "龙吟手镯",
+      "target": "Long Ngâm Thủ Trạc"
+    },
+    "254.name": {
+      "source": "龙吟腰带",
+      "target": "Long Ngâm Yêu Đái"
+    },
+    "255.name": {
+      "source": "龙吟战鞋",
+      "target": "Long Ngâm Chiến Hài"
+    },
+    "256.name": {
+      "source": "龙吟宝石",
+      "target": "Long Ngâm Bảo Thạch"
+    },
+    "257.name": {
+      "source": "龙吟戒指",
+      "target": "Long Ngâm Giới Chỉ"
+    },
+    "258.name": {
+      "source": "龙吟勋章",
+      "target": "Long Ngâm Huân Chương"
+    },
+    "259.name": {
+      "source": "彩凤之轩(1档)",
+      "target": "Huyết Đồ Chiến Đao"
+    },
+    "260.name": {
+      "source": "蝴蝶精灵(2档)",
+      "target": "Huyết Đồ Chiến Giáp (Nam)"
+    },
+    "261.name": {
+      "source": "天使羽翼(3档)",
+      "target": "Huyết Đồ Chiến Giáp (Nữ)"
+    },
+    "262.name": {
+      "source": "刀锋之翼(4档)",
+      "target": "Huyết Đồ Đầu Khôi"
+    },
+    "263.name": {
+      "source": "光之蓝羽(5档)",
+      "target": "Huyết Đồ Hạng Liên"
+    },
+    "264.name": {
+      "source": "天使圣羽(6档)",
+      "target": "Huyết Đồ Thủ Trạc"
+    },
+    "265.name": {
+      "source": "凤舞之翼",
+      "target": "Huyết Đồ Yêu Đái"
+    },
+    "266.name": {
+      "source": "浴血屠龙(男)",
+      "target": "Huyết Đồ Chiến Ngoa"
+    },
+    "267.name": {
+      "source": "唯我红龙(男)",
+      "target": "Huyết Đồ Bảo Thạch"
+    },
+    "268.name": {
+      "source": "黑暗之影(男)",
+      "target": "Huyết Đồ Giới Chỉ"
+    },
+    "269.name": {
+      "source": "45级时装(废弃)",
+      "target": "Huyết Đồ Huân Chương"
+    },
+    "270.name": {
+      "source": "城主时装(男)",
+      "target": "Liệt Viêm Pháp Trượng"
+    },
+    "271.name": {
+      "source": "城主时装(女)",
+      "target": "Liệt Viêm Pháp Bào (Nam)"
+    },
+    "272.name": {
+      "source": "60级时装(废弃)",
+      "target": "Liệt Viêm Pháp Bào (Nữ)"
+    },
+    "273.name": {
+      "source": "强化符(废弃)",
+      "target": "Liệt Viêm Đầu Khôi"
+    },
+    "274.name": {
+      "source": "强化石(废弃)",
+      "target": "Liệt Viêm Hạng Liên"
+    },
+    "275.name": {
+      "source": "强化水晶(废弃)",
+      "target": "Liệt Viêm Thủ Trạc"
+    },
+    "276.name": {
+      "source": "强化保护卷轴",
+      "target": "Liệt Viêm Yêu Đái"
+    },
+    "277.name": {
+      "source": "鉴定卷轴",
+      "target": "Liệt Viêm Trường Ngoa"
+    },
+    "278.name": {
+      "source": "清洗神砂",
+      "target": "Liệt Viêm Bảo Thạch"
+    },
+    "279.name": {
+      "source": "鉴定锁",
+      "target": "Liệt Viêm Giới Chỉ"
+    },
+    "280.name": {
+      "source": "40装备升级石(废弃)",
+      "target": "Liệt Viêm Huân Chương"
+    },
+    "281.name": {
+      "source": "50装备升级石(废弃)",
+      "target": "Phục Ma Chi Kiếm"
+    },
+    "282.name": {
+      "source": "60装备升级石(废弃)",
+      "target": "Phục Ma Chiến Y (Nam)"
+    },
+    "283.name": {
+      "source": "70装备升级石(废弃)",
+      "target": "Phục Ma Chiến Y (Nữ)"
+    },
+    "284.name": {
+      "source": "强化保护卷轴包",
+      "target": "Phục Ma Đầu Khôi"
+    },
+    "285.name": {
+      "source": "幻影之刃(废弃)",
+      "target": "Phục Ma Hạng Liên"
+    },
+    "286.name": {
+      "source": "破天(废弃)",
+      "target": "Phục Ma Thủ Trạc"
+    },
+    "287.name": {
+      "source": "99999朵红玫瑰(废弃)",
+      "target": "Phục Ma Yêu Đái"
+    },
+    "288.name": {
+      "source": "99999朵蓝玫瑰(废弃)",
+      "target": "Phục Ma Chiến Hài"
+    },
+    "289.name": {
+      "source": "封印的屠龙刀(废弃)",
+      "target": "Phục Ma Bảo Thạch"
+    },
+    "290.name": {
+      "source": "封印的法神杖(废弃)",
+      "target": "Phục Ma Giới Chỉ"
+    },
+    "291.name": {
+      "source": "封印的天尊剑(废弃)",
+      "target": "Phục Ma Huân Chương"
+    },
+    "292.name": {
+      "source": "法神无双(男)",
+      "target": "Thần Võ Chiến Đao"
+    },
+    "293.name": {
+      "source": "蓝宇传说(男)",
+      "target": "Thần Võ Chiến Giáp (Nam)"
+    },
+    "294.name": {
+      "source": "深渊之铠(男)",
+      "target": "Thần Võ Chiến Giáp (Nữ)"
+    },
+    "295.name": {
+      "source": "幽梦之灵(男)",
+      "target": "Thần Võ Đầu Khôi"
+    },
+    "296.name": {
+      "source": "圣洁精灵(男)",
+      "target": "Thần Võ Hạng Liên"
+    },
+    "297.name": {
+      "source": "神圣仲裁(男)",
+      "target": "Thần Võ Thủ Trạc"
+    },
+    "298.name": {
+      "source": "浴血屠龙(女)",
+      "target": "Thần Võ Yêu Đái"
+    },
+    "299.name": {
+      "source": "唯我红龙(女)",
+      "target": "Thần Võ Chiến Ngoa"
+    },
+    "300.name": {
+      "source": "黑暗之影(女)",
+      "target": "Thần Võ Bảo Thạch"
+    },
+    "301.name": {
+      "source": "封印的死神镰刀(废弃)",
+      "target": "Thần Võ Giới Chỉ"
+    },
+    "302.name": {
+      "source": "封印的传说杖(废弃)",
+      "target": "Thần Võ Huân Chương"
+    },
+    "303.name": {
+      "source": "封印的太阳剑(废弃)",
+      "target": "Nguyên Anh Pháp Trượng"
+    },
+    "304.name": {
+      "source": "封印的地狱毁灭(废弃)",
+      "target": "Nguyên Anh Pháp Bào (Nam)"
+    },
+    "305.name": {
+      "source": "封印的梅格之歌(废弃)",
+      "target": "Nguyên Anh Pháp Bào (Nữ)"
+    },
+    "306.name": {
+      "source": "封印的衣卒尔之刃(废弃)",
+      "target": "Nguyên Anh Đầu Khôi"
+    },
+    "307.name": {
+      "source": "51级散件宝石(废弃)",
+      "target": "Nguyên Anh Hạng Liên"
+    },
+    "308.name": {
+      "source": "摊位扩展卷轴",
+      "target": "Nguyên Anh Thủ Trạc"
+    },
+    "309.name": {
+      "source": "至尊VIP卡",
+      "target": "Nguyên Anh Yêu Đái"
+    },
+    "310.name": {
+      "source": "黄金VIP卡",
+      "target": "Nguyên Anh Trường Ngoa"
+    },
+    "311.name": {
+      "source": "白银VIP卡",
+      "target": "Nguyên Anh Bảo Thạch"
+    },
+    "312.name": {
+      "source": "追查令",
+      "target": "Nguyên Anh Giới Chỉ"
+    },
+    "313.name": {
+      "source": "预警灯",
+      "target": "Nguyên Anh Huân Chương"
+    },
+    "314.name": {
+      "source": "行会号角",
+      "target": "Thái Hư Chi Kiếm"
+    },
+    "315.name": {
+      "source": "行会银币",
+      "target": "Thái Hư Chiến Y (Nam)"
+    },
+    "316.name": {
+      "source": "召唤令",
+      "target": "Thái Hư Chiến Y (Nữ)"
+    },
+    "317.name": {
+      "source": "行会召集令",
+      "target": "Thái Hư Đầu Khôi"
+    },
+    "318.name": {
+      "source": "行会回城卷轴",
+      "target": "Thái Hư Hạng Liên"
+    },
+    "319.name": {
+      "source": "攻城徽章",
+      "target": "Thái Hư Thủ Trạc"
+    },
+    "320.name": {
+      "source": "铜矿(废弃)",
+      "target": "Thái Hư Yêu Đái"
+    },
+    "321.name": {
+      "source": "铁矿(废弃)",
+      "target": "Thái Hư Chiến Hài"
+    },
+    "322.name": {
+      "source": "银矿(废弃)",
+      "target": "Thái Hư Bảo Thạch"
+    },
+    "323.name": {
+      "source": "金矿(废弃)",
+      "target": "Thái Hư Giới Chỉ"
+    },
+    "324.name": {
+      "source": "钻石矿(废弃)",
+      "target": "Thái Hư Huân Chương"
+    },
+    "325.name": {
+      "source": "大师铁镐(废弃)",
+      "target": "Ngạo Thế Chiến Đao"
+    },
+    "326.name": {
+      "source": "神的纯银铁镐(废弃)",
+      "target": "Ngạo Thế Chiến Giáp (Nam)"
+    },
+    "327.name": {
+      "source": "神的黄金铁镐(废弃)",
+      "target": "Ngạo Thế Chiến Giáp (Nữ)"
+    },
+    "328.name": {
+      "source": "1.5倍经验卷轴",
+      "target": "Ngạo Thế Đầu Khôi"
+    },
+    "329.name": {
+      "source": "1.5倍经验卷轴(8小时)",
+      "target": "Ngạo Thế Hạng Liên"
+    },
+    "330.name": {
+      "source": "2倍经验卷轴",
+      "target": "Ngạo Thế Thủ Trạc"
+    },
+    "331.name": {
+      "source": "2倍经验神卷轴(8小时)",
+      "target": "Ngạo Thế Yêu Đái"
+    },
+    "332.name": {
+      "source": "经验水晶(小)",
+      "target": "Ngạo Thế Chiến Ngoa"
+    },
+    "333.name": {
+      "source": "经验水晶(中)",
+      "target": "Ngạo Thế Bảo Thạch"
+    },
+    "334.name": {
+      "source": "经验水晶(大)",
+      "target": "Ngạo Thế Giới Chỉ"
+    },
+    "335.name": {
+      "source": "轻微治疗药剂",
+      "target": "Ngạo Thế Huân Chương"
+    },
+    "336.name": {
+      "source": "轻型治疗药剂",
+      "target": "Chân Linh Pháp Trượng"
+    },
+    "337.name": {
+      "source": "治疗药剂",
+      "target": "Chân Linh Pháp Bào (Nam)"
+    },
+    "338.name": {
+      "source": "强效治疗药剂",
+      "target": "Chân Linh Pháp Bào (Nữ)"
+    },
+    "339.name": {
+      "source": "超强治疗药剂",
+      "target": "Chân Linh Đầu Khôi"
+    },
+    "340.name": {
+      "source": "极品治疗药剂",
+      "target": "Chân Linh Hạng Liên"
+    },
+    "341.name": {
+      "source": "完美治疗药剂",
+      "target": "Chân Linh Thủ Trạc"
+    },
+    "342.name": {
+      "source": "轻微法力药剂",
+      "target": "Chân Linh Yêu Đái"
+    },
+    "343.name": {
+      "source": "轻型法力药剂",
+      "target": "Chân Linh Trường Ngoa"
+    },
+    "344.name": {
+      "source": "法力药剂",
+      "target": "Chân Linh Bảo Thạch"
+    },
+    "345.name": {
+      "source": "强效法力药剂",
+      "target": "Chân Linh Giới Chỉ"
+    },
+    "346.name": {
+      "source": "超强法力药剂",
+      "target": "Chân Linh Huân Chương"
+    },
+    "347.name": {
+      "source": "极品法力药剂",
+      "target": "Bất Hủ Chi Kiếm"
+    },
+    "348.name": {
+      "source": "完美法力药剂",
+      "target": "Bất Hủ Chiến Y (Nam)"
+    },
+    "349.name": {
+      "source": "活力药水",
+      "target": "Bất Hủ Chiến Y (Nữ)"
+    },
+    "350.name": {
+      "source": "完美活力药水",
+      "target": "Bất Hủ Đầu Khôi"
+    },
+    "351.name": {
+      "source": "活力药水包",
+      "target": "Bất Hủ Hạng Liên"
+    },
+    "352.name": {
+      "source": "完美活力药水包",
+      "target": "Bất Hủ Thủ Trạc"
+    },
+    "353.name": {
+      "source": "完美活力药水大包",
+      "target": "Bất Hủ Yêu Đái"
+    },
+    "354.name": {
+      "source": "红玫瑰",
+      "target": "Bất Hủ Chiến Hài"
+    },
+    "355.name": {
+      "source": "9朵红玫瑰",
+      "target": "Bất Hủ Bảo Thạch"
+    },
+    "356.name": {
+      "source": "99朵红玫瑰",
+      "target": "Bất Hủ Giới Chỉ"
+    },
+    "357.name": {
+      "source": "999朵红玫瑰",
+      "target": "Bất Hủ Huân Chương"
+    },
+    "358.name": {
+      "source": "9999朵红玫瑰",
+      "target": "Ám Hắc Chiến Đao"
+    },
+    "359.name": {
+      "source": "蓝玫瑰",
+      "target": "Ám Hắc Chiến Giáp (Nam)"
+    },
+    "360.name": {
+      "source": "9朵蓝玫瑰",
+      "target": "Ám Hắc Chiến Giáp (Nữ)"
+    },
+    "361.name": {
+      "source": "99朵蓝玫瑰",
+      "target": "Ám Hắc Đầu Khôi"
+    },
+    "362.name": {
+      "source": "999朵蓝玫瑰",
+      "target": "Ám Hắc Hạng Liên"
+    },
+    "363.name": {
+      "source": "9999朵蓝玫瑰",
+      "target": "Ám Hắc Thủ Trạc"
+    },
+    "364.name": {
+      "source": "生命神石",
+      "target": "Ám Hắc Yêu Đái"
+    },
+    "365.name": {
+      "source": "魔法神石",
+      "target": "Ám Hắc Chiến Ngoa"
+    },
+    "366.name": {
+      "source": "西洋参",
+      "target": "Ám Hắc Bảo Thạch"
+    },
+    "367.name": {
+      "source": "西洋参之精",
+      "target": "Ám Hắc Giới Chỉ"
+    },
+    "368.name": {
+      "source": "雪莲",
+      "target": "Ám Hắc Huân Chương"
+    },
+    "369.name": {
+      "source": "雪莲之精",
+      "target": "Ám Hắc Pháp Trượng"
+    },
+    "370.name": {
+      "source": "祝福油",
+      "target": "Ám Hắc Pháp Bào (Nam)"
+    },
+    "371.name": {
+      "source": "生命药水(小)",
+      "target": "Ám Hắc Pháp Bào (Nữ)"
+    },
+    "372.name": {
+      "source": "生命药水(中)",
+      "target": "Ám Hắc Đầu Khôi"
+    },
+    "373.name": {
+      "source": "生命药水(大)",
+      "target": "Ám Hắc Hạng Liên"
+    },
+    "374.name": {
+      "source": "法力药水(小)",
+      "target": "Ám Hắc Thủ Trạc"
+    },
+    "375.name": {
+      "source": "法力药水(中)",
+      "target": "Ám Hắc Yêu Đái"
+    },
+    "376.name": {
+      "source": "法力药水(大)",
+      "target": "Ám Hắc Trường Ngoa"
+    },
+    "377.name": {
+      "source": "攻击药水(小)",
+      "target": "Ám Hắc Bảo Thạch"
+    },
+    "378.name": {
+      "source": "攻击药水(中)",
+      "target": "Ám Hắc Giới Chỉ"
+    },
+    "379.name": {
+      "source": "攻击药水(大)",
+      "target": "Ám Hắc Huân Chương"
+    },
+    "380.name": {
+      "source": "防御药水(小)",
+      "target": "Ám Hắc Chi Kiếm"
+    },
+    "381.name": {
+      "source": "防御药水(中)",
+      "target": "Ám Hắc Chiến Y (Nam)"
+    },
+    "382.name": {
+      "source": "防御药水(大)",
+      "target": "Ám Hắc Chiến Y (Nữ)"
+    },
+    "383.name": {
+      "source": "修复药水",
+      "target": "Ám Hắc Đầu Khôi"
+    },
+    "384.name": {
+      "source": "复活药水",
+      "target": "Ám Hắc Hạng Liên"
+    },
+    "385.name": {
+      "source": "红名清洗卡",
+      "target": "Ám Hắc Thủ Trạc"
+    },
+    "386.name": {
+      "source": "速传卷轴",
+      "target": "Ám Hắc Yêu Đái"
+    },
+    "387.name": {
+      "source": "屠龙城回城卷",
+      "target": "Ám Hắc Chiến Hài"
+    },
+    "388.name": {
+      "source": "圣城回城卷",
+      "target": "Ám Hắc Bảo Thạch"
+    },
+    "389.name": {
+      "source": "回城卷",
+      "target": "Ám Hắc Giới Chỉ"
+    },
+    "390.name": {
+      "source": "回城卷包",
+      "target": "Ám Hắc Huân Chương"
+    },
+    "391.name": {
+      "source": "超级回城卷",
+      "target": "Địa Ngục Chiến Đao"
+    },
+    "392.name": {
+      "source": "随机传送卷",
+      "target": "Địa Ngục Chiến Giáp (Nam)"
+    },
+    "393.name": {
+      "source": "随机传送卷包",
+      "target": "Địa Ngục Chiến Giáp (Nữ)"
+    },
+    "394.name": {
+      "source": "超级随机传送卷",
+      "target": "Địa Ngục Đầu Khôi"
+    },
+    "395.name": {
+      "source": "传音喇叭",
+      "target": "Địa Ngục Hạng Liên"
+    },
+    "396.name": {
+      "source": "骰子(废弃)",
+      "target": "Địa Ngục Thủ Trạc"
+    },
+    "397.name": {
+      "source": "玉骰子(废弃)",
+      "target": "Địa Ngục Yêu Đái"
+    },
+    "398.name": {
+      "source": "水晶骰子(废弃)",
+      "target": "Địa Ngục Chiến Ngoa"
+    },
+    "399.name": {
+      "source": "普通婚宴烟花(废弃)",
+      "target": "Địa Ngục Bảo Thạch"
+    },
+    "400.name": {
+      "source": "豪华婚宴烟花(废弃)",
+      "target": "Địa Ngục Giới Chỉ"
+    },
+    "401.name": {
+      "source": "师徒情深(废弃)",
+      "target": "Địa Ngục Huân Chương"
+    },
+    "402.name": {
+      "source": "情义永恒(废弃)",
+      "target": "Địa Ngục Pháp Trượng"
+    },
+    "403.name": {
+      "source": "难兄难弟(废弃)",
+      "target": "Địa Ngục Pháp Bào (Nam)"
+    },
+    "404.name": {
+      "source": "海誓山盟(废弃)",
+      "target": "Địa Ngục Pháp Bào (Nữ)"
+    },
+    "405.name": {
+      "source": "万众一心(废弃)",
+      "target": "Địa Ngục Đầu Khôi"
+    },
+    "406.name": {
+      "source": "生日快乐(废弃)",
+      "target": "Địa Ngục Hạng Liên"
+    },
+    "407.name": {
+      "source": "烟花",
+      "target": "Địa Ngục Thủ Trạc"
+    },
+    "408.name": {
+      "source": "一见如故(废弃)",
+      "target": "Địa Ngục Yêu Đái"
+    },
+    "409.name": {
+      "source": "有种来战(废弃)",
+      "target": "Địa Ngục Trường Ngoa"
+    },
+    "410.name": {
+      "source": "你还太嫩(废弃)",
+      "target": "Địa Ngục Bảo Thạch"
+    },
+    "411.name": {
+      "source": "1元宝票",
+      "target": "Địa Ngục Giới Chỉ"
+    },
+    "412.name": {
+      "source": "5元宝票",
+      "target": "Địa Ngục Huân Chương"
+    },
+    "413.name": {
+      "source": "10元宝票",
+      "target": "Địa Ngục Chi Kiếm"
+    },
+    "414.name": {
+      "source": "50元宝票",
+      "target": "Địa Ngục Chiến Y (Nam)"
+    },
+    "415.name": {
+      "source": "100元宝票",
+      "target": "Địa Ngục Chiến Y (Nữ)"
+    },
+    "416.name": {
+      "source": "500元宝票",
+      "target": "Địa Ngục Đầu Khôi"
+    },
+    "417.name": {
+      "source": "1000元宝票",
+      "target": "Địa Ngục Hạng Liên"
+    },
+    "418.name": {
+      "source": "10000元宝票",
+      "target": "Địa Ngục Thủ Trạc"
+    },
+    "419.name": {
+      "source": "15欢乐豆",
+      "target": "Địa Ngục Yêu Đái"
+    },
+    "420.name": {
+      "source": "30欢乐豆",
+      "target": "Địa Ngục Chiến Hài"
+    },
+    "421.name": {
+      "source": "50欢乐豆",
+      "target": "Địa Ngục Bảo Thạch"
+    },
+    "422.name": {
+      "source": "100欢乐豆",
+      "target": "Địa Ngục Giới Chỉ"
+    },
+    "423.name": {
+      "source": "测试用刀",
+      "target": "Địa Ngục Huân Chương"
+    },
+    "424.name": {
+      "source": "蛮力平击",
+      "target": "Thâm Uyên Chiến Đao"
+    },
+    "425.name": {
+      "source": "灭绝挥砍",
+      "target": "Thâm Uyên Chiến Giáp (Nam)"
+    },
+    "426.name": {
+      "source": "爆裂刺杀",
+      "target": "Thâm Uyên Chiến Giáp (Nữ)"
+    },
+    "427.name": {
+      "source": "夺命弦月",
+      "target": "Thâm Uyên Đầu Khôi"
+    },
+    "428.name": {
+      "source": "冲锋击退",
+      "target": "Thâm Uyên Hạng Liên"
+    },
+    "429.name": {
+      "source": "烈火狂刀",
+      "target": "Thâm Uyên Thủ Trạc"
+    },
+    "430.name": {
+      "source": "火弹",
+      "target": "Thâm Uyên Yêu Đái"
+    },
+    "431.name": {
+      "source": "能量击退",
+      "target": "Thâm Uyên Chiến Ngoa"
+    },
+    "432.name": {
+      "source": "天雷射",
+      "target": "Thâm Uyên Bảo Thạch"
+    },
+    "433.name": {
+      "source": "心灵传动",
+      "target": "Thâm Uyên Giới Chỉ"
+    },
+    "434.name": {
+      "source": "爆裂火焰",
+      "target": "Thâm Uyên Huân Chương"
+    },
+    "435.name": {
+      "source": "火墙焚烧",
+      "target": "Thâm Uyên Pháp Trượng"
+    },
+    "436.name": {
+      "source": "毁灭雷光",
+      "target": "Thâm Uyên Pháp Bào (Nam)"
+    },
+    "437.name": {
+      "source": "迅影雷光",
+      "target": "Thâm Uyên Pháp Bào (Nữ)"
+    },
+    "438.name": {
+      "source": "能量护盾",
+      "target": "Thâm Uyên Đầu Khôi"
+    },
+    "439.name": {
+      "source": "冰尖柱",
+      "target": "Thâm Uyên Hạng Liên"
+    },
+    "440.name": {
+      "source": "治愈术",
+      "target": "Thâm Uyên Thủ Trạc"
+    },
+    "441.name": {
+      "source": "念力战法",
+      "target": "Thâm Uyên Yêu Đái"
+    },
+    "442.name": {
+      "source": "烛骨施毒",
+      "target": "Thâm Uyên Trường Ngoa"
+    },
+    "443.name": {
+      "source": "灵魂火咒",
+      "target": "Thâm Uyên Bảo Thạch"
+    },
+    "444.name": {
+      "source": "骷髅复苏",
+      "target": "Thâm Uyên Giới Chỉ"
+    },
+    "445.name": {
+      "source": "隐匿术",
+      "target": "Thâm Uyên Huân Chương"
+    },
+    "446.name": {
+      "source": "群体隐匿术",
+      "target": "Thâm Uyên Chi Kiếm"
+    },
+    "447.name": {
+      "source": "圣灵护身术",
+      "target": "Thâm Uyên Chiến Y (Nam)"
+    },
+    "448.name": {
+      "source": "炼气战甲术",
+      "target": "Thâm Uyên Chiến Y (Nữ)"
+    },
+    "449.name": {
+      "source": "群体治疗术",
+      "target": "Thâm Uyên Đầu Khôi"
+    },
+    "450.name": {
+      "source": "召唤魔使",
+      "target": "Thâm Uyên Hạng Liên"
+    },
+    "451.name": {
+      "source": "黄铜矿(废弃)",
+      "target": "Thâm Uyên Thủ Trạc"
+    },
+    "452.name": {
+      "source": "坚硬的虫角(废弃)",
+      "target": "Thâm Uyên Yêu Đái"
+    },
+    "453.name": {
+      "source": "爆焱印记(废弃)",
+      "target": "Thâm Uyên Chiến Hài"
+    },
+    "454.name": {
+      "source": "爆雷印记(废弃)",
+      "target": "Thâm Uyên Bảo Thạch"
+    },
+    "455.name": {
+      "source": "剧毒符咒(废弃)",
+      "target": "Thâm Uyên Giới Chỉ"
+    },
+    "456.name": {
+      "source": "刀锋印记(废弃)",
+      "target": "Thâm Uyên Huân Chương"
+    },
+    "457.name": {
+      "source": "雷禁印记(废弃)",
+      "target": "Tinh Thần Chiến Đao"
+    },
+    "458.name": {
+      "source": "束缚符咒(废弃)",
+      "target": "Tinh Thần Chiến Giáp (Nam)"
+    },
+    "459.name": {
+      "source": "赤血",
+      "target": "Tinh Thần Chiến Giáp (Nữ)"
+    },
+    "460.name": {
+      "source": "虎蛇胆(废弃)",
+      "target": "Tinh Thần Đầu Khôi"
+    },
+    "461.name": {
+      "source": "鲜花(废弃)",
+      "target": "Tinh Thần Hạng Liên"
+    },
+    "462.name": {
+      "source": "奇怪龟甲(废弃)",
+      "target": "Tinh Thần Thủ Trạc"
+    },
+    "463.name": {
+      "source": "邪恶血液(废弃)",
+      "target": "Tinh Thần Yêu Đái"
+    },
+    "464.name": {
+      "source": "诅咒稻草人(废弃)",
+      "target": "Tinh Thần Chiến Ngoa"
+    },
+    "465.name": {
+      "source": "野猪牙(废弃)",
+      "target": "Tinh Thần Bảo Thạch"
+    },
+    "466.name": {
+      "source": "记忆之花(废弃)",
+      "target": "Tinh Thần Giới Chỉ"
+    },
+    "467.name": {
+      "source": "鼠皮(废弃)",
+      "target": "Tinh Thần Huân Chương"
+    },
+    "468.name": {
+      "source": "芍药(废弃)",
+      "target": "Tinh Thần Pháp Trượng"
+    },
+    "469.name": {
+      "source": "猪蹄(废弃)",
+      "target": "Tinh Thần Pháp Bào (Nam)"
+    },
+    "470.name": {
+      "source": "熔岩血液(废弃)",
+      "target": "Tinh Thần Pháp Bào (Nữ)"
+    },
+    "471.name": {
+      "source": "巨人心脏(废弃)",
+      "target": "Tinh Thần Đầu Khôi"
+    },
+    "472.name": {
+      "source": "钢牙(废弃)",
+      "target": "Tinh Thần Hạng Liên"
+    },
+    "473.name": {
+      "source": "毒囊(废弃)",
+      "target": "Tinh Thần Thủ Trạc"
+    },
+    "474.name": {
+      "source": "怨灵(废弃)",
+      "target": "Tinh Thần Yêu Đái"
+    },
+    "475.name": {
+      "source": "猪牙(废弃)",
+      "target": "Tinh Thần Trường Ngoa"
+    },
+    "476.name": {
+      "source": "天香血莲(废弃)",
+      "target": "Tinh Thần Bảo Thạch"
+    },
+    "477.name": {
+      "source": "邪恶灵魂(废弃)",
+      "target": "Tinh Thần Giới Chỉ"
+    },
+    "478.name": {
+      "source": "2倍离线经验玉",
+      "target": "Tinh Thần Huân Chương"
+    },
+    "479.name": {
+      "source": "3倍离线经验玉",
+      "target": "Tinh Thần Chi Kiếm"
+    },
+    "480.name": {
+      "source": "5倍离线经验玉",
+      "target": "Tinh Thần Chiến Y (Nam)"
+    },
+    "481.name": {
+      "source": "排名奖励包(废弃)",
+      "target": "Tinh Thần Chiến Y (Nữ)"
+    },
+    "482.name": {
+      "source": "冲级奖励包(废弃)",
+      "target": "Tinh Thần Đầu Khôi"
+    },
+    "483.name": {
+      "source": "天下第一礼包(废弃)",
+      "target": "Tinh Thần Hạng Liên"
+    },
+    "484.name": {
+      "source": "首冲礼包(废弃)",
+      "target": "Tinh Thần Thủ Trạc"
+    },
+    "485.name": {
+      "source": "行会掌门包(废弃)",
+      "target": "Tinh Thần Yêu Đái"
+    },
+    "486.name": {
+      "source": "活动礼包(废弃)",
+      "target": "Tinh Thần Chiến Hài"
+    },
+    "497.name": {
+      "source": "超级祝福油",
+      "target": "Chân Võ Chiến Ngoa"
+    },
+    "498.name": {
+      "source": "护身符",
+      "target": "Chân Võ Bảo Thạch"
+    },
+    "1000.name": {
+      "source": "测试武魂",
+      "target": "Hồn Võ Kiểm Thử"
+    },
+    "1001.name": {
+      "source": "测试经验武魂",
+      "target": "Hồn Võ KN Kiểm Thử"
+    }
+  }
+}

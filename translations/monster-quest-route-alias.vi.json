@@ -1,0 +1,6391 @@
+{
+  "format": 1,
+  "file": "monster.cbp",
+  "description": "Dịch tên quái hiển thị theo alias LogicServer; không đổi entityName route.",
+  "translations": {
+    "0.name": {
+      "source": "测试",
+      "target": "Thử Nghiệm"
+    },
+    "1.name": {
+      "source": "测试一",
+      "target": "Thử Nghiệm Một"
+    },
+    "2.name": {
+      "source": "测试二",
+      "target": "Thử Nghiệm Hai"
+    },
+    "3.name": {
+      "source": "测试三",
+      "target": "Thử Nghiệm Ba"
+    },
+    "4.name": {
+      "source": "测试四",
+      "target": "Thử Nghiệm Bốn"
+    },
+    "5.name": {
+      "source": "测试五",
+      "target": "Thử Nghiệm Năm"
+    },
+    "6.name": {
+      "source": "黑角羊",
+      "target": "Hắc Giác Dương"
+    },
+    "7.name": {
+      "source": "土鸡",
+      "target": "Thổ Kê"
+    },
+    "8.name": {
+      "source": "稻草兵",
+      "target": "Đạo Thảo Binh"
+    },
+    "9.name": {
+      "source": "羚角鹿",
+      "target": "Linh Giác Lộc"
+    },
+    "10.name": {
+      "source": "稻草",
+      "target": "Đạo Thảo"
+    },
+    "11.name": {
+      "source": "耙妖",
+      "target": "Bá Yêu"
+    },
+    "12.name": {
+      "source": "银角虫",
+      "target": "Ngân Giác Trùng"
+    },
+    "13.name": {
+      "source": "利爪猫妖",
+      "target": "Lợi Trảo Miêu Yêu"
+    },
+    "14.name": {
+      "source": "蛮兽人",
+      "target": "Man Thú Nhân"
+    },
+    "15.name": {
+      "source": "花斑蜘蛛",
+      "target": "Nhện Hoa Ban"
+    },
+    "16.name": {
+      "source": "血煞僵尸",
+      "target": "Huyết Sát Cương Thi"
+    },
+    "17.name": {
+      "source": "大鹏雕",
+      "target": "Đại Bằng Điêu"
+    },
+    "18.name": {
+      "source": "野士",
+      "target": "Dã Sĩ"
+    },
+    "19.name": {
+      "source": "碎裂僵尸",
+      "target": "Toái Liệt Cương Thi"
+    },
+    "20.name": {
+      "source": "大僵卫兵",
+      "target": "Đại Cương Vệ Binh"
+    },
+    "21.name": {
+      "source": "青铜妖尸",
+      "target": "Thanh Đồng Yêu Thi"
+    },
+    "22.name": {
+      "source": " 矿工僵尸",
+      "target": "Kho Công Cương Thi"
+    },
+    "23.name": {
+      "source": "食灵恶蛆",
+      "target": "Thực Linh Ác Thư"
+    },
+    "24.name": {
+      "source": "黑玄蜂",
+      "target": "Hắc Huyền Phong"
+    },
+    "25.name": {
+      "source": "夺命蝎子",
+      "target": "Đoạt Mệnh Yết Tử"
+    },
+    "26.name": {
+      "source": "赤练蛇",
+      "target": "Xích Luyện Xà"
+    },
+    "27.name": {
+      "source": "钢甲钳虫",
+      "target": "Cương Giáp Kiềm Trùng"
+    },
+    "28.name": {
+      "source": "鬼头蛇",
+      "target": "Quỷ Đầu Xà"
+    },
+    "29.name": {
+      "source": "赤尾蜈蚣",
+      "target": "Xích Vĩ Ngô Công"
+    },
+    "30.name": {
+      "source": "蝎蛇",
+      "target": "Yết Xà"
+    },
+    "31.name": {
+      "source": "饥饿鬼蛇",
+      "target": "Cơ Ngạ Quỷ Xà"
+    },
+    "32.name": {
+      "source": "娇艳花朵",
+      "target": "Kiều Diễm Hoa Đóa"
+    },
+    "33.name": {
+      "source": "诅咒石兽",
+      "target": "Trớ Chú Thạch Thú"
+    },
+    "34.name": {
+      "source": "死亡战士",
+      "target": "Tử Vong Chiến Sĩ"
+    },
+    "35.name": {
+      "source": "恶灵甲士",
+      "target": "Ác Linh Giáp Sĩ"
+    },
+    "36.name": {
+      "source": "仙海",
+      "target": "Tiên Hải"
+    },
+    "37.name": {
+      "source": "沃玛教主",
+      "target": "Woma Giáo Chủ"
+    },
+    "38.name": {
+      "source": "红猪妖",
+      "target": "Hồng Trư Yêu"
+    },
+    "39.name": {
+      "source": "爆炎猪",
+      "target": "Bạo Viêm Trư"
+    },
+    "40.name": {
+      "source": "黑猪妖",
+      "target": "Hắc Trư Yêu"
+    },
+    "41.name": {
+      "source": "金毛猪",
+      "target": "Kim Mao Trư"
+    },
+    "42.name": {
+      "source": "双头蝎蛇",
+      "target": "Song Đầu Hạt Xà"
+    },
+    "43.name": {
+      "source": "赤练蝎蛇",
+      "target": "Xích Luyện Hạt Xà"
+    },
+    "44.name": {
+      "source": "石像守护",
+      "target": "Thạch Tượng Thủ Hộ"
+    },
+    "45.name": {
+      "source": "记忆之花",
+      "target": "Ký Ức Chi Hoa"
+    },
+    "46.name": {
+      "source": "亡灵刀兵",
+      "target": "Vong Linh Đao Binh"
+    },
+    "47.name": {
+      "source": "血屠夫",
+      "target": "Huyết Đồ Phu"
+    },
+    "48.name": {
+      "source": "吞天巨鼠",
+      "target": "Thôn Thiên Cự Thử"
+    },
+    "49.name": {
+      "source": "石像惩戒",
+      "target": "Thạch Tượng Trừng Giới"
+    },
+    "50.name": {
+      "source": "邪兽雕像",
+      "target": "Tà Thú Điêu Tượng"
+    },
+    "51.name": {
+      "source": "绿蛙战士",
+      "target": "Lục Oa Chiến Sĩ"
+    },
+    "52.name": {
+      "source": "邪恶沙鲁",
+      "target": "Tà Ác Sa Lỗ"
+    },
+    "53.name": {
+      "source": "诛魔影子",
+      "target": "Tru Ma Ảnh Tử"
+    },
+    "54.name": {
+      "source": "魔斧兵",
+      "target": "Ma Phủ Binh"
+    },
+    "55.name": {
+      "source": "邪兽卫士",
+      "target": "Tà Thú Vệ Sĩ"
+    },
+    "56.name": {
+      "source": "芍药",
+      "target": "Thược Dược"
+    },
+    "57.name": {
+      "source": "烈火猪妖",
+      "target": "Liệt Hỏa Trư Yêu"
+    },
+    "58.name": {
+      "source": "暗黑兵俑",
+      "target": "Ám Hắc Binh Dũng"
+    },
+    "59.name": {
+      "source": "阴煞猪妖",
+      "target": "Âm Sát Trư Yêu"
+    },
+    "60.name": {
+      "source": "毒蜘蛛",
+      "target": "Nhện Độc"
+    },
+    "61.name": {
+      "source": "妖婴 ",
+      "target": "Yêu Anh"
+    },
+    "62.name": {
+      "source": "狂刀甲士",
+      "target": "Cuồng Đao Giáp Sĩ"
+    },
+    "63.name": {
+      "source": "紫斑蝎",
+      "target": "Tử Ban Hạt"
+    },
+    "64.name": {
+      "source": "银甲钳虫",
+      "target": "Ngân Giáp Kiềm Trùng"
+    },
+    "65.name": {
+      "source": "小恶魔",
+      "target": "Tiểu Ác Ma"
+    },
+    "66.name": {
+      "source": "七尾蜈蚣",
+      "target": "Thất Vĩ Ngô Công"
+    },
+    "67.name": {
+      "source": "魔蛆",
+      "target": "Ma Thư"
+    },
+    "68.name": {
+      "source": "地炎蚁",
+      "target": "Địa Viêm Kiến"
+    },
+    "69.name": {
+      "source": "毒火蚁",
+      "target": "Độc Hỏa Kiến"
+    },
+    "70.name": {
+      "source": "招魂蚁",
+      "target": "Chiêu Hồn Kiến"
+    },
+    "71.name": {
+      "source": "黑魔蚁",
+      "target": "Hắc Ma Kiến"
+    },
+    "72.name": {
+      "source": "野蛮勇士",
+      "target": "Dã Man Dũng Sĩ"
+    },
+    "73.name": {
+      "source": "野蛮巨魔",
+      "target": "Dã Man Cự Ma"
+    },
+    "74.name": {
+      "source": "魔妖龙猪",
+      "target": "Ma Yêu Long Trư"
+    },
+    "75.name": {
+      "source": "熔岩巨人",
+      "target": "Dung Nham Cự Nhân"
+    },
+    "76.name": {
+      "source": "钢牙蜘蛛",
+      "target": "Cương Nha Nhện"
+    },
+    "77.name": {
+      "source": "毒魔蜘蛛",
+      "target": "Độc Ma Nhện"
+    },
+    "78.name": {
+      "source": "白煞猪妖",
+      "target": "Bạch Sát Trư Yêu"
+    },
+    "79.name": {
+      "source": "野猪统领",
+      "target": "Dã Trư Thống Lĩnh"
+    },
+    "80.name": {
+      "source": "野猪将军",
+      "target": "Dã Trư Tướng Quân"
+    },
+    "81.name": {
+      "source": "双头金刚",
+      "target": "Song Đầu Kim Cương"
+    },
+    "82.name": {
+      "source": "暴风牛魔",
+      "target": "Bạo Phong Ngưu Ma"
+    },
+    "83.name": {
+      "source": "牛魔侍卫",
+      "target": "Ngưu Ma Thị Vệ"
+    },
+    "84.name": {
+      "source": "七鳞蜘蛛",
+      "target": "Thất Lân Nhện"
+    },
+    "85.name": {
+      "source": "毁灭巨人",
+      "target": "Hủy Diệt Cự Nhân"
+    },
+    "86.name": {
+      "source": "双头血魔",
+      "target": "Song Đầu Huyết Ma"
+    },
+    "87.name": {
+      "source": "吞天巨人",
+      "target": "Thôn Thiên Cự Nhân"
+    },
+    "88.name": {
+      "source": "天香血莲",
+      "target": "Thiên Hương Huyết Liên"
+    },
+    "89.name": {
+      "source": "开山金刚",
+      "target": "Khai Sơn Kim Cương"
+    },
+    "90.name": {
+      "source": "赤练蝎卫",
+      "target": "Xích Luyện Hạt Vệ"
+    },
+    "91.name": {
+      "source": "森林雪怪",
+      "target": "Sâm Lâm Tuyết Quái"
+    },
+    "92.name": {
+      "source": "牛魔护卫",
+      "target": "Ngưu Ma Hộ Vệ"
+    },
+    "93.name": {
+      "source": "牛头魔",
+      "target": "Ngưu Đầu Ma"
+    },
+    "94.name": {
+      "source": "噬魂血魔",
+      "target": "Phệ Hồn Huyết Ma"
+    },
+    "95.name": {
+      "source": "蛮荒力士",
+      "target": "Man Hoang Lực Sĩ"
+    },
+    "96.name": {
+      "source": "蛮荒流放者",
+      "target": "Man Hoang Lưu Phóng Giả"
+    },
+    "97.name": {
+      "source": "混世魔王",
+      "target": "Hỗn Thế Ma Vương"
+    },
+    "98.name": {
+      "source": "暴力者",
+      "target": "Bạo Lực Giả"
+    },
+    "99.name": {
+      "source": "魔仙猪",
+      "target": "Ma Tiên Trư"
+    },
+    "100.name": {
+      "source": "蛮荒古魔",
+      "target": "Man Hoang Cổ Ma"
+    },
+    "101.name": {
+      "source": "蛮荒守护者",
+      "target": "Man Hoang Thủ Hộ Giả"
+    },
+    "102.name": {
+      "source": "苍兽",
+      "target": "Thương Thú"
+    },
+    "103.name": {
+      "source": "雷鸣老妖",
+      "target": "Lôi Minh Lão Yêu"
+    },
+    "104.name": {
+      "source": "彩鳞蜘蛛",
+      "target": "Thái Lân Nhện"
+    },
+    "105.name": {
+      "source": "牛魔统领",
+      "target": "Ngưu Ma Thống Lĩnh"
+    },
+    "106.name": {
+      "source": "红斑蛛",
+      "target": "Hồng Ban Chu"
+    },
+    "107.name": {
+      "source": "杀戮魔王",
+      "target": "Sát Lục Ma Vương"
+    },
+    "108.name": {
+      "source": "蛮荒巫士",
+      "target": "Man Hoang Vu Sĩ"
+    },
+    "109.name": {
+      "source": "域外天魔",
+      "target": "Vực Ngoại Thiên Ma"
+    },
+    "110.name": {
+      "source": "牛魔勇士",
+      "target": "Ngưu Ma Dũng Sĩ"
+    },
+    "111.name": {
+      "source": "天魔幻象",
+      "target": "Thiên Ma Ảo Tượng"
+    },
+    "112.name": {
+      "source": "奔雷兽",
+      "target": "Bôn Lôi Thú"
+    },
+    "113.name": {
+      "source": "火绒草",
+      "target": "Hỏa Nhung Thảo"
+    },
+    "114.name": {
+      "source": "弓箭护卫",
+      "target": "Cung Tiễn Hộ Vệ"
+    },
+    "115.name": {
+      "source": "左墙",
+      "target": "Tường Trái"
+    },
+    "116.name": {
+      "source": "中墙",
+      "target": "Tường Giữa"
+    },
+    "117.name": {
+      "source": "勇士",
+      "target": "Dũng Sĩ"
+    },
+    "118.name": {
+      "source": "角斗之王1",
+      "target": "Giác Đấu Chi Vương 1"
+    },
+    "119.name": {
+      "source": "角斗之王2",
+      "target": "Giác Đấu Chi Vương 2"
+    },
+    "120.name": {
+      "source": "角斗之王3",
+      "target": "Giác Đấu Chi Vương 3"
+    },
+    "121.name": {
+      "source": "金牛座护卫",
+      "target": "Kim Ngưu Tọa Hộ Vệ"
+    },
+    "122.name": {
+      "source": "巨蟹座护卫",
+      "target": "Cự Giải Tọa Hộ Vệ"
+    },
+    "123.name": {
+      "source": "狮子座护卫",
+      "target": "Sư Tử Tọa Hộ Vệ"
+    },
+    "124.name": {
+      "source": "双子座护卫",
+      "target": "Song Tử Tọa Hộ Vệ"
+    },
+    "125.name": {
+      "source": "摩羯座护卫",
+      "target": "Ma Kết Tọa Hộ Vệ"
+    },
+    "126.name": {
+      "source": "射手座护卫",
+      "target": "Nhân Mã Tọa Hộ Vệ"
+    },
+    "127.name": {
+      "source": "双鱼座护卫",
+      "target": "Song Ngư Tọa Hộ Vệ"
+    },
+    "128.name": {
+      "source": "水瓶座护卫",
+      "target": "Thủy Bình Tọa Hộ Vệ"
+    },
+    "129.name": {
+      "source": "天秤座护卫",
+      "target": "Thiên Bình Tọa Hộ Vệ"
+    },
+    "130.name": {
+      "source": "天蝎座护卫",
+      "target": "Thiên Yết Tọa Hộ Vệ"
+    },
+    "131.name": {
+      "source": "白羊座护卫",
+      "target": "Bạch Dương Tọa Hộ Vệ"
+    },
+    "132.name": {
+      "source": "处女座护卫",
+      "target": "Xử Nữ Tọa Hộ Vệ"
+    },
+    "133.name": {
+      "source": "炼狱魔王",
+      "target": "Luyện Ngục Ma Vương"
+    },
+    "134.name": {
+      "source": "女魔",
+      "target": "Nữ Ma"
+    },
+    "135.name": {
+      "source": "骨魔",
+      "target": "Cốt Ma"
+    },
+    "136.name": {
+      "source": "树魔",
+      "target": "Thụ Ma"
+    },
+    "137.name": {
+      "source": "月魔",
+      "target": "Nguyệt Ma"
+    },
+    "138.name": {
+      "source": "龙魔",
+      "target": "Long Ma"
+    },
+    "139.name": {
+      "source": "邪恶女妖王",
+      "target": "Tà Ác Nữ Yêu Vương"
+    },
+    "140.name": {
+      "source": "斯克里登大魔王",
+      "target": "Tư Khắc Lý Đăng Đại Ma Vương"
+    },
+    "141.name": {
+      "source": "森林大魔王",
+      "target": "Sâm Lâm Đại Ma Vương"
+    },
+    "142.name": {
+      "source": "饕餮大魔王",
+      "target": "Thao Thiết Đại Ma Vương"
+    },
+    "143.name": {
+      "source": "万兽魔龙王",
+      "target": "Vạn Thú Ma Long Vương"
+    },
+    "144.name": {
+      "source": "万魔之魔",
+      "target": "Vạn Ma Chi Ma"
+    },
+    "145.name": {
+      "source": "万魔之尊",
+      "target": "Vạn Ma Chi Tôn"
+    },
+    "146.name": {
+      "source": "异形魔尊",
+      "target": "Dị Hình Ma Tôn"
+    },
+    "147.name": {
+      "source": "熔岩火龙王",
+      "target": "Dung Nham Hỏa Long Vương"
+    },
+    "148.name": {
+      "source": "火凤",
+      "target": "Hỏa Phượng"
+    },
+    "149.name": {
+      "source": "冥轮王蛇",
+      "target": "Minh Luân Vương Xà"
+    },
+    "150.name": {
+      "source": "牛魔莫莫莫王",
+      "target": "Ngưu Ma Mạc Mạc Mạc Vương"
+    },
+    "151.name": {
+      "source": "金甲尸王",
+      "target": "Kim Giáp Thi Vương"
+    },
+    "152.name": {
+      "source": "祖玛教皇",
+      "target": "Tổ Mã Giáo Hoàng"
+    },
+    "153.name": {
+      "source": "赤练猪卫",
+      "target": "Xích Luyện Trư Vệ"
+    },
+    "154.name": {
+      "source": "邪恶钳虫",
+      "target": "Tà Ác Kiềm Trùng"
+    },
+    "155.name": {
+      "source": "黑龙教主",
+      "target": "Hắc Long Giáo Chủ"
+    },
+    "156.name": {
+      "source": "蚁后",
+      "target": "Kiến Chúa"
+    },
+    "157.name": {
+      "source": "黄泉领主",
+      "target": "Hoàng Tuyền Lĩnh Chủ"
+    },
+    "158.name": {
+      "source": "玫瑰妖精",
+      "target": "Yêu Tinh Hoa Hồng"
+    },
+    "159.name": {
+      "source": "旗帜",
+      "target": "Lá Cờ"
+    },
+    "160.name": {
+      "source": "魔帝",
+      "target": "Ma Đế"
+    },
+    "161.name": {
+      "source": "魔尊",
+      "target": "Ma Tôn"
+    },
+    "162.name": {
+      "source": "魔怪",
+      "target": "Ma Quái"
+    },
+    "163.name": {
+      "source": "魔念魔念",
+      "target": "Ma Niệm Ma Niệm"
+    },
+    "164.name": {
+      "source": "地穴兽人",
+      "target": "Địa Huyệt Thú Nhân"
+    },
+    "165.name": {
+      "source": "铁刺甲鳄",
+      "target": "Thiết Thứ Giáp Ngạc"
+    },
+    "166.name": {
+      "source": "暗黑蝎蛇",
+      "target": "Ám Hắc Hạt Xà"
+    },
+    "167.name": {
+      "source": "岩刺石兽",
+      "target": "Nham Thứ Thạch Thú"
+    },
+    "168.name": {
+      "source": "地穴恶魔",
+      "target": "Địa Huyệt Ác Ma"
+    },
+    "169.name": {
+      "source": "幽灵枪兵",
+      "target": "U Linh Thương Binh"
+    },
+    "170.name": {
+      "source": "死灵蚁",
+      "target": "Tử Linh Kiến"
+    },
+    "171.name": {
+      "source": "白鬃野猪",
+      "target": "Bạch Tông Dã Trư"
+    },
+    "172.name": {
+      "source": "梦魇蜘蛛",
+      "target": "Mộng Yểm Nhện"
+    },
+    "173.name": {
+      "source": "金刚",
+      "target": "Kim Cương"
+    },
+    "174.name": {
+      "source": "血魔",
+      "target": "Huyết Ma"
+    },
+    "175.name": {
+      "source": "荒野狂魔",
+      "target": "Hoang Dã Cuồng Ma"
+    },
+    "176.name": {
+      "source": "怒雷咆哮",
+      "target": "Nộ Lôi Bào Hao"
+    },
+    "177.name": {
+      "source": "亡灵角蛇",
+      "target": "Vong Linh Giác Xà"
+    },
+    "178.name": {
+      "source": "血腥玛格",
+      "target": "Huyết Tinh Mã Cách"
+    },
+    "179.name": {
+      "source": "剧毒蜘蛛",
+      "target": "Nhện Kịch Độc"
+    },
+    "180.name": {
+      "source": "铜甲死士",
+      "target": "Đồng Giáp Tử Sĩ"
+    },
+    "181.name": {
+      "source": "森林恶魔",
+      "target": "Sâm Lâm Ác Ma"
+    },
+    "182.name": {
+      "source": "持令恶魔",
+      "target": "Trì Lệnh Ác Ma"
+    },
+    "183.name": {
+      "source": "魂蝎",
+      "target": "Hồn Hạt"
+    },
+    "184.name": {
+      "source": "梦魔蜘蛛",
+      "target": "Mộng Ma Nhện"
+    },
+    "185.name": {
+      "source": "剑齿虎",
+      "target": "Kiếm Xỉ Hổ"
+    },
+    "186.name": {
+      "source": "藏宝怪",
+      "target": "Tàng Bảo Quái"
+    },
+    "187.name": {
+      "source": "大刀守卫",
+      "target": "Đại Đao Thủ Vệ"
+    },
+    "188.name": {
+      "source": "弓箭守卫",
+      "target": "Cung Tiễn Thủ Vệ"
+    },
+    "189.name": {
+      "source": "邪皇守卫",
+      "target": "Tà Hoàng Thủ Vệ"
+    },
+    "190.name": {
+      "source": "人·弓箭守卫",
+      "target": "Nhân·Cung Tiễn Thủ Vệ"
+    },
+    "191.name": {
+      "source": "魔·弓箭守卫",
+      "target": "Ma·Cung Tiễn Thủ Vệ"
+    },
+    "192.name": {
+      "source": "庆典女王",
+      "target": "Khánh Điển Nữ Vương"
+    },
+    "193.name": {
+      "source": "金甲大王",
+      "target": "Kim Giáp Đại Vương"
+    },
+    "194.name": {
+      "source": "银甲大王",
+      "target": "Ngân Giáp Đại Vương"
+    },
+    "195.name": {
+      "source": "煞翼队长",
+      "target": "Sát Dực Đội Trưởng"
+    },
+    "196.name": {
+      "source": "先锋煞翼",
+      "target": "Tiên Phong Sát Dực"
+    },
+    "197.name": {
+      "source": "赤甲龙",
+      "target": "Xích Giáp Long"
+    },
+    "198.name": {
+      "source": "龙坛石龟",
+      "target": "Long Đàn Thạch Quy"
+    },
+    "199.name": {
+      "source": "赤甲龙队长",
+      "target": "Xích Giáp Long Đội Trưởng"
+    },
+    "200.name": {
+      "source": "石龟守卫",
+      "target": "Thạch Quy Thủ Vệ"
+    },
+    "201.name": {
+      "source": "赤甲龙统领",
+      "target": "Xích Giáp Long Thống Lĩnh"
+    },
+    "202.name": {
+      "source": "精英石龟",
+      "target": "Tinh Anh Thạch Quy"
+    },
+    "203.name": {
+      "source": "赤翼",
+      "target": "Xích Dực"
+    },
+    "204.name": {
+      "source": "暗翼",
+      "target": "Ám Dực"
+    },
+    "205.name": {
+      "source": "赤翼队长",
+      "target": "Xích Dực Đội Trưởng"
+    },
+    "206.name": {
+      "source": "暗翼守卫",
+      "target": "Ám Dực Thủ Vệ"
+    },
+    "207.name": {
+      "source": "赤翼统领",
+      "target": "Xích Dực Thống Lĩnh"
+    },
+    "208.name": {
+      "source": "暗翼精英",
+      "target": "Ám Dực Tinh Anh"
+    },
+    "209.name": {
+      "source": "赤暴龙",
+      "target": "Xích Bạo Long"
+    },
+    "210.name": {
+      "source": "赤龙",
+      "target": "Xích Long"
+    },
+    "211.name": {
+      "source": "赤暴龙队长",
+      "target": "Xích Bạo Long Đội Trưởng"
+    },
+    "212.name": {
+      "source": "赤龙守卫",
+      "target": "Xích Long Thủ Vệ"
+    },
+    "213.name": {
+      "source": "赤暴龙统领",
+      "target": "Xích Bạo Long Thống Lĩnh"
+    },
+    "214.name": {
+      "source": "赤龙精英",
+      "target": "Xích Long Tinh Anh"
+    },
+    "215.name": {
+      "source": "炎之赤暴龙",
+      "target": "Viêm Chi Xích Bạo Long"
+    },
+    "216.name": {
+      "source": "暗之赤龙",
+      "target": "Ám Chi Xích Long"
+    },
+    "217.name": {
+      "source": "妖月恶魔",
+      "target": "Yêu Nguyệt Ác Ma"
+    },
+    "218.name": {
+      "source": "妖月蝙蝠",
+      "target": "Yêu Nguyệt Biên Bức"
+    },
+    "219.name": {
+      "source": "妖月血蝠",
+      "target": "Yêu Nguyệt Huyết Bức"
+    },
+    "220.name": {
+      "source": "妖月大鹰",
+      "target": "Yêu Nguyệt Đại Ưng"
+    },
+    "221.name": {
+      "source": "妖月食人蝠",
+      "target": "Yêu Nguyệt Thực Nhân Bức"
+    },
+    "222.name": {
+      "source": "古墓尸王",
+      "target": "Cổ Mộ Thi Vương"
+    },
+    "223.name": {
+      "source": "万年行尸",
+      "target": "Vạn Niên Hành Thi"
+    },
+    "224.name": {
+      "source": "独臂僵尸",
+      "target": "Độc Tý Cương Thi"
+    },
+    "225.name": {
+      "source": "大刀僵尸",
+      "target": "Đại Đao Cương Thi"
+    },
+    "226.name": {
+      "source": "大刀僵尸",
+      "target": "Đại Đao Cương Thi"
+    },
+    "227.name": {
+      "source": "僵尸守卫",
+      "target": "Cương Thi Thủ Vệ"
+    },
+    "228.name": {
+      "source": "普通50挖矿怪",
+      "target": "Quái Đào Khoáng Phổ Thông 50"
+    },
+    "229.name": {
+      "source": "银质挖矿怪",
+      "target": "Quái Đào Khoáng Bạc"
+    },
+    "230.name": {
+      "source": "金质挖矿怪",
+      "target": "Quái Đào Khoáng Vàng"
+    },
+    "231.name": {
+      "source": "兽人战士",
+      "target": "Thú Nhân Chiến Sĩ"
+    },
+    "232.name": {
+      "source": "兽人勇士",
+      "target": "Thú Nhân Dũng Sĩ"
+    },
+    "233.name": {
+      "source": "跳跃蜂",
+      "target": "Ong Nhảy"
+    },
+    "234.name": {
+      "source": "高山雪人1231",
+      "target": "Cao Sơn Tuyết Nhân 1231"
+    },
+    "235.name": {
+      "source": "高山雪人",
+      "target": "Cao Sơn Tuyết Nhân"
+    },
+    "236.name": {
+      "source": "罪恶僵尸",
+      "target": "Tội Ác Cương Thi"
+    },
+    "237.name": {
+      "source": "雷火狼人",
+      "target": "Lôi Hỏa Lang Nhân"
+    },
+    "238.name": {
+      "source": "野猪战士",
+      "target": "Dã Trư Chiến Sĩ"
+    },
+    "239.name": {
+      "source": "牛魔",
+      "target": "Ngưu Ma"
+    },
+    "240.name": {
+      "source": "暗黑卫士",
+      "target": "Ám Hắc Vệ Sĩ"
+    },
+    "241.name": {
+      "source": "死灵武士",
+      "target": "Tử Linh Vũ Sĩ"
+    },
+    "242.name": {
+      "source": "魔龙血宠1",
+      "target": "Ma Long Huyết Sủng 1"
+    },
+    "243.name": {
+      "source": "魔龙血宠2",
+      "target": "Ma Long Huyết Sủng 2"
+    },
+    "244.name": {
+      "source": "魔龙血宠3",
+      "target": "Ma Long Huyết Sủng 3"
+    },
+    "245.name": {
+      "source": "魔龙血宠4",
+      "target": "Ma Long Huyết Sủng 4"
+    },
+    "246.name": {
+      "source": "魔龙血宠5",
+      "target": "Ma Long Huyết Sủng 5"
+    },
+    "247.name": {
+      "source": "魔龙血宠6",
+      "target": "Ma Long Huyết Sủng 6"
+    },
+    "248.name": {
+      "source": "魔龙血宠7",
+      "target": "Ma Long Huyết Sủng 7"
+    },
+    "249.name": {
+      "source": "魔龙血宠8",
+      "target": "Ma Long Huyết Sủng 8"
+    },
+    "250.name": {
+      "source": "魔龙血宠9",
+      "target": "Ma Long Huyết Sủng 9"
+    },
+    "251.name": {
+      "source": "魔龙血鬼1",
+      "target": "Ma Long Huyết Quỷ 1"
+    },
+    "252.name": {
+      "source": "魔龙血鬼2",
+      "target": "Ma Long Huyết Quỷ 2"
+    },
+    "253.name": {
+      "source": "魔龙血鬼3",
+      "target": "Ma Long Huyết Quỷ 3"
+    },
+    "254.name": {
+      "source": "魔龙血鬼4",
+      "target": "Ma Long Huyết Quỷ 4"
+    },
+    "255.name": {
+      "source": "魔龙血鬼5",
+      "target": "Ma Long Huyết Quỷ 5"
+    },
+    "256.name": {
+      "source": "魔龙血鬼6",
+      "target": "Ma Long Huyết Quỷ 6"
+    },
+    "257.name": {
+      "source": "魔龙神",
+      "target": "Ma Long Thần"
+    },
+    "258.name": {
+      "source": "魔龙精英",
+      "target": "Ma Long Tinh Anh"
+    },
+    "259.name": {
+      "source": "魔龙守护神",
+      "target": "Ma Long Thủ Hộ Thần"
+    },
+    "260.name": {
+      "source": "魔龙神殿守卫",
+      "target": "Ma Long Thần Điện Thủ Vệ"
+    },
+    "261.name": {
+      "source": "右墙",
+      "target": "Tường Phải"
+    },
+    "262.name": {
+      "source": "矿洞墙壁(不可移动点)",
+      "target": "Tường Mỏ Khoáng(Điểm Không Thể Di Chuyển)"
+    },
+    "263.name": {
+      "source": "普通40挖矿怪",
+      "target": "Quái Đào Khoáng Phổ Thông 40"
+    },
+    "264.name": {
+      "source": "副本20挖矿",
+      "target": "Phó Bản 20 Đào Khoáng"
+    },
+    "265.name": {
+      "source": "副本40挖矿",
+      "target": "Phó Bản 40 Đào Khoáng"
+    },
+    "266.name": {
+      "source": "副本50挖矿",
+      "target": "Phó Bản 50 Đào Khoáng"
+    },
+    "267.name": {
+      "source": "副本白银挖矿",
+      "target": "Phó Bản Bạch Ngân Đào Khoáng"
+    },
+    "268.name": {
+      "source": "副本黄金挖矿",
+      "target": "Phó Bản Hoàng Kim Đào Khoáng"
+    },
+    "269.name": {
+      "source": "贪财鬼1",
+      "target": "Tham Tài Quỷ 1"
+    },
+    "270.name": {
+      "source": "贪财鬼2",
+      "target": "Tham Tài Quỷ 2"
+    },
+    "271.name": {
+      "source": "贪财鬼3",
+      "target": "Tham Tài Quỷ 3"
+    },
+    "272.name": {
+      "source": "贪财鬼4",
+      "target": "Tham Tài Quỷ 4"
+    },
+    "273.name": {
+      "source": "贪财鬼5",
+      "target": "Tham Tài Quỷ 5"
+    },
+    "274.name": {
+      "source": "贪财鬼6",
+      "target": "Tham Tài Quỷ 6"
+    },
+    "275.name": {
+      "source": "贪财鬼7",
+      "target": "Tham Tài Quỷ 7"
+    },
+    "276.name": {
+      "source": "贪财鬼8",
+      "target": "Tham Tài Quỷ 8"
+    },
+    "277.name": {
+      "source": "贪财鬼9",
+      "target": "Tham Tài Quỷ 9"
+    },
+    "278.name": {
+      "source": "贪财鬼10",
+      "target": "Tham Tài Quỷ 10"
+    },
+    "279.name": {
+      "source": "贪财鬼11",
+      "target": "Tham Tài Quỷ 11"
+    },
+    "280.name": {
+      "source": "贪财鬼12",
+      "target": "Tham Tài Quỷ 12"
+    },
+    "281.name": {
+      "source": "贪财鬼13",
+      "target": "Tham Tài Quỷ 13"
+    },
+    "282.name": {
+      "source": "贪财鬼14",
+      "target": "Tham Tài Quỷ 14"
+    },
+    "283.name": {
+      "source": "鬼财神1",
+      "target": "Quỷ Tài Thần 1"
+    },
+    "284.name": {
+      "source": "鬼财神2",
+      "target": "Quỷ Tài Thần 2"
+    },
+    "285.name": {
+      "source": "鬼财神3",
+      "target": "Quỷ Tài Thần 3"
+    },
+    "286.name": {
+      "source": "鬼财神4",
+      "target": "Quỷ Tài Thần 4"
+    },
+    "287.name": {
+      "source": "鬼财神5",
+      "target": "Quỷ Tài Thần 5"
+    },
+    "288.name": {
+      "source": "鬼财神6",
+      "target": "Quỷ Tài Thần 6"
+    },
+    "289.name": {
+      "source": "鬼财神7",
+      "target": "Quỷ Tài Thần 7"
+    },
+    "290.name": {
+      "source": "鬼财神8",
+      "target": "Quỷ Tài Thần 8"
+    },
+    "291.name": {
+      "source": "鬼财神9",
+      "target": "Quỷ Tài Thần 9"
+    },
+    "292.name": {
+      "source": "鬼财神10",
+      "target": "Quỷ Tài Thần 10"
+    },
+    "293.name": {
+      "source": "鬼财神11",
+      "target": "Quỷ Tài Thần 11"
+    },
+    "294.name": {
+      "source": "鬼财神12",
+      "target": "Quỷ Tài Thần 12"
+    },
+    "295.name": {
+      "source": "鬼财神13",
+      "target": "Quỷ Tài Thần 13"
+    },
+    "296.name": {
+      "source": "鬼财神14",
+      "target": "Quỷ Tài Thần 14"
+    },
+    "297.name": {
+      "source": "沃玛主教",
+      "target": "Tổ Mã Chủ Giáo"
+    },
+    "298.name": {
+      "source": "标靶怪物",
+      "target": "Quái Vật Bia Ngắm"
+    },
+    "299.name": {
+      "source": "剧毒紫斑蝎",
+      "target": "Kịch Độc Tử Ban Hạt"
+    },
+    "300.name": {
+      "source": "烈焰熔岩巨人",
+      "target": "Liệt Diễm Dung Nham Cự Nhân"
+    },
+    "301.name": {
+      "source": "黑脸小恶魔",
+      "target": "Hắc Kiểm Tiểu Ác Ma"
+    },
+    "302.name": {
+      "source": "斑斓赤炼蝎卫",
+      "target": "Ban Lạn Xích Luyện Hạt Vệ"
+    },
+    "303.name": {
+      "source": "愤怒蛮荒流放者",
+      "target": "Phẫn Nộ Man Hoang Lưu Phóng Giả"
+    },
+    "304.name": {
+      "source": "灵气仙魔猪",
+      "target": "Linh Khí Tiên Ma Trư"
+    },
+    "305.name": {
+      "source": "邪气招灵蚁",
+      "target": "Tà Khí Chiêu Linh Kiến"
+    },
+    "306.name": {
+      "source": "流氓野猪统领",
+      "target": "Lưu Manh Dã Trư Thống Lĩnh"
+    },
+    "307.name": {
+      "source": "狂暴野猪将军",
+      "target": "Cuồng Bạo Dã Trư Tướng Quân"
+    },
+    "308.name": {
+      "source": "行会美女",
+      "target": "Hành Hội Mỹ Nữ"
+    },
+    "309.name": {
+      "source": "被欺负的美女",
+      "target": "Mỹ Nữ Bị Bắt Nạt"
+    },
+    "310.name": {
+      "source": "皇后",
+      "target": "Hoàng Hậu"
+    },
+    "311.name": {
+      "source": "普通的红玫瑰",
+      "target": "Hoa Hồng Đỏ Phổ Thông"
+    },
+    "312.name": {
+      "source": "优良的红玫瑰",
+      "target": "Hoa Hồng Đỏ Ưu Lương"
+    },
+    "313.name": {
+      "source": "极品的红玫瑰",
+      "target": "Hoa Hồng Đỏ Cực Phẩm"
+    },
+    "314.name": {
+      "source": "普通的红玫瑰1",
+      "target": "Hoa Hồng Đỏ Phổ Thông 1"
+    },
+    "315.name": {
+      "source": "优良的红玫瑰2",
+      "target": "Hoa Hồng Đỏ Ưu Lương 2"
+    },
+    "316.name": {
+      "source": "极品的红玫瑰3",
+      "target": "Hoa Hồng Đỏ Cực Phẩm 3"
+    },
+    "317.name": {
+      "source": "红玫瑰",
+      "target": "Hoa Hồng Đỏ"
+    },
+    "318.name": {
+      "source": "凋零的红玫瑰(良)",
+      "target": "Hoa Hồng Đỏ Héo Úa (Lương)"
+    },
+    "319.name": {
+      "source": "玫瑰花种(优)",
+      "target": "Hạt Giống Hoa Hồng (Ưu)"
+    },
+    "320.name": {
+      "source": "玫瑰花苗(优)",
+      "target": "Mầm Hoa Hồng (Ưu)"
+    },
+    "321.name": {
+      "source": "成熟的红玫瑰(优)",
+      "target": "Hoa Hồng Đỏ Trưởng Thành (Ưu)"
+    },
+    "322.name": {
+      "source": "凋零的红玫瑰(优)",
+      "target": "Hoa Hồng Đỏ Héo Úa (Ưu)"
+    },
+    "323.name": {
+      "source": "玫瑰花种(普)1",
+      "target": "Hạt Giống Hoa Hồng (Phổ) 1"
+    },
+    "324.name": {
+      "source": "玫瑰花苗(普)1",
+      "target": "Mầm Hoa Hồng (Phổ) 1"
+    },
+    "325.name": {
+      "source": "成熟的红玫瑰(普)1",
+      "target": "Hoa Hồng Đỏ Trưởng Thành (Phổ) 1"
+    },
+    "326.name": {
+      "source": "玫瑰花种(良)1",
+      "target": "Hạt Giống Hoa Hồng (Lương) 1"
+    },
+    "327.name": {
+      "source": "玫瑰花苗(良)1",
+      "target": "Mầm Hoa Hồng (Lương) 1"
+    },
+    "328.name": {
+      "source": "成熟的红玫瑰(良)1",
+      "target": "Hoa Hồng Đỏ Trưởng Thành (Lương) 1"
+    },
+    "329.name": {
+      "source": "玫瑰花种(优)1",
+      "target": "Hạt Giống Hoa Hồng (Ưu) 1"
+    },
+    "330.name": {
+      "source": "玫瑰花苗(优)1",
+      "target": "Mầm Hoa Hồng (Ưu) 1"
+    },
+    "331.name": {
+      "source": "成熟的红玫瑰(优)1",
+      "target": "Hoa Hồng Đỏ Trưởng Thành (Ưu) 1"
+    },
+    "332.name": {
+      "source": "南方封印魔魂",
+      "target": "Nam Phương Phong Ấn Ma Hồn"
+    },
+    "333.name": {
+      "source": "东方封印魔魂",
+      "target": "Đông Phương Phong Ấn Ma Hồn"
+    },
+    "334.name": {
+      "source": "北方封印魔魂",
+      "target": "Bắc Phương Phong Ấn Ma Hồn"
+    },
+    "335.name": {
+      "source": "西方封印魔魂",
+      "target": "Tây Phương Phong Ấn Ma Hồn"
+    },
+    "336.name": {
+      "source": "封印守护",
+      "target": "Phong Ấn Thủ Hộ"
+    },
+    "337.name": {
+      "source": "朽心怪",
+      "target": "Hủ Tâm Quái"
+    },
+    "338.name": {
+      "source": "恶念",
+      "target": "Ác Niệm"
+    },
+    "339.name": {
+      "source": "邪念",
+      "target": "Tà Niệm"
+    },
+    "340.name": {
+      "source": "魔念",
+      "target": "Ma Niệm"
+    },
+    "341.name": {
+      "source": "炼狱暴君",
+      "target": "Luyện Ngục Bạo Quân"
+    },
+    "342.name": {
+      "source": "水琉璃",
+      "target": "Thủy Lưu Ly"
+    },
+    "343.name": {
+      "source": "清雅妃",
+      "target": "Thanh Nhã Phi"
+    },
+    "344.name": {
+      "source": "梦瑶姬",
+      "target": "Mộng Dao Cơ"
+    },
+    "345.name": {
+      "source": "霓裳公主",
+      "target": "Nghê Thường Công Chúa"
+    },
+    "346.name": {
+      "source": "金翼艳后",
+      "target": "Kim Dực Diễm Hậu"
+    },
+    "347.name": {
+      "source": "天狼蜘蛛",
+      "target": "Thiên Lang Nhện"
+    },
+    "348.name": {
+      "source": "魔狼蜘蛛 ",
+      "target": "Ma Lang Nhện"
+    },
+    "349.name": {
+      "source": "赤月天魔",
+      "target": "Xích Nguyệt Thiên Ma"
+    },
+    "350.name": {
+      "source": "神灯神魔",
+      "target": "Thần Đăng Thần Ma"
+    },
+    "351.name": {
+      "source": "绝望沙漠蝎王",
+      "target": "Tuyệt Vọng Sa Mạc Hạt Vương"
+    },
+    "352.name": {
+      "source": "绝望沙漠蝎将",
+      "target": "Tuyệt Vọng Sa Mạc Hạt Tướng"
+    },
+    "353.name": {
+      "source": "绝望沙漠蝎子",
+      "target": "Tuyệt Vọng Sa Mạc Hạt Tử"
+    },
+    "354.name": {
+      "source": "绝望沙漠劫匪",
+      "target": "Tuyệt Vọng Sa Mạc Kiếp Phỉ"
+    },
+    "355.name": {
+      "source": "沙漠蜥蜴",
+      "target": "Sa Mạc Tích Dịch"
+    },
+    "356.name": {
+      "source": "沙漠食人草",
+      "target": "Sa Mạc Thực Nhân Thảo"
+    },
+    "357.name": {
+      "source": "沙漠金甲虫",
+      "target": "Sa Mạc Kim Giáp Trùng"
+    },
+    "358.name": {
+      "source": "沙漠门神 ",
+      "target": "Sa Mạc Môn Thần"
+    },
+    "359.name": {
+      "source": "水域青蟹将军",
+      "target": "Thủy Vực Thanh Giải Tướng Quân"
+    },
+    "360.name": {
+      "source": "水域紫杉龙女",
+      "target": "Thủy Vực Tử Sam Long Nữ"
+    },
+    "361.name": {
+      "source": "水域魔鱼将军",
+      "target": "Thủy Vực Ma Ngư Tướng Quân"
+    },
+    "362.name": {
+      "source": "水域玄龟将军",
+      "target": "Thủy Vực Huyền Quy Tướng Quân"
+    },
+    "363.name": {
+      "source": "水域镇关将军",
+      "target": "Thủy Vực Trấn Quan Tướng Quân"
+    },
+    "364.name": {
+      "source": "水域龙王魂魄",
+      "target": "Thủy Vực Long Vương Hồn Phách"
+    },
+    "365.name": {
+      "source": "水域龙王",
+      "target": "Thủy Vực Long Vương"
+    },
+    "366.name": {
+      "source": "水域恶鱼",
+      "target": "Thủy Vực Ác Ngư"
+    },
+    "367.name": {
+      "source": "金刚伏魔圣战",
+      "target": "Kim Cương Phục Ma Thánh Chiến"
+    },
+    "368.name": {
+      "source": "金刚伏魔法神",
+      "target": "Kim Cương Phục Ma Pháp Thần"
+    },
+    "369.name": {
+      "source": "金刚伏魔天尊",
+      "target": "Kim Cương Phục Ma Thiên Tôn"
+    },
+    "370.name": {
+      "source": "赤血魔尊",
+      "target": "Xích Huyết Ma Tôn"
+    },
+    "371.name": {
+      "source": "地狱冥王",
+      "target": "Địa Ngục Minh Vương"
+    },
+    "372.name": {
+      "source": "地狱青衫冤魂",
+      "target": "Địa Ngục Thanh Sam Oan Hồn"
+    },
+    "373.name": {
+      "source": "地狱红衫冤魂",
+      "target": "Địa Ngục Hồng Sam Oan Hồn"
+    },
+    "374.name": {
+      "source": "地狱绿毒鬼使",
+      "target": "Địa Ngục Lục Độc Quỷ Sử"
+    },
+    "375.name": {
+      "source": "地狱绿毒护法",
+      "target": "Địa Ngục Lục Độc Hộ Pháp"
+    },
+    "376.name": {
+      "source": "地狱红毒鬼使",
+      "target": "Địa Ngục Hồng Độc Quỷ Sử"
+    },
+    "377.name": {
+      "source": "地狱红毒护法",
+      "target": "Địa Ngục Hồng Độc Hộ Pháp"
+    },
+    "378.name": {
+      "source": "地狱牛头护法",
+      "target": "Địa Ngục Ngưu Đầu Hộ Pháp"
+    },
+    "379.name": {
+      "source": "地狱镇鬼石",
+      "target": "Địa Ngục Trấn Quỷ Thạch"
+    },
+    "380.name": {
+      "source": "马场图腾1",
+      "target": "Mã Trường Đồ Đằng 1"
+    },
+    "381.name": {
+      "source": "马场图腾2",
+      "target": "Mã Trường Đồ Đằng 2"
+    },
+    "382.name": {
+      "source": "马场图腾3",
+      "target": "Mã Trường Đồ Đằng 3"
+    },
+    "383.name": {
+      "source": "加速图腾1",
+      "target": "Gia Tốc Đồ Đằng 1"
+    },
+    "384.name": {
+      "source": "加速图腾2",
+      "target": "Gia Tốc Đồ Đằng 2"
+    },
+    "385.name": {
+      "source": "加速图腾3",
+      "target": "Gia Tốc Đồ Đằng 3"
+    },
+    "386.name": {
+      "source": "马场火蚁",
+      "target": "Mã Trường Hỏa Kiến"
+    },
+    "387.name": {
+      "source": "金刚石",
+      "target": "Kim Cương Thạch"
+    },
+    "388.name": {
+      "source": "赤血石",
+      "target": "Xích Huyết Thạch"
+    },
+    "389.name": {
+      "source": "栅栏",
+      "target": "Hàng Rào"
+    },
+    "390.name": {
+      "source": "紫晶狂人1",
+      "target": "Tử Tinh Cuồng Nhân 1"
+    },
+    "391.name": {
+      "source": "炽焰魔王1",
+      "target": "Xí Diễm Ma Vương 1"
+    },
+    "392.name": {
+      "source": "妖月幽灵1",
+      "target": "Yêu Nguyệt U Linh 1"
+    },
+    "393.name": {
+      "source": "祖玛阴鬼1",
+      "target": "Tổ Mã Âm Quỷ 1"
+    },
+    "394.name": {
+      "source": "暗影魔虫1",
+      "target": "Ám Ảnh Ma Trùng 1"
+    },
+    "395.name": {
+      "source": "链锤战神1",
+      "target": "Liễn Chùy Chiến Thần 1"
+    },
+    "396.name": {
+      "source": "阴戾幻兽1",
+      "target": "Âm Lệ Ảo Thú 1"
+    },
+    "397.name": {
+      "source": "骷髅法王1",
+      "target": "Khô Lâu Pháp Vương 1"
+    },
+    "398.name": {
+      "source": "新月鱼妖1",
+      "target": "Tân Nguyệt Ngư Yêu 1"
+    },
+    "399.name": {
+      "source": "熔岩魔龙1",
+      "target": "Dung Nham Ma Long 1"
+    },
+    "400.name": {
+      "source": "天山老妖1",
+      "target": "Thiên Sơn Lão Yêu 1"
+    },
+    "401.name": {
+      "source": "妖影顽主1",
+      "target": "Yêu Ảnh Ngoan Chủ 1"
+    },
+    "402.name": {
+      "source": "火翼蝠王1",
+      "target": "Hỏa Dực Bức Vương 1"
+    },
+    "403.name": {
+      "source": "神庙护法1",
+      "target": "Thần Miếu Hộ Pháp 1"
+    },
+    "404.name": {
+      "source": "幽灵鬼影1",
+      "target": "U Linh Quỷ Ảnh 1"
+    },
+    "405.name": {
+      "source": "蛮荒虎妖1",
+      "target": "Man Hoang Hổ Yêu 1"
+    },
+    "406.name": {
+      "source": "烛龙魔王1",
+      "target": "Chúc Long Ma Vương 1"
+    },
+    "407.name": {
+      "source": "擂台战神1",
+      "target": "Lôi Đài Chiến Thần 1"
+    },
+    "408.name": {
+      "source": "紫晶狂人2",
+      "target": "Tử Tinh Cuồng Nhân 2"
+    },
+    "409.name": {
+      "source": "炽焰魔王2",
+      "target": "Xí Diễm Ma Vương 2"
+    },
+    "410.name": {
+      "source": "妖月幽灵2",
+      "target": "Yêu Nguyệt U Linh 2"
+    },
+    "411.name": {
+      "source": "祖玛阴鬼2",
+      "target": "Tổ Mã Âm Quỷ 2"
+    },
+    "412.name": {
+      "source": "暗影魔虫2",
+      "target": "Ám Ảnh Ma Trùng 2"
+    },
+    "413.name": {
+      "source": "链锤战神2",
+      "target": "Liễn Chùy Chiến Thần 2"
+    },
+    "414.name": {
+      "source": "阴戾幻兽2",
+      "target": "Âm Lệ Ảo Thú 2"
+    },
+    "415.name": {
+      "source": "骷髅法王2",
+      "target": "Khô Lâu Pháp Vương 2"
+    },
+    "416.name": {
+      "source": "新月鱼妖2",
+      "target": "Tân Nguyệt Ngư Yêu 2"
+    },
+    "417.name": {
+      "source": "熔岩魔龙2",
+      "target": "Dung Nham Ma Long 2"
+    },
+    "418.name": {
+      "source": "天山老妖2",
+      "target": "Thiên Sơn Lão Yêu 2"
+    },
+    "419.name": {
+      "source": "妖影顽主2",
+      "target": "Yêu Ảnh Ngoan Chủ 2"
+    },
+    "420.name": {
+      "source": "火翼蝠王2",
+      "target": "Hỏa Dực Bức Vương 2"
+    },
+    "421.name": {
+      "source": "神庙护法2",
+      "target": "Thần Miếu Hộ Pháp 2"
+    },
+    "422.name": {
+      "source": "幽灵鬼影2",
+      "target": "U Linh Quỷ Ảnh 2"
+    },
+    "423.name": {
+      "source": "蛮荒虎妖2",
+      "target": "Man Hoang Hổ Yêu 2"
+    },
+    "424.name": {
+      "source": "烛龙魔王2",
+      "target": "Chúc Long Ma Vương 2"
+    },
+    "425.name": {
+      "source": "擂台战神2",
+      "target": "Lôi Đài Chiến Thần 2"
+    },
+    "426.name": {
+      "source": "紫晶狂人3",
+      "target": "Tử Tinh Cuồng Nhân 3"
+    },
+    "427.name": {
+      "source": "炽焰魔王3",
+      "target": "Xí Diễm Ma Vương 3"
+    },
+    "428.name": {
+      "source": "妖月幽灵3",
+      "target": "Yêu Nguyệt U Linh 3"
+    },
+    "429.name": {
+      "source": "祖玛阴鬼3",
+      "target": "Tổ Mã Âm Quỷ 3"
+    },
+    "430.name": {
+      "source": "暗影魔虫3",
+      "target": "Ám Ảnh Ma Trùng 3"
+    },
+    "431.name": {
+      "source": "链锤战神3",
+      "target": "Liễn Chùy Chiến Thần 3"
+    },
+    "432.name": {
+      "source": "阴戾幻兽3",
+      "target": "Âm Lệ Ảo Thú 3"
+    },
+    "433.name": {
+      "source": "骷髅法王3",
+      "target": "Khô Lâu Pháp Vương 3"
+    },
+    "434.name": {
+      "source": "新月鱼妖3",
+      "target": "Tân Nguyệt Ngư Yêu 3"
+    },
+    "435.name": {
+      "source": "熔岩魔龙3",
+      "target": "Dung Nham Ma Long 3"
+    },
+    "436.name": {
+      "source": "天山老妖3",
+      "target": "Thiên Sơn Lão Yêu 3"
+    },
+    "437.name": {
+      "source": "妖影顽主3",
+      "target": "Yêu Ảnh Ngoan Chủ 3"
+    },
+    "438.name": {
+      "source": "火翼蝠王3",
+      "target": "Hỏa Dực Bức Vương 3"
+    },
+    "439.name": {
+      "source": "神庙护法3",
+      "target": "Thần Miếu Hộ Pháp 3"
+    },
+    "440.name": {
+      "source": "幽灵鬼影3",
+      "target": "U Linh Quỷ Ảnh 3"
+    },
+    "441.name": {
+      "source": "蛮荒虎妖3",
+      "target": "Man Hoang Hổ Yêu 3"
+    },
+    "442.name": {
+      "source": "烛龙魔王3",
+      "target": "Chúc Long Ma Vương 3"
+    },
+    "443.name": {
+      "source": "擂台战神3",
+      "target": "Lôi Đài Chiến Thần 3"
+    },
+    "444.name": {
+      "source": "雪域魔蝎",
+      "target": "Tuyết Vực Ma Hạt"
+    },
+    "445.name": {
+      "source": "炽焰钳虫",
+      "target": "Xí Diễm Kiềm Trùng"
+    },
+    "446.name": {
+      "source": "幻月小鬼",
+      "target": "Ảo Nguyệt Tiểu Quỷ"
+    },
+    "447.name": {
+      "source": "祖玛妖蜂",
+      "target": "Tổ Mã Yêu Phong"
+    },
+    "448.name": {
+      "source": "暗影恶狼",
+      "target": "Ám Ảnh Ác Lang"
+    },
+    "449.name": {
+      "source": "擂台悍将",
+      "target": "Lôi Đài Hãn Tướng"
+    },
+    "450.name": {
+      "source": "秘室毒蜂",
+      "target": "Bí Thất Độc Phong"
+    },
+    "451.name": {
+      "source": "骷髅妖尸",
+      "target": "Khô Lâu Yêu Thi"
+    },
+    "452.name": {
+      "source": "新月狐蛇",
+      "target": "Tân Nguyệt Hồ Xà"
+    },
+    "453.name": {
+      "source": "熔岩虎蝎",
+      "target": "Dung Nham Hổ Hạt"
+    },
+    "454.name": {
+      "source": "天山蝠妖",
+      "target": "Thiên Sơn Bức Yêu"
+    },
+    "455.name": {
+      "source": "千手影鬼",
+      "target": "Thiên Thủ Ảnh Quỷ"
+    },
+    "456.name": {
+      "source": "火龙魔虫",
+      "target": "Hỏa Long Ma Trùng"
+    },
+    "457.name": {
+      "source": "神庙护法",
+      "target": "Thần Miếu Hộ Pháp"
+    },
+    "458.name": {
+      "source": "幽灵小鬼",
+      "target": "U Linh Tiểu Quỷ"
+    },
+    "459.name": {
+      "source": "蛮荒魔",
+      "target": "Man Hoang Ma"
+    },
+    "460.name": {
+      "source": "烛龙小妖",
+      "target": "Chúc Long Tiểu Yêu"
+    },
+    "461.name": {
+      "source": "擂台刀手",
+      "target": "Lôi Đài Đao Thủ"
+    },
+    "462.name": {
+      "source": "珍珠蚌",
+      "target": "Trân Châu Bạng"
+    },
+    "463.name": {
+      "source": "地狱冥后",
+      "target": "Địa Ngục Minh Hậu"
+    },
+    "464.name": {
+      "source": "幸运宝箱",
+      "target": "Bảo Rương May Mắn"
+    },
+    "465.name": {
+      "source": "龙女",
+      "target": "Long Nữ"
+    },
+    "466.name": {
+      "source": "花篮",
+      "target": "Lẵng Hoa"
+    },
+    "467.name": {
+      "source": "行会花篮",
+      "target": "Lẵng Hoa Hành Hội"
+    },
+    "468.name": {
+      "source": "屠龙魔王",
+      "target": "Đồ Long Ma Vương"
+    },
+    "469.name": {
+      "source": "魔王护卫",
+      "target": "Ma Vương Hộ Vệ"
+    },
+    "470.name": {
+      "source": "减速图腾",
+      "target": "Giảm Tốc Đồ Đằng"
+    },
+    "471.name": {
+      "source": "映月之光",
+      "target": "Ánh Sáng Ánh Nguyệt"
+    },
+    "472.name": {
+      "source": "映日之光",
+      "target": "Ánh Sáng Ánh Nhật"
+    },
+    "473.name": {
+      "source": "映星之光",
+      "target": "Ánh Sáng Ánh Tinh"
+    },
+    "474.name": {
+      "source": "试炼神官",
+      "target": "Thí Luyện Thần Quan"
+    },
+    "475.name": {
+      "source": "神奇小偷",
+      "target": "Thần Kỳ Tiểu Thấu"
+    },
+    "476.name": {
+      "source": "仙女侍从",
+      "target": "Tiên Nữ Thị Tùng"
+    },
+    "477.name": {
+      "source": "烈火斗士",
+      "target": "Liệt Hỏa Đấu Sĩ"
+    },
+    "478.name": {
+      "source": "四神女",
+      "target": "Tứ Thần Nữ"
+    },
+    "479.name": {
+      "source": "财神",
+      "target": "Tài Thần"
+    },
+    "480.name": {
+      "source": "福神",
+      "target": "Phúc Thần"
+    },
+    "481.name": {
+      "source": "穷神",
+      "target": "Cùng Thần"
+    },
+    "482.name": {
+      "source": "衰神",
+      "target": "Suy Thần"
+    },
+    "483.name": {
+      "source": "球1",
+      "target": "Cầu 1"
+    },
+    "484.name": {
+      "source": "球2",
+      "target": "Cầu 2"
+    },
+    "485.name": {
+      "source": "弓箭手",
+      "target": "Cung Tiễn Thủ"
+    },
+    "486.name": {
+      "source": "高级弓箭手",
+      "target": "Cao Cấp Cung Tiễn Thủ"
+    },
+    "487.name": {
+      "source": "布拉格の逆天",
+      "target": "Prague Nghịch Thiên"
+    },
+    "488.name": {
+      "source": "傲天隻手遮天",
+      "target": "Ngạo Thiên Chích Thủ Già Thiên"
+    },
+    "489.name": {
+      "source": "霸气╉无双",
+      "target": "Bá Khí╉Vô Song"
+    },
+    "490.name": {
+      "source": "亂世メ风纪",
+      "target": "Loạn ThếメPhong Kỷ"
+    },
+    "491.name": {
+      "source": "极速の武神",
+      "target": "Cực Tốc Võ Thần"
+    },
+    "492.name": {
+      "source": "狼族メ叼人",
+      "target": "Lang TộcメĐiêu Nhân"
+    },
+    "493.name": {
+      "source": "沙老大",
+      "target": "Sa Lão Đại"
+    },
+    "494.name": {
+      "source": "布拉格の玺儿",
+      "target": "Prague Tỉ Nhi"
+    },
+    "495.name": {
+      "source": "龍族╃圣君",
+      "target": "Long Tộc╃Thánh Quân"
+    },
+    "496.name": {
+      "source": "傲天ぜ乱战",
+      "target": "Ngạo ThiênぜLoạn Chiến"
+    },
+    "497.name": {
+      "source": "圣裁ヤ黑帮",
+      "target": "Thánh TàiヤHắc Bang"
+    },
+    "498.name": {
+      "source": "圣裁ヤ妹子",
+      "target": "Thánh TàiヤMuội Tử"
+    },
+    "499.name": {
+      "source": "矿山大王",
+      "target": "Khoáng Sơn Đại Vương"
+    },
+    "500.name": {
+      "source": "抢矿大盗",
+      "target": "Đoạt Khoáng Đại Đạo"
+    },
+    "501.name": {
+      "source": "兽人统领（精英）",
+      "target": "Thú Nhân Thống Lĩnh (Tinh Anh)"
+    },
+    "502.name": {
+      "source": "森林雪人（精英）",
+      "target": "Sâm Lâm Tuyết Nhân (Tinh Anh)"
+    },
+    "503.name": {
+      "source": "小血僵尸（精英）",
+      "target": "Tiểu Huyết Cương Thi (Tinh Anh)"
+    },
+    "504.name": {
+      "source": "铜甲尸（精英）",
+      "target": "Đồng Giáp Thi (Tinh Anh)"
+    },
+    "505.name": {
+      "source": "紫僵尸（精英）",
+      "target": "Tử Cương Thi (Tinh Anh)"
+    },
+    "506.name": {
+      "source": "罗刹僵尸（精英）",
+      "target": "La Sát Cương Thi (Tinh Anh)"
+    },
+    "507.name": {
+      "source": "黑蜂王（精英）",
+      "target": "Hắc Phong Vương (Tinh Anh)"
+    },
+    "508.name": {
+      "source": "恶蛆王（精英）",
+      "target": "Ác Thư Vương (Tinh Anh)"
+    },
+    "509.name": {
+      "source": "毒尾蝎（精英）",
+      "target": "Độc Vĩ Hạt (Tinh Anh)"
+    },
+    "510.name": {
+      "source": "火蜈蚣（精英）",
+      "target": "Hỏa Ngô Công (Tinh Anh)"
+    },
+    "511.name": {
+      "source": "野猪头目（精英）",
+      "target": "Dã Trư Đầu Mục (Tinh Anh)"
+    },
+    "512.name": {
+      "source": "强化兽人（精英）",
+      "target": "Cường Hóa Thú Nhân (Tinh Anh)"
+    },
+    "513.name": {
+      "source": "暗夜蝎蛇怪（精英）",
+      "target": "Ám Dạ Hạt Xà Quái (Tinh Anh)"
+    },
+    "514.name": {
+      "source": "野猪亲卫（精英）",
+      "target": "Dã Trư Thân Vệ (Tinh Anh)"
+    },
+    "515.name": {
+      "source": "亡灵刀魔（精英）",
+      "target": "Vong Linh Đao Ma (Tinh Anh)"
+    },
+    "516.name": {
+      "source": "石像魔主（精英）",
+      "target": "Thạch Tượng Ma Chủ (Tinh Anh)"
+    },
+    "517.name": {
+      "source": "死士将军（精英）",
+      "target": "Tử Sĩ Tướng Quân (Tinh Anh)"
+    },
+    "518.name": {
+      "source": "死灵魔主（精英）",
+      "target": "Tử Linh Ma Chủ (Tinh Anh)"
+    },
+    "519.name": {
+      "source": "烈火炎魔（精英）",
+      "target": "Liệt Hỏa Viêm Ma (Tinh Anh)"
+    },
+    "520.name": {
+      "source": "石巨人王（精英）",
+      "target": "Thạch Cự Nhân Vương (Tinh Anh)"
+    },
+    "521.name": {
+      "source": "咆哮小鬼（精英）",
+      "target": "Bào Hao Tiểu Quỷ (Tinh Anh)"
+    },
+    "522.name": {
+      "source": "兵蚁战将（精英）",
+      "target": "Binh Kiến Chiến Tướng (Tinh Anh)"
+    },
+    "523.name": {
+      "source": "白煞猪卫（精英）",
+      "target": "Bạch Sát Trư Vệ (Tinh Anh)"
+    },
+    "524.name": {
+      "source": "野蛮大将军（精英）",
+      "target": "Dã Man Đại Tướng Quân (Tinh Anh)"
+    },
+    "525.name": {
+      "source": "牛魔侍卫长（精英）",
+      "target": "Ngưu Ma Thị Vệ Trưởng (Tinh Anh)"
+    },
+    "526.name": {
+      "source": "变异蜘蛛王（精英）",
+      "target": "Biến Dị Nhện Vương (Tinh Anh)"
+    },
+    "527.name": {
+      "source": "毁灭巨灵将（精英）",
+      "target": "Hủy Diệt Cự Linh Tướng (Tinh Anh)"
+    },
+    "528.name": {
+      "source": "狂刀金刚（精英）",
+      "target": "Cuồng Đao Kim Cương (Tinh Anh)"
+    },
+    "529.name": {
+      "source": "混世魔皇（精英）",
+      "target": "Hỗn Thế Ma Hoàng (Tinh Anh)"
+    },
+    "530.name": {
+      "source": "牛魔（精英）",
+      "target": "Ngưu Ma (Tinh Anh)"
+    },
+    "531.name": {
+      "source": "雷龙兽（精英）",
+      "target": "Lôi Long Thú (Tinh Anh)"
+    },
+    "532.name": {
+      "source": "变异骷髅",
+      "target": "Biến Dị Khô Lâu"
+    },
+    "533.name": {
+      "source": "魔使",
+      "target": "Ma Sử"
+    },
+    "534.name": {
+      "source": "变异大骷髅",
+      "target": "Biến Dị Đại Khô Lâu"
+    },
+    "535.name": {
+      "source": "变异魔使",
+      "target": "Biến Dị Ma Sử"
+    },
+    "536.name": {
+      "source": "42级副本挖矿怪",
+      "target": "Quái Đào Khoáng Phó Bản Cấp 42"
+    },
+    "537.name": {
+      "source": "跟从的仙女侍从",
+      "target": "Tiên Nữ Thị Tùng Đi Theo"
+    },
+    "538.name": {
+      "source": "跟从的烈火斗士",
+      "target": "Liệt Hỏa Đấu Sĩ Đi Theo"
+    },
+    "539.name": {
+      "source": "财神掉落用怪",
+      "target": "Quái rớt đồ Thần Tài"
+    },
+    "540.name": {
+      "source": "福神掉落用怪",
+      "target": "Quái rớt đồ Phúc Thần"
+    },
+    "541.name": {
+      "source": "试炼魔官",
+      "target": "Ma Quan Thí Luyện"
+    },
+    "542.name": {
+      "source": "小偷掉落用怪",
+      "target": "Quái rớt đồ Tiểu Thâu"
+    },
+    "543.name": {
+      "source": "侏儒草",
+      "target": "Cỏ Chu Nho"
+    },
+    "544.name": {
+      "source": "虫魔图腾",
+      "target": "Đồ Đằng Trùng Ma"
+    },
+    "545.name": {
+      "source": "鬼脸花",
+      "target": "Hoa Quỷ Kiểm"
+    },
+    "546.name": {
+      "source": "封印石",
+      "target": "Đá Phong Ấn"
+    },
+    "547.name": {
+      "source": "血灵芝",
+      "target": "Huyết Linh Chi"
+    },
+    "548.name": {
+      "source": "赤月魔光",
+      "target": "Xích Nguyệt Ma Quang"
+    },
+    "549.name": {
+      "source": "神灯青铜宝箱",
+      "target": "Rương Đồng Thần Đăng"
+    },
+    "550.name": {
+      "source": "神灯黄金宝箱",
+      "target": "Rương Vàng Thần Đăng"
+    },
+    "551.name": {
+      "source": "神灯紫金宝箱",
+      "target": "Rương Tử Kim Thần Đăng"
+    },
+    "552.name": {
+      "source": "玫瑰小妖",
+      "target": "Tiểu Yêu Hoa Hồng"
+    },
+    "553.name": {
+      "source": "神",
+      "target": "Thần"
+    },
+    "554.name": {
+      "source": "偷渡的小偷",
+      "target": "Tên Trộm Vượt Biên"
+    },
+    "555.name": {
+      "source": "水域龙王真身",
+      "target": "Thủy Vực Long Vương Chân Thân"
+    },
+    "556.name": {
+      "source": "深海冤魂",
+      "target": "Oan Hồn Thâm Hải"
+    },
+    "557.name": {
+      "source": "深海怨灵",
+      "target": "Oán Linh Thâm Hải"
+    },
+    "558.name": {
+      "source": "深海龙鳄",
+      "target": "Long Ngạc Thâm Hải"
+    },
+    "559.name": {
+      "source": "深海夜叉",
+      "target": "Dạ Xoa Thâm Hải"
+    },
+    "560.name": {
+      "source": "深海蝎子",
+      "target": "Bọ Cạp Thâm Hải"
+    },
+    "561.name": {
+      "source": "海贝龟",
+      "target": "Rùa Hải Bối"
+    },
+    "562.name": {
+      "source": "黑水龟",
+      "target": "Rùa Hắc Thủy"
+    },
+    "563.name": {
+      "source": "玄武龙龟",
+      "target": "Huyền Vũ Long Quy"
+    },
+    "564.name": {
+      "source": "勾魂水鬼",
+      "target": "Thủy Quỷ Câu Hồn"
+    },
+    "565.name": {
+      "source": "脊背龙兽",
+      "target": "Tích Bối Long Thú"
+    },
+    "566.name": {
+      "source": "龙鳄守卫",
+      "target": "Thủ Vệ Long Ngạc"
+    },
+    "567.name": {
+      "source": "腐尸龙",
+      "target": "Hủ Thi Long"
+    },
+    "568.name": {
+      "source": "腐尸暴龙",
+      "target": "Hủ Thi Bạo Long"
+    },
+    "569.name": {
+      "source": "黑水电鳗",
+      "target": "Lươn Điện Hắc Thủy"
+    },
+    "570.name": {
+      "source": "黑水穷奇",
+      "target": "Cùng Kỳ Hắc Thủy"
+    },
+    "571.name": {
+      "source": "大蟹将",
+      "target": "Đại Giải Tướng"
+    },
+    "572.name": {
+      "source": "黑水鱼怪",
+      "target": "Ngư Quái Hắc Thủy"
+    },
+    "573.name": {
+      "source": "珊瑚兽",
+      "target": "San Hô Thú"
+    },
+    "574.name": {
+      "source": "邪恶蜥龙",
+      "target": "Tà Ác Tích Long"
+    },
+    "575.name": {
+      "source": "魔尊傀儡",
+      "target": "Ma Tôn Khôi Lỗi"
+    },
+    "576.name": {
+      "source": "珊瑚兽王(精英)",
+      "target": "San Hô Thú Vương (Tinh Anh)"
+    },
+    "577.name": {
+      "source": "巨蟹将(精英)",
+      "target": "Cự Giải Tướng (Tinh Anh)"
+    },
+    "578.name": {
+      "source": "龟蛇将(精英)",
+      "target": "Quy Xà Tướng (Tinh Anh)"
+    },
+    "579.name": {
+      "source": "鬼夜叉(精英)",
+      "target": "Quỷ Dạ Xoa (Tinh Anh)"
+    },
+    "580.name": {
+      "source": "逆龙皇(精英)",
+      "target": "Nghịch Long Hoàng (Tinh Anh)"
+    },
+    "581.name": {
+      "source": "水母魂兽(精英)",
+      "target": "Thủy Mẫu Hồn Thú (Tinh Anh)"
+    },
+    "582.name": {
+      "source": "霸王蚌",
+      "target": "Bá Vương Bạng"
+    },
+    "583.name": {
+      "source": "冰骨魔龙",
+      "target": "Băng Cốt Ma Long"
+    },
+    "584.name": {
+      "source": "虬龙兽",
+      "target": "Cù Long Thú"
+    },
+    "585.name": {
+      "source": "黑水鱼精(精英)",
+      "target": "Hắc Thủy Ngư Tinh (Tinh Anh)"
+    },
+    "586.name": {
+      "source": "死灵渊(精英)",
+      "target": "Tử Linh Uyên (Tinh Anh)"
+    },
+    "587.name": {
+      "source": "攻城力魔",
+      "target": "Lực Ma Công Thành"
+    },
+    "588.name": {
+      "source": "沙城神兽",
+      "target": "Sa Thành Thần Thú"
+    },
+    "589.name": {
+      "source": "荣誉将军",
+      "target": "Vinh Dự Tướng Quân"
+    },
+    "590.name": {
+      "source": "冰麒麟",
+      "target": "Băng Kỳ Lân"
+    },
+    "591.name": {
+      "source": "假面屠夫",
+      "target": "Đồ Tể Giả Diện"
+    },
+    "592.name": {
+      "source": "死亡守卫",
+      "target": "Thủ Vệ Tử Vong"
+    },
+    "593.name": {
+      "source": "蛮牛怪",
+      "target": "Man Ngưu Quái"
+    },
+    "594.name": {
+      "source": "烂死骑",
+      "target": "Lạn Tử Kỵ"
+    },
+    "595.name": {
+      "source": "冥王",
+      "target": "Minh Vương"
+    },
+    "596.name": {
+      "source": "沙城宝箱",
+      "target": "Rương Sa Thành"
+    },
+    "597.name": {
+      "source": "自爆蜘蛛",
+      "target": "Nhện Tự Sát"
+    },
+    "598.name": {
+      "source": "冰麒麟的冰分身",
+      "target": "Băng Phân Thân Của Băng Kỳ Lân"
+    },
+    "599.name": {
+      "source": "冰麒麟的火分身",
+      "target": "Hỏa Phân Thân Của Băng Kỳ Lân"
+    },
+    "600.name": {
+      "source": "魔龙血宠16",
+      "target": "Ma Long Huyết Sủng 16"
+    },
+    "601.name": {
+      "source": "天枢天神",
+      "target": "Thiên Xu Thiên Thần"
+    },
+    "602.name": {
+      "source": "天璇天神",
+      "target": "Thiên Toàn Thiên Thần"
+    },
+    "603.name": {
+      "source": "天玑天神",
+      "target": "Thiên Cơ Thiên Thần"
+    },
+    "604.name": {
+      "source": "天权天神",
+      "target": "Thiên Quyền Thiên Thần"
+    },
+    "605.name": {
+      "source": "玉衡天神",
+      "target": "Ngọc Hành Thiên Thần"
+    },
+    "606.name": {
+      "source": "开阳天神",
+      "target": "Khai Dương Thiên Thần"
+    },
+    "607.name": {
+      "source": "摇光天神",
+      "target": "Diêu Quang Thiên Thần"
+    },
+    "608.name": {
+      "source": "闪灵",
+      "target": "Thiểm Linh"
+    },
+    "609.name": {
+      "source": "血灵",
+      "target": "Huyết Linh"
+    },
+    "610.name": {
+      "source": "剑灵",
+      "target": "Kiếm Linh"
+    },
+    "611.name": {
+      "source": "魔灵",
+      "target": "Ma Linh"
+    },
+    "612.name": {
+      "source": "变灵",
+      "target": "Biến Linh"
+    },
+    "613.name": {
+      "source": "动灵",
+      "target": "Động Linh"
+    },
+    "614.name": {
+      "source": "东方持国天王",
+      "target": "Đông Phương Trì Quốc Thiên Vương"
+    },
+    "615.name": {
+      "source": "南方增长天王",
+      "target": "Nam Phương Tăng Trưởng Thiên Vương"
+    },
+    "616.name": {
+      "source": "西方广目天王",
+      "target": "Tây Phương Quảng Mục Thiên Vương"
+    },
+    "617.name": {
+      "source": "北方多闻天王",
+      "target": "Bắc Phương Đa Văn Thiên Vương"
+    },
+    "618.name": {
+      "source": "飞天神龟",
+      "target": "Phi Thiên Thần Quy"
+    },
+    "619.name": {
+      "source": "遁地神龟",
+      "target": "Độn Địa Thần Quy"
+    },
+    "620.name": {
+      "source": "深渊魔狼",
+      "target": "Thâm Uyên Ma Lang"
+    },
+    "621.name": {
+      "source": "烈域恶魔",
+      "target": "Liệt Vực Ác Ma"
+    },
+    "622.name": {
+      "source": "深渊蝠妖",
+      "target": "Thâm Uyên Bức Yêu"
+    },
+    "623.name": {
+      "source": "恶魔之灵",
+      "target": "Ác Ma Chi Linh"
+    },
+    "624.name": {
+      "source": "烈域大嘴兽",
+      "target": "Liệt Vực Đại Chủy Thú"
+    },
+    "625.name": {
+      "source": "深渊食尸兽",
+      "target": "Thâm Uyên Thực Thi Thú"
+    },
+    "626.name": {
+      "source": "深渊幽魂",
+      "target": "Thâm Uyên U Hồn"
+    },
+    "627.name": {
+      "source": "啖魂兽",
+      "target": "Đạm Hồn Thú"
+    },
+    "628.name": {
+      "source": "深渊灵将",
+      "target": "Thâm Uyên Linh Tướng"
+    },
+    "629.name": {
+      "source": "狂暴驽兽",
+      "target": "Cuồng Bạo Nỗ Thú"
+    },
+    "630.name": {
+      "source": "深渊守护神",
+      "target": "Thâm Uyên Thủ Hộ Thần"
+    },
+    "631.name": {
+      "source": "马场统领",
+      "target": "Mã Trường Thống Lĩnh"
+    },
+    "632.name": {
+      "source": "深渊守护者1",
+      "target": "Thâm Uyên Thủ Hộ Giả 1"
+    },
+    "633.name": {
+      "source": "深渊守护者2",
+      "target": "Thâm Uyên Thủ Hộ Giả 2"
+    },
+    "634.name": {
+      "source": "深渊守护者3",
+      "target": "Thâm Uyên Thủ Hộ Giả 3"
+    },
+    "635.name": {
+      "source": "深渊守护者4",
+      "target": "Thâm Uyên Thủ Hộ Giả 4"
+    },
+    "636.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "637.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "638.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "639.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "640.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "641.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "642.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "643.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "644.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "645.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "646.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "647.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "648.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "649.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "650.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "651.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "652.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "653.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "654.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "655.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "656.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "657.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "658.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "659.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "660.name": {
+      "source": "深渊守护神",
+      "target": "Thâm Uyên Thủ Hộ Thần"
+    },
+    "661.name": {
+      "source": "马场统领",
+      "target": "Mã Trường Thống Lĩnh"
+    },
+    "662.name": {
+      "source": "深渊守护者1",
+      "target": "Thâm Uyên Thủ Hộ Giả 1"
+    },
+    "663.name": {
+      "source": "深渊守护者2",
+      "target": "Thâm Uyên Thủ Hộ Giả 2"
+    },
+    "664.name": {
+      "source": "深渊守护者3",
+      "target": "Thâm Uyên Thủ Hộ Giả 3"
+    },
+    "665.name": {
+      "source": "深渊守护者4",
+      "target": "Thâm Uyên Thủ Hộ Giả 4"
+    },
+    "666.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "667.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "668.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "669.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "670.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "671.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "672.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "673.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "674.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "675.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "676.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "677.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "678.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "679.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "680.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "681.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "682.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "683.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "684.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "685.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "686.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "687.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "688.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "689.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "690.name": {
+      "source": "深渊守护神",
+      "target": "Thâm Uyên Thủ Hộ Thần"
+    },
+    "691.name": {
+      "source": "马场统领",
+      "target": "Mã Trường Thống Lĩnh"
+    },
+    "692.name": {
+      "source": "深渊守护者1",
+      "target": "Thâm Uyên Thủ Hộ Giả 1"
+    },
+    "693.name": {
+      "source": "深渊守护者2",
+      "target": "Thâm Uyên Thủ Hộ Giả 2"
+    },
+    "694.name": {
+      "source": "深渊守护者3",
+      "target": "Thâm Uyên Thủ Hộ Giả 3"
+    },
+    "695.name": {
+      "source": "深渊守护者4",
+      "target": "Thâm Uyên Thủ Hộ Giả 4"
+    },
+    "696.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "697.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "698.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "699.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "700.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "701.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "702.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "703.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "704.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "705.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "706.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "707.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "708.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "709.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "710.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "711.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "712.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "713.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "714.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "715.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "716.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "717.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "718.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "719.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "720.name": {
+      "source": "深渊守护神",
+      "target": "Thâm Uyên Thủ Hộ Thần"
+    },
+    "721.name": {
+      "source": "马场统领",
+      "target": "Mã Trường Thống Lĩnh"
+    },
+    "722.name": {
+      "source": "深渊守护者1",
+      "target": "Thâm Uyên Thủ Hộ Giả 1"
+    },
+    "723.name": {
+      "source": "深渊守护者2",
+      "target": "Thâm Uyên Thủ Hộ Giả 2"
+    },
+    "724.name": {
+      "source": "深渊守护者3",
+      "target": "Thâm Uyên Thủ Hộ Giả 3"
+    },
+    "725.name": {
+      "source": "深渊守护者4",
+      "target": "Thâm Uyên Thủ Hộ Giả 4"
+    },
+    "726.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "727.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "728.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "729.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "730.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "731.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "732.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "733.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "734.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "735.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "736.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "737.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "738.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "739.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "740.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "741.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "742.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "743.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "744.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "745.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "746.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "747.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "748.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "749.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "750.name": {
+      "source": "深渊守护神",
+      "target": "Thâm Uyên Thủ Hộ Thần"
+    },
+    "751.name": {
+      "source": "马场统领",
+      "target": "Mã Trường Thống Lĩnh"
+    },
+    "752.name": {
+      "source": "深渊守护者1",
+      "target": "Thâm Uyên Thủ Hộ Giả 1"
+    },
+    "753.name": {
+      "source": "深渊守护者2",
+      "target": "Thâm Uyên Thủ Hộ Giả 2"
+    },
+    "754.name": {
+      "source": "深渊守护者3",
+      "target": "Thâm Uyên Thủ Hộ Giả 3"
+    },
+    "755.name": {
+      "source": "深渊守护者4",
+      "target": "Thâm Uyên Thủ Hộ Giả 4"
+    },
+    "756.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "757.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "758.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "759.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "760.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "761.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "762.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "763.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "764.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "765.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "766.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "767.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "768.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "769.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "770.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "771.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "772.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "773.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "774.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "775.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "776.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "777.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "778.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "779.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "780.name": {
+      "source": "深渊守护神",
+      "target": "Thâm Uyên Thủ Hộ Thần"
+    },
+    "781.name": {
+      "source": "马场统领",
+      "target": "Mã Trường Thống Lĩnh"
+    },
+    "782.name": {
+      "source": "深渊守护者1",
+      "target": "Thâm Uyên Thủ Hộ Giả 1"
+    },
+    "783.name": {
+      "source": "深渊守护者2",
+      "target": "Thâm Uyên Thủ Hộ Giả 2"
+    },
+    "784.name": {
+      "source": "深渊守护者3",
+      "target": "Thâm Uyên Thủ Hộ Giả 3"
+    },
+    "785.name": {
+      "source": "深渊守护者4",
+      "target": "Thâm Uyên Thủ Hộ Giả 4"
+    },
+    "786.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "787.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "788.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "789.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "790.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "791.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "792.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "793.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "794.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "795.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "796.name": {
+      "source": "深渊守护者5",
+      "target": "Thâm Uyên Thủ Hộ Giả 5"
+    },
+    "797.name": {
+      "source": "深渊守护者37",
+      "target": "Thâm Uyên Thủ Hộ Giả 37"
+    },
+    "798.name": {
+      "source": "深渊守护者6",
+      "target": "Thâm Uyên Thủ Hộ Giả 6"
+    },
+    "799.name": {
+      "source": "深渊守护者7",
+      "target": "Thâm Uyên Thủ Hộ Giả 7"
+    },
+    "800.name": {
+      "source": "深渊守护者8",
+      "target": "Thâm Uyên Thủ Hộ Giả 8"
+    },
+    "801.name": {
+      "source": "深渊守护者9",
+      "target": "Thâm Uyên Thủ Hộ Giả 9"
+    },
+    "802.name": {
+      "source": "深渊守护者10",
+      "target": "Thâm Uyên Thủ Hộ Giả 10"
+    },
+    "803.name": {
+      "source": "深渊守护者11",
+      "target": "Thâm Uyên Thủ Hộ Giả 11"
+    },
+    "804.name": {
+      "source": "深渊守护者12",
+      "target": "Thâm Uyên Thủ Hộ Giả 12"
+    },
+    "805.name": {
+      "source": "深渊守护者13",
+      "target": "Thâm Uyên Thủ Hộ Giả 13"
+    },
+    "806.name": {
+      "source": "深渊守护者14",
+      "target": "Thâm Uyên Thủ Hộ Giả 14"
+    },
+    "807.name": {
+      "source": "深渊守护者15",
+      "target": "Thâm Uyên Thủ Hộ Giả 15"
+    },
+    "808.name": {
+      "source": "深渊守护者16",
+      "target": "Thâm Uyên Thủ Hộ Giả 16"
+    },
+    "809.name": {
+      "source": "深渊守护者17",
+      "target": "Thâm Uyên Thủ Hộ Giả 17"
+    },
+    "810.name": {
+      "source": "深渊守护者18",
+      "target": "Thâm Uyên Thủ Hộ Giả 18"
+    },
+    "811.name": {
+      "source": "深渊守护者19",
+      "target": "Thâm Uyên Thủ Hộ Giả 19"
+    },
+    "812.name": {
+      "source": "深渊守护者20",
+      "target": "Thâm Uyên Thủ Hộ Giả 20"
+    },
+    "813.name": {
+      "source": "深渊守护者21",
+      "target": "Thâm Uyên Thủ Hộ Giả 21"
+    },
+    "814.name": {
+      "source": "深渊守护者22",
+      "target": "Thâm Uyên Thủ Hộ Giả 22"
+    },
+    "815.name": {
+      "source": "深渊守护者23",
+      "target": "Thâm Uyên Thủ Hộ Giả 23"
+    },
+    "816.name": {
+      "source": "深渊守护者24",
+      "target": "Thâm Uyên Thủ Hộ Giả 24"
+    },
+    "817.name": {
+      "source": "深渊守护者25",
+      "target": "Thâm Uyên Thủ Hộ Giả 25"
+    },
+    "818.name": {
+      "source": "深渊守护者26",
+      "target": "Thâm Uyên Thủ Hộ Giả 26"
+    },
+    "819.name": {
+      "source": "深渊守护者27",
+      "target": "Thâm Uyên Thủ Hộ Giả 27"
+    },
+    "820.name": {
+      "source": "深渊守护者28",
+      "target": "Thâm Uyên Thủ Hộ Giả 28"
+    },
+    "821.name": {
+      "source": "深渊守护者29",
+      "target": "Thâm Uyên Thủ Hộ Giả 29"
+    },
+    "822.name": {
+      "source": "深渊守护者30",
+      "target": "Thâm Uyên Thủ Hộ Giả 30"
+    },
+    "823.name": {
+      "source": "深渊守护者31",
+      "target": "Thâm Uyên Thủ Hộ Giả 31"
+    },
+    "824.name": {
+      "source": "深渊守护者32",
+      "target": "Thâm Uyên Thủ Hộ Giả 32"
+    },
+    "825.name": {
+      "source": "深渊守护者33",
+      "target": "Thâm Uyên Thủ Hộ Giả 33"
+    },
+    "826.name": {
+      "source": "深渊守护者34",
+      "target": "Thâm Uyên Thủ Hộ Giả 34"
+    },
+    "827.name": {
+      "source": "幼龙",
+      "target": "Ấu Long"
+    },
+    "828.name": {
+      "source": "牛怪",
+      "target": "Ngưu Quái"
+    },
+    "829.name": {
+      "source": "骷髅怪",
+      "target": "Khô Lâu Quái"
+    },
+    "830.name": {
+      "source": "猎犬怪",
+      "target": "Liệp Khuyển Quái"
+    },
+    "831.name": {
+      "source": "黑巫师",
+      "target": "Hắc Vu Sư"
+    },
+    "832.name": {
+      "source": "小巴哈姆特",
+      "target": "Tiểu Bahamut"
+    },
+    "833.name": {
+      "source": "蓝翼海怪",
+      "target": "Lam Dực Hải Quái"
+    },
+    "834.name": {
+      "source": "大巴哈姆特",
+      "target": "Đại Bahamut"
+    },
+    "835.name": {
+      "source": "银弓海怪",
+      "target": "Ngân Cung Hải Quái"
+    },
+    "836.name": {
+      "source": "海魔希特拉",
+      "target": "Hải Ma Hydra"
+    },
+    "837.name": {
+      "source": "鬼魅",
+      "target": "Quỷ Mị"
+    },
+    "838.name": {
+      "source": "牛魔王",
+      "target": "Ngưu Ma Vương"
+    },
+    "839.name": {
+      "source": "诅咒巫师",
+      "target": "Vu Sư Nguyền Rủa"
+    },
+    "840.name": {
+      "source": "死神戈登",
+      "target": "Tử Thần Gordon"
+    },
+    "841.name": {
+      "source": "死神骑士",
+      "target": "Kỵ Sĩ Tử Thần"
+    },
+    "842.name": {
+      "source": "魔王巴洛克",
+      "target": "Ma Vương Balrog"
+    },
+    "843.name": {
+      "source": "血虫",
+      "target": "Huyết Trùng"
+    },
+    "844.name": {
+      "source": "寒冰怪",
+      "target": "Hàn Băng Quái"
+    },
+    "845.name": {
+      "source": "暗杀者",
+      "target": "Ám Sát Giả"
+    },
+    "846.name": {
+      "source": "雪人王",
+      "target": "Tuyết Nhân Vương"
+    },
+    "847.name": {
+      "source": "雪后",
+      "target": "Tuyết Hậu"
+    },
+    "848.name": {
+      "source": "血鹰",
+      "target": "Huyết Ưng"
+    },
+    "849.name": {
+      "source": "长钉恶魔",
+      "target": "Ác Ma Trường Đinh"
+    },
+    "850.name": {
+      "source": "沉沦魔",
+      "target": "Trầm Luân Ma"
+    },
+    "851.name": {
+      "source": "沉沦魔巫师",
+      "target": "Trầm Luân Ma Vu Sư"
+    },
+    "852.name": {
+      "source": "骷髅小怪",
+      "target": "Khô Lâu Tiểu Quái"
+    },
+    "853.name": {
+      "source": "指尖法师",
+      "target": "Pháp Sư Chỉ Tiêm"
+    },
+    "854.name": {
+      "source": "遗忘骑士",
+      "target": "Kỵ Sĩ Lãng Quên"
+    },
+    "855.name": {
+      "source": "邪恶魔子",
+      "target": "Tà Ác Ma Tử"
+    },
+    "856.name": {
+      "source": "邪恶之母",
+      "target": "Tà Ác Chi Mẫu"
+    },
+    "857.name": {
+      "source": "黑暗骑士",
+      "target": "Hắc Ám Kỵ Sĩ"
+    },
+    "858.name": {
+      "source": "巨大恶魔",
+      "target": "Cự Đại Ác Ma"
+    },
+    "859.name": {
+      "source": "禽兽",
+      "target": "Cầm Thú"
+    },
+    "860.name": {
+      "source": "羊人",
+      "target": "Dương Nhân"
+    },
+    "861.name": {
+      "source": "堕落萝格",
+      "target": "Rogue Đọa Lạc"
+    },
+    "863.name": {
+      "source": "魔化羊",
+      "target": "Cừu Ma Hóa"
+    },
+    "864.name": {
+      "source": "魔化鹿",
+      "target": "Hươu Ma Hóa"
+    },
+    "865.name": {
+      "source": "稻草魔人",
+      "target": "Ma Nhân Đụn Rơm"
+    },
+    "866.name": {
+      "source": "钉耙猫妖",
+      "target": "Miêu Yêu Đinh Ba"
+    },
+    "867.name": {
+      "source": "利爪魔怪",
+      "target": "Lợi Trảo Ma Quái"
+    },
+    "868.name": {
+      "source": "血僵尸",
+      "target": "Huyết Cương Thi"
+    },
+    "869.name": {
+      "source": "电僵尸",
+      "target": "Điện Cương Thi"
+    },
+    "870.name": {
+      "source": "尸王",
+      "target": "Thi Vương"
+    },
+    "871.name": {
+      "source": "骷髅战士",
+      "target": "Chiến Binh Khô Lâu"
+    },
+    "872.name": {
+      "source": "嗜血猫妖",
+      "target": "Miêu Yêu Thị Huyết"
+    },
+    "873.name": {
+      "source": "骷髅战将",
+      "target": "Khô Lâu Chiến Tướng"
+    },
+    "874.name": {
+      "source": "暗黑骷髅王",
+      "target": "Ám Hắc Khô Lâu Vương"
+    },
+    "875.name": {
+      "source": "食人花",
+      "target": "Hoa Ăn Thịt Người"
+    },
+    "876.name": {
+      "source": "摄魂者",
+      "target": "Nhiếp Hồn Giả"
+    },
+    "877.name": {
+      "source": "虎蛇",
+      "target": "Hổ Xà"
+    },
+    "878.name": {
+      "source": "半兽人",
+      "target": "Bán Thú Nhân"
+    },
+    "879.name": {
+      "source": "血钉恶魔",
+      "target": "Huyết Đinh Ác Ma"
+    },
+    "880.name": {
+      "source": "魔斧兵",
+      "target": "Ma Phủ Binh"
+    },
+    "881.name": {
+      "source": "食尸虫",
+      "target": "Thực Thi Trùng"
+    },
+    "882.name": {
+      "source": "利爪爬怪",
+      "target": "Lợi Trảo Ba Quái"
+    },
+    "883.name": {
+      "source": "剧毒狼蛛",
+      "target": "Kịch Độc Lang Chu"
+    },
+    "884.name": {
+      "source": "嗜血蝙蝠",
+      "target": "Dơi Thị Huyết"
+    },
+    "885.name": {
+      "source": "堕落战士",
+      "target": "Chiến Binh Đọa Lạc"
+    },
+    "886.name": {
+      "source": "嗜血恶魔",
+      "target": "Ác Ma Thị Huyết"
+    },
+    "887.name": {
+      "source": "青火恶魔",
+      "target": "Thanh Hỏa Ác Ma"
+    },
+    "888.name": {
+      "source": "丛林恶魔",
+      "target": "Ác Ma Tùng Lâm"
+    },
+    "889.name": {
+      "source": "恶魔毒蛛",
+      "target": "Ác Ma Độc Chu"
+    },
+    "890.name": {
+      "source": "剧毒尸虫",
+      "target": "Kịch Độc Thi Trùng"
+    },
+    "891.name": {
+      "source": "变异食尸虫",
+      "target": "Thực Thi Trùng Biến Dị"
+    },
+    "892.name": {
+      "source": "魔化枪兵",
+      "target": "Thương Binh Ma Hóa"
+    },
+    "893.name": {
+      "source": "长斧牛怪",
+      "target": "Ngưu Quái Trường Phủ"
+    },
+    "894.name": {
+      "source": "圣甲虫王",
+      "target": "Thánh Giáp Trùng Vương"
+    },
+    "895.name": {
+      "source": "魔族喽啰",
+      "target": "Ma Tộc Lâu La"
+    },
+    "896.name": {
+      "source": "变异尸虫",
+      "target": "Thi Trùng Biến Dị"
+    },
+    "897.name": {
+      "source": "黑魔蜂",
+      "target": "Hắc Ma Phong"
+    },
+    "898.name": {
+      "source": "剧毒尾蝎",
+      "target": "Kịch Độc Vĩ Yết"
+    },
+    "899.name": {
+      "source": "飞行血虫",
+      "target": "Phi Hành Huyết Trùng"
+    },
+    "900.name": {
+      "source": "邪恶小巫师",
+      "target": "Tà Ác Tiểu Vu Sư"
+    },
+    "901.name": {
+      "source": "崔凡克议员",
+      "target": "Nghị Viên Travincal"
+    },
+    "902.name": {
+      "source": "变异魔蝎",
+      "target": "Biến Dị Ma Yết"
+    },
+    "903.name": {
+      "source": "骷髅兵长",
+      "target": "Khô Lâu Binh Trưởng"
+    },
+    "904.name": {
+      "source": "嗜血骑士",
+      "target": "Kỵ Sĩ Thị Huyết"
+    },
+    "905.name": {
+      "source": "噬魂恶魔",
+      "target": "Phệ Hồn Ác Ma"
+    },
+    "906.name": {
+      "source": "高等尖刺恶魔",
+      "target": "Ác Ma Tiêm Thích Cấp Cao"
+    },
+    "907.name": {
+      "source": "黑暗狼人",
+      "target": "Người Sói Hắc Ám"
+    },
+    "908.name": {
+      "source": "暴兽",
+      "target": "Bạo Thú"
+    },
+    "909.name": {
+      "source": "黑暗堕魔",
+      "target": "Hắc Ám Đọa Ma"
+    },
+    "910.name": {
+      "source": "甲虫恶魔",
+      "target": "Ác Ma Giáp Trùng"
+    },
+    "911.name": {
+      "source": "恶魔鬼",
+      "target": "Ác Ma Quỷ"
+    },
+    "912.name": {
+      "source": "诅咒法师",
+      "target": "Pháp Sư Nguyền Rủa"
+    },
+    "913.name": {
+      "source": "邪恶骑士",
+      "target": "Tà Ác Kỵ Sĩ"
+    },
+    "914.name": {
+      "source": "邪恶戈登",
+      "target": "Tà Ác Gordon"
+    },
+    "915.name": {
+      "source": "巨大蚊子",
+      "target": "Muỗi Khổng Lồ"
+    },
+    "916.name": {
+      "source": "丛林小恶魔",
+      "target": "Tiểu Ác Ma Tùng Lâm"
+    },
+    "917.name": {
+      "source": "嗜血甲虫",
+      "target": "Giáp Trùng Thị Huyết"
+    },
+    "918.name": {
+      "source": "尖刺丛林王",
+      "target": "Tiêm Thích Tùng Lâm Vương"
+    },
+    "919.name": {
+      "source": "利爪蛇怪",
+      "target": "Xà Quái Lợi Trảo"
+    },
+    "920.name": {
+      "source": "血腥红魔",
+      "target": "Huyết Tinh Hồng Ma"
+    },
+    "921.name": {
+      "source": "暗黑骷髅射手",
+      "target": "Ám Hắc Khô Lâu Xạ Thủ"
+    },
+    "922.name": {
+      "source": "暗黑骷髅战士",
+      "target": "Ám Hắc Khô Lâu Chiến Binh"
+    },
+    "923.name": {
+      "source": "沉沦石像鬼",
+      "target": "Trầm Luân Thạch Tượng Quỷ"
+    },
+    "924.name": {
+      "source": "鬼蛇",
+      "target": "Quỷ Xà"
+    },
+    "925.name": {
+      "source": "爆裂魔兽",
+      "target": "Bạo Liệt Ma Thú"
+    },
+    "926.name": {
+      "source": "血鸟护卫",
+      "target": "Huyết Điểu Thủ Vệ"
+    },
+    "927.name": {
+      "source": "炼狱噬魂者",
+      "target": "Phệ Hồn Giả Luyện Ngục"
+    },
+    "928.name": {
+      "source": "炼狱骷髅",
+      "target": "Khô Lâu Luyện Ngục"
+    },
+    "929.name": {
+      "source": "堕落兽王",
+      "target": "Đọa Lạc Thú Vương"
+    },
+    "930.name": {
+      "source": "僵尸",
+      "target": "Cương Thi"
+    },
+    "931.name": {
+      "source": "恶魔伯爵",
+      "target": "Ác Ma Bá Tước"
+    },
+    "932.name": {
+      "source": "大红魔王",
+      "target": "Đại Hồng Ma Vương"
+    },
+    "933.name": {
+      "source": "嗜血王",
+      "target": "Thị Huyết Vương"
+    },
+    "934.name": {
+      "source": "血鸟",
+      "target": "Huyết Điểu"
+    },
+    "935.name": {
+      "source": "沉沦大祭司",
+      "target": "Trầm Luân Đại Tế Tư"
+    },
+    "936.name": {
+      "source": "黑暗主教",
+      "target": "Hắc Ám Chủ Giáo"
+    },
+    "937.name": {
+      "source": "沙虫王",
+      "target": "Sa Trùng Vương"
+    },
+    "938.name": {
+      "source": "牙皮",
+      "target": "Nha Bì"
+    },
+    "939.name": {
+      "source": "地狱召唤者",
+      "target": "Triệu Hoán Giả Địa Ngục"
+    },
+    "940.name": {
+      "source": "伊泽尔",
+      "target": "Izual"
+    },
+    "941.name": {
+      "source": "堕落天使",
+      "target": "Thiên Sứ Đọa Lạc"
+    },
+    "942.name": {
+      "source": "安达利尔",
+      "target": "Andariel"
+    },
+    "943.name": {
+      "source": "都瑞尔",
+      "target": "Duriel"
+    },
+    "944.name": {
+      "source": "阿兹莫丹",
+      "target": "Azmodan"
+    },
+    "945.name": {
+      "source": "黑暗大菠萝",
+      "target": "Hắc Ám Diablo"
+    },
+    "946.name": {
+      "source": "墨菲托斯",
+      "target": "Mephisto"
+    },
+    "947.name": {
+      "source": "巴尔",
+      "target": "Baal"
+    },
+    "948.name": {
+      "source": "背德者埃博拉",
+      "target": "Kẻ Phản Bội Ebola"
+    },
+    "949.name": {
+      "source": "堕落武士塞斯",
+      "target": "Võ Sĩ Đọa Lạc Seth"
+    },
+    "950.name": {
+      "source": "放逐者里奥",
+      "target": "Kẻ Bị Lưu Đày Leo"
+    },
+    "951.name": {
+      "source": "骷髅王",
+      "target": "Khô Lâu Vương"
+    },
+    "952.name": {
+      "source": "BOSS魔神",
+      "target": "BOSS Ma Thần"
+    },
+    "953.name": {
+      "source": "李奥瑞克",
+      "target": "Leoric"
+    },
+    "954.name": {
+      "source": "邪恶大主教",
+      "target": "Tà Ác Đại Chủ Giáo"
+    },
+    "955.name": {
+      "source": "镇魂碑",
+      "target": "Trấn Hồn Bi"
+    },
+    "956.name": {
+      "source": "地狱之火",
+      "target": "Địa Ngục Chi Hỏa"
+    },
+    "957.name": {
+      "source": "火龙草",
+      "target": "Hỏa Long Thảo"
+    },
+    "958.name": {
+      "source": "止血草",
+      "target": "Chỉ Huyết Thảo"
+    },
+    "959.name": {
+      "source": "魔井",
+      "target": "Ma Tỉnh"
+    },
+    "960.name": {
+      "source": "虫卵",
+      "target": "Trứng Côn Trùng"
+    },
+    "961.name": {
+      "source": "腐尸草",
+      "target": "Hủ Thi Thảo"
+    },
+    "962.name": {
+      "source": "巡游者",
+      "target": "Tuần Du Giả"
+    },
+    "963.name": {
+      "source": "游荡者",
+      "target": "Du Đãng Giả"
+    },
+    "964.name": {
+      "source": "幽灵使者",
+      "target": "U Linh Sứ Giả"
+    },
+    "965.name": {
+      "source": "珠光宝气",
+      "target": "Châu Quang Bảo Khí"
+    },
+    "966.name": {
+      "source": "金玉满堂",
+      "target": "Kim Ngọc Mãn Đường"
+    },
+    "967.name": {
+      "source": "堆金积玉",
+      "target": "Đôi Kim Tích Ngọc"
+    },
+    "968.name": {
+      "source": "荣华富贵",
+      "target": "Vinh Hoa Phú Quý"
+    },
+    "969.name": {
+      "source": "富甲天下",
+      "target": "Phú Giáp Thiên Hạ"
+    },
+    "970.name": {
+      "source": "魔化水妖",
+      "target": "Thủy Yêu Ma Hóa"
+    },
+    "971.name": {
+      "source": "水妖队长",
+      "target": "Thủy Yêu Đội Trưởng"
+    },
+    "972.name": {
+      "source": "水妖统领",
+      "target": "Thủy Yêu Thống Lĩnh"
+    },
+    "973.name": {
+      "source": "先锋魔翼",
+      "target": "Tiên Phong Ma Dực"
+    },
+    "974.name": {
+      "source": "先锋队长",
+      "target": "Tiên Phong Đội Trưởng"
+    },
+    "975.name": {
+      "source": "先锋指挥官",
+      "target": "Tiên Phong Chỉ Huy Quan"
+    },
+    "976.name": {
+      "source": "小花童",
+      "target": "Tiểu Hoa Đồng"
+    },
+    "977.name": {
+      "source": "花精灵",
+      "target": "Hoa Tinh Linh"
+    },
+    "978.name": {
+      "source": "花仙子",
+      "target": "Hoa Tiên Tử"
+    },
+    "979.name": {
+      "source": "花无双",
+      "target": "Hoa Vô Song"
+    },
+    "980.name": {
+      "source": "花天使",
+      "target": "Hoa Thiên Sứ"
+    },
+    "981.name": {
+      "source": "采花大盗",
+      "target": "Thái Hoa Đại Đạo"
+    },
+    "982.name": {
+      "source": "同心锁",
+      "target": "Đồng Tâm Tỏa"
+    },
+    "983.name": {
+      "source": "火灵芝",
+      "target": "Hỏa Linh Chi"
+    },
+    "984.name": {
+      "source": "神秘木箱",
+      "target": "Mộc Tương Thần Bí"
+    },
+    "985.name": {
+      "source": "神秘木箱1",
+      "target": "Mộc Tương Thần Bí 1"
+    },
+    "986.name": {
+      "source": "牛头怪",
+      "target": "Ngưu Đầu Quái"
+    },
+    "987.name": {
+      "source": "魔化山猪",
+      "target": "Sơn Trư Ma Hóa"
+    },
+    "988.name": {
+      "source": "世界之石",
+      "target": "Thế Giới Chi Thạch"
+    },
+    "989.name": {
+      "source": "弓箭守卫",
+      "target": "Cung Tiễn Thủ Vệ"
+    },
+    "990.name": {
+      "source": "红衣武士",
+      "target": "Hồng Y Võ Sĩ"
+    },
+    "991.name": {
+      "source": "蓝衣武士",
+      "target": "Lam Y Võ Sĩ"
+    },
+    "992.name": {
+      "source": "痛苦之王",
+      "target": "Thống Khổ Chi Vương"
+    },
+    "993.name": {
+      "source": "诅咒教徒",
+      "target": "Giáo Đồ Nguyền Rủa"
+    },
+    "994.name": {
+      "source": "变异山猪",
+      "target": "Sơn Trư Biến Dị"
+    },
+    "995.name": {
+      "source": "金刚狼人",
+      "target": "Kim Cương Lang Nhân"
+    },
+    "996.name": {
+      "source": "魔化猩猩",
+      "target": "Tinh Tinh Ma Hóa"
+    },
+    "997.name": {
+      "source": "贪念心魔",
+      "target": "Tham Niệm Tâm Ma"
+    },
+    "998.name": {
+      "source": "悲鸣心魔",
+      "target": "Bi Minh Tâm Ma"
+    },
+    "999.name": {
+      "source": "恐惧心魔",
+      "target": "Khủng Cụ Tâm Ma"
+    },
+    "1000.name": {
+      "source": "无畏心魔",
+      "target": "Vô Úy Tâm Ma"
+    },
+    "1001.name": {
+      "source": "恶灵巫师",
+      "target": "Ác Linh Vu Sư"
+    },
+    "1002.name": {
+      "source": "部落子民",
+      "target": "Bộ Lạc Tử Dân"
+    },
+    "1003.name": {
+      "source": "部落卫士",
+      "target": "Bộ Lạc Vệ Sĩ"
+    },
+    "1004.name": {
+      "source": "部落暴徒",
+      "target": "Bộ Lạc Bạo Đồ"
+    },
+    "1005.name": {
+      "source": "部落巫师",
+      "target": "Bộ Lạc Vu Sư"
+    },
+    "1006.name": {
+      "source": "部落图腾1",
+      "target": "Đồ Đằng Bộ Lạc 1"
+    },
+    "1007.name": {
+      "source": "部落图腾2",
+      "target": "Đồ Đằng Bộ Lạc 2"
+    },
+    "1008.name": {
+      "source": "部落酋长",
+      "target": "Tù Trưởng Bộ Lạc"
+    },
+    "1009.name": {
+      "source": "部落弓箭守卫",
+      "target": "Thủ Vệ Cung Tiễn Bộ Lạc"
+    },
+    "1010.name": {
+      "source": "部落守护神",
+      "target": "Thủ Hộ Thần Bộ Lạc"
+    },
+    "1011.name": {
+      "source": "夺宝强盗",
+      "target": "Cường Đạo Đoạt Bảo"
+    },
+    "1012.name": {
+      "source": "邪恶武士",
+      "target": "Tà Ác Võ Sĩ"
+    },
+    "1013.name": {
+      "source": "强盗头目",
+      "target": "Đầu Mục Cường Đạo"
+    },
+    "1014.name": {
+      "source": "藏宝阁大门",
+      "target": "Cửa Tàng Bảo Các"
+    },
+    "1015.name": {
+      "source": "毒蜘蛛",
+      "target": "Nhện Độc"
+    },
+    "1016.name": {
+      "source": "金刚狼人",
+      "target": "Kim Cương Lang Nhân"
+    },
+    "1017.name": {
+      "source": "变异山猪",
+      "target": "Sơn Trư Biến Dị"
+    },
+    "1018.name": {
+      "source": "盗宝鼠",
+      "target": "Đạo Bảo Thử"
+    },
+    "1019.name": {
+      "source": "骷髅骑士",
+      "target": "Kỵ Sĩ Khô Lâu"
+    },
+    "1020.name": {
+      "source": "地狱术士",
+      "target": "Thuật Sĩ Địa Ngục"
+    },
+    "1021.name": {
+      "source": "恶僧",
+      "target": "Ác Tăng"
+    },
+    "1022.name": {
+      "source": "吉布列(废弃)",
+      "target": "Gabriel (Bỏ)"
+    },
+    "1023.name": {
+      "source": "虚弱的墨菲托斯",
+      "target": "Mephisto Suy Nhược"
+    },
+    "1024.name": {
+      "source": "黑暗议长",
+      "target": "Hắc Ám Nghị Trưởng"
+    },
+    "1025.name": {
+      "source": "黑暗憎恨者",
+      "target": "Kẻ Thù Hận Hắc Ám"
+    },
+    "1026.name": {
+      "source": "黑暗议员",
+      "target": "Hắc Ám Nghị Viên"
+    },
+    "1027.name": {
+      "source": "吉布列使徒",
+      "target": "Gabriel Sứ Đồ"
+    },
+    "1028.name": {
+      "source": "黑暗小圣像(废弃)",
+      "target": "Hắc Ám Tiểu Thánh Tượng (Bỏ)"
+    },
+    "1029.name": {
+      "source": "萨杜斯登斥候(废弃)",
+      "target": "Sát Đỗ Tư Đăng Xích Hậu (Bỏ)"
+    },
+    "1030.name": {
+      "source": "神王",
+      "target": "Thần Vương"
+    },
+    "1031.name": {
+      "source": "魔王",
+      "target": "Ma Vương"
+    },
+    "1032.name": {
+      "source": "惩戒之门核心",
+      "target": "Hạch Tâm Trừng Giới Chi Môn"
+    },
+    "1033.name": {
+      "source": "铁血护卫1",
+      "target": "Thiết Huyết Thủ Vệ 1"
+    },
+    "1034.name": {
+      "source": "铁血护卫2",
+      "target": "Thiết Huyết Thủ Vệ 2"
+    },
+    "1035.name": {
+      "source": "铁血护卫3",
+      "target": "Thiết Huyết Thủ Vệ 3"
+    },
+    "1036.name": {
+      "source": "混沌之门核心",
+      "target": "Hạch Tâm Hỗn Độn Chi Môn"
+    },
+    "1037.name": {
+      "source": "原罪之门核心",
+      "target": "Hạch Tâm Nguyên Tội Chi Môn"
+    },
+    "1038.name": {
+      "source": "栅栏1",
+      "target": "Hàng Rào 1"
+    },
+    "1039.name": {
+      "source": "暗夜丧尸",
+      "target": "Ám Dạ Tang Thi"
+    },
+    "1040.name": {
+      "source": "迷失尸王",
+      "target": "Mê Thất Thi Vương"
+    },
+    "1041.name": {
+      "source": "血色骷髅",
+      "target": "Huyết Sắc Khô Lâu"
+    },
+    "1042.name": {
+      "source": "骷髅骑士",
+      "target": "Kỵ Sĩ Khô Lâu"
+    },
+    "1043.name": {
+      "source": "永夜幽灵",
+      "target": "Vĩnh Dạ U Linh"
+    },
+    "1044.name": {
+      "source": "斯达米尔",
+      "target": "Starmil"
+    },
+    "1045.name": {
+      "source": "斯达米尔王",
+      "target": "Starmil Vương"
+    },
+    "1046.name": {
+      "source": "死灵骑士",
+      "target": "Tử Linh Kỵ Sĩ"
+    },
+    "1047.name": {
+      "source": "恐惧悲鸣",
+      "target": "Khủng Cụ Bi Minh"
+    },
+    "1048.name": {
+      "source": "恐惧悲鸣1",
+      "target": "Khủng Cụ Bi Minh 1"
+    },
+    "1049.name": {
+      "source": "愤怒之源",
+      "target": "Phẫn Nộ Chi Nguyên"
+    },
+    "1050.name": {
+      "source": "肉山大魔王",
+      "target": "Nhục Sơn Đại Ma Vương"
+    },
+    "1051.name": {
+      "source": "远古之王",
+      "target": "Viễn Cổ Chi Vương"
+    },
+    "1052.name": {
+      "source": "暗黑骑士",
+      "target": "Ám Hắc Kỵ Sĩ"
+    },
+    "1053.name": {
+      "source": "黑暗炼金术士",
+      "target": "Hắc Ám Luyện Kim Thuật Sĩ"
+    },
+    "1054.name": {
+      "source": "赤怨恶灵王",
+      "target": "Xích Oán Ác Linh Vương"
+    },
+    "1055.name": {
+      "source": "赤怨幽灵",
+      "target": "Xích Oán U Linh"
+    },
+    "1056.name": {
+      "source": "地狱三头犬",
+      "target": "Địa Ngục Tam Đầu Khuyển"
+    },
+    "1057.name": {
+      "source": "凯德•尼奥",
+      "target": "Kad Neo"
+    },
+    "1058.name": {
+      "source": "邪恶大法师",
+      "target": "Tà Ác Đại Pháp Sư"
+    },
+    "1059.name": {
+      "source": "瞳魔",
+      "target": "Đồng Ma"
+    },
+    "1060.name": {
+      "source": "邪恶兽",
+      "target": "Tà Ác Thú"
+    },
+    "1061.name": {
+      "source": "远古娃娃",
+      "target": "Viễn Cổ Oa Oa"
+    },
+    "1062.name": {
+      "source": "远古奈法兰",
+      "target": "Viễn Cổ Nephalem"
+    },
+    "1063.name": {
+      "source": "莉莉丝的灵魂",
+      "target": "Linh Hồn Lilith"
+    },
+    "1064.name": {
+      "source": "迪亚波罗的执念",
+      "target": "Chấp Niệm Diablo"
+    },
+    "1065.name": {
+      "source": "远古宝箱",
+      "target": "Viễn Cổ Bảo Sương"
+    },
+    "1066.name": {
+      "source": "祖玛教主",
+      "target": "Tổ Mã Giáo Chủ"
+    },
+    "1067.name": {
+      "source": "暗之祖玛教主",
+      "target": "Ám Chi Tổ Mã Giáo Chủ"
+    },
+    "1068.name": {
+      "source": "祖玛幻影",
+      "target": "Tổ Mã Huyễn Ảnh"
+    },
+    "1069.name": {
+      "source": "灾难兽王",
+      "target": "Tai Nạn Thú Vương"
+    },
+    "1070.name": {
+      "source": "灾难兽",
+      "target": "Tai Nạn Thú"
+    },
+    "1071.name": {
+      "source": "祖玛卫士",
+      "target": "Tổ Mã Vệ Sĩ"
+    },
+    "1072.name": {
+      "source": "魔域术士",
+      "target": "Ma Vực Thuật Sĩ"
+    },
+    "1073.name": {
+      "source": "咒怨祭坛",
+      "target": "Chú Oán Tế Đàn"
+    },
+    "1074.name": {
+      "source": "弃置的玻璃瓶",
+      "target": "Chai Thủy Tinh Vứt Bỏ"
+    },
+    "1075.name": {
+      "source": "弃置的报纸",
+      "target": "Báo Cũ Vứt Bỏ"
+    },
+    "1076.name": {
+      "source": "大笨兽",
+      "target": "Đại Bổn Thú"
+    },
+    "1077.name": {
+      "source": "跳跃者",
+      "target": "Khiêu Dược Giả"
+    },
+    "1078.name": {
+      "source": "甲虫大魔",
+      "target": "Giáp Trùng Đại Ma"
+    },
+    "1079.name": {
+      "source": "白骨矮人",
+      "target": "Bạch Cốt Người Lùn"
+    },
+    "1080.name": {
+      "source": "鬼火",
+      "target": "Quỷ Hỏa"
+    },
+    "1081.name": {
+      "source": "大恶魔",
+      "target": "Đại Ác Ma"
+    },
+    "1082.name": {
+      "source": "刺木魔",
+      "target": "Thứ Mộc Ma"
+    },
+    "1083.name": {
+      "source": "大力牛魔王",
+      "target": "Đại Lực Ngưu Ma Vương"
+    },
+    "1084.name": {
+      "source": "狂战士",
+      "target": "Cuồng Chiến Sĩ"
+    },
+    "1085.name": {
+      "source": "金刚狼人",
+      "target": "Kim Cương Lang Nhân"
+    },
+    "1086.name": {
+      "source": "鬼族",
+      "target": "Quỷ Tộc"
+    },
+    "1087.name": {
+      "source": "刺探者",
+      "target": "Thứ Thám Giả"
+    },
+    "1088.name": {
+      "source": "游荡者",
+      "target": "Du Đãng Giả"
+    },
+    "1089.name": {
+      "source": "侵略指挥官",
+      "target": "Xâm Lược Chỉ Huy Quan"
+    },
+    "1090.name": {
+      "source": "圣塔宝箱",
+      "target": "Thánh Tháp Bảo Sương"
+    },
+    "1091.name": {
+      "source": "试炼的骷髅",
+      "target": "Thí Luyện Khô Lâu"
+    },
+    "1092.name": {
+      "source": "试炼的沉沦魔",
+      "target": "Thí Luyện Trầm Luân Ma"
+    },
+    "1093.name": {
+      "source": "试炼的大笨兽",
+      "target": "Thí Luyện Đại Bổn Thú"
+    },
+    "1094.name": {
+      "source": "试炼的血之王",
+      "target": "Thí Luyện Huyết Chi Vương"
+    },
+    "1095.name": {
+      "source": "试炼的堕落王",
+      "target": "Thí Luyện Đọa Lạc Vương"
+    },
+    "1096.name": {
+      "source": "试炼指挥官",
+      "target": "Thí Luyện Chỉ Huy Quan"
+    },
+    "1097.name": {
+      "source": "勇士",
+      "target": "Dũng Sĩ"
+    },
+    "1098.name": {
+      "source": "勇士试炼官",
+      "target": "Dũng Sĩ Thí Luyện Quan"
+    },
+    "1099.name": {
+      "source": "复仇之魂",
+      "target": "Phục Cừu Chi Hồn"
+    },
+    "1100.name": {
+      "source": "勇士凭证",
+      "target": "Dũng Sĩ Bằng Chứng"
+    },
+    "1101.name": {
+      "source": "技能伤害强化剂",
+      "target": "Kỹ Năng Sát Thương Cường Hóa Tễ"
+    },
+    "1102.name": {
+      "source": "防御强化剂",
+      "target": "Phòng Ngự Cường Hóa Tễ"
+    },
+    "1103.name": {
+      "source": "气血强化剂",
+      "target": "Khí Huyết Cường Hóa Tễ"
+    },
+    "1104.name": {
+      "source": "小妖",
+      "target": "Tiểu Yêu"
+    },
+    "1105.name": {
+      "source": "刑天护卫",
+      "target": "Hình Thiên Hộ Vệ"
+    },
+    "1106.name": {
+      "source": "血魔妖",
+      "target": "Huyết Ma Yêu"
+    },
+    "1107.name": {
+      "source": "炼狱神将",
+      "target": "Luyện Ngục Thần Tướng"
+    },
+    "1108.name": {
+      "source": "暗咒师",
+      "target": "Ám Chú Sư"
+    },
+    "1109.name": {
+      "source": "恶魔咒师",
+      "target": "Ác Ma Chú Sư"
+    },
+    "1110.name": {
+      "source": "天妖王",
+      "target": "Thiên Yêu Vương"
+    },
+    "1111.name": {
+      "source": "恶灵真体",
+      "target": "Ác Linh Chân Thể"
+    },
+    "1112.name": {
+      "source": "暗金沉沦魔",
+      "target": "Ám Kim Trầm Luân Ma"
+    },
+    "1113.name": {
+      "source": "暗金沉沦巫师",
+      "target": "Ám Kim Trầm Luân Vu Sư"
+    },
+    "1114.name": {
+      "source": "暗金骷髅",
+      "target": "Ám Kim Khô Lâu"
+    },
+    "1115.name": {
+      "source": "碎骨者",
+      "target": "Toái Cốt Giả"
+    },
+    "1116.name": {
+      "source": "罪恶铁匠",
+      "target": "Tội Ác Thiết Tượng"
+    },
+    "1117.name": {
+      "source": "地狱奶牛",
+      "target": "Bò Sữa Địa Ngục"
+    },
+    "1118.name": {
+      "source": "母牛之王",
+      "target": "Vua Bò Sữa"
+    },
+    "1119.name": {
+      "source": "炼狱魔仆",
+      "target": "Luyện Ngục Ma Bộc"
+    },
+    "1120.name": {
+      "source": "狂暴迦蛇",
+      "target": "Cuồng Bạo Già Xà"
+    },
+    "1121.name": {
+      "source": "剧毒甲虫",
+      "target": "Kịch Độc Giáp Trùng"
+    },
+    "1122.name": {
+      "source": "八歧魔蛇",
+      "target": "Bát Kỳ Ma Xà"
+    },
+    "1123.name": {
+      "source": "狂暴丛林兽",
+      "target": "Cuồng Bạo Tùng Lâm Thú"
+    },
+    "1124.name": {
+      "source": "罗格巨人",
+      "target": "Rogue Cự Nhân"
+    },
+    "1125.name": {
+      "source": "邪恶羊怪",
+      "target": "Tà Ác Dương Quái"
+    },
+    "1126.name": {
+      "source": "变异尸虫王",
+      "target": "Biến Dị Thi Trùng Vương"
+    },
+    "1127.name": {
+      "source": "魔兵头领 ",
+      "target": "Ma Binh Đầu Lĩnh"
+    },
+    "1128.name": {
+      "source": "精英剧毒尾蝎 ",
+      "target": "Tinh Anh Kịch Độc Vĩ Yết"
+    },
+    "1129.name": {
+      "source": "邪恶巫师长",
+      "target": "Tà Ác Vu Sư Trưởng"
+    },
+    "1130.name": {
+      "source": "骷髅团长",
+      "target": "Khô Lâu Đoàn Trưởng"
+    },
+    "1131.name": {
+      "source": "暗杀军团长",
+      "target": "Ám Sát Quân Đoàn Trưởng"
+    },
+    "1132.name": {
+      "source": "远古冰魂",
+      "target": "Viễn Cổ Băng Hồn"
+    },
+    "1133.name": {
+      "source": "鬼族统领",
+      "target": "Quỷ Tộc Thống Lĩnh"
+    },
+    "1134.name": {
+      "source": "魔鬼邪恶戈登 ",
+      "target": "Ma Quỷ Tà Ác Gordon"
+    },
+    "1135.name": {
+      "source": "暗影卫队长",
+      "target": "Ám Ảnh Vệ Đội Trưởng"
+    },
+    "1136.name": {
+      "source": "狂化爆裂兽 ",
+      "target": "Cuồng Hóa Bạo Liệt Thú"
+    },
+    "1137.name": {
+      "source": "鳄统领",
+      "target": "Ngạc Thống Lĩnh"
+    },
+    "1138.name": {
+      "source": "诅咒石魔尊者",
+      "target": "Trớ Chú Thạch Ma Tôn Giả"
+    },
+    "1139.name": {
+      "source": "恶灵甲士将军",
+      "target": "Ác Linh Giáp Sĩ Tướng Quân"
+    },
+    "1140.name": {
+      "source": "碎骨统领",
+      "target": "Toái Cốt Thống Lĩnh"
+    },
+    "1141.name": {
+      "source": "地狱圣甲沙虫",
+      "target": "Địa Ngục Thánh Giáp Sa Trùng"
+    },
+    "1142.name": {
+      "source": "迪亚波罗镜像分身",
+      "target": "Phân Thân Phản Chiếu Diablo"
+    },
+    "1143.name": {
+      "source": "踩踏木箱4",
+      "target": "Đạp Mộc Sương 4"
+    },
+    "1144.name": {
+      "source": "弃置的塑料袋",
+      "target": "Túi Nilon Vứt Bỏ"
+    },
+    "1145.name": {
+      "source": "弃置的易拉罐",
+      "target": "Lon Vứt Bỏ"
+    },
+    "1146.name": {
+      "source": "弃置的电池",
+      "target": "Pin Vứt Bỏ"
+    },
+    "1147.name": {
+      "source": "弃置的烟头",
+      "target": "Tàn Thuốc Vứt Bỏ"
+    },
+    "1148.name": {
+      "source": "弃置的药品",
+      "target": "Dược Phẩm Vứt Bỏ"
+    },
+    "1149.name": {
+      "source": "弃置的化妆品",
+      "target": "Mỹ Phẩm Vứt Bỏ"
+    },
+    "1150.name": {
+      "source": "赛马图腾1",
+      "target": "Đua Ngựa Đồ Đằng 1"
+    },
+    "1151.name": {
+      "source": "赛马图腾2",
+      "target": "Đua Ngựa Đồ Đằng 2"
+    },
+    "1152.name": {
+      "source": "赛马图腾3",
+      "target": "Đua Ngựa Đồ Đằng 3"
+    },
+    "1153.name": {
+      "source": "踩踏木箱1",
+      "target": "Đạp Mộc Sương 1"
+    },
+    "1154.name": {
+      "source": "踩踏木箱2",
+      "target": "Đạp Mộc Sương 2"
+    },
+    "1155.name": {
+      "source": "踩踏木箱3",
+      "target": "Đạp Mộc Sương 3"
+    },
+    "1156.name": {
+      "source": "托马斯",
+      "target": "Thomas"
+    },
+    "1157.name": {
+      "source": "安娜",
+      "target": "Anna"
+    },
+    "1158.name": {
+      "source": "多思",
+      "target": "Dorothy"
+    },
+    "1159.name": {
+      "source": "黛西",
+      "target": "Daisy"
+    },
+    "1160.name": {
+      "source": "罗密欧",
+      "target": "Romeo"
+    },
+    "1161.name": {
+      "source": "朱丽叶",
+      "target": "Juliet"
+    },
+    "1162.name": {
+      "source": "光希",
+      "target": "Mitsuki"
+    },
+    "1163.name": {
+      "source": "松小姐",
+      "target": "Tiểu Thư Matsu"
+    },
+    "1164.name": {
+      "source": "哲伦",
+      "target": "Jay Chou"
+    },
+    "1165.name": {
+      "source": "苍老师",
+      "target": "Cô Giáo Sora"
+    },
+    "1166.name": {
+      "source": "托马斯1",
+      "target": "Thomas 1"
+    },
+    "1167.name": {
+      "source": "安娜1",
+      "target": "Anna 1"
+    },
+    "1168.name": {
+      "source": "多思1",
+      "target": "Dorothy 1"
+    },
+    "1169.name": {
+      "source": "黛西1",
+      "target": "Daisy 1"
+    },
+    "1170.name": {
+      "source": "罗密欧1",
+      "target": "Romeo 1"
+    },
+    "1171.name": {
+      "source": "朱丽叶1",
+      "target": "Juliet 1"
+    },
+    "1172.name": {
+      "source": "光希1",
+      "target": "Mitsuki 1"
+    },
+    "1173.name": {
+      "source": "松小姐1",
+      "target": "Tiểu Thư Matsu 1"
+    },
+    "1174.name": {
+      "source": "哲伦1",
+      "target": "Jay Chou 1"
+    },
+    "1175.name": {
+      "source": "苍老师1",
+      "target": "Cô Giáo Sora 1"
+    },
+    "1176.name": {
+      "source": "邪恶弓手",
+      "target": "Tà Ác Cung Thủ"
+    },
+    "1177.name": {
+      "source": "邪恶祭司",
+      "target": "Tà Ác Tế Tư"
+    },
+    "1178.name": {
+      "source": "邪恶羊人",
+      "target": "Tà Ác Dương Nhân"
+    },
+    "1179.name": {
+      "source": "剧毒火蚁",
+      "target": "Kịch Độc Hỏa Kiến"
+    },
+    "1180.name": {
+      "source": "狂暴尖刺怪",
+      "target": "Cuồng Bạo Tiêm Thứ Quái"
+    },
+    "1181.name": {
+      "source": "邪恶刀手",
+      "target": "Tà Ác Đao Thủ"
+    },
+    "1182.name": {
+      "source": "魔猩人",
+      "target": "Ma Tinh Nhân"
+    },
+    "1183.name": {
+      "source": "恐怖狼牙猪",
+      "target": "Khủng Bố Lang Nha Trư"
+    },
+    "1184.name": {
+      "source": "恶魔利爪",
+      "target": "Ác Ma Lợi Trảo"
+    },
+    "1185.name": {
+      "source": "魔化的兽族",
+      "target": "Ma Hóa Thú Tộc"
+    },
+    "1186.name": {
+      "source": "邪恶战士",
+      "target": "Tà Ác Chiến Sĩ"
+    },
+    "1187.name": {
+      "source": "邪恶爬怪",
+      "target": "Tà Ác Ba Quái"
+    },
+    "1188.name": {
+      "source": "戈尔贡杀手",
+      "target": "Sát Thủ Gorgon"
+    },
+    "1189.name": {
+      "source": "骷髅魔仆",
+      "target": "Khô Lâu Ma Bộc"
+    },
+    "1190.name": {
+      "source": "剧毒蜈蚣",
+      "target": "Kịch Độc Ngô Công"
+    },
+    "1191.name": {
+      "source": "狂暴兽族",
+      "target": "Cuồng Bạo Thú Tộc"
+    },
+    "1192.name": {
+      "source": "嗜血食人魔",
+      "target": "Thị Huyết Thực Nhân Ma"
+    },
+    "1193.name": {
+      "source": "恶魔骨刺",
+      "target": "Ác Ma Cốt Thứ"
+    },
+    "1194.name": {
+      "source": "杀戮恶魔",
+      "target": "Sát Lục Ác Ma"
+    },
+    "1195.name": {
+      "source": "萨兰卡邪士",
+      "target": "Zaruka Tà Sĩ"
+    },
+    "1196.name": {
+      "source": "高等沉沦魔",
+      "target": "Cao Đẳng Trầm Luân Ma"
+    },
+    "1197.name": {
+      "source": "沉沦祭司长",
+      "target": "Trầm Luân Tế Tư Trưởng"
+    },
+    "1198.name": {
+      "source": "高等巢",
+      "target": "Cao Đẳng Sào Khuyết"
+    },
+    "1199.name": {
+      "source": "巴洛克血鹰",
+      "target": "Huyết Ưng Baroque"
+    },
+    "1200.name": {
+      "source": "死神魔蛇",
+      "target": "Tử Thần Ma Xà"
+    },
+    "1201.name": {
+      "source": "诅咒将军",
+      "target": "Trớ Chú Tướng Quân"
+    },
+    "1202.name": {
+      "source": "铁血兽人",
+      "target": "Thiết Huyết Thú Nhân"
+    },
+    "1203.name": {
+      "source": "洛萨血魔",
+      "target": "Huyết Ma Lothar"
+    },
+    "1204.name": {
+      "source": "爆裂怒迦",
+      "target": "Bạo Liệt Nộ Già"
+    },
+    "1205.name": {
+      "source": "游荡的恶魔",
+      "target": "Du Đãng Ác Ma"
+    },
+    "1206.name": {
+      "source": "堕落羊人",
+      "target": "Đọa Lạc Dương Nhân"
+    },
+    "1207.name": {
+      "source": "巢",
+      "target": "Sào Khuyết"
+    },
+    "1208.name": {
+      "source": "魔神仆从",
+      "target": "Ma Thần Bộc Tùng"
+    },
+    "1209.name": {
+      "source": "赛马坐骑1",
+      "target": "Tọa Kỵ Đua Ngựa 1"
+    },
+    "1210.name": {
+      "source": "赛马坐骑2",
+      "target": "Tọa Kỵ Đua Ngựa 2"
+    },
+    "1211.name": {
+      "source": "赛马坐骑3",
+      "target": "Tọa Kỵ Đua Ngựa 3"
+    },
+    "1212.name": {
+      "source": "赛马坐骑4",
+      "target": "Tọa Kỵ Đua Ngựa 4"
+    },
+    "1213.name": {
+      "source": "赛马坐骑5",
+      "target": "Tọa Kỵ Đua Ngựa 5"
+    },
+    "1214.name": {
+      "source": "赛马坐骑6",
+      "target": "Tọa Kỵ Đua Ngựa 6"
+    },
+    "1215.name": {
+      "source": "赛马坐骑7",
+      "target": "Tọa Kỵ Đua Ngựa 7"
+    },
+    "1216.name": {
+      "source": "赛马坐骑8",
+      "target": "Tọa Kỵ Đua Ngựa 8"
+    },
+    "1217.name": {
+      "source": "赛马坐骑9",
+      "target": "Tọa Kỵ Đua Ngựa 9"
+    },
+    "1218.name": {
+      "source": "赛马坐骑10",
+      "target": "Tọa Kỵ Đua Ngựa 10"
+    },
+    "1219.name": {
+      "source": "香蕉皮",
+      "target": "Vỏ Chuối"
+    },
+    "1220.name": {
+      "source": "珍珠",
+      "target": "Trân Châu"
+    },
+    "1221.name": {
+      "source": "地狱奶牛1",
+      "target": "Địa Ngục Nãi Ngưu 1"
+    },
+    "1222.name": {
+      "source": "暗金地狱奶牛",
+      "target": "Ám Kim Địa Ngục Nãi Ngưu"
+    },
+    "1223.name": {
+      "source": "火骑士",
+      "target": "Hỏa Kỵ Sĩ"
+    },
+    "1224.name": {
+      "source": "死骑士",
+      "target": "Tử Kỵ Sĩ"
+    },
+    "1225.name": {
+      "source": "暗骑士",
+      "target": "Ám Kỵ Sĩ"
+    },
+    "1226.name": {
+      "source": "地狱火镰1",
+      "target": "Địa Ngục Hỏa Liêm 1"
+    },
+    "1227.name": {
+      "source": "金币",
+      "target": "Kim Tệ"
+    },
+    "1228.name": {
+      "source": "魔法封印塔",
+      "target": "Ma Pháp Phong Ấn Tháp"
+    },
+    "1229.name": {
+      "source": "炎魔阿拉泰",
+      "target": "Viêm Ma Alatai"
+    },
+    "1230.name": {
+      "source": "魔焰掌控者",
+      "target": "Ma Diễm Chưởng Khống Giả"
+    },
+    "1231.name": {
+      "source": "焚毁之王",
+      "target": "Phần Hủy Chi Vương"
+    },
+    "1232.name": {
+      "source": "邪神阿拉泰",
+      "target": "Tà Thần Alatai"
+    },
+    "1233.name": {
+      "source": "夺命使者",
+      "target": "Đoạt Mệnh Sử Giả"
+    },
+    "1234.name": {
+      "source": "夺命使者1",
+      "target": "Đoạt Mệnh Sử Giả 1"
+    },
+    "1235.name": {
+      "source": "夺命使者2",
+      "target": "Đoạt Mệnh Sử Giả 2"
+    },
+    "1236.name": {
+      "source": "夺命使者3",
+      "target": "Đoạt Mệnh Sử Giả 3"
+    },
+    "1237.name": {
+      "source": "罪恶使者",
+      "target": "Tội Ác Sử Giả"
+    },
+    "1238.name": {
+      "source": "罪恶使者1",
+      "target": "Tội Ác Sử Giả 1"
+    },
+    "1239.name": {
+      "source": "罪恶使者2",
+      "target": "Tội Ác Sử Giả 2"
+    },
+    "1240.name": {
+      "source": "罪恶使者3",
+      "target": "Tội Ác Sử Giả 3"
+    },
+    "1241.name": {
+      "source": "恶灵武士",
+      "target": "Ác Linh Vũ Sĩ"
+    },
+    "1242.name": {
+      "source": "恶灵武士1",
+      "target": "Ác Linh Vũ Sĩ 1"
+    },
+    "1243.name": {
+      "source": "恶灵武士2",
+      "target": "Ác Linh Vũ Sĩ 2"
+    },
+    "1244.name": {
+      "source": "恶灵武士3",
+      "target": "Ác Linh Vũ Sĩ 3"
+    },
+    "1245.name": {
+      "source": "潘多拉祭坛",
+      "target": "Tế Đàn Pandora"
+    },
+    "1246.name": {
+      "source": "蜘蛛侠",
+      "target": "Người Nhện"
+    },
+    "1247.name": {
+      "source": "恶灵护法",
+      "target": "Ác Linh Hộ Pháp"
+    },
+    "1248.name": {
+      "source": "恶灵护法1",
+      "target": "Ác Linh Hộ Pháp 1"
+    },
+    "1249.name": {
+      "source": "恶灵护法2",
+      "target": "Ác Linh Hộ Pháp 2"
+    },
+    "1250.name": {
+      "source": "恶灵护法3",
+      "target": "Ác Linh Hộ Pháp 3"
+    },
+    "1251.name": {
+      "source": "罪恶之王",
+      "target": "Tội Ác Chi Vương"
+    },
+    "1252.name": {
+      "source": "罪恶之王1",
+      "target": "Tội Ác Chi Vương 1"
+    },
+    "1253.name": {
+      "source": "罪恶之王2",
+      "target": "Tội Ác Chi Vương 2"
+    },
+    "1254.name": {
+      "source": "罪恶之王3",
+      "target": "Tội Ác Chi Vương 3"
+    },
+    "1255.name": {
+      "source": "皇宫守卫者",
+      "target": "Hoàng Cung Thủ Vệ Giả"
+    },
+    "1256.name": {
+      "source": "暗黑沉沦魔",
+      "target": "Ám Hắc Trầm Luân Ma"
+    },
+    "1257.name": {
+      "source": "沉沦祭司",
+      "target": "Trầm Luân Tế Tư"
+    },
+    "1258.name": {
+      "source": "埋骨骷髅怪",
+      "target": "Mai Cốt Khô Lâu Quái"
+    },
+    "1259.name": {
+      "source": "噬魂鼠",
+      "target": "Phệ Hồn Thử"
+    },
+    "1260.name": {
+      "source": "堕落罗格卫兵",
+      "target": "Đọa Lạc Rogue Vệ Binh"
+    },
+    "1261.name": {
+      "source": "战士守卫",
+      "target": "Chiến Sĩ Thủ Vệ"
+    },
+    "1262.name": {
+      "source": "法师守卫",
+      "target": "Pháp Sư Thủ Vệ"
+    },
+    "1263.name": {
+      "source": "道士守卫",
+      "target": "Đạo Sĩ Thủ Vệ"
+    },
+    "1264.name": {
+      "source": "狗头人",
+      "target": "Cẩu Đầu Nhân"
+    },
+    "1265.name": {
+      "source": "强盗",
+      "target": "Cường Đạo"
+    },
+    "1266.name": {
+      "source": "远古传送书残页",
+      "target": "Tàn Hiệt Sách Truyền Tống Viễn Cổ"
+    },
+    "1267.name": {
+      "source": "碎颅使者",
+      "target": "Toái Lâu Sử Giả"
+    },
+    "1268.name": {
+      "source": "黑暗教徒",
+      "target": "Hắc Ám Giáo Đồ"
+    },
+    "1269.name": {
+      "source": "噬魂大蚂蚁",
+      "target": "Phệ Hồn Đại Mã Nghị"
+    },
+    "1270.name": {
+      "source": "异性蜘蛛1",
+      "target": "Nhện Đột Biến 1"
+    },
+    "1271.name": {
+      "source": "骷髅大兵",
+      "target": "Khô Lâu Đại Binh"
+    },
+    "1272.name": {
+      "source": "幻影武者",
+      "target": "Huyễn Ảnh Vũ Giả"
+    },
+    "1273.name": {
+      "source": "牛头魔怪",
+      "target": "Ngưu Đầu Ma Quái"
+    },
+    "1274.name": {
+      "source": "猩猩",
+      "target": "Tinh Tinh"
+    },
+    "1275.name": {
+      "source": "杀手",
+      "target": "Sát Thủ"
+    },
+    "1276.name": {
+      "source": "地狱召唤者1",
+      "target": "Địa Ngục Triệu Hoán Giả 1"
+    },
+    "1277.name": {
+      "source": "大魔蜂1",
+      "target": "Đại Ma Phong 1"
+    },
+    "1278.name": {
+      "source": "小蓝魔",
+      "target": "Tiểu Lam Ma"
+    },
+    "1279.name": {
+      "source": "暗黑恶蛆1",
+      "target": "Ám Hắc Ác Thư 1"
+    },
+    "1280.name": {
+      "source": "霸刀",
+      "target": "Bá Đao"
+    },
+    "1281.name": {
+      "source": "疯狂的狗头人",
+      "target": "Cẩu Đầu Nhân Điên Cuồng"
+    },
+    "1282.name": {
+      "source": "疯牛",
+      "target": "Ngưu Điên"
+    },
+    "1283.name": {
+      "source": "变异的魔虫1",
+      "target": "Ma Trùng Biến Dị 1"
+    },
+    "1284.name": {
+      "source": "魔化犬1",
+      "target": "Ma Hóa Khuyển 1"
+    },
+    "1285.name": {
+      "source": "雷炎兵1",
+      "target": "Lôi Viêm Binh 1"
+    },
+    "1286.name": {
+      "source": "魔化牛1",
+      "target": "Ma Hóa Ngưu 1"
+    },
+    "1287.name": {
+      "source": "甲虫",
+      "target": "Giáp Trùng"
+    },
+    "1288.name": {
+      "source": "猪头将军1",
+      "target": "Trư Đầu Tướng Quân 1"
+    },
+    "1289.name": {
+      "source": "嗜血蚁1",
+      "target": "Thị Huyết Kiến 1"
+    },
+    "1290.name": {
+      "source": "杀戮魔王1（废弃）",
+      "target": "Sát Lục Ma Vương 1 (Phế Bỏ)"
+    },
+    "1291.name": {
+      "source": "侵略指挥官2",
+      "target": "Xâm Lược Chỉ Huy Quan 2"
+    },
+    "1292.name": {
+      "source": "爆兽",
+      "target": "Bạo Thú"
+    },
+    "1293.name": {
+      "source": "红衣武士1",
+      "target": "Hồng Y Vũ Sĩ 1"
+    },
+    "1294.name": {
+      "source": "蓝衣武士1",
+      "target": "Lam Y Vũ Sĩ 1"
+    },
+    "1295.name": {
+      "source": "狂刀统领",
+      "target": "Cuồng Đao Thống Lĩnh"
+    },
+    "1296.name": {
+      "source": "爆裂统领 ",
+      "target": "Bạo Liệt Thống Lĩnh"
+    },
+    "1297.name": {
+      "source": "恶魔统领",
+      "target": "Ác Ma Thống Lĩnh"
+    },
+    "1298.name": {
+      "source": "地狱力士",
+      "target": "Địa Ngục Lực Sĩ"
+    },
+    "1299.name": {
+      "source": "攻城龙兽",
+      "target": "Công Thành Long Thú"
+    },
+    "1300.name": {
+      "source": "行会BOSS1",
+      "target": "Guild BOSS 1"
+    },
+    "1301.name": {
+      "source": "行会BOSS2",
+      "target": "Guild BOSS 2"
+    },
+    "1302.name": {
+      "source": "行会BOSS3",
+      "target": "Guild BOSS 3"
+    },
+    "1303.name": {
+      "source": "行会BOSS4",
+      "target": "Guild BOSS 4"
+    },
+    "1304.name": {
+      "source": "1转行会BOSS5",
+      "target": "1 Chuyển Guild BOSS 5"
+    },
+    "1305.name": {
+      "source": "2转行会BOSS6",
+      "target": "2 Chuyển Guild BOSS 6"
+    },
+    "1306.name": {
+      "source": "3转行会BOSS7",
+      "target": "3 Chuyển Guild BOSS 7"
+    },
+    "1307.name": {
+      "source": "4转行会BOSS8",
+      "target": "4 Chuyển Guild BOSS 8"
+    },
+    "1308.name": {
+      "source": "5转行会BOSS9",
+      "target": "5 Chuyển Guild BOSS 9"
+    },
+    "1309.name": {
+      "source": "6转行会BOSS10",
+      "target": "6 Chuyển Guild BOSS 10"
+    },
+    "1310.name": {
+      "source": "暗金行会BOSS1",
+      "target": "Ám Kim Guild BOSS 1"
+    },
+    "1311.name": {
+      "source": "暗金行会BOSS2",
+      "target": "Ám Kim Guild BOSS 2"
+    },
+    "1312.name": {
+      "source": "暗金行会BOSS3",
+      "target": "Ám Kim Guild BOSS 3"
+    },
+    "1313.name": {
+      "source": "暗金行会BOSS4",
+      "target": "Ám Kim Guild BOSS 4"
+    },
+    "1314.name": {
+      "source": "1转暗金行会BOSS5",
+      "target": "1 Chuyển Ám Kim Guild BOSS 5"
+    },
+    "1315.name": {
+      "source": "2转暗金行会BOSS6",
+      "target": "2 Chuyển Ám Kim Guild BOSS 6"
+    },
+    "1316.name": {
+      "source": "3转暗金行会BOSS7",
+      "target": "3 Chuyển Ám Kim Guild BOSS 7"
+    },
+    "1317.name": {
+      "source": "4转暗金行会BOSS8",
+      "target": "4 Chuyển Ám Kim Guild BOSS 8"
+    },
+    "1318.name": {
+      "source": "5转暗金行会BOSS9",
+      "target": "5 Chuyển Ám Kim Guild BOSS 9"
+    },
+    "1319.name": {
+      "source": "6转暗金行会BOSS10",
+      "target": "6 Chuyển Ám Kim Guild BOSS 10"
+    },
+    "1320.name": {
+      "source": "攻城易主银箱",
+      "target": "Công Thành Dịch Chủ Ngân Sương"
+    },
+    "1321.name": {
+      "source": "攻城奖励宝箱",
+      "target": "Công Thành Thưởng Bảo Sương"
+    },
+    "1322.name": {
+      "source": "弓箭护卫1",
+      "target": "Cung Tiễn Hộ Vệ 1"
+    },
+    "1323.name": {
+      "source": "精英血鹰",
+      "target": "Tinh Anh Huyết Ưng"
+    },
+    "1324.name": {
+      "source": "精英骷髅小怪",
+      "target": "Tinh Anh Khô Lâu Tiểu Quái"
+    },
+    "1325.name": {
+      "source": "精英指尖法师",
+      "target": "Tinh Anh Chỉ Tiêm Pháp Sư"
+    },
+    "1326.name": {
+      "source": "精英遗忘骑士",
+      "target": "Tinh Anh Di Vong Kỵ Sĩ"
+    },
+    "1327.name": {
+      "source": "精英巨大恶魔",
+      "target": "Tinh Anh Cự Đại Ác Ma"
+    },
+    "1328.name": {
+      "source": "精英禽兽",
+      "target": "Tinh Anh Cầm Thú"
+    },
+    "1329.name": {
+      "source": "精英羊人",
+      "target": "Tinh Anh Dương Nhân"
+    },
+    "1330.name": {
+      "source": "骨头怪头领",
+      "target": "Cốt Đầu Quái Đầu Lĩnh"
+    },
+    "1331.name": {
+      "source": "罗格卫兵头领",
+      "target": "Rogue Vệ Binh Đầu Lĩnh"
+    },
+    "1332.name": {
+      "source": "嗜血魔头领",
+      "target": "Thị Huyết Ma Đầu Lĩnh"
+    },
+    "1333.name": {
+      "source": "丛林魔头领",
+      "target": "Tùng Lâm Ma Đầu Lĩnh"
+    },
+    "1334.name": {
+      "source": "大虫头领",
+      "target": "Đại Trùng Đầu Lĩnh"
+    },
+    "1335.name": {
+      "source": "邪恶刀魔头领",
+      "target": "Tà Ác Đao Ma Đầu Lĩnh"
+    },
+    "1336.name": {
+      "source": "圣甲虫头领",
+      "target": "Thánh Giáp Trùng Đầu Lĩnh"
+    },
+    "1337.name": {
+      "source": "兽族头领",
+      "target": "Thú Tộc Đầu Lĩnh"
+    },
+    "1338.name": {
+      "source": "邪战头领",
+      "target": "Tà Chiến Đầu Lĩnh"
+    },
+    "1339.name": {
+      "source": "蛇人头领",
+      "target": "Xà Nhân Đầu Lĩnh"
+    },
+    "1340.name": {
+      "source": "巫师头领",
+      "target": "Vu Sư Đầu Lĩnh"
+    },
+    "1341.name": {
+      "source": "食人魔头领",
+      "target": "Thực Nhân Ma Đầu Lĩnh"
+    },
+    "1342.name": {
+      "source": "杀戮头领",
+      "target": "Sát Lục Đầu Lĩnh"
+    },
+    "1343.name": {
+      "source": "萨兰卡头领",
+      "target": "Zaruka Đầu Lĩnh"
+    },
+    "1344.name": {
+      "source": "狼人头领",
+      "target": "Lang Nhân Đầu Lĩnh"
+    },
+    "1345.name": {
+      "source": "狂暴头领",
+      "target": "Cuồng Bạo Đầu Lĩnh"
+    },
+    "1346.name": {
+      "source": "死神蛇头领",
+      "target": "Tử Thần Xà Đầu Lĩnh"
+    },
+    "1347.name": {
+      "source": "魔鬼头领",
+      "target": "Ma Quỷ Đầu Lĩnh"
+    },
+    "1348.name": {
+      "source": "铁血头领",
+      "target": "Thiết Huyết Đầu Lĩnh"
+    },
+    "1349.name": {
+      "source": "洛萨头领",
+      "target": "Lothar Đầu Lĩnh"
+    },
+    "1350.name": {
+      "source": "尖刺王头领",
+      "target": "Tiêm Thứ Vương Đầu Lĩnh"
+    },
+    "1351.name": {
+      "source": "蛇怪头领",
+      "target": "Xà Quái Đầu Lĩnh"
+    },
+    "1352.name": {
+      "source": "红魔头领",
+      "target": "Hồng Ma Đầu Lĩnh"
+    },
+    "1353.name": {
+      "source": "鬼头领",
+      "target": "Quỷ Đầu Lĩnh"
+    },
+    "1354.name": {
+      "source": "护卫头领",
+      "target": "Hộ Vệ Đầu Lĩnh"
+    },
+    "1355.name": {
+      "source": "迦蛇头领",
+      "target": "Già Xà Đầu Lĩnh"
+    },
+    "1356.name": {
+      "source": "丛林兽头领",
+      "target": "Tùng Lâm Thú Đầu Lĩnh"
+    },
+    "1357.name": {
+      "source": "巨人头领",
+      "target": "Cự Nhân Đầu Lĩnh"
+    },
+    "1358.name": {
+      "source": "神殿长精英",
+      "target": "Thần Điện Trưởng Tinh Anh"
+    },
+    "1359.name": {
+      "source": "伯爵头领",
+      "target": "Bá Tước Đầu Lĩnh"
+    },
+    "1360.name": {
+      "source": "狂刀精英",
+      "target": "Cuồng Đao Tinh Anh"
+    },
+    "1361.name": {
+      "source": "爆裂精英",
+      "target": "Bạo Liệt Tinh Anh"
+    },
+    "1362.name": {
+      "source": "恶魔精英",
+      "target": "Ác Ma Tinh Anh"
+    },
+    "1363.name": {
+      "source": "力士头领",
+      "target": "Lực Sĩ Đầu Lĩnh"
+    },
+    "1364.name": {
+      "source": "龙兽头领",
+      "target": "Long Thú Đầu Lĩnh"
+    },
+    "1365.name": {
+      "source": "巴尔分身",
+      "target": "Phân Thân Baal"
+    },
+    "1366.name": {
+      "source": "堕落罗格弓手",
+      "target": "Đọa Lạc Rogue Cung Thủ"
+    },
+    "1367.name": {
+      "source": "嗜血蜘蛛",
+      "target": "Thị Huyết Nhện"
+    },
+    "1368.name": {
+      "source": "暗金沉沦战士",
+      "target": "Ám Kim Trầm Luân Chiến Sĩ"
+    },
+    "1369.name": {
+      "source": "攻城易主金箱",
+      "target": "Công Thành Dịch Chủ Kim Sương"
+    },
+    "1370.name": {
+      "source": "冰原兽",
+      "target": "Băng Nguyên Thú"
+    },
+    "1371.name": {
+      "source": "血腥督军",
+      "target": "Huyết Tinh Đốc Quân"
+    },
+    "1372.name": {
+      "source": "骷髅护卫",
+      "target": "Khô Lâu Hộ Vệ"
+    },
+    "1373.name": {
+      "source": "诅咒教徒1",
+      "target": "Trớ Chú Giáo Đồ 1"
+    },
+    "1374.name": {
+      "source": "试炼的小妖",
+      "target": "Thí Luyện Tiểu Yêu"
+    },
+    "1375.name": {
+      "source": "毁灭尸人",
+      "target": "Hủy Diệt Thi Nhân"
+    },
+    "1376.name": {
+      "source": "黑暗木魔",
+      "target": "Hắc Ám Mộc Ma"
+    },
+    "1377.name": {
+      "source": "刺青 ",
+      "target": "Thứ Thanh"
+    },
+    "1378.name": {
+      "source": "破坏力魔 ",
+      "target": "Phá Hoại Lực Ma"
+    },
+    "1379.name": {
+      "source": "骷髅老兵 ",
+      "target": "Khô Lâu Lão Binh"
+    },
+    "1380.name": {
+      "source": "大力牛",
+      "target": "Đại Lực Ngưu"
+    },
+    "1381.name": {
+      "source": "毁灭骑士",
+      "target": "Hủy Diệt Kỵ Sĩ"
+    },
+    "1382.name": {
+      "source": "恐惧木魔 ",
+      "target": "Khủng Cụ Mộc Ma"
+    },
+    "1383.name": {
+      "source": "无畏刺青",
+      "target": "Vô Úy Thứ Thanh"
+    },
+    "1384.name": {
+      "source": "大力魔 ",
+      "target": "Đại Lực Ma"
+    },
+    "1385.name": {
+      "source": "试炼使者",
+      "target": "Sứ Giả Thí Luyện"
+    },
+    "1386.name": {
+      "source": "魔化牛 ",
+      "target": "Ma Hóa Ngưu"
+    },
+    "1387.name": {
+      "source": "避难所死神",
+      "target": "Tị Nạn Sở Tử Thần"
+    },
+    "1388.name": {
+      "source": "暗黑巫师",
+      "target": "Ám Hắc Vu Sư"
+    },
+    "1389.name": {
+      "source": "幻影武士",
+      "target": "Huyễn Ảnh Vũ Sĩ"
+    },
+    "1390.name": {
+      "source": "祖玛先锋",
+      "target": "Tổ Mã Tiên Phong"
+    },
+    "1391.name": {
+      "source": "蛮力兽",
+      "target": "Man Lực Thú"
+    },
+    "1392.name": {
+      "source": "灭魔大将军",
+      "target": "Diệt Ma Đại Tướng Quân"
+    },
+    "1393.name": {
+      "source": "血鸟【魂】",
+      "target": "Huyết Điểu【Hồn】"
+    },
+    "1394.name": {
+      "source": "大主教【魂】",
+      "target": "Đại Chủ Giáo【Hồn】"
+    },
+    "1395.name": {
+      "source": "地狱召唤者【魂】",
+      "target": "Địa Ngục Triệu Hoán Giả【Hồn】"
+    },
+    "1396.name": {
+      "source": "堕落天使【魂】",
+      "target": "Đọa Lạc Thiên Sứ【Hồn】"
+    },
+    "1397.name": {
+      "source": "龟甲魔蛇",
+      "target": "Quy Giáp Ma Xà"
+    },
+    "1398.name": {
+      "source": "地狱狗头人",
+      "target": "Địa Ngục Cẩu Đầu Nhân"
+    },
+    "1399.name": {
+      "source": "疯魔狼人",
+      "target": "Phong Ma Lang Nhân"
+    },
+    "1400.name": {
+      "source": "地狱石魔",
+      "target": "Địa Ngục Thạch Ma"
+    },
+    "1401.name": {
+      "source": "红发食人魔",
+      "target": "Hồng Phát Thực Nhân Ma"
+    },
+    "1402.name": {
+      "source": "斧魔战将",
+      "target": "Phủ Ma Chiến Tướng"
+    },
+    "1403.name": {
+      "source": "深渊咆哮者",
+      "target": "Thâm Uyên Bào Hao Giả"
+    },
+    "1404.name": {
+      "source": "龟甲魔蛇精英",
+      "target": "Quy Giáp Ma Xà Tinh Anh"
+    },
+    "1405.name": {
+      "source": "地狱狗头人精英",
+      "target": "Địa Ngục Cẩu Đầu Nhân Tinh Anh"
+    },
+    "1406.name": {
+      "source": "疯魔狼人精英",
+      "target": "Phong Ma Lang Nhân Tinh Anh"
+    },
+    "1407.name": {
+      "source": "地狱石魔精英",
+      "target": "Địa Ngục Thạch Ma Tinh Anh"
+    },
+    "1408.name": {
+      "source": "红发食人魔精英",
+      "target": "Hồng Phát Thực Nhân Ma Tinh Anh"
+    },
+    "1409.name": {
+      "source": "斧魔战将精英",
+      "target": "Phủ Ma Chiến Tướng Tinh Anh"
+    },
+    "1410.name": {
+      "source": "深渊咆哮者精英",
+      "target": "Thâm Uyên Bào Hao Giả Tinh Anh"
+    },
+    "1411.name": {
+      "source": "双头食人魔",
+      "target": "Song Đầu Thực Nhân Ma"
+    },
+    "1412.name": {
+      "source": "深渊石魔怪",
+      "target": "Thâm Uyên Thạch Ma Quái"
+    },
+    "1413.name": {
+      "source": "巨斧魔将",
+      "target": "Cự Phủ Ma Tướng"
+    },
+    "1414.name": {
+      "source": "死神血骑士",
+      "target": "Tử Thần Huyết Kỵ Sĩ"
+    },
+    "1415.name": {
+      "source": "深渊巨魔",
+      "target": "Thâm Uyên Cự Ma"
+    },
+    "1416.name": {
+      "source": "骷髅龙兽",
+      "target": "Khô Lâu Long Thú"
+    },
+    "1417.name": {
+      "source": "魔神近卫",
+      "target": "Ma Thần Cận Vệ"
+    },
+    "1418.name": {
+      "source": "双头食人魔精英",
+      "target": "Song Đầu Thực Nhân Ma Tinh Anh"
+    },
+    "1419.name": {
+      "source": "深渊石魔怪精英",
+      "target": "Thâm Uyên Thạch Ma Quái Tinh Anh"
+    },
+    "1420.name": {
+      "source": "巨斧魔将精英",
+      "target": "Cự Phủ Ma Tướng Tinh Anh"
+    },
+    "1421.name": {
+      "source": "死神血骑士精英",
+      "target": "Tử Thần Huyết Kỵ Sĩ Tinh Anh"
+    },
+    "1422.name": {
+      "source": "深渊巨魔精英",
+      "target": "Thâm Uyên Cự Ma Tinh Anh"
+    },
+    "1423.name": {
+      "source": "骷髅龙兽精英",
+      "target": "Khô Lâu Long Thú Tinh Anh"
+    },
+    "1424.name": {
+      "source": "魔神近卫精英",
+      "target": "Ma Thần Cận Vệ Tinh Anh"
+    },
+    "1425.name": {
+      "source": "金玉满堂",
+      "target": "Kim Ngọc Mãn Đường"
+    },
+    "1426.name": {
+      "source": "萨斯军官",
+      "target": "Quân Quan Sass"
+    },
+    "1427.name": {
+      "source": "堕落戈登",
+      "target": "Đọa Lạc Gordon"
+    },
+    "1428.name": {
+      "source": "伏魔将军",
+      "target": "Phục Ma Tướng Quân"
+    },
+    "1429.name": {
+      "source": "火影者",
+      "target": "Hỏa Ảnh Giả"
+    },
+    "1430.name": {
+      "source": "污染怪",
+      "target": "Ô Nhiễm Quái"
+    },
+    "1431.name": {
+      "source": "沉沦猎人",
+      "target": "Trầm Luân Liệp Nhân"
+    },
+    "1432.name": {
+      "source": "沉沦祭师",
+      "target": "Trầm Luân Tế Sư"
+    },
+    "1433.name": {
+      "source": "沉沦天使",
+      "target": "Trầm Luân Thiên Sứ"
+    },
+    "1434.name": {
+      "source": "机甲战士",
+      "target": "Cơ Giáp Chiến Sĩ"
+    },
+    "1435.name": {
+      "source": "憎恨天使",
+      "target": "Tăng Hận Thiên Sứ"
+    },
+    "1436.name": {
+      "source": "安达利尔灵魂",
+      "target": "Linh Hồn Andariel"
+    },
+    "1437.name": {
+      "source": "都瑞尔灵魂",
+      "target": "Linh Hồn Duriel"
+    },
+    "1438.name": {
+      "source": "阿兹莫丹灵魂",
+      "target": "Linh Hồn Azmodan"
+    },
+    "1439.name": {
+      "source": "墨菲托斯灵魂",
+      "target": "Linh Hồn Mephisto"
+    },
+    "1440.name": {
+      "source": "巴尔灵魂",
+      "target": "Linh Hồn Baal"
+    },
+    "1441.name": {
+      "source": "幽灵",
+      "target": "U Linh"
+    },
+    "1442.name": {
+      "source": "邪恶之子",
+      "target": "Tà Ác Chi Tử"
+    },
+    "1443.name": {
+      "source": "远古石人",
+      "target": "Viễn Cổ Thạch Nhân"
+    },
+    "1444.name": {
+      "source": "冰魂魔怪",
+      "target": "Băng Hồn Ma Quái"
+    },
+    "1445.name": {
+      "source": "邪恶妖精",
+      "target": "Tà Ác Yêu Tinh"
+    },
+    "1446.name": {
+      "source": "堕落蛮人",
+      "target": "Đọa Lạc Man Nhân"
+    },
+    "1447.name": {
+      "source": "执行者",
+      "target": "Chấp Hành Giả"
+    },
+    "1448.name": {
+      "source": "堕落僧侣",
+      "target": "Đọa Lạc Tăng Lữ"
+    },
+    "1449.name": {
+      "source": "要塞守卫",
+      "target": "Yếu Tắc Thủ Vệ"
+    },
+    "1450.name": {
+      "source": "黑暗流浪者",
+      "target": "Hắc Ám Lưu Lãng Giả"
+    },
+    "1451.name": {
+      "source": "游荡的魔族",
+      "target": "Du Đãng Ma Tộc"
+    },
+    "1452.name": {
+      "source": "恶魔妖精",
+      "target": "Ác Ma Yêu Tinh"
+    },
+    "1453.name": {
+      "source": "叛逃的蛮人",
+      "target": "Phản Đào Man Nhân"
+    },
+    "1454.name": {
+      "source": "死亡骑士",
+      "target": "Tử Vong Kỵ Sĩ"
+    },
+    "1455.name": {
+      "source": "冥河之怒",
+      "target": "Minh Hà Chi Nộ"
+    },
+    "1456.name": {
+      "source": "地狱行者",
+      "target": "Địa Ngục Hành Giả"
+    },
+    "1457.name": {
+      "source": "远古巨像",
+      "target": "Viễn Cổ Cự Tượng"
+    },
+    "1458.name": {
+      "source": "寒冰惊怖者",
+      "target": "Hàn Băng Kinh Phố Giả"
+    },
+    "1459.name": {
+      "source": "悲痛女王",
+      "target": "Bi Thống Nữ Vương"
+    },
+    "1460.name": {
+      "source": "蛮人先祖",
+      "target": "Man Nhân Tiên Tổ"
+    },
+    "1461.name": {
+      "source": "魔神祭司",
+      "target": "Ma Thần Tế Tư"
+    },
+    "1462.name": {
+      "source": "拉萨路",
+      "target": "Lazarus"
+    },
+    "1463.name": {
+      "source": "布尔凯索之魂",
+      "target": "Linh Hồn Bul-Kathos"
+    },
+    "1464.name": {
+      "source": "陨石魔神",
+      "target": "Vẫn Thạch Ma Thần"
+    },
+    "1465.name": {
+      "source": "失落魔灵",
+      "target": "Thất Lạc Ma Linh"
+    },
+    "1466.name": {
+      "source": "莉莉丝",
+      "target": "Lilith"
+    },
+    "1467.name": {
+      "source": "尼拉塞克",
+      "target": "Nihlathak"
+    },
+    "1468.name": {
+      "source": "李奥瑞克王",
+      "target": "Leoric Vương"
+    },
+    "1469.name": {
+      "source": "幽灵1",
+      "target": "U Linh 1"
+    },
+    "1470.name": {
+      "source": "邪恶之子1",
+      "target": "Tà Ác Chi Tử 1"
+    },
+    "1471.name": {
+      "source": "远古石人1",
+      "target": "Viễn Cổ Thạch Nhân 1"
+    },
+    "1472.name": {
+      "source": "冰魂魔怪1",
+      "target": "Băng Hồn Ma Quái 1"
+    },
+    "1473.name": {
+      "source": "邪恶妖精1",
+      "target": "Tà Ác Yêu Tinh 1"
+    },
+    "1474.name": {
+      "source": "堕落蛮人1",
+      "target": "Đọa Lạc Man Nhân 1"
+    },
+    "1475.name": {
+      "source": "执行者1",
+      "target": "Chấp Hành Giả 1"
+    },
+    "1476.name": {
+      "source": "堕落僧侣1",
+      "target": "Đọa Lạc Tăng Lữ 1"
+    },
+    "1477.name": {
+      "source": "要塞守卫1",
+      "target": "Yếu Tắc Thủ Vệ 1"
+    },
+    "1478.name": {
+      "source": "黑暗流浪者1",
+      "target": "Hắc Ám Lưu Lãng Giả 1"
+    },
+    "1479.name": {
+      "source": "游荡的魔族1",
+      "target": "Du Đãng Ma Tộc 1"
+    },
+    "1480.name": {
+      "source": "恶魔妖精1",
+      "target": "Ác Ma Yêu Tinh 1"
+    },
+    "1481.name": {
+      "source": "叛逃的蛮人1",
+      "target": "Phản Đào Man Nhân 1"
+    },
+    "1482.name": {
+      "source": "死亡骑士1",
+      "target": "Tử Vong Kỵ Sĩ 1"
+    },
+    "1483.name": {
+      "source": "冥河之怒1",
+      "target": "Minh Hà Chi Nộ 1"
+    },
+    "1484.name": {
+      "source": "地狱行者1",
+      "target": "Địa Ngục Hành Giả 1"
+    },
+    "1485.name": {
+      "source": "远古巨像1",
+      "target": "Viễn Cổ Cự Tượng 1"
+    },
+    "1486.name": {
+      "source": "寒冰惊怖者1",
+      "target": "Hàn Băng Kinh Phố Giả 1"
+    },
+    "1487.name": {
+      "source": "悲痛女王1",
+      "target": "Bi Thống Nữ Vương 1"
+    },
+    "1488.name": {
+      "source": "蛮人先祖1",
+      "target": "Man Nhân Tiên Tổ 1"
+    },
+    "1489.name": {
+      "source": "魔神祭司1",
+      "target": "Ma Thần Tế Tư 1"
+    },
+    "1490.name": {
+      "source": "拉萨路1",
+      "target": "Lazarus 1"
+    },
+    "1491.name": {
+      "source": "布尔凯索之魂1",
+      "target": "Linh Hồn Bul-Kathos 1"
+    },
+    "1492.name": {
+      "source": "陨石魔神1",
+      "target": "Vẫn Thạch Ma Thần 1"
+    },
+    "1493.name": {
+      "source": "失落魔灵1",
+      "target": "Thất Lạc Ma Linh 1"
+    },
+    "1494.name": {
+      "source": "莉莉丝1",
+      "target": "Lilith 1"
+    },
+    "1495.name": {
+      "source": "尼拉塞克1",
+      "target": "Nihlathak 1"
+    },
+    "1496.name": {
+      "source": "李奥瑞克王1",
+      "target": "Leoric Vương 1"
+    },
+    "1497.name": {
+      "source": "幽灵2",
+      "target": "U Linh 2"
+    },
+    "1498.name": {
+      "source": "邪恶之子2",
+      "target": "Tà Ác Chi Tử 2"
+    },
+    "1499.name": {
+      "source": "远古石人2",
+      "target": "Viễn Cổ Thạch Nhân 2"
+    },
+    "1500.name": {
+      "source": "寒冰怪2",
+      "target": "Hàn Băng Quái 2"
+    },
+    "1501.name": {
+      "source": "邪恶妖精2",
+      "target": "Tà Ác Yêu Tinh 2"
+    },
+    "1502.name": {
+      "source": "堕落蛮人2",
+      "target": "Đọa Lạc Man Nhân 2"
+    },
+    "1503.name": {
+      "source": "执行者2",
+      "target": "Chấp Hành Giả 2"
+    },
+    "1504.name": {
+      "source": "堕落僧侣2",
+      "target": "Đọa Lạc Tăng Lữ 2"
+    },
+    "1505.name": {
+      "source": "要塞守卫2",
+      "target": "Yếu Tắc Thủ Vệ 2"
+    },
+    "1506.name": {
+      "source": "黑暗流浪者2",
+      "target": "Hắc Ám Lưu Lãng Giả 2"
+    },
+    "1507.name": {
+      "source": "游荡的魔族2",
+      "target": "Du Đãng Ma Tộc 2"
+    },
+    "1508.name": {
+      "source": "恶魔妖精2",
+      "target": "Ác Ma Yêu Tinh 2"
+    },
+    "1509.name": {
+      "source": "叛逃的蛮人2",
+      "target": "Phản Đào Man Nhân 2"
+    },
+    "1510.name": {
+      "source": "死亡骑士2",
+      "target": "Tử Vong Kỵ Sĩ 2"
+    },
+    "1511.name": {
+      "source": "冥河之怒2",
+      "target": "Minh Hà Chi Nộ 2"
+    },
+    "1512.name": {
+      "source": "地狱行者2",
+      "target": "Địa Ngục Hành Giả 2"
+    },
+    "1513.name": {
+      "source": "远古巨像2",
+      "target": "Viễn Cổ Cự Tượng 2"
+    },
+    "1514.name": {
+      "source": "寒冰惊怖者2",
+      "target": "Hàn Băng Kinh Phố Giả 2"
+    },
+    "1515.name": {
+      "source": "悲痛女王2",
+      "target": "Bi Thống Nữ Vương 2"
+    },
+    "1516.name": {
+      "source": "蛮人先祖2",
+      "target": "Man Nhân Tiên Tổ 2"
+    },
+    "1517.name": {
+      "source": "魔神祭司2",
+      "target": "Ma Thần Tế Tư 2"
+    },
+    "1518.name": {
+      "source": "拉萨路2",
+      "target": "Lazarus 2"
+    },
+    "1519.name": {
+      "source": "布尔凯索之魂2",
+      "target": "Linh Hồn Bul-Kathos 2"
+    },
+    "1520.name": {
+      "source": "陨石魔神2",
+      "target": "Vẫn Thạch Ma Thần 2"
+    },
+    "1521.name": {
+      "source": "失落魔灵2",
+      "target": "Thất Lạc Ma Linh 2"
+    },
+    "1522.name": {
+      "source": "莉莉丝2",
+      "target": "Lilith 2"
+    },
+    "1523.name": {
+      "source": "尼拉塞克2",
+      "target": "Nihlathak 2"
+    },
+    "1524.name": {
+      "source": "李奥瑞克王2",
+      "target": "Leoric Vương 2"
+    },
+    "1525.name": {
+      "source": "魔蜂之魂",
+      "target": "Ma Phong Chi Hồn"
+    },
+    "1526.name": {
+      "source": "虫之魂",
+      "target": "Trùng Chi Hồn"
+    },
+    "1527.name": {
+      "source": "蚁兽之魂",
+      "target": "Nghị Thú Chi Hồn"
+    },
+    "1528.name": {
+      "source": "沙虫之魂",
+      "target": "Sa Trùng Chi Hồn"
+    },
+    "1529.name": {
+      "source": "招财兽",
+      "target": "Chiêu Tài Thú"
+    },
+    "1530.name": {
+      "source": "囚牢卫士",
+      "target": "Tù Lao Vệ Sĩ"
+    },
+    "1531.name": {
+      "source": "波斯王子",
+      "target": "Hoàng Tử Ba Tư"
+    },
+    "1532.name": {
+      "source": "雷炎兽",
+      "target": "Lôi Viêm Thú"
+    },
+    "1533.name": {
+      "source": "铁血卫士",
+      "target": "Thiết Huyết Vệ Sĩ"
+    },
+    "1534.name": {
+      "source": "雷炎之蛇",
+      "target": "Lôi Viêm Chi Xà"
+    },
+    "1535.name": {
+      "source": "雷炎魔兽",
+      "target": "Lôi Viêm Ma Thú"
+    },
+    "1536.name": {
+      "source": "热血卫士",
+      "target": "Nhiệt Huyết Vệ Sĩ"
+    },
+    "1537.name": {
+      "source": "雷炎力士",
+      "target": "Lôi Viêm Lực Sĩ"
+    },
+    "1538.name": {
+      "source": "晶石",
+      "target": "Tinh Thạch"
+    },
+    "1539.name": {
+      "source": "失落戈登",
+      "target": "Gordon Thất Lạc"
+    },
+    "1540.name": {
+      "source": "失落骑士",
+      "target": "Kỵ Sĩ Thất Lạc"
+    },
+    "1541.name": {
+      "source": " 符魔者",
+      "target": "Phù Ma Giả"
+    },
+    "1542.name": {
+      "source": "利爪兽",
+      "target": "Thú Vuốt Sắc"
+    },
+    "1543.name": {
+      "source": "掘矿兽",
+      "target": "Thú Đào Mỏ"
+    },
+    "1544.name": {
+      "source": "魔化战士",
+      "target": "Chiến Binh Ma Hóa"
+    },
+    "1545.name": {
+      "source": "虫洞蜘蛛",
+      "target": "Nhện Lỗ Sâu"
+    },
+    "1546.name": {
+      "source": "魔化之兽",
+      "target": "Thú Ma Hóa"
+    },
+    "1547.name": {
+      "source": "炽天使",
+      "target": "Thiên Sứ Lửa"
+    },
+    "1548.name": {
+      "source": "谎言吉诺",
+      "target": "Gino Dối Trá"
+    },
+    "1549.name": {
+      "source": "奈兰将军",
+      "target": "Tướng Quân Nylan"
+    },
+    "1550.name": {
+      "source": "黑暗大圣像",
+      "target": "Đại Thánh Tượng Hắc Ám"
+    },
+    "1551.name": {
+      "source": "矿工头目",
+      "target": "Đầu Sỏ Thợ Mỏ"
+    },
+    "1552.name": {
+      "source": "狂暴巴尔",
+      "target": "Baal Cuồng Bạo"
+    },
+    "1553.name": {
+      "source": "巴尔随从",
+      "target": "Tùy Tùng Baal"
+    },
+    "1554.name": {
+      "source": "幻影祖玛教主",
+      "target": "Giáo Chủ Zuma Ảo Ảnh"
+    },
+    "1555.name": {
+      "source": "送宝雪人",
+      "target": "Người Tuyết Tặng Bảo"
+    },
+    "1556.name": {
+      "source": "财富",
+      "target": "Tài Phú"
+    },
+    "1557.name": {
+      "source": "邪恶雪人王",
+      "target": "Vua Người Tuyết Tà Ác"
+    },
+    "1558.name": {
+      "source": "邪恶雪人",
+      "target": "Người Tuyết Tà Ác"
+    },
+    "1559.name": {
+      "source": "武器马车",
+      "target": "Xe Ngựa Vũ Khí"
+    },
+    "1560.name": {
+      "source": "美女侍卫",
+      "target": "Thị Vệ Mỹ Nữ"
+    },
+    "1561.name": {
+      "source": "金钱兽",
+      "target": "Thú Tiền Tài"
+    },
+    "1562.name": {
+      "source": "圣塔神兽1层",
+      "target": "Thần Thú Thánh Tháp Tầng 1"
+    },
+    "1563.name": {
+      "source": "圣塔神兽2层",
+      "target": "Thần Thú Thánh Tháp Tầng 2"
+    },
+    "1564.name": {
+      "source": "圣塔神兽3层",
+      "target": "Thần Thú Thánh Tháp Tầng 3"
+    },
+    "1565.name": {
+      "source": "圣塔神兽4层",
+      "target": "Thần Thú Thánh Tháp Tầng 4"
+    },
+    "1566.name": {
+      "source": "圣塔神兽5层",
+      "target": "Thần Thú Thánh Tháp Tầng 5"
+    },
+    "1567.name": {
+      "source": "圣塔神兽6层",
+      "target": "Thần Thú Thánh Tháp Tầng 6"
+    },
+    "1568.name": {
+      "source": "圣塔神兽7层",
+      "target": "Thần Thú Thánh Tháp Tầng 7"
+    },
+    "1569.name": {
+      "source": "圣塔神兽8层",
+      "target": "Thần Thú Thánh Tháp Tầng 8"
+    },
+    "1570.name": {
+      "source": "圣塔神兽9层",
+      "target": "Thần Thú Thánh Tháp Tầng 9"
+    },
+    "1571.name": {
+      "source": "圣塔神兽10层",
+      "target": "Thần Thú Thánh Tháp Tầng 10"
+    },
+    "1572.name": {
+      "source": "圣塔神兽11层",
+      "target": "Thần Thú Thánh Tháp Tầng 11"
+    },
+    "1573.name": {
+      "source": "圣塔神兽12层",
+      "target": "Thần Thú Thánh Tháp Tầng 12"
+    },
+    "1574.name": {
+      "source": "火焰兽",
+      "target": "Hỏa Diễm Thú"
+    },
+    "1575.name": {
+      "source": "荒漠之王",
+      "target": "Vua Hoang Mạc"
+    },
+    "1576.name": {
+      "source": "变异神兽",
+      "target": "Thần Thú Biến Dị"
+    },
+    "1577.name": {
+      "source": "魔族统领",
+      "target": "Thống Lĩnh Ma Tộc"
+    },
+    "1578.name": {
+      "source": "香车美女",
+      "target": "Xe Đẹp Mỹ Nữ"
+    },
+    "1579.name": {
+      "source": "巴尔幻影",
+      "target": "Ảo Ảnh Baal"
+    },
+    "1580.name": {
+      "source": "恶魔小喽喽",
+      "target": "Lính Lác Ác Quỷ"
+    },
+    "1581.name": {
+      "source": "恶魔小队长",
+      "target": "Tiểu Đội Trưởng Ác Quỷ"
+    },
+    "1582.name": {
+      "source": "魔化统领",
+      "target": "Thống Lĩnh Ma Hóa"
+    },
+    "1583.name": {
+      "source": "殿堂统领",
+      "target": "Thống Lĩnh Điện Đường"
+    },
+    "1584.name": {
+      "source": "恶魔小喽喽1",
+      "target": "Lính Lác Ác Quỷ 1"
+    },
+    "1585.name": {
+      "source": "恶魔小队长1",
+      "target": "Tiểu Đội Trưởng Ác Quỷ 1"
+    },
+    "1586.name": {
+      "source": "触龙王",
+      "target": "Xúc Long Vương"
+    },
+    "1587.name": {
+      "source": "黄泉冥龙",
+      "target": "Hoàng Tuyền Minh Long"
+    },
+    "1588.name": {
+      "source": "骷髅魔王",
+      "target": "Khô Lâu Ma Vương"
+    },
+    "1589.name": {
+      "source": "魔龙护卫",
+      "target": "Hộ Vệ Ma Long"
+    },
+    "1590.name": {
+      "source": "荷花",
+      "target": "Hoa Sen"
+    },
+    "1591.name": {
+      "source": "年兽之王",
+      "target": "Niên Thú Vương"
+    },
+    "1592.name": {
+      "source": "小年兽",
+      "target": "Tiểu Niên Thú"
+    },
+    "1593.name": {
+      "source": "大财神",
+      "target": "Đại Tài Thần"
+    },
+    "1594.name": {
+      "source": "小财童",
+      "target": "Tiểu Tài Đồng"
+    },
+    "1595.name": {
+      "source": "烈焰神王",
+      "target": "Liệt Diễm Thần Vương"
+    },
+    "1596.name": {
+      "source": "血天使",
+      "target": "Huyết Thiên Sứ"
+    }
+  }
+}

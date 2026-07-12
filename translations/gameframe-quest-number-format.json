@@ -7,7 +7,8 @@
       "replacements": [
         {
           "source": "      public function QuestHlp()\n      {\n         super();\n      }\n      \n      public static function allDoingFormatQuestType()",
-          "target": "      public function QuestHlp()\n      {\n         super();\n      }\n      \n      private static function formatCompactCount(param1:Number) : String\n      {\n         var _loc2_:Number = NaN;\n         if(param1 < 10000)\n         {\n            return Math.floor(param1).toString();\n         }\n         _loc2_ = Math.round(param1 / 100) / 10;\n         return _loc2_.toString().replace(\".0\",\"\") + \"K\";\n      }\n      \n      public static function allDoingFormatQuestType()"
+          "target": "      public function QuestHlp()\n      {\n         super();\n      }\n      \n      private static function formatCompactCount(param1:Number) : String\n      {\n         var _loc2_:Number = NaN;\n         if(param1 < 10000)\n         {\n            return Math.floor(param1).toString();\n         }\n         _loc2_ = Math.round(param1 / 100) / 10;\n         return _loc2_.toString().replace(\".0\",\"\") + \"K\";\n      }\n      \n      public static function allDoingFormatQuestType()",
+          "verify_target": "      private static function formatCompactCount(param1:Number) : String\n      {\n         var _loc2_:Number = NaN;\n         if(param1 < 10000)\n         {\n            return Math.floor(param1).toString();\n         }\n         _loc2_ = Math.round(param1 / 100) / 10;\n         return _loc2_.toString().replace(\".0\",\"\") + \"K\";\n      }"
         },
         {"source": "         var _loc6_:String = _loc5_.toFixed(0);", "target": "         var _loc6_:String = formatCompactCount(_loc5_);"},
         {"source": "            return formatAwardName(param1) + \" +\" + param1.count;", "target": "            return formatAwardName(param1) + \" +\" + formatCompactCount(param1.count);"},

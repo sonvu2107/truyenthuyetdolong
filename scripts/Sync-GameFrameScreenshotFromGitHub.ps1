@@ -39,7 +39,7 @@ try {
     $manifest = Get-Content -LiteralPath $manifestFile -Raw -Encoding UTF8 | ConvertFrom-Json
     $manifestFiles = @($manifest.files)
 
-    if ($manifest.version -ne '20260712uifit5' -or $manifestFiles.Count -ne $expectedFiles.Count) {
+    if ($manifest.version -ne '20260712uifit6' -or $manifestFiles.Count -ne $expectedFiles.Count) {
         throw 'Manifest screenshot UI khong dung version hoac pham vi.'
     }
     for ($index = 0; $index -lt $expectedFiles.Count; $index++) {

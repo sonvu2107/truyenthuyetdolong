@@ -74,8 +74,11 @@ def verify_source_catalogs(roots: list[Path], catalog_paths: list[Path]) -> list
                 raise VerifyError(f"Thiếu path trong {catalog_path}")
             content = find_source_file(roots, relative).read_text(encoding="utf-8-sig")
             for replacement in file_entry.get("replacements", []):
-                target = replacement.get("target")
-                expected_count = replacement.get("target_expected", replacement.get("expected", 1))
+                target = replacement.get("verify_target", replacement.get("target"))
+                expected_count = replacement.get(
+                    "verify_expected",
+                    replacement.get("target_expected", replacement.get("expected", 1)),
+                )
                 if not isinstance(target, str) or not isinstance(expected_count, int):
                     raise VerifyError(f"Replacement không hợp lệ trong {catalog_path}:{relative}")
                 actual_count = content.count(target)
