@@ -27418,7 +27418,7 @@
           "key": "desc159",
           "occurrence": 1,
           "source": "继续对话<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>.",
-          "target": "继续对话<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>."
+          "target": "Tiếp tục nói chuyện với <Druid Hắc Ám/M世界要塞二层:239:190:暗黑德鲁伊>."
         },
         {
           "key": "desc16",
@@ -27430,55 +27430,55 @@
           "key": "desc160",
           "occurrence": 1,
           "source": "消灭洛萨血魔后回复<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>.",
-          "target": "消灭洛萨血魔后回复<暗黑德鲁伊/M世界要塞二层:239:190:暗黑德鲁伊>."
+          "target": "Diệt Huyết Ma Lothar rồi báo <Druid Hắc Ám/M世界要塞二层:239:190:暗黑德鲁伊>."
         },
         {
           "key": "desc161",
           "occurrence": 1,
           "source": "找到<大天使/M世界要塞二层:66:225:大天使>.",
-          "target": "找到<大天使/M世界要塞二层:66:225:大天使>."
+          "target": "Tìm <Đại Thiên Sứ/M世界要塞二层:66:225:大天使>."
         },
         {
           "key": "desc162",
           "occurrence": 1,
           "source": "找到前方的<天启者/M世界要塞二层:144:215:天启者>.",
-          "target": "找到前方的<天启者/M世界要塞二层:144:215:天启者>."
+          "target": "Tìm <Kẻ Khải Huyền/M世界要塞二层:144:215:天启者> phía trước."
         },
         {
           "key": "desc163",
           "occurrence": 1,
           "source": "消灭来袭的邪恶戈登后回复<天启者/M世界要塞二层:144:215:天启者>.",
-          "target": "消灭来袭的邪恶戈登后回复<天启者/M世界要塞二层:144:215:天启者>."
+          "target": "Diệt Gordon Tà Ác tấn công rồi báo <Kẻ Khải Huyền/M世界要塞二层:144:215:天启者>."
         },
         {
           "key": "desc164",
           "occurrence": 1,
           "source": "继续对话<大天使/M世界要塞二层:66:225:大天使>.:144:215:天启者>.>.",
-          "target": "继续对话<大天使/M世界要塞二层:66:225:大天使>.:144:215:天启者>.>."
+          "target": "Tiếp tục nói chuyện với <Đại Thiên Sứ/M世界要塞二层:66:225:大天使>."
         },
         {
           "key": "desc165",
           "occurrence": 1,
           "source": "消灭爆裂怒加后回复<大天使/M世界要塞二层:66:225:大天使>.",
-          "target": "消灭爆裂怒加后回复<大天使/M世界要塞二层:66:225:大天使>."
+          "target": "Diệt Nộ Già Bạo Liệt rồi báo <Đại Thiên Sứ/M世界要塞二层:66:225:大天使>."
         },
         {
           "key": "desc166",
           "occurrence": 1,
           "source": "去圣城找到<凯恩/M圣城:220:180:凯恩>.",
-          "target": "去圣城找到<凯恩/M圣城:220:180:凯恩>."
+          "target": "Đến Thánh Thành, tìm <Cain/M圣城:220:180:凯恩>."
         },
         {
           "key": "desc167",
           "occurrence": 1,
           "source": "消灭丛林小恶魔后对话<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>.",
-          "target": "消灭丛林小恶魔后对话<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>."
+          "target": "Diệt Tiểu Ác Quỷ Rừng rồi nói chuyện với <Hratli/M幽暗丛林:153:127:赫拉铁力>."
         },
         {
           "key": "desc168",
           "occurrence": 1,
           "source": "消灭嗜血甲虫后对话<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>.",
-          "target": "消灭嗜血甲虫后对话<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>."
+          "target": "Diệt Bọ Cánh Cứng Khát Máu rồi nói chuyện với <Kẻ Diệt Ma/M幽暗丛林:124:108:恶魔杀手>."
         },
         {
           "key": "desc169",
