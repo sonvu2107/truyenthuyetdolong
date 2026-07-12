@@ -1298,7 +1298,7 @@
           "key": "n00003",
           "occurrence": 1,
           "source": "我是王城皇宫的行政官员,专门负责行会的一切日常事务.\\\\\\\\光环是行会专属功能,专给行会成员提供强大的buff.\\\\开启光环需要消耗行会资金.\\\\<(c0xFFFF0000)光环无法叠加!>",
-          "target": "我是王城皇宫的行政官员,专门负责行会的一切日常事务.\\\\\\\\光环是行会专属功能,专给行会成员提供强大的buff.\\\\开启光环需要消耗行会资金.\\\\<(c0xFFFF0000)光环无法叠加!>"
+          "target": "Ta là quan hành chính Hoàng Cung Vương Thành, phụ trách mọi việc thường nhật của Bang Hội.\\\\\\\\Hào Quang là chức năng riêng của Bang Hội, tăng buff mạnh cho thành viên.\\\\Mở Hào Quang tốn Quỹ Bang Hội.\\\\<(c0xFFFF0000)Hào Quang không cộng dồn!>"
         },
         {
           "key": "n00004",
@@ -1310,7 +1310,7 @@
           "key": "n00005",
           "occurrence": 1,
           "source": "1.活动时间为:周三、周日的18:30-19:00\\\\2.活动等级为:40级\\\\3.进入活动后将随机分配到一个阵营\\\\4.杀死敌对阵营可以获得个人积分和阵营积分\\\\5.在活动中死亡不掉落任何物品\\\\6.PK模式为强制阵营模式,玩家参加活动无需更改PK模式",
-          "target": "1.活动时间为:周三、周日的18:30-19:00\\\\2.活动等级为:40级\\\\3.进入活动后将随机分配到一个阵营\\\\4.杀死敌对阵营可以获得个人积分和阵营积分\\\\5.在活动中死亡不掉落任何物品\\\\6.PK模式为强制阵营模式,玩家参加活动无需更改PK模式"
+          "target": "1. Thời gian: Thứ 4, Chủ Nhật 18:30-19:00\\\\2. Cấp yêu cầu: 40\\\\3. Vào sự kiện sẽ ngẫu nhiên vào một phe\\\\4. Diệt phe đối địch nhận Điểm Cá Nhân và Điểm Phe\\\\5. Chết trong sự kiện không rơi đồ\\\\6. PK bắt buộc theo phe, không cần đổi chế độ PK"
         },
         {
           "key": "n00006",
@@ -1328,7 +1328,7 @@
           "key": "n00008",
           "occurrence": 1,
           "source": "<(c0xFFFF0000)提示:>\\\\1.活动开启10分钟后将不能进入活动\\\\2.活动开启10分钟后才能申请暗黑屠龙\\\\3.活动开启10分钟之后,场上仅存活1人才能成为暗黑屠龙",
-          "target": "<(c0xFFFF0000)提示:>\\\\1.活动开启10分钟后将不能进入活动\\\\2.活动开启10分钟后才能申请暗黑屠龙\\\\3.活动开启10分钟之后,场上仅存活1人才能成为暗黑屠龙"
+          "target": "<(c0xFFFF0000)Gợi ý:>\\\\1. Sau 10 phút không thể vào sự kiện\\\\2. Sau 10 phút mới được đăng ký Ám Hắc Đồ Long\\\\3. Sau 10 phút, chỉ người sống sót cuối cùng mới thành Ám Hắc Đồ Long"
         },
         {
           "key": "n00009",
@@ -1346,7 +1346,7 @@
           "key": "n00011",
           "occurrence": 1,
           "source": "我是龙影坛指引人,您带齐了药品没?没?!来我这里买吧.\\\\注意,打死BOSS会有惊喜的,当然也是凭实力的!",
-          "target": "我是龙影坛指引人,您带齐了药品没?没?!来我这里买吧.\\\\注意,打死BOSS会有惊喜的,当然也是凭实力的!"
+          "target": "Ta là người hướng dẫn Long Ảnh Đàn. Đủ thuốc chưa? Chưa thì mua tại ta!\\\\Lưu ý: Diệt Boss có bất ngờ, nhưng phải đủ thực lực!"
         },
         {
           "key": "n00012",
@@ -1358,7 +1358,7 @@
           "key": "n00013",
           "occurrence": 1,
           "source": "<#NR快去找个师傅带你玩吧!#>需拜师升到2转并与师傅亲密度达到10000才可领取出师奖励!",
-          "target": "<#NR快去找个师傅带你玩吧!#>需拜师升到2转并与师傅亲密度达到10000才可领取出师奖励!"
+          "target": "<#NRTìm một sư phụ dẫn dắt đi!#>Cần bái sư lên CS 2 và thân mật với sư phụ đạt 10K để nhận thưởng xuất sư!"
         },
         {
           "key": "n00014",
