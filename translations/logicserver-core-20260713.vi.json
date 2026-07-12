@@ -40160,49 +40160,49 @@
           "key": "n105",
           "occurrence": 1,
           "source": "堕落法杖",
-          "target": "堕落法杖"
+          "target": "Pháp Trượng Đọa Lạc"
         },
         {
           "key": "i105",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落法杖> 可以合成一个 <(c0xFFFF6600)嗜血法杖>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落法杖> 可以合成一个 <(c0xFFFF6600)嗜血法杖>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Pháp Trượng Đọa Lạc> hợp thành <(c0xFFFF6600)Pháp Trượng Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n106",
           "occurrence": 1,
           "source": "堕落法袍(男)",
-          "target": "堕落法袍(男)"
+          "target": "Pháp Bào Đọa Lạc (Nam)"
         },
         {
           "key": "i106",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落法袍(男)> 可以合成一个 <(c0xFFFF6600)嗜血法袍(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落法袍(男)> 可以合成一个 <(c0xFFFF6600)嗜血法袍(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Pháp Bào Đọa Lạc (Nam)> hợp thành <(c0xFFFF6600)Pháp Bào Khát Máu (Nam)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n107",
           "occurrence": 1,
           "source": "堕落法袍(女)",
-          "target": "堕落法袍(女)"
+          "target": "Pháp Bào Đọa Lạc (Nữ)"
         },
         {
           "key": "i107",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落法袍(女)> 可以合成一个 <(c0xFFFF6600)嗜血法袍(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落法袍(女)> 可以合成一个 <(c0xFFFF6600)嗜血法袍(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Pháp Bào Đọa Lạc (Nữ)> hợp thành <(c0xFFFF6600)Pháp Bào Khát Máu (Nữ)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n108",
           "occurrence": 1,
           "source": "堕落头盔",
-          "target": "堕落头盔"
+          "target": "Mũ Đọa Lạc"
         },
         {
           "key": "i108",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落头盔> 可以合成一个 <(c0xFFFF6600)嗜血头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落头盔> 可以合成一个 <(c0xFFFF6600)嗜血头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Đọa Lạc> hợp thành <(c0xFFFF6600)Mũ Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n109",
