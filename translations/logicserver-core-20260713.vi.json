@@ -27286,7 +27286,7 @@
           "key": "desc139",
           "occurrence": 1,
           "source": "消灭巴洛克血鹰后回复<要塞军长/M世界要塞:178:94:要塞军长>.",
-          "target": "消灭巴洛克血鹰后回复<要塞军长/M世界要塞:178:94:要塞军长>."
+          "target": "Diệt Huyết Ưng Baroque rồi báo <Quân Trưởng Pháo Đài/M世界要塞:178:94:要塞军长>."
         },
         {
           "key": "desc14",
@@ -27298,55 +27298,55 @@
           "key": "desc140",
           "occurrence": 1,
           "source": "继续对话<要塞军长/M世界要塞:178:94:要塞军长>.",
-          "target": "继续对话<要塞军长/M世界要塞:178:94:要塞军长>."
+          "target": "Tiếp tục nói chuyện với <Quân Trưởng Pháo Đài/M世界要塞:178:94:要塞军长>."
         },
         {
           "key": "desc141",
           "occurrence": 1,
           "source": "消灭黑暗堕魔<要塞军长/M世界要塞:178:94:要塞军长>.",
-          "target": "消灭黑暗堕魔<要塞军长/M世界要塞:178:94:要塞军长>."
+          "target": "Diệt Hắc Ám Đọa Ma rồi gặp <Quân Trưởng Pháo Đài/M世界要塞:178:94:要塞军长>."
         },
         {
           "key": "desc142",
           "occurrence": 1,
           "source": "去二层找到<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>.",
-          "target": "去二层找到<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>."
+          "target": "Đến tầng 2, tìm <Lính Gác Pháo Đài/M世界要塞二层:165:45:要塞卫兵>."
         },
         {
           "key": "desc143",
           "occurrence": 1,
           "source": "继续对话<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>.",
-          "target": "继续对话<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>."
+          "target": "Tiếp tục nói chuyện với <Lính Gác Pháo Đài/M世界要塞二层:165:45:要塞卫兵>."
         },
         {
           "key": "desc144",
           "occurrence": 1,
           "source": "消灭甲虫恶魔后回复<恶魔屠夫/M世界要塞二层:187:100:恶魔屠夫>.",
-          "target": "消灭甲虫恶魔后回复<恶魔屠夫/M世界要塞二层:187:100:恶魔屠夫>."
+          "target": "Diệt Ác Quỷ Bọ Cánh Cứng rồi báo <Đồ Tể Ác Quỷ/M世界要塞二层:187:100:恶魔屠夫>."
         },
         {
           "key": "desc145",
           "occurrence": 1,
           "source": "继续对话<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>.",
-          "target": "继续对话<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>."
+          "target": "Tiếp tục nói chuyện với <Lính Gác Pháo Đài/M世界要塞二层:165:45:要塞卫兵>."
         },
         {
           "key": "desc146",
           "occurrence": 1,
           "source": "消灭死神魔蛇后回复<恶魔屠夫/M世界要塞二层:187:100:恶魔屠夫>.",
-          "target": "消灭死神魔蛇后回复<恶魔屠夫/M世界要塞二层:187:100:恶魔屠夫>."
+          "target": "Diệt Ma Xà Tử Thần rồi báo <Đồ Tể Ác Quỷ/M世界要塞二层:187:100:恶魔屠夫>."
         },
         {
           "key": "desc147",
           "occurrence": 1,
           "source": "继续对话<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>.",
-          "target": "继续对话<要塞卫兵/M世界要塞二层:165:45:要塞卫兵>."
+          "target": "Tiếp tục nói chuyện với <Lính Gác Pháo Đài/M世界要塞二层:165:45:要塞卫兵>."
         },
         {
           "key": "desc148",
           "occurrence": 1,
           "source": "消灭恶魔鬼后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>.",
-          "target": "消灭恶魔鬼后回复<寒冰女巫/M世界要塞二层:121:143:寒冰女巫>."
+          "target": "Diệt Quỷ Ác Ma rồi báo <Nữ Phù Thủy Băng/M世界要塞二层:121:143:寒冰女巫>."
         },
         {
           "key": "desc149",
