@@ -93,10 +93,13 @@ Quy chuẩn câu chữ gốc nằm tại `translations/VI_STYLE_GUIDE.md`.
 - `items.cbp` trong `cbp.zip` là payload zlib ngoài (không có header CBP), còn `EquipExchange.cbp` dùng text không phải UTF-8. Hai file không thuộc nhóm Phúc Lợi đã sửa và không được phép tái mã hóa bằng parser UTF-8 hiện tại; ZIP vẫn đọc CRC hoàn toàn.
 - SWF hiện hành đã áp một phần catalog UI cũ. `tools/apply_swf_ui_overrides.py` nay ghi nhận trạng thái `already_compatible` có kiểm soát, chỉ chấp nhận source/target từ catalog được truyền rõ ràng; giá trị lạ vẫn chặn build.
 
-### Chưa chuyển sang asset/deploy
+### Deploy UI riêng — hoàn tất 2026-07-12
 
-- Chưa chép staging SWF sang `assets/GameFrame.swf`, chưa tăng manifest, commit hoặc deploy. Cần QA trực quan bằng client có phiên đăng nhập trước.
-- `assets/manifest.json` đang lệch hash ở 7 file admin có sẵn trong worktree. Cập nhật manifest ở thời điểm này sẽ đưa thay đổi admin ngoài phạm vi vào gói deploy UI, nên được giữ nguyên chờ tách đợt thay đổi.
+- Đã commit/push `5ef1f88` và deploy gói riêng `20260712uifit2` bằng `Sync-GameFrameUiFromGitHub.ps1`; gói chỉ chứa `GameFrame.swf`, không đưa file admin vào VPS.
+- VPS đã sao lưu `GameFrame.swf` cùng `game/SPDef.php` tại `C:\GPHANTL\server\GPHweb\wwwroot\_deploy_backups\gameframe_ui_20260712_221214`.
+- Hash file trên VPS và HTTP công khai đều là `C18885B8AC073EFF39E3C8F612402C38393C4379FBF5AF668387DDE7697D5D45`; `GAMEAPPURL` dùng cache-bust `v=20260712uifit2`.
+- `assets/manifest.json` tổng vẫn giữ nguyên vì đang lệch hash ở 7 file admin có sẵn trong worktree; gói UI dùng manifest riêng nên không trộn thay đổi admin vào deploy.
+- Còn QA trực quan trong client VPS theo ma trận Bước 5; phát hiện mới phải quay về catalog/build, không vá binary trực tiếp.
 
 ## Bước 0 — Chuẩn bị baseline có thể lặp lại
 
