@@ -2360,13 +2360,13 @@
           "key": "zhql0016",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)夺宝迷城（%d转%d级）>开组,<(n%s)>邀请各位勇士一起探索宝藏!<快速进队/j,%s>",
-          "target": "<(c0xFF00FF00)夺宝迷城（%d转%d级）>开组,<(n%s)>邀请各位勇士一起探索宝藏!<快速进队/j,%s>"
+          "target": "<(c0xFF00FF00)Mê Thành Đoạt Bảo (CS %d Cấp %d)> mở đội, <(n%s)> mời các dũng sĩ cùng khám phá kho báu!<Vào Đội Nhanh/j,%s>"
         },
         {
           "key": "zhql0017",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)夺宝迷城（%d级）>开组,<(n%s)>邀请各位勇士一起探索宝藏!<快速进队/j,%s>",
-          "target": "<(c0xFF00FF00)夺宝迷城（%d级）>开组,<(n%s)>邀请各位勇士一起探索宝藏!<快速进队/j,%s>"
+          "target": "<(c0xFF00FF00)Mê Thành Đoạt Bảo (Cấp %d)> mở đội, <(n%s)> mời các dũng sĩ cùng khám phá kho báu!<Vào Đội Nhanh/j,%s>"
         },
         {
           "key": "zhql0018",
