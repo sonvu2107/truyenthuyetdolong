@@ -34,6 +34,13 @@ try {
     if ($manifest.version -ne $ExpectedVersion) {
         throw "Unexpected manifest version: $($manifest.version)"
     }
+    if ($manifest.blocked -eq $true) {
+        $reason = [string]$manifest.block_reason
+        if ([string]::IsNullOrWhiteSpace($reason)) {
+            $reason = 'No reason was supplied.'
+        }
+        throw "LogicServer language deployment is blocked: $reason"
+    }
 
     $downloads = @()
     foreach ($entry in $manifest.files) {

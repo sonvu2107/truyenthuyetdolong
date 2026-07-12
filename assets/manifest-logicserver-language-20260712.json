@@ -1,5 +1,7 @@
 {
   "version": "20260712logicvi1",
+  "blocked": true,
+  "block_reason": "2026-07-13: Gói dịch hàng loạt làm LogicServer không nạp được Lua language config. Không được deploy lại; chỉ dùng catalog phía client cho đến khi có trình xác thực Lua và QA từng entry.",
   "files": [
     {
       "source": "assets/logicserver-language/Zh-CN/NormalTalk.txt",
