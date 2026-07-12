@@ -27016,13 +27016,13 @@
           "key": "desc0",
           "occurrence": 1,
           "source": "与<任务王/M边界村:23:32:任务王>的交谈,了解发生在这个大陆里的传奇故事.",
-          "target": "与<任务王/M边界村:23:32:任务王>的交谈,了解发生在这个大陆里的传奇故事."
+          "target": "Nói chuyện với <Vua Nhiệm Vụ/M边界村:23:32:任务王> để tìm hiểu truyền thuyết của đại lục này."
         },
         {
           "key": "desc1",
           "occurrence": 1,
           "source": "找到<村长/M边界村:101:108:村长>了解发生在这个大陆里的黑暗动荡.",
-          "target": "找到<村长/M边界村:101:108:村长>了解发生在这个大陆里的黑暗动荡."
+          "target": "Tìm <Trưởng Làng/M边界村:101:108:村长> để tìm hiểu biến động hắc ám ở đại lục này."
         },
         {
           "key": "desc10",
@@ -27688,7 +27688,7 @@
           "key": "desc2",
           "occurrence": 1,
           "source": "找到前方的小蝶.",
-          "target": "找到前方的小蝶."
+          "target": "Tìm Tiểu Điệp ở phía trước."
         },
         {
           "key": "desc20",
@@ -28354,7 +28354,7 @@
           "key": "desc3",
           "occurrence": 1,
           "source": "找到月儿.",
-          "target": "找到月儿."
+          "target": "Tìm Nguyệt Nhi."
         },
         {
           "key": "desc30",
@@ -29020,7 +29020,7 @@
           "key": "desc4",
           "occurrence": 1,
           "source": "消灭前方的稻草魔人.",
-          "target": "消灭前方的稻草魔人."
+          "target": "Tiêu diệt Ma Nhân Bù Nhìn phía trước."
         },
         {
           "key": "desc40",
@@ -29638,7 +29638,7 @@
           "key": "desc5",
           "occurrence": 1,
           "source": "进入骷髅洞探查.",
-          "target": "进入骷髅洞探查."
+          "target": "Vào Hang Xương Khô để thăm dò."
         },
         {
           "key": "desc50",
@@ -29998,7 +29998,7 @@
           "key": "desc6",
           "occurrence": 1,
           "source": "猎杀骷髅战士后回复<嗜魔灵/M骷髅洞:99:90:嗜魔灵>.",
-          "target": "猎杀骷髅战士后回复<嗜魔灵/M骷髅洞:99:90:嗜魔灵>."
+          "target": "Săn Chiến Sĩ Xương Khô rồi báo <Linh Thị Ma/M骷髅洞:99:90:嗜魔灵>."
         },
         {
           "key": "desc60",
@@ -30064,7 +30064,7 @@
           "key": "desc7",
           "occurrence": 1,
           "source": "拜访前方的<破军/M骷髅洞:137:35:破军>.",
-          "target": "拜访前方的<破军/M骷髅洞:137:35:破军>."
+          "target": "Ghé gặp <Phá Quân/M骷髅洞:137:35:破军> phía trước."
         },
         {
           "key": "desc70",
@@ -30130,7 +30130,7 @@
           "key": "desc8",
           "occurrence": 1,
           "source": "继续对话<破军/M骷髅洞:137:35:破军>.",
-          "target": "继续对话<破军/M骷髅洞:137:35:破军>."
+          "target": "Tiếp tục nói chuyện với <Phá Quân/M骷髅洞:137:35:破军>."
         },
         {
           "key": "desc80",
@@ -30796,7 +30796,7 @@
           "key": "desc9",
           "occurrence": 1,
           "source": "消灭骷髅战将后找到<破军/M骷髅洞:137:35:破军>.话.白日门勇士>对话.",
-          "target": "消灭骷髅战将后找到<破军/M骷髅洞:137:35:破军>.话.白日门勇士>对话."
+          "target": "Diệt Tướng Xương Khô rồi tìm <Phá Quân/M骷髅洞:137:35:破军>. Nói chuyện với Dũng Sĩ Bạch Nhật Môn."
         },
         {
           "key": "desc90",
