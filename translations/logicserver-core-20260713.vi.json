@@ -27908,51 +27908,51 @@
         },
         {
           "key": "desc232",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "继续对话<特鲁娜/M失落之塔:76:76:特鲁娜>.",
-          "target": "继续对话<特鲁娜/M失落之塔:76:76:特鲁娜>."
+          "target": "Tiếp tục nói chuyện với <Truna/M失落之塔:76:76:特鲁娜>."
         },
         {
           "key": "desc233",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭巴洛克后找到<特鲁娜/M失落之塔:76:76:特鲁娜>交付.",
-          "target": "消灭巴洛克后找到<特鲁娜/M失落之塔:76:76:特鲁娜>交付."
+          "target": "Diệt Balok rồi báo <Truna/M失落之塔:76:76:特鲁娜>."
         },
         {
           "key": "desc234",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "拜访<魔导帕蒂/M勇者大陆:116:144:魔导帕蒂>对话.",
-          "target": "拜访<魔导帕蒂/M勇者大陆:116:144:魔导帕蒂>对话."
+          "target": "Ghé nói chuyện với <Đại Ma Đạo Sư Patty/M勇者大陆:116:144:魔导帕蒂>."
         },
         {
           "key": "desc235",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "找到在圣城的<接引者/M圣城:50:358:接引者>.",
-          "target": "找到在圣城的<接引者/M圣城:50:358:接引者>."
+          "target": "Tìm <Người Dẫn Đường/M圣城:50:358:接引者> tại Thánh Thành."
         },
         {
           "key": "desc236",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "拜访<奥斯玛/M王城:84:66:奥斯玛>.",
-          "target": "拜访<奥斯玛/M王城:84:66:奥斯玛>."
+          "target": "Ghé <Osma/M王城:84:66:奥斯玛>."
         },
         {
           "key": "desc237",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "对话<猎户沙雅/M屠龙城:110:120:猎户沙雅>.",
-          "target": "对话<猎户沙雅/M屠龙城:110:120:猎户沙雅>."
+          "target": "Nói chuyện với <Thợ Săn Shaya/M屠龙城:110:120:猎户沙雅>."
         },
         {
           "key": "desc238",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "去黑暗森林找到皇家圣骑.",
-          "target": "去黑暗森林找到皇家圣骑."
+          "target": "Đến Rừng Hắc Ám, tìm Thánh Kỵ Hoàng Gia."
         },
         {
           "key": "desc239",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "拜访<国王骑士/M屠龙城:103:55:国王骑士>.",
-          "target": "拜访<国王骑士/M屠龙城:103:55:国王骑士>."
+          "target": "Ghé <Kỵ Sĩ Hoàng Gia/M屠龙城:103:55:国王骑士>."
         },
         {
           "key": "desc24",
@@ -27962,15 +27962,15 @@
         },
         {
           "key": "desc240",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭炼狱魔仆.",
-          "target": "消灭炼狱魔仆."
+          "target": "Diệt Lâu La Ma Luyện Ngục."
         },
         {
           "key": "desc241",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "继续对话沙漠佣兵",
-          "target": "继续对话沙漠佣兵"
+          "target": "Tiếp tục nói chuyện với Lính Đánh Thuê Sa Mạc"
         },
         {
           "key": "desc242",
