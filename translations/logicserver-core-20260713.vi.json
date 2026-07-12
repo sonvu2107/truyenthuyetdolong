@@ -28172,27 +28172,27 @@
         },
         {
           "key": "desc272",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "人皇会敕旨派兵前去支援,把大军支援的消息带给<伏魔元帅/M伏魔谷:57:37:伏魔元帅>.",
-          "target": "人皇会敕旨派兵前去支援,把大军支援的消息带给<伏魔元帅/M伏魔谷:57:37:伏魔元帅>."
+          "target": "Nhân Hoàng sẽ ban chiếu phái quân chi viện. Hãy báo tin này cho <Nguyên Soái Hàng Ma/M伏魔谷:57:37:伏魔元帅>."
         },
         {
           "key": "desc273",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "了解魔神巴尔的信息",
-          "target": "了解魔神巴尔的信息"
+          "target": "Tìm hiểu tin tức về Ma Thần Baal"
         },
         {
           "key": "desc274",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物魔神近卫后找到督军交付.",
-          "target": "消灭怪物魔神近卫后找到督军交付."
+          "target": "Diệt Cận Vệ Ma Thần rồi báo Đốc Quân."
         },
         {
           "key": "desc275",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭死神魔蛇后找到阿卡拉交付.",
-          "target": "消灭死神魔蛇后找到阿卡拉交付."
+          "target": "Diệt Ma Xà Tử Thần rồi báo Akara."
         },
         {
           "key": "desc276",
@@ -28202,21 +28202,21 @@
         },
         {
           "key": "desc277",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "对话阿卡拉了解避难所往事.",
-          "target": "对话阿卡拉了解避难所往事."
+          "target": "Nói chuyện với Akara để tìm hiểu chuyện xưa Khu Tị Nạn."
         },
         {
           "key": "desc278",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "回去找到<任务使者/M屠龙城:134:130:任务使者>.",
-          "target": "回去找到<任务使者/M屠龙城:134:130:任务使者>."
+          "target": "Quay về tìm <Sứ Giả Nhiệm Vụ/M屠龙城:134:130:任务使者>."
         },
         {
           "key": "desc279",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "等级达到66后找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话.",
-          "target": "等级达到66后找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话."
+          "target": "Đạt cấp 66 rồi nói chuyện với <Sát Thủ Ác Quỷ/M幽暗丛林:133:123:恶魔杀手>."
         },
         {
           "key": "desc28",
@@ -28226,21 +28226,21 @@
         },
         {
           "key": "desc280",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话.",
-          "target": "消灭怪物后找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话."
+          "target": "Diệt quái rồi nói chuyện với <Sát Thủ Ác Quỷ/M幽暗丛林:133:123:恶魔杀手>."
         },
         {
           "key": "desc281",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "等级达到68级后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "等级达到68级后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Đạt cấp 68 rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc282",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "消灭怪物后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc283",
