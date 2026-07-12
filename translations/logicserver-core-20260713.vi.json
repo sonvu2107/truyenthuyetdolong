@@ -548,7 +548,7 @@
           "key": "h00091",
           "occurrence": 1,
           "source": "烟花盛典大狂欢,使用烟花可为祈福树增加祈福值,当祈福值达到一定的值时,将开启全服经验加倍奖励.祈福值每日凌晨0点清零.",
-          "target": "烟花盛典大狂欢,使用烟花可为祈福树增加祈福值,当祈福值达到一定的值时,将开启全服经验加倍奖励.祈福值每日凌晨0点清零."
+          "target": "Lễ Hội Pháo Hoa: dùng pháo hoa tăng điểm cầu nguyện. Đủ mốc sẽ mở KN x2 toàn server. Điểm làm mới lúc 0:00."
         },
         {
           "key": "h00092",
@@ -2774,7 +2774,7 @@
           "key": "marry0049",
           "occurrence": 1,
           "source": "对方钱不够,无法进行结婚。",
-          "target": "对方钱不够,无法进行结婚。"
+          "target": "Đối phương không đủ tiền, không thể kết hôn."
         },
         {
           "key": "marry0050",
@@ -3194,7 +3194,7 @@
           "key": "uldt004",
           "occurrence": 1,
           "source": "退出副本",
-          "target": "退出副本"
+          "target": "Rời Phó Bản"
         },
         {
           "key": "uldt005",
@@ -3242,25 +3242,25 @@
           "key": "uldt012",
           "occurrence": 1,
           "source": "确认",
-          "target": "确认"
+          "target": "Xác Nhận"
         },
         {
           "key": "uldt013",
           "occurrence": 1,
           "source": "取消",
-          "target": "取消"
+          "target": "Hủy"
         },
         {
           "key": "uldt014",
           "occurrence": 1,
           "source": "花费元宝购买升级殿堂多倍经验",
-          "target": "花费元宝购买升级殿堂多倍经验"
+          "target": "Dùng Nguyên Bảo Mua KN XN Đại Sảnh"
         },
         {
           "key": "uldt015",
           "occurrence": 1,
           "source": "您当前元宝不足,不能领取!",
-          "target": "您当前元宝不足,不能领取!"
+          "target": "Không đủ Nguyên Bảo, không thể nhận!"
         },
         {
           "key": "uldt016",
@@ -3284,7 +3284,7 @@
           "key": "uldt019",
           "occurrence": 1,
           "source": "击杀场内所有怪物即可到入口NPC副本使者处领取大量经验奖励",
-          "target": "击杀场内所有怪物即可到入口NPC副本使者处领取大量经验奖励"
+          "target": "Diệt hết quái rồi đến NPC Sứ Giả Phó Bản ở cửa vào nhận nhiều KN."
         },
         {
           "key": "uldt020",
@@ -3296,7 +3296,7 @@
           "key": "uldt021",
           "occurrence": 1,
           "source": "恭喜副本通关,请到屠龙城副本使者处领取大量经验奖励!",
-          "target": "恭喜副本通关,请到屠龙城副本使者处领取大量经验奖励!"
+          "target": "Hoàn thành phó bản! Đến Sứ Giả Phó Bản Đồ Long Thành nhận nhiều KN."
         },
         {
           "key": "uldt022",
@@ -3320,13 +3320,13 @@
           "key": "uldt025",
           "occurrence": 1,
           "source": "您当前不是VIP玩家,可成为VIP后再领取",
-          "target": "您当前不是VIP玩家,可成为VIP后再领取"
+          "target": "Ngươi chưa là VIP. Hãy trở thành VIP rồi nhận."
         },
         {
           "key": "uldt026",
           "occurrence": 1,
           "source": "您是VIP,请领取VIP免费经验",
-          "target": "您是VIP,请领取VIP免费经验"
+          "target": "Ngươi là VIP, hãy nhận KN VIP miễn phí."
         },
         {
           "key": "uldt027",
@@ -3524,7 +3524,7 @@
           "key": "hdds008",
           "occurrence": 1,
           "source": "庆新服击杀极品BOSS活动",
-          "target": "庆新服击杀极品BOSS活动"
+          "target": "Săn Boss Hiếm Mừng Server Mới"
         },
         {
           "key": "hdds009",
