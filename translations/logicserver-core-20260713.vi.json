@@ -33490,7 +33490,7 @@
           "key": "name50",
           "occurrence": 1,
           "source": "技能大师",
-          "target": "技能大师"
+          "target": "Bậc Thầy Kỹ Năng"
         },
         {
           "key": "name500",
@@ -33556,7 +33556,7 @@
           "key": "name51",
           "occurrence": 1,
           "source": "堕落魔化",
-          "target": "堕落魔化"
+          "target": "Đọa Lạc Ma Hóa"
         },
         {
           "key": "name510",
@@ -33622,7 +33622,7 @@
           "key": "name52",
           "occurrence": 1,
           "source": "珠光宝气",
-          "target": "珠光宝气"
+          "target": "Châu Báu Lấp Lánh"
         },
         {
           "key": "name520",
@@ -33688,7 +33688,7 @@
           "key": "name53",
           "occurrence": 1,
           "source": "仓库使者",
-          "target": "仓库使者"
+          "target": "Sứ Giả Kho"
         },
         {
           "key": "name530",
@@ -33754,7 +33754,7 @@
           "key": "name54",
           "occurrence": 1,
           "source": "爱情使者",
-          "target": "爱情使者"
+          "target": "Sứ Giả Tình Yêu"
         },
         {
           "key": "name540",
@@ -33814,31 +33814,31 @@
           "key": "name55",
           "occurrence": 1,
           "source": "成人之美",
-          "target": "成人之美"
+          "target": "Làm Đẹp Ý Người"
         },
         {
           "key": "name56",
           "occurrence": 1,
           "source": "恶魔未灭",
-          "target": "恶魔未灭"
+          "target": "Ác Quỷ Chưa Diệt"
         },
         {
           "key": "name57",
           "occurrence": 1,
           "source": "祭司请求",
-          "target": "祭司请求"
+          "target": "Lời Thỉnh Cầu Của Tế Tư"
         },
         {
           "key": "name58",
           "occurrence": 1,
           "source": "魔法结界",
-          "target": "魔法结界"
+          "target": "Kết Giới Ma Pháp"
         },
         {
           "key": "name59",
           "occurrence": 1,
           "source": "劝说老板",
-          "target": "劝说老板"
+          "target": "Khuyên Chủ Tiệm"
         },
         {
           "key": "name6",
@@ -33850,61 +33850,61 @@
           "key": "name60",
           "occurrence": 1,
           "source": "进入崔凡克",
-          "target": "进入崔凡克"
+          "target": "Vào Travincal"
         },
         {
           "key": "name61",
           "occurrence": 1,
           "source": "嗜血恶魔",
-          "target": "嗜血恶魔"
+          "target": "Ác Quỷ Khát Máu"
         },
         {
           "key": "name62",
           "occurrence": 1,
           "source": "出手掩护",
-          "target": "出手掩护"
+          "target": "Ra Tay Hộ Tống"
         },
         {
           "key": "name63",
           "occurrence": 1,
           "source": "青火恶魔",
-          "target": "青火恶魔"
+          "target": "Ác Quỷ Lửa Xanh"
         },
         {
           "key": "name64",
           "occurrence": 1,
           "source": "沉沦大祭司",
-          "target": "沉沦大祭司"
+          "target": "Đại Tế Tư Trầm Luân"
         },
         {
           "key": "name65",
           "occurrence": 1,
           "source": "倾听诉说",
-          "target": "倾听诉说"
+          "target": "Lắng Nghe Tâm Sự"
         },
         {
           "key": "name66",
           "occurrence": 1,
           "source": "邪恶祭司",
-          "target": "邪恶祭司"
+          "target": "Tế Tư Tà Ác"
         },
         {
           "key": "name67",
           "occurrence": 1,
           "source": "祖玛之力",
-          "target": "祖玛之力"
+          "target": "Sức Mạnh Zuma"
         },
         {
           "key": "name68",
           "occurrence": 1,
           "source": "嗜血蝙蝠",
-          "target": "嗜血蝙蝠"
+          "target": "Dơi Khát Máu"
         },
         {
           "key": "name69",
           "occurrence": 1,
           "source": "光明之力",
-          "target": "光明之力"
+          "target": "Sức Mạnh Ánh Sáng"
         },
         {
           "key": "name7",
