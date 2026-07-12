@@ -2780,61 +2780,61 @@
           "key": "marry0050",
           "occurrence": 1,
           "source": "<(n%s)>与<(n%s)>的婚礼结束!",
-          "target": "<(n%s)>与<(n%s)>的婚礼结束!"
+          "target": "Hôn Lễ Của <(n%s)> và <(n%s)> Đã Kết Thúc!"
         },
         {
           "key": "marry0051",
           "occurrence": 1,
           "source": "离婚通知",
-          "target": "离婚通知"
+          "target": "Thông Báo Ly Hôn"
         },
         {
           "key": "marry0052",
           "occurrence": 1,
           "source": "%s与您终止了伴侣关系,很遗憾牵绊到此为止。祝您找到下一站幸福。",
-          "target": "%s与您终止了伴侣关系,很遗憾牵绊到此为止。祝您找到下一站幸福。"
+          "target": "%s đã chấm dứt quan hệ bạn đời với ngươi. Duyên phận đến đây kết thúc. Chúc ngươi sớm tìm được hạnh phúc mới."
         },
         {
           "key": "marry0053",
           "occurrence": 1,
           "source": "进入教堂",
-          "target": "进入教堂"
+          "target": "Vào Nhà Thờ"
         },
         {
           "key": "marry0054",
           "occurrence": 1,
           "source": "当前教堂内没有人举行婚礼",
-          "target": "当前教堂内没有人举行婚礼"
+          "target": "Không có hôn lễ nào trong Nhà Thờ."
         },
         {
           "key": "marry0055",
           "occurrence": 1,
           "source": "婚礼在游行阶段",
-          "target": "婚礼在游行阶段"
+          "target": "Hôn Lễ Đang Diễu Hành"
         },
         {
           "key": "marry0056",
           "occurrence": 1,
           "source": "结婚第二天0点后才能离婚!",
-          "target": "结婚第二天0点后才能离婚!"
+          "target": "Chỉ được ly hôn sau 0:00 ngày thứ hai kể từ khi cưới!"
         },
         {
           "key": "marry0057",
           "occurrence": 1,
           "source": "你成功领取了伴侣任务物品。",
-          "target": "你成功领取了伴侣任务物品。"
+          "target": "Đã nhận Vật Phẩm Nhiệm Vụ Đôi."
         },
         {
           "key": "marry0058",
           "occurrence": 1,
           "source": "睡觉当中不能传情",
-          "target": "睡觉当中不能传情"
+          "target": "Không thể nhắn tình khi đang ngủ."
         },
         {
           "key": "marry0059",
           "occurrence": 1,
           "source": "您没有行会",
-          "target": "您没有行会"
+          "target": "Ngươi Chưa Có Bang Hội"
         },
         {
           "key": "stbz0001",
@@ -2846,55 +2846,55 @@
           "key": "stbz0002",
           "occurrence": 1,
           "source": "快来拯救我们吧!",
-          "target": "快来拯救我们吧!"
+          "target": "Mau đến cứu chúng ta!"
         },
         {
           "key": "stbz0003",
           "occurrence": 1,
           "source": "我是圣堂神父,将为您开启圣堂大门",
-          "target": "我是圣堂神父,将为您开启圣堂大门"
+          "target": "Ta là Linh Mục Thánh Đường, sẽ mở cổng Thánh Đường cho ngươi."
         },
         {
           "key": "stbz0004",
           "occurrence": 1,
           "source": "主啊,快来解救我吧,我将给您丰富的宝藏!",
-          "target": "主啊,快来解救我吧,我将给您丰富的宝藏!"
+          "target": "Lạy Chúa, mau cứu ta! Ta sẽ thưởng kho báu hậu hĩnh!"
         },
         {
           "key": "stbz0005",
           "occurrence": 1,
           "source": "解救主教",
-          "target": "解救主教"
+          "target": "Cứu Giám Mục"
         },
         {
           "key": "stbz0006",
           "occurrence": 1,
           "source": "在我这里还可以购买大量药品帮助你!",
-          "target": "在我这里还可以购买大量药品帮助你!"
+          "target": "Ta cũng bán nhiều thuốc hỗ trợ ngươi!"
         },
         {
           "key": "stbz0007",
           "occurrence": 1,
           "source": "击杀所有强盗头目和他的团伙后才能解救我!",
-          "target": "击杀所有强盗头目和他的团伙后才能解救我!"
+          "target": "Phải diệt hết đầu lĩnh cướp và đồng bọn mới cứu được ta!"
         },
         {
           "key": "stbz0008",
           "occurrence": 1,
           "source": "圣堂大门已开启,请前去圣堂内击杀所有怪物后再解救圣堂主教吧!",
-          "target": "圣堂大门已开启,请前去圣堂内击杀所有怪物后再解救圣堂主教吧!"
+          "target": "Cổng Thánh Đường đã mở. Hãy vào diệt hết quái rồi cứu Giám Mục!"
         },
         {
           "key": "stbz0009",
           "occurrence": 1,
           "source": "只有队长才能解救主教!",
-          "target": "只有队长才能解救主教!"
+          "target": "Chỉ đội trưởng mới cứu được Giám Mục!"
         },
         {
           "key": "stbz0010",
           "occurrence": 1,
           "source": "副本介绍",
-          "target": "副本介绍"
+          "target": "Giới Thiệu Phó Bản"
         },
         {
           "key": "stbz0011",
@@ -2906,49 +2906,49 @@
           "key": "stbz0012",
           "occurrence": 1,
           "source": "开启圣堂大门",
-          "target": "开启圣堂大门"
+          "target": "Mở Cổng Thánh Đường"
         },
         {
           "key": "stbz0013",
           "occurrence": 1,
           "source": "清除场外所有怪物才能够开启圣堂大门!",
-          "target": "清除场外所有怪物才能够开启圣堂大门!"
+          "target": "Phải diệt hết quái bên ngoài mới mở được cổng Thánh Đường!"
         },
         {
           "key": "stbz0014",
           "occurrence": 1,
           "source": "只有队长才能开启",
-          "target": "只有队长才能开启"
+          "target": "Chỉ Đội Trưởng Mới Mở Được"
         },
         {
           "key": "stbz0015",
           "occurrence": 1,
           "source": "需要清除圣堂外所有怪物才可开启圣堂大门!",
-          "target": "需要清除圣堂外所有怪物才可开启圣堂大门!"
+          "target": "Phải diệt hết quái ngoài Thánh Đường mới mở được cổng!"
         },
         {
           "key": "stbz0016",
           "occurrence": 1,
           "source": "已成功清除场外所有怪物,请前往NPC圣堂神父处点击开启圣堂大门后进入圣堂内杀怪!",
-          "target": "已成功清除场外所有怪物,请前往NPC圣堂神父处点击开启圣堂大门后进入圣堂内杀怪!"
+          "target": "Đã diệt hết quái ngoài sân. Hãy đến NPC Linh Mục Thánh Đường mở cổng rồi vào diệt quái!"
         },
         {
           "key": "stbz0017",
           "occurrence": 1,
           "source": "已成功清除所有怪物,请前往NPC圣堂主教处点击解救主教后可获得大量绑金并副本通关!",
-          "target": "已成功清除所有怪物,请前往NPC圣堂主教处点击解救主教后可获得大量绑金并副本通关!"
+          "target": "Đã diệt hết quái. Đến NPC Giám Mục cứu ông ấy để nhận nhiều Vàng Khóa và hoàn thành phó bản!"
         },
         {
           "key": "stbz0018",
           "occurrence": 1,
           "source": "成功解救主教获得大量绑定金币,您可点击 离开 退出副本!",
-          "target": "成功解救主教获得大量绑定金币,您可点击 离开 退出副本!"
+          "target": "Đã cứu Giám Mục, nhận nhiều Vàng Khóa. Bấm Rời để thoát phó bản!"
         },
         {
           "key": "stbz0019",
           "occurrence": 1,
           "source": "您已进入圣堂宝藏副本,击杀怪物可获得大量绑定金币!",
-          "target": "您已进入圣堂宝藏副本,击杀怪物可获得大量绑定金币!"
+          "target": "Ngươi đã vào phó bản Kho Báu Thánh Đường, diệt quái nhận nhiều Vàng Khóa!"
         },
         {
           "key": "stbz0020",
@@ -2966,7 +2966,7 @@
           "key": "team0002",
           "occurrence": 1,
           "source": "我这里可购买大量药品",
-          "target": "我这里可购买大量药品"
+          "target": "Ta Bán Nhiều Thuốc"
         },
         {
           "key": "team0003",
@@ -2984,7 +2984,7 @@
           "key": "team0005",
           "occurrence": 1,
           "source": "完",
-          "target": "完"
+          "target": "Xong"
         },
         {
           "key": "team0006",
@@ -3032,7 +3032,7 @@
           "key": "bslg002",
           "occurrence": 1,
           "source": "击杀全部小怪可召唤出BOSS!",
-          "target": "击杀全部小怪可召唤出BOSS!"
+          "target": "Diệt hết quái nhỏ sẽ triệu hồi Boss!"
         },
         {
           "key": "bslg003",
