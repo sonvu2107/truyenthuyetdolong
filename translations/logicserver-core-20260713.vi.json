@@ -40064,49 +40064,49 @@
           "key": "n97",
           "occurrence": 1,
           "source": "黄金头盔",
-          "target": "黄金头盔"
+          "target": "Mũ Hoàng Kim"
         },
         {
           "key": "i97",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金头盔> 可以合成一个 <(c0xFFFF6600)卓越头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金头盔> 可以合成一个 <(c0xFFFF6600)卓越头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Hoàng Kim> hợp thành <(c0xFFFF6600)Mũ Trác Việt>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n98",
           "occurrence": 1,
           "source": "黄金项链",
-          "target": "黄金项链"
+          "target": "Dây Chuyền Hoàng Kim"
         },
         {
           "key": "i98",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金项链> 可以合成一个 <(c0xFFFF6600)卓越项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金项链> 可以合成一个 <(c0xFFFF6600)卓越项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Hoàng Kim> hợp thành <(c0xFFFF6600)Dây Chuyền Trác Việt>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n99",
           "occurrence": 1,
           "source": "黄金手镯",
-          "target": "黄金手镯"
+          "target": "Vòng Tay Hoàng Kim"
         },
         {
           "key": "i99",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金手镯> 可以合成一个 <(c0xFFFF6600)卓越手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金手镯> 可以合成一个 <(c0xFFFF6600)卓越手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Hoàng Kim> hợp thành <(c0xFFFF6600)Vòng Tay Trác Việt>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n100",
           "occurrence": 1,
           "source": "黄金腰带",
-          "target": "黄金腰带"
+          "target": "Đai Hoàng Kim"
         },
         {
           "key": "i100",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金腰带> 可以合成一个 <(c0xFFFF6600)卓越腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金腰带> 可以合成一个 <(c0xFFFF6600)卓越腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Hoàng Kim> hợp thành <(c0xFFFF6600)Đai Trác Việt>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n101",
