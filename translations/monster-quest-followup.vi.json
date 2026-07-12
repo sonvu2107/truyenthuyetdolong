@@ -1,0 +1,8 @@
+{
+  "format": 1,
+  "file": "monster.cbp",
+  "description": "Tên quái hiển thị tại Mục Tiêu nhiệm vụ; không thay khóa entityName tự tìm đường.",
+  "translations": {
+    "862.name": {"source": "魔化鸡", "target": "Gà Ma Hóa"}
+  }
+}

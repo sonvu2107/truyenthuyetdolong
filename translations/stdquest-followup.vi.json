@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "file": "stdquest.cbp",
+  "description": "Hoàn tất nội dung nhiệm vụ còn Hán ngoài payload route; giữ nguyên toàn bộ /Mscene:x:y:npc.",
+  "translations": {
+    "12.content": {"source": "消灭守护者遗忘骑士后找<骑士长/M群魔堡垒:94:123:骑士长>.神>交付.", "target": "Tiêu diệt Kỵ Sĩ Lãng Quên của Hộ Vệ rồi tìm <Kỵ Sĩ Trưởng/M群魔堡垒:94:123:骑士长> giao nhiệm vụ."},
+    "30.content": {"source": "运送宝藏到圣城后找到在圣城的<奥斯玛/M王城:84:66:奥斯玛>.", "target": "Hộ tống báu vật đến Thánh Thành, rồi tìm <Osma/M王城:84:66:奥斯玛>."},
+    "34.content": {"source": "消灭利爪爬怪后找到<流浪刺客/M邪恶的洞穴:83:71:流浪刺客>", "target": "Tiêu diệt Quái Bò Càng rồi tìm <Thích Khách Lang Thang/M邪恶的洞穴:83:71:流浪刺客>."},
+    "112.content": {"source": "请做各类好玩的副本升级吧.", "target": "Hãy hoàn thành Phó Bản để tăng cấp."},
+    "112.name": {"source": "副本使者", "target": "Sứ Giả Phó Bản"},
+    "122.content": {"source": "消灭前方的魔化鸡.", "target": "Tiêu diệt Gà Ma Hóa phía trước."},
+    "171.content": {"source": "运送宝藏到圣城后找到在圣城的<接引者/M圣城:50:358:接引者>.", "target": "Hộ tống báu vật đến Thánh Thành, rồi tìm <Người Dẫn Đường/M圣城:50:358:接引者>."}
+  }
+}

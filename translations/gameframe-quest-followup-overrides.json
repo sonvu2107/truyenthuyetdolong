@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "description": "Rút gọn KN và thống nhất tên tiền tệ trong phần thưởng Nhiệm Vụ.",
+  "overrides": {
+    "GameConst_Awards[0]": {"source": "Kinh Nghiệm", "target": "KN", "category": "reward"},
+    "GameConst_Awards[1]": {"source": "Kim Tệ", "target": "Vàng", "category": "currency"},
+    "GameConst_Awards[12]": {"source": "Kim Tệ Khóa", "target": "Xu khóa", "category": "currency"}
+  }
+}

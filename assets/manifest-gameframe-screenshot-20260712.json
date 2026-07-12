@@ -1,15 +1,15 @@
 {
-  "version": "20260712uifit3",
+  "version": "20260712uifit5",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "52658E0842259B62F1E3CE251120105AC3C3F5E4D3B4BBF8A2F6905D17E2B359"
+      "sha256": "56952F889B86DC3EA58CECDE99FA9776870A187E618173A065207B1BA8F82BB9"
     },
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "C88DA837EE1DC2C5D01079787345CB0886C449224C0BBACB8B0CF7B87C4919AF"
+      "sha256": "BC7442A7DB79D548DF2156BD4C40B7F24027D41F0676B2D7ECC3D60EC16643C3"
     }
   ]
 }
