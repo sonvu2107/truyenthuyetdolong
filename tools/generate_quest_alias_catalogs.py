@@ -62,6 +62,8 @@ def add_alias(
 
 def load_mappings(path: Path) -> tuple[dict[str, str], dict[str, str], list[dict[str, str]]]:
     data = json.loads(path.read_text(encoding="utf-8"))
+    if data.get("blocked") is True:
+        raise AliasError(f"Catalog LogicServer bị khóa: {path}")
     if data.get("format") != 1 or not isinstance(data.get("files"), dict):
         raise AliasError(f"Catalog LogicServer không hợp lệ: {path}")
     entities: dict[str, str] = {}

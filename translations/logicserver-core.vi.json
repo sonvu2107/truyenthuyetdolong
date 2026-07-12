@@ -1,5 +1,7 @@
 {
   "format": 1,
+  "blocked": true,
+  "block_reason": "Catalog legacy được tạo bởi parser không xử lý đúng Lua escaped quotes; không được apply hoặc dùng làm source cho build mới.",
   "description": "Việt hóa lõi LogicServer: thoại NPC, tên thực thể, nhiệm vụ và vật phẩm.",
   "files": {
     "NormalTalk.txt": {

@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "snapshot": "VPS LogicServer live baseline after rollback",
+  "captured_at": "2026-07-13",
+  "source": "C:\\GPHANTL\\server\\LogicServer\\data\\language\\Zh-CN",
+  "files": {
+    "NormalTalk.txt": {
+      "length": 70831,
+      "sha256": "F877BA17082703E375BC9B977FF6E33A8E5E4A35A162B7BBE9DB366C37DD9F98"
+    },
+    "EntityName.txt": {
+      "length": 54741,
+      "sha256": "AE29C33CFBF2CC3D8F083F70404799C2529E68519006B81285AE98DEA998D195"
+    },
+    "Quest.txt": {
+      "length": 309392,
+      "sha256": "E9A7CFF368A1085E357C84760593505E0EEFAA3A7A737CF0A99BB046E01D47E1"
+    },
+    "Item.txt": {
+      "length": 469643,
+      "sha256": "A3CEA3F36C1C41E4CEF8A4549BF8B815DDC3BEAD286DD2EDB11494DB96CC71E1"
+    }
+  }
+}

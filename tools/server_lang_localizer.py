@@ -36,7 +36,8 @@ class Assignment:
 
 def read_utf8(path: Path) -> str:
     try:
-        return path.read_text(encoding="utf-8")
+        with path.open("r", encoding="utf-8", newline="") as handle:
+            return handle.read()
     except UnicodeDecodeError as exc:
         raise ValueError(f"{path} không phải UTF-8: {exc}") from exc
 
@@ -191,6 +192,9 @@ def restore_route_payloads(source: str, target: str) -> tuple[str, bool]:
 
 def load_catalog(path: Path) -> dict[str, list[dict[str, str | int]]]:
     data = json.loads(read_utf8(path))
+    if data.get("blocked") is True:
+        reason = str(data.get("block_reason", "")).strip()
+        raise ValueError(f"{path} bị khóa: {reason or 'không được dùng để apply'}")
     if data.get("format") != 1 or not isinstance(data.get("files"), dict):
         raise ValueError(f"{path} không đúng catalog server language format 1")
     files: dict[str, list[dict[str, str | int]]] = {}
@@ -222,6 +226,42 @@ def load_catalog(path: Path) -> dict[str, list[dict[str, str | int]]]:
             })
         files[filename] = checked
     return files
+
+
+def command_export(args: argparse.Namespace) -> int:
+    source_root = Path(args.source_root)
+    result: dict[str, object] = {
+        "format": 1,
+        "description": args.description,
+        "files": {},
+    }
+    report: dict[str, object] = {"files": {}, "entries": 0}
+
+    for filename in args.file:
+        source_path = source_root / filename
+        values = assignments(read_utf8(source_path), source_path)
+        entries = [
+            {
+                "key": assignment.key,
+                "occurrence": assignment.occurrence,
+                "source": assignment.value,
+                "target": assignment.value,
+            }
+            for assignment in values.values()
+        ]
+        result["files"][filename] = {"entries": entries}
+        report["files"][filename] = {"entries": len(entries)}
+        report["entries"] += len(entries)
+
+    output = Path(args.output)
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if args.report:
+        report_path = Path(args.report)
+        report_path.parent.mkdir(parents=True, exist_ok=True)
+        report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Đã xuất {output}: {report['entries']} entry chờ dịch")
+    return 0
 
 
 def command_generate(args: argparse.Namespace) -> int:
@@ -387,6 +427,14 @@ def command_apply(args: argparse.Namespace) -> int:
 def parse_args(argv: Iterable[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
+
+    export = sub.add_parser("export", help="Xuất catalog sạch từ snapshot VPS; target ban đầu bằng source.")
+    export.add_argument("--source-root", required=True)
+    export.add_argument("--file", action="append", required=True)
+    export.add_argument("--output", required=True)
+    export.add_argument("--report")
+    export.add_argument("--description", default="Catalog LogicServer Vietnamese từ snapshot VPS.")
+    export.set_defaults(func=command_export)
 
     generate = sub.add_parser("generate", help="Tạo catalog source/target từ snapshot VPS và bản dịch.")
     generate.add_argument("--source-root", required=True)

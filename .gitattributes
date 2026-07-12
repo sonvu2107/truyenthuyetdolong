@@ -4,4 +4,6 @@ assets/ClientLang.txt -text
 *.cbp -text
 *.zip -text
 assets/logicserver-language/** -text
+assets/logicserver-language-source/Zh-CN/** -text -diff
+assets/logicserver-language-source/snapshot-manifest.json text eol=lf
 assets/game/GameConfig.php text eol=lf

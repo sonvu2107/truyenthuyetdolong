@@ -134,7 +134,7 @@ nhận được
 ### Quy ước LogicServer
 
 - Thoại NPC dùng `NormalTalk.txt`; tên NPC/quái hiển thị dùng `EntityName.txt`; nhiệm vụ động dùng `Quest.txt`; item dùng `Item.txt`.
-- Mỗi thay đổi phải đi qua catalog `logicserver-core.vi.json`, khớp `source` tuyệt đối theo `file + key + occurrence`.
+- Mỗi thay đổi phải đi qua catalog `logicserver-core-20260713.vi.json`, khớp `source` tuyệt đối theo `file + key + occurrence`. Catalog `logicserver-core.vi.json` là legacy bị khóa, không được dùng lại.
 - Với route dạng `/M...` hoặc `/@@...`, chỉ dịch phần nhãn đứng trước route. Payload phải được phục hồi nguyên văn từ source trước khi deploy.
 - Không ghi đè file khi LogicServer đang chạy. Deploy chỉ thực hiện trong bảo trì, có backup và kiểm SHA-256, rồi khởi động lại theo quy trình vận hành chuẩn.
 
