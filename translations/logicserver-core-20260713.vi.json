@@ -3050,109 +3050,109 @@
           "key": "bslg005",
           "occurrence": 1,
           "source": "先击杀全部小怪后将会召唤出BOSS",
-          "target": "先击杀全部小怪后将会召唤出BOSS"
+          "target": "Diệt hết quái nhỏ sẽ triệu hồi Boss"
         },
         {
           "key": "bslg006",
           "occurrence": 1,
           "source": "当前已无BOSS可挑战了,请点击 离开 按钮退出副本!",
-          "target": "当前已无BOSS可挑战了,请点击 离开 按钮退出副本!"
+          "target": "Không còn Boss để thách đấu. Bấm Rời để thoát phó bản!"
         },
         {
           "key": "bslg007",
           "occurrence": 1,
           "source": "经验BOSS:可召唤<(c0x0000ff06)%d>只",
-          "target": "经验BOSS:可召唤<(c0x0000ff06)%d>只"
+          "target": "Boss KN: Có thể triệu hồi <(c0x0000ff06)%d> con"
         },
         {
           "key": "bslg008",
           "occurrence": 1,
           "source": "极品道具BOSS:可召唤<(c0x0000ff06)%d>只",
-          "target": "极品道具BOSS:可召唤<(c0x0000ff06)%d>只"
+          "target": "Boss Đạo Cụ Hiếm: Có thể triệu hồi <(c0x0000ff06)%d> con"
         },
         {
           "key": "bslg009",
           "occurrence": 1,
           "source": "终极BOSS:可召唤<(c0x0000ff06)%d>只",
-          "target": "终极BOSS:可召唤<(c0x0000ff06)%d>只"
+          "target": "Boss Tối Thượng: Có thể triệu hồi <(c0x0000ff06)%d> con"
         },
         {
           "key": "bslg010",
           "occurrence": 1,
           "source": "召唤经验BOSS(可召唤%d只)",
-          "target": "召唤经验BOSS(可召唤%d只)"
+          "target": "Triệu Hồi Boss KN (Còn %d)"
         },
         {
           "key": "bslg011",
           "occurrence": 1,
           "source": "召唤极品道具BOSS(可召唤%d只)",
-          "target": "召唤极品道具BOSS(可召唤%d只)"
+          "target": "Triệu Hồi Boss Đạo Cụ Hiếm (Còn %d)"
         },
         {
           "key": "bslg012",
           "occurrence": 1,
           "source": "召唤终极BOSS(可召唤%d只)",
-          "target": "召唤终极BOSS(可召唤%d只)"
+          "target": "Triệu Hồi Boss Tối Thượng (Còn %d)"
         },
         {
           "key": "bslg013",
           "occurrence": 1,
           "source": "退出副本",
-          "target": "退出副本"
+          "target": "Rời Phó Bản"
         },
         {
           "key": "bslg014",
           "occurrence": 1,
           "source": "已达到召唤上限",
-          "target": "已达到召唤上限"
+          "target": "Đã Đạt Giới Hạn Triệu Hồi"
         },
         {
           "key": "bslg015",
           "occurrence": 1,
           "source": "是否花费%d元宝召唤终极BOSS",
-          "target": "是否花费%d元宝召唤终极BOSS"
+          "target": "Dùng %d Nguyên Bảo triệu hồi Boss Tối Thượng?"
         },
         {
           "key": "bslg016",
           "occurrence": 1,
           "source": "确定",
-          "target": "确定"
+          "target": "Xác Nhận"
         },
         {
           "key": "bslg017",
           "occurrence": 1,
           "source": "取消",
-          "target": "取消"
+          "target": "Hủy"
         },
         {
           "key": "bslg018",
           "occurrence": 1,
           "source": "当前金钱不足,不能召唤!",
-          "target": "当前金钱不足,不能召唤!"
+          "target": "Không đủ tiền, không thể triệu hồi!"
         },
         {
           "key": "bslg019",
           "occurrence": 1,
           "source": "BOSS试炼花费金钱召唤BOSS",
-          "target": "BOSS试炼花费金钱召唤BOSS"
+          "target": "Thử Luyện Boss: Tốn Vàng Triệu Hồi Boss"
         },
         {
           "key": "bslg020",
           "occurrence": 1,
           "source": "BOSS出现在坐标(%d:%d)处,请前往击杀",
-          "target": "BOSS出现在坐标(%d:%d)处,请前往击杀"
+          "target": "Boss xuất hiện tại (%d:%d), hãy đến tiêu diệt!"
         },
         {
           "key": "bslg021",
           "occurrence": 1,
           "source": "每次只能召唤1个BOSS,击杀完后可再次召唤",
-          "target": "每次只能召唤1个BOSS,击杀完后可再次召唤"
+          "target": "Mỗi lần chỉ triệu hồi 1 Boss; diệt xong mới triệu hồi tiếp."
         },
         {
           "key": "bslg022",
           "occurrence": 1,
           "source": "是否花费%d绑定金币召唤极品道具BOSS",
-          "target": "是否花费%d绑定金币召唤极品道具BOSS"
+          "target": "Dùng %d Vàng Khóa triệu hồi Boss Đạo Cụ Hiếm?"
         },
         {
           "key": "bslg023",
@@ -3164,13 +3164,13 @@
           "key": "bslg024",
           "occurrence": 1,
           "source": "<(c0x00ff00ff)剩余怪物:><(c0x0000ff06)%d>",
-          "target": "<(c0x00ff00ff)剩余怪物:><(c0x0000ff06)%d>"
+          "target": "<(c0x00ff00ff)Quái còn lại:><(c0x0000ff06)%d>"
         },
         {
           "key": "bslg025",
           "occurrence": 1,
           "source": "恭喜副本通关,请点右中间的离开按钮离开!",
-          "target": "恭喜副本通关,请点右中间的离开按钮离开!"
+          "target": "Hoàn thành phó bản, bấm Rời ở giữa bên phải để thoát!"
         },
         {
           "key": "uldt001",
@@ -3182,13 +3182,13 @@
           "key": "uldt002",
           "occurrence": 1,
           "source": "打不过BOSS就来我这里买药",
-          "target": "打不过BOSS就来我这里买药"
+          "target": "Không hạ được Boss thì đến mua thuốc!"
         },
         {
           "key": "uldt003",
           "occurrence": 1,
           "source": "领取升级殿堂副本经验",
-          "target": "领取升级殿堂副本经验"
+          "target": "Nhận KN Phó Bản Thăng Cấp"
         },
         {
           "key": "uldt004",
@@ -3200,13 +3200,13 @@
           "key": "uldt005",
           "occurrence": 1,
           "source": "免费领取【可领取%d经验】",
-          "target": "免费领取【可领取%d经验】"
+          "target": "Nhận Miễn Phí (Nhận %d KN)"
         },
         {
           "key": "uldt006",
           "occurrence": 1,
           "source": "%d倍领取 【%d元宝 可领%d经验】",
-          "target": "%d倍领取 【%d元宝 可领%d经验】"
+          "target": "Nhận x%d (%d Nguyên Bảo · %d KN)"
         },
         {
           "key": "uldt007",
@@ -3218,7 +3218,7 @@
           "key": "uldt008",
           "occurrence": 1,
           "source": "当前没有经验可领取",
-          "target": "当前没有经验可领取"
+          "target": "Không có KN để nhận."
         },
         {
           "key": "uldt009",
@@ -3230,13 +3230,13 @@
           "key": "uldt010",
           "occurrence": 1,
           "source": "需清完场内所有怪物才可领取经验",
-          "target": "需清完场内所有怪物才可领取经验"
+          "target": "Phải diệt hết quái mới nhận KN."
         },
         {
           "key": "uldt011",
           "occurrence": 1,
           "source": "是否花%d元宝领取%d倍经验?",
-          "target": "是否花%d元宝领取%d倍经验?"
+          "target": "Dùng %d Nguyên Bảo nhận KN x%d?"
         },
         {
           "key": "uldt012",
