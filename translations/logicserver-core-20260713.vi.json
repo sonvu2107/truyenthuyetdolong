@@ -3470,7 +3470,7 @@
           "key": "aqgj001",
           "occurrence": 1,
           "source": "<#NR轻松享受下安全挂机吧,在我这里可以获得大量装备和经验!#>开启等级:1转40级 \\\\主产奖励:装备、经验\\\\每天2小时免费挂机时间,用完可购买时间!",
-          "target": "<#NR轻松享受下安全挂机吧,在我这里可以获得大量装备和经验!#>开启等级:1转40级 \\\\主产奖励:装备、经验\\\\每天2小时免费挂机时间,用完可购买时间!"
+          "target": "<#NRTận hưởng treo máy an toàn, nhận nhiều Trang Bị và KN!#>Cấp mở: CS 1 Cấp 40 \\\\Phần thưởng: Trang Bị, KN\\\\Mỗi ngày miễn phí 2 giờ treo máy; hết lượt có thể mua thêm!"
         },
         {
           "key": "hdsz001",
@@ -3494,19 +3494,19 @@
           "key": "hdds003",
           "occurrence": 1,
           "source": "<#NR我是活动大使，我这里有丰富的活动介绍!#>首服充值返利活动，只要充值进入排行，即可在第二天获得元宝返利！",
-          "target": "<#NR我是活动大使，我这里有丰富的活动介绍!#>首服充值返利活动，只要充值进入排行，即可在第二天获得元宝返利！"
+          "target": "<#NRTa là Đại Sứ Sự Kiện, có nhiều thông tin sự kiện!#>Nạp vào BXH Server Mới để nhận hoàn Nguyên Bảo vào ngày kế tiếp!"
         },
         {
           "key": "hdds004",
           "occurrence": 1,
           "source": "<(c0x0ffff000)第%d名：><(c0x0000ff00)%s> <(c0x00ffff000)返利%d%%>",
-          "target": "<(c0x0ffff000)第%d名：><(c0x0000ff00)%s> <(c0x00ffff000)返利%d%%>"
+          "target": "<(c0x0ffff000)Hạng %d:><(c0x0000ff00)%s> <(c0x00ffff000)Hoàn %d%%>"
         },
         {
           "key": "hdds005",
           "occurrence": 1,
           "source": "<(c0x00ff00cc)返利的元宝于第二天0点通过邮件发放>",
-          "target": "<(c0x00ff00cc)返利的元宝于第二天0点通过邮件发放>"
+          "target": "<(c0x00ff00cc)Nguyên Bảo hoàn sẽ gửi qua thư lúc 0:00 ngày kế tiếp>"
         },
         {
           "key": "hdds006",
@@ -3518,7 +3518,7 @@
           "key": "hdds007",
           "occurrence": 1,
           "source": "恭喜你在开服第%d天中充值排行第%d名，获得%d%%的元宝返还，请查收附件！",
-          "target": "恭喜你在开服第%d天中充值排行第%d名，获得%d%%的元宝返还，请查收附件！"
+          "target": "Chúc mừng! Ngày mở server thứ %d, ngươi hạng nạp %d và nhận hoàn %d%% Nguyên Bảo. Hãy nhận đính kèm!"
         },
         {
           "key": "hdds008",
@@ -3530,25 +3530,25 @@
           "key": "hdds009",
           "occurrence": 1,
           "source": "<#NR我是活动大使，我这里有丰富的活动介绍!#>活动时间：开服第四至第七天每晚19点 \\\\活动范围：第一个服务器 \\\\活动内容：活动时间内，每天晚上19点在屠龙城地图（坐标195，155）刷新1只BOSS【狂暴巴尔】和20只随从小怪【巴尔随从】\\\\BOSS掉落：BOSS将掉落各种极品道具和装备，掉落的物品没有归属都可拾取",
-          "target": "<#NR我是活动大使，我这里有丰富的活动介绍!#>活动时间：开服第四至第七天每晚19点 \\\\活动范围：第一个服务器 \\\\活动内容：活动时间内，每天晚上19点在屠龙城地图（坐标195，155）刷新1只BOSS【狂暴巴尔】和20只随从小怪【巴尔随从】\\\\BOSS掉落：BOSS将掉落各种极品道具和装备，掉落的物品没有归属都可拾取"
+          "target": "<#NRTa là Đại Sứ Sự Kiện, có nhiều thông tin sự kiện!#>Thời gian: ngày 4-7 sau mở server, 19:00 \\\\Phạm vi: server đầu tiên \\\\Nội dung: Mỗi 19:00, Đồ Long Thành (195,155) xuất hiện 1 Boss Baal Cuồng Nộ và 20 tay sai Baal.\\\\Boss rơi Đạo Cụ/Trang Bị hiếm, mọi người đều có thể nhặt."
         },
         {
           "key": "sdlr001",
           "occurrence": 1,
           "source": "<#NR我是新年活动大使,活动期间可在我这里进入逐年兽活动#>活动期间击杀年兽可获大量奖励!\\\\开启时间:13:00-13:30\\\\开启时间:19:30-20:00\\\\主产奖励:红包、烟花、道具",
-          "target": "<#NR我是新年活动大使,活动期间可在我这里进入逐年兽活动#>活动期间击杀年兽可获大量奖励!\\\\开启时间:13:00-13:30\\\\开启时间:19:30-20:00\\\\主产奖励:红包、烟花、道具"
+          "target": "<#NRTa là Đại Sứ Sự Kiện Năm Mới. Đến chỗ ta vào sự kiện Săn Niên Thú!#>Diệt Niên Thú nhận nhiều quà!\\\\Thời gian: 13:00-13:30\\\\Thời gian: 19:30-20:00\\\\Phần thưởng: Lì Xì, Pháo Hoa, Đạo Cụ"
         },
         {
           "key": "pdhd001",
           "occurrence": 1,
           "source": "<#NR在我这里占领格子并站在上面就可获得大量奖励!#>开启等级:40级\\\\开启时间:18:00-18:15\\\\主产奖励:经验、绑定金币、装备",
-          "target": "<#NR在我这里占领格子并站在上面就可获得大量奖励!#>开启等级:40级\\\\开启时间:18:00-18:15\\\\主产奖励:经验、绑定金币、装备"
+          "target": "<#NRChiếm ô và đứng trên đó để nhận nhiều phần thưởng!#>Cấp mở: 40\\\\Thời gian: 18:00-18:15\\\\Phần thưởng: KN, Vàng Khóa, Trang Bị"
         },
         {
           "key": "ghzdz001",
           "occurrence": 1,
           "source": "<#NR活动时间内站在我周围光圈内每隔5秒就可获得多倍奖励,期间还有BOSS出现,击杀可获得大量奖励#>开启时间:13:40-13:50\\\\开启时间:15:40-15:50\\\\开启时间:22:00-22:10\\\\主产奖励:经验、绑定金币\\\\此篝火光圈范围内为非安全区,PK不加PK值不爆装备物品,每天定时开启篝火争夺战活动;\\\\您也可前往圣城NPC篝火堆进行全天安全烤火升级",
-          "target": "<#NR活动时间内站在我周围光圈内每隔5秒就可获得多倍奖励,期间还有BOSS出现,击杀可获得大量奖励#>开启时间:13:40-13:50\\\\开启时间:15:40-15:50\\\\开启时间:22:00-22:10\\\\主产奖励:经验、绑定金币\\\\此篝火光圈范围内为非安全区,PK不加PK值不爆装备物品,每天定时开启篝火争夺战活动;\\\\您也可前往圣城NPC篝火堆进行全天安全烤火升级"
+          "target": "<#NRTrong hào quang quanh ta, cứ 5 giây nhận thưởng nhiều lần; Boss cũng xuất hiện và rơi nhiều quà!#>Thời gian: 13:40-13:50\\\\Thời gian: 15:40-15:50\\\\Thời gian: 22:00-22:10\\\\Phần thưởng: KN, Vàng Khóa\\\\Vùng Lửa Trại là khu PK: không tăng điểm PK, không rơi Trang Bị.\\\\Có thể đến NPC Đống Lửa Thánh Thành để đốt lửa an toàn cả ngày."
         }
       ]
     },
