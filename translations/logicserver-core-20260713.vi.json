@@ -1418,13 +1418,13 @@
           "key": "n02009",
           "occurrence": 1,
           "source": "消灭魔帝、魔尊可以获得装备,消灭魔怪可以获得转生灵魄\\\\",
-          "target": "消灭魔帝、魔尊可以获得装备,消灭魔怪可以获得转生灵魄\\\\"
+          "target": "Diệt Ma Đế, Ma Tôn nhận Trang Bị; diệt Ma Quái nhận Linh Phách Chuyển Sinh.\\\\"
         },
         {
           "key": "n02010",
           "occurrence": 1,
           "source": "<#NR暗黑屠龙,天下我有!#>\\\\",
-          "target": "<#NR暗黑屠龙,天下我有!#>\\\\"
+          "target": "<#NRÁm Hắc Đồ Long, thiên hạ trong tay!#>\\\\"
         },
         {
           "key": "n02011",
@@ -1436,7 +1436,7 @@
           "key": "n02012",
           "occurrence": 1,
           "source": "<#NR玫瑰是爱情的象征,玫瑰能把你的爱意准确的传达给你所倾慕的人。而我的玫瑰可以给你补血,瞬间恢复大量生命值!#>\\\\",
-          "target": "<#NR玫瑰是爱情的象征,玫瑰能把你的爱意准确的传达给你所倾慕的人。而我的玫瑰可以给你补血,瞬间恢复大量生命值!#>\\\\"
+          "target": "<#NRHoa Hồng là biểu tượng tình yêu, truyền đúng tâm ý đến người ngươi mến. Hoa Hồng của ta còn hồi rất nhiều HP tức thì!#>\\\\"
         },
         {
           "key": "n02013",
@@ -1496,7 +1496,7 @@
           "key": "n02022",
           "occurrence": 1,
           "source": "<#NR这里提供打捆玫瑰#>\\\\每次打捆需要扣除一定绑定金币",
-          "target": "<#NR这里提供打捆玫瑰#>\\\\每次打捆需要扣除一定绑定金币"
+          "target": "<#NRTại đây có gói Hoa Hồng.#>\\\\Mỗi lần đóng gói tốn một ít Vàng Khóa."
         },
         {
           "key": "n02023",
@@ -1544,7 +1544,7 @@
           "key": "n02030",
           "occurrence": 1,
           "source": "<(irichImg#1)>\\\\向你心爱的人表达你对她的爱意吧,愿天下有情人终成眷属!\\\\",
-          "target": "<(irichImg#1)>\\\\向你心爱的人表达你对她的爱意吧,愿天下有情人终成眷属!\\\\"
+          "target": "<(irichImg#1)>\\\\Hãy bày tỏ tình yêu với người ngươi thương. Chúc người có tình thành đôi!\\\\"
         },
         {
           "key": "n02031",
@@ -1556,7 +1556,7 @@
           "key": "n02032",
           "occurrence": 1,
           "source": "杀死小怪和BOSS可以获得黑铁矿碎片、各种宝石碎片、黑铁、绿宝石等\\\\双击3个相同的碎片,可以合成相应的魂石和强化石",
-          "target": "杀死小怪和BOSS可以获得黑铁矿碎片、各种宝石碎片、黑铁、绿宝石等\\\\双击3个相同的碎片,可以合成相应的魂石和强化石"
+          "target": "Diệt quái và Boss nhận Mảnh Hắc Thiết, Mảnh Đá Quý, Hắc Thiết, Ngọc Lục Bảo...\\\\Nhấp đúp 3 mảnh giống nhau để ghép Hồn Thạch hoặc Đá Cường Hóa."
         },
         {
           "key": "n02033",
