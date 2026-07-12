@@ -1,10 +1,10 @@
 {
-  "version": "20260712uifit2",
+  "version": "20260712uifit4",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "C18885B8AC073EFF39E3C8F612402C38393C4379FBF5AF668387DDE7697D5D45"
+      "sha256": "94E22ED0B764131E842A1DA102AAF72F9D7ABD2548FF83A550B5565409C4B320"
     }
   ]
 }

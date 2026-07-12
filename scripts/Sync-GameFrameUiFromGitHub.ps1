@@ -33,7 +33,7 @@ try {
     $manifestFile = Join-Path $workRoot 'manifest.json'
     Get-GitHubFile -RelativePath $manifestPath -Destination $manifestFile
     $manifest = Get-Content -LiteralPath $manifestFile -Raw -Encoding UTF8 | ConvertFrom-Json
-    if ($manifest.version -ne '20260712uifit2' -or $manifest.files.Count -ne 1 -or
+    if ($manifest.version -ne '20260712uifit4' -or $manifest.files.Count -ne 1 -or
         $manifest.files[0].source -ne 'assets/GameFrame.swf' -or
         $manifest.files[0].target -ne 'GameFrame.swf') {
         throw 'Manifest UI khong dung pham vi GameFrame duy nhat.'
