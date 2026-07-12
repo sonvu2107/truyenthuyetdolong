@@ -650,7 +650,7 @@
           "key": "h00108",
           "occurrence": 1,
           "source": "<#NR男人就要有站在擂台上藐视一切的胆气,死又何妨,败又如何,至少你站上去尝试过。#>\\\\\\\\<(c0xFFFF0000)注:擂台杀人不增加PK值,死亡不会掉落任何物品!>",
-          "target": "<#NR男人就要有站在擂台上藐视一切的胆气,死又何妨,败又如何,至少你站上去尝试过。#>\\\\\\\\<(c0xFFFF0000)注:擂台杀人不增加PK值,死亡不会掉落任何物品!>"
+          "target": "<#NRDũng sĩ phải có can đảm đứng trên Đấu Trường coi thường tất cả. Chết thì sao, bại thì sao — ít nhất ngươi đã dám thử!#>\\\\\\\\<(c0xFFFF0000)Lưu ý: Giết người ở Đấu Trường không tăng điểm PK, chết không rơi đồ!>"
         },
         {
           "key": "h00109",
