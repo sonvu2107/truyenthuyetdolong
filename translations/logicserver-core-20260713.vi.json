@@ -1838,25 +1838,25 @@
           "key": "n02079",
           "occurrence": 1,
           "source": "<#NR邪灵聚集,妖魔作恶。英雄,这里正需要您的力量!#>开启等级:2转60级\\\\主产奖励:神魂值、战魂值、星魂值\\\\<(c0xFFFF0000)提示:建议组队完成该副本!>",
-          "target": "<#NR邪灵聚集,妖魔作恶。英雄,这里正需要您的力量!#>开启等级:2转60级\\\\主产奖励:神魂值、战魂值、星魂值\\\\<(c0xFFFF0000)提示:建议组队完成该副本!>"
+          "target": "<#NRTà Linh tụ tập, yêu ma hoành hành. Anh Hùng, nơi đây cần sức mạnh của ngươi!#>Cấp mở: CS 2 Cấp 60\\\\Phần thưởng: Điểm Thần Hồn, Chiến Hồn, Tinh Hồn\\\\<(c0xFFFF0000)Gợi ý: Nên lập đội vượt phó bản!>"
         },
         {
           "key": "n02080",
           "occurrence": 1,
           "source": "<#NR邪灵聚集,妖魔作恶。英雄,这里正需要您的力量!#>开启等级:1转45级\\\\主产奖励:神魂值、战魂值\\\\",
-          "target": "<#NR邪灵聚集,妖魔作恶。英雄,这里正需要您的力量!#>开启等级:1转45级\\\\主产奖励:神魂值、战魂值\\\\"
+          "target": "<#NRTà Linh tụ tập, yêu ma hoành hành. Anh Hùng, nơi đây cần sức mạnh của ngươi!#>Cấp mở: CS 1 Cấp 45\\\\Phần thưởng: Điểm Thần Hồn, Chiến Hồn\\\\"
         },
         {
           "key": "n02081",
           "occurrence": 1,
           "source": "<#NR哞~哞~哞!（你说你想接受奶牛关的试炼？好吧,我就带你去!）#>开启等级:2转50级\\\\主产奖励:大量经验（可购买多倍经验）\\\\<(c0xFFFF0000)提示：VIP玩家每次可比普通玩家多领取20%经验>",
-          "target": "<#NR哞~哞~哞!（你说你想接受奶牛关的试炼？好吧,我就带你去!）#>开启等级:2转50级\\\\主产奖励:大量经验（可购买多倍经验）\\\\<(c0xFFFF0000)提示：VIP玩家每次可比普通玩家多领取20%经验>"
+          "target": "<#NRBò~ bò~ bò! (Ngươi muốn thử thách Ải Bò? Được, ta dẫn ngươi đi!)#>Cấp mở: CS 2 Cấp 50\\\\Phần thưởng: Nhiều KN (mua được KN nhiều lần)\\\\<(c0xFFFF0000)Gợi ý: VIP mỗi lần nhận thêm 20% KN so với thường>"
         },
         {
           "key": "n02082",
           "occurrence": 1,
           "source": "<#NR进入奶牛关需收集 奶牛关传送书、维特之脚、赫拉迪克方块并交给我#> 提示:如不想收集,可花元宝直接购买相应道具!需要先收集或购买前一个任务道具时,才能购买下一个。",
-          "target": "<#NR进入奶牛关需收集 奶牛关传送书、维特之脚、赫拉迪克方块并交给我#> 提示:如不想收集,可花元宝直接购买相应道具!需要先收集或购买前一个任务道具时,才能购买下一个。"
+          "target": "<#NRMuốn vào Ải Bò, hãy thu thập Sách Truyền Tống Ải Bò, Chân Wirt, Khối Lập Phương Horadric rồi giao cho ta.#> Gợi ý: Không muốn thu thập thì dùng Nguyên Bảo mua vật phẩm tương ứng. Phải có/mua vật phẩm trước mới mua được vật phẩm sau."
         },
         {
           "key": "n02083",
