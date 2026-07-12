@@ -2702,13 +2702,13 @@
           "key": "marry0037",
           "occurrence": 1,
           "source": "新婚快乐!喜宴中一共收获红包%d元宝,其中20%%作为宴席成本,80%%返还回你和你的伴侣。请查收附件。",
-          "target": "新婚快乐!喜宴中一共收获红包%d元宝,其中20%%作为宴席成本,80%%返还回你和你的伴侣。请查收附件。"
+          "target": "Chúc Mừng Tân Hôn! Tiệc cưới nhận %d Nguyên Bảo lì xì; 20%% là chi phí tiệc, 80%% hoàn cho ngươi và bạn đời. Hãy nhận đính kèm."
         },
         {
           "key": "marry0038",
           "occurrence": 1,
           "source": "值此大喜之日,%s豪气万千,给全服玩家派送了喜糖,大家赶快去找神父【传】领取吧!",
-          "target": "值此大喜之日,%s豪气万千,给全服玩家派送了喜糖,大家赶快去找神父【传】领取吧!"
+          "target": "Ngày vui này, %s đã hào phóng phát Kẹo Cưới cho toàn server. Mau đến Cha Xứ [Truyền] để nhận!"
         },
         {
           "key": "marry0039",
@@ -2720,19 +2720,19 @@
           "key": "marry0040",
           "occurrence": 1,
           "source": "您行会的%s成员结婚了,与你一起分享幸福,给您送来了喜糖。",
-          "target": "您行会的%s成员结婚了,与你一起分享幸福,给您送来了喜糖。"
+          "target": "Thành viên Bang Hội %s đã kết hôn và gửi Kẹo Cưới chia sẻ niềm vui cùng ngươi."
         },
         {
           "key": "marry0041",
           "occurrence": 1,
           "source": "您的好友%s结婚了,与你一起分享幸福,给您送来了喜糖。",
-          "target": "您的好友%s结婚了,与你一起分享幸福,给您送来了喜糖。"
+          "target": "Bạn của ngươi %s đã kết hôn và gửi Kẹo Cưới chia sẻ niềm vui."
         },
         {
           "key": "marry0042",
           "occurrence": 1,
           "source": "%s和%s的婚礼当前已受到全服%d个玩家的祝福,祝他们长长久久。",
-          "target": "%s和%s的婚礼当前已受到全服%d个玩家的祝福,祝他们长长久久。"
+          "target": "Hôn lễ của %s và %s đã nhận lời chúc từ %d người chơi toàn server. Chúc họ trăm năm hạnh phúc!"
         },
         {
           "key": "marry0043",
