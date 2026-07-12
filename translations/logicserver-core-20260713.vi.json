@@ -314,97 +314,97 @@
           "key": "h00052",
           "occurrence": 1,
           "source": "<#NR看什么看,没见到这么帅的佣兵吗?虽然哥落魄了,但曾经也光辉灿烂过.#>",
-          "target": "<#NR看什么看,没见到这么帅的佣兵吗?虽然哥落魄了,但曾经也光辉灿烂过.#>"
+          "target": "<#NRNhìn gì? Chưa thấy lính đánh thuê đẹp trai thế này sao? Dù giờ sa cơ, năm xưa ta cũng lẫy lừng!#>"
         },
         {
           "key": "h00053",
           "occurrence": 1,
           "source": "<#NR我是圣堂骑士,来这里猎杀黑暗主教.#>",
-          "target": "<#NR我是圣堂骑士,来这里猎杀黑暗主教.#>"
+          "target": "<#NRTa là Kỵ Sĩ Thánh Đường, đến đây săn lùng Hắc Ám Giáo Chủ.#>"
         },
         {
           "key": "h00054",
           "occurrence": 1,
           "source": "<#NR我是圣堂刺客,来这里猎杀黑暗主教.#>",
-          "target": "<#NR我是圣堂刺客,来这里猎杀黑暗主教.#>"
+          "target": "<#NRTa là Sát Thủ Thánh Đường, đến đây săn lùng Hắc Ám Giáo Chủ.#>"
         },
         {
           "key": "h00055",
           "occurrence": 1,
           "source": "<#NR我是拿着长矛的鲁高因的佣兵.#>",
-          "target": "<#NR我是拿着长矛的鲁高因的佣兵.#>"
+          "target": "<#NRTa là lính đánh thuê xứ Lut Gholein, sử dụng trường thương.#>"
         },
         {
           "key": "h00056",
           "occurrence": 1,
           "source": "<#NR我的使命,是监守魔族不再破坏神魔协议,其实我喜欢监守自盗.#>",
-          "target": "<#NR我的使命,是监守魔族不再破坏神魔协议,其实我喜欢监守自盗.#>"
+          "target": "<#NRSứ mệnh của ta là canh chừng ma tộc không phá vỡ giao ước Thần-Ma. Nhưng ta lại thích nhân lúc canh giữ mà lấy trộm.#>"
         },
         {
           "key": "h00057",
           "occurrence": 1,
           "source": "<#NR我一斧子砍一个怪物.#>",
-          "target": "<#NR我一斧子砍一个怪物.#>"
+          "target": "<#NRMột nhát rìu, một con quái!#>"
         },
         {
           "key": "h00058",
           "occurrence": 1,
           "source": "<#NR我要保卫首领的安全,绝不离开半步.#>",
-          "target": "<#NR我要保卫首领的安全,绝不离开半步.#>"
+          "target": "<#NRTa phải bảo vệ an toàn cho thủ lĩnh, tuyệt đối không rời nửa bước!#>"
         },
         {
           "key": "h00059",
           "occurrence": 1,
           "source": "<#NR血鸟不死,我心难以平复.#>",
-          "target": "<#NR血鸟不死,我心难以平复.#>"
+          "target": "<#NRHuyết Điểu chưa chết, lòng ta chưa yên!#>"
         },
         {
           "key": "h00060",
           "occurrence": 1,
           "source": "<#NR皇室的荣耀永存!#>",
-          "target": "<#NR皇室的荣耀永存!#>"
+          "target": "<#NRVinh quang Hoàng Gia trường tồn!#>"
         },
         {
           "key": "h00061",
           "occurrence": 1,
           "source": "<#NR我那不争气的兄弟跑出去三天了,不知现在是死是活……#>",
-          "target": "<#NR我那不争气的兄弟跑出去三天了,不知现在是死是活……#>"
+          "target": "<#NREm trai vô dụng của ta bỏ đi ba ngày rồi, không biết còn sống hay đã chết…#>"
         },
         {
           "key": "h00062",
           "occurrence": 1,
           "source": "<#NR我是暗黑女巫,我精通大自然的魔法!我为了罗格营地的姐妹们报仇,我一路追杀血鸟,现在失去了她的行踪.#>",
-          "target": "<#NR我是暗黑女巫,我精通大自然的魔法!我为了罗格营地的姐妹们报仇,我一路追杀血鸟,现在失去了她的行踪.#>"
+          "target": "<#NRTa là Nữ Phù Thủy Hắc Ám, tinh thông ma pháp tự nhiên! Ta truy sát Huyết Điểu để báo thù cho các chị em ở Trại Rogue, nhưng giờ đã mất dấu nó.#>"
         },
         {
           "key": "h00063",
           "occurrence": 1,
           "source": "<#NR哈洛加斯沦陷了,哎......#>",
-          "target": "<#NR哈洛加斯沦陷了,哎......#>"
+          "target": "<#NRHarrogath đã thất thủ rồi, than ôi…#>"
         },
         {
           "key": "h00064",
           "occurrence": 1,
           "source": "只是偷吃了一颗百年灵丹,师傅便罚我在这南山放鹿六十年.",
-          "target": "只是偷吃了一颗百年灵丹,师傅便罚我在这南山放鹿六十年."
+          "target": "Chỉ vì lén ăn một viên Linh Đan trăm năm mà sư phụ phạt ta chăn hươu ở Nam Sơn sáu mươi năm."
         },
         {
           "key": "h00065",
           "occurrence": 1,
           "source": "<#NR这片沙漠流传着夏塔拉古墓的传说,据说只要进入古墓内就能找到昔日赫拉迪克组织中最厉害的法师-夏塔拉王的套装!#>",
-          "target": "<#NR这片沙漠流传着夏塔拉古墓的传说,据说只要进入古墓内就能找到昔日赫拉迪克组织中最厉害的法师-夏塔拉王的套装!#>"
+          "target": "<#NRSa mạc này lưu truyền truyền thuyết về Lăng Mộ Tal Rasha. Nghe nói vào trong đó sẽ tìm được bộ trang bị của Tal Rasha, pháp sư mạnh nhất Hội Horadric!#>"
         },
         {
           "key": "h00066",
           "occurrence": 1,
           "source": "<#NR别来探知我的秘密,那是你无法承受的结果.去探索这块未知的大陆吧!#>",
-          "target": "<#NR别来探知我的秘密,那是你无法承受的结果.去探索这块未知的大陆吧!#>"
+          "target": "<#NRĐừng dò hỏi bí mật của ta, hậu quả không phải ngươi chịu nổi. Hãy khám phá vùng đất bí ẩn này đi!#>"
         },
         {
           "key": "h00067",
           "occurrence": 1,
           "source": "<#NR在我这可购买药品和回城!#>",
-          "target": "<#NR在我这可购买药品和回城!#>"
+          "target": "<#NRTại đây có bán thuốc và Quyển Hồi Thành!#>"
         },
         {
           "key": "h00068",
@@ -440,43 +440,43 @@
           "key": "h00073",
           "occurrence": 1,
           "source": "<#NR我是佣兵的首领,需要雇佣强力打手的可以找我.#>",
-          "target": "<#NR我是佣兵的首领,需要雇佣强力打手的可以找我.#>"
+          "target": "<#NRTa là thủ lĩnh lính đánh thuê. Cần thuê cao thủ thì tìm ta!#>"
         },
         {
           "key": "h00074",
           "occurrence": 1,
           "source": "<#NR我来自罗格营地,卡夏是我的导师,我之前是一名佣兵,我曾追随过伟大的暗黑英雄亚马逊女战士!#>\\\\",
-          "target": "<#NR我来自罗格营地,卡夏是我的导师,我之前是一名佣兵,我曾追随过伟大的暗黑英雄亚马逊女战士!#>\\\\"
+          "target": "<#NRTa đến từ Trại Rogue. Kashya là sư phụ của ta; trước đây ta là lính đánh thuê, từng theo hầu một Nữ Chiến Binh Amazon vĩ đại!#>\\\\"
         },
         {
           "key": "h00075",
           "occurrence": 1,
           "source": "<#NR我曾是库拉斯特海港的一名卫兵,后来港口被恶魔攻陷后我随着祭司奥斯玛来到了圣城.#>",
-          "target": "<#NR我曾是库拉斯特海港的一名卫兵,后来港口被恶魔攻陷后我随着祭司奥斯玛来到了圣城.#>"
+          "target": "<#NRTa từng là lính gác Cảng Kurast. Sau khi cảng bị ma quỷ chiếm, ta theo tế sư Osma đến Thánh Thành.#>"
         },
         {
           "key": "h00076",
           "occurrence": 1,
           "source": "<#NR悲痛女王安达利尔伪装成一名修女潜入了大教堂后,诱惑了前一代主教大人,把僧侣全部都囚禁在监牢内杀害了,从此大教堂遇害的灵魂受尽狱火焚身之苦.我誓要亲手为教徒报仇!#>",
-          "target": "<#NR悲痛女王安达利尔伪装成一名修女潜入了大教堂后,诱惑了前一代主教大人,把僧侣全部都囚禁在监牢内杀害了,从此大教堂遇害的灵魂受尽狱火焚身之苦.我誓要亲手为教徒报仇!#>"
+          "target": "<#NRNữ Hoàng Đau Khổ Andariel giả làm nữ tu xâm nhập đại giáo đường, dụ dỗ vị Giáo Chủ đời trước rồi giam và sát hại toàn bộ tu sĩ. Linh hồn họ chịu lửa ngục thiêu đốt; ta thề tự tay báo thù!#>"
         },
         {
           "key": "h00077",
           "occurrence": 1,
           "source": "<#NR我的镰刀是魔鬼的噩梦.#>",
-          "target": "<#NR我的镰刀是魔鬼的噩梦.#>"
+          "target": "<#NRLưỡi hái của ta là cơn ác mộng của ma quỷ.#>"
         },
         {
           "key": "h00078",
           "occurrence": 1,
           "source": "<#NR战况恶劣,我这个督军不好当啊!#>",
-          "target": "<#NR战况恶劣,我这个督军不好当啊!#>"
+          "target": "<#NRTình hình chiến sự hiểm nghèo, làm Đốc Quân đâu dễ!#>"
         },
         {
           "key": "h00079",
           "occurrence": 1,
           "source": "<#NR转换职业意味着新的职业生涯开端,你准备好了吗?#>",
-          "target": "<#NR转换职业意味着新的职业生涯开端,你准备好了吗?#>"
+          "target": "<#NRChuyển nghề là khởi đầu cho một con đường mới. Ngươi sẵn sàng chưa?#>"
         },
         {
           "key": "h00080",
@@ -500,43 +500,43 @@
           "key": "h00083",
           "occurrence": 1,
           "source": "<#NR红名就好好在这里呆着!PK值不少于200的话,我是不会放你出去的,除非……你懂的~#>",
-          "target": "<#NR红名就好好在这里呆着!PK值不少于200的话,我是不会放你出去的,除非……你懂的~#>"
+          "target": "<#NRTên đỏ thì ở yên đây! PK từ 200 trở lên, ta không thả ngươi ra đâu… trừ khi ngươi hiểu ý ta.#>"
         },
         {
           "key": "h00084",
           "occurrence": 1,
           "source": "<#NR嗨,勇士!我是《暗黑屠龙》的福利大使,专门为屠龙勇士提供各种福利服务哦,要来一发吗?#>",
-          "target": "<#NR嗨,勇士!我是《暗黑屠龙》的福利大使,专门为屠龙勇士提供各种福利服务哦,要来一发吗?#>"
+          "target": "<#NRChào dũng sĩ! Ta là Đại Sứ Phúc Lợi của Ám Hắc Đồ Long, chuyên mang phúc lợi cho các anh hùng. Muốn nhận quà chứ?#>"
         },
         {
           "key": "h00085",
           "occurrence": 1,
           "source": "美女村欢迎来自四方的仙子、朋友.我们这座仙村乃是为给天下群芳避世休憩而特意建立的村落,是一处世外桃源.",
-          "target": "美女村欢迎来自四方的仙子、朋友.我们这座仙村乃是为给天下群芳避世休憩而特意建立的村落,是一处世外桃源."
+          "target": "Làng Mỹ Nữ chào đón tiên tử và bằng hữu bốn phương. Ngôi làng này được dựng để các giai nhân lánh đời nghỉ ngơi, là một chốn đào nguyên."
         },
         {
           "key": "h00086",
           "occurrence": 1,
           "source": "嘻嘻,没想到燕儿也能来到这里,这里环境优美,确实是一处避世的世外桃源,更重要的是,这里有很多艳美的姐妹.",
-          "target": "嘻嘻,没想到燕儿也能来到这里,这里环境优美,确实是一处避世的世外桃源,更重要的是,这里有很多艳美的姐妹."
+          "target": "Hì hì, không ngờ Yến Nhi cũng đến được đây. Cảnh đẹp, yên bình; quan trọng hơn là có rất nhiều tỷ muội xinh đẹp."
         },
         {
           "key": "h00087",
           "occurrence": 1,
           "source": "虽有幸来到美女村避世,可我总放不下尘世间的芸芸百姓,不知他们是否还在受着战乱之苦?",
-          "target": "虽有幸来到美女村避世,可我总放不下尘世间的芸芸百姓,不知他们是否还在受着战乱之苦?"
+          "target": "Dù may mắn đến Làng Mỹ Nữ lánh đời, ta vẫn không yên lòng vì bách tính. Không biết họ còn chịu cảnh chiến loạn không?"
         },
         {
           "key": "h00088",
           "occurrence": 1,
           "source": "当年仙魔大战后,许多仙界大能纷纷陨落,就连那蜀山老祖都肉身被毁,元婴被迫进入红尘投胎转世,几万年了,封印魔界的力量也快消散了.",
-          "target": "当年仙魔大战后,许多仙界大能纷纷陨落,就连那蜀山老祖都肉身被毁,元婴被迫进入红尘投胎转世,几万年了,封印魔界的力量也快消散了."
+          "target": "Sau đại chiến Tiên-Ma, nhiều cường giả tiên giới đã ngã xuống. Ngay cả Lão Tổ Thục Sơn cũng mất thân xác, nguyên anh phải luân hồi. Vạn năm đã qua, phong ấn Ma Giới sắp tan rồi."
         },
         {
           "key": "h00089",
           "occurrence": 1,
           "source": "逍遥哥哥修成剑仙已经数千年了,这次闭关百年,一定能成功达到洞仙之境,等修为到了九天玄仙便可前往仙界禁地救出爹爹.",
-          "target": "逍遥哥哥修成剑仙已经数千年了,这次闭关百年,一定能成功达到洞仙之境,等修为到了九天玄仙便可前往仙界禁地救出爹爹."
+          "target": "Tiêu Dao ca ca tu thành Kiếm Tiên đã nghìn năm. Lần bế quan trăm năm này chắc sẽ đột phá Động Tiên Cảnh; đến Cửu Thiên Huyền Tiên sẽ cứu được cha."
         },
         {
           "key": "h00090",
