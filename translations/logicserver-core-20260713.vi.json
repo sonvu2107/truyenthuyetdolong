@@ -98,7 +98,7 @@
           "key": "h00016",
           "occurrence": 1,
           "source": "<#NR我们的部队深入矿洞寻找血鸟的踪影,谁知道遇见恶魔的袭击,除我之外全军覆没了.#>\\\\<(c0xFFFFFF00)挖矿提示:>\\\\打开背包装备<(c0xFFFF0000)鹤嘴锄>\\\\或点击<(c0xFFFF0000)右下角的“锄头”按钮>\\\\再点击<(c0xFFFF0000)墙壁>可挖矿",
-          "target": "<#NR我们的部队深入矿洞寻找血鸟的踪影,谁知道遇见恶魔的袭击,除我之外全军覆没了.#>\\\\<(c0xFFFFFF00)挖矿提示:>\\\\打开背包装备<(c0xFFFF0000)鹤嘴锄>\\\\或点击<(c0xFFFF0000)右下角的“锄头”按钮>\\\\再点击<(c0xFFFF0000)墙壁>可挖矿"
+          "target": "<#NRĐội ta vào mỏ tìm dấu vết Huyết Điểu, nhưng bị Ác Ma tập kích. Chỉ ta sống sót.#>\\\\<(c0xFFFFFF00)Mẹo Đào Mỏ:>\\\\Mở túi và trang bị <(c0xFFFF0000)Cuốc Chim>\\\\Hoặc bấm <(c0xFFFF0000)nút Cuốc ở góc phải dưới>\\\\Sau đó bấm <(c0xFFFF0000)tường> để đào mỏ"
         },
         {
           "key": "h00017",
@@ -134,7 +134,7 @@
           "key": "h00022",
           "occurrence": 1,
           "source": "<(irichImg#4)> \\\\<#NR我是赫拉迪克最后一位成员了,暗黑魔神再度降临,我将像上代一样指引英雄诛魔卫道.#>",
-          "target": "<(irichImg#4)> \\\\<#NR我是赫拉迪克最后一位成员了,暗黑魔神再度降临,我将像上代一样指引英雄诛魔卫道.#>"
+          "target": "<(irichImg#4)> \\\\<#NRTa là thành viên cuối cùng của Horadric. Ám Hắc Ma Thần lại giáng thế, ta sẽ dẫn dắt Anh Hùng trừ ma như tiền bối.#>"
         },
         {
           "key": "h00023",
@@ -410,7 +410,7 @@
           "key": "h00068",
           "occurrence": 1,
           "source": "<#NR魔族肆虐,百姓生活在苦难中,作为伯爵的我一定要稳定好圣城的繁荣,以此来为在前线厮杀的士兵提供物资保障!#><(c0xFFFF00FF)温馨提示:>如果觉得卡的话,请按<(c0xFF00FF00)P键>或右上角小地图的<(c0xFF00FF00)“屏”按钮>隐藏玩家\\\\每天17:00-17:30将开启双倍护送收益翻倍!",
-          "target": "<#NR魔族肆虐,百姓生活在苦难中,作为伯爵的我一定要稳定好圣城的繁荣,以此来为在前线厮杀的士兵提供物资保障!#><(c0xFFFF00FF)温馨提示:>如果觉得卡的话,请按<(c0xFF00FF00)P键>或右上角小地图的<(c0xFF00FF00)“屏”按钮>隐藏玩家\\\\每天17:00-17:30将开启双倍护送收益翻倍!"
+          "target": "<#NRMa Tộc hoành hành, dân chúng khổ cực. Là Bá Tước, ta phải giữ Thánh Thành phồn vinh để tiếp tế tiền tuyến!#><(c0xFFFF00FF)Gợi ý:> Nếu thấy lag, bấm <(c0xFF00FF00)phím P> hoặc <(c0xFF00FF00)nút Màn hình trên mini map> để ẩn người chơi\\\\Mỗi ngày 17:00-17:30, lợi ích Hộ Tống x2!"
         },
         {
           "key": "h00069",
