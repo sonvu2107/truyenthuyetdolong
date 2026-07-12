@@ -29644,7 +29644,7 @@
           "key": "desc50",
           "occurrence": 1,
           "source": "拜访技能书商<卓格南/M圣城:201:209:卓格南>.",
-          "target": "拜访技能书商<卓格南/M圣城:201:209:卓格南>."
+          "target": "Ghé thương nhân sách kỹ năng <Drognan/M圣城:201:209:卓格南>."
         },
         {
           "key": "desc500",
@@ -29710,7 +29710,7 @@
           "key": "desc51",
           "occurrence": 1,
           "source": "去城外猎杀堕落羊人后找到<卓格南/M圣城:201:209:卓格南>交付.",
-          "target": "去城外猎杀堕落羊人后找到<卓格南/M圣城:201:209:卓格南>交付."
+          "target": "Săn Dương Nhân Sa Ngã ngoài thành rồi báo <Drognan/M圣城:201:209:卓格南>."
         },
         {
           "key": "desc510",
@@ -29776,7 +29776,7 @@
           "key": "desc52",
           "occurrence": 1,
           "source": "拜见<基德/M圣城:156:230:基德>.",
-          "target": "拜见<基德/M圣城:156:230:基德>."
+          "target": "Ghé gặp <Gheed/M圣城:156:230:基德>."
         },
         {
           "key": "desc520",
@@ -29842,7 +29842,7 @@
           "key": "desc53",
           "occurrence": 1,
           "source": "拜访圣城的<仓库管理员/M圣城:156:205:仓库管理员>.",
-          "target": "拜访圣城的<仓库管理员/M圣城:156:205:仓库管理员>."
+          "target": "Ghé <Quản Lý Kho/M圣城:156:205:仓库管理员> tại Thánh Thành."
         },
         {
           "key": "desc530",
@@ -29908,7 +29908,7 @@
           "key": "desc54",
           "occurrence": 1,
           "source": "拜访结婚使者<爱神丘比特/M圣城:232:126:爱神丘比特>.",
-          "target": "拜访结婚使者<爱神丘比特/M圣城:232:126:爱神丘比特>."
+          "target": "Ghé Sứ Giả Hôn Lễ <Thần Tình Yêu Cupid/M圣城:232:126:爱神丘比特>."
         },
         {
           "key": "desc540",
@@ -29968,31 +29968,31 @@
           "key": "desc55",
           "occurrence": 1,
           "source": "找到<圣城军/M圣城:228:188:圣城军>还回戒指.",
-          "target": "找到<圣城军/M圣城:228:188:圣城军>还回戒指."
+          "target": "Tìm <Quân Thánh Thành/M圣城:228:188:圣城军> để trả lại nhẫn."
         },
         {
           "key": "desc56",
           "occurrence": 1,
           "source": "消灭城外的魔斧兵后回复<圣城军/M圣城:228:188:圣城军>.",
-          "target": "消灭城外的魔斧兵后回复<圣城军/M圣城:228:188:圣城军>."
+          "target": "Diệt Ma Phủ Binh ngoài thành rồi báo <Quân Thánh Thành/M圣城:228:188:圣城军>."
         },
         {
           "key": "desc57",
           "occurrence": 1,
           "source": "找到<祭司奥斯玛/M圣城:123:116:祭司奥斯玛>.",
-          "target": "找到<祭司奥斯玛/M圣城:123:116:祭司奥斯玛>."
+          "target": "Tìm <Tế Tư Osma/M圣城:123:116:祭司奥斯玛>."
         },
         {
           "key": "desc58",
           "occurrence": 1,
           "source": "消灭食尸虫后回复<祭司奥斯玛/M圣城:123:116:祭司奥斯玛>.",
-          "target": "消灭食尸虫后回复<祭司奥斯玛/M圣城:123:116:祭司奥斯玛>."
+          "target": "Diệt Xác Trùng rồi báo <Tế Tư Osma/M圣城:123:116:祭司奥斯玛>."
         },
         {
           "key": "desc59",
           "occurrence": 1,
           "source": "消灭附近的堕落战士后回复<煤老板/M圣城:84:66:煤老板>.",
-          "target": "消灭附近的堕落战士后回复<煤老板/M圣城:84:66:煤老板>."
+          "target": "Diệt Chiến Sĩ Sa Ngã gần đó rồi báo <Chủ Mỏ/M圣城:84:66:煤老板>."
         },
         {
           "key": "desc6",
