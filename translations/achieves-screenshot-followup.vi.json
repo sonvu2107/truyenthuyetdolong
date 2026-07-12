@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "file": "achieves.cbp",
+  "description": "Tên nhiệm vụ ngày hiển thị tại ô Năng động trong ảnh audit.",
+  "translations": {
+    "193.name": {"source": "每日VIP", "target": "VIP Ngày"},
+    "194.name": {"source": "每日登陆器", "target": "Đăng Nhập Ngày"},
+    "196.name": {"source": "每日副本", "target": "PB Ngày"},
+    "197.name": {"source": "每日竞技", "target": "Đấu Trường Ngày"},
+    "201.name": {"source": "每日护送", "target": "Hộ Tống Ngày"},
+    "203.name": {"source": "每日赏金", "target": "Thưởng Ngày"},
+    "205.name": {"source": "每日日常", "target": "NV Ngày"},
+    "207.name": {"source": "每日狩猎", "target": "Săn Ngày"},
+    "208.name": {"source": "阳光沙滩", "target": "Bãi Biển Nắng"},
+    "209.name": {"source": "全面战争", "target": "Đại Chiến"},
+    "210.name": {"source": "夺宝迷城", "target": "Mê Thành Đoạt Bảo"},
+    "218.name": {"source": "光明圣塔", "target": "Thánh Tháp Ánh Sáng"},
+    "224.name": {"source": "每日战场", "target": "Chiến Trường Ngày"}
+  }
+}

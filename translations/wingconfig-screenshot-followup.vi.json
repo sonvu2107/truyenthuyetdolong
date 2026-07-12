@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "file": "WingConfig.cbp",
+  "description": "Tên Cánh hiển thị tại màn Cánh trong ảnh audit.",
+  "translations": {
+    "level.0.name": {"source": "彩凤之轩(1档)", "target": "Phượng Vũ I"},
+    "level.1.name": {"source": "蝴蝶精灵(2档)", "target": "Bướm Tiên II"},
+    "level.2.name": {"source": "天使羽翼(3档)", "target": "Cánh Thiên Thần III"},
+    "level.3.name": {"source": "刀锋之翼(4档)", "target": "Cánh Đao Phong IV"},
+    "level.4.name": {"source": "光之蓝羽(5档)", "target": "Lam Vũ V"},
+    "level.5.name": {"source": "天使圣羽(6档)", "target": "Thánh Vũ VI"},
+    "level.6.name": {"source": "黑暗凤凰(7档)", "target": "Phượng Hoàng Đen VII"},
+    "level.7.name": {"source": "龙影翼(8档)", "target": "Long Ảnh VIII"},
+    "level.8.name": {"source": "恶魔之力(9档)", "target": "Ma Lực IX"},
+    "level.9.name": {"source": "魔神之佑(10档)", "target": "Ma Thần X"},
+    "level.10.name": {"source": "大天使之翼(11档)", "target": "Đại Thiên Sứ XI"},
+    "level.11.name": {"source": "灵魂之翼(12档)", "target": "Linh Hồn XII"}
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "description": "Vá biểu thức ghép active[80] trên SWF đã có catalog nền, giữ nguyên mọi link event.",
+  "files": [
+    {
+      "path": "scripts/lang/ZH_CN.as",
+      "replacements": [
+        {
+          "source": "         active[80] = \"<font color=\\'#FFFFFF\\'>Phân loại:</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:0\\'>tất cả</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:1\\'>Tôi muốn nâng cấp</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:2\\'>Tôi muốn trở nên mạnh mẽ hơn</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:3\\'>Tôi muốn Trang Bị</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:4\\'>Tôi muốn kiếm tiền</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:5\\'>Tôi muốn cạnh tranh</a></font><font color=\\'#FFFFFF\\'>、</font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:6\\'>tôi chán</a></font><font color=\\'#FFFFFF\\'>、</font>\";",
+          "target": "         active[80] = \"<font color=\\'#FFFFFF\\'>Lọc: </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:0\\'>Tất cả</a></font><font color=\\'#FFFFFF\\'> · </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:1\\'>Cấp</a></font><font color=\\'#FFFFFF\\'> · </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:2\\'>Mạnh</a></font><font color=\\'#FFFFFF\\'> · </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:3\\'>Đồ</a></font><font color=\\'#FFFFFF\\'> · </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:4\\'>Vàng</a></font><font color=\\'#FFFFFF\\'> · </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:5\\'>PK</a></font><font color=\\'#FFFFFF\\'> · </font>\" + \"<font color=\\'#00FF00\\'><a href=\\'event:6\\'>Khác</a></font><font color=\\'#FFFFFF\\'> · </font>\";"
+        }
+      ]
+    }
+  ]
+}

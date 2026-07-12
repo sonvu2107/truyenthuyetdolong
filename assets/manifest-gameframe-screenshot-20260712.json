@@ -1,0 +1,15 @@
+{
+  "version": "20260712uifit3",
+  "files": [
+    {
+      "source": "assets/GameFrame.swf",
+      "target": "GameFrame.swf",
+      "sha256": "52658E0842259B62F1E3CE251120105AC3C3F5E4D3B4BBF8A2F6905D17E2B359"
+    },
+    {
+      "source": "assets/lang/zh-cn/cbp.zip",
+      "target": "data/lang/zh-cn/cbp.zip",
+      "sha256": "C88DA837EE1DC2C5D01079787345CB0886C449224C0BBACB8B0CF7B87C4919AF"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "file": "fubennewClient.cbp",
+  "description": "Tên phụ bản xuất hiện tại danh sách Hoạt Động trong ảnh audit.",
+  "translations": {
+    "23.fbname": {"source": "邪灵村", "target": "Làng Tà Linh"},
+    "24.fbname": {"source": "耀灵阁", "target": "Các Diệu Linh"},
+    "25.fbname": {"source": "勇闯奶牛关", "target": "Vượt Ải Bò"},
+    "27.fbname": {"source": "升级殿堂", "target": "Điện Thăng Cấp"},
+    "30.fbname": {"source": "神墓遗迹", "target": "Tàn Tích Thần Mộ"}
+  }
+}
