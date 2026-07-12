@@ -28310,45 +28310,45 @@
         },
         {
           "key": "desc293",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<凯恩/M圣城:211:214:凯恩>交付.",
-          "target": "消灭怪物后找<凯恩/M圣城:211:214:凯恩>交付."
+          "target": "Diệt quái rồi báo <Cain/M圣城:211:214:凯恩>."
         },
         {
           "key": "desc294",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "与凯恩<凯恩/M圣城:211:214:凯恩>交谈.",
-          "target": "与凯恩<凯恩/M圣城:211:214:凯恩>交谈."
+          "target": "Nói chuyện với <Cain/M圣城:211:214:凯恩>."
         },
         {
           "key": "desc295",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "等级达到63级后回复<凯恩/M圣城:211:214:凯恩>.",
-          "target": "等级达到63级后回复<凯恩/M圣城:211:214:凯恩>."
+          "target": "Đạt cấp 63 rồi báo <Cain/M圣城:211:214:凯恩>."
         },
         {
           "key": "desc296",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "拜访<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "拜访<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Ghé <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc297",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "<申屠傲天/M蛮荒:102:87:申屠傲天>说天魔很难被杀死,让你去凤鸣山搜查一番,见到域外天魔立刻诛灭掉.",
-          "target": "<申屠傲天/M蛮荒:102:87:申屠傲天>说天魔很难被杀死,让你去凤鸣山搜查一番,见到域外天魔立刻诛灭掉."
+          "target": "<Thân Đồ Ngạo Thiên/M蛮荒:102:87:申屠傲天> nói Thiên Ma rất khó diệt. Đến Phượng Minh Sơn tìm và diệt Ngoại Vực Thiên Ma."
         },
         {
           "key": "desc298",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "对话<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "对话<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Nói chuyện với <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc299",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc3",
@@ -28364,21 +28364,21 @@
         },
         {
           "key": "desc300",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc301",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc302",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc303",
