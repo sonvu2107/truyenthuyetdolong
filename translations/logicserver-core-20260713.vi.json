@@ -40208,85 +40208,85 @@
           "key": "n109",
           "occurrence": 1,
           "source": "堕落项链",
-          "target": "堕落项链"
+          "target": "Dây Chuyền Đọa Lạc"
         },
         {
           "key": "i109",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落项链> 可以合成一个 <(c0xFFFF6600)嗜血项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落项链> 可以合成一个 <(c0xFFFF6600)嗜血项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Đọa Lạc> hợp thành <(c0xFFFF6600)Dây Chuyền Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n110",
           "occurrence": 1,
           "source": "堕落手镯",
-          "target": "堕落手镯"
+          "target": "Vòng Tay Đọa Lạc"
         },
         {
           "key": "i110",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落手镯> 可以合成一个 <(c0xFFFF6600)嗜血手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落手镯> 可以合成一个 <(c0xFFFF6600)嗜血手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Đọa Lạc> hợp thành <(c0xFFFF6600)Vòng Tay Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n111",
           "occurrence": 1,
           "source": "堕落腰带",
-          "target": "堕落腰带"
+          "target": "Đai Đọa Lạc"
         },
         {
           "key": "i111",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落腰带> 可以合成一个 <(c0xFFFF6600)嗜血腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落腰带> 可以合成一个 <(c0xFFFF6600)嗜血腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Đọa Lạc> hợp thành <(c0xFFFF6600)Đai Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n112",
           "occurrence": 1,
           "source": "堕落长靴",
-          "target": "堕落长靴"
+          "target": "Ủng Đọa Lạc"
         },
         {
           "key": "i112",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落长靴> 可以合成一个 <(c0xFFFF6600)嗜血长靴>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落长靴> 可以合成一个 <(c0xFFFF6600)嗜血长靴>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Ủng Đọa Lạc> hợp thành <(c0xFFFF6600)Ủng Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n113",
           "occurrence": 1,
           "source": "堕落宝石",
-          "target": "堕落宝石"
+          "target": "Đá Đọa Lạc"
         },
         {
           "key": "i113",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落宝石> 可以合成一个 <(c0xFFFF6600)嗜血宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落宝石> 可以合成一个 <(c0xFFFF6600)嗜血宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đá Đọa Lạc> hợp thành <(c0xFFFF6600)Đá Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n114",
           "occurrence": 1,
           "source": "堕落戒指",
-          "target": "堕落戒指"
+          "target": "Nhẫn Đọa Lạc"
         },
         {
           "key": "i114",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落戒指> 可以合成一个 <(c0xFFFF6600)嗜血戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落戒指> 可以合成一个 <(c0xFFFF6600)嗜血戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Đọa Lạc> hợp thành <(c0xFFFF6600)Nhẫn Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n115",
           "occurrence": 1,
           "source": "堕落勋章",
-          "target": "堕落勋章"
+          "target": "Huy Chương Đọa Lạc"
         },
         {
           "key": "i115",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落勋章> 可以合成一个 <(c0xFFFF6600)嗜血勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)堕落勋章> 可以合成一个 <(c0xFFFF6600)嗜血勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Đọa Lạc> hợp thành <(c0xFFFF6600)Huy Chương Khát Máu>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n116",
