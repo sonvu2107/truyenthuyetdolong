@@ -8,25 +8,25 @@
           "key": "h00001",
           "occurrence": 1,
           "source": "<#NR阿卡拉卖药连锁品牌,欢迎加盟,拨打咨询热线:400-88888!#>",
-          "target": "<#NR阿卡拉卖药连锁品牌,欢迎加盟,拨打咨询热线:400-88888!#>"
+          "target": "<#NRHiệu Thuốc Akara, chào mừng gia nhập. Hotline: 400-88888!#>"
         },
         {
           "key": "h00002",
           "occurrence": 1,
           "source": "<#NR我是第一行会宣传栏.行会赶紧占位了,帮您迅速扩充行会成员#>.",
-          "target": "<#NR我是第一行会宣传栏.行会赶紧占位了,帮您迅速扩充行会成员#>."
+          "target": "<#NRBảng Quảng Cáo Bang Hội Số 1. Bang Hội hãy chiếm chỗ để nhanh chóng tuyển thêm thành viên.#>"
         },
         {
           "key": "h00003",
           "occurrence": 1,
           "source": "<#NR我是第二行会宣传栏.行会赶紧占位了,帮您迅速扩充行会成员#>.",
-          "target": "<#NR我是第二行会宣传栏.行会赶紧占位了,帮您迅速扩充行会成员#>."
+          "target": "<#NRBảng Quảng Cáo Bang Hội Số 2. Bang Hội hãy chiếm chỗ để nhanh chóng tuyển thêm thành viên.#>"
         },
         {
           "key": "h00004",
           "occurrence": 1,
           "source": "<#NR我是第三行会宣传栏.行会赶紧占位了,帮您迅速扩充行会成员#>.",
-          "target": "<#NR我是第三行会宣传栏.行会赶紧占位了,帮您迅速扩充行会成员#>."
+          "target": "<#NRBảng Quảng Cáo Bang Hội Số 3. Bang Hội hãy chiếm chỗ để nhanh chóng tuyển thêm thành viên.#>"
         },
         {
           "key": "h00005",
@@ -146,19 +146,19 @@
           "key": "h00024",
           "occurrence": 1,
           "source": "<#NR曾经我也是个痴情种子,可惜下一场雨给淹死了.如花my darling,我这样的高富帅都配不上你吗?#>",
-          "target": "<#NR曾经我也是个痴情种子,可惜下一场雨给淹死了.如花my darling,我这样的高富帅都配不上你吗?#>"
+          "target": "<#NRTa từng si tình, tiếc là cơn mưa sau cuốn trôi tất cả. Như Hoa, darling của ta, trai đẹp giàu như ta cũng không xứng sao?#>"
         },
         {
           "key": "h00025",
           "occurrence": 1,
           "source": "<#NR红尘万丈深似渊,轻摇拂尘守明台.狼烟漫起冲九天,闭修证道脱黄泉.#>",
-          "target": "<#NR红尘万丈深似渊,轻摇拂尘守明台.狼烟漫起冲九天,闭修证道脱黄泉.#>"
+          "target": "<#NRHồng trần vạn trượng sâu tựa vực. Phất trần nhẹ giữ đài sáng. Khói lửa ngút trời, bế quan chứng đạo thoát Hoàng Tuyền.#>"
         },
         {
           "key": "h00026",
           "occurrence": 1,
           "source": "<#NR为了能取得战争的胜利,我宁愿躲在妖气熏天的黑暗角落.#>",
-          "target": "<#NR为了能取得战争的胜利,我宁愿躲在妖气熏天的黑暗角落.#>"
+          "target": "<#NRVì chiến thắng, ta chấp nhận ẩn mình trong góc tối đầy yêu khí.#>"
         },
         {
           "key": "h00027",
@@ -206,19 +206,19 @@
           "key": "h00034",
           "occurrence": 1,
           "source": "客官,来住店吧.别怕,你看我是正经人呀,但我正经起来不是人.",
-          "target": "客官,来住店吧.别怕,你看我是正经人呀,但我正经起来不是人."
+          "target": "Khách quan, vào trọ đi. Đừng sợ, ta là người đàng hoàng — đàng hoàng quá thì không còn là người."
         },
         {
           "key": "h00035",
           "occurrence": 1,
           "source": "别以为披条破布就是威震天,我们影卫可是游走在光明与黑暗的边缘,只为求一败.",
-          "target": "别以为披条破布就是威震天,我们影卫可是游走在光明与黑暗的边缘,只为求一败."
+          "target": "Đừng tưởng khoác mảnh giẻ là Uy Chấn Thiên. Ảnh Vệ chúng ta bước giữa sáng tối, chỉ cầu một lần bại trận."
         },
         {
           "key": "h00036",
           "occurrence": 1,
           "source": "那场天塌地陷使无数强大的法师死去,法师协会名存实亡.直到后来,侥幸存活的我才探知,那场末日般的灾难竟是祖玛教皇翻手间所致.",
-          "target": "那场天塌地陷使无数强大的法师死去,法师协会名存实亡.直到后来,侥幸存活的我才探知,那场末日般的灾难竟是祖玛教皇翻手间所致."
+          "target": "Thảm họa trời long đất lở đã cướp đi vô số Pháp Sư, Hiệp Hội Pháp Sư chỉ còn hư danh. Ta sống sót mới biết tai ương ấy do Giáo Hoàng Zuma gây ra."
         },
         {
           "key": "h00037",
