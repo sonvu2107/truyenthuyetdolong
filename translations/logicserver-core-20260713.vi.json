@@ -30862,19 +30862,19 @@
           "key": "name0",
           "occurrence": 1,
           "source": "传奇之旅",
-          "target": "传奇之旅"
+          "target": "Hành Trình Huyền Thoại"
         },
         {
           "key": "name1",
           "occurrence": 1,
           "source": "勇者降临",
-          "target": "勇者降临"
+          "target": "Dũng Sĩ Giáng Lâm"
         },
         {
           "key": "name10",
           "occurrence": 1,
           "source": "尸洞危机",
-          "target": "尸洞危机"
+          "target": "Nguy Cơ Hang Zombie"
         },
         {
           "key": "name100",
@@ -30940,7 +30940,7 @@
           "key": "name11",
           "occurrence": 1,
           "source": "僵尸祸患",
-          "target": "僵尸祸患"
+          "target": "Tai Họa Zombie"
         },
         {
           "key": "name110",
@@ -31006,7 +31006,7 @@
           "key": "name12",
           "occurrence": 1,
           "source": "再接再厉",
-          "target": "再接再厉"
+          "target": "Cố Gắng Hơn Nữa"
         },
         {
           "key": "name120",
@@ -31072,7 +31072,7 @@
           "key": "name13",
           "occurrence": 1,
           "source": "除魔务尽",
-          "target": "除魔务尽"
+          "target": "Diệt Ma Tận Gốc"
         },
         {
           "key": "name130",
@@ -31138,7 +31138,7 @@
           "key": "name14",
           "occurrence": 1,
           "source": "三圣传说",
-          "target": "三圣传说"
+          "target": "Truyền Thuyết Tam Thánh"
         },
         {
           "key": "name140",
@@ -31204,7 +31204,7 @@
           "key": "name15",
           "occurrence": 1,
           "source": "不学无术",
-          "target": "不学无术"
+          "target": "Không Học Không Biết"
         },
         {
           "key": "name150",
@@ -31270,7 +31270,7 @@
           "key": "name16",
           "occurrence": 1,
           "source": "食人花魔",
-          "target": "食人花魔"
+          "target": "Ma Hoa Ăn Thịt"
         },
         {
           "key": "name160",
@@ -31336,7 +31336,7 @@
           "key": "name17",
           "occurrence": 1,
           "source": "毒蛇之灾",
-          "target": "毒蛇之灾"
+          "target": "Tai Họa Rắn Độc"
         },
         {
           "key": "name170",
@@ -31402,7 +31402,7 @@
           "key": "name18",
           "occurrence": 1,
           "source": "兽族隐患",
-          "target": "兽族隐患"
+          "target": "Mối Họa Thú Tộc"
         },
         {
           "key": "name180",
@@ -31468,7 +31468,7 @@
           "key": "name19",
           "occurrence": 1,
           "source": "圣城聚英",
-          "target": "圣城聚英"
+          "target": "Tụ Hội Thánh Thành"
         },
         {
           "key": "name190",
@@ -31534,13 +31534,13 @@
           "key": "name2",
           "occurrence": 1,
           "source": "出门历练",
-          "target": "出门历练"
+          "target": "Ra Ngoài Rèn Luyện"
         },
         {
           "key": "name20",
           "occurrence": 1,
           "source": "前去圣城",
-          "target": "前去圣城"
+          "target": "Đến Thánh Thành"
         },
         {
           "key": "name200",
@@ -31606,7 +31606,7 @@
           "key": "name21",
           "occurrence": 1,
           "source": "圣城祭司",
-          "target": "圣城祭司"
+          "target": "Tế Tư Thánh Thành"
         },
         {
           "key": "name210",
@@ -31672,7 +31672,7 @@
           "key": "name22",
           "occurrence": 1,
           "source": "童趣遛鸡",
-          "target": "童趣遛鸡"
+          "target": "Dắt Gà Vui Nhộn"
         },
         {
           "key": "name220",
@@ -31738,7 +31738,7 @@
           "key": "name23",
           "occurrence": 1,
           "source": "无奈之举",
-          "target": "无奈之举"
+          "target": "Bất Đắc Dĩ"
         },
         {
           "key": "name230",
@@ -31804,7 +31804,7 @@
           "key": "name24",
           "occurrence": 1,
           "source": "嗜血利爪",
-          "target": "嗜血利爪"
+          "target": "Vuốt Sắc Khát Máu"
         },
         {
           "key": "name240",
@@ -31870,7 +31870,7 @@
           "key": "name25",
           "occurrence": 1,
           "source": "利爪猫妖",
-          "target": "利爪猫妖"
+          "target": "Miêu Yêu Vuốt Sắc"
         },
         {
           "key": "name250",
@@ -31936,7 +31936,7 @@
           "key": "name26",
           "occurrence": 1,
           "source": "魔虫之灾",
-          "target": "魔虫之灾"
+          "target": "Tai Họa Ma Trùng"
         },
         {
           "key": "name260",
@@ -32002,7 +32002,7 @@
           "key": "name27",
           "occurrence": 1,
           "source": "碎裂僵尸",
-          "target": "碎裂僵尸"
+          "target": "Zombie Nứt Vỡ"
         },
         {
           "key": "name270",
@@ -32068,7 +32068,7 @@
           "key": "name28",
           "occurrence": 1,
           "source": "花斑蜘蛛",
-          "target": "花斑蜘蛛"
+          "target": "Nhện Đốm"
         },
         {
           "key": "name280",
@@ -32134,7 +32134,7 @@
           "key": "name29",
           "occurrence": 1,
           "source": "举手之劳",
-          "target": "举手之劳"
+          "target": "Giúp Một Tay"
         },
         {
           "key": "name290",
@@ -32200,7 +32200,7 @@
           "key": "name3",
           "occurrence": 1,
           "source": "助人为乐",
-          "target": "助人为乐"
+          "target": "Giúp Người Là Vui"
         },
         {
           "key": "name30",
@@ -32866,7 +32866,7 @@
           "key": "name4",
           "occurrence": 1,
           "source": "英雄救美",
-          "target": "英雄救美"
+          "target": "Anh Hùng Cứu Mỹ Nhân"
         },
         {
           "key": "name40",
@@ -33484,7 +33484,7 @@
           "key": "name5",
           "occurrence": 1,
           "source": "入洞探查",
-          "target": "入洞探查"
+          "target": "Vào Hang Thăm Dò"
         },
         {
           "key": "name50",
@@ -33844,7 +33844,7 @@
           "key": "name6",
           "occurrence": 1,
           "source": "骷髅战士",
-          "target": "骷髅战士"
+          "target": "Chiến Sĩ Xương Khô"
         },
         {
           "key": "name60",
@@ -33910,7 +33910,7 @@
           "key": "name7",
           "occurrence": 1,
           "source": "昔日龙卫",
-          "target": "昔日龙卫"
+          "target": "Long Vệ Năm Xưa"
         },
         {
           "key": "name70",
@@ -33976,7 +33976,7 @@
           "key": "name8",
           "occurrence": 1,
           "source": "龙卫传说",
-          "target": "龙卫传说"
+          "target": "Truyền Thuyết Long Vệ"
         },
         {
           "key": "name80",
@@ -34642,7 +34642,7 @@
           "key": "name9",
           "occurrence": 1,
           "source": "一将功成",
-          "target": "一将功成"
+          "target": "Một Tướng Thành Danh"
         },
         {
           "key": "name90",
