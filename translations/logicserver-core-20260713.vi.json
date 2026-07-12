@@ -39632,13 +39632,13 @@
           "key": "n61",
           "occurrence": 1,
           "source": "苍狼战刀",
-          "target": "苍狼战刀"
+          "target": "Đao Thương Lang"
         },
         {
           "key": "i61",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼战刀> 可以合成一个 <(c0xFFFF6600)黄金战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)苍狼战刀> 可以合成一个 <(c0xFFFF6600)黄金战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đao Thương Lang> hợp thành <(c0xFFFF6600)Đao Hoàng Kim>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n62",
