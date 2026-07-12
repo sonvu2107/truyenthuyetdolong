@@ -27088,7 +27088,7 @@
           "key": "desc109",
           "occurrence": 1,
           "source": "消灭戈尔贡蛇人后回复<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>.",
-          "target": "消灭戈尔贡蛇人后回复<暗黑圣骑/M黑暗神殿:152:86:暗黑圣骑>."
+          "target": "Diệt Xà Nhân Gorgon rồi báo <Thánh Kỵ Hắc Ám/M黑暗神殿:152:86:暗黑圣骑>."
         },
         {
           "key": "desc11",
@@ -27100,55 +27100,55 @@
           "key": "desc110",
           "occurrence": 1,
           "source": "找到<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>.",
-          "target": "找到<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>."
+          "target": "Tìm <Chiến Binh Man Tộc/M黑暗神殿二层:54:112:野蛮人战士>."
         },
         {
           "key": "desc111",
           "occurrence": 1,
           "source": "消灭邪恶小巫师后回复<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>.",
-          "target": "消灭邪恶小巫师后回复<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>."
+          "target": "Diệt Tiểu Vu Sư Tà Ác rồi báo <Chiến Binh Man Tộc/M黑暗神殿二层:54:112:野蛮人战士>."
         },
         {
           "key": "desc112",
           "occurrence": 1,
           "source": "对话<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>.",
-          "target": "对话<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>."
+          "target": "Nói chuyện với <Chiến Binh Man Tộc/M黑暗神殿二层:54:112:野蛮人战士>."
         },
         {
           "key": "desc113",
           "occurrence": 1,
           "source": "消灭崔凡克议员后回复<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>.",
-          "target": "消灭崔凡克议员后回复<野蛮人战士/M黑暗神殿二层:54:112:野蛮人战士>."
+          "target": "Diệt Nghị Viên Travincal rồi báo <Chiến Binh Man Tộc/M黑暗神殿二层:54:112:野蛮人战士>."
         },
         {
           "key": "desc114",
           "occurrence": 1,
           "source": "找到<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>.",
-          "target": "找到<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>."
+          "target": "Tìm <Sát Thủ Hắc Ám/M黑暗神殿二层:72:45:暗黑刺客>."
         },
         {
           "key": "desc115",
           "occurrence": 1,
           "source": "消灭嗜血食人魔后回复<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>.",
-          "target": "消灭嗜血食人魔后回复<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>."
+          "target": "Diệt Ogre Khát Máu rồi báo <Sát Thủ Hắc Ám/M黑暗神殿二层:72:45:暗黑刺客>."
         },
         {
           "key": "desc116",
           "occurrence": 1,
           "source": "对话<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>.",
-          "target": "对话<暗黑刺客/M黑暗神殿二层:72:45:暗黑刺客>."
+          "target": "Nói chuyện với <Sát Thủ Hắc Ám/M黑暗神殿二层:72:45:暗黑刺客>."
         },
         {
           "key": "desc117",
           "occurrence": 1,
           "source": "消灭骷髅兵长后回复<火焰法师/M黑暗神殿二层:113:98:火焰法师>.",
-          "target": "消灭骷髅兵长后回复<火焰法师/M黑暗神殿二层:113:98:火焰法师>."
+          "target": "Diệt Đội Trưởng Xương Khô rồi báo <Pháp Sư Lửa/M黑暗神殿二层:113:98:火焰法师>."
         },
         {
           "key": "desc118",
           "occurrence": 1,
           "source": "继续对话<火焰法师/M黑暗神殿二层:113:98:火焰法师>.",
-          "target": "继续对话<火焰法师/M黑暗神殿二层:113:98:火焰法师>."
+          "target": "Tiếp tục nói chuyện với <Pháp Sư Lửa/M黑暗神殿二层:113:98:火焰法师>."
         },
         {
           "key": "desc119",
