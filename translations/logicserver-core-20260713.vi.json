@@ -3014,19 +3014,19 @@
           "key": "mfm001",
           "occurrence": 1,
           "source": "<#NR在我这里可以占卜可以获得好运气!#>开启等级:50级\\\\主产奖励:40-50级装备",
-          "target": "<#NR在我这里可以占卜可以获得好运气!#>开启等级:50级\\\\主产奖励:40-50级装备"
+          "target": "<#NRTại ta bói vận để nhận may mắn!#>Cấp mở: 50\\\\Phần thưởng: Trang Bị Cấp 40-50"
         },
         {
           "key": "mfm002",
           "occurrence": 1,
           "source": "<#NR在我这里可以占卜可以获得好运气!#>1星级奖励最低,5星级奖励最好,占卜后可点击<(c0x0000ff06)我要改运结果>直接获得4星或5星奖励,改运有一定几率失败!",
-          "target": "<#NR在我这里可以占卜可以获得好运气!#>1星级奖励最低,5星级奖励最好,占卜后可点击<(c0x0000ff06)我要改运结果>直接获得4星或5星奖励,改运有一定几率失败!"
+          "target": "<#NRTại ta bói vận để nhận may mắn!#>Thưởng 1 Sao thấp nhất, 5 Sao tốt nhất. Sau khi bói, bấm <(c0x0000ff06)Ta Muốn Đổi Vận> để nhận thẳng thưởng 4 hoặc 5 Sao; đổi vận có thể thất bại!"
         },
         {
           "key": "bslg001",
           "occurrence": 1,
           "source": "<#NR传闻神墓墓穴下面隐藏着大量神魔大战后留下的装备!#>开启等级:1转50级\\\\主产奖励:50-1转装备",
-          "target": "<#NR传闻神墓墓穴下面隐藏着大量神魔大战后留下的装备!#>开启等级:1转50级\\\\主产奖励:50-1转装备"
+          "target": "<#NRTương truyền dưới Mộ Thần cất giấu rất nhiều Trang Bị từ đại chiến Thần Ma!#>Cấp mở: CS 1 Cấp 50\\\\Phần thưởng: Trang Bị Cấp 50-CS 1"
         },
         {
           "key": "bslg002",
@@ -3176,7 +3176,7 @@
           "key": "uldt001",
           "occurrence": 1,
           "source": "<#NR只要你有实力可以迅速提升你的等级!#>开启等级:1转60级\\\\主产奖励:大量经验\\\\<(c0xFFFF0000)提示：VIP玩家每次可比普通玩家多领取20%经验>",
-          "target": "<#NR只要你有实力可以迅速提升你的等级!#>开启等级:1转60级\\\\主产奖励:大量经验\\\\<(c0xFFFF0000)提示：VIP玩家每次可比普通玩家多领取20%经验>"
+          "target": "<#NRĐủ thực lực là có thể tăng cấp rất nhanh!#>Cấp mở: CS 1 Cấp 60\\\\Phần thưởng: Nhiều KN\\\\<(c0xFFFF0000)Gợi ý: VIP mỗi lần nhận hơn người thường 20% KN>"
         },
         {
           "key": "uldt002",
@@ -3212,7 +3212,7 @@
           "key": "uldt007",
           "occurrence": 1,
           "source": "<#NR只要你有实力可以迅速提升你的等级!#>你当前未领取经验:%d",
-          "target": "<#NR只要你有实力可以迅速提升你的等级!#>你当前未领取经验:%d"
+          "target": "<#NRĐủ thực lực là có thể tăng cấp rất nhanh!#>KN chưa nhận: %d"
         },
         {
           "key": "uldt008",
@@ -3302,19 +3302,19 @@
           "key": "uldt022",
           "occurrence": 1,
           "source": "VIP免费领取【可领取%d经验】",
-          "target": "VIP免费领取【可领取%d经验】"
+          "target": "VIP Nhận Miễn Phí [Nhận %d KN]"
         },
         {
           "key": "uldt023",
           "occurrence": 1,
           "source": "领取<(c0x0000ff06)%d>经验,VIP加成<(c0x0000ff06)%d>经验",
-          "target": "领取<(c0x0000ff06)%d>经验,VIP加成<(c0x0000ff06)%d>经验"
+          "target": "Nhận <(c0x0000ff06)%d> KN, VIP cộng <(c0x0000ff06)%d> KN"
         },
         {
           "key": "uldt024",
           "occurrence": 1,
           "source": "恭喜<(n%s)>在升级殿堂副本领取了<(c0x0000ff06)%d>倍经验,获得<(c0x0000ff06)%d>经验！",
-          "target": "恭喜<(n%s)>在升级殿堂副本领取了<(c0x0000ff06)%d>倍经验,获得<(c0x0000ff06)%d>经验！"
+          "target": "Chúc mừng <(n%s)> nhận KN x<(c0x0000ff06)%d> tại Phó Bản Đại Sảnh Thăng Cấp, nhận <(c0x0000ff06)%d> KN!"
         },
         {
           "key": "uldt025",
@@ -3332,7 +3332,7 @@
           "key": "uldt027",
           "occurrence": 1,
           "source": "你的等级没有达到不可以领取%d倍经验",
-          "target": "你的等级没有达到不可以领取%d倍经验"
+          "target": "Chưa đủ cấp để nhận KN x%d"
         },
         {
           "key": "gssj001",
