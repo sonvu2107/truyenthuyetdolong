@@ -65,7 +65,7 @@ def assignments(text: str, path: Path) -> dict[tuple[str, int], Assignment]:
             quote = char
             index += 1
             while index < size:
-                if text[index] == "\\\\":
+                if text[index] == "\\":
                     index += 2
                 elif text[index] == quote:
                     index += 1
@@ -97,7 +97,7 @@ def assignments(text: str, path: Path) -> dict[tuple[str, int], Assignment]:
         value_start = cursor + 1
         cursor = value_start
         while cursor < size:
-            if text[cursor] == "\\\\":
+            if text[cursor] == "\\":
                 cursor += 2
             elif text[cursor] == quote:
                 break
@@ -132,7 +132,7 @@ def invariant_values(value: str) -> dict[str, Counter[str] | int]:
 def is_escaped(value: str, position: int) -> bool:
     backslashes = 0
     position -= 1
-    while position >= 0 and value[position] == "\\\\":
+    while position >= 0 and value[position] == "\\":
         backslashes += 1
         position -= 1
     return backslashes % 2 == 1

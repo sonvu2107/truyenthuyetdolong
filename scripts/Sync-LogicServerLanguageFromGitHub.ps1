@@ -49,6 +49,14 @@ try {
         if ($relativeTarget -notmatch '^LogicServer/data/language/Zh-CN/(NormalTalk|EntityName|Quest|Item)\.txt$') {
             throw "Target is outside allowed language scope: $relativeTarget"
         }
+        $target = Join-Path $ServerRoot ($relativeTarget -replace '/', '\\')
+        $expectedSourceHash = ([string]$entry.source_sha256).ToUpperInvariant()
+        if ($expectedSourceHash -notmatch '^[0-9A-F]{64}$') {
+            throw "Missing or invalid source SHA-256: $relativeTarget"
+        }
+        if ((Get-Sha256 -Path $target) -ne $expectedSourceHash) {
+            throw "Live source SHA-256 mismatch: $relativeTarget. Files were not changed."
+        }
         $name = Split-Path -Path $relativeSource -Leaf
         $download = Join-Path $tempRoot $name
         Get-RemoteFile -Url ($RawBase.TrimEnd('/') + '/' + ($relativeSource -replace '\\', '/')) -Destination $download

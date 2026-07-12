@@ -6,21 +6,25 @@
     {
       "source": "assets/logicserver-language/Zh-CN/NormalTalk.txt",
       "target": "LogicServer/data/language/Zh-CN/NormalTalk.txt",
+      "source_sha256": "F877BA17082703E375BC9B977FF6E33A8E5E4A35A162B7BBE9DB366C37DD9F98",
       "sha256": "7728189E1E6E7E8EF1890F572E2F0524E05200DBC9A7AB3FE669EEFF52BDF485"
     },
     {
       "source": "assets/logicserver-language/Zh-CN/EntityName.txt",
       "target": "LogicServer/data/language/Zh-CN/EntityName.txt",
+      "source_sha256": "AE29C33CFBF2CC3D8F083F70404799C2529E68519006B81285AE98DEA998D195",
       "sha256": "443EFBB66BF045F166DA1313C34ACD06C47305874231DDA1747E1F88C4FAD0B7"
     },
     {
       "source": "assets/logicserver-language/Zh-CN/Quest.txt",
       "target": "LogicServer/data/language/Zh-CN/Quest.txt",
+      "source_sha256": "E9A7CFF368A1085E357C84760593505E0EEFAA3A7A737CF0A99BB046E01D47E1",
       "sha256": "066169A31362FF555B7DA64AAC72DF593B6D2341EC8764DCD3C77F6E7A4DC3F6"
     },
     {
       "source": "assets/logicserver-language/Zh-CN/Item.txt",
       "target": "LogicServer/data/language/Zh-CN/Item.txt",
+      "source_sha256": "A3CEA3F36C1C41E4CEF8A4549BF8B815DDC3BEAD286DD2EDB11494DB96CC71E1",
       "sha256": "8E8D0D6664CEBED586CDAE7FA7EE2F2DB1F541E795C391C2FE67AE63DF78CB08"
     }
   ]
