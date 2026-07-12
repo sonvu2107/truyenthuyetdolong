@@ -1394,7 +1394,7 @@
           "key": "n02005",
           "occurrence": 1,
           "source": "1.活动时间为22:30-23:05\\\\2.活动等级为:40级\\\\3.参加活动需要交金币,在活动中剩下1个人就可以到打宝区域杀怪,杀死1个怪物可以获得报名费和大量经验\\\\4.离开活动将不返还报名费\\\\5.在活动中死亡不掉落物品",
-          "target": "1.活动时间为22:30-23:05\\\\2.活动等级为:40级\\\\3.参加活动需要交金币,在活动中剩下1个人就可以到打宝区域杀怪,杀死1个怪物可以获得报名费和大量经验\\\\4.离开活动将不返还报名费\\\\5.在活动中死亡不掉落物品"
+          "target": "1. Thời gian: 22:30-23:05\\\\2. Cấp yêu cầu: 40\\\\3. Cần nộp Vàng để tham gia. Khi chỉ còn 1 người, vào khu săn kho báu diệt quái để nhận lại phí và nhiều KN\\\\4. Rời sự kiện không hoàn phí\\\\5. Chết trong sự kiện không rơi đồ"
         },
         {
           "key": "n02006",
@@ -1430,7 +1430,7 @@
           "key": "n02011",
           "occurrence": 1,
           "source": "最近有很多人来祈福!\\\\玩家每祈福一次都会以1:2的比例向玩家发放欢乐豆\\\\祈福达到一定值之后可以获得<(c0xFF00FF00)荣誉和头衔奖励>\\\\使用全服祈福,2分钟之后系统向<(c0xFF00FF00)祈福仙子附近>的玩家发放欢乐豆!\\\\使用行会祈福,2分钟之后系统向<(c0xFF00FF00)该行会的所有在线成员>发放欢乐豆!\\\\系统每发放一次都会播放一次金钱雨!\\\\\\\\<(c0xFF00FF00)祈福排行第一的玩家可以获得”慈善大师“的头衔,攻击有5%的伤害加成>",
-          "target": "最近有很多人来祈福!\\\\玩家每祈福一次都会以1:2的比例向玩家发放欢乐豆\\\\祈福达到一定值之后可以获得<(c0xFF00FF00)荣誉和头衔奖励>\\\\使用全服祈福,2分钟之后系统向<(c0xFF00FF00)祈福仙子附近>的玩家发放欢乐豆!\\\\使用行会祈福,2分钟之后系统向<(c0xFF00FF00)该行会的所有在线成员>发放欢乐豆!\\\\系统每发放一次都会播放一次金钱雨!\\\\\\\\<(c0xFF00FF00)祈福排行第一的玩家可以获得”慈善大师“的头衔,攻击有5%的伤害加成>"
+          "target": "Gần đây có nhiều người cầu nguyện!\\\\Mỗi lần cầu nguyện phát Đậu Vui Vẻ theo tỷ lệ 1:2\\\\Đạt mốc sẽ nhận <(c0xFF00FF00)Danh Dự và Danh Hiệu>\\\\Cầu nguyện toàn server: sau 2 phút phát Đậu Vui Vẻ cho người gần <(c0xFF00FF00)Tiên Nữ Cầu Nguyện>!\\\\Cầu nguyện Bang Hội: sau 2 phút phát cho <(c0xFF00FF00)toàn bộ thành viên Bang Hội online>!\\\\Mỗi lần phát sẽ có Mưa Tiền!\\\\\\\\<(c0xFF00FF00)Hạng 1 Cầu Nguyện nhận danh hiệu “Bậc Thầy Từ Thiện”, tăng 5% sát thương>"
         },
         {
           "key": "n02012",
@@ -1502,7 +1502,7 @@
           "key": "n02023",
           "occurrence": 1,
           "source": "<#NR我是行会使者,请问贵行会要参与行会活动吗?#>\\\\\\\\<(c0xFF00FF00)龙影坛副本>是行会的专属副本,在副本中击杀怪物可获得大量经验.\\\\龙影坛副本的怪物随着波数越多,数量越多,实力越强大,只能由<(c0xFF00FF00)35级及以上>行会成员挑战.\\\\由行会首领、副首领开启,每天可<(c0xFF00FF00)免费开启一次>,当天再逐次开启需要<(c0xFF00FF00)递进缴纳500000行会资金>.",
-          "target": "<#NR我是行会使者,请问贵行会要参与行会活动吗?#>\\\\\\\\<(c0xFF00FF00)龙影坛副本>是行会的专属副本,在副本中击杀怪物可获得大量经验.\\\\龙影坛副本的怪物随着波数越多,数量越多,实力越强大,只能由<(c0xFF00FF00)35级及以上>行会成员挑战.\\\\由行会首领、副首领开启,每天可<(c0xFF00FF00)免费开启一次>,当天再逐次开启需要<(c0xFF00FF00)递进缴纳500000行会资金>."
+          "target": "<#NRTa là Sứ Giả Bang Hội. Bang Hội của ngươi muốn tham gia hoạt động chứ?#>\\\\\\\\<(c0xFF00FF00)Phó Bản Long Ảnh Đàn> là phó bản riêng của Bang Hội, diệt quái nhận nhiều KN.\\\\Sóng càng cao, quái càng đông và mạnh; chỉ thành viên Bang Hội <(c0xFF00FF00)Cấp 35 trở lên> mới vào được.\\\\Bang Chủ/Phó Bang mở; mỗi ngày <(c0xFF00FF00)miễn phí 1 lần>, các lần sau tốn <(c0xFF00FF00)Quỹ Bang Hội tăng dần từ 500K>."
         },
         {
           "key": "n02024",
@@ -1658,7 +1658,7 @@
           "key": "n02049",
           "occurrence": 1,
           "source": "<(irichImg#2)> \\\\兄弟同心,其利断金\\\\这一生,有一种人叫做“兄弟”,肝胆相照,相濡以沫,一起年少轻狂,一起失声痛哭,一起荣耀辉煌!朋友是一时,兄弟是一世!\\\\",
-          "target": "<(irichImg#2)> \\\\兄弟同心,其利断金\\\\这一生,有一种人叫做“兄弟”,肝胆相照,相濡以沫,一起年少轻狂,一起失声痛哭,一起荣耀辉煌!朋友是一时,兄弟是一世!\\\\"
+          "target": "<(irichImg#2)> \\\\Huynh đệ đồng lòng, chặt sắt cũng đứt.\\\\Đời này có một người gọi là huynh đệ: cùng chia gan mật, cùng điên cuồng tuổi trẻ, cùng khóc, cùng vinh quang! Bạn bè một thời, huynh đệ một đời!\\\\"
         },
         {
           "key": "n02050",
