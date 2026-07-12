@@ -2570,19 +2570,19 @@
           "key": "marry0015",
           "occurrence": 1,
           "source": "<(n%s)>与<(n%s)>即将在教堂举办婚礼,大家可前往庆贺。<寻路前往/M圣城:0:0:爱神丘比特>",
-          "target": "<(n%s)>与<(n%s)>即将在教堂举办婚礼,大家可前往庆贺。<寻路前往/M圣城:0:0:爱神丘比特>"
+          "target": "<(n%s)> và <(n%s)> sắp tổ chức hôn lễ tại Nhà Thờ, mọi người có thể đến chúc mừng. <Đi tới/M圣城:0:0:爱神丘比特>"
         },
         {
           "key": "marry0016",
           "occurrence": 1,
           "source": "<(n%s)>与<(n%s)>即将在教堂举办隆重婚礼,大家可前往庆贺。<寻路前往/M圣城:0:0:爱神丘比特>",
-          "target": "<(n%s)>与<(n%s)>即将在教堂举办隆重婚礼,大家可前往庆贺。<寻路前往/M圣城:0:0:爱神丘比特>"
+          "target": "<(n%s)> và <(n%s)> sắp tổ chức hôn lễ long trọng tại Nhà Thờ, mọi người có thể đến chúc mừng. <Đi tới/M圣城:0:0:爱神丘比特>"
         },
         {
           "key": "marry0017",
           "occurrence": 1,
           "source": "<(n%s)>与<(n%s)>举办了豪华婚礼,即将开始绕圣城游行!<寻路前往/M圣城:0:0:爱神丘比特>",
-          "target": "<(n%s)>与<(n%s)>举办了豪华婚礼,即将开始绕圣城游行!<寻路前往/M圣城:0:0:爱神丘比特>"
+          "target": "<(n%s)> và <(n%s)> đã tổ chức hôn lễ xa hoa, sắp diễu hành quanh Thánh Thành! <Đi tới/M圣城:0:0:爱神丘比特>"
         },
         {
           "key": "marry0018",
