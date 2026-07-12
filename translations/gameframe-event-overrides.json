@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "description": "Rút gọn và sửa nghĩa các nhãn event có nguy cơ vỡ UI hoặc dịch máy sai ngữ cảnh.",
+  "overrides": {
+    "active[103]": {"source": "<font color='#e7db87' size='16'><b> Tổng số hôm nay Điểm Năng Động</b></font>", "target": "<font color='#e7db87' size='16'><b>Năng động</b></font>", "category": "status"},
+    "active[146]": {"source": "Lực chiến đề cử:", "target": "LC đề xuất:", "category": "label"},
+    "active[172]": {"source": "<font color='#ffde00'>Nguyên Bảo phục hồi </font>", "target": "<font color='#ffde00'>Bù Nguyên Bảo</font>", "category": "button"},
+    "active[176]": {"source": "<font color='#ffffff' size='13'> không đủ, hãy sử dụng Nguyên Bảo để thay thế </font>", "target": "<font color='#ffffff' size='13'>Thiếu, dùng NB</font>", "category": "notice"},
+    "active[178]": {"source": "Liệu <font color='#ffffff' size='15'> có sử dụng <font color='#ffde00'>$num$</font> hay không, Khôi phục <font color='#ff0000'>$num$</font> tài nguyên?</font>", "target": "<font color='#ffffff' size='15'>Dùng <font color='#ffde00'>$num$</font> lấy <font color='#ff0000'>$num$</font>?</font>", "category": "confirm"},
+    "active[183]": {"source": "Truy xuất tài nguyên", "target": "Lấy lại", "category": "button"},
+    "happlyWorke[4]": {"source": "Phó Bản Có Thể Hoàn Thành Nhanh", "target": "Quét Phó Bản", "category": "title"},
+    "MonsterTreasure[19]": {"source": "Bạn có thể nhận được nó khi nâng cấp lên cấp $num$", "target": "Đạt $num$ cấp nhận", "category": "status"},
+    "combineActive[3]": {"source": "<font size = '18'><font color = '#FFFF00'>    Thời Gian Gộp Server:</font>$TIME$</font>", "target": "<font size='18'><font color='#FFFF00'>Gộp Server: </font>$TIME$</font>", "category": "status"},
+    "welfare[109]": {"source": "<font color='#ffd800' size='15'><b> Khoản tiền gửi đầu tiên hàng ngày cho các máy chủ hợp nhất Gói Quà</b></font>", "target": "<font color='#ffd800' size='15'><b>Nạp Đầu Gộp</b></font>", "category": "title"},
+    "welfare[120]": {"source": "Có thể đổi không giới hạn số lần lấy Gói Quà", "target": "Đổi tự do", "category": "notice"}
+  }
+}

@@ -6373,7 +6373,7 @@
       "replacements": [
         {
           "source": "\"分钟\"",
-          "target": "\"phút\"",
+          "target": "\" phút\"",
           "expected": 1,
           "review": "segmented-machine",
           "source_lines": [
@@ -6391,7 +6391,7 @@
         },
         {
           "source": "\"小时\"",
-          "target": "\"Giờ\"",
+          "target": "\" giờ\"",
           "expected": 1,
           "review": "segmented-machine",
           "source_lines": [
@@ -7957,7 +7957,7 @@
         },
         {
           "source": "\"领取\"",
-          "target": "\"nhận được\"",
+          "target": "\"Nhận\"",
           "expected": 1,
           "review": "segmented-machine",
           "source_lines": [

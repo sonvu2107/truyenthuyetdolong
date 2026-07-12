@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "description": "Sửa chữ hardcode chỉ trong cell Thưởng Online, không ảnh hưởng các màn khác.",
+  "files": [
+    {
+      "path": "view/game/onlineAward/OnlineAwardCell.as",
+      "replacements": [
+        {"source": "\"nhận được\"", "target": "\"Nhận\"", "expected": 1},
+        {"source": "\"Giờ\"", "target": "\" giờ\"", "expected": 1},
+        {"source": "\"phút\"", "target": "\" phút\"", "expected": 1}
+      ]
+    }
+  ]
+}

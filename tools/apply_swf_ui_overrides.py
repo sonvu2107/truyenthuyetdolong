@@ -38,7 +38,13 @@ def load_overrides(path: Path) -> dict[str, dict[str, str]]:
     return overrides
 
 
-def patch_source(source: str, overrides: dict[str, dict[str, str]]) -> tuple[str, dict]:
+def patch_source(
+    source: str,
+    overrides: dict[str, dict[str, str]],
+    *,
+    accept_already_target: bool = False,
+    accepted_values: dict[str, set[str]] | None = None,
+) -> tuple[str, dict]:
     output: list[str] = []
     matched: set[str] = set()
     changes: list[dict[str, str | int]] = []
@@ -63,6 +69,38 @@ def patch_source(source: str, overrides: dict[str, dict[str, str]]) -> tuple[str
             current = decode_as_string(expression)
         except TranslationError as exc:
             raise OverrideError(f"{key} không phải chuỗi AS đơn tại dòng {line_number}") from exc
+        if current == entry["target"] and accept_already_target:
+            output.append(line)
+            matched.add(key)
+            changes.append(
+                {
+                    "key": key,
+                    "line": line_number,
+                    "source": current,
+                    "target": entry["target"],
+                    "category": entry.get("category", ""),
+                    "status": "already_target",
+                }
+            )
+            continue
+        if (
+            current != entry["source"]
+            and accepted_values
+            and current in accepted_values.get(key, set())
+        ):
+            output.append(line)
+            matched.add(key)
+            changes.append(
+                {
+                    "key": key,
+                    "line": line_number,
+                    "source": current,
+                    "target": entry["target"],
+                    "category": entry.get("category", ""),
+                    "status": "already_compatible",
+                }
+            )
+            continue
         if current != entry["source"]:
             raise OverrideError(
                 f"Nguồn không khớp tại {key}: AS={current!r}, "
@@ -83,26 +121,63 @@ def patch_source(source: str, overrides: dict[str, dict[str, str]]) -> tuple[str
                 "source": current,
                 "target": entry["target"],
                 "category": entry.get("category", ""),
+                "status": "changed",
             }
         )
 
     missing = sorted(set(overrides) - matched)
     if missing:
         raise OverrideError(f"Không tìm thấy {len(missing)} khóa override: {missing}")
-    return "".join(output), {"changed": len(changes), "changes": changes}
+    changed_count = sum(change["status"] == "changed" for change in changes)
+    already_target_count = sum(
+        change["status"] == "already_target" for change in changes
+    )
+    already_compatible_count = sum(
+        change["status"] == "already_compatible" for change in changes
+    )
+    return "".join(output), {
+        "changed": changed_count,
+        "already_target": already_target_count,
+        "already_compatible": already_compatible_count,
+        "changes": changes,
+    }
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--source", type=Path, required=True)
     parser.add_argument("--catalog", type=Path, required=True)
+    parser.add_argument(
+        "--accepted-values-catalog",
+        type=Path,
+        action="append",
+        default=[],
+        help=(
+            "Catalog cùng chuỗi thay đổi đã được chấp thuận. Nếu source hiện tại "
+            "trùng source/target của catalog này thì giữ nguyên để lô vá có thể chạy "
+            "idempotent trên SWF đã áp một phần."
+        ),
+    )
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--report", type=Path)
+    parser.add_argument(
+        "--accept-already-target",
+        action="store_true",
+        help="Chấp nhận khóa đã đúng target và ghi nhận trong báo cáo thay vì lỗi source mismatch.",
+    )
     args = parser.parse_args()
     try:
+        accepted_values: dict[str, set[str]] = {}
+        for path in args.accepted_values_catalog:
+            for key, entry in load_overrides(path).items():
+                accepted_values.setdefault(key, set()).update(
+                    (entry["source"], entry["target"])
+                )
         patched, report = patch_source(
             args.source.read_text(encoding="utf-8-sig"),
             load_overrides(args.catalog),
+            accept_already_target=args.accept_already_target,
+            accepted_values=accepted_values,
         )
         args.output.parent.mkdir(parents=True, exist_ok=True)
         args.output.write_text(patched, encoding="utf-8", newline="\n")

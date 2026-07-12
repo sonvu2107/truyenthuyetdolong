@@ -184,7 +184,7 @@
     },
     "welfare[118]": {
       "source": "Thời gian sáp nhập máy chủ <font color='#cc9966' size='15'>: </font><font color='#ffd800' size='15'><b>$num$</b></font>",
-      "target": "Thời gian gộp:",
+      "target": "Gộp:<font color='#cc9966' size='15'> </font><font color='#ffd800' size='15'><b>$num$</b></font>",
       "category": "label"
     },
     "guild[246]": {

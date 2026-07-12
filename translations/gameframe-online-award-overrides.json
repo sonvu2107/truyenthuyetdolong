@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "description": "Sửa toàn bộ chuỗi hiển thị của Thưởng Online theo thời lượng để vừa UI hai cột.",
+  "overrides": {
+    "onlineTimeAward[1]": {"source": "<font size='18'>nhu cầu</font><font size='18' color='#00CC33'>$time0$</font><font size='18'>Có thể được thu thập</font><font size='18' color='#FFA500'>$time1$trực tuyến Gói Quà</font>", "target": "<font size='16'>Còn </font><font size='16' color='#00CC33'>$time0$</font><font size='16'> nhận quà </font><font size='16' color='#FFA500'>$time1$</font>", "category": "status"},
+    "onlineTimeAward[2]": {"source": "<font size='14'> đang trực tuyến: </font><font size='14' color='#00CC33'>$time$</font>", "target": "<font size='14'>Đã online: </font><font size='14' color='#00CC33'>$time$</font>", "category": "status"},
+    "onlineTimeAward[3]": {"source": "<font size='14'></font><font  size='14' color='#FF3333'>24 giờ cùng ngày</font><font size='14'>Chưa nhận Gói Quà sẽ được tự động gửi đến hộp thư</font>", "target": "<font size='14'></font><font size='14' color='#FF3333'>24:00</font><font size='14'> quà chưa nhận tự gửi thư</font>", "category": "notice"},
+    "onlineTimeAward[4]": {"source": "Tích lũy trực tuyến <font color='#00CC33'>$time$</font> có sẵn", "target": "Online <font color='#00CC33'>$time$</font>", "category": "cell-title"},
+    "onlineTimeAward[5]": {"source": "<font size='18'> Bạn đã có thể yêu cầu tất cả thời gian trực tuyến Gói Quà</font>", "target": "<font size='16'>Đã nhận hết quà online</font>", "category": "status"},
+    "onlineTimeAward[6]": {"source": "Thời gian có sẵn Phần Thưởng", "target": "Có quà online", "category": "notification"}
+  }
+}

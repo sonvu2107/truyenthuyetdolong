@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "description": "Chuyển các giá trị UI đã từng bị rút gọn mất biến động sang target an toàn; chỉ dùng khi vá GameFrame.swf hiện hành.",
+  "overrides": {
+    "welfare[118]": {
+      "source": "Thời gian gộp:",
+      "target": "Gộp:<font color='#cc9966' size='15'> </font><font color='#ffd800' size='15'><b>$num$</b></font>",
+      "category": "legacy-repair"
+    }
+  }
+}

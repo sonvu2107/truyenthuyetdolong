@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "description": "Rút gọn các nhãn nhập liệu và thông tin hẹp đã audit trong GameFrame.",
+  "overrides": {
+    "bag[82]": {"source": "Sử dụng với số lượng lớn", "target": "Dùng nhiều", "category": "input-title"},
+    "bag[83]": {"source": "Vui lòng nhập số lượng hàng sỉ", "target": "Nhập số lượng", "category": "input"},
+    "friend[24]": {"source": "Hãy nhập tâm trạng", "target": "Nhập tâm trạng", "category": "input"},
+    "guild[136]": {"source": "Vui lòng nhập 1~6 ký tự", "target": "Nhập 1–6 ký tự", "category": "input"},
+    "storage[28]": {"source": "Vui lòng nhập số Kim Bài", "target": "Nhập số Kim Tệ", "category": "input"}
+  }
+}

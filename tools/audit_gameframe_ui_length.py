@@ -52,7 +52,12 @@ def estimated_width(value: str) -> float:
     return round(width, 2)
 
 
-def language_pairs(client_path: Path, reference_path: Path, machine_path: Path) -> tuple[dict, dict]:
+def language_pairs(
+    client_path: Path,
+    reference_path: Path,
+    machine_path: Path,
+    ui_override_paths: list[Path],
+) -> tuple[dict, dict]:
     translated = load_client_lang(client_path)
     reference = load_client_lang(reference_path)
     pairs: dict[str, dict[str, str]] = {}
@@ -85,6 +90,32 @@ def language_pairs(client_path: Path, reference_path: Path, machine_path: Path) 
             "target": entry["target"],
             "layer": "ZH_CN-extra",
         }
+
+    for override_path in ui_override_paths:
+        document = json.loads(override_path.read_text(encoding="utf-8"))
+        overrides = document.get("overrides")
+        if document.get("format") != 1 or not isinstance(overrides, dict):
+            raise ValueError(
+                f"Catalog UI override sai format 1: {override_path}"
+            )
+        for key, entry in overrides.items():
+            if not isinstance(entry, dict):
+                raise ValueError(f"Override không hợp lệ: {override_path}:{key}")
+            source = entry.get("source")
+            target = entry.get("target")
+            if not isinstance(source, str) or not isinstance(target, str):
+                raise ValueError(
+                    f"Override thiếu source/target: {override_path}:{key}"
+                )
+            if key in pairs:
+                pairs[key]["target"] = target
+                pairs[key]["layer"] = "UI override"
+            else:
+                pairs[key] = {
+                    "source": source,
+                    "target": target,
+                    "layer": "UI override",
+                }
 
     translated_keys = set(translated.scalars) | set(translated.arrays)
     reference_keys = set(reference.scalars) | set(reference.arrays)
@@ -128,12 +159,22 @@ def main() -> int:
     parser.add_argument("--client-lang", type=Path, required=True)
     parser.add_argument("--reference-client-lang", type=Path, required=True)
     parser.add_argument("--machine-catalog", type=Path, required=True)
+    parser.add_argument(
+        "--ui-override",
+        type=Path,
+        action="append",
+        default=[],
+        help="Catalog override UI áp theo đúng thứ tự build để đo target cuối.",
+    )
     parser.add_argument("--source-root", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
     args = parser.parse_args()
 
     pairs, shape = language_pairs(
-        args.client_lang, args.reference_client_lang, args.machine_catalog
+        args.client_lang,
+        args.reference_client_lang,
+        args.machine_catalog,
+        args.ui_override,
     )
     references = source_references(args.source_root)
     candidates: list[dict] = []
