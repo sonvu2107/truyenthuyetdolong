@@ -39884,61 +39884,61 @@
           "key": "n82",
           "occurrence": 1,
           "source": "先驱勋章",
-          "target": "先驱勋章"
+          "target": "Huy Chương Tiên Phong"
         },
         {
           "key": "i82",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)先驱勋章> 可以合成一个 <(c0xFFFF6600)堕落勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)先驱勋章> 可以合成一个 <(c0xFFFF6600)堕落勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Tiên Phong> hợp thành <(c0xFFFF6600)Huy Chương Đọa Lạc>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n83",
           "occurrence": 1,
           "source": "撕裂之剑",
-          "target": "撕裂之剑"
+          "target": "Kiếm Xé Rách"
         },
         {
           "key": "i83",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂之剑> 可以合成一个 <(c0xFFFF6600)诅咒之剑>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂之剑> 可以合成一个 <(c0xFFFF6600)诅咒之剑>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Kiếm Xé Rách> hợp thành <(c0xFFFF6600)Kiếm Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n84",
           "occurrence": 1,
           "source": "撕裂战衣(男)",
-          "target": "撕裂战衣(男)"
+          "target": "Giáp Xé Rách (Nam)"
         },
         {
           "key": "i84",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂战衣(男)> 可以合成一个 <(c0xFFFF6600)诅咒战衣(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂战衣(男)> 可以合成一个 <(c0xFFFF6600)诅咒战衣(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Xé Rách (Nam)> hợp thành <(c0xFFFF6600)Giáp Nguyền Rủa (Nam)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n85",
           "occurrence": 1,
           "source": "撕裂战衣(女)",
-          "target": "撕裂战衣(女)"
+          "target": "Giáp Xé Rách (Nữ)"
         },
         {
           "key": "i85",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂战衣(女)> 可以合成一个 <(c0xFFFF6600)诅咒战衣(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂战衣(女)> 可以合成一个 <(c0xFFFF6600)诅咒战衣(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Xé Rách (Nữ)> hợp thành <(c0xFFFF6600)Giáp Nguyền Rủa (Nữ)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n86",
           "occurrence": 1,
           "source": "撕裂头盔",
-          "target": "撕裂头盔"
+          "target": "Mũ Xé Rách"
         },
         {
           "key": "i86",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂头盔> 可以合成一个 <(c0xFFFF6600)诅咒头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂头盔> 可以合成一个 <(c0xFFFF6600)诅咒头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Xé Rách> hợp thành <(c0xFFFF6600)Mũ Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n87",
