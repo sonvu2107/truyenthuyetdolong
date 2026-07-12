@@ -19760,123 +19760,123 @@
         },
         {
           "key": "compTip691",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我来自暗黑刺客联盟.\\\\",
-          "target": "我来自暗黑刺客联盟.\\\\"
+          "target": "Ta đến từ Liên Minh Sát Thủ Hắc Ám.\\\\"
         },
         {
           "key": "compTip701",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我的剑就是你的剑.\\\\",
-          "target": "我的剑就是你的剑.\\\\"
+          "target": "Kiếm của ta cũng là kiếm của ngươi.\\\\"
         },
         {
           "key": "compTip71",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "怪物消灭了吗?\\\\",
-          "target": "怪物消灭了吗?\\\\"
+          "target": "Đã diệt quái rồi?\\\\"
         },
         {
           "key": "compTip711",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "死灵法师的土魔也是不错的.\\\\",
-          "target": "死灵法师的土魔也是不错的.\\\\"
+          "target": "Golem Đất của Pháp Sư Tử Linh cũng rất tốt.\\\\"
         },
         {
           "key": "compTip721",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我的技能很华丽的,可以放陷阱!\\\\",
-          "target": "我的技能很华丽的,可以放陷阱!\\\\"
+          "target": "Kỹ năng của ta rất đẹp mắt, còn đặt được bẫy!\\\\"
         },
         {
           "key": "compTip731",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年没有实力是可悲的.\\\\",
-          "target": "少年没有实力是可悲的.\\\\"
+          "target": "Thiếu hiệp không có thực lực thật đáng buồn.\\\\"
         },
         {
           "key": "compTip741",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我故乡罗格营地的姐妹们不知道怎么样了.\\\\",
-          "target": "我故乡罗格营地的姐妹们不知道怎么样了.\\\\"
+          "target": "Không biết các chị em ở Trại Rogue quê ta giờ ra sao.\\\\"
         },
         {
           "key": "compTip751",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "邪恶就是要扼杀在摇篮之中.\\\\",
-          "target": "邪恶就是要扼杀在摇篮之中.\\\\"
+          "target": "Tà ác phải bị diệt từ trong trứng nước.\\\\"
         },
         {
           "key": "compTip761",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我有个同事叫文宾,是个二货程序来的!\\\\",
-          "target": "我有个同事叫文宾,是个二货程序来的!\\\\"
+          "target": "Đồng nghiệp Văn Bân của ta là một lập trình viên ngốc nghếch!\\\\"
         },
         {
           "key": "compTip771",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我当年在库拉斯特海港做雇佣兵的!\\\\",
-          "target": "我当年在库拉斯特海港做雇佣兵的!\\\\"
+          "target": "Năm xưa ta làm lính đánh thuê ở Cảng Kurast!\\\\"
         },
         {
           "key": "compTip781",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我只是一个简单的人.\\\\",
-          "target": "我只是一个简单的人.\\\\"
+          "target": "Ta chỉ là người bình thường.\\\\"
         },
         {
           "key": "compTip791",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "怪,好多怪!\\\\",
-          "target": "怪,好多怪!\\\\"
+          "target": "Quái, quá nhiều quái!\\\\"
         },
         {
           "key": "compTip80011",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年，有何事?\\\\",
-          "target": "少年，有何事?\\\\"
+          "target": "Thiếu hiệp, có việc gì?\\\\"
         },
         {
           "key": "compTip80021",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "没有两把刷子,都不敢说自己是出来混的.\\\\",
-          "target": "没有两把刷子,都不敢说自己是出来混的.\\\\"
+          "target": "Không có bản lĩnh thì đừng nói mình lăn lộn giang hồ.\\\\"
         },
         {
           "key": "compTip80031",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年，有何事?\\\\",
-          "target": "少年，有何事?\\\\"
+          "target": "Thiếu hiệp, có việc gì?\\\\"
         },
         {
           "key": "compTip80041",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年，有何事?\\\\",
-          "target": "少年，有何事?\\\\"
+          "target": "Thiếu hiệp, có việc gì?\\\\"
         },
         {
           "key": "compTip80051",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年，有何事?\\\\",
-          "target": "少年，有何事?\\\\"
+          "target": "Thiếu hiệp, có việc gì?\\\\"
         },
         {
           "key": "compTip80061",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年，有何事?\\\\",
-          "target": "少年，有何事?\\\\"
+          "target": "Thiếu hiệp, có việc gì?\\\\"
         },
         {
           "key": "compTip80071",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年，有何事?\\\\",
-          "target": "少年，有何事?\\\\"
+          "target": "Thiếu hiệp, có việc gì?\\\\"
         },
         {
           "key": "compTip80081",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "少年，有何事?\\\\",
-          "target": "少年，有何事?\\\\"
+          "target": "Thiếu hiệp, có việc gì?\\\\"
         },
         {
           "key": "compTip80091",
