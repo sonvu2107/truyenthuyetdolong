@@ -40004,61 +40004,61 @@
           "key": "n92",
           "occurrence": 1,
           "source": "撕裂戒指",
-          "target": "撕裂戒指"
+          "target": "Nhẫn Xé Rách"
         },
         {
           "key": "i92",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂戒指> 可以合成一个 <(c0xFFFF6600)诅咒戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂戒指> 可以合成一个 <(c0xFFFF6600)诅咒戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Xé Rách> hợp thành <(c0xFFFF6600)Nhẫn Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n93",
           "occurrence": 1,
           "source": "撕裂勋章",
-          "target": "撕裂勋章"
+          "target": "Huy Chương Xé Rách"
         },
         {
           "key": "i93",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂勋章> 可以合成一个 <(c0xFFFF6600)诅咒勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂勋章> 可以合成一个 <(c0xFFFF6600)诅咒勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Xé Rách> hợp thành <(c0xFFFF6600)Huy Chương Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n94",
           "occurrence": 1,
           "source": "黄金战刀",
-          "target": "黄金战刀"
+          "target": "Đao Hoàng Kim"
         },
         {
           "key": "i94",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金战刀> 可以合成一个 <(c0xFFFF6600)卓越战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金战刀> 可以合成一个 <(c0xFFFF6600)卓越战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đao Hoàng Kim> hợp thành <(c0xFFFF6600)Đao Trác Việt>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n95",
           "occurrence": 1,
           "source": "黄金战甲(男)",
-          "target": "黄金战甲(男)"
+          "target": "Giáp Hoàng Kim (Nam)"
         },
         {
           "key": "i95",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金战甲(男)> 可以合成一个 <(c0xFFFF6600)卓越战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金战甲(男)> 可以合成一个 <(c0xFFFF6600)卓越战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Hoàng Kim (Nam)> hợp thành <(c0xFFFF6600)Giáp Trác Việt (Nam)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n96",
           "occurrence": 1,
           "source": "黄金战甲(女)",
-          "target": "黄金战甲(女)"
+          "target": "Giáp Hoàng Kim (Nữ)"
         },
         {
           "key": "i96",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金战甲(女)> 可以合成一个 <(c0xFFFF6600)卓越战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)黄金战甲(女)> 可以合成一个 <(c0xFFFF6600)卓越战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Hoàng Kim (Nữ)> hợp thành <(c0xFFFF6600)Giáp Trác Việt (Nữ)>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n97",
