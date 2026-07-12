@@ -3338,7 +3338,7 @@
           "key": "gssj001",
           "occurrence": 1,
           "source": "<#NR来我这里可以快速获得大量兽魂,提升你的坐骑实力!#>开启等级:70级\\\\主产奖励:兽魂",
-          "target": "<#NR来我这里可以快速获得大量兽魂,提升你的坐骑实力!#>开启等级:70级\\\\主产奖励:兽魂"
+          "target": "<#NRTại ta có thể nhận nhanh nhiều Thú Hồn, tăng sức mạnh Tọa Kỵ!#>Cấp mở: 70\\\\Phần thưởng: Thú Hồn"
         },
         {
           "key": "ctg001",
@@ -3422,31 +3422,31 @@
           "key": "adlr001",
           "occurrence": 1,
           "source": "<#NR BOSS安达利尔,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:60级\\\\主产奖励:40-70级装备",
-          "target": "<#NR BOSS安达利尔,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:60级\\\\主产奖励:40-70级装备"
+          "target": "<#NRBoss Andariel: Không hạ nổi World Boss thì Boss ở đây ngươi chắc chắn hạ được!#>Cấp mở: 60\\\\Phần thưởng: Trang Bị Cấp 40-70"
         },
         {
           "key": "drl001",
           "occurrence": 1,
           "source": "<#NR BOSS督瑞尔,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:70级\\\\主产奖励:50-70级装备",
-          "target": "<#NR BOSS督瑞尔,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:70级\\\\主产奖励:50-70级装备"
+          "target": "<#NRBoss Duriel: Không hạ nổi World Boss thì Boss ở đây ngươi chắc chắn hạ được!#>Cấp mở: 70\\\\Phần thưởng: Trang Bị Cấp 50-70"
         },
         {
           "key": "azmd001",
           "occurrence": 1,
           "source": "<#NR BOSS阿兹莫丹,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:1转50级\\\\主产奖励:50-1转装备",
-          "target": "<#NR BOSS阿兹莫丹,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:1转50级\\\\主产奖励:50-1转装备"
+          "target": "<#NRBoss Azmodan: Không hạ nổi World Boss thì Boss ở đây ngươi chắc chắn hạ được!#>Cấp mở: CS 1 Cấp 50\\\\Phần thưởng: Trang Bị Cấp 50-CS 1"
         },
         {
           "key": "mfts001",
           "occurrence": 1,
           "source": "<#NR BOSS墨菲托斯,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:1转60级\\\\主产奖励:50-1转装备",
-          "target": "<#NR BOSS墨菲托斯,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:1转60级\\\\主产奖励:50-1转装备"
+          "target": "<#NRBoss Mephisto: Không hạ nổi World Boss thì Boss ở đây ngươi chắc chắn hạ được!#>Cấp mở: CS 1 Cấp 60\\\\Phần thưởng: Trang Bị Cấp 50-CS 1"
         },
         {
           "key": "br001",
           "occurrence": 1,
           "source": "<#NR BOSS巴尔,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:2转40级\\\\主产奖励:50-1转装备",
-          "target": "<#NR BOSS巴尔,即使打不过世界BOSS那个在我这里肯定打得过!#>开启等级:2转40级\\\\主产奖励:50-1转装备"
+          "target": "<#NRBoss Baal: Không hạ nổi World Boss thì Boss ở đây ngươi chắc chắn hạ được!#>Cấp mở: CS 2 Cấp 40\\\\Phần thưởng: Trang Bị Cấp 50-CS 1"
         },
         {
           "key": "fbsz001",
