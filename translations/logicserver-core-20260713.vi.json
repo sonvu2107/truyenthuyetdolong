@@ -28360,7 +28360,7 @@
           "key": "desc30",
           "occurrence": 1,
           "source": "消灭食人花后向<老兵/M毒蛇山谷:29:83:老兵>交付.",
-          "target": "消灭食人花后向<老兵/M毒蛇山谷:29:83:老兵>交付."
+          "target": "Diệt Ma Hoa Ăn Thịt rồi báo <Lão Binh/M毒蛇山谷:29:83:老兵>."
         },
         {
           "key": "desc300",
@@ -28426,7 +28426,7 @@
           "key": "desc31",
           "occurrence": 1,
           "source": "采集火龙草后向<老兵/M毒蛇山谷:29:83:老兵>交付.",
-          "target": "采集火龙草后向<老兵/M毒蛇山谷:29:83:老兵>交付."
+          "target": "Thu thập Cỏ Hỏa Long rồi báo <Lão Binh/M毒蛇山谷:29:83:老兵>."
         },
         {
           "key": "desc310",
@@ -28492,7 +28492,7 @@
           "key": "desc32",
           "occurrence": 1,
           "source": "消灭盘踞山谷的毒蛇向<老兵/M毒蛇山谷:29:83:老兵>交付.",
-          "target": "消灭盘踞山谷的毒蛇向<老兵/M毒蛇山谷:29:83:老兵>交付."
+          "target": "Diệt Rắn Độc ở thung lũng rồi báo <Lão Binh/M毒蛇山谷:29:83:老兵>."
         },
         {
           "key": "desc320",
@@ -28558,7 +28558,7 @@
           "key": "desc33",
           "occurrence": 1,
           "source": "消灭盘踞山谷的兽人向<老兵/M毒蛇山谷:29:83:老兵>交付.",
-          "target": "消灭盘踞山谷的兽人向<老兵/M毒蛇山谷:29:83:老兵>交付."
+          "target": "Diệt Thú Nhân ở thung lũng rồi báo <Lão Binh/M毒蛇山谷:29:83:老兵>."
         },
         {
           "key": "desc330",
@@ -28624,7 +28624,7 @@
           "key": "desc34",
           "occurrence": 1,
           "source": "感受城战堡垒争霸后找<老兵/M毒蛇山谷:29:83:老兵>交付.",
-          "target": "感受城战堡垒争霸后找<老兵/M毒蛇山谷:29:83:老兵>交付."
+          "target": "Trải nghiệm Tranh Bá Pháo Đài Thành Chiến rồi gặp <Lão Binh/M毒蛇山谷:29:83:老兵>."
         },
         {
           "key": "desc340",
@@ -28690,7 +28690,7 @@
           "key": "desc35",
           "occurrence": 1,
           "source": "找到前方的罗格佣兵",
-          "target": "找到前方的罗格佣兵"
+          "target": "Tìm Lính Đánh Thuê Rogue phía trước."
         },
         {
           "key": "desc350",
@@ -28756,7 +28756,7 @@
           "key": "desc36",
           "occurrence": 1,
           "source": "消灭骷髅小怪后找到<罗格哨兵/M罗格营地:113:39:罗格哨兵>交付任务.",
-          "target": "消灭骷髅小怪后找到<罗格哨兵/M罗格营地:113:39:罗格哨兵>交付任务."
+          "target": "Diệt Xương Khô rồi tìm <Lính Gác Rogue/M罗格营地:113:39:罗格哨兵> giao nhiệm vụ."
         },
         {
           "key": "desc360",
@@ -28822,7 +28822,7 @@
           "key": "desc37",
           "occurrence": 1,
           "source": "去营地外找到<侦查哨兵/M罗格营地:126:81:侦查哨兵>.",
-          "target": "去营地外找到<侦查哨兵/M罗格营地:126:81:侦查哨兵>."
+          "target": "Ra ngoài doanh trại, tìm <Lính Gác Trinh Sát/M罗格营地:126:81:侦查哨兵>."
         },
         {
           "key": "desc370",
@@ -28888,7 +28888,7 @@
           "key": "desc38",
           "occurrence": 1,
           "source": "回去找到<凯恩/M圣城:220:180:凯恩>.",
-          "target": "回去找到<凯恩/M圣城:220:180:凯恩>."
+          "target": "Quay về tìm <Cain/M圣城:220:180:凯恩>."
         },
         {
           "key": "desc380",
@@ -28954,7 +28954,7 @@
           "key": "desc39",
           "occurrence": 1,
           "source": "找到<凯恩/M圣城:220:180:凯恩>.",
-          "target": "找到<凯恩/M圣城:220:180:凯恩>."
+          "target": "Tìm <Cain/M圣城:220:180:凯恩>."
         },
         {
           "key": "desc390",
