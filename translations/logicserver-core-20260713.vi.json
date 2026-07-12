@@ -27028,7 +27028,7 @@
           "key": "desc10",
           "occurrence": 1,
           "source": "去僵尸洞找到<神龙勇士/M僵尸洞:79:141:神龙勇士>.",
-          "target": "去僵尸洞找到<神龙勇士/M僵尸洞:79:141:神龙勇士>."
+          "target": "Đến Hang Zombie, tìm <Dũng Sĩ Thần Long/M僵尸洞:79:141:神龙勇士>."
         },
         {
           "key": "desc100",
@@ -27094,7 +27094,7 @@
           "key": "desc11",
           "occurrence": 1,
           "source": "消灭僵尸.",
-          "target": "消灭僵尸."
+          "target": "Tiêu diệt Zombie."
         },
         {
           "key": "desc110",
@@ -27160,7 +27160,7 @@
           "key": "desc12",
           "occurrence": 1,
           "source": "消灭血僵尸后找到<尸洞高人/M僵尸洞:93:91:尸洞高人>交付任务.",
-          "target": "消灭血僵尸后找到<尸洞高人/M僵尸洞:93:91:尸洞高人>交付任务."
+          "target": "Diệt Huyết Zombie rồi tìm <Cao Nhân Hang Zombie/M僵尸洞:93:91:尸洞高人> giao nhiệm vụ."
         },
         {
           "key": "desc120",
@@ -27226,7 +27226,7 @@
           "key": "desc13",
           "occurrence": 1,
           "source": "消灭电僵尸后找到<炼金老者/M僵尸洞:103:43:炼金老者>交付任务.",
-          "target": "消灭电僵尸后找到<炼金老者/M僵尸洞:103:43:炼金老者>交付任务."
+          "target": "Diệt Zombie Điện rồi tìm <Lão Nhân Giả Kim/M僵尸洞:103:43:炼金老者> giao nhiệm vụ."
         },
         {
           "key": "desc130",
@@ -27292,7 +27292,7 @@
           "key": "desc14",
           "occurrence": 1,
           "source": "继续对话<炼金老者/M僵尸洞:103:43:炼金老者>.",
-          "target": "继续对话<炼金老者/M僵尸洞:103:43:炼金老者>."
+          "target": "Tiếp tục nói chuyện với <Lão Nhân Giả Kim/M僵尸洞:103:43:炼金老者>."
         },
         {
           "key": "desc140",
@@ -27358,7 +27358,7 @@
           "key": "desc15",
           "occurrence": 1,
           "source": "去毒蛇山谷找到昔日的<羽林卫/M毒蛇山谷:55:151:羽林卫>.",
-          "target": "去毒蛇山谷找到昔日的<羽林卫/M毒蛇山谷:55:151:羽林卫>."
+          "target": "Đến Thung Lũng Rắn Độc, tìm <Cấm Vệ Quân Năm Xưa/M毒蛇山谷:55:151:羽林卫>."
         },
         {
           "key": "desc150",
@@ -27424,7 +27424,7 @@
           "key": "desc16",
           "occurrence": 1,
           "source": "消灭前方的食人花后找到<山谷守卫/M毒蛇山谷:53:95:山谷守卫>交付任务.",
-          "target": "消灭前方的食人花后找到<山谷守卫/M毒蛇山谷:53:95:山谷守卫>交付任务."
+          "target": "Diệt Ma Hoa Ăn Thịt phía trước rồi tìm <Hộ Vệ Thung Lũng/M毒蛇山谷:53:95:山谷守卫> giao nhiệm vụ."
         },
         {
           "key": "desc160",
@@ -27490,7 +27490,7 @@
           "key": "desc17",
           "occurrence": 1,
           "source": "消灭红蛇后回复<山谷守卫/M毒蛇山谷:53:95:山谷守卫>.",
-          "target": "消灭红蛇后回复<山谷守卫/M毒蛇山谷:53:95:山谷守卫>."
+          "target": "Diệt Rắn Đỏ rồi báo <Hộ Vệ Thung Lũng/M毒蛇山谷:53:95:山谷守卫>."
         },
         {
           "key": "desc170",
@@ -27556,7 +27556,7 @@
           "key": "desc18",
           "occurrence": 1,
           "source": "消灭残暴的兽族后回复<圣城使者/M毒蛇山谷:44:41:圣城使者>交付任务.",
-          "target": "消灭残暴的兽族后回复<圣城使者/M毒蛇山谷:44:41:圣城使者>交付任务."
+          "target": "Diệt Thú Tộc Hung Bạo rồi báo <Sứ Giả Thánh Thành/M毒蛇山谷:44:41:圣城使者> giao nhiệm vụ."
         },
         {
           "key": "desc180",
@@ -27622,7 +27622,7 @@
           "key": "desc19",
           "occurrence": 1,
           "source": "回去对话<村长/M边界村:82:98:村长>.",
-          "target": "回去对话<村长/M边界村:82:98:村长>."
+          "target": "Về gặp <Trưởng Làng/M边界村:82:98:村长>."
         },
         {
           "key": "desc190",
