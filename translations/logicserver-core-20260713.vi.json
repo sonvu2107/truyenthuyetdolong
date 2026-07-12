@@ -2420,151 +2420,151 @@
           "key": "hadjt0003",
           "occurrence": 1,
           "source": "想要装备吗？就去黑暗大教堂吧",
-          "target": "想要装备吗？就去黑暗大教堂吧"
+          "target": "Muốn Trang Bị? Hãy đến Nhà Thờ Hắc Ám!"
         },
         {
           "key": "hadjt0004",
           "occurrence": 1,
           "source": "<#NR骷髅王的力量在逐渐侵蚀着大教堂,无边黑暗让人绝望。不过其中的宝藏同样让人趋之若鹜。想要宝藏吗？#>开启等级:60级\\\\开启时间:21:30-22:30\\\\主产奖励:装备、道具\\\\提示:地图有安全区域和非安全PK区,BOSS出没在非安全PK区!",
-          "target": "<#NR骷髅王的力量在逐渐侵蚀着大教堂,无边黑暗让人绝望。不过其中的宝藏同样让人趋之若鹜。想要宝藏吗？#>开启等级:60级\\\\开启时间:21:30-22:30\\\\主产奖励:装备、道具\\\\提示:地图有安全区域和非安全PK区,BOSS出没在非安全PK区!"
+          "target": "<#NRSức mạnh Vua Xương dần nuốt chửng Nhà Thờ, bóng tối vô tận khiến người tuyệt vọng. Nhưng kho báu nơi đây cũng khiến bao người khao khát. Muốn kho báu chứ?#>Cấp mở: 60\\\\Thời gian: 21:30-22:30\\\\Phần thưởng: Trang Bị, Đạo Cụ\\\\Gợi ý: Bản đồ có khu an toàn và PK; Boss xuất hiện ở khu PK!"
         },
         {
           "key": "hadjt0005",
           "occurrence": 1,
           "source": "进入大教堂",
-          "target": "进入大教堂"
+          "target": "Vào Nhà Thờ"
         },
         {
           "key": "hadjt0006",
           "occurrence": 1,
           "source": "活动详情",
-          "target": "活动详情"
+          "target": "Chi Tiết Sự Kiện"
         },
         {
           "key": "hadjt0007",
           "occurrence": 1,
           "source": "<#NR骷髅王的力量在逐渐侵蚀着大教堂,无边黑暗让人绝望#>活动地图安全区为杀怪获得经验,非安全区为BOSS区域,可掉落大量装备和道具!",
-          "target": "<#NR骷髅王的力量在逐渐侵蚀着大教堂,无边黑暗让人绝望#>活动地图安全区为杀怪获得经验,非安全区为BOSS区域,可掉落大量装备和道具!"
+          "target": "<#NRSức mạnh Vua Xương đang nuốt chửng Nhà Thờ, bóng tối vô tận khiến người tuyệt vọng.#>Khu an toàn: diệt quái nhận KN. Khu PK: Boss rơi nhiều Trang Bị, Đạo Cụ!"
         },
         {
           "key": "hadjt0009",
           "occurrence": 1,
           "source": "雇佣战士",
-          "target": "雇佣战士"
+          "target": "Thuê Chiến Binh"
         },
         {
           "key": "hadjt0010",
           "occurrence": 1,
           "source": "雇佣法师",
-          "target": "雇佣法师"
+          "target": "Thuê Pháp Sư"
         },
         {
           "key": "hadjt0011",
           "occurrence": 1,
           "source": "雇佣道士",
-          "target": "雇佣道士"
+          "target": "Thuê Đạo Sĩ"
         },
         {
           "key": "hadjt0012",
           "occurrence": 1,
           "source": "雇佣强力打手",
-          "target": "雇佣强力打手"
+          "target": "Thuê Hộ Vệ Mạnh"
         },
         {
           "key": "gmst0001",
           "occurrence": 1,
           "source": "<#NR神圣的光明圣塔,守护着蕴含圣洁力量的天使之泪!#>开启等级:66级\\\\开启时间:每周一三五16:00-16:30\\\\主产奖励:装备、经验\\\\提示:活动期间自由进出,在活动地图内使用圣塔传送碎片兑奖比外面兑奖更划算!",
-          "target": "<#NR神圣的光明圣塔,守护着蕴含圣洁力量的天使之泪!#>开启等级:66级\\\\开启时间:每周一三五16:00-16:30\\\\主产奖励:装备、经验\\\\提示:活动期间自由进出,在活动地图内使用圣塔传送碎片兑奖比外面兑奖更划算!"
+          "target": "<#NRTháp Ánh Sáng thiêng liêng bảo vệ Nước Mắt Thiên Thần chứa sức mạnh thanh khiết!#>Cấp mở: 66\\\\Thời gian: Thứ 2, 4, 6 16:00-16:30\\\\Phần thưởng: Trang Bị, KN\\\\Gợi ý: Tự do ra vào sự kiện. Đổi Mảnh Truyền Tống Thánh Tháp trong bản đồ sẽ lợi hơn!"
         },
         {
           "key": "gmst0002",
           "occurrence": 1,
           "source": "终于等到你啦,英雄",
-          "target": "终于等到你啦,英雄"
+          "target": "Cuối cùng ngươi cũng đến, Anh Hùng!"
         },
         {
           "key": "marry0001",
           "occurrence": 1,
           "source": "我是爱情的使者,你在游戏里找到了小伙伴就来找我登记结婚吧!",
-          "target": "我是爱情的使者,你在游戏里找到了小伙伴就来找我登记结婚吧!"
+          "target": "Ta là Sứ Giả Tình Yêu. Tìm được người đồng hành rồi thì đến đăng ký kết hôn!"
         },
         {
           "key": "marry0002",
           "occurrence": 1,
           "source": "我要结婚",
-          "target": "我要结婚"
+          "target": "Kết Hôn"
         },
         {
           "key": "marry0003",
           "occurrence": 1,
           "source": "征婚",
-          "target": "征婚"
+          "target": "Tìm Bạn Đời"
         },
         {
           "key": "marry0004",
           "occurrence": 1,
           "source": "更换伴侣称号",
-          "target": "更换伴侣称号"
+          "target": "Đổi Danh Hiệu Đôi"
         },
         {
           "key": "marry0005",
           "occurrence": 1,
           "source": "结婚纪念照",
-          "target": "结婚纪念照"
+          "target": "Ảnh Kỷ Niệm Cưới"
         },
         {
           "key": "marry0006",
           "occurrence": 1,
           "source": "缠绵",
-          "target": "缠绵"
+          "target": "Âu Yếm"
         },
         {
           "key": "marry0007",
           "occurrence": 1,
           "source": "领取伴侣任务物品",
-          "target": "领取伴侣任务物品"
+          "target": "Nhận Vật Phẩm Nhiệm Vụ Đôi"
         },
         {
           "key": "marry0008",
           "occurrence": 1,
           "source": "离婚",
-          "target": "离婚"
+          "target": "Ly Hôn"
         },
         {
           "key": "marry0009",
           "occurrence": 1,
           "source": "当前已有其他玩家在举办婚礼,请稍后再来。",
-          "target": "当前已有其他玩家在举办婚礼,请稍后再来。"
+          "target": "Có người đang tổ chức hôn lễ, hãy quay lại sau."
         },
         {
           "key": "marry0010",
           "occurrence": 1,
           "source": "必须和想要一起结婚的人一起组队,且队伍中不能有其他人。",
-          "target": "必须和想要一起结婚的人一起组队,且队伍中不能有其他人。"
+          "target": "Hai người phải lập đội riêng, không được có ai khác trong đội."
         },
         {
           "key": "marry0011",
           "occurrence": 1,
           "source": "结婚双方等级必须达到20级以上。",
-          "target": "结婚双方等级必须达到20级以上。"
+          "target": "Cả hai phải từ Cấp 20 trở lên."
         },
         {
           "key": "marry0012",
           "occurrence": 1,
           "source": "%s已有伴侣,不能再次结婚。",
-          "target": "%s已有伴侣,不能再次结婚。"
+          "target": "%s đã có bạn đời, không thể kết hôn nữa."
         },
         {
           "key": "marry0013",
           "occurrence": 1,
           "source": "必须双方都在爱神丘比特附近,才可进行结婚。",
-          "target": "必须双方都在爱神丘比特附近,才可进行结婚。"
+          "target": "Cả hai phải đứng gần Thần Tình Yêu Cupid mới có thể kết hôn."
         },
         {
           "key": "marry0014",
           "occurrence": 1,
           "source": "恭喜<(n%s)>与<(n%s)>结为伴侣,祝他们永结同心,幸福美满!",
-          "target": "恭喜<(n%s)>与<(n%s)>结为伴侣,祝他们永结同心,幸福美满!"
+          "target": "Chúc mừng <(n%s)> và <(n%s)> kết thành bạn đời, chúc hai người trăm năm hạnh phúc!"
         },
         {
           "key": "marry0015",
@@ -2588,31 +2588,31 @@
           "key": "marry0018",
           "occurrence": 1,
           "source": "在这个神圣的地方,一同感受新人带来的幸福和神赋予你的祝福吧!",
-          "target": "在这个神圣的地方,一同感受新人带来的幸福和神赋予你的祝福吧!"
+          "target": "Tại nơi thiêng liêng này, cùng cảm nhận hạnh phúc của đôi uyên ương và phúc lành của thần!"
         },
         {
           "key": "marry0019",
           "occurrence": 1,
           "source": "礼花庆贺",
-          "target": "礼花庆贺"
+          "target": "Mừng Bằng Pháo Hoa"
         },
         {
           "key": "marry0020",
           "occurrence": 1,
           "source": "玫瑰雨庆贺",
-          "target": "玫瑰雨庆贺"
+          "target": "Mừng Bằng Mưa Hoa Hồng"
         },
         {
           "key": "marry0021",
           "occurrence": 1,
           "source": "发喜糖",
-          "target": "发喜糖"
+          "target": "Phát Kẹo Cưới"
         },
         {
           "key": "marry0022",
           "occurrence": 1,
           "source": "领取喜糖",
-          "target": "领取喜糖"
+          "target": "Nhận Kẹo Cưới"
         },
         {
           "key": "marry0023",
