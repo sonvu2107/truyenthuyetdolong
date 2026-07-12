@@ -1,0 +1,25 @@
+{
+  "version": "20260712logicvi1",
+  "files": [
+    {
+      "source": "assets/logicserver-language/Zh-CN/NormalTalk.txt",
+      "target": "LogicServer/data/language/Zh-CN/NormalTalk.txt",
+      "sha256": "7728189E1E6E7E8EF1890F572E2F0524E05200DBC9A7AB3FE669EEFF52BDF485"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/EntityName.txt",
+      "target": "LogicServer/data/language/Zh-CN/EntityName.txt",
+      "sha256": "443EFBB66BF045F166DA1313C34ACD06C47305874231DDA1747E1F88C4FAD0B7"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/Quest.txt",
+      "target": "LogicServer/data/language/Zh-CN/Quest.txt",
+      "sha256": "066169A31362FF555B7DA64AAC72DF593B6D2341EC8764DCD3C77F6E7A4DC3F6"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/Item.txt",
+      "target": "LogicServer/data/language/Zh-CN/Item.txt",
+      "sha256": "8E8D0D6664CEBED586CDAE7FA7EE2F2DB1F541E795C391C2FE67AE63DF78CB08"
+    }
+  ]
+}
