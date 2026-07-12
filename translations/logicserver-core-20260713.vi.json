@@ -30004,61 +30004,61 @@
           "key": "desc60",
           "occurrence": 1,
           "source": "进入崔凡克内找到<恶魔猎手/M邪恶洞穴:212:50:恶魔猎手>.交付.",
-          "target": "进入崔凡克内找到<恶魔猎手/M邪恶洞穴:212:50:恶魔猎手>.交付."
+          "target": "Vào Travincal, tìm <Thợ Săn Ác Quỷ/M邪恶洞穴:212:50:恶魔猎手> để giao nhiệm vụ."
         },
         {
           "key": "desc61",
           "occurrence": 1,
           "source": "消灭嗜血恶魔后回复<莱雅/M崔凡克:228:88:莱雅>.",
-          "target": "消灭嗜血恶魔后回复<莱雅/M崔凡克:228:88:莱雅>."
+          "target": "Diệt Ác Quỷ Khát Máu rồi báo <Leya/M崔凡克:228:88:莱雅>."
         },
         {
           "key": "desc62",
           "occurrence": 1,
           "source": "猎杀食尸虫拯救<幸存游民/M崔凡克:194:101:幸存游民>.",
-          "target": "猎杀食尸虫拯救<幸存游民/M崔凡克:194:101:幸存游民>."
+          "target": "Săn Xác Trùng để cứu <Lưu Dân Sống Sót/M崔凡克:194:101:幸存游民>."
         },
         {
           "key": "desc63",
           "occurrence": 1,
           "source": "消灭青火恶魔后回复<智慧老者/M崔凡克:174:154:智慧老者>.",
-          "target": "消灭青火恶魔后回复<智慧老者/M崔凡克:174:154:智慧老者>."
+          "target": "Diệt Ác Quỷ Lửa Xanh rồi báo <Trưởng Lão Trí Tuệ/M崔凡克:174:154:智慧老者>."
         },
         {
           "key": "desc64",
           "occurrence": 1,
           "source": "对话<神秘刺客/M崔凡克:154:147:神秘刺客>.",
-          "target": "对话<神秘刺客/M崔凡克:154:147:神秘刺客>."
+          "target": "Nói chuyện với <Sát Thủ Bí Ẩn/M崔凡克:154:147:神秘刺客>."
         },
         {
           "key": "desc65",
           "occurrence": 1,
           "source": "对话<猎魔勇士/M崔凡克:103:159:猎魔勇士>.",
-          "target": "对话<猎魔勇士/M崔凡克:103:159:猎魔勇士>."
+          "target": "Nói chuyện với <Dũng Sĩ Săn Ma/M崔凡克:103:159:猎魔勇士>."
         },
         {
           "key": "desc66",
           "occurrence": 1,
           "source": "消灭邪恶祭司后回复<神秘刺客/M崔凡克:154:147:神秘刺客>.",
-          "target": "消灭邪恶祭司后回复<神秘刺客/M崔凡克:154:147:神秘刺客>."
+          "target": "Diệt Tế Tư Tà Ác rồi báo <Sát Thủ Bí Ẩn/M崔凡克:154:147:神秘刺客>."
         },
         {
           "key": "desc67",
           "occurrence": 1,
           "source": "消灭幻影祖玛教主.",
-          "target": "消灭幻影祖玛教主."
+          "target": "Tiêu diệt Giáo Chủ Zuma Ảo Ảnh."
         },
         {
           "key": "desc68",
           "occurrence": 1,
           "source": "猎杀嗜血蝙蝠后找到<神秘刺客/M崔凡克:141:152:神秘刺客>交付任务.",
-          "target": "猎杀嗜血蝙蝠后找到<神秘刺客/M崔凡克:141:152:神秘刺客>交付任务."
+          "target": "Săn Dơi Khát Máu rồi tìm <Sát Thủ Bí Ẩn/M崔凡克:141:152:神秘刺客> giao nhiệm vụ."
         },
         {
           "key": "desc69",
           "occurrence": 1,
           "source": "消灭堕落战士后找到<圣堂祭司/M崔凡克:58:195:圣堂祭司>对话.",
-          "target": "消灭堕落战士后找到<圣堂祭司/M崔凡克:58:195:圣堂祭司>对话."
+          "target": "Diệt Chiến Sĩ Sa Ngã rồi gặp <Tế Tư Thánh Đường/M崔凡克:58:195:圣堂祭司>."
         },
         {
           "key": "desc7",
