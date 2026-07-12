@@ -28106,51 +28106,51 @@
         },
         {
           "key": "desc262",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "消灭怪物后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc263",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "<伏魔元帅/M伏魔谷:57:37:伏魔元帅>大手一挥,允许你去凤鸣山对雷鸣老妖施展三光政策.",
-          "target": "<伏魔元帅/M伏魔谷:57:37:伏魔元帅>大手一挥,允许你去凤鸣山对雷鸣老妖施展三光政策."
+          "target": "<Nguyên Soái Hàng Ma/M伏魔谷:57:37:伏魔元帅> vung tay, cho phép ngươi đến Phượng Minh Sơn áp dụng Chính Sách Tam Quang với Lôi Minh Lão Yêu."
         },
         {
           "key": "desc264",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "消灭怪物后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc265",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话..",
-          "target": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.."
+          "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc266",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<督军/M干燥的高地:102:75:督军>对话.",
-          "target": "消灭怪物后找<督军/M干燥的高地:102:75:督军>对话."
+          "target": "Diệt quái rồi nói chuyện với <Đốc Quân/M干燥的高地:102:75:督军>."
         },
         {
           "key": "desc267",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话.",
-          "target": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话."
+          "target": "Diệt quái rồi nói chuyện với <Kỵ Sĩ Thánh Đường/M黑暗教堂:143:138:圣堂骑士>."
         },
         {
           "key": "desc268",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Diệt quái rồi nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc269",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Diệt quái rồi nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc27",
@@ -28160,15 +28160,15 @@
         },
         {
           "key": "desc270",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "去神秘避难所找到灭魔元帅.",
-          "target": "去神秘避难所找到灭魔元帅."
+          "target": "Đến Khu Tị Nạn Bí Ẩn, tìm Nguyên Soái Diệt Ma."
         },
         {
           "key": "desc271",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "到达62级后找到圣城<凯恩/M圣城:211:214:凯恩>对话.",
-          "target": "到达62级后找到圣城<凯恩/M圣城:211:214:凯恩>对话."
+          "target": "Đạt cấp 62 rồi nói chuyện với <Cain/M圣城:211:214:凯恩> tại Thánh Thành."
         },
         {
           "key": "desc272",
