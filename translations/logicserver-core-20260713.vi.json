@@ -29026,7 +29026,7 @@
           "key": "desc40",
           "occurrence": 1,
           "source": "找到<格雷统领/M圣城:223:193:格雷统领>了解当地治安情况.",
-          "target": "找到<格雷统领/M圣城:223:193:格雷统领>了解当地治安情况."
+          "target": "Tìm <Thống Lĩnh Gray/M圣城:223:193:格雷统领> để hỏi tình hình an ninh."
         },
         {
           "key": "desc400",
@@ -29092,7 +29092,7 @@
           "key": "desc41",
           "occurrence": 1,
           "source": "猎杀血钉恶魔后找到<格雷统领/M圣城:223:193:格雷统领>交付.",
-          "target": "猎杀血钉恶魔后找到<格雷统领/M圣城:223:193:格雷统领>交付."
+          "target": "Săn Ma Đinh Huyết rồi báo <Thống Lĩnh Gray/M圣城:223:193:格雷统领>."
         },
         {
           "key": "desc410",
@@ -29158,7 +29158,7 @@
           "key": "desc42",
           "occurrence": 1,
           "source": "拜访服装店老板<贾美拉/M圣城:156:230:贾美拉>.",
-          "target": "拜访服装店老板<贾美拉/M圣城:156:230:贾美拉>."
+          "target": "Ghé chủ tiệm trang phục <Jamella/M圣城:156:230:贾美拉>."
         },
         {
           "key": "desc420",
@@ -29224,7 +29224,7 @@
           "key": "desc43",
           "occurrence": 1,
           "source": "收集魔斧兵身上的武器后向<铁匠恰西/M圣城:166:243:铁匠恰西>交付.",
-          "target": "收集魔斧兵身上的武器后向<铁匠恰西/M圣城:166:243:铁匠恰西>交付."
+          "target": "Thu vũ khí của Ma Phủ Binh rồi báo <Thợ Rèn Charsi/M圣城:166:243:铁匠恰西>."
         },
         {
           "key": "desc430",
@@ -29290,7 +29290,7 @@
           "key": "desc44",
           "occurrence": 1,
           "source": "拜访<恰西/M圣城:166:243:恰西>.",
-          "target": "拜访<恰西/M圣城:166:243:恰西>."
+          "target": "Ghé gặp <Charsi/M圣城:166:243:恰西>."
         },
         {
           "key": "desc440",
@@ -29308,7 +29308,7 @@
           "key": "desc45",
           "occurrence": 1,
           "source": "去拜访来到圣城的<阿卡拉/M圣城:194:265:阿卡拉>.",
-          "target": "去拜访来到圣城的<阿卡拉/M圣城:194:265:阿卡拉>."
+          "target": "Ghé gặp <Akara/M圣城:194:265:阿卡拉> tại Thánh Thành."
         },
         {
           "key": "desc450",
@@ -29374,7 +29374,7 @@
           "key": "desc46",
           "occurrence": 1,
           "source": "去城外找回遗失的配方后找<阿卡拉/M圣城:194:265:阿卡拉>交付.",
-          "target": "去城外找回遗失的配方后找<阿卡拉/M圣城:194:265:阿卡拉>交付."
+          "target": "Tìm lại công thức ngoài thành rồi báo <Akara/M圣城:194:265:阿卡拉>."
         },
         {
           "key": "desc460",
@@ -29440,7 +29440,7 @@
           "key": "desc47",
           "occurrence": 1,
           "source": "拜访<马拉/M圣城:180:229:马拉>交付.",
-          "target": "拜访<马拉/M圣城:180:229:马拉>交付."
+          "target": "Ghé <Mara/M圣城:180:229:马拉> để giao nhiệm vụ."
         },
         {
           "key": "desc470",
@@ -29506,7 +29506,7 @@
           "key": "desc48",
           "occurrence": 1,
           "source": "继续和<马拉/M圣城:180:229:马拉>对话.",
-          "target": "继续和<马拉/M圣城:180:229:马拉>对话."
+          "target": "Tiếp tục nói chuyện với <Mara/M圣城:180:229:马拉>."
         },
         {
           "key": "desc480",
@@ -29572,7 +29572,7 @@
           "key": "desc49",
           "occurrence": 1,
           "source": "消灭食尸虫后回复<马拉/M圣城:180:229:马拉>.",
-          "target": "消灭食尸虫后回复<马拉/M圣城:180:229:马拉>."
+          "target": "Diệt Xác Trùng rồi báo <Mara/M圣城:180:229:马拉>."
         },
         {
           "key": "desc490",
