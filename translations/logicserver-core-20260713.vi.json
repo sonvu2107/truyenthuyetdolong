@@ -2840,7 +2840,7 @@
           "key": "stbz0001",
           "occurrence": 1,
           "source": "<#NR我们那里突然来了很多强盗抢夺了我们的宝物,需要勇士前往击杀!#>开启等级:70级 \\\\主产奖励:绑定金币\\\\<(c0xFFFF0000)提示:建议组队完成该副本!>",
-          "target": "<#NR我们那里突然来了很多强盗抢夺了我们的宝物,需要勇士前往击杀!#>开启等级:70级 \\\\主产奖励:绑定金币\\\\<(c0xFFFF0000)提示:建议组队完成该副本!>"
+          "target": "<#NRCó rất nhiều cướp đến cướp kho báu của chúng ta. Cần dũng sĩ tiêu diệt chúng!#>Cấp mở: 70 \\\\Phần thưởng: Vàng Khóa\\\\<(c0xFFFF0000)Gợi ý: Nên lập đội vượt phó bản!>"
         },
         {
           "key": "stbz0002",
@@ -2900,7 +2900,7 @@
           "key": "stbz0011",
           "occurrence": 1,
           "source": "副本介绍:\\\\1.开启等级>=70级\\\\2.主产奖励:绑定金币\\\\3.每天可免费进入1次,可增加进入次数;\\\\4.可单人或组队进入,组队进入需要由队长点击进入圣堂;",
-          "target": "副本介绍:\\\\1.开启等级>=70级\\\\2.主产奖励:绑定金币\\\\3.每天可免费进入1次,可增加进入次数;\\\\4.可单人或组队进入,组队进入需要由队长点击进入圣堂;"
+          "target": "Giới Thiệu Phó Bản:\\\\1. Cấp mở >= 70\\\\2. Phần thưởng: Vàng Khóa\\\\3. Mỗi ngày vào miễn phí 1 lần, có thể tăng lượt;\\\\4. Có thể vào một mình hoặc đội; đội phải do đội trưởng bấm vào Thánh Đường;"
         },
         {
           "key": "stbz0012",
@@ -2954,13 +2954,13 @@
           "key": "stbz0020",
           "occurrence": 1,
           "source": "<(c0x00ff00ff)剩余怪物数量:><(c0x0000ff00)%d>",
-          "target": "<(c0x00ff00ff)剩余怪物数量:><(c0x0000ff00)%d>"
+          "target": "<(c0x00ff00ff)Quái còn lại:><(c0x0000ff00)%d>"
         },
         {
           "key": "team0001",
           "occurrence": 1,
           "source": "<#NR英勇的士兵们正在前方浴血奋战,我必须管理好后方,为他们提供充足的物资保障.#>进入等级:50级\\\\主产奖励:绑定金币、经验\\\\提示:需组队2-5人才能进行\\\\",
-          "target": "<#NR英勇的士兵们正在前方浴血奋战,我必须管理好后方,为他们提供充足的物资保障.#>进入等级:50级\\\\主产奖励:绑定金币、经验\\\\提示:需组队2-5人才能进行\\\\"
+          "target": "<#NRChiến sĩ dũng cảm đang chiến đấu đẫm máu ngoài tiền tuyến. Ta phải lo hậu phương và tiếp tế đầy đủ!#>Cấp vào: 50\\\\Phần thưởng: Vàng Khóa, KN\\\\Gợi ý: Cần đội 2-5 người\\\\"
         },
         {
           "key": "team0002",
@@ -2972,7 +2972,7 @@
           "key": "team0003",
           "occurrence": 1,
           "source": "<(c0x00ff00ff)注:BOSS魔神现在已经出现在坐标(%d,%d)处,请前去击杀!>",
-          "target": "<(c0x00ff00ff)注:BOSS魔神现在已经出现在坐标(%d,%d)处,请前去击杀!>"
+          "target": "<(c0x00ff00ff)Lưu ý: Ma Thần Boss đã xuất hiện tại (%d,%d), hãy đến tiêu diệt!>"
         },
         {
           "key": "team0004",
