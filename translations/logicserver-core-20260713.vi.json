@@ -27680,9 +27680,9 @@
         },
         {
           "key": "desc199",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话.",
-          "target": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话."
+          "target": "Diệt quái rồi nói chuyện với <Kỵ Sĩ Thánh Đường/M黑暗教堂:143:138:圣堂骑士>."
         },
         {
           "key": "desc2",
@@ -27698,9 +27698,9 @@
         },
         {
           "key": "desc200",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "去拜访猎户沙雅.",
-          "target": "去拜访猎户沙雅."
+          "target": "Ghé thăm thợ săn Shaya."
         },
         {
           "key": "desc201",
@@ -27710,51 +27710,51 @@
         },
         {
           "key": "desc202",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭铁血兽人.",
-          "target": "消灭铁血兽人."
+          "target": "Diệt Thú Nhân Thiết Huyết."
         },
         {
           "key": "desc203",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭诅咒法师.",
-          "target": "消灭诅咒法师."
+          "target": "Diệt Pháp Sư Nguyền Rủa."
         },
         {
           "key": "desc204",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭爆裂怒迦.",
-          "target": "消灭爆裂怒迦."
+          "target": "Diệt Naga Bộc Phá."
         },
         {
           "key": "desc205",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭邪恶戈登.",
-          "target": "消灭邪恶戈登."
+          "target": "Diệt Gordon Tà Ác."
         },
         {
           "key": "desc206",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭洛萨血魔.",
-          "target": "消灭洛萨血魔."
+          "target": "Diệt Huyết Ma Lothar."
         },
         {
           "key": "desc207",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭世界要塞内的邪恶骑士.",
-          "target": "消灭世界要塞内的邪恶骑士."
+          "target": "Diệt Kỵ Sĩ Tà Ác trong Pháo Đài Thế Giới."
         },
         {
           "key": "desc208",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭要塞内的死神魔蛇.",
-          "target": "消灭要塞内的死神魔蛇."
+          "target": "Diệt Ma Xà Tử Thần trong pháo đài."
         },
         {
           "key": "desc209",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "回去找到<任务使者/M屠龙城:134:130:任务使者>.",
-          "target": "回去找到<任务使者/M屠龙城:134:130:任务使者>."
+          "target": "Quay về tìm <Sứ Giả Nhiệm Vụ/M屠龙城:134:130:任务使者>."
         },
         {
           "key": "desc21",
@@ -27764,15 +27764,15 @@
         },
         {
           "key": "desc210",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "找<玛雅使者/M勇者大陆:220:175:玛雅使者>对话.",
-          "target": "找<玛雅使者/M勇者大陆:220:175:玛雅使者>对话."
+          "target": "Nói chuyện với <Sứ Giả Maya/M勇者大陆:220:175:玛雅使者>."
         },
         {
           "key": "desc211",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "找到<海罗德/M勇者大陆:265:221:海罗德>对话.",
-          "target": "找到<海罗德/M勇者大陆:265:221:海罗德>对话."
+          "target": "Nói chuyện với <Herod/M勇者大陆:265:221:海罗德>."
         },
         {
           "key": "desc212",
