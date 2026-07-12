@@ -27550,7 +27550,7 @@
           "key": "desc179",
           "occurrence": 1,
           "source": "杀死血腥红魔后找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话.",
-          "target": "杀死血腥红魔后找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话."
+          "target": "Diệt Hồng Ma Đẫm Máu rồi nói chuyện với <Kẻ Diệt Ma/M幽暗丛林:133:123:恶魔杀手>."
         },
         {
           "key": "desc18",
@@ -27562,55 +27562,55 @@
           "key": "desc180",
           "occurrence": 1,
           "source": "找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话.",
-          "target": "找<恶魔杀手/M幽暗丛林:133:123:恶魔杀手>对话."
+          "target": "Nói chuyện với <Kẻ Diệt Ma/M幽暗丛林:133:123:恶魔杀手>."
         },
         {
           "key": "desc181",
           "occurrence": 1,
           "source": "找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc182",
           "occurrence": 1,
           "source": "消灭避难所死神后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "消灭避难所死神后找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Diệt Tử Thần Khu Tị Nạn rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc183",
           "occurrence": 1,
           "source": "找<恰西/M神秘避难所:194:159:恰西>对话.",
-          "target": "找<恰西/M神秘避难所:194:159:恰西>对话."
+          "target": "Nói chuyện với <Charsi/M神秘避难所:194:159:恰西>."
         },
         {
           "key": "desc184",
           "occurrence": 1,
           "source": "找<阿卡拉/M神秘避难所:121:162:阿卡拉>对话.",
-          "target": "找<阿卡拉/M神秘避难所:121:162:阿卡拉>对话."
+          "target": "Nói chuyện với <Akara/M神秘避难所:121:162:阿卡拉>."
         },
         {
           "key": "desc185",
           "occurrence": 1,
           "source": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc186",
           "occurrence": 1,
           "source": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc187",
           "occurrence": 1,
           "source": "消灭沉沦石像鬼找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "消灭沉沦石像鬼找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Diệt Gargoyle Trầm Luân rồi nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc188",
           "occurrence": 1,
           "source": "找<护卫首领/M埋骨之地:44:153:护卫首领>对话.",
-          "target": "找<护卫首领/M埋骨之地:44:153:护卫首领>对话."
+          "target": "Nói chuyện với <Thủ Lĩnh Hộ Vệ/M埋骨之地:44:153:护卫首领>."
         },
         {
           "key": "desc189",
