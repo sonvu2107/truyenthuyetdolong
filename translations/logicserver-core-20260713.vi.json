@@ -27776,51 +27776,51 @@
         },
         {
           "key": "desc212",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭牛怪后找到<少女安娜/M勇者大陆:286:251:少女安娜>对话.",
-          "target": "消灭牛怪后找到<少女安娜/M勇者大陆:286:251:少女安娜>对话."
+          "target": "Diệt Ngưu Quái rồi nói chuyện với <Thiếu Nữ Anna/M勇者大陆:286:251:少女安娜>."
         },
         {
           "key": "desc213",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭骷髅怪后找到<少女安娜/M勇者大陆:286:251:少女安娜>对话.",
-          "target": "消灭骷髅怪后找到<少女安娜/M勇者大陆:286:251:少女安娜>对话."
+          "target": "Diệt Quái Bộ Xương rồi nói chuyện với <Thiếu Nữ Anna/M勇者大陆:286:251:少女安娜>."
         },
         {
           "key": "desc214",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭黑巫师后找<露西/M冰风谷:35:51:露西>对话.",
-          "target": "消灭黑巫师后找<露西/M冰风谷:35:51:露西>对话."
+          "target": "Diệt Phù Thủy Hắc Ám rồi nói chuyện với <Lucy/M冰风谷:35:51:露西>."
         },
         {
           "key": "desc215",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭血虫后找到<苏菲菲/M冰风谷:59:87:苏菲菲>对话.",
-          "target": "消灭血虫后找到<苏菲菲/M冰风谷:59:87:苏菲菲>对话."
+          "target": "Diệt Trùng Máu rồi nói chuyện với <Sophie/M冰风谷:59:87:苏菲菲>."
         },
         {
           "key": "desc216",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭寒冰魔怪后找<阿莱恩/M冰风谷:72:91:阿莱恩>对话.",
-          "target": "消灭寒冰魔怪后找<阿莱恩/M冰风谷:72:91:阿莱恩>对话."
+          "target": "Diệt Ma Quái Băng Giá rồi nói chuyện với <Allen/M冰风谷:72:91:阿莱恩>."
         },
         {
           "key": "desc217",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭前方的暗杀者后找到<赛薇娜/M冰风谷:105:67:赛薇娜>交付.",
-          "target": "消灭前方的暗杀者后找到<赛薇娜/M冰风谷:105:67:赛薇娜>交付."
+          "target": "Diệt Sát Thủ phía trước rồi báo <Savina/M冰风谷:105:67:赛薇娜>."
         },
         {
           "key": "desc218",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭前方的雪后找到<赛薇娜/M冰风谷:105:67:赛薇娜>交付.",
-          "target": "消灭前方的雪后找到<赛薇娜/M冰风谷:105:67:赛薇娜>交付."
+          "target": "Diệt Nữ Hoàng Tuyết phía trước rồi báo <Savina/M冰风谷:105:67:赛薇娜>."
         },
         {
           "key": "desc219",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "进入亚特兰蒂斯找到<罗兰佣兵/M亚特兰蒂斯:49:80:罗兰佣兵>.",
-          "target": "进入亚特兰蒂斯找到<罗兰佣兵/M亚特兰蒂斯:49:80:罗兰佣兵>."
+          "target": "Vào Atlantis, tìm <Lính Đánh Thuê Roland/M亚特兰蒂斯:49:80:罗兰佣兵>."
         },
         {
           "key": "desc22",
@@ -27830,15 +27830,15 @@
         },
         {
           "key": "desc220",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭小巴哈姆特后找到<塞尔维思/M亚特兰蒂斯:97:92:塞尔维思>.",
-          "target": "消灭小巴哈姆特后找到<塞尔维思/M亚特兰蒂斯:97:92:塞尔维思>."
+          "target": "Diệt Tiểu Bahamut rồi tìm <Selvis/M亚特兰蒂斯:97:92:塞尔维思>."
         },
         {
           "key": "desc221",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭蓝翼海怪后找到<奥斯本/M亚特兰蒂斯:103:132:奥斯本>交付.",
-          "target": "消灭蓝翼海怪后找到<奥斯本/M亚特兰蒂斯:103:132:奥斯本>交付."
+          "target": "Diệt Hải Quái Cánh Lam rồi báo <Osborne/M亚特兰蒂斯:103:132:奥斯本>."
         },
         {
           "key": "desc222",
