@@ -2228,7 +2228,7 @@
           "key": "sbk0002",
           "occurrence": 1,
           "source": "<#NR想要扬名天下,成为霸主就勇往直前攻打城战皇宫,占领城池吧!#>提示:沿着地上箭头前往城战皇宫大门处!\\\\攻城期间可通过 NPC城战使节 快速传入皇宫或通过打烂皇宫左墙、中墙和右墙进入皇宫!\\\\",
-          "target": "<#NR想要扬名天下,成为霸主就勇往直前攻打城战皇宫,占领城池吧!#>提示:沿着地上箭头前往城战皇宫大门处!\\\\攻城期间可通过 NPC城战使节 快速传入皇宫或通过打烂皇宫左墙、中墙和右墙进入皇宫!\\\\"
+          "target": "<#NRMuốn lưu danh, thành bá chủ thì hãy đánh Hoàng Cung Thành Chiến và chiếm thành!#>Gợi ý: Theo mũi tên trên đất đến cổng Hoàng Cung.\\\\Khi Công Thành, có thể nhờ NPC Sứ Giả Thành Chiến truyền vào Hoàng Cung hoặc phá tường trái/giữa/phải để vào!\\\\"
         },
         {
           "key": "rpnl0001",
@@ -2270,7 +2270,7 @@
           "key": "zhql0001",
           "occurrence": 1,
           "source": "<#NR夺宝迷城?My god,那是一个糟糕透顶的地方,墨菲托斯的黑暗已经笼罩着那里!#>开启等级:1转50级\\\\开启时间:11:00-11:30\\\\主产奖励:装备、经验\\\\提示:击杀BOSS有几率获得头顶持宝人状态,每5秒可获得奖励且在BOSS重生时可获得巨额奖励!",
-          "target": "<#NR夺宝迷城?My god,那是一个糟糕透顶的地方,墨菲托斯的黑暗已经笼罩着那里!#>开启等级:1转50级\\\\开启时间:11:00-11:30\\\\主产奖励:装备、经验\\\\提示:击杀BOSS有几率获得头顶持宝人状态,每5秒可获得奖励且在BOSS重生时可获得巨额奖励!"
+          "target": "<#NRMê Thành Đoạt Bảo? My god, nơi đó tệ hại đến cực điểm, bóng tối Mephisto đã bao phủ tất cả!#>Cấp mở: CS 1 Cấp 50\\\\Thời gian: 11:00-11:30\\\\Phần thưởng: Trang Bị, KN\\\\Gợi ý: Diệt Boss có thể nhận trạng thái Người Giữ Báu; cứ 5 giây nhận quà và nhận thưởng lớn khi Boss hồi sinh!"
         },
         {
           "key": "zhql0002",
@@ -2294,7 +2294,7 @@
           "key": "zhql0005",
           "occurrence": 1,
           "source": "<#NR夺宝迷城?My god,那是一个糟糕透顶的地方,墨菲托斯的黑暗已经笼罩着那里!#>1.地图出现强大BOSS虚弱的墨菲托斯,击杀它可获得一个宝箱标记,在BOSS重生之时可获得大量奖励;击杀拥有该标记的玩家可抢夺过来\\\\2.在地图上有几率获得生命恢复、伤害加成、双倍经验、囚牢泡点状态,状态可队伍所有成员共享,击杀拥有该状态的玩家可抢夺过来为队伍所用.",
-          "target": "<#NR夺宝迷城?My god,那是一个糟糕透顶的地方,墨菲托斯的黑暗已经笼罩着那里!#>1.地图出现强大BOSS虚弱的墨菲托斯,击杀它可获得一个宝箱标记,在BOSS重生之时可获得大量奖励;击杀拥有该标记的玩家可抢夺过来\\\\2.在地图上有几率获得生命恢复、伤害加成、双倍经验、囚牢泡点状态,状态可队伍所有成员共享,击杀拥有该状态的玩家可抢夺过来为队伍所用."
+          "target": "<#NRMê Thành Đoạt Bảo? My god, nơi đó tệ hại đến cực điểm, bóng tối Mephisto đã bao phủ tất cả!#>1. Bản đồ có Boss Mephisto Suy Yếu. Hạ hắn nhận dấu Rương Báu; khi Boss hồi sinh nhận nhiều quà. Hạ người có dấu này để cướp lại\\\\2. Có thể nhận hồi HP, tăng sát thương, KN x2 hoặc trạng thái Ngục Giam. Cả đội cùng hưởng; hạ người có trạng thái để cướp về đội."
         },
         {
           "key": "zhql0006",
@@ -2306,7 +2306,7 @@
           "key": "zhql0007",
           "occurrence": 1,
           "source": "<#NR您可雇佣超级护卫协同作战,超级护卫具有强大的攻击和持久的生命力!#>您仅可雇佣1名超级佣兵。\\\\佣兵分为三类:\\\\类型             特性              消耗\\\\防御型战士    嘲讽、护甲光环     50元宝\\\\战斗型法师    远程、雷电术       10元宝\\\\辅助型道士    施毒、削弱光环     30元宝\\\\<(c0xFFFF0000)以上护卫离开活动地图或下线后消失!>",
-          "target": "<#NR您可雇佣超级护卫协同作战,超级护卫具有强大的攻击和持久的生命力!#>您仅可雇佣1名超级佣兵。\\\\佣兵分为三类:\\\\类型             特性              消耗\\\\防御型战士    嘲讽、护甲光环     50元宝\\\\战斗型法师    远程、雷电术       10元宝\\\\辅助型道士    施毒、削弱光环     30元宝\\\\<(c0xFFFF0000)以上护卫离开活动地图或下线后消失!>"
+          "target": "<#NRCó thể thuê Siêu Hộ Vệ cùng chiến đấu; họ công mạnh và rất trâu!#>Chỉ thuê được 1 Siêu Lính.\\\\Có 3 loại:\\\\Loại             Đặc tính              Giá\\\\Chiến Binh Thủ    Khiêu Khích, Hào Quang Giáp     50 Nguyên Bảo\\\\Pháp Sư Chiến     Tầm xa, Lôi Điện     10 Nguyên Bảo\\\\Đạo Sĩ Hỗ Trợ     Độc, Hào Quang Suy Yếu     30 Nguyên Bảo\\\\<(c0xFFFF0000)Hộ Vệ sẽ biến mất khi rời bản đồ sự kiện hoặc offline!>"
         },
         {
           "key": "zhql0008",
@@ -2390,7 +2390,7 @@
           "key": "smyj0001",
           "occurrence": 1,
           "source": "<#NR原罪之战已经远去,大战过后的战场留下了众多的神魔尸体,也留下了许多强大的装备!#>开启等级:60级\\\\主产奖励:50级-1转装备\\\\每天最多可购买5次!",
-          "target": "<#NR原罪之战已经远去,大战过后的战场留下了众多的神魔尸体,也留下了许多强大的装备!#>开启等级:60级\\\\主产奖励:50级-1转装备\\\\每天最多可购买5次!"
+          "target": "<#NRSau Chiến Tranh Nguyên Tội, chiến trường còn vô số xác Thần Ma và nhiều Trang Bị mạnh!#>Cấp mở: 60\\\\Phần thưởng: Trang Bị Cấp 50 đến CS 1\\\\Mỗi ngày mua tối đa 5 lần!"
         },
         {
           "key": "hphj001",
