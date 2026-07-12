@@ -1826,7 +1826,7 @@
           "key": "n02077",
           "occurrence": 1,
           "source": "我正在收集各种等级的魔晶石,集齐一定数量可以找我兑换装备.\\\\另外告诉你一个震撼的消息,传说在岩浆深处有一个神秘的火龙宫殿,是熔岩统治者<(c0xFF00FF00)熔岩魔龙王>的行宫,如果能击败它和它的手下,那就发财了!它们身上有各种等级的装备和其他珍稀道具,不过每天<(c0xFF00FF00)11:30-11:50>和<(c0xFF00FF00)23:40-00:00>入口开放时,只有入口开放的第1分钟可以进入它的行宫,错过入口开放时的第1分钟,其他时间无法进入,想去的话到时候记得准时来找我哦!",
-          "target": "我正在收集各种等级的魔晶石,集齐一定数量可以找我兑换装备.\\\\另外告诉你一个震撼的消息,传说在岩浆深处有一个神秘的火龙宫殿,是熔岩统治者<(c0xFF00FF00)熔岩魔龙王>的行宫,如果能击败它和它的手下,那就发财了!它们身上有各种等级的装备和其他珍稀道具,不过每天<(c0xFF00FF00)11:30-11:50>和<(c0xFF00FF00)23:40-00:00>入口开放时,只有入口开放的第1分钟可以进入它的行宫,错过入口开放时的第1分钟,其他时间无法进入,想去的话到时候记得准时来找我哦!"
+          "target": "Ta thu thập Ma Tinh Thạch các cấp; đủ số lượng thì đổi Trang Bị tại ta.\\\\Tin lớn: sâu trong dung nham có Hỏa Long Cung, hành cung của <(c0xFF00FF00)Ma Long Vương Dung Nham>. Hạ nó và tay sai sẽ nhận Trang Bị/Đạo Cụ hiếm! Cửa mở mỗi ngày <(c0xFF00FF00)11:30-11:50> và <(c0xFF00FF00)23:40-00:00>, nhưng chỉ vào được trong phút đầu. Muốn đi thì đến đúng giờ!"
         },
         {
           "key": "n02078",
@@ -1922,13 +1922,13 @@
           "key": "n02093",
           "occurrence": 1,
           "source": "<#NR导师引领着他们开始强者之路的试炼征途,只有通过重重的试炼才能让他们的实力进一步升华。#>",
-          "target": "<#NR导师引领着他们开始强者之路的试炼征途,只有通过重重的试炼才能让他们的实力进一步升华。#>"
+          "target": "<#NRSư phụ dẫn họ bước vào con đường thử luyện của cường giả. Chỉ vượt qua muôn vàn thử thách mới thăng hoa thực lực.#>"
         },
         {
           "key": "n02094",
           "occurrence": 1,
           "source": "1、普通邪灵免费召唤（每次有冷却时间）\\\\2、击杀普通邪灵有几率掉落邪灵召唤令\\\\3、召战魂邪灵要<(c0xFFFF0000)1个>战魂邪灵召唤令或元宝\\\\4、召神魂邪灵要<(c0xFFFF0000)1个>神魂邪灵召唤令或元宝\\\\5、召终极邪灵要<(c0xFFFF0000)1个>终极邪灵召唤令或元宝\\\\6、每种邪灵均有召唤次数上限\\\\7、<(c0xFFFF0000)优先用召唤令召唤,用完提示用元宝召唤>",
-          "target": "1、普通邪灵免费召唤（每次有冷却时间）\\\\2、击杀普通邪灵有几率掉落邪灵召唤令\\\\3、召战魂邪灵要<(c0xFFFF0000)1个>战魂邪灵召唤令或元宝\\\\4、召神魂邪灵要<(c0xFFFF0000)1个>神魂邪灵召唤令或元宝\\\\5、召终极邪灵要<(c0xFFFF0000)1个>终极邪灵召唤令或元宝\\\\6、每种邪灵均有召唤次数上限\\\\7、<(c0xFFFF0000)优先用召唤令召唤,用完提示用元宝召唤>"
+          "target": "1. Tà Linh thường triệu hồi miễn phí (có hồi chiêu)\\\\2. Diệt Tà Linh thường có thể rơi Lệnh Triệu Hồi\\\\3. Gọi Tà Linh Chiến Hồn cần <(c0xFFFF0000)1 Lệnh> hoặc Nguyên Bảo\\\\4. Gọi Tà Linh Thần Hồn cần <(c0xFFFF0000)1 Lệnh> hoặc Nguyên Bảo\\\\5. Gọi Tà Linh Tối Thượng cần <(c0xFFFF0000)1 Lệnh> hoặc Nguyên Bảo\\\\6. Mỗi loại có giới hạn triệu hồi\\\\7. <(c0xFFFF0000)Ưu tiên dùng Lệnh; hết Lệnh mới gợi ý dùng Nguyên Bảo>"
         },
         {
           "key": "n02095",
