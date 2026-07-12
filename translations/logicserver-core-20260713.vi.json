@@ -28040,51 +28040,51 @@
         },
         {
           "key": "desc252",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "去埋骨之地.",
-          "target": "去埋骨之地."
+          "target": "Đến Vùng Chôn Cất."
         },
         {
           "key": "desc253",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭血鸟护卫.",
-          "target": "消灭血鸟护卫."
+          "target": "Diệt Hộ Vệ Huyết Điểu."
         },
         {
           "key": "desc254",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭沉沦石像鬼.",
-          "target": "消灭沉沦石像鬼."
+          "target": "Diệt Gargoyle Trầm Luân."
         },
         {
           "key": "desc255",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭鬼蛇.",
-          "target": "消灭鬼蛇."
+          "target": "Diệt Quỷ Xà."
         },
         {
           "key": "desc256",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭爆裂魔兽.",
-          "target": "消灭爆裂魔兽."
+          "target": "Diệt Ma Thú Bộc Phá."
         },
         {
           "key": "desc257",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "去世界要塞冒险.",
-          "target": "去世界要塞冒险."
+          "target": "Đến Pháo Đài Thế Giới mạo hiểm."
         },
         {
           "key": "desc258",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭甲虫恶魔.",
-          "target": "消灭甲虫恶魔."
+          "target": "Diệt Bọ Cánh Cứng Ác Quỷ."
         },
         {
           "key": "desc259",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭诅咒将军.",
-          "target": "消灭诅咒将军."
+          "target": "Diệt Tướng Quân Nguyền Rủa."
         },
         {
           "key": "desc26",
@@ -28094,15 +28094,15 @@
         },
         {
           "key": "desc260",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭恶魔鬼.",
-          "target": "消灭恶魔鬼."
+          "target": "Diệt Quỷ Ác."
         },
         {
           "key": "desc261",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "完成赏金任务并且交付任务后在找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "完成赏金任务并且交付任务后在找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Hoàn thành và nộp nhiệm vụ treo thưởng, rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc262",
