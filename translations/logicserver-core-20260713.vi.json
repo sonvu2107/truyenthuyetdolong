@@ -27694,7 +27694,7 @@
           "key": "desc20",
           "occurrence": 1,
           "source": "找到在圣城的<接引者/M圣城:50:358:接引者>.",
-          "target": "找到在圣城的<接引者/M圣城:50:358:接引者>."
+          "target": "Tìm <Người Dẫn/M圣城:50:358:接引者> tại Thánh Thành."
         },
         {
           "key": "desc200",
@@ -27760,7 +27760,7 @@
           "key": "desc21",
           "occurrence": 1,
           "source": "拜访<奥斯玛/M王城:84:66:奥斯玛>.",
-          "target": "拜访<奥斯玛/M王城:84:66:奥斯玛>."
+          "target": "Ghé gặp <Osma/M王城:84:66:奥斯玛>."
         },
         {
           "key": "desc210",
@@ -27826,7 +27826,7 @@
           "key": "desc22",
           "occurrence": 1,
           "source": "找到<小丫丫/M边界村:79:70:小丫丫>.",
-          "target": "找到<小丫丫/M边界村:79:70:小丫丫>."
+          "target": "Tìm <Tiểu Nha Nha/M边界村:79:70:小丫丫>."
         },
         {
           "key": "desc220",
@@ -27892,7 +27892,7 @@
           "key": "desc23",
           "occurrence": 1,
           "source": "拜访<女游侠/M边界村:113:54:女游侠>.",
-          "target": "拜访<女游侠/M边界村:113:54:女游侠>."
+          "target": "Ghé gặp <Nữ Du Hiệp/M边界村:113:54:女游侠>."
         },
         {
           "key": "desc230",
@@ -27958,7 +27958,7 @@
           "key": "desc24",
           "occurrence": 1,
           "source": "消灭怪物后找到<白日门勇士/M骷髅洞:99:64:白日门勇士>.",
-          "target": "消灭怪物后找到<白日门勇士/M骷髅洞:99:64:白日门勇士>."
+          "target": "Diệt quái rồi tìm <Dũng Sĩ Bạch Nhật Môn/M骷髅洞:99:64:白日门勇士>."
         },
         {
           "key": "desc240",
@@ -28024,7 +28024,7 @@
           "key": "desc25",
           "occurrence": 1,
           "source": "消灭利爪猫妖后回复<白日门勇士/M骷髅洞:99:64:白日门勇士>.",
-          "target": "消灭利爪猫妖后回复<白日门勇士/M骷髅洞:99:64:白日门勇士>."
+          "target": "Diệt Miêu Yêu Vuốt Sắc rồi báo <Dũng Sĩ Bạch Nhật Môn/M骷髅洞:99:64:白日门勇士>."
         },
         {
           "key": "desc250",
@@ -28090,7 +28090,7 @@
           "key": "desc26",
           "occurrence": 1,
           "source": "消灭银角虫.",
-          "target": "消灭银角虫."
+          "target": "Tiêu diệt Bọ Sừng Bạc."
         },
         {
           "key": "desc260",
@@ -28156,7 +28156,7 @@
           "key": "desc27",
           "occurrence": 1,
           "source": "消灭怪物后找到<冒险者/M僵尸洞:82:60:冒险者>报告情况.",
-          "target": "消灭怪物后找到<冒险者/M僵尸洞:82:60:冒险者>报告情况."
+          "target": "Diệt quái rồi báo tình hình cho <Nhà Thám Hiểm/M僵尸洞:82:60:冒险者>."
         },
         {
           "key": "desc270",
@@ -28222,7 +28222,7 @@
           "key": "desc28",
           "occurrence": 1,
           "source": "消灭怪物后找到<老兵/M毒蛇山谷:112:116:老兵>.",
-          "target": "消灭怪物后找到<老兵/M毒蛇山谷:112:116:老兵>."
+          "target": "Diệt quái rồi tìm <Lão Binh/M毒蛇山谷:112:116:老兵>."
         },
         {
           "key": "desc280",
@@ -28288,7 +28288,7 @@
           "key": "desc29",
           "occurrence": 1,
           "source": "消灭魔化鹿后找到<月儿/M边界村:117:29:月儿>.",
-          "target": "消灭魔化鹿后找到<月儿/M边界村:117:29:月儿>."
+          "target": "Diệt Hươu Ma Hóa rồi tìm <Nguyệt Nhi/M边界村:117:29:月儿>."
         },
         {
           "key": "desc290",
