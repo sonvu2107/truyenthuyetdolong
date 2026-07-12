@@ -27616,7 +27616,7 @@
           "key": "desc189",
           "occurrence": 1,
           "source": "消灭沉沦石像鬼后找<护卫首领/M埋骨之地:44:153:护卫首领>对话.",
-          "target": "消灭沉沦石像鬼后找<护卫首领/M埋骨之地:44:153:护卫首领>对话."
+          "target": "Diệt Gargoyle Trầm Luân rồi nói chuyện với <Thủ Lĩnh Hộ Vệ/M埋骨之地:44:153:护卫首领>."
         },
         {
           "key": "desc19",
@@ -27628,55 +27628,55 @@
           "key": "desc190",
           "occurrence": 1,
           "source": "找<护卫首领/M埋骨之地:44:153:护卫首领>对话.",
-          "target": "找<护卫首领/M埋骨之地:44:153:护卫首领>对话."
+          "target": "Nói chuyện với <Thủ Lĩnh Hộ Vệ/M埋骨之地:44:153:护卫首领>."
         },
         {
           "key": "desc191",
           "occurrence": 1,
           "source": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc192",
           "occurrence": 1,
           "source": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Diệt quái rồi nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc193",
           "occurrence": 1,
           "source": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc194",
           "occurrence": 1,
           "source": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话.",
-          "target": "消灭怪物后找<卡夏首领/M埋骨之地:40:160:卡夏首领>对话."
+          "target": "Diệt quái rồi nói chuyện với <Thủ Lĩnh Kashya/M埋骨之地:40:160:卡夏首领>."
         },
         {
           "key": "desc195",
           "occurrence": 1,
           "source": "找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话.",
-          "target": "找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话."
+          "target": "Nói chuyện với <Kỵ Sĩ Thánh Đường/M黑暗教堂:143:138:圣堂骑士>."
         },
         {
           "key": "desc196",
           "occurrence": 1,
           "source": "找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话.",
-          "target": "找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话."
+          "target": "Nói chuyện với <Kỵ Sĩ Thánh Đường/M黑暗教堂:143:138:圣堂骑士>."
         },
         {
           "key": "desc197",
           "occurrence": 1,
           "source": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话.",
-          "target": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话."
+          "target": "Diệt quái rồi nói chuyện với <Kỵ Sĩ Thánh Đường/M黑暗教堂:143:138:圣堂骑士>."
         },
         {
           "key": "desc198",
           "occurrence": 1,
           "source": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话.",
-          "target": "消灭怪物后找<圣堂骑士/M黑暗教堂:143:138:圣堂骑士>对话."
+          "target": "Diệt quái rồi nói chuyện với <Kỵ Sĩ Thánh Đường/M黑暗教堂:143:138:圣堂骑士>."
         },
         {
           "key": "desc199",
