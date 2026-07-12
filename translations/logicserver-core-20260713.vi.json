@@ -16708,13 +16708,13 @@
           "key": "actDesc4040",
           "occurrence": 1,
           "source": "进入30级装备副本",
-          "target": "进入30级装备副本"
+          "target": "Vào Phó Bản Trang Bị Cấp 30"
         },
         {
           "key": "actDesc4050",
           "occurrence": 1,
           "source": "进入副本<30级装备副本/M王城:0:0接引灵使>",
-          "target": "进入副本<30级装备副本/M王城:0:0接引灵使>"
+          "target": "Vào phó bản <Phó Bản Trang Bị Cấp 30/M王城:0:0接引灵使>"
         },
         {
           "key": "actDesc850",
@@ -16726,121 +16726,121 @@
           "key": "compTip01",
           "occurrence": 1,
           "source": "欺负我老糊涂吗?先完成任务再来找我吧.\\\\",
-          "target": "欺负我老糊涂吗?先完成任务再来找我吧.\\\\"
+          "target": "Dám bắt nạt lão hồ đồ à? Hoàn thành nhiệm vụ rồi quay lại gặp ta.\\\\"
         },
         {
           "key": "compTip1001",
           "occurrence": 1,
           "source": "怪物太厉害!\\\\",
-          "target": "怪物太厉害!\\\\"
+          "target": "Quái quá mạnh!\\\\"
         },
         {
           "key": "compTip101",
           "occurrence": 1,
           "source": "你是谁!\\\\",
-          "target": "你是谁!\\\\"
+          "target": "Ngươi là ai!\\\\"
         },
         {
           "key": "compTip1011",
           "occurrence": 1,
           "source": "最近精神不好!\\\\",
-          "target": "最近精神不好!\\\\"
+          "target": "Dạo này tinh thần không tốt!\\\\"
         },
         {
           "key": "compTip1021",
           "occurrence": 1,
           "source": "你的能力影响战争的平衡!\\\\",
-          "target": "你的能力影响战争的平衡!\\\\"
+          "target": "Sức mạnh của ngươi làm chiến tranh mất cân bằng!\\\\"
         },
         {
           "key": "compTip1031",
           "occurrence": 1,
           "source": "少年,你果然勇猛.\\\\",
-          "target": "少年,你果然勇猛.\\\\"
+          "target": "Thiếu niên, ngươi quả thật dũng mãnh.\\\\"
         },
         {
           "key": "compTip1041",
           "occurrence": 1,
           "source": "积弱变强,不要忽视任何弱小的对手!\\\\",
-          "target": "积弱变强,不要忽视任何弱小的对手!\\\\"
+          "target": "Từ yếu thành mạnh, đừng coi thường bất kỳ đối thủ nào!\\\\"
         },
         {
           "key": "compTip1051",
           "occurrence": 1,
           "source": "你还记得吗?窗外那被月光染亮的海洋......\\\\",
-          "target": "你还记得吗?窗外那被月光染亮的海洋......\\\\"
+          "target": "Ngươi còn nhớ không? Biển ngoài khung cửa nhuộm sáng bởi trăng...\\\\"
         },
         {
           "key": "compTip1061",
           "occurrence": 1,
           "source": "想要麻痹戒子吗?\\\\",
-          "target": "想要麻痹戒子吗?\\\\"
+          "target": "Muốn Nhẫn Tê Liệt không?\\\\"
         },
         {
           "key": "compTip1071",
           "occurrence": 1,
           "source": "我的魔法师天堂技能!\\\\",
-          "target": "我的魔法师天堂技能!\\\\"
+          "target": "Kỹ năng Thiên Đường Pháp Sư của ta!\\\\"
         },
         {
           "key": "compTip1081",
           "occurrence": 1,
           "source": "我不会亏待你哦!\\\\",
-          "target": "我不会亏待你哦!\\\\"
+          "target": "Ta sẽ không bạc đãi ngươi!\\\\"
         },
         {
           "key": "compTip1091",
           "occurrence": 1,
           "source": "真是隐天蔽日啊!当年鲁高因的沙漠黑了一阵子.\\\\",
-          "target": "真是隐天蔽日啊!当年鲁高因的沙漠黑了一阵子.\\\\"
+          "target": "Thật che trời lấp đất! Sa mạc Lut Gholein từng tối đen một thời.\\\\"
         },
         {
           "key": "compTip11",
           "occurrence": 1,
           "source": "勇士，欢迎你的到来!\\\\",
-          "target": "勇士，欢迎你的到来!\\\\"
+          "target": "Dũng sĩ, chào mừng ngươi đến!\\\\"
         },
         {
           "key": "compTip1101",
           "occurrence": 1,
           "source": "鲁高因就是屠龙城!\\\\",
-          "target": "鲁高因就是屠龙城!\\\\"
+          "target": "Lut Gholein chính là Đồ Long Thành!\\\\"
         },
         {
           "key": "compTip111",
           "occurrence": 1,
           "source": "怪物还没消灭吗?\\\\",
-          "target": "怪物还没消灭吗?\\\\"
+          "target": "Quái vẫn chưa bị tiêu diệt sao?\\\\"
         },
         {
           "key": "compTip1111",
           "occurrence": 1,
           "source": "我的剑刃风暴很厉害的!\\\\",
-          "target": "我的剑刃风暴很厉害的!\\\\"
+          "target": "Bão Kiếm của ta rất lợi hại!\\\\"
         },
         {
           "key": "compTip1121",
           "occurrence": 1,
           "source": "你的战力太低了!.\\\\",
-          "target": "你的战力太低了!.\\\\"
+          "target": "CS của ngươi quá thấp!\\\\"
         },
         {
           "key": "compTip1131",
           "occurrence": 1,
           "source": "浪费时间是可耻的!\\\\",
-          "target": "浪费时间是可耻的!\\\\"
+          "target": "Lãng phí thời gian thật đáng xấu hổ!\\\\"
         },
         {
           "key": "compTip1141",
           "occurrence": 1,
           "source": "时间需要挤出来.\\\\",
-          "target": "时间需要挤出来.\\\\"
+          "target": "Thời gian cần biết tranh thủ.\\\\"
         },
         {
           "key": "compTip1151",
           "occurrence": 1,
           "source": "到了一个陌生的地方,第一件事就是去踩点.\\\\",
-          "target": "到了一个陌生的地方,第一件事就是去踩点.\\\\"
+          "target": "Đến nơi lạ, việc đầu tiên là thăm dò.\\\\"
         },
         {
           "key": "compTip1161",
