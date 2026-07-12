@@ -39944,61 +39944,61 @@
           "key": "n87",
           "occurrence": 1,
           "source": "撕裂项链",
-          "target": "撕裂项链"
+          "target": "Dây Chuyền Xé Rách"
         },
         {
           "key": "i87",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂项链> 可以合成一个 <(c0xFFFF6600)诅咒项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂项链> 可以合成一个 <(c0xFFFF6600)诅咒项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Xé Rách> hợp thành <(c0xFFFF6600)Dây Chuyền Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n88",
           "occurrence": 1,
           "source": "撕裂手镯",
-          "target": "撕裂手镯"
+          "target": "Vòng Tay Xé Rách"
         },
         {
           "key": "i88",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂手镯> 可以合成一个 <(c0xFFFF6600)诅咒手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂手镯> 可以合成一个 <(c0xFFFF6600)诅咒手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Xé Rách> hợp thành <(c0xFFFF6600)Vòng Tay Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n89",
           "occurrence": 1,
           "source": "撕裂腰带",
-          "target": "撕裂腰带"
+          "target": "Đai Xé Rách"
         },
         {
           "key": "i89",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂腰带> 可以合成一个 <(c0xFFFF6600)诅咒腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂腰带> 可以合成一个 <(c0xFFFF6600)诅咒腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Xé Rách> hợp thành <(c0xFFFF6600)Đai Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n90",
           "occurrence": 1,
           "source": "撕裂战鞋",
-          "target": "撕裂战鞋"
+          "target": "Ủng Xé Rách"
         },
         {
           "key": "i90",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂战鞋> 可以合成一个 <(c0xFFFF6600)诅咒战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂战鞋> 可以合成一个 <(c0xFFFF6600)诅咒战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Ủng Xé Rách> hợp thành <(c0xFFFF6600)Ủng Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n91",
           "occurrence": 1,
           "source": "撕裂宝石",
-          "target": "撕裂宝石"
+          "target": "Đá Xé Rách"
         },
         {
           "key": "i91",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂宝石> 可以合成一个 <(c0xFFFF6600)诅咒宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)撕裂宝石> 可以合成一个 <(c0xFFFF6600)诅咒宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đá Xé Rách> hợp thành <(c0xFFFF6600)Đá Nguyền Rủa>, CS tăng mạnh.\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n92",
