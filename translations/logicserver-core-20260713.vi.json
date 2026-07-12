@@ -1676,7 +1676,7 @@
           "key": "n02052",
           "occurrence": 1,
           "source": "这里已是九层炼狱之中,小心!",
-          "target": "这里已是九层炼狱之中,小心!"
+          "target": "Đây là Tầng 9 Luyện Ngục, cẩn thận!"
         },
         {
           "key": "n02053",
@@ -1688,7 +1688,7 @@
           "key": "n02054",
           "occurrence": 1,
           "source": "从我这里可以出去!",
-          "target": "从我这里可以出去!"
+          "target": "Có thể rời khỏi đây qua chỗ ta!"
         },
         {
           "key": "n02055",
@@ -1742,61 +1742,61 @@
           "key": "n02063",
           "occurrence": 1,
           "source": "这里是“深渊烈域一层”,这里驻守着许多深渊魔狼,你一定要小心它们的统领.",
-          "target": "这里是“深渊烈域一层”,这里驻守着许多深渊魔狼,你一定要小心它们的统领."
+          "target": "Đây là Tầng 1 Vực Sâu Liệt Diệm, đầy Sói Ma Vực Sâu. Hãy cẩn thận Thủ Lĩnh!"
         },
         {
           "key": "n02064",
           "occurrence": 1,
           "source": "这里是“深渊烈域二层”,这里驻守着许多烈域恶魔,你一定要小心它们的统领.",
-          "target": "这里是“深渊烈域二层”,这里驻守着许多烈域恶魔,你一定要小心它们的统领."
+          "target": "Đây là Tầng 2 Vực Sâu Liệt Diệm, đầy Ác Ma Liệt Diệm. Hãy cẩn thận Thủ Lĩnh!"
         },
         {
           "key": "n02065",
           "occurrence": 1,
           "source": "这里是“深渊烈域三层”,这里驻守着许多深渊蝠妖,你一定要小心它们的统领.",
-          "target": "这里是“深渊烈域三层”,这里驻守着许多深渊蝠妖,你一定要小心它们的统领."
+          "target": "Đây là Tầng 3 Vực Sâu Liệt Diệm, đầy Dơi Yêu Vực Sâu. Hãy cẩn thận Thủ Lĩnh!"
         },
         {
           "key": "n02066",
           "occurrence": 1,
           "source": "这里是“深渊烈域四层”,这里驻守着许多恶魔之灵,你一定要小心它们的统领.",
-          "target": "这里是“深渊烈域四层”,这里驻守着许多恶魔之灵,你一定要小心它们的统领."
+          "target": "Đây là Tầng 4 Vực Sâu Liệt Diệm, đầy Linh Hồn Ác Ma. Hãy cẩn thận Thủ Lĩnh!"
         },
         {
           "key": "n02067",
           "occurrence": 1,
           "source": "这里是“深渊烈域五层”,这里驻守着许多烈域大嘴兽,这些恶魔喜食人脑,你一定要小心它们及它们的统领.",
-          "target": "这里是“深渊烈域五层”,这里驻守着许多烈域大嘴兽,这些恶魔喜食人脑,你一定要小心它们及它们的统领."
+          "target": "Đây là Tầng 5 Vực Sâu Liệt Diệm, đầy Quái Miệng Lớn Liệt Diệm. Chúng ăn não người, hãy cẩn thận!"
         },
         {
           "key": "n02068",
           "occurrence": 1,
           "source": "这里是“深渊烈域六层”,这里驻守着许多深渊食尸兽,这些魔物最喜欢吃各种尸体,你一定要小心它们.",
-          "target": "这里是“深渊烈域六层”,这里驻守着许多深渊食尸兽,这些魔物最喜欢吃各种尸体,你一定要小心它们."
+          "target": "Đây là Tầng 6 Vực Sâu Liệt Diệm, đầy Quái Ăn Xác Vực Sâu. Hãy cẩn thận chúng!"
         },
         {
           "key": "n02069",
           "occurrence": 1,
           "source": "这里是“深渊烈域七层”,这里停留着许多被吃掉尸体的深渊幽魂,这些鬼物最容易让人迷失,你一定要小心它们.",
-          "target": "这里是“深渊烈域七层”,这里停留着许多被吃掉尸体的深渊幽魂,这些鬼物最容易让人迷失,你一定要小心它们."
+          "target": "Đây là Tầng 7 Vực Sâu Liệt Diệm, đầy U Hồn Vực Sâu. Chúng dễ khiến người lạc lối, hãy cẩn thận!"
         },
         {
           "key": "n02070",
           "occurrence": 1,
           "source": "这里是“深渊烈域八层”,这里驻守着许多专门吸食灵魂的啖魂兽,这些魔物最容易真是让人恐惧啊!你一定要小心它们.",
-          "target": "这里是“深渊烈域八层”,这里驻守着许多专门吸食灵魂的啖魂兽,这些魔物最容易真是让人恐惧啊!你一定要小心它们."
+          "target": "Đây là Tầng 8 Vực Sâu Liệt Diệm, đầy Quái Nuốt Hồn. Chúng hút linh hồn, vô cùng đáng sợ!"
         },
         {
           "key": "n02071",
           "occurrence": 1,
           "source": "这里是“深渊烈域九层”,距离深渊守护者只有一步之遥,驻守这里的是强大的深渊灵将,你一定要小心它们.",
-          "target": "这里是“深渊烈域九层”,距离深渊守护者只有一步之遥,驻守这里的是强大的深渊灵将,你一定要小心它们."
+          "target": "Đây là Tầng 9 Vực Sâu Liệt Diệm, chỉ còn một bước đến Thủ Hộ Vực Sâu. Hãy cẩn thận Linh Tướng Vực Sâu!"
         },
         {
           "key": "n02072",
           "occurrence": 1,
           "source": "这里是“深渊烈域十层”,是深渊守护者的驻地,他是驻守这里的狂暴驽兽的统领,你一定要小心它们.",
-          "target": "这里是“深渊烈域十层”,是深渊守护者的驻地,他是驻守这里的狂暴驽兽的统领,你一定要小心它们."
+          "target": "Đây là Tầng 10 Vực Sâu Liệt Diệm, sào huyệt Thủ Hộ Vực Sâu và bầy Cuồng Thú. Hãy cẩn thận!"
         },
         {
           "key": "n02073",
@@ -1832,7 +1832,7 @@
           "key": "n02078",
           "occurrence": 1,
           "source": "这里有玫瑰出售",
-          "target": "这里有玫瑰出售"
+          "target": "Có Bán Hoa Hồng"
         },
         {
           "key": "n02079",
@@ -1886,13 +1886,13 @@
           "key": "n02087",
           "occurrence": 1,
           "source": "英雄,感激你救了我,特送上赫拉迪克方块",
-          "target": "英雄,感激你救了我,特送上赫拉迪克方块"
+          "target": "Anh Hùng, cảm ơn đã cứu ta. Đây là Khối Lập Phương Horadric!"
         },
         {
           "key": "n02088",
           "occurrence": 1,
           "source": "在这里相遇也算是缘分啊,要不要合作一下？你出钱,我出力!",
-          "target": "在这里相遇也算是缘分啊,要不要合作一下？你出钱,我出力!"
+          "target": "Gặp nhau cũng là duyên. Hợp tác chứ? Ngươi ra tiền, ta ra sức!"
         },
         {
           "key": "n02089",
@@ -1904,19 +1904,19 @@
           "key": "n02090",
           "occurrence": 1,
           "source": "一具发出恶臭的尸体!",
-          "target": "一具发出恶臭的尸体!"
+          "target": "Một xác chết bốc mùi!"
         },
         {
           "key": "n02091",
           "occurrence": 1,
           "source": "需要回去吗？我可以帮你传出副本!",
-          "target": "需要回去吗？我可以帮你传出副本!"
+          "target": "Cần về không? Ta có thể truyền ngươi ra khỏi phó bản!"
         },
         {
           "key": "n02092",
           "occurrence": 1,
           "source": "拜师能够让你快速的成长,每一个闪耀的强者都有一名伟大的导师。",
-          "target": "拜师能够让你快速的成长,每一个闪耀的强者都有一名伟大的导师。"
+          "target": "Bái sư giúp ngươi trưởng thành nhanh. Mỗi cường giả đều có một vị thầy vĩ đại."
         },
         {
           "key": "n02093",
@@ -1934,7 +1934,7 @@
           "key": "n02095",
           "occurrence": 1,
           "source": "在我这里可以购买药品",
-          "target": "在我这里可以购买药品"
+          "target": "Ta Có Bán Thuốc"
         },
         {
           "key": "gh00001",
