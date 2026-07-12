@@ -27484,7 +27484,7 @@
           "key": "desc169",
           "occurrence": 1,
           "source": "消灭甲虫后对话<赫拉铁力/M幽暗丛林:139:118:赫拉铁力>.",
-          "target": "消灭甲虫后对话<赫拉铁力/M幽暗丛林:139:118:赫拉铁力>."
+          "target": "Diệt Bọ Cánh Cứng rồi nói chuyện với <Hratli/M幽暗丛林:139:118:赫拉铁力>."
         },
         {
           "key": "desc17",
@@ -27496,55 +27496,55 @@
           "key": "desc170",
           "occurrence": 1,
           "source": "消灭阿兹莫丹之魂后找<卓格南/M圣城:187:265:卓格南>对话.冰女巫>.",
-          "target": "消灭阿兹莫丹之魂后找<卓格南/M圣城:187:265:卓格南>对话.冰女巫>."
+          "target": "Diệt Linh Hồn Azmodan rồi nói chuyện với <Drognan/M圣城:187:265:卓格南>."
         },
         {
           "key": "desc171",
           "occurrence": 1,
           "source": "等级达到59后找<卓格南/M圣城:187:265:卓格南>交付.",
-          "target": "等级达到59后找<卓格南/M圣城:187:265:卓格南>交付."
+          "target": "Đạt cấp 59 rồi báo <Drognan/M圣城:187:265:卓格南>."
         },
         {
           "key": "desc172",
           "occurrence": 1,
           "source": "去幽暗丛林找到<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>.",
-          "target": "去幽暗丛林找到<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>."
+          "target": "Đến Rừng U Ám, tìm <Hratli/M幽暗丛林:153:127:赫拉铁力>."
         },
         {
           "key": "desc173",
           "occurrence": 1,
           "source": "消灭巨大蚊子后回复<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>.",
-          "target": "消灭巨大蚊子后回复<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>."
+          "target": "Diệt Muỗi Khổng Lồ rồi báo <Hratli/M幽暗丛林:153:127:赫拉铁力>."
         },
         {
           "key": "desc174",
           "occurrence": 1,
           "source": "消灭丛林王后回复<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>..>.",
-          "target": "消灭丛林王后回复<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>..>."
+          "target": "Diệt Nữ Hoàng Rừng rồi báo <Kẻ Diệt Ma/M幽暗丛林:124:108:恶魔杀手>."
         },
         {
           "key": "desc175",
           "occurrence": 1,
           "source": "消灭蛇怪后找到<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>交付.",
-          "target": "消灭蛇怪后找到<恶魔杀手/M幽暗丛林:124:108:恶魔杀手>交付."
+          "target": "Diệt Xà Quái rồi báo <Kẻ Diệt Ma/M幽暗丛林:124:108:恶魔杀手>."
         },
         {
           "key": "desc176",
           "occurrence": 1,
           "source": "等级达到70级后找到美女小佳.",
-          "target": "等级达到70级后找到美女小佳."
+          "target": "Đạt cấp 70 rồi tìm Tiểu Giai Mỹ Nhân."
         },
         {
           "key": "desc177",
           "occurrence": 1,
           "source": "了解狩猎任务.",
-          "target": "了解狩猎任务."
+          "target": "Tìm hiểu Nhiệm Vụ Săn Bắn."
         },
         {
           "key": "desc178",
           "occurrence": 1,
           "source": "找<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>交付任务.",
-          "target": "找<赫拉铁力/M幽暗丛林:153:127:赫拉铁力>交付任务."
+          "target": "Tìm <Hratli/M幽暗丛林:153:127:赫拉铁力> để giao nhiệm vụ."
         },
         {
           "key": "desc179",
