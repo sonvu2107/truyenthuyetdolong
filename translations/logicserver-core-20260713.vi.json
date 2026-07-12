@@ -38912,7 +38912,7 @@
           "key": "n1",
           "occurrence": 1,
           "source": "铁剑",
-          "target": "铁剑"
+          "target": "Kiếm Sắt"
         },
         {
           "key": "i1",
@@ -38924,7 +38924,7 @@
           "key": "n2",
           "occurrence": 1,
           "source": "生铁衣(男)",
-          "target": "生铁衣(男)"
+          "target": "Giáp Sắt (Nam)"
         },
         {
           "key": "i2",
@@ -38936,7 +38936,7 @@
           "key": "n3",
           "occurrence": 1,
           "source": "生铁衣(女)",
-          "target": "生铁衣(女)"
+          "target": "Giáp Sắt (Nữ)"
         },
         {
           "key": "i3",
@@ -38948,7 +38948,7 @@
           "key": "n4",
           "occurrence": 1,
           "source": "精铁剑",
-          "target": "精铁剑"
+          "target": "Kiếm Tinh Sắt"
         },
         {
           "key": "i4",
@@ -38960,7 +38960,7 @@
           "key": "n5",
           "occurrence": 1,
           "source": "灵巧甲(男)",
-          "target": "灵巧甲(男)"
+          "target": "Giáp Linh Xảo (Nam)"
         },
         {
           "key": "i5",
@@ -38972,7 +38972,7 @@
           "key": "n6",
           "occurrence": 1,
           "source": "灵巧甲(女)",
-          "target": "灵巧甲(女)"
+          "target": "Giáp Linh Xảo (Nữ)"
         },
         {
           "key": "i6",
@@ -38984,7 +38984,7 @@
           "key": "n7",
           "occurrence": 1,
           "source": "灵巧腰带",
-          "target": "灵巧腰带"
+          "target": "Đai Linh Xảo"
         },
         {
           "key": "i7",
@@ -38996,7 +38996,7 @@
           "key": "n8",
           "occurrence": 1,
           "source": "灵巧战靴",
-          "target": "灵巧战靴"
+          "target": "Ủng Linh Xảo"
         },
         {
           "key": "i8",
@@ -39008,7 +39008,7 @@
           "key": "n9",
           "occurrence": 1,
           "source": "猫眼石",
-          "target": "猫眼石"
+          "target": "Đá Mắt Mèo"
         },
         {
           "key": "i9",
@@ -39020,7 +39020,7 @@
           "key": "n10",
           "occurrence": 1,
           "source": "灵巧盔",
-          "target": "灵巧盔"
+          "target": "Mũ Linh Xảo"
         },
         {
           "key": "i10",
@@ -39032,7 +39032,7 @@
           "key": "n11",
           "occurrence": 1,
           "source": "灵巧项链",
-          "target": "灵巧项链"
+          "target": "Dây Chuyền Linh Xảo"
         },
         {
           "key": "i11",
@@ -39044,7 +39044,7 @@
           "key": "n12",
           "occurrence": 1,
           "source": "灵巧护手",
-          "target": "灵巧护手"
+          "target": "Găng Linh Xảo"
         },
         {
           "key": "i12",
@@ -39056,7 +39056,7 @@
           "key": "n13",
           "occurrence": 1,
           "source": "灵巧戒指",
-          "target": "灵巧戒指"
+          "target": "Nhẫn Linh Xảo"
         },
         {
           "key": "i13",
@@ -39068,7 +39068,7 @@
           "key": "n14",
           "occurrence": 1,
           "source": "蛮力剑",
-          "target": "蛮力剑"
+          "target": "Kiếm Man Lực"
         },
         {
           "key": "i14",
@@ -39080,7 +39080,7 @@
           "key": "n15",
           "occurrence": 1,
           "source": "蛮力甲(男)",
-          "target": "蛮力甲(男)"
+          "target": "Giáp Man Lực (Nam)"
         },
         {
           "key": "i15",
@@ -39092,7 +39092,7 @@
           "key": "n16",
           "occurrence": 1,
           "source": "蛮力甲(女)",
-          "target": "蛮力甲(女)"
+          "target": "Giáp Man Lực (Nữ)"
         },
         {
           "key": "i16",
@@ -39104,7 +39104,7 @@
           "key": "n17",
           "occurrence": 1,
           "source": "蛮力盔",
-          "target": "蛮力盔"
+          "target": "Mũ Man Lực"
         },
         {
           "key": "i17",
@@ -39116,7 +39116,7 @@
           "key": "n18",
           "occurrence": 1,
           "source": "蛮力项链",
-          "target": "蛮力项链"
+          "target": "Dây Chuyền Man Lực"
         },
         {
           "key": "i18",
@@ -39128,7 +39128,7 @@
           "key": "n19",
           "occurrence": 1,
           "source": "蛮力护手",
-          "target": "蛮力护手"
+          "target": "Găng Man Lực"
         },
         {
           "key": "i19",
@@ -39140,7 +39140,7 @@
           "key": "n20",
           "occurrence": 1,
           "source": "蛮力戒指",
-          "target": "蛮力戒指"
+          "target": "Nhẫn Man Lực"
         },
         {
           "key": "i20",
