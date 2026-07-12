@@ -27220,7 +27220,7 @@
           "key": "desc129",
           "occurrence": 1,
           "source": "对话<圣堂大主教/M世界要塞:162:282:圣堂大主教>.",
-          "target": "对话<圣堂大主教/M世界要塞:162:282:圣堂大主教>."
+          "target": "Nói chuyện với <Tổng Giám Mục Thánh Đường/M世界要塞:162:282:圣堂大主教>."
         },
         {
           "key": "desc13",
@@ -27232,55 +27232,55 @@
           "key": "desc130",
           "occurrence": 1,
           "source": "消灭高等沉沦魔后回复<德萨斯/M世界要塞:180:100:德萨斯>.",
-          "target": "消灭高等沉沦魔后回复<德萨斯/M世界要塞:180:100:德萨斯>."
+          "target": "Diệt Trầm Luân Ma Cao Cấp rồi báo <Dethas/M世界要塞:180:100:德萨斯>."
         },
         {
           "key": "desc131",
           "occurrence": 1,
           "source": "拜访<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>.",
-          "target": "拜访<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>."
+          "target": "Ghé <Tế Tư Kurast/M世界要塞:34:152:库拉斯特祭司>."
         },
         {
           "key": "desc132",
           "occurrence": 1,
           "source": "消灭狼人后回复<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>.",
-          "target": "消灭狼人后回复<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>."
+          "target": "Diệt Người Sói rồi báo <Tế Tư Kurast/M世界要塞:34:152:库拉斯特祭司>."
         },
         {
           "key": "desc133",
           "occurrence": 1,
           "source": "消灭沉沦祭司长后回复<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>.",
-          "target": "消灭沉沦祭司长后回复<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>."
+          "target": "Diệt Trưởng Tế Trầm Luân rồi báo <Tế Tư Kurast/M世界要塞:34:152:库拉斯特祭司>."
         },
         {
           "key": "desc134",
           "occurrence": 1,
           "source": "对话<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>.",
-          "target": "对话<库拉斯特祭司/M世界要塞:34:152:库拉斯特祭司>."
+          "target": "Nói chuyện với <Tế Tư Kurast/M世界要塞:34:152:库拉斯特祭司>."
         },
         {
           "key": "desc135",
           "occurrence": 1,
           "source": "拜访<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>.",
-          "target": "拜访<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>."
+          "target": "Ghé <Hộ Vệ Kurast/M世界要塞:133:168:库拉斯特护卫>."
         },
         {
           "key": "desc136",
           "occurrence": 1,
           "source": "消灭暴兽后回复<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>.",
-          "target": "消灭暴兽后回复<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>."
+          "target": "Diệt Bạo Thú rồi báo <Hộ Vệ Kurast/M世界要塞:133:168:库拉斯特护卫>."
         },
         {
           "key": "desc137",
           "occurrence": 1,
           "source": "继续对话<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>.",
-          "target": "继续对话<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>."
+          "target": "Tiếp tục nói chuyện với <Hộ Vệ Kurast/M世界要塞:133:168:库拉斯特护卫>."
         },
         {
           "key": "desc138",
           "occurrence": 1,
           "source": "继续对话<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>.",
-          "target": "继续对话<库拉斯特护卫/M世界要塞:133:168:库拉斯特护卫>."
+          "target": "Tiếp tục nói chuyện với <Hộ Vệ Kurast/M世界要塞:133:168:库拉斯特护卫>."
         },
         {
           "key": "desc139",
