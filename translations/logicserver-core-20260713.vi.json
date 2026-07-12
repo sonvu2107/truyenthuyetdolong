@@ -32342,63 +32342,63 @@
         },
         {
           "key": "name320",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "完成对话",
-          "target": "完成对话"
+          "target": "Hoàn Thành Đối Thoại"
         },
         {
           "key": "name321",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "找到凯恩",
-          "target": "找到凯恩"
+          "target": "Tìm Cain"
         },
         {
           "key": "name322",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "恶魔集结",
-          "target": "恶魔集结"
+          "target": "Ác Quỷ Tập Kết"
         },
         {
           "key": "name323",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "教堂群雄",
-          "target": "教堂群雄"
+          "target": "Hào Kiệt Nhà Thờ"
         },
         {
           "key": "name324",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "血鸟卫队",
-          "target": "血鸟卫队"
+          "target": "Đội Hộ Vệ Huyết Điểu"
         },
         {
           "key": "name325",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "恶魔军队",
-          "target": "恶魔军队"
+          "target": "Quân Đội Ác Quỷ"
         },
         {
           "key": "name326",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "诛魔卫道",
-          "target": "诛魔卫道"
+          "target": "Diệt Ma Hộ Đạo"
         },
         {
           "key": "name327",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "屠魔之心",
-          "target": "屠魔之心"
+          "target": "Trái Tim Diệt Ma"
         },
         {
           "key": "name328",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "元帅的事情",
-          "target": "元帅的事情"
+          "target": "Chuyện Của Nguyên Soái"
         },
         {
           "key": "name329",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "教堂魔物",
-          "target": "教堂魔物"
+          "target": "Ma Vật Nhà Thờ"
         },
         {
           "key": "name33",
@@ -32408,63 +32408,63 @@
         },
         {
           "key": "name330",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "埋骨魔物",
-          "target": "埋骨魔物"
+          "target": "Ma Vật Vùng Chôn Cất"
         },
         {
           "key": "name331",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "黑暗怪物",
-          "target": "黑暗怪物"
+          "target": "Quái Hắc Ám"
         },
         {
           "key": "name332",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "飞天巡查",
-          "target": "飞天巡查"
+          "target": "Tuần Tra Trên Không"
         },
         {
           "key": "name333",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "远古怪物",
-          "target": "远古怪物"
+          "target": "Quái Cổ Đại"
         },
         {
           "key": "name334",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "恶魔防卫",
-          "target": "恶魔防卫"
+          "target": "Phòng Thủ Ác Quỷ"
         },
         {
           "key": "name335",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "森林之灾",
-          "target": "森林之灾"
+          "target": "Tai Họa Rừng"
         },
         {
           "key": "name336",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "提升等级",
-          "target": "提升等级"
+          "target": "Nâng Cấp"
         },
         {
           "key": "name337",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "达到要求",
-          "target": "达到要求"
+          "target": "Đạt Yêu Cầu"
         },
         {
           "key": "name338",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "剿灭怪物",
-          "target": "剿灭怪物"
+          "target": "Quét Sạch Quái"
         },
         {
           "key": "name339",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "全面高度",
-          "target": "全面高度"
+          "target": "Nâng Cao Toàn Diện"
         },
         {
           "key": "name34",
