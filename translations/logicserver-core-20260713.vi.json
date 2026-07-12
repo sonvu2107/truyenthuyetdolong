@@ -542,7 +542,7 @@
           "key": "h00090",
           "occurrence": 1,
           "source": "仙路漫漫,一朝踏进无归兮.酒中人生,醉看红尘笑苍天.这天下,唯有酒仙之道才是我之大道.",
-          "target": "仙路漫漫,一朝踏进无归兮.酒中人生,醉看红尘笑苍天.这天下,唯有酒仙之道才是我之大道."
+          "target": "Tiên lộ dài xa, một bước vào là chẳng thể quay đầu. Say giữa nhân gian, cười nhìn hồng trần. Chỉ Đạo Tửu Tiên mới là đại đạo của ta."
         },
         {
           "key": "h00091",
@@ -584,55 +584,55 @@
           "key": "h00097",
           "occurrence": 1,
           "source": "云烟水村是度假旅游的首选之地,欢迎三界四洲的旅客前来观光.",
-          "target": "云烟水村是度假旅游的首选之地,欢迎三界四洲的旅客前来观光."
+          "target": "Vân Yên Thủy Thôn là điểm nghỉ dưỡng lý tưởng. Chào đón du khách khắp Tam Giới Tứ Châu."
         },
         {
           "key": "h00098",
           "occurrence": 1,
           "source": "我是村里会计,管账的.",
-          "target": "我是村里会计,管账的."
+          "target": "Ta là kế toán trong làng, chuyên quản sổ sách."
         },
         {
           "key": "h00099",
           "occurrence": 1,
           "source": "我渴望有一段圆满的爱情,不需要轰轰烈烈,平凡就好,圆满就好!",
-          "target": "我渴望有一段圆满的爱情,不需要轰轰烈烈,平凡就好,圆满就好!"
+          "target": "Ta mong một tình yêu viên mãn; không cần rực rỡ, bình dị là đủ."
         },
         {
           "key": "h00100",
           "occurrence": 1,
           "source": "为什么不相信我?为什么不相信我?我说的都是真的!",
-          "target": "为什么不相信我?为什么不相信我?我说的都是真的!"
+          "target": "Sao không tin ta? Ta nói thật mà!"
         },
         {
           "key": "h00101",
           "occurrence": 1,
           "source": "啊!我都说了嘛,这妖怪都被我消灭了,赶紧把钱拿出来吧.本真人一秒钟几千万上下.",
-          "target": "啊!我都说了嘛,这妖怪都被我消灭了,赶紧把钱拿出来吧.本真人一秒钟几千万上下."
+          "target": "Ta đã nói rồi, yêu quái bị ta diệt hết! Mau đưa tiền đây, thời gian của chân nhân ta đáng giá ngàn vàng!"
         },
         {
           "key": "h00102",
           "occurrence": 1,
           "source": "<#NR我只是个小小的灵泉仙子,守卫着最后一片净土了.#>",
-          "target": "<#NR我只是个小小的灵泉仙子,守卫着最后一片净土了.#>"
+          "target": "<#NRTa chỉ là Tiên Nữ Linh Tuyền nhỏ bé, canh giữ mảnh đất thanh tịnh cuối cùng.#>"
         },
         {
           "key": "h00103",
           "occurrence": 1,
           "source": "唉,这么可爱的女娃怎么就让妖怪给吃了呢!人心不古,天下不平啊!",
-          "target": "唉,这么可爱的女娃怎么就让妖怪给吃了呢!人心不古,天下不平啊!"
+          "target": "Ôi, cô bé đáng yêu thế mà bị yêu quái ăn mất! Lòng người đổi thay, thiên hạ bất an!"
         },
         {
           "key": "h00104",
           "occurrence": 1,
           "source": "喊得嗓子都哑了,已经不想再喊了:妈妈,救我啊!",
-          "target": "喊得嗓子都哑了,已经不想再喊了:妈妈,救我啊!"
+          "target": "Hét khản giọng rồi, ta chẳng muốn hét nữa: Mẹ ơi, cứu con!"
         },
         {
           "key": "h00105",
           "occurrence": 1,
           "source": "世界的大爱才是我追求的终极目标,至于小爱,你可以给我,但我一定会无情的丢掉.",
-          "target": "世界的大爱才是我追求的终极目标,至于小爱,你可以给我,但我一定会无情的丢掉."
+          "target": "Đại ái nhân gian mới là mục tiêu cuối cùng của ta. Tiểu ái ngươi cứ trao, nhưng ta sẽ vô tình vứt bỏ."
         },
         {
           "key": "h00106",
@@ -644,7 +644,7 @@
           "key": "h00107",
           "occurrence": 1,
           "source": "击杀魔化水妖将掉落的圣水瓶交给我,我将给你大量经验奖励!",
-          "target": "击杀魔化水妖将掉落的圣水瓶交给我,我将给你大量经验奖励!"
+          "target": "Hãy mang Bình Thánh Thủy rơi từ Thủy Yêu Ma Hóa đến cho ta, ta sẽ thưởng rất nhiều KN!"
         },
         {
           "key": "h00108",
@@ -656,49 +656,49 @@
           "key": "h00109",
           "occurrence": 1,
           "source": "<#NR我的箭射一个准一个!#>",
-          "target": "<#NR我的箭射一个准一个!#>"
+          "target": "<#NRMũi tên của ta bách phát bách trúng!#>"
         },
         {
           "key": "h00110",
           "occurrence": 1,
           "source": "<#NR我是英勇天使泰瑞尔,来自天堂安格里斯委员会,后来为了帮助人类对付燃烧地狱的入侵来到人界对抗魔神,后来我受到天堂的排挤现在已经失去了神力无法再对抗邪恶势力,只能给予人类光明的指引道路!#>",
-          "target": "<#NR我是英勇天使泰瑞尔,来自天堂安格里斯委员会,后来为了帮助人类对付燃烧地狱的入侵来到人界对抗魔神,后来我受到天堂的排挤现在已经失去了神力无法再对抗邪恶势力,只能给予人类光明的指引道路!#>"
+          "target": "<#NRTa là Thiên Thần Dũng Cảm Tyrael, đến từ Hội Đồng Angiris. Ta xuống nhân giới chống Ma Thần, nhưng bị Thiên Giới ruồng bỏ, đã mất thần lực. Giờ ta chỉ có thể soi đường cho nhân loại.#>"
         },
         {
           "key": "h00111",
           "occurrence": 1,
           "source": "<#NR我的姐妹们都会射冰箭和火箭,以前跟随上一代英雄出生入死对抗大魔神.#>",
-          "target": "<#NR我的姐妹们都会射冰箭和火箭,以前跟随上一代英雄出生入死对抗大魔神.#>"
+          "target": "<#NRCác chị em của ta đều biết bắn Băng Tiễn và Hỏa Tiễn, từng theo anh hùng đời trước chiến đấu với Ma Thần.#>"
         },
         {
           "key": "h00112",
           "occurrence": 1,
           "source": "<#NR这里的魔法阵是那么古老,这些来自赫拉迪克的智慧是多么伟大神圣。#>",
-          "target": "<#NR这里的魔法阵是那么古老,这些来自赫拉迪克的智慧是多么伟大神圣。#>"
+          "target": "<#NRPháp trận nơi đây vô cùng cổ xưa; trí tuệ Horadric thật vĩ đại và thiêng liêng.#>"
         },
         {
           "key": "h00113",
           "occurrence": 1,
           "source": "<#NR我从奶牛关跑出来,就是为了寻找怀特的假腿,假如有一天你可以进入秘密奶牛关,就用心在里面刷怪打宝吧!#>",
-          "target": "<#NR我从奶牛关跑出来,就是为了寻找怀特的假腿,假如有一天你可以进入秘密奶牛关,就用心在里面刷怪打宝吧!#>"
+          "target": "<#NRTa trốn khỏi Ải Bò để tìm Chân Gỗ của Wirt. Nếu vào được Ải Bò Bí Mật, cứ yên tâm đánh quái săn báu!#>"
         },
         {
           "key": "h00114",
           "occurrence": 1,
           "source": "<#NR我的姐妹们都是勇敢的射手!#>",
-          "target": "<#NR我的姐妹们都是勇敢的射手!#>"
+          "target": "<#NRCác chị em của ta đều là xạ thủ can đảm!#>"
         },
         {
           "key": "h00115",
           "occurrence": 1,
           "source": "<#NR我们发现底层有安达利尔的影子,但是无法在深入探查下去,我的能力无法在深入.#>",
-          "target": "<#NR我们发现底层有安达利尔的影子,但是无法在深入探查下去,我的能力无法在深入.#>"
+          "target": "<#NRChúng ta phát hiện dấu vết Andariel ở tầng dưới, nhưng không thể điều tra sâu hơn. Sức ta không đủ.#>"
         },
         {
           "key": "h00115",
           "occurrence": 2,
           "source": "<#NR看到我身上的伤口没有,那是为同伴挡刀留下的,咕咕的鲜血往外冒,我眼睛眨都没眨一下,不过真的好痛,当时都痛昏过去了.#>",
-          "target": "<#NR看到我身上的伤口没有,那是为同伴挡刀留下的,咕咕的鲜血往外冒,我眼睛眨都没眨一下,不过真的好痛,当时都痛昏过去了.#>"
+          "target": "<#NRThấy vết thương trên người ta không? Ta đỡ đao cho đồng đội, máu chảy không ngừng mà ta không chớp mắt. Nhưng đau thật, lúc đó ta ngất đi luôn.#>"
         },
         {
           "key": "h00116",
@@ -716,67 +716,67 @@
           "key": "h00118",
           "occurrence": 1,
           "source": "<#NR亚马逊的战士都是女性!#>",
-          "target": "<#NR亚马逊的战士都是女性!#>"
+          "target": "<#NRChiến binh Amazon đều là nữ!#>"
         },
         {
           "key": "h00119",
           "occurrence": 1,
           "source": "<#NR昔日的神殿是如此的繁荣,可惜被恶魔给破坏了!#>",
-          "target": "<#NR昔日的神殿是如此的繁荣,可惜被恶魔给破坏了!#>"
+          "target": "<#NRThần điện xưa từng phồn vinh, tiếc rằng đã bị ma quỷ tàn phá!#>"
         },
         {
           "key": "h00120",
           "occurrence": 1,
           "source": "<#NR我是暗黑的圣骑士,我可以提供很多光环属性为自己加成能力!#>",
-          "target": "<#NR我是暗黑的圣骑士,我可以提供很多光环属性为自己加成能力!#>"
+          "target": "<#NRTa là Thánh Kỵ Sĩ, có thể dùng nhiều Hào Quang để tăng sức mạnh!#>"
         },
         {
           "key": "h00121",
           "occurrence": 1,
           "source": "<#NR我来自哈洛加斯高原的野蛮人部族,我们野蛮人天生就可以使用两把双手剑!#>",
-          "target": "<#NR我来自哈洛加斯高原的野蛮人部族,我们野蛮人天生就可以使用两把双手剑!#>"
+          "target": "<#NRTa đến từ bộ tộc Man Tộc cao nguyên Harrogath. Man Tộc chúng ta sinh ra đã có thể dùng song kiếm hạng nặng!#>"
         },
         {
           "key": "h00122",
           "occurrence": 1,
           "source": "<#NR我的火焰陷阱技能是很绚丽的!#>",
-          "target": "<#NR我的火焰陷阱技能是很绚丽的!#>"
+          "target": "<#NRKỹ năng Bẫy Lửa của ta rực rỡ lắm!#>"
         },
         {
           "key": "h00123",
           "occurrence": 1,
           "source": "<#NR我是火焰专精的暗黑魔法师,我最厉害的火焰魔法就是召唤九头火蛇!#>",
-          "target": "<#NR我是火焰专精的暗黑魔法师,我最厉害的火焰魔法就是召唤九头火蛇!#>"
+          "target": "<#NRTa là Pháp Sư Hắc Ám tinh thông Hỏa Diễm. Phép mạnh nhất của ta là triệu hồi Cửu Đầu Hỏa Xà!#>"
         },
         {
           "key": "h00124",
           "occurrence": 1,
           "source": "<#NR我是当年在哈洛加斯那个卖杂货的老人.#>",
-          "target": "<#NR我是当年在哈洛加斯那个卖杂货的老人.#>"
+          "target": "<#NRTa là lão nhân từng bán tạp hóa ở Harrogath.#>"
         },
         {
           "key": "h00125",
           "occurrence": 1,
           "source": "<#NR当年安达利尔被上代英雄击杀在大教堂的监牢第三层.#>",
-          "target": "<#NR当年安达利尔被上代英雄击杀在大教堂的监牢第三层.#>"
+          "target": "<#NRAndariel từng bị anh hùng đời trước đánh bại ở tầng ba ngục giam Đại Giáo Đường.#>"
         },
         {
           "key": "h00126",
           "occurrence": 1,
           "source": "<#NR库拉斯特海港如今已经不在了......#>",
-          "target": "<#NR库拉斯特海港如今已经不在了......#>"
+          "target": "<#NRCảng Kurast giờ đã không còn nữa…#>"
         },
         {
           "key": "h00127",
           "occurrence": 1,
           "source": "<#NR我们当年都是库拉斯特的佣兵,我们是魔剑士.#>",
-          "target": "<#NR我们当年都是库拉斯特的佣兵,我们是魔剑士.#>"
+          "target": "<#NRTa từng là lính đánh thuê Kurast, một Ma Kiếm Sĩ.#>"
         },
         {
           "key": "h00128",
           "occurrence": 1,
           "source": "<#NR世界要塞是野蛮人先祖灵魂的安息地.也是曾经通往世界之石的要道.#>",
-          "target": "<#NR世界要塞是野蛮人先祖灵魂的安息地.也是曾经通往世界之石的要道.#>"
+          "target": "<#NRPháo Đài Thế Giới là nơi an nghỉ linh hồn tổ tiên Man Tộc, cũng từng là đường dẫn tới Đá Thế Giới.#>"
         },
         {
           "key": "h00129",
