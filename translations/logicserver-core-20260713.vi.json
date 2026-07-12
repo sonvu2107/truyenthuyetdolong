@@ -2156,7 +2156,7 @@
           "key": "gh00037",
           "occurrence": 1,
           "source": "购买火种",
-          "target": "购买火种"
+          "target": "Mua Hỏa Chủng"
         },
         {
           "key": "yz00001",
@@ -2174,19 +2174,19 @@
           "key": "yz00003",
           "occurrence": 1,
           "source": "占领世界之石超过15分钟的行会胜出,若未超过15分钟则最后一刻占领的行会胜出!",
-          "target": "占领世界之石超过15分钟的行会胜出,若未超过15分钟则最后一刻占领的行会胜出!"
+          "target": "Bang Hội chiếm Đá Thế Giới quá 15 phút sẽ thắng; nếu chưa đủ 15 phút, Bang Hội chiếm giữ cuối cùng sẽ thắng!"
         },
         {
           "key": "yz00004",
           "occurrence": 1,
           "source": "召唤武士（%d元宝）",
-          "target": "召唤武士（%d元宝）"
+          "target": "Triệu Hồi Chiến Binh (%d Nguyên Bảo)"
         },
         {
           "key": "yz00005",
           "occurrence": 1,
           "source": "退出活动",
-          "target": "退出活动"
+          "target": "Rời Sự Kiện"
         },
         {
           "key": "yz00006",
@@ -2210,19 +2210,19 @@
           "key": "yz00009",
           "occurrence": 1,
           "source": "活动已经结束,倒计时结束时将会退出场景!",
-          "target": "活动已经结束,倒计时结束时将会退出场景!"
+          "target": "Sự kiện đã kết thúc, khi đếm ngược hết sẽ rời bản đồ!"
         },
         {
           "key": "ha00001",
           "occurrence": 1,
           "source": "<#NR欢迎来到黑暗战场，参与这个活动可获得大量神魂和战魂道具!#>开启等级:60级\\\\开启时间:14:00-14:30\\\\主产奖励:神魂值、战魂值道具",
-          "target": "<#NR欢迎来到黑暗战场，参与这个活动可获得大量神魂和战魂道具!#>开启等级:60级\\\\开启时间:14:00-14:30\\\\主产奖励:神魂值、战魂值道具"
+          "target": "<#NRChào mừng đến Chiến Trường Hắc Ám, tham gia để nhận nhiều Thần Hồn và Chiến Hồn!#>Cấp mở: 60\\\\Thời gian: 14:00-14:30\\\\Phần thưởng: Thần Hồn, Chiến Hồn"
         },
         {
           "key": "sbk0001",
           "occurrence": 1,
           "source": "攻城期间在我这里可以直接传送到皇宫里面哦<(c0xFF00FF00)(2转60级可传送)>!",
-          "target": "攻城期间在我这里可以直接传送到皇宫里面哦<(c0xFF00FF00)(2转60级可传送)>!"
+          "target": "Trong lúc Công Thành, ta có thể truyền tống ngươi vào Hoàng Cung!<(c0xFF00FF00)(CS 2 Cấp 60 mới vào được)>"
         },
         {
           "key": "sbk0002",
@@ -2234,37 +2234,37 @@
           "key": "rpnl0001",
           "occurrence": 1,
           "source": "捐献%d金币 +%d点捐献值",
-          "target": "捐献%d金币 +%d点捐献值"
+          "target": "Cúng %d Vàng +%d Điểm Cống Hiến"
         },
         {
           "key": "rpnl0002",
           "occurrence": 1,
           "source": "捐献越多,可以获得的状态越强力。状态每日24点清零。",
-          "target": "捐献越多,可以获得的状态越强力。状态每日24点清零。"
+          "target": "Cống hiến càng nhiều, buff càng mạnh. Buff xóa lúc 24:00 mỗi ngày."
         },
         {
           "key": "rpnl0003",
           "occurrence": 1,
           "source": "我要捐献",
-          "target": "我要捐献"
+          "target": "Ta Muốn Cống Hiến"
         },
         {
           "key": "gyb0001",
           "occurrence": 1,
           "source": "我要雇佣强力打手",
-          "target": "我要雇佣强力打手"
+          "target": "Ta Muốn Thuê Hộ Vệ Mạnh"
         },
         {
           "key": "gwqs0001",
           "occurrence": 1,
           "source": "我是国王骑士",
-          "target": "我是国王骑士"
+          "target": "Ta Là Kỵ Sĩ Hoàng Gia"
         },
         {
           "key": "zbhs001",
           "occurrence": 1,
           "source": "在我这里可以将你多余的装备进行回收!",
-          "target": "在我这里可以将你多余的装备进行回收!"
+          "target": "Ta Có Thể Thu Hồi Trang Bị Dư"
         },
         {
           "key": "zhql0001",
@@ -2276,19 +2276,19 @@
           "key": "zhql0002",
           "occurrence": 1,
           "source": "夺宝迷城极为危险,尽量组队前往!",
-          "target": "夺宝迷城极为危险,尽量组队前往!"
+          "target": "Mê Thành Đoạt Bảo rất nguy hiểm, hãy lập đội trước khi vào!"
         },
         {
           "key": "zhql0003",
           "occurrence": 1,
           "source": "进入迷城",
-          "target": "进入迷城"
+          "target": "Vào Mê Thành"
         },
         {
           "key": "zhql0004",
           "occurrence": 1,
           "source": "活动详情",
-          "target": "活动详情"
+          "target": "Chi Tiết Sự Kiện"
         },
         {
           "key": "zhql0005",
@@ -2300,7 +2300,7 @@
           "key": "zhql0006",
           "occurrence": 1,
           "source": "需要回城吗?我可帮你传回主城",
-          "target": "需要回城吗?我可帮你传回主城"
+          "target": "Cần về thành? Ta có thể truyền về Thành Chính."
         },
         {
           "key": "zhql0007",
@@ -2312,49 +2312,49 @@
           "key": "zhql0008",
           "occurrence": 1,
           "source": "强力护卫是你在夺宝迷城的最佳安全保障!",
-          "target": "强力护卫是你在夺宝迷城的最佳安全保障!"
+          "target": "Hộ Vệ Mạnh là bảo vệ tốt nhất trong Mê Thành Đoạt Bảo!"
         },
         {
           "key": "zhql0009",
           "occurrence": 1,
           "source": "回城",
-          "target": "回城"
+          "target": "Về Thành"
         },
         {
           "key": "zhql0010",
           "occurrence": 1,
           "source": "雇用法师(10元宝)",
-          "target": "雇用法师(10元宝)"
+          "target": "Thuê Pháp Sư (10 Nguyên Bảo)"
         },
         {
           "key": "zhql0011",
           "occurrence": 1,
           "source": "雇佣弓手(30元宝)",
-          "target": "雇佣弓手(30元宝)"
+          "target": "Thuê Cung Thủ (30 Nguyên Bảo)"
         },
         {
           "key": "zhql0012",
           "occurrence": 1,
           "source": "雇佣道士(30元宝)",
-          "target": "雇佣道士(30元宝)"
+          "target": "Thuê Đạo Sĩ (30 Nguyên Bảo)"
         },
         {
           "key": "zhql0013",
           "occurrence": 1,
           "source": "雇佣战士(50元宝)",
-          "target": "雇佣战士(50元宝)"
+          "target": "Thuê Chiến Binh (50 Nguyên Bảo)"
         },
         {
           "key": "zhql0014",
           "occurrence": 1,
           "source": "招募队友",
-          "target": "招募队友"
+          "target": "Tìm Đồng Đội"
         },
         {
           "key": "zhql0015",
           "occurrence": 1,
           "source": "队伍集结",
-          "target": "队伍集结"
+          "target": "Tập Hợp Đội"
         },
         {
           "key": "zhql0016",
@@ -2372,19 +2372,19 @@
           "key": "zhql0018",
           "occurrence": 1,
           "source": "队伍即将进入<(c0xFF00FF00)夺宝迷城>,队长请你即刻前往<(c0xFF00FF00)%s>处",
-          "target": "队伍即将进入<(c0xFF00FF00)夺宝迷城>,队长请你即刻前往<(c0xFF00FF00)%s>处"
+          "target": "Đội sắp vào <(c0xFF00FF00)Mê Thành Đoạt Bảo>, đội trưởng hãy đến <(c0xFF00FF00)%s> ngay."
         },
         {
           "key": "tyhj0001",
           "occurrence": 1,
           "source": "<#NR请你们带上精灵,沿着金色之箭的指引去寻找比翼鸟,只有找到比翼鸟,你们就能获得永恒的爱情!#>情侣活动敬请期待!",
-          "target": "<#NR请你们带上精灵,沿着金色之箭的指引去寻找比翼鸟,只有找到比翼鸟,你们就能获得永恒的爱情!#>情侣活动敬请期待!"
+          "target": "<#NRHãy mang theo Tinh Linh, đi theo Mũi Tên Vàng tìm Chim Uyên Ương. Chỉ khi tìm được chúng, các ngươi mới có tình yêu vĩnh cửu!#>Sự kiện đôi lứa sắp ra mắt!"
         },
         {
           "key": "tyhj0002",
           "occurrence": 1,
           "source": "金色之箭已经贯穿你们的心脏,它将会牢牢的锁住你们的心,至死不渝!",
-          "target": "金色之箭已经贯穿你们的心脏,它将会牢牢的锁住你们的心,至死不渝!"
+          "target": "Mũi Tên Vàng đã xuyên qua trái tim hai người, khóa chặt trái tim các ngươi đến chết không rời!"
         },
         {
           "key": "smyj0001",
@@ -2408,13 +2408,13 @@
           "key": "hadjt0001",
           "occurrence": 1,
           "source": "黑暗大教堂埋葬了无数的寻宝者!",
-          "target": "黑暗大教堂埋葬了无数的寻宝者!"
+          "target": "Nhà Thờ Hắc Ám đã chôn vùi vô số kẻ săn kho báu!"
         },
         {
           "key": "hadjt0002",
           "occurrence": 1,
           "source": "骷髅王李奥瑞克就藏身在黑暗大教堂的下面!",
-          "target": "骷髅王李奥瑞克就藏身在黑暗大教堂的下面!"
+          "target": "Vua Xương Leoric ẩn dưới Nhà Thờ Hắc Ám!"
         },
         {
           "key": "hadjt0003",
