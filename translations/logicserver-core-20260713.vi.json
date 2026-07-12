@@ -2978,7 +2978,7 @@
           "key": "team0004",
           "occurrence": 1,
           "source": "<(c0x0000e4ff)累计杀死><(c0x0000ff06)%d><(c0x0000e4ff)只怪物 已杀><(c0x0000ff06)%s>",
-          "target": "<(c0x0000e4ff)累计杀死><(c0x0000ff06)%d><(c0x0000e4ff)只怪物 已杀><(c0x0000ff06)%s>"
+          "target": "<(c0x0000e4ff)Tổng diệt><(c0x0000ff06)%d><(c0x0000e4ff) quái · Đã diệt><(c0x0000ff06)%s>"
         },
         {
           "key": "team0005",
@@ -2990,7 +2990,7 @@
           "key": "team0006",
           "occurrence": 1,
           "source": "<(c0x00ffff00)温馨提示:\\\\1.每杀死一定数量怪物获得奖励;\\\\2.击杀BOSS魔神可获得大量奖励!>",
-          "target": "<(c0x00ffff00)温馨提示:\\\\1.每杀死一定数量怪物获得奖励;\\\\2.击杀BOSS魔神可获得大量奖励!>"
+          "target": "<(c0x00ffff00)Gợi ý:\\\\1. Diệt đủ số quái sẽ nhận thưởng;\\\\2. Hạ Ma Thần Boss nhận nhiều quà!>"
         },
         {
           "key": "team0007",
@@ -3002,13 +3002,13 @@
           "key": "team0008",
           "occurrence": 1,
           "source": "BOSS出现在坐标（%d,%d）处,击杀可获得大量绑金和经验!",
-          "target": "BOSS出现在坐标（%d,%d）处,击杀可获得大量绑金和经验!"
+          "target": "Boss xuất hiện tại (%d,%d), hạ hắn nhận nhiều Vàng Khóa và KN!"
         },
         {
           "key": "team0009",
           "occurrence": 1,
           "source": "成功完成杀死%d只怪物,获得%d经验,%d绑定金币!",
-          "target": "成功完成杀死%d只怪物,获得%d经验,%d绑定金币!"
+          "target": "Đã diệt %d quái, nhận %d KN và %d Vàng Khóa!"
         },
         {
           "key": "mfm001",
@@ -3038,13 +3038,13 @@
           "key": "bslg003",
           "occurrence": 1,
           "source": "<(c0x00ffff00)温馨提示:\\\\1.击杀场内所有小怪后将出现BOSS\\\\2.击杀BOSS即可副本通关可点 离开 按钮退出>",
-          "target": "<(c0x00ffff00)温馨提示:\\\\1.击杀场内所有小怪后将出现BOSS\\\\2.击杀BOSS即可副本通关可点 离开 按钮退出>"
+          "target": "<(c0x00ffff00)Gợi ý:\\\\1. Diệt hết quái nhỏ sẽ xuất hiện Boss\\\\2. Hạ Boss là qua phó bản; bấm Rời để thoát>"
         },
         {
           "key": "bslg004",
           "occurrence": 1,
           "source": "<font color='#00ff06' size='14'>剩余时间:</font><font size='14' color='#00efff'>%time%</font>",
-          "target": "<font color='#00ff06' size='14'>剩余时间:</font><font size='14' color='#00efff'>%time%</font>"
+          "target": "<font color='#00ff06' size='14'>Thời gian còn:</font><font size='14' color='#00efff'>%time%</font>"
         },
         {
           "key": "bslg005",
@@ -3158,7 +3158,7 @@
           "key": "bslg023",
           "occurrence": 1,
           "source": "是否花费%d绑定金币召唤极品道具BOSS",
-          "target": "是否花费%d绑定金币召唤极品道具BOSS"
+          "target": "Dùng %d Vàng Khóa triệu hồi Boss Đạo Cụ Hiếm?"
         },
         {
           "key": "bslg024",
@@ -3224,7 +3224,7 @@
           "key": "uldt009",
           "occurrence": 1,
           "source": "领取了<(c0x0000ff06)%d>经验",
-          "target": "领取了<(c0x0000ff06)%d>经验"
+          "target": "Đã nhận <(c0x0000ff06)%d> KN"
         },
         {
           "key": "uldt010",
@@ -3278,7 +3278,7 @@
           "key": "uldt018",
           "occurrence": 1,
           "source": "<(c0x00ff00ff)剩余怪物:><(c0x0000ff06)%d>",
-          "target": "<(c0x00ff00ff)剩余怪物:><(c0x0000ff06)%d>"
+          "target": "<(c0x00ff00ff)Quái còn lại:><(c0x0000ff06)%d>"
         },
         {
           "key": "uldt019",
@@ -3290,7 +3290,7 @@
           "key": "uldt020",
           "occurrence": 1,
           "source": "BOSS魔神出现在坐标(%d:%d),请前往击杀!",
-          "target": "BOSS魔神出现在坐标(%d:%d),请前往击杀!"
+          "target": "Ma Thần Boss xuất hiện tại (%d:%d), hãy đến tiêu diệt!"
         },
         {
           "key": "uldt021",
