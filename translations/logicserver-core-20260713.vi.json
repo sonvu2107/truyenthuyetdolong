@@ -1940,25 +1940,25 @@
           "key": "gh00001",
           "occurrence": 1,
           "source": "<#NR为了让我的部族能享受到至高天的赐予,你可将火种卖给我,我会给你丰厚的回报!#>每次购买篝火时间需消耗<(c0xFFFF0000)10000火种>\\\\",
-          "target": "<#NR为了让我的部族能享受到至高天的赐予,你可将火种卖给我,我会给你丰厚的回报!#>每次购买篝火时间需消耗<(c0xFFFF0000)10000火种>\\\\"
+          "target": "<#NRĐể tộc ta nhận ân ban Chí Cao Thiên, ngươi có thể bán Hỏa Chủng cho ta. Ta sẽ trả hậu hĩnh!#>Mỗi lần mua thời gian Đốt Lửa cần <(c0xFFFF0000)10000 Hỏa Chủng>\\\\"
         },
         {
           "key": "gh00002",
           "occurrence": 1,
           "source": "火种购买篝火时间",
-          "target": "火种购买篝火时间"
+          "target": "Mua Thời Gian Đốt Lửa Bằng Hỏa Chủng"
         },
         {
           "key": "gh00003",
           "occurrence": 1,
           "source": "元宝购买篝火时间",
-          "target": "元宝购买篝火时间"
+          "target": "Mua Thời Gian Đốt Lửa Bằng Nguyên Bảo"
         },
         {
           "key": "gh00004",
           "occurrence": 1,
           "source": "增加元宝购买次数（%d元宝）",
-          "target": "增加元宝购买次数（%d元宝）"
+          "target": "Tăng Lượt Mua Bằng Nguyên Bảo (%d Nguyên Bảo)"
         },
         {
           "key": "gh00005",
@@ -1970,25 +1970,25 @@
           "key": "gh00006",
           "occurrence": 1,
           "source": "运镖",
-          "target": "运镖"
+          "target": "Vận Tiêu"
         },
         {
           "key": "gh00007",
           "occurrence": 1,
           "source": "财神闯关",
-          "target": "财神闯关"
+          "target": "Thử Thách Tài Thần"
         },
         {
           "key": "gh00008",
           "occurrence": 1,
           "source": "财运亨通",
-          "target": "财运亨通"
+          "target": "Tài Vận Hanh Thông"
         },
         {
           "key": "gh00009",
           "occurrence": 1,
           "source": "<#NR开启烤火后,站在我周围可获得经验和火种,可花费火种或元宝增加篝火时间!#>",
-          "target": "<#NR开启烤火后,站在我周围可获得经验和火种,可花费火种或元宝增加篝火时间!#>"
+          "target": "<#NRSau khi mở Lửa Trại, đứng gần ta nhận KN và Hỏa Chủng. Có thể dùng Hỏa Chủng hoặc Nguyên Bảo tăng thời gian!#>"
         },
         {
           "key": "gh00010",
@@ -2000,31 +2000,31 @@
           "key": "gh00011",
           "occurrence": 1,
           "source": "升级火焰（消耗火种）",
-          "target": "升级火焰（消耗火种）"
+          "target": "Nâng Cấp Lửa (Tốn Hỏa Chủng)"
         },
         {
           "key": "gh00012",
           "occurrence": 1,
           "source": "投入木材（获得火种）",
-          "target": "投入木材（获得火种）"
+          "target": "Thêm Củi (Nhận Hỏa Chủng)"
         },
         {
           "key": "gh00013",
           "occurrence": 1,
           "source": "购买烤火中火种收益1.2倍状态",
-          "target": "购买烤火中火种收益1.2倍状态"
+          "target": "Mua Buff Hỏa Chủng x1.2"
         },
         {
           "key": "gh00014",
           "occurrence": 1,
           "source": "购买烤火中火种收益1.5倍状态",
-          "target": "购买烤火中火种收益1.5倍状态"
+          "target": "Mua Buff Hỏa Chủng x1.5"
         },
         {
           "key": "gh00015",
           "occurrence": 1,
           "source": "开启烤火状态",
-          "target": "开启烤火状态"
+          "target": "Bật Lửa Trại"
         },
         {
           "key": "gh00016",
@@ -2036,25 +2036,25 @@
           "key": "gh00017",
           "occurrence": 1,
           "source": "确定升级",
-          "target": "确定升级"
+          "target": "Xác Nhận Nâng Cấp"
         },
         {
           "key": "gh00018",
           "occurrence": 1,
           "source": "暂不升级",
-          "target": "暂不升级"
+          "target": "Để Sau"
         },
         {
           "key": "gh00019",
           "occurrence": 1,
           "source": "烧烤食物",
-          "target": "烧烤食物"
+          "target": "Nướng Thức Ăn"
         },
         {
           "key": "gh00020",
           "occurrence": 1,
           "source": "开启后将会增加%d分钟获得1.2倍火种效果,需消耗%d元宝,确定开启吗?",
-          "target": "开启后将会增加%d分钟获得1.2倍火种效果,需消耗%d元宝,确定开启吗?"
+          "target": "Mở sẽ nhận buff Hỏa Chủng x1.2 trong %d phút, tốn %d Nguyên Bảo. Xác nhận?"
         },
         {
           "key": "gh00021",
@@ -2066,13 +2066,13 @@
           "key": "gh00022",
           "occurrence": 1,
           "source": "（%d元宝）替换",
-          "target": "（%d元宝）替换"
+          "target": "(%d Nguyên Bảo) Thay Thế"
         },
         {
           "key": "gh00023",
           "occurrence": 1,
           "source": "拒绝",
-          "target": "拒绝"
+          "target": "Từ Chối"
         },
         {
           "key": "gh00024",
@@ -2084,7 +2084,7 @@
           "key": "gh00025",
           "occurrence": 1,
           "source": "关闭烤火",
-          "target": "关闭烤火"
+          "target": "Tắt Lửa Trại"
         },
         {
           "key": "gh00026",
@@ -2096,61 +2096,61 @@
           "key": "gh00027",
           "occurrence": 1,
           "source": "添加香葱（%d绑金）",
-          "target": "添加香葱（%d绑金）"
+          "target": "Thêm Hành (%d Vàng Khóa)"
         },
         {
           "key": "gh00028",
           "occurrence": 1,
           "source": "添加酱料（%d欢乐豆）",
-          "target": "添加酱料（%d欢乐豆）"
+          "target": "Thêm Sốt (%d Đậu Vui Vẻ)"
         },
         {
           "key": "gh00029",
           "occurrence": 1,
           "source": "添加香料（10元宝）",
-          "target": "添加香料（10元宝）"
+          "target": "Thêm Gia Vị (10 Nguyên Bảo)"
         },
         {
           "key": "gh00030",
           "occurrence": 1,
           "source": "点击领取烤肉",
-          "target": "点击领取烤肉"
+          "target": "Nhận Thịt Nướng"
         },
         {
           "key": "gh00031",
           "occurrence": 1,
           "source": "确定花费%d元宝添加香料？",
-          "target": "确定花费%d元宝添加香料？"
+          "target": "Dùng %d Nguyên Bảo thêm gia vị?"
         },
         {
           "key": "gh00032",
           "occurrence": 1,
           "source": "在我这里开启烤火,可以免费获得经验!",
-          "target": "在我这里开启烤火,可以免费获得经验!"
+          "target": "Mở Lửa Trại tại đây để nhận KN miễn phí!"
         },
         {
           "key": "gh00033",
           "occurrence": 1,
           "source": "有火种的玩家,可以私下来我这里交易!",
-          "target": "有火种的玩家,可以私下来我这里交易!"
+          "target": "Có Hỏa Chủng thì đến đây giao dịch với ta!"
         },
         {
           "key": "gh00034",
           "occurrence": 1,
           "source": "烤火的时候很无聊么？来找我玩游戏吧!",
-          "target": "烤火的时候很无聊么？来找我玩游戏吧!"
+          "target": "Đốt lửa chán à? Đến chơi cùng ta!"
         },
         {
           "key": "gh00035",
           "occurrence": 1,
           "source": "购买时间",
-          "target": "购买时间"
+          "target": "Mua Thời Gian"
         },
         {
           "key": "gh00036",
           "occurrence": 1,
           "source": "开启烤火",
-          "target": "开启烤火"
+          "target": "Mở Lửa Trại"
         },
         {
           "key": "gh00037",
