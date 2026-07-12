@@ -3344,79 +3344,79 @@
           "key": "ctg001",
           "occurrence": 1,
           "source": "距大奖<%d>出现还剩%d关",
-          "target": "距大奖<%d>出现还剩%d关"
+          "target": "Còn %d ải đến Giải Lớn <%d>"
         },
         {
           "key": "ctg002",
           "occurrence": 1,
           "source": "不满意该奖励，请点击《立即刷新》",
-          "target": "不满意该奖励，请点击《立即刷新》"
+          "target": "Không hài lòng phần thưởng? Bấm Làm Mới Ngay."
         },
         {
           "key": "ctg003",
           "occurrence": 1,
           "source": "第%d关",
-          "target": "第%d关"
+          "target": "Ải %d"
         },
         {
           "key": "ctg004",
           "occurrence": 1,
           "source": "本关奖励：<%d>，数量 %d，你必须先清理本地图怪物：<br>剩余怪物数量 %d只",
-          "target": "本关奖励：<%d>，数量 %d，你必须先清理本地图怪物：<br>剩余怪物数量 %d只"
+          "target": "Thưởng ải: <%d>, số lượng %d. Phải diệt quái bản đồ này:<br>Còn %d quái"
         },
         {
           "key": "ctg005",
           "occurrence": 1,
           "source": "接受挑战",
-          "target": "接受挑战"
+          "target": "Nhận Thử Thách"
         },
         {
           "key": "ctg006",
           "occurrence": 1,
           "source": "进入下一关(元宝)",
-          "target": "进入下一关(元宝)"
+          "target": "Vào Ải Sau (Nguyên Bảo)"
         },
         {
           "key": "ctg007",
           "occurrence": 1,
           "source": "进入下一关(灵符)",
-          "target": "进入下一关(灵符)"
+          "target": "Vào Ải Sau (Linh Phù)"
         },
         {
           "key": "ctg008",
           "occurrence": 1,
           "source": "立即刷新大奖   ",
-          "target": "立即刷新大奖   "
+          "target": "Làm Mới Giải Lớn"
         },
         {
           "key": "ctg009",
           "occurrence": 1,
           "source": "   请查看上面大奖信息",
-          "target": "   请查看上面大奖信息"
+          "target": "Xem thông tin Giải Lớn ở trên"
         },
         {
           "key": "ctg010",
           "occurrence": 1,
           "source": "退出",
-          "target": "退出"
+          "target": "Thoát"
         },
         {
           "key": "grfb001",
           "occurrence": 1,
           "source": "我这里可都是宝藏,只限单人进入不可组队,免费次数用完可购买!",
-          "target": "我这里可都是宝藏,只限单人进入不可组队,免费次数用完可购买!"
+          "target": "Kho báu ở đây chỉ dành cho cá nhân; hết lượt miễn phí có thể mua thêm!"
         },
         {
           "key": "grfb002",
           "occurrence": 1,
           "source": "个人日常副本",
-          "target": "个人日常副本"
+          "target": "Phó Bản Ngày Cá Nhân"
         },
         {
           "key": "grfb003",
           "occurrence": 1,
           "source": "个人BOSS副本",
-          "target": "个人BOSS副本"
+          "target": "Phó Bản Boss Cá Nhân"
         },
         {
           "key": "adlr001",
@@ -3452,19 +3452,19 @@
           "key": "fbsz001",
           "occurrence": 1,
           "source": "经验、装备、绑定金币我这里应有尽有!",
-          "target": "经验、装备、绑定金币我这里应有尽有!"
+          "target": "KN, Trang Bị, Vàng Khóa — ta đều có!"
         },
         {
           "key": "fbsz002",
           "occurrence": 1,
           "source": "每日组队副本",
-          "target": "每日组队副本"
+          "target": "Phó Bản Đội Mỗi Ngày"
         },
         {
           "key": "ybfb001",
           "occurrence": 1,
           "source": "佣兵作伴,共同去征服世界",
-          "target": "佣兵作伴,共同去征服世界"
+          "target": "Thuê lính đánh thuê, cùng chinh phục thế giới!"
         },
         {
           "key": "aqgj001",
@@ -3476,19 +3476,19 @@
           "key": "hdsz001",
           "occurrence": 1,
           "source": "<#NR我是活动大使，我这里有丰富的活动介绍!#>",
-          "target": "<#NR我是活动大使，我这里有丰富的活动介绍!#>"
+          "target": "<#NRTa là Đại Sứ Sự Kiện, có nhiều thông tin sự kiện!#>"
         },
         {
           "key": "hdds001",
           "occurrence": 1,
           "source": "精彩活动不断,要多来我这里看看哦",
-          "target": "精彩活动不断,要多来我这里看看哦"
+          "target": "Sự kiện hấp dẫn liên tục, hãy ghé ta thường xuyên!"
         },
         {
           "key": "hdds002",
           "occurrence": 1,
           "source": "首服充值福利活动",
-          "target": "首服充值福利活动"
+          "target": "Quà Nạp Server Mới"
         },
         {
           "key": "hdds003",
@@ -3512,7 +3512,7 @@
           "key": "hdds006",
           "occurrence": 1,
           "source": "首服充值返利",
-          "target": "首服充值返利"
+          "target": "Hoàn Nạp Server Mới"
         },
         {
           "key": "hdds007",
