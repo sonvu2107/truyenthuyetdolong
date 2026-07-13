@@ -28978,43 +28978,43 @@
           "key": "desc393",
           "occurrence": 1,
           "source": "<海鱼儿/M海底世界一层:0:0:海鱼儿>真心害怕丑陋的海怪,保护她的安全.",
-          "target": "<海鱼儿/M海底世界一层:0:0:海鱼儿>真心害怕丑陋的海怪,保护她的安全."
+          "target": "<Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> sợ quái biển xấu xí; hãy bảo vệ cô ấy."
         },
         {
           "key": "desc394",
           "occurrence": 1,
           "source": "帮<海鱼儿/M海底世界一层:0:0:海鱼儿>清理回去的道路.",
-          "target": "帮<海鱼儿/M海底世界一层:0:0:海鱼儿>清理回去的道路."
+          "target": "Giúp <Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> dọn đường trở về."
         },
         {
           "key": "desc395",
           "occurrence": 1,
           "source": "鉴定一次,帮<海鱼儿/M海底世界一层:0:0:海鱼儿>传话给<大贤者/M海底世界一层:0:0:大贤者>.",
-          "target": "鉴定一次,帮<海鱼儿/M海底世界一层:0:0:海鱼儿>传话给<大贤者/M海底世界一层:0:0:大贤者>."
+          "target": "Giám định một lần, rồi chuyển lời của <Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> cho <Đại Hiền Giả/M海底世界一层:0:0:大贤者>."
         },
         {
           "key": "desc396",
           "occurrence": 1,
           "source": "帮<大贤者/M海底世界一层:0:0:大贤者>抵挡海怪的进攻.",
-          "target": "帮<大贤者/M海底世界一层:0:0:大贤者>抵挡海怪的进攻."
+          "target": "Giúp <Đại Hiền Giả/M海底世界一层:0:0:大贤者> chặn quái biển tấn công."
         },
         {
           "key": "desc397",
           "occurrence": 1,
           "source": "<大贤者/M海底世界一层:0:0:大贤者>束手无策,前去击杀精英海怪.",
-          "target": "<大贤者/M海底世界一层:0:0:大贤者>束手无策,前去击杀精英海怪."
+          "target": "<Đại Hiền Giả/M海底世界一层:0:0:大贤者> bó tay, hãy diệt Quái Biển Tinh Anh."
         },
         {
           "key": "desc398",
           "occurrence": 1,
           "source": "<大贤者/M海底世界一层:0:0:大贤者>大贤者指引你去二层找<龟丞相/M海底世界二层:0:0:龟丞相>.",
-          "target": "<大贤者/M海底世界一层:0:0:大贤者>大贤者指引你去二层找<龟丞相/M海底世界二层:0:0:龟丞相>."
+          "target": "<Đại Hiền Giả/M海底世界一层:0:0:大贤者> chỉ ngươi lên tầng 2 tìm <Tể Tướng Rùa/M海底世界二层:0:0:龟丞相>."
         },
         {
           "key": "desc399",
           "occurrence": 1,
           "source": "将等级提升到65级.",
-          "target": "将等级提升到65级."
+          "target": "Đạt cấp 65."
         },
         {
           "key": "desc4",
@@ -29032,19 +29032,19 @@
           "key": "desc400",
           "occurrence": 1,
           "source": "请做各类好玩的副本升级吧.达到一转50级的等级要求后找到干燥高地的督军交付任务.",
-          "target": "请做各类好玩的副本升级吧.达到一转50级的等级要求后找到干燥高地的督军交付任务."
+          "target": "Tăng cấp qua phụ bản. Đạt CS 1 cấp 50 rồi gặp Đốc Quân ở Cao Địa Khô Cằn để nộp nhiệm vụ."
         },
         {
           "key": "desc401",
           "occurrence": 1,
           "source": "去干燥的高地找到督军.",
-          "target": "去干燥的高地找到督军."
+          "target": "Đến Cao Địa Khô Cằn gặp Đốc Quân."
         },
         {
           "key": "desc402",
           "occurrence": 1,
           "source": "消灭干燥高地的任意怪物.",
-          "target": "消灭干燥高地的任意怪物."
+          "target": "Diệt bất kỳ quái nào ở Cao Địa Khô Cằn."
         },
         {
           "key": "desc403",
