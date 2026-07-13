@@ -73028,97 +73028,97 @@
           "key": "n2844",
           "occurrence": 1,
           "source": "50点星魂卷",
-          "target": "50点星魂卷"
+          "target": "Cuộn Tinh Hồn 50 Điểm"
         },
         {
           "key": "i2844",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)星魂值 50 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>",
-          "target": "双击即可获得<(c0xFF66CCFF)星魂值 50 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)50 Điểm Tinh Hồn>\\\\<(c0xFF00ff00)Dùng phím tắt (ctrl+2) mở hệ thống Tinh Hồn để kích hoạt Điểm Sao>"
         },
         {
           "key": "n2845",
           "occurrence": 1,
           "source": "暗金礼盒",
-          "target": "暗金礼盒"
+          "target": "Hộp Quà Ám Kim"
         },
         {
           "key": "i2845",
           "occurrence": 1,
           "source": "可在日常任务中的暗金级任务获得\\\\双击开打将有几率获得:\\\\<(c0xFF66CCFF)羽毛x20\\\\2级宝石x1\\\\100点战魂卷x1\\\\100点神魂卷x1>",
-          "target": "可在日常任务中的暗金级任务获得\\\\双击开打将有几率获得:\\\\<(c0xFF66CCFF)羽毛x20\\\\2级宝石x1\\\\100点战魂卷x1\\\\100点神魂卷x1>"
+          "target": "Có thể nhận từ nhiệm vụ Ám Kim trong Nhiệm Vụ Hằng Ngày\\\\Nhấp đúp mở, có cơ hội nhận:\\\\<(c0xFF66CCFF)Lông Vũ x20\\\\Đá Quý Cấp 2 x1\\\\Cuộn Chiến Hồn 100 Điểm x1\\\\Cuộn Thần Hồn 100 Điểm x1>"
         },
         {
           "key": "n2846",
           "occurrence": 1,
           "source": "媒体礼包（珍珠）",
-          "target": "媒体礼包（珍珠）"
+          "target": "Gói Truyền Thông (Ngọc Trai)"
         },
         {
           "key": "i2846",
           "occurrence": 1,
           "source": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具",
-          "target": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具"
+          "target": "Gói Truyền Thông, nhấp đúp dùng\\\\Nhận đạo cụ cực phẩm trị giá 2888 Nguyên Bảo"
         },
         {
           "key": "n2847",
           "occurrence": 1,
           "source": "媒体礼包（翡翠）",
-          "target": "媒体礼包（翡翠）"
+          "target": "Gói Truyền Thông (Phỉ Thúy)"
         },
         {
           "key": "i2847",
           "occurrence": 1,
           "source": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具",
-          "target": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具"
+          "target": "Gói Truyền Thông, nhấp đúp dùng\\\\Nhận đạo cụ cực phẩm trị giá 2888 Nguyên Bảo"
         },
         {
           "key": "n2848",
           "occurrence": 1,
           "source": "晶石",
-          "target": "晶石"
+          "target": "Tinh Thạch"
         },
         {
           "key": "i2848",
           "occurrence": 1,
           "source": "为全面战争活动道具\\\\在活动内采集晶石就可获得，拿去本阵营基地NPC上交。\\\\就可为自己阵营增加一定积分同时还可获得其他奖励；",
-          "target": "为全面战争活动道具\\\\在活动内采集晶石就可获得，拿去本阵营基地NPC上交。\\\\就可为自己阵营增加一定积分同时还可获得其他奖励；"
+          "target": "Đạo cụ sự kiện Đại Chiến Toàn Diện\\\\Thu thập Tinh Thạch trong sự kiện, đem nộp cho NPC căn cứ phe mình.\\\\Tăng điểm cho phe và nhận thêm phần thưởng khác;"
         },
         {
           "key": "n2849",
           "occurrence": 1,
           "source": "经验丹",
-          "target": "经验丹"
+          "target": "Đan KN"
         },
         {
           "key": "i2849",
           "occurrence": 1,
           "source": "每天可以免费使用3个经验丹。\\\\双击使用：每个经验丹包含1千万经验\\\\可消耗元宝再使用10次。\\\\白银VIP可再额外使用<(c0xFF66CCFF) 10 >次\\\\黄金VIP可再额外使用<(c0xFF66CCFF) 20 >次\\\\至尊VIP可再额外使用<(c0xFF66CCFF) 40 >次\\\\可通过时长奖励获得",
-          "target": "每天可以免费使用3个经验丹。\\\\双击使用：每个经验丹包含1千万经验\\\\可消耗元宝再使用10次。\\\\白银VIP可再额外使用<(c0xFF66CCFF) 10 >次\\\\黄金VIP可再额外使用<(c0xFF66CCFF) 20 >次\\\\至尊VIP可再额外使用<(c0xFF66CCFF) 40 >次\\\\可通过时长奖励获得"
+          "target": "Mỗi ngày dùng miễn phí 3 Đan KN.\\\\Nhấp đúp dùng: mỗi Đan KN chứa 10000K KN\\\\Có thể tốn Nguyên Bảo dùng thêm 10 lần.\\\\VIP Bạc dùng thêm <(c0xFF66CCFF) 10 >lần\\\\VIP Vàng dùng thêm <(c0xFF66CCFF) 20 >lần\\\\VIP Chí Tôn dùng thêm <(c0xFF66CCFF) 40 >lần\\\\Có thể nhận từ thưởng thời lượng"
         },
         {
           "key": "n2850",
           "occurrence": 1,
           "source": "惊喜活动大礼包",
-          "target": "惊喜活动大礼包"
+          "target": "Gói Sự Kiện Bất Ngờ"
         },
         {
           "key": "i2850",
           "occurrence": 1,
           "source": "双击即可随机获得<(c0xFF66CCFF)珍稀道具>一个\\\\可在神树灌溉、魔族入侵活动中获取",
-          "target": "双击即可随机获得<(c0xFF66CCFF)珍稀道具>一个\\\\可在神树灌溉、魔族入侵活动中获取"
+          "target": "Nhấp đúp nhận ngẫu nhiên 1 <(c0xFF66CCFF)đạo cụ quý hiếm>\\\\Có thể nhận từ sự kiện Tưới Thần Thụ và Ma Tộc Xâm Lăng"
         },
         {
           "key": "n2851",
           "occurrence": 1,
           "source": "战神之力（1阶）",
-          "target": "战神之力（1阶）"
+          "target": "Sức Mạnh Chiến Thần (Bậc 1)"
         },
         {
           "key": "i2851",
           "occurrence": 1,
           "source": "可使用战魂值，在装备兑换使者处兑换获得。",
-          "target": "可使用战魂值，在装备兑换使者处兑换获得。"
+          "target": "Dùng Điểm Chiến Hồn đổi tại Sứ Giả Đổi Trang Bị."
         },
         {
           "key": "n2852",
