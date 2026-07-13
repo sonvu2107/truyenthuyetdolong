@@ -53024,85 +53024,85 @@
           "key": "n1177",
           "occurrence": 1,
           "source": "宝石优惠包",
-          "target": "宝石优惠包"
+          "target": "Gói Ưu Đãi Đá Quý"
         },
         {
           "key": "i1177",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\宝石代金卡×5\\\\五级物防宝石×1\\\\五级魔防宝石×1\\\\五级生命宝石×1\\\\五级魔法宝石×1\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)388><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\宝石代金卡×5\\\\五级物防宝石×1\\\\五级魔防宝石×1\\\\五级生命宝石×1\\\\五级魔法宝石×1\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)388><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Thẻ Giảm Giá Đá Quý ×5\\\\Đá Phòng Thủ Vật Lý Cấp 5 ×1\\\\Đá Phòng Thủ Phép Cấp 5 ×1\\\\Đá Sinh Lực Cấp 5 ×1\\\\Đá Ma Pháp Cấp 5 ×1\\\\<(c0xFF00FF00)Ưu Đãi Chồng Ưu Đãi:> mua lẻ sẽ <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)388><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n1178",
           "occurrence": 1,
           "source": "装备升级特惠包(废弃)",
-          "target": "装备升级特惠包(废弃)"
+          "target": "Gói Ưu Đãi Nâng Cấp Trang Bị (Bỏ)"
         },
         {
           "key": "i1178",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\50装备升级石×10\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)594><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\50装备升级石×10\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)594><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Đá Nâng Cấp Trang Bị Cấp 50 ×10\\\\<(c0xFF00FF00)Ưu Đãi Chồng Ưu Đãi:> mua lẻ sẽ <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)594><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n1179",
           "occurrence": 1,
           "source": "合服充值礼包(废弃)",
-          "target": "合服充值礼包(废弃)"
+          "target": "Gói Nạp Gộp Server (Bỏ)"
         },
         {
           "key": "i1179",
           "occurrence": 1,
           "source": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFF0000)一亿经验>！\\\\60装备升级石×4\\\\灵魂水晶×5\\\\马鞭×20\\\\便携挂机包×1\\\\5级生命宝石×1\\\\佣兵经验水晶(大)×5",
-          "target": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFF0000)一亿经验>！\\\\60装备升级石×4\\\\灵魂水晶×5\\\\马鞭×20\\\\便携挂机包×1\\\\5级生命宝石×1\\\\佣兵经验水晶(大)×5"
+          "target": "Trong thời gian sự kiện, nạp <(c0xFFFFFF00)1888 Nguyên Bảo>\\\\<(c0xFFFFFF00)Dùng> để nhận toàn bộ:\\\\<(c0xFFFF0000)100000K KN>!\\\\Đá Nâng Cấp Trang Bị Cấp 60 ×4\\\\Pha Lê Linh Hồn ×5\\\\Roi Ngựa ×20\\\\Gói Treo Máy Di Động ×1\\\\Đá Sinh Lực Cấp 5 ×1\\\\Pha Lê KN Lính Đánh Thuê (Lớn) ×5"
         },
         {
           "key": "n1180",
           "occurrence": 1,
           "source": "手机验证礼包(废弃)",
-          "target": "手机验证礼包(废弃)"
+          "target": "Gói Xác Minh Điện Thoại (Bỏ)"
         },
         {
           "key": "i1180",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\强效怒气丹×5\\\\花宝令牌×4\\\\苹果×3\\\\任务立即完成卷轴×2\\\\修复药水×1\\\\2倍经验卷轴×1",
-          "target": "双击打开,获得以下物品:\\\\强效怒气丹×5\\\\花宝令牌×4\\\\苹果×3\\\\任务立即完成卷轴×2\\\\修复药水×1\\\\2倍经验卷轴×1"
+          "target": "Dùng để nhận:\\\\Đan Nộ Khí Mạnh ×5\\\\Thẻ Hoa Bảo ×4\\\\Táo ×3\\\\Cuộn Hoàn Thành Nhiệm Vụ ×2\\\\Thuốc Sửa Chữa ×1\\\\Cuộn KN 2x ×1"
         },
         {
           "key": "n1181",
           "occurrence": 1,
           "source": "超级天使卡(废弃)",
-          "target": "超级天使卡(废弃)"
+          "target": "Thẻ Thiên Thần Siêu Cấp (Bỏ)"
         },
         {
           "key": "i1181",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>可以获得20张<(c0xFF00FFFF)天使卡>\\\\使用<(c0xFF00FFFF)20张>天使卡可以获得天使侍从宝宝",
-          "target": "<(c0xFFFFFF00)双击使用>可以获得20张<(c0xFF00FFFF)天使卡>\\\\使用<(c0xFF00FFFF)20张>天使卡可以获得天使侍从宝宝"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 20 <(c0xFF00FFFF)Thẻ Thiên Thần>\\\\Dùng <(c0xFF00FFFF)20> Thẻ Thiên Thần nhận Pet Hầu Cận Thiên Thần"
         },
         {
           "key": "n1182",
           "occurrence": 1,
           "source": "超级勇士卡(废弃)",
-          "target": "超级勇士卡(废弃)"
+          "target": "Thẻ Dũng Sĩ Siêu Cấp (Bỏ)"
         },
         {
           "key": "i1182",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>可以获得20张<(c0xFF00FFFF)勇士卡>\\\\使用<(c0xFF00FFFF)20张>勇士卡可以获得屠龙勇士宝宝",
-          "target": "<(c0xFFFFFF00)双击使用>可以获得20张<(c0xFF00FFFF)勇士卡>\\\\使用<(c0xFF00FFFF)20张>勇士卡可以获得屠龙勇士宝宝"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 20 <(c0xFF00FFFF)Thẻ Dũng Sĩ>\\\\Dùng <(c0xFF00FFFF)20> Thẻ Dũng Sĩ nhận Pet Dũng Sĩ Đồ Long"
         },
         {
           "key": "n1183",
           "occurrence": 1,
           "source": "超级祈神卡(废弃)",
-          "target": "超级祈神卡(废弃)"
+          "target": "Thẻ Cầu Thần Siêu Cấp (Bỏ)"
         },
         {
           "key": "i1183",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>可以获得20张<(c0xFF00FFFF)祈神卡>\\\\使用<(c0xFF00FFFF)20张>祈神卡,可以随机获得财神、福神",
-          "target": "<(c0xFFFFFF00)双击使用>可以获得20张<(c0xFF00FFFF)祈神卡>\\\\使用<(c0xFF00FFFF)20张>祈神卡,可以随机获得财神、福神"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 20 <(c0xFF00FFFF)Thẻ Cầu Thần>\\\\Dùng <(c0xFF00FFFF)20> Thẻ Cầu Thần, ngẫu nhiên nhận Tài Thần hoặc Phúc Thần"
         },
         {
           "key": "n1184",
