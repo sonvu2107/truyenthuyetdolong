@@ -60164,49 +60164,49 @@
           "key": "n1772",
           "occurrence": 1,
           "source": "避水珠",
-          "target": "避水珠"
+          "target": "Ngọc Né Nước"
         },
         {
           "key": "i1772",
           "occurrence": 1,
           "source": "使用后可以免疫水中的伤害，并且不会被冰骨魔鱼减速。持续<(c0xFFFFFF00)20分钟>。\\\\水龙内丹，有避水之功效",
-          "target": "使用后可以免疫水中的伤害，并且不会被冰骨魔鱼减速。持续<(c0xFFFFFF00)20分钟>。\\\\水龙内丹，有避水之功效"
+          "target": "Dùng để miễn nhiễm sát thương trong nước, không bị Ma Ngư Băng Cốt làm chậm. Duy trì <(c0xFFFFFF00)20 phút>.\\\\Nội Đan Thủy Long, có công hiệu né nước"
         },
         {
           "key": "n1773",
           "occurrence": 1,
           "source": "爆炸丹",
-          "target": "爆炸丹"
+          "target": "Đan Bạo Tạc"
         },
         {
           "key": "i1773",
           "occurrence": 1,
           "source": "对以自己为中心<(c0xFFFFFF00)7×7>范围内的所有人和怪物(除了自己)造成<(c0xFFFFFF00)100000>点伤害！\\\\对烤乳猪和孙悟空的治疗分身效果较差，只能造成<(c0xFFFFFF00)20>点伤害。\\\\体积虽小，威力惊人",
-          "target": "对以自己为中心<(c0xFFFFFF00)7×7>范围内的所有人和怪物(除了自己)造成<(c0xFFFFFF00)100000>点伤害！\\\\对烤乳猪和孙悟空的治疗分身效果较差，只能造成<(c0xFFFFFF00)20>点伤害。\\\\体积虽小，威力惊人"
+          "target": "Gây <(c0xFFFFFF00)100000> sát thương lên mọi người và quái vật (trừ bản thân) trong phạm vi <(c0xFFFFFF00)7×7> quanh mình!\\\\Hiệu quả kém với Heo Sữa Quay và phân thân trị liệu của Tôn Ngộ Không, chỉ gây <(c0xFFFFFF00)20> sát thương.\\\\Thể tích nhỏ nhưng uy lực kinh người"
         },
         {
           "key": "n1774",
           "occurrence": 1,
           "source": "防御丹",
-          "target": "防御丹"
+          "target": "Đan Phòng Thủ"
         },
         {
           "key": "i1774",
           "occurrence": 1,
           "source": "8秒钟内全防御上升<(c0xFFFFFF00)50000>点。\\\\氤氲灵气，使用可增加防御",
-          "target": "8秒钟内全防御上升<(c0xFFFFFF00)50000>点。\\\\氤氲灵气，使用可增加防御"
+          "target": "Trong 8 giây, toàn bộ Phòng Thủ tăng <(c0xFFFFFF00)50000>.\\\\Linh khí mờ ảo, dùng để tăng Phòng Thủ"
         },
         {
           "key": "n1775",
           "occurrence": 1,
           "source": "毒物丹",
-          "target": "毒物丹"
+          "target": "Đan Độc Dược"
         },
         {
           "key": "i1775",
           "occurrence": 1,
           "source": "使以自己为中心<(c0xFFFFFF00)5×5>范围内的所有人和怪物(除了自己)中毒！最多持续<(c0xFFFFFF00)12秒>\\\\把毒药撒在烤乳猪上，吃掉它的人会倒霉的哟~\\\\万毒兽的毒丹炼制，剧毒，沾之即死",
-          "target": "使以自己为中心<(c0xFFFFFF00)5×5>范围内的所有人和怪物(除了自己)中毒！最多持续<(c0xFFFFFF00)12秒>\\\\把毒药撒在烤乳猪上，吃掉它的人会倒霉的哟~\\\\万毒兽的毒丹炼制，剧毒，沾之即死"
+          "target": "Khiến mọi người và quái vật (trừ bản thân) trong phạm vi <(c0xFFFFFF00)5×5> quanh mình trúng độc! Tối đa <(c0xFFFFFF00)12 giây>\\\\Rắc độc lên Heo Sữa Quay, ai ăn sẽ gặp xui xẻo~\\\\Đan độc luyện từ Vạn Độc Thú, cực độc, chạm vào là chết"
         },
         {
           "key": "n1776",
