@@ -51896,19 +51896,19 @@
           "key": "n1083",
           "occurrence": 1,
           "source": "转生灵魄",
-          "target": "转生灵魄"
+          "target": "Linh Phách Chuyển Sinh"
         },
         {
           "key": "i1083",
           "occurrence": 1,
           "source": "双击使用可获得<(c0xFF00FFFF)1000>点转生灵魄",
-          "target": "双击使用可获得<(c0xFF00FFFF)1000>点转生灵魄"
+          "target": "Dùng để nhận <(c0xFF00FFFF)1000> Linh Phách Chuyển Sinh"
         },
         {
           "key": "n1084",
           "occurrence": 1,
           "source": "高级祝福宝珠",
-          "target": "高级祝福宝珠"
+          "target": "Ngọc Chúc Phúc Cao Cấp"
         },
         {
           "key": "i1084",
@@ -51920,7 +51920,7 @@
           "key": "n1085",
           "occurrence": 1,
           "source": "超级祝福宝珠",
-          "target": "超级祝福宝珠"
+          "target": "Ngọc Chúc Phúc Siêu Cấp"
         },
         {
           "key": "i1085",
@@ -51932,7 +51932,7 @@
           "key": "n1086",
           "occurrence": 1,
           "source": "终极祝福宝珠",
-          "target": "终极祝福宝珠"
+          "target": "Ngọc Chúc Phúc Cực Phẩm"
         },
         {
           "key": "i1086",
@@ -51944,7 +51944,7 @@
           "key": "n1087",
           "occurrence": 1,
           "source": "完美祝福宝珠",
-          "target": "完美祝福宝珠"
+          "target": "Ngọc Chúc Phúc Hoàn Hảo"
         },
         {
           "key": "i1087",
@@ -51956,7 +51956,7 @@
           "key": "n1088",
           "occurrence": 1,
           "source": "高级幸运骰子(废弃)",
-          "target": "高级幸运骰子(废弃)"
+          "target": "Xúc Xắc May Mắn Cao Cấp (Bỏ)"
         },
         {
           "key": "i1088",
@@ -51968,7 +51968,7 @@
           "key": "n1089",
           "occurrence": 1,
           "source": "超级幸运骰子(废弃)",
-          "target": "超级幸运骰子(废弃)"
+          "target": "Xúc Xắc May Mắn Siêu Cấp (Bỏ)"
         },
         {
           "key": "i1089",
@@ -51980,7 +51980,7 @@
           "key": "n1090",
           "occurrence": 1,
           "source": "终极幸运骰子(废弃)",
-          "target": "终极幸运骰子(废弃)"
+          "target": "Xúc Xắc May Mắn Cực Phẩm (Bỏ)"
         },
         {
           "key": "i1090",
@@ -51992,7 +51992,7 @@
           "key": "n1091",
           "occurrence": 1,
           "source": "完美幸运骰子(废弃)",
-          "target": "完美幸运骰子(废弃)"
+          "target": "Xúc Xắc May Mắn Hoàn Hảo (Bỏ)"
         },
         {
           "key": "i1091",
@@ -52004,49 +52004,49 @@
           "key": "n1092",
           "occurrence": 1,
           "source": "3阶麻痹戒指",
-          "target": "3阶麻痹戒指"
+          "target": "Nhẫn Tê Liệt Bậc 3"
         },
         {
           "key": "i1092",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)3阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)4阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)3阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)4阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Sát thương Vật Lý có cơ hội <(c0xFFFF6600)Tê Liệt 5 Giây>\\\\Hiệu ứng Tê Liệt cộng dồn, tăng bậc tăng tỷ lệ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 3> ghép thành <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 4>, tăng mạnh sức mạnh\\\\Ghép tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n1093",
           "occurrence": 1,
           "source": "4阶麻痹戒指",
-          "target": "4阶麻痹戒指"
+          "target": "Nhẫn Tê Liệt Bậc 4"
         },
         {
           "key": "i1093",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)4阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)5阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)4阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)5阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Sát thương Vật Lý có cơ hội <(c0xFFFF6600)Tê Liệt 5 Giây>\\\\Hiệu ứng Tê Liệt cộng dồn, tăng bậc tăng tỷ lệ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 4> ghép thành <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 5>, tăng mạnh sức mạnh\\\\Ghép tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n1094",
           "occurrence": 1,
           "source": "5阶麻痹戒指",
-          "target": "5阶麻痹戒指"
+          "target": "Nhẫn Tê Liệt Bậc 5"
         },
         {
           "key": "i1094",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)5阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)神•麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)5阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)神•麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Sát thương Vật Lý có cơ hội <(c0xFFFF6600)Tê Liệt 5 Giây>\\\\Hiệu ứng Tê Liệt cộng dồn, tăng bậc tăng tỷ lệ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 5> ghép thành <(c0xFFFF6600)Nhẫn Tê Liệt Thần>, tăng mạnh sức mạnh\\\\Ghép tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n1095",
           "occurrence": 1,
           "source": "神•麻痹戒指",
-          "target": "神•麻痹戒指"
+          "target": "Nhẫn Tê Liệt Thần"
         },
         {
           "key": "i1095",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Sát thương Vật Lý có cơ hội <(c0xFFFF6600)Tê Liệt 5 Giây>\\\\Hiệu ứng Tê Liệt cộng dồn, tăng bậc tăng tỷ lệ"
         },
         {
           "key": "n1096",
