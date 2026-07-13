@@ -17606,61 +17606,61 @@
         },
         {
           "key": "compTip231",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "命运在等待!\\\\",
           "target": "Vận Mệnh Đang Chờ!\\\\"
         },
         {
           "key": "compTip2311",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "任务还没完成吗!\\\\",
           "target": "Nhiệm vụ chưa xong sao!\\\\"
         },
         {
           "key": "compTip2321",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "太崇拜你了.\\\\",
           "target": "Ta rất ngưỡng mộ ngươi.\\\\"
         },
         {
           "key": "compTip2331",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "怪物越来越厉害,你必须提升自己的实力才行啊!\\\\",
           "target": "Quái ngày càng mạnh, ngươi phải tăng thực lực!\\\\"
         },
         {
           "key": "compTip2341",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "我是伟大的魔导师帕蒂.\\\\",
           "target": "Ta là Đại Ma Đạo Sư Patty.\\\\"
         },
         {
           "key": "compTip2351",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "去圣城吧!\\\\",
           "target": "Đến Thánh Thành đi!\\\\"
         },
         {
           "key": "compTip2361",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "任务还没完成吗?\\\\",
           "target": "Nhiệm vụ chưa xong sao?\\\\"
         },
         {
           "key": "compTip2371",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "好好干.\\\\",
           "target": "Làm tốt lắm.\\\\"
         },
         {
           "key": "compTip2381",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "嘿,你好!\\\\",
           "target": "Chào ngươi!\\\\"
         },
         {
           "key": "compTip2391",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "你去过罗格营地吗?\\\\",
           "target": "Ngươi đã đến Trại Rogue chưa?\\\\"
         },
@@ -28580,43 +28580,43 @@
         },
         {
           "key": "desc333",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc334",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc335",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc336",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "等级达到67级后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Đạt cấp 67 rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc337",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc338",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc339",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
@@ -28628,19 +28628,19 @@
         },
         {
           "key": "desc340",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc341",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "<药店掌柜/M屠龙城:236:212:药店掌柜>指引你任意购买一瓶药品.",
           "target": "<Chủ Tiệm Thuốc/M屠龙城:236:212:药店掌柜> hướng dẫn ngươi mua một bình thuốc bất kỳ."
         },
         {
           "key": "desc342",
-         "occurrence": 1,
+          "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
           "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
