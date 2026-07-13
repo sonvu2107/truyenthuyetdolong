@@ -56084,109 +56084,109 @@
           "key": "n1432",
           "occurrence": 1,
           "source": "圣诞充值礼包(废弃)",
-          "target": "圣诞充值礼包(废弃)"
+          "target": "Gói Nạp Giáng Sinh (Bỏ)"
         },
         {
           "key": "i1432",
           "occurrence": 1,
           "source": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFFFF00)一亿经验水晶>×3\\\\6倍经验卷轴(8小时)×1\\\\70装备升级石×4\\\\装备转生精华×2\\\\神秘彩蛋×5\\\\苹果×10",
-          "target": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFFFF00)一亿经验水晶>×3\\\\6倍经验卷轴(8小时)×1\\\\70装备升级石×4\\\\装备转生精华×2\\\\神秘彩蛋×5\\\\苹果×10"
+          "target": "Trong thời gian sự kiện, nạp <(c0xFFFFFF00)1888 Nguyên Bảo>\\\\Bạn <(c0xFFFFFF00)nhấp đúp để dùng> để nhận toàn bộ:\\\\<(c0xFFFFFF00)100000K KN> ×3\\\\Cuộn KN x6 (8 Giờ) ×1\\\\Đá Nâng Cấp Trang Bị Cấp 70 ×4\\\\Tinh Hoa Chuyển Sinh Trang Bị ×2\\\\Trứng Bí Ẩn ×5\\\\Táo ×10"
         },
         {
           "key": "n1433",
           "occurrence": 1,
           "source": "元旦充值礼包(废弃)",
-          "target": "元旦充值礼包(废弃)"
+          "target": "Gói Nạp Năm Mới (Bỏ)"
         },
         {
           "key": "i1433",
           "occurrence": 1,
           "source": "只需在活动期间提取<(c0xFFFFFF00)2888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFFFF00)装备转生精华>×6\\\\<(c0xFFFFFF00)一亿经验水晶>×5\\\\8倍经验卷轴(8小时)×1\\\\70装备升级石×8\\\\神秘彩蛋×10\\\\灵魂水晶×10\\\\苹果×10",
-          "target": "只需在活动期间提取<(c0xFFFFFF00)2888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFFFF00)装备转生精华>×6\\\\<(c0xFFFFFF00)一亿经验水晶>×5\\\\8倍经验卷轴(8小时)×1\\\\70装备升级石×8\\\\神秘彩蛋×10\\\\灵魂水晶×10\\\\苹果×10"
+          "target": "Trong thời gian sự kiện, nạp <(c0xFFFFFF00)2888 Nguyên Bảo>\\\\Bạn <(c0xFFFFFF00)nhấp đúp để dùng> để nhận toàn bộ:\\\\<(c0xFFFFFF00)Tinh Hoa Chuyển Sinh Trang Bị> ×6\\\\<(c0xFFFFFF00)100000K KN> ×5\\\\Cuộn KN x8 (8 Giờ) ×1\\\\Đá Nâng Cấp Trang Bị Cấp 70 ×8\\\\Trứng Bí Ẩn ×10\\\\Pha Lê Linh Hồn ×10\\\\Táo ×10"
         },
         {
           "key": "n1434",
           "occurrence": 1,
           "source": "天下第一战章(废弃)",
-          "target": "天下第一战章(废弃)"
+          "target": "Huy Chương Đệ Nhất Thiên Hạ (Bỏ)"
         },
         {
           "key": "i1434",
           "occurrence": 1,
           "source": "跨服战神争霸第一名专属道具\\\\本装备可以激活任意等级的宝石\\\\本装备可以激活<(c0xFF00FF00)所有套装>中的<(c0xFF00FF00)勋章>部位！",
-          "target": "跨服战神争霸第一名专属道具\\\\本装备可以激活任意等级的宝石\\\\本装备可以激活<(c0xFF00FF00)所有套装>中的<(c0xFF00FF00)勋章>部位！"
+          "target": "Vật phẩm độc quyền Hạng 1 Tranh Bá Chiến Thần Liên Server\\\\Trang bị này có thể kích hoạt Đá Quý mọi cấp\\\\Trang bị này có thể kích hoạt vị trí <(c0xFF00FF00)Huy Chương> trong <(c0xFF00FF00)mọi bộ Trang Bị>!"
         },
         {
           "key": "n1435",
           "occurrence": 1,
           "source": "至尊玉(废弃)",
-          "target": "至尊玉(废弃)"
+          "target": "Ngọc Chí Tôn (Bỏ)"
         },
         {
           "key": "i1435",
           "occurrence": 1,
           "source": "跨服天下第一战神专属道具！\\\\在<(c0xFF00FF00)跨服屠龙城>中的<(c0xFF00FF00)天下第一雕像>处领取",
-          "target": "跨服天下第一战神专属道具！\\\\在<(c0xFF00FF00)跨服屠龙城>中的<(c0xFF00FF00)天下第一雕像>处领取"
+          "target": "Vật phẩm độc quyền Chiến Thần Đệ Nhất Thiên Hạ Liên Server!\\\\Nhận tại <(c0xFF00FF00)Tượng Đệ Nhất Thiên Hạ> ở <(c0xFF00FF00)Thành Đồ Long Liên Server>"
         },
         {
           "key": "n1436",
           "occurrence": 1,
           "source": "青铜积分礼包(废弃)",
-          "target": "青铜积分礼包(废弃)"
+          "target": "Gói Điểm Đồng (Bỏ)"
         },
         {
           "key": "i1436",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\5倍经验卷轴×1\\\\立即完成卷轴×1\\\\任务立即完成卷轴×2\\\\爆烈怒气丹×2\\\\花宝令牌×5",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\5倍经验卷轴×1\\\\立即完成卷轴×1\\\\任务立即完成卷轴×2\\\\爆烈怒气丹×2\\\\花宝令牌×5"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Cuộn KN x5 ×1\\\\Cuộn Hoàn Thành Ngay ×1\\\\Cuộn Hoàn Thành Nhiệm Vụ ×2\\\\Đan Nộ Khí Bạo Liệt ×2\\\\Lệnh Hoa Bảo ×5"
         },
         {
           "key": "n1437",
           "occurrence": 1,
           "source": "白银积分礼包(废弃)",
-          "target": "白银积分礼包(废弃)"
+          "target": "Gói Điểm Bạc (Bỏ)"
         },
         {
           "key": "i1437",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\40装备升级石×5\\\\祝福药水×5\\\\强化水晶×18\\\\鉴定卷轴×20",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\40装备升级石×5\\\\祝福药水×5\\\\强化水晶×18\\\\鉴定卷轴×20"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Đá Nâng Cấp Trang Bị Cấp 40 ×5\\\\Thuốc Chúc Phúc ×5\\\\Pha Lê Cường Hóa ×18\\\\Cuộn Giám Định ×20"
         },
         {
           "key": "n1438",
           "occurrence": 1,
           "source": "黄金积分礼包(废弃)",
-          "target": "黄金积分礼包(废弃)"
+          "target": "Gói Điểm Vàng (Bỏ)"
         },
         {
           "key": "i1438",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\灵魂水晶×2\\\\鉴定卷轴×20\\\\马鞭×5\\\\强效佣兵经验水晶×2\\\\5倍经验卷轴×1",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\灵魂水晶×2\\\\鉴定卷轴×20\\\\马鞭×5\\\\强效佣兵经验水晶×2\\\\5倍经验卷轴×1"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Pha Lê Linh Hồn ×2\\\\Cuộn Giám Định ×20\\\\Roi Ngựa ×5\\\\Tinh Thể KN Lính Đánh Thuê Cường Hiệu ×2\\\\Cuộn KN x5 ×1"
         },
         {
           "key": "n1439",
           "occurrence": 1,
           "source": "超级福利大礼包(废弃)",
-          "target": "超级福利大礼包(废弃)"
+          "target": "Siêu Gói Phúc Lợi (Bỏ)"
         },
         {
           "key": "i1439",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\爆烈怒气丹×10\\\\花宝令牌×10\\\\任务立即完成卷轴×5\\\\副本通行证×5\\\\立即完成卷轴×5\\\\苹果×5\\\\马鞭×5\\\\5倍离线经验玉×1\\\\5倍经验卷轴×1",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\爆烈怒气丹×10\\\\花宝令牌×10\\\\任务立即完成卷轴×5\\\\副本通行证×5\\\\立即完成卷轴×5\\\\苹果×5\\\\马鞭×5\\\\5倍离线经验玉×1\\\\5倍经验卷轴×1"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Đan Nộ Khí Bạo Liệt ×10\\\\Lệnh Hoa Bảo ×10\\\\Cuộn Hoàn Thành Nhiệm Vụ ×5\\\\Vé Phó Bản ×5\\\\Cuộn Hoàn Thành Ngay ×5\\\\Táo ×5\\\\Roi Ngựa ×5\\\\Ngọc KN Offline x5 ×1\\\\Cuộn KN x5 ×1"
         },
         {
           "key": "n1440",
           "occurrence": 1,
           "source": "末日礼包(废弃)",
-          "target": "末日礼包(废弃)"
+          "target": "Gói Tận Thế (Bỏ)"
         },
         {
           "key": "i1440",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\爆烈怒气丹×5\\\\5倍经验卷轴×1\\\\强效佣兵经验水晶×2\\\\苹果×5",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\爆烈怒气丹×5\\\\5倍经验卷轴×1\\\\强效佣兵经验水晶×2\\\\苹果×5"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Đan Nộ Khí Bạo Liệt ×5\\\\Cuộn KN x5 ×1\\\\Tinh Thể KN Lính Đánh Thuê Cường Hiệu ×2\\\\Táo ×5"
         },
         {
           "key": "n1441",
