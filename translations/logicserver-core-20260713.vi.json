@@ -29722,55 +29722,55 @@
           "key": "desc511",
           "occurrence": 1,
           "source": "劈死羊人后找<荒野守卫/M石块荒野:38:98:荒野守卫>对话.",
-          "target": "劈死羊人后找<荒野守卫/M石块荒野:38:98:荒野守卫>对话."
+          "target": "Diệt Người Dê rồi nói chuyện với <Vệ Binh Hoang Dã/M石块荒野:38:98:荒野守卫>."
         },
         {
           "key": "desc512",
           "occurrence": 1,
           "source": "去找<荒野守卫/M石块荒野:38:98:荒野守卫>对话.",
-          "target": "去找<荒野守卫/M石块荒野:38:98:荒野守卫>对话."
+          "target": "Gặp <Vệ Binh Hoang Dã/M石块荒野:38:98:荒野守卫> nói chuyện."
         },
         {
           "key": "desc513",
           "occurrence": 1,
           "source": "收集虫卵后找到<流浪刺客/邪恶的洞穴:83:71:流浪刺客>对话.",
-          "target": "收集虫卵后找到<流浪刺客/邪恶的洞穴:83:71:流浪刺客>对话."
+          "target": "Thu thập Trứng Sâu rồi nói chuyện với <Sát Thủ Lang Thang/邪恶的洞穴:83:71:流浪刺客>."
         },
         {
           "key": "desc514",
           "occurrence": 1,
           "source": "去找到<石块荒野的阿卡拉/M石块荒野:30:150:石块荒野的阿卡拉>交付.",
-          "target": "去找到<石块荒野的阿卡拉/M石块荒野:30:150:石块荒野的阿卡拉>交付."
+          "target": "Báo cáo với <Akara Hoang Dã Đá/M石块荒野:30:150:石块荒野的阿卡拉>."
         },
         {
           "key": "desc515",
           "occurrence": 1,
           "source": "消灭污染怪后找<圣堂游侠/M石块荒野:63:61:圣堂游侠>交付任务.",
-          "target": "消灭污染怪后找<圣堂游侠/M石块荒野:63:61:圣堂游侠>交付任务."
+          "target": "Diệt Quái Ô Nhiễm rồi báo cáo với <Du Hiệp Thánh Đường/M石块荒野:63:61:圣堂游侠>."
         },
         {
           "key": "desc516",
           "occurrence": 1,
           "source": "消灭死神骑士后回复<麦琳/M石块荒野:109:55:麦琳>.",
-          "target": "消灭死神骑士后回复<麦琳/M石块荒野:109:55:麦琳>."
+          "target": "Diệt Kỵ Sĩ Tử Thần rồi báo cáo với <Mạch Lâm/M石块荒野:109:55:麦琳>."
         },
         {
           "key": "desc517",
           "occurrence": 1,
           "source": "进入毁灭王座探寻.",
-          "target": "进入毁灭王座探寻."
+          "target": "Vào Vương Tọa Hủy Diệt thám hiểm."
         },
         {
           "key": "desc518",
           "occurrence": 1,
           "source": "消灭精英暗黑骷髅王后找到<迪莫/M石块荒野:144:69:迪莫>对话.",
-          "target": "消灭精英暗黑骷髅王后找到<迪莫/M石块荒野:144:69:迪莫>对话."
+          "target": "Diệt Vua Cốt Lâu Hắc Ám Tinh Anh rồi gặp <Dimo/M石块荒野:144:69:迪莫>."
         },
         {
           "key": "desc519",
           "occurrence": 1,
           "source": "消灭附近的堕落罗格后找<罗格智者/M罗格营地:63:61:罗格智者>交付.",
-          "target": "消灭附近的堕落罗格后找<罗格智者/M罗格营地:63:61:罗格智者>交付."
+          "target": "Diệt Rogue Sa Ngã gần đó rồi báo cáo với <Hiền Giả Rogue/M罗格营地:63:61:罗格智者>."
         },
         {
           "key": "desc52",
@@ -29782,7 +29782,7 @@
           "key": "desc520",
           "occurrence": 1,
           "source": "消灭死神戈登后找<罗格智者/M石块荒野:144:105:罗格智者>对话.",
-          "target": "消灭死神戈登后找<罗格智者/M石块荒野:144:105:罗格智者>对话."
+          "target": "Diệt Tử Thần Gordon rồi nói chuyện với <Hiền Giả Rogue/M石块荒野:144:105:罗格智者>."
         },
         {
           "key": "desc521",
