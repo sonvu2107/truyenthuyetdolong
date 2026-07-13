@@ -73316,97 +73316,97 @@
           "key": "n2868",
           "occurrence": 1,
           "source": "圣诞雪球",
-          "target": "圣诞雪球"
+          "target": "Bóng Tuyết Giáng Sinh"
         },
         {
           "key": "i2868",
           "occurrence": 1,
           "source": "只在雪人大作战活动中击杀怪物掉落获得\\\\每天13:00-13:30和19:30-20:00举行雪人大作战活动\\\\双击该道具可打开双旦活动界面,可在双旦兑大奖中兑换奖励\\\\<(c0xFF00FF00)重要提示:获得后有5天时效,请尽快使用它>",
-          "target": "只在雪人大作战活动中击杀怪物掉落获得\\\\每天13:00-13:30和19:30-20:00举行雪人大作战活动\\\\双击该道具可打开双旦活动界面,可在双旦兑大奖中兑换奖励\\\\<(c0xFF00FF00)重要提示:获得后有5天时效,请尽快使用它>"
+          "target": "Chỉ rơi khi diệt quái trong sự kiện Đại Chiến Người Tuyết\\\\Sự kiện diễn ra mỗi ngày 13:00-13:30 và 19:30-20:00\\\\Nhấp đúp mở giao diện sự kiện Song Đán, đổi thưởng tại Song Đán Đổi Quà Lớn\\\\<(c0xFF00FF00)Lưu ý: vật phẩm có hạn 5 ngày sau khi nhận, hãy dùng sớm>"
         },
         {
           "key": "n2869",
           "occurrence": 1,
           "source": "许愿卡",
-          "target": "许愿卡"
+          "target": "Thẻ Ước Nguyện"
         },
         {
           "key": "i2869",
           "occurrence": 1,
           "source": "只在雪人大作战活动中击杀怪物掉落获得\\\\每天13:00-13:30和19:30-20:00举行雪人大作战活动\\\\可前往圣城NPC圣诞老人处进行许愿卡许愿获得奖励\\\\<(c0xFF00FF00)重要提示:获得后有5天时效,请尽快使用它>",
-          "target": "只在雪人大作战活动中击杀怪物掉落获得\\\\每天13:00-13:30和19:30-20:00举行雪人大作战活动\\\\可前往圣城NPC圣诞老人处进行许愿卡许愿获得奖励\\\\<(c0xFF00FF00)重要提示:获得后有5天时效,请尽快使用它>"
+          "target": "Chỉ rơi khi diệt quái trong sự kiện Đại Chiến Người Tuyết\\\\Sự kiện diễn ra mỗi ngày 13:00-13:30 và 19:30-20:00\\\\Đến NPC Ông Già Noel tại Thánh Thành dùng Thẻ Ước Nguyện để nhận thưởng\\\\<(c0xFF00FF00)Lưu ý: vật phẩm có hạn 5 ngày sau khi nhận, hãy dùng sớm>"
         },
         {
           "key": "n2870",
           "occurrence": 1,
           "source": "10000绑定金币",
-          "target": "10000绑定金币"
+          "target": "10000 Vàng Khóa"
         },
         {
           "key": "i2870",
           "occurrence": 1,
           "source": "双击使用后可以获得10000绑定金币",
-          "target": "双击使用后可以获得10000绑定金币"
+          "target": "Nhấp đúp dùng nhận 10000 Vàng Khóa"
         },
         {
           "key": "n2871",
           "occurrence": 1,
           "source": "香喷喷的菜肴",
-          "target": "香喷喷的菜肴"
+          "target": "Món Ăn Thơm Ngon"
         },
         {
           "key": "i2871",
           "occurrence": 1,
           "source": "由夫妻两人合力完成的菜肴，包含满满的爱意，美味可口。\\\\双击使用能获得大量经验。",
-          "target": "由夫妻两人合力完成的菜肴，包含满满的爱意，美味可口。\\\\双击使用能获得大量经验。"
+          "target": "Món ăn do hai vợ chồng cùng hoàn thành, chứa đầy tình yêu và vô cùng ngon miệng.\\\\Nhấp đúp dùng nhận nhiều KN."
         },
         {
           "key": "n2872",
           "occurrence": 1,
           "source": "半熟的鸡汤",
-          "target": "半熟的鸡汤"
+          "target": "Canh Gà Nửa Chín"
         },
         {
           "key": "i2872",
           "occurrence": 1,
           "source": "未煮熟的鸡汤。需要交给伴侣完成最后的加工。\\\\从伴侣交易得来半熟的乳猪，双击使用可变为香喷喷的菜肴。",
-          "target": "未煮熟的鸡汤。需要交给伴侣完成最后的加工。\\\\从伴侣交易得来半熟的乳猪，双击使用可变为香喷喷的菜肴。"
+          "target": "Canh gà chưa nấu chín, cần giao cho bạn đời hoàn thành công đoạn cuối.\\\\Nhận Heo Sữa Nửa Chín từ giao dịch bạn đời, nhấp đúp dùng sẽ thành Món Ăn Thơm Ngon."
         },
         {
           "key": "n2873",
           "occurrence": 1,
           "source": "半熟的乳猪",
-          "target": "半熟的乳猪"
+          "target": "Heo Sữa Nửa Chín"
         },
         {
           "key": "i2873",
           "occurrence": 1,
           "source": "未烤熟的乳猪。需要交给伴侣完成最后的加工。\\\\从伴侣交易得来半熟的鸡汤，双击使用可变为香喷喷的菜肴。",
-          "target": "未烤熟的乳猪。需要交给伴侣完成最后的加工。\\\\从伴侣交易得来半熟的鸡汤，双击使用可变为香喷喷的菜肴。"
+          "target": "Heo sữa chưa nướng chín, cần giao cho bạn đời hoàn thành công đoạn cuối.\\\\Nhận Canh Gà Nửa Chín từ giao dịch bạn đời, nhấp đúp dùng sẽ thành Món Ăn Thơm Ngon."
         },
         {
           "key": "n2874",
           "occurrence": 1,
           "source": "请柬",
-          "target": "请柬"
+          "target": "Thiệp Mời"
         },
         {
           "key": "i2874",
           "occurrence": 1,
           "source": "用于进入闹洞房的凭证,可在商城中购买\\\\<(c0xFF00FF00)提示:通过商城购买获得>。",
-          "target": "用于进入闹洞房的凭证,可在商城中购买\\\\<(c0xFF00FF00)提示:通过商城购买获得>。"
+          "target": "Vật chứng vào Quậy Phòng Tân Hôn, có thể mua tại Cửa Hàng\\\\<(c0xFF00FF00)Gợi ý: mua tại Cửa Hàng để nhận>."
         },
         {
           "key": "n2875",
           "occurrence": 1,
           "source": "散乱的食材",
-          "target": "散乱的食材"
+          "target": "Nguyên Liệu Rời Rạc"
         },
         {
           "key": "i2875",
           "occurrence": 1,
           "source": "接取伴侣任务后获得的任务道具。\\\\双击使用后，男方的食材可变为“半熟的乳猪”；女方的食材可变为“半熟的鸡汤”。",
-          "target": "接取伴侣任务后获得的任务道具。\\\\双击使用后，男方的食材可变为“半熟的乳猪”；女方的食材可变为“半熟的鸡汤”。"
+          "target": "Đạo cụ nhiệm vụ nhận sau khi nhận nhiệm vụ bạn đời.\\\\Nhấp đúp dùng: nguyên liệu của nam thành “Heo Sữa Nửa Chín”; nguyên liệu của nữ thành “Canh Gà Nửa Chín”."
         },
         {
           "key": "n2876",
