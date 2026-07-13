@@ -29584,55 +29584,55 @@
           "key": "desc491",
           "occurrence": 1,
           "source": "消灭骷髅小怪后找到罗格哨兵交付任务.",
-          "target": "消灭骷髅小怪后找到罗格哨兵交付任务."
+          "target": "Diệt Tiểu Cốt Lâu rồi báo cáo với Lính Gác Rogue."
         },
         {
           "key": "desc492",
           "occurrence": 1,
           "source": "找到前方等待的幻影导师.",
-          "target": "找到前方等待的幻影导师."
+          "target": "Tìm Đạo Sư Ảo Ảnh đang chờ phía trước."
         },
         {
           "key": "desc493",
           "occurrence": 1,
           "source": "消灭前方的幼龙后找到仙踪精灵.",
-          "target": "消灭前方的幼龙后找到仙踪精灵."
+          "target": "Diệt Ấu Long phía trước rồi tìm Tinh Linh Tiên Tung."
         },
         {
           "key": "desc494",
           "occurrence": 1,
           "source": "找到前方的大天使.",
-          "target": "找到前方的大天使."
+          "target": "Tìm Đại Thiên Sứ phía trước."
         },
         {
           "key": "desc495",
           "occurrence": 1,
           "source": "清除前方的指尖法师后找<霸天破神/M群魔堡垒:70:138:霸天破神>交付.",
-          "target": "清除前方的指尖法师后找<霸天破神/M群魔堡垒:70:138:霸天破神>交付."
+          "target": "Dọn Pháp Sư Chỉ Tiêm phía trước rồi báo cáo với <Bá Thiên Phá Thần/M群魔堡垒:70:138:霸天破神>."
         },
         {
           "key": "desc496",
           "occurrence": 1,
           "source": "消灭守护者遗忘骑士后找<骑士长/M群魔堡垒:94:123:骑士长>.",
-          "target": "消灭守护者遗忘骑士后找<骑士长/M群魔堡垒:94:123:骑士长>."
+          "target": "Diệt Kỵ Sĩ Lãng Quên Hộ Vệ rồi gặp <Kỵ Sĩ Trưởng/M群魔堡垒:94:123:骑士长>."
         },
         {
           "key": "desc497",
           "occurrence": 1,
           "source": "打败邪恶魔子后找到<骑士长/M群魔堡垒:94:123:骑士长>交付任务.",
-          "target": "打败邪恶魔子后找到<骑士长/M群魔堡垒:94:123:骑士长>交付任务."
+          "target": "Đánh bại Ma Tử Tà Ác rồi báo cáo với <Kỵ Sĩ Trưởng/M群魔堡垒:94:123:骑士长>."
         },
         {
           "key": "desc498",
           "occurrence": 1,
           "source": "消灭前方的沉沦魔巫师后找到<龙行者/M群魔堡垒:68:82:龙行者>.",
-          "target": "消灭前方的沉沦魔巫师后找到<龙行者/M群魔堡垒:68:82:龙行者>."
+          "target": "Diệt Phù Thủy Sa Ngã phía trước rồi gặp <Long Hành Giả/M群魔堡垒:68:82:龙行者>."
         },
         {
           "key": "desc499",
           "occurrence": 1,
           "source": "消灭前方的骷髅小怪后回复<雷山德/M群魔堡垒:52:113:雷山德>.",
-          "target": "消灭前方的骷髅小怪后回复<雷山德/M群魔堡垒:52:113:雷山德>."
+          "target": "Diệt Tiểu Cốt Lâu phía trước rồi báo cáo với <Lôi Sơn Đức/M群魔堡垒:52:113:雷山德>."
         },
         {
           "key": "desc5",
@@ -29650,7 +29650,7 @@
           "key": "desc500",
           "occurrence": 1,
           "source": "去火焰之河找<暗裔剑魔/M火焰之河:91:79:暗裔剑魔>.",
-          "target": "去火焰之河找<暗裔剑魔/M火焰之河:91:79:暗裔剑魔>."
+          "target": "Đến Sông Lửa gặp <Kiếm Ma Darkin/M火焰之河:91:79:暗裔剑魔>."
         },
         {
           "key": "desc501",
