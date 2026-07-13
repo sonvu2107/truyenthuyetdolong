@@ -51296,115 +51296,115 @@
           "key": "n1033",
           "occurrence": 1,
           "source": "50000经验",
-          "target": "50000经验"
+          "target": "50K KN"
         },
         {
           "key": "i1033",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)5万经验>",
-          "target": "双击可获得<(c0xFF00FFFF)5万经验>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)50K KN>"
         },
         {
           "key": "n1034",
           "occurrence": 1,
           "source": "100000经验",
-          "target": "100000经验"
+          "target": "100K KN"
         },
         {
           "key": "i1034",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)10万经验>",
-          "target": "双击可获得<(c0xFF00FFFF)10万经验>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)100K KN>"
         },
         {
           "key": "n1035",
           "occurrence": 1,
           "source": "1000000经验",
-          "target": "1000000经验"
+          "target": "1000K KN"
         },
         {
           "key": "i1035",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)100万经验>\\\\光速升级，必备珍品！<(c0x00d57140)让你的等级先人一步！>",
-          "target": "双击可获得<(c0xFF00FFFF)100万经验>\\\\光速升级，必备珍品！<(c0x00d57140)让你的等级先人一步！>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)1000K KN>\\\\Lên Cấp Thần Tốc, vật phẩm thiết yếu! <(c0x00d57140)Vượt cấp mọi người!>"
         },
         {
           "key": "n1036",
           "occurrence": 1,
           "source": "10000000经验",
-          "target": "10000000经验"
+          "target": "10000K KN"
         },
         {
           "key": "i1036",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)1000万经验>\\\\光速升级，必备珍品！<(c0x00d57140)让你的等级先人一步！>",
-          "target": "双击可获得<(c0xFF00FFFF)1000万经验>\\\\光速升级，必备珍品！<(c0x00d57140)让你的等级先人一步！>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)10000K KN>\\\\Lên Cấp Thần Tốc, vật phẩm thiết yếu! <(c0x00d57140)Vượt cấp mọi người!>"
         },
         {
           "key": "n1037",
           "occurrence": 1,
           "source": "100000000经验",
-          "target": "100000000经验"
+          "target": "100000K KN"
         },
         {
           "key": "i1037",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)1亿经验>\\\\光速升级，必备珍品！\\\\<(c0x00d57140)让你的等级先人一步！>\\\\首充礼包可以获得",
-          "target": "双击可获得<(c0xFF00FFFF)1亿经验>\\\\光速升级，必备珍品！\\\\<(c0x00d57140)让你的等级先人一步！>\\\\首充礼包可以获得"
+          "target": "Dùng để nhận <(c0xFF00FFFF)100000K KN>\\\\Lên Cấp Thần Tốc, vật phẩm thiết yếu!\\\\<(c0x00d57140)Vượt cấp mọi người!>\\\\Nhận từ Gói Nạp Đầu"
         },
         {
           "key": "n1038",
           "occurrence": 1,
           "source": "尊贵特权礼包",
-          "target": "尊贵特权礼包"
+          "target": "Gói Đặc Quyền Cao Quý"
         },
         {
           "key": "i1038",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\一日VIP卡\\\\雪莲×1\\\\复活药水×1\\\\副本通行证×2\\\\立即完成卷轴×2\\\\强效怒气丹×4\\\\肥皂×5",
-          "target": "双击打开,获得以下物品:\\\\一日VIP卡\\\\雪莲×1\\\\复活药水×1\\\\副本通行证×2\\\\立即完成卷轴×2\\\\强效怒气丹×4\\\\肥皂×5"
+          "target": "Dùng để nhận:\\\\Thẻ VIP 1 Ngày\\\\Tuyết Liên ×1\\\\Thuốc Phục Sinh ×1\\\\Vé Phó Bản ×2\\\\Cuộn Hoàn Thành Ngay ×2\\\\Đan Nộ Khí Mạnh ×4\\\\Xà Phòng ×5"
         },
         {
           "key": "n1039",
           "occurrence": 1,
           "source": "至尊特权礼包",
-          "target": "至尊特权礼包"
+          "target": "Gói Đặc Quyền Chí Tôn"
         },
         {
           "key": "i1039",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\西洋参×1\\\\3倍经验卷轴(1小时)×1\\\\背包扩展卷轴×1\\\\5倍离线经验玉×2\\\\丘比特之箭×5\\\\花宝令牌×5",
-          "target": "双击打开,获得以下物品:\\\\西洋参×1\\\\3倍经验卷轴(1小时)×1\\\\背包扩展卷轴×1\\\\5倍离线经验玉×2\\\\丘比特之箭×5\\\\花宝令牌×5"
+          "target": "Dùng để nhận:\\\\Sâm Tây Dương ×1\\\\Cuộn KN x3 (1 Giờ) ×1\\\\Cuộn Mở Rộng Túi ×1\\\\Ngọc KN Offline x5 ×2\\\\Mũi Tên Cupid ×5\\\\Lệnh Hoa Bảo ×5"
         },
         {
           "key": "n1040",
           "occurrence": 1,
           "source": "黄金特权礼包",
-          "target": "黄金特权礼包"
+          "target": "Gói Đặc Quyền Hoàng Kim"
         },
         {
           "key": "i1040",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\3倍经验卷轴×1\\\\复活药水×1\\\\修复药水×1\\\\背包扩展卷轴×1\\\\丘比特之箭×5",
-          "target": "双击打开,获得以下物品:\\\\3倍经验卷轴×1\\\\复活药水×1\\\\修复药水×1\\\\背包扩展卷轴×1\\\\丘比特之箭×5"
+          "target": "Dùng để nhận:\\\\Cuộn KN x3 ×1\\\\Thuốc Phục Sinh ×1\\\\Thuốc Sửa Chữa ×1\\\\Cuộn Mở Rộng Túi ×1\\\\Mũi Tên Cupid ×5"
         },
         {
           "key": "n1041",
           "occurrence": 1,
           "source": "钻石特权礼包",
-          "target": "钻石特权礼包"
+          "target": "Gói Đặc Quyền Kim Cương"
         },
         {
           "key": "i1041",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\一日VIP卡\\\\西洋参之精×1\\\\雪莲之精×1\\\\5倍离线经验玉×2\\\\苹果×3\\\\爆烈怒气丹×10\\\\花宝令牌×10",
-          "target": "双击打开,获得以下物品:\\\\一日VIP卡\\\\西洋参之精×1\\\\雪莲之精×1\\\\5倍离线经验玉×2\\\\苹果×3\\\\爆烈怒气丹×10\\\\花宝令牌×10"
+          "target": "Dùng để nhận:\\\\Thẻ VIP 1 Ngày\\\\Tinh Sâm Tây Dương ×1\\\\Tinh Tuyết Liên ×1\\\\Ngọc KN Offline x5 ×2\\\\Táo ×3\\\\Đan Nộ Khí Bùng Nổ ×10\\\\Lệnh Hoa Bảo ×10"
         },
         {
           "key": "n1042",
           "occurrence": 1,
           "source": "幻世之翼【10天】(废弃)",
-          "target": "幻世之翼【10天】(废弃)"
+          "target": "Cánh Ảo Thế [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1042",
@@ -51416,31 +51416,31 @@
           "key": "n1043",
           "occurrence": 1,
           "source": "坐骑代金券",
-          "target": "坐骑代金券"
+          "target": "Phiếu Thú Cưỡi"
         },
         {
           "key": "i1043",
           "occurrence": 1,
           "source": "双击使用\\\\在商城购买99个马鞭以代替2970元宝进行消费",
-          "target": "双击使用\\\\在商城购买99个马鞭以代替2970元宝进行消费"
+          "target": "Dùng\\\\Mua 99 Roi Ngựa trong Cửa Hàng để thay 2970 Nguyên Bảo"
         },
         {
           "key": "n1044",
           "occurrence": 1,
           "source": "坐骑代金卡",
-          "target": "坐骑代金卡"
+          "target": "Thẻ Thú Cưỡi"
         },
         {
           "key": "i1044",
           "occurrence": 1,
           "source": "双击使用\\\\在商城购买99个马鞭以代替2970元宝进行消费",
-          "target": "双击使用\\\\在商城购买99个马鞭以代替2970元宝进行消费"
+          "target": "Dùng\\\\Mua 99 Roi Ngựa trong Cửa Hàng để thay 2970 Nguyên Bảo"
         },
         {
           "key": "n1045",
           "occurrence": 1,
           "source": "羽毛",
-          "target": "羽毛"
+          "target": "Lông Vũ"
         },
         {
           "key": "i1045",
