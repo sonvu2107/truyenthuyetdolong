@@ -29248,43 +29248,43 @@
           "key": "desc433",
           "occurrence": 1,
           "source": "找到穷奇的所在地,助<海皇残魂/M海底世界三层:0:0:海皇残魂>吸收龙魂.",
-          "target": "找到穷奇的所在地,助<海皇残魂/M海底世界三层:0:0:海皇残魂>吸收龙魂."
+          "target": "Tìm nơi ở của Cùng Kỳ, giúp <Tàn Hồn Hải Hoàng/M海底世界三层:0:0:海皇残魂> hấp thụ Long Hồn."
         },
         {
           "key": "desc434",
           "occurrence": 1,
           "source": "突破怪物的封锁,帮<海皇残魂/M海底世界三层:0:0:海皇残魂>传话给<海皇弟子/M海底世界三层:0:0:海皇弟子>.",
-          "target": "突破怪物的封锁,帮<海皇残魂/M海底世界三层:0:0:海皇残魂>传话给<海皇弟子/M海底世界三层:0:0:海皇弟子>."
+          "target": "Phá vây quái, chuyển lời của <Tàn Hồn Hải Hoàng/M海底世界三层:0:0:海皇残魂> cho <Đệ Tử Hải Hoàng/M海底世界三层:0:0:海皇弟子>."
         },
         {
           "key": "desc435",
           "occurrence": 1,
           "source": "帮助<海皇弟子/M海底世界三层:0:0:海皇弟子>清理大蟹将,为他开路.",
-          "target": "帮助<海皇弟子/M海底世界三层:0:0:海皇弟子>清理大蟹将,为他开路."
+          "target": "Giúp <Đệ Tử Hải Hoàng/M海底世界三层:0:0:海皇弟子> dọn Tướng Cua Lớn, mở đường."
         },
         {
           "key": "desc436",
           "occurrence": 1,
           "source": "穷奇来犯,<海皇弟子/M海底世界三层:0:0:海皇弟子>身处险境,保护他的安全.",
-          "target": "穷奇来犯,<海皇弟子/M海底世界三层:0:0:海皇弟子>身处险境,保护他的安全."
+          "target": "Cùng Kỳ tấn công, hãy bảo vệ <Đệ Tử Hải Hoàng/M海底世界三层:0:0:海皇弟子> đang gặp nguy."
         },
         {
           "key": "desc437",
           "occurrence": 1,
           "source": "完成<海皇弟子/M海底世界三层:0:0:海皇弟子>的任务,回复<海皇残魂/M海底世界三层:0:0:海皇残魂>.",
-          "target": "完成<海皇弟子/M海底世界三层:0:0:海皇弟子>的任务,回复<海皇残魂/M海底世界三层:0:0:海皇残魂>."
+          "target": "Hoàn thành nhiệm vụ của <Đệ Tử Hải Hoàng/M海底世界三层:0:0:海皇弟子>, báo cáo với <Tàn Hồn Hải Hoàng/M海底世界三层:0:0:海皇残魂>."
         },
         {
           "key": "desc438",
           "occurrence": 1,
           "source": "<海皇残魂/M海底世界三层:0:0:海皇残魂>让你去四层寻找化身的<海妖娜迦/M海底世界三层:0:0:海妖娜迦>.",
-          "target": "<海皇残魂/M海底世界三层:0:0:海皇残魂>让你去四层寻找化身的<海妖娜迦/M海底世界三层:0:0:海妖娜迦>."
+          "target": "<Tàn Hồn Hải Hoàng/M海底世界三层:0:0:海皇残魂> bảo ngươi lên tầng 4 tìm hóa thân <Hải Yêu Naga/M海底世界三层:0:0:海妖娜迦>."
         },
         {
           "key": "desc439",
           "occurrence": 1,
           "source": "帮助<海妖娜迦/M海底世界三层:0:0:海妖娜迦>清理附近的怪物.",
-          "target": "帮助<海妖娜迦/M海底世界三层:0:0:海妖娜迦>清理附近的怪物."
+          "target": "Giúp <Hải Yêu Naga/M海底世界三层:0:0:海妖娜迦> dọn quái gần đó."
         },
         {
           "key": "desc44",
@@ -29296,13 +29296,13 @@
           "key": "desc440",
           "occurrence": 1,
           "source": "帮<海妖娜迦/M海底世界三层:0:0:海妖娜迦>摆脱鱼怪的追杀.",
-          "target": "帮<海妖娜迦/M海底世界三层:0:0:海妖娜迦>摆脱鱼怪的追杀."
+          "target": "Giúp <Hải Yêu Naga/M海底世界三层:0:0:海妖娜迦> thoát khỏi quái cá truy sát."
         },
         {
           "key": "desc441",
           "occurrence": 1,
           "source": "帮助<海妖娜迦/M海底世界三层:0:0:海妖娜迦>清理附近的怪物.",
-          "target": "帮助<海妖娜迦/M海底世界三层:0:0:海妖娜迦>清理附近的怪物."
+          "target": "Giúp <Hải Yêu Naga/M海底世界三层:0:0:海妖娜迦> dọn quái gần đó."
         },
         {
           "key": "desc45",
@@ -29314,7 +29314,7 @@
           "key": "desc450",
           "occurrence": 1,
           "source": "与<仙姬/M美女村:0:0:仙姬>对话.",
-          "target": "与<仙姬/M美女村:0:0:仙姬>对话."
+          "target": "Nói chuyện với <Tiên Cơ/M美女村:0:0:仙姬>."
         },
         {
           "key": "desc451",
