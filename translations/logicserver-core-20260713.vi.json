@@ -49832,19 +49832,19 @@
           "key": "n911",
           "occurrence": 1,
           "source": "攻城大礼包",
-          "target": "攻城大礼包"
+          "target": "Gói Công Thành"
         },
         {
           "key": "i911",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\999朵红玫瑰×1\\\\金条×1\\\\攻击药水(中)×9\\\\防御药水(中)×2\\\\生命药水(中)×2\\\\魔法药水(中)×2",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\999朵红玫瑰×1\\\\金条×1\\\\攻击药水(中)×9\\\\防御药水(中)×2\\\\生命药水(中)×2\\\\魔法药水(中)×2"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\999 Hoa Hồng Đỏ ×1\\\\Thỏi Vàng ×1\\\\Thuốc Công Kích (Trung) ×9\\\\Thuốc Phòng Thủ (Trung) ×2\\\\Thuốc HP (Trung) ×2\\\\Thuốc MP (Trung) ×2"
         },
         {
           "key": "n912",
           "occurrence": 1,
           "source": "40级套装大礼包",
-          "target": "40级套装大礼包"
+          "target": "Gói Bộ Trang Bị Cấp 40"
         },
         {
           "key": "i912",
@@ -49856,37 +49856,37 @@
           "key": "n913",
           "occurrence": 1,
           "source": "装备增强大礼包",
-          "target": "装备增强大礼包"
+          "target": "Gói Cường Hóa Trang Bị"
         },
         {
           "key": "i913",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\8级完美强化卡×1\\\\强化保护卷轴×55\\\\强化水晶×18\\\\强化石×12",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\8级完美强化卡×1\\\\强化保护卷轴×55\\\\强化水晶×18\\\\强化石×12"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Thẻ Cường Hóa Hoàn Mỹ Cấp 8 ×1\\\\Cuộn Bảo Vệ Cường Hóa ×55\\\\Pha Lê Cường Hóa ×18\\\\Đá Cường Hóa ×12"
         },
         {
           "key": "n914",
           "occurrence": 1,
           "source": "装备升级大礼包",
-          "target": "装备升级大礼包"
+          "target": "Gói Nâng Cấp Trang Bị"
         },
         {
           "key": "i914",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\装备升级石×8",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\装备升级石×8"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Đá Nâng Cấp Trang Bị ×8"
         },
         {
           "key": "n915",
           "occurrence": 1,
           "source": "马鞭抢购大礼包",
-          "target": "马鞭抢购大礼包"
+          "target": "Gói Roi Ngựa Giá Sốc"
         },
         {
           "key": "i915",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\马鞭×10",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\马鞭×10"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Roi Ngựa ×10"
         },
         {
           "key": "n916",
