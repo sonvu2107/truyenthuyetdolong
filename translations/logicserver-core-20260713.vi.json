@@ -55724,109 +55724,109 @@
           "key": "n1402",
           "occurrence": 1,
           "source": "装备升级石礼盒",
-          "target": "装备升级石礼盒"
+          "target": "Hộp Đá Nâng Cấp Trang Bị"
         },
         {
           "key": "i1402",
           "occurrence": 1,
           "source": "双击使用\\\\可获得6个装备升级石",
-          "target": "双击使用\\\\可获得6个装备升级石"
+          "target": "Nhấp đúp để dùng\\\\Nhận 6 Đá Nâng Cấp Trang Bị"
         },
         {
           "key": "n1403",
           "occurrence": 1,
           "source": "1级淬炼神石(废弃)",
-          "target": "1级淬炼神石(废弃)"
+          "target": "Đá Thần Tôi Luyện Cấp 1 (Bỏ)"
         },
         {
           "key": "i1403",
           "occurrence": 1,
           "source": "用于<(c0xFF00FFFF)转生装备1-5级淬炼>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\可通过<(c0xFF00FFFF)物品合成>功能可合成<(c0xFF00FFFF)2级淬炼神石>\\\\<(c0xFF00FF00)提示:可通过商城、装备淘宝获得>",
-          "target": "用于<(c0xFF00FFFF)转生装备1-5级淬炼>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\可通过<(c0xFF00FFFF)物品合成>功能可合成<(c0xFF00FFFF)2级淬炼神石>\\\\<(c0xFF00FF00)提示:可通过商城、装备淘宝获得>"
+          "target": "Dùng để tôi luyện <(c0xFF00FFFF)Trang Bị Chuyển Sinh cấp 1-5>\\\\<(c0xFFFFFF00)Nhấp đúp vật phẩm> để mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) và thực hiện <(c0xFF00FFFF)Tôi Luyện Trang Bị>\\\\Có thể dùng chức năng <(c0xFF00FFFF)Hợp Thành Vật Phẩm> để hợp thành <(c0xFF00FFFF)Đá Thần Tôi Luyện Cấp 2>\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận từ Shop, Săn Kho Báu Trang Bị>"
         },
         {
           "key": "n1404",
           "occurrence": 1,
           "source": "2级淬炼神石(废弃)",
-          "target": "2级淬炼神石(废弃)"
+          "target": "Đá Thần Tôi Luyện Cấp 2 (Bỏ)"
         },
         {
           "key": "i1404",
           "occurrence": 1,
           "source": "用于<(c0xFF00FFFF)转生装备6-10级淬炼>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\可通过<(c0xFF00FFFF)物品合成>功能可合成<(c0xFF00FFFF)3级淬炼神石>\\\\<(c0xFF00FF00)提示:可通过商城、装备淘宝获得>",
-          "target": "用于<(c0xFF00FFFF)转生装备6-10级淬炼>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\可通过<(c0xFF00FFFF)物品合成>功能可合成<(c0xFF00FFFF)3级淬炼神石>\\\\<(c0xFF00FF00)提示:可通过商城、装备淘宝获得>"
+          "target": "Dùng để tôi luyện <(c0xFF00FFFF)Trang Bị Chuyển Sinh cấp 6-10>\\\\<(c0xFFFFFF00)Nhấp đúp vật phẩm> để mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) và thực hiện <(c0xFF00FFFF)Tôi Luyện Trang Bị>\\\\Có thể dùng chức năng <(c0xFF00FFFF)Hợp Thành Vật Phẩm> để hợp thành <(c0xFF00FFFF)Đá Thần Tôi Luyện Cấp 3>\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận từ Shop, Săn Kho Báu Trang Bị>"
         },
         {
           "key": "n1405",
           "occurrence": 1,
           "source": "3级淬炼神石(废弃)",
-          "target": "3级淬炼神石(废弃)"
+          "target": "Đá Thần Tôi Luyện Cấp 3 (Bỏ)"
         },
         {
           "key": "i1405",
           "occurrence": 1,
           "source": "用于<(c0xFF00FFFF)转生装备10级以上淬炼>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\可通过<(c0xFF00FFFF)物品合成>功能可合成<(c0xFF00FFFF)4级淬炼神石>\\\\<(c0xFF00FF00)提示:可通过商城、装备淘宝获得>",
-          "target": "用于<(c0xFF00FFFF)转生装备10级以上淬炼>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\可通过<(c0xFF00FFFF)物品合成>功能可合成<(c0xFF00FFFF)4级淬炼神石>\\\\<(c0xFF00FF00)提示:可通过商城、装备淘宝获得>"
+          "target": "Dùng để tôi luyện <(c0xFF00FFFF)Trang Bị Chuyển Sinh trên cấp 10>\\\\<(c0xFFFFFF00)Nhấp đúp vật phẩm> để mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) và thực hiện <(c0xFF00FFFF)Tôi Luyện Trang Bị>\\\\Có thể dùng chức năng <(c0xFF00FFFF)Hợp Thành Vật Phẩm> để hợp thành <(c0xFF00FFFF)Đá Thần Tôi Luyện Cấp 4>\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận từ Shop, Săn Kho Báu Trang Bị>"
         },
         {
           "key": "n1406",
           "occurrence": 1,
           "source": "4级淬炼神石(废弃)",
-          "target": "4级淬炼神石(废弃)"
+          "target": "Đá Thần Tôi Luyện Cấp 4 (Bỏ)"
         },
         {
           "key": "i1406",
           "occurrence": 1,
           "source": "用于<(c0xFF00FFFF)4-10级装备>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\<(c0xFF00FF00)提示:可通过材料合成>",
-          "target": "用于<(c0xFF00FFFF)4-10级装备>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\<(c0xFF00FF00)提示:可通过材料合成>"
+          "target": "Dùng để tôi luyện <(c0xFF00FFFF)Trang Bị cấp 4-10>\\\\<(c0xFFFFFF00)Nhấp đúp vật phẩm> để mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) và thực hiện <(c0xFF00FFFF)Tôi Luyện Trang Bị>\\\\<(c0xFF00FF00)Gợi ý: Có thể hợp thành từ nguyên liệu>"
         },
         {
           "key": "n1407",
           "occurrence": 1,
           "source": "5级淬炼神石(废弃)",
-          "target": "5级淬炼神石(废弃)"
+          "target": "Đá Thần Tôi Luyện Cấp 5 (Bỏ)"
         },
         {
           "key": "i1407",
           "occurrence": 1,
           "source": "用于<(c0xFF00FFFF)5级装备>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\<(c0xFF00FF00)提示:可通过材料合成>",
-          "target": "用于<(c0xFF00FFFF)5级装备>淬炼材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备淬炼>操作\\\\<(c0xFF00FF00)提示:可通过材料合成>"
+          "target": "Dùng để tôi luyện <(c0xFF00FFFF)Trang Bị cấp 5>\\\\<(c0xFFFFFF00)Nhấp đúp vật phẩm> để mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) và thực hiện <(c0xFF00FFFF)Tôi Luyện Trang Bị>\\\\<(c0xFF00FF00)Gợi ý: Có thể hợp thành từ nguyên liệu>"
         },
         {
           "key": "n1408",
           "occurrence": 1,
           "source": "强效佣兵经验水晶",
-          "target": "强效佣兵经验水晶"
+          "target": "Tinh Thể KN Lính Đánh Thuê Cường Hiệu"
         },
         {
           "key": "i1408",
           "occurrence": 1,
           "source": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)1000万>",
-          "target": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)1000万>"
+          "target": "Nhấp đúp để dùng\\\\Tăng <(c0xFF00FFFF)10000K> KN cho Lính Đánh Thuê đang xuất chiến"
         },
         {
           "key": "n1409",
           "occurrence": 1,
           "source": "超级佣兵经验水晶",
-          "target": "超级佣兵经验水晶"
+          "target": "Tinh Thể KN Lính Đánh Thuê Siêu Cấp"
         },
         {
           "key": "i1409",
           "occurrence": 1,
           "source": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)1亿>",
-          "target": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)1亿>"
+          "target": "Nhấp đúp để dùng\\\\Tăng <(c0xFF00FFFF)100000K> KN cho Lính Đánh Thuê đang xuất chiến"
         },
         {
           "key": "n1410",
           "occurrence": 1,
           "source": "改名卡",
-          "target": "改名卡"
+          "target": "Thẻ Đổi Tên"
         },
         {
           "key": "i1410",
           "occurrence": 1,
           "source": "双击使用。可以更换你的姓名",
-          "target": "双击使用。可以更换你的姓名"
+          "target": "Nhấp đúp để dùng. Có thể đổi tên của bạn"
         },
         {
           "key": "n1411",
