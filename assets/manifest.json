@@ -1,5 +1,5 @@
 {
-  "version": "20260714npcwelfare1",
+  "version": "20260714npcwelfare2",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "97BC9DCD35B0201748D4D2469E2D116932F56C20625EABD45E298EB30FA2D770"
+      "sha256": "A28B34BCDEC807D24D51D6D088C5E9C867CE490E2472D016062CC2F74A4C4F25"
     },
     {
       "source": "assets/ClientLang.txt",

@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "active": true,
-  "description": "Chuẩn hóa font tiếng Việt và giảm cỡ chữ cho giao diện NPC + Phúc lợi.",
+  "active": false,
+  "description": "Tạm vô hiệu hóa thay đổi font trong các lớp giao diện NPC + Phúc lợi vì FFDec tái biên dịch làm hỏng luồng khởi tạo WelfareWin. Bản hotfix chỉ giữ phần câu chữ trong lang.ZH_CN và dữ liệu CBP.",
   "classes": {
     "view.game.components.label.SimpleLinkLabel": {
       "font": "Tahoma",
