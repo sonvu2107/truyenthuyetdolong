@@ -61748,97 +61748,97 @@
           "key": "n1904",
           "occurrence": 1,
           "source": "圣塔传送碎片",
-          "target": "圣塔传送碎片"
+          "target": "Mảnh Dịch Chuyển Thánh Tháp"
         },
         {
           "key": "i1904",
           "occurrence": 1,
           "source": "光明圣塔通行证碎片,收集足够多的碎片\\\\可在圣塔场内NPC圣光传送石那里进行传送到其他层",
-          "target": "光明圣塔通行证碎片,收集足够多的碎片\\\\可在圣塔场内NPC圣光传送石那里进行传送到其他层"
+          "target": "Mảnh Vé Vào Thánh Tháp Ánh Sáng, thu thập đủ mảnh\\\\Có thể dịch chuyển đến tầng khác tại NPC Đá Dịch Chuyển Thánh Quang trong Thánh Tháp"
         },
         {
           "key": "n1905",
           "occurrence": 1,
           "source": "战魂邪灵召唤令",
-          "target": "战魂邪灵召唤令"
+          "target": "Lệnh Triệu Hồi Tà Linh Chiến Hồn"
         },
         {
           "key": "i1905",
           "occurrence": 1,
           "source": "击杀普通邪灵获得\\\\可上交给邪灵护法召唤出大量战魂邪灵\\\\<(c0xFF00FF00)提示:可在邪灵村副本获得>",
-          "target": "击杀普通邪灵获得\\\\可上交给邪灵护法召唤出大量战魂邪灵\\\\<(c0xFF00FF00)提示:可在邪灵村副本获得>"
+          "target": "Nhận khi diệt Tà Linh thường\\\\Có thể nộp cho Hộ Pháp Tà Linh để triệu hồi nhiều Tà Linh Chiến Hồn\\\\<(c0xFF00FF00)Gợi ý: nhận tại Phó Bản Thôn Tà Linh>"
         },
         {
           "key": "n1906",
           "occurrence": 1,
           "source": "神魂邪灵召唤令",
-          "target": "神魂邪灵召唤令"
+          "target": "Lệnh Triệu Hồi Tà Linh Thần Hồn"
         },
         {
           "key": "i1906",
           "occurrence": 1,
           "source": "击杀普通邪灵获得\\\\可上交给邪灵护法召唤出大量神魂邪灵\\\\<(c0xFF00FF00)提示:可在邪灵村副本获得>",
-          "target": "击杀普通邪灵获得\\\\可上交给邪灵护法召唤出大量神魂邪灵\\\\<(c0xFF00FF00)提示:可在邪灵村副本获得>"
+          "target": "Nhận khi diệt Tà Linh thường\\\\Có thể nộp cho Hộ Pháp Tà Linh để triệu hồi nhiều Tà Linh Thần Hồn\\\\<(c0xFF00FF00)Gợi ý: nhận tại Phó Bản Thôn Tà Linh>"
         },
         {
           "key": "n1907",
           "occurrence": 1,
           "source": "终极邪灵召唤令",
-          "target": "终极邪灵召唤令"
+          "target": "Lệnh Triệu Hồi Tà Linh Tối Thượng"
         },
         {
           "key": "i1907",
           "occurrence": 1,
           "source": "击杀普通邪灵获得\\\\可上交给邪灵护法召唤出终极BOSS邪灵\\\\<(c0xFF00FF00)提示:可在邪灵村副本获得>",
-          "target": "击杀普通邪灵获得\\\\可上交给邪灵护法召唤出终极BOSS邪灵\\\\<(c0xFF00FF00)提示:可在邪灵村副本获得>"
+          "target": "Nhận khi diệt Tà Linh thường\\\\Có thể nộp cho Hộ Pháp Tà Linh để triệu hồi BOSS Tà Linh Tối Thượng\\\\<(c0xFF00FF00)Gợi ý: nhận tại Phó Bản Thôn Tà Linh>"
         },
         {
           "key": "n1908",
           "occurrence": 1,
           "source": "维特之脚",
-          "target": "维特之脚"
+          "target": "Chân Wirt"
         },
         {
           "key": "i1908",
           "occurrence": 1,
           "source": "木制的义肢，用途不明\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>",
-          "target": "木制的义肢，用途不明\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>"
+          "target": "Chân giả bằng gỗ, công dụng chưa rõ\\\\<(c0xFF00FF00)Gợi ý: nhận tại Phó Bản Bò>"
         },
         {
           "key": "n1909",
           "occurrence": 1,
           "source": "赫拉迪克方块",
-          "target": "赫拉迪克方块"
+          "target": "Khối Horadric"
         },
         {
           "key": "i1909",
           "occurrence": 1,
           "source": "蕴藏奇怪力量的盒子\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>",
-          "target": "蕴藏奇怪力量的盒子\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>"
+          "target": "Chiếc hộp ẩn chứa sức mạnh kỳ lạ\\\\<(c0xFF00FF00)Gợi ý: nhận tại Phó Bản Bò>"
         },
         {
           "key": "n1910",
           "occurrence": 1,
           "source": "奶牛关传送书",
-          "target": "奶牛关传送书"
+          "target": "Sách Dịch Chuyển Phó Bản Bò"
         },
         {
           "key": "i1910",
           "occurrence": 1,
           "source": "一本很古老的传送书\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>",
-          "target": "一本很古老的传送书\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>"
+          "target": "Một quyển sách dịch chuyển rất cổ\\\\<(c0xFF00FF00)Gợi ý: nhận tại Phó Bản Bò>"
         },
         {
           "key": "n1911",
           "occurrence": 1,
           "source": "远古传送书残页",
-          "target": "远古传送书残页"
+          "target": "Trang Tàn Sách Dịch Chuyển Cổ Đại"
         },
         {
           "key": "i1911",
           "occurrence": 1,
           "source": "远古传送书的残页，上面写满了看不懂的文字\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>",
-          "target": "远古传送书的残页，上面写满了看不懂的文字\\\\<(c0xFF00FF00)提示:可在奶牛关副本获得>"
+          "target": "Trang tàn Sách Dịch Chuyển Cổ Đại, đầy chữ không thể đọc hiểu\\\\<(c0xFF00FF00)Gợi ý: nhận tại Phó Bản Bò>"
         },
         {
           "key": "n1912",
