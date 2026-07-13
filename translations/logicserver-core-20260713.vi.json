@@ -59840,109 +59840,109 @@
           "key": "n1745",
           "occurrence": 1,
           "source": "振奋人心",
-          "target": "振奋人心"
+          "target": "Chấn Phấn Tinh Thần"
         },
         {
           "key": "i1745",
           "occurrence": 1,
           "source": "人物一转后双击使用后学会<(c0xFF00FFFF)振奋人心>",
-          "target": "人物一转后双击使用后学会<(c0xFF00FFFF)振奋人心>"
+          "target": "Nhân vật Chuyển Sinh 1, nhấp đúp để học <(c0xFF00FFFF)Chấn Phấn Tinh Thần>"
         },
         {
           "key": "n1746",
           "occurrence": 1,
           "source": "振奋人心(2级)",
-          "target": "振奋人心(2级)"
+          "target": "Chấn Phấn Tinh Thần (Cấp 2)"
         },
         {
           "key": "i1746",
           "occurrence": 1,
           "source": "学会<(c0xFF00FFFF)1级振奋人心>后\\\\双击使用,可学会振奋人心(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "学会<(c0xFF00FFFF)1级振奋人心>后\\\\双击使用,可学会振奋人心(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Đã học <(c0xFF00FFFF)Chấn Phấn Tinh Thần Cấp 1>\\\\Nhấp đúp để học Chấn Phấn Tinh Thần (Cấp 2)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n1747",
           "occurrence": 1,
           "source": "振奋人心(3级)",
-          "target": "振奋人心(3级)"
+          "target": "Chấn Phấn Tinh Thần (Cấp 3)"
         },
         {
           "key": "i1747",
           "occurrence": 1,
           "source": "学会<(c0xFF00FFFF)2级振奋人心>后\\\\双击使用,可学会振奋人心(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "学会<(c0xFF00FFFF)2级振奋人心>后\\\\双击使用,可学会振奋人心(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Đã học <(c0xFF00FFFF)Chấn Phấn Tinh Thần Cấp 2>\\\\Nhấp đúp để học Chấn Phấn Tinh Thần (Cấp 3)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n1748",
           "occurrence": 1,
           "source": "寒魄掌",
-          "target": "寒魄掌"
+          "target": "Hàn Phách Chưởng"
         },
         {
           "key": "i1748",
           "occurrence": 1,
           "source": "人物一转后双击使用后学会<(c0xFF00FFFF)寒魄掌>",
-          "target": "人物一转后双击使用后学会<(c0xFF00FFFF)寒魄掌>"
+          "target": "Nhân vật Chuyển Sinh 1, nhấp đúp để học <(c0xFF00FFFF)Hàn Phách Chưởng>"
         },
         {
           "key": "n1749",
           "occurrence": 1,
           "source": "寒魄掌(2级)",
-          "target": "寒魄掌(2级)"
+          "target": "Hàn Phách Chưởng (Cấp 2)"
         },
         {
           "key": "i1749",
           "occurrence": 1,
           "source": "学会<(c0xFF00FFFF)1级寒魄掌>后\\\\双击使用,可学会寒魄掌(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "学会<(c0xFF00FFFF)1级寒魄掌>后\\\\双击使用,可学会寒魄掌(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Đã học <(c0xFF00FFFF)Hàn Phách Chưởng Cấp 1>\\\\Nhấp đúp để học Hàn Phách Chưởng (Cấp 2)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n1750",
           "occurrence": 1,
           "source": "寒魄掌(3级)",
-          "target": "寒魄掌(3级)"
+          "target": "Hàn Phách Chưởng (Cấp 3)"
         },
         {
           "key": "i1750",
           "occurrence": 1,
           "source": "学会<(c0xFF00FFFF)2级寒魄掌>后\\\\双击使用,可学会寒魄掌(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "学会<(c0xFF00FFFF)2级寒魄掌>后\\\\双击使用,可学会寒魄掌(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Đã học <(c0xFF00FFFF)Hàn Phách Chưởng Cấp 2>\\\\Nhấp đúp để học Hàn Phách Chưởng (Cấp 3)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n1751",
           "occurrence": 1,
           "source": "吸能术",
-          "target": "吸能术"
+          "target": "Hút Năng Thuật"
         },
         {
           "key": "i1751",
           "occurrence": 1,
           "source": "人物一转后双击使用后学会<(c0xFF00FFFF)吸能术>",
-          "target": "人物一转后双击使用后学会<(c0xFF00FFFF)吸能术>"
+          "target": "Nhân vật Chuyển Sinh 1, nhấp đúp để học <(c0xFF00FFFF)Hút Năng Thuật>"
         },
         {
           "key": "n1752",
           "occurrence": 1,
           "source": "吸能术(2级)",
-          "target": "吸能术(2级)"
+          "target": "Hút Năng Thuật (Cấp 2)"
         },
         {
           "key": "i1752",
           "occurrence": 1,
           "source": "人物一转后双击使用后,学会吸能术(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物一转后双击使用后,学会吸能术(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhân vật Chuyển Sinh 1, nhấp đúp để học Hút Năng Thuật (Cấp 2)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n1753",
           "occurrence": 1,
           "source": "吸能术(3级)",
-          "target": "吸能术(3级)"
+          "target": "Hút Năng Thuật (Cấp 3)"
         },
         {
           "key": "i1753",
           "occurrence": 1,
           "source": "人物一转后双击使用后,学会吸能术(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物一转后双击使用后,学会吸能术(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhân vật Chuyển Sinh 1, nhấp đúp để học Hút Năng Thuật (Cấp 3)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n1754",
