@@ -56012,73 +56012,73 @@
           "key": "n1426",
           "occurrence": 1,
           "source": "70级套装包(废弃)",
-          "target": "70级套装包(废弃)"
+          "target": "Gói Trang Bị Cấp 70 (Bỏ)"
         },
         {
           "key": "i1426",
           "occurrence": 1,
           "source": "双击打开,可获得一件<(c0xFF00FFFF)60>级套装",
-          "target": "双击打开,可获得一件<(c0xFF00FFFF)60>级套装"
+          "target": "Nhấp đúp mở, nhận một Trang Bị bộ cấp <(c0xFF00FFFF)60>"
         },
         {
           "key": "n1427",
           "occurrence": 1,
           "source": "60级武器(废弃)",
-          "target": "60级武器(废弃)"
+          "target": "Vũ Khí Cấp 60 (Bỏ)"
         },
         {
           "key": "i1427",
           "occurrence": 1,
           "source": "可获得一件对应职业的55级套装武器",
-          "target": "可获得一件对应职业的55级套装武器"
+          "target": "Nhận một vũ khí bộ cấp 55 tương ứng với nghề"
         },
         {
           "key": "n1428",
           "occurrence": 1,
           "source": "60级衣服(废弃)",
-          "target": "60级衣服(废弃)"
+          "target": "Áo Cấp 60 (Bỏ)"
         },
         {
           "key": "i1428",
           "occurrence": 1,
           "source": "可获得一件对应职业的55级套装衣服",
-          "target": "可获得一件对应职业的55级套装衣服"
+          "target": "Nhận một áo bộ cấp 55 tương ứng với nghề"
         },
         {
           "key": "n1429",
           "occurrence": 1,
           "source": "9999欢乐豆",
-          "target": "9999欢乐豆"
+          "target": "9999 Đậu Vui Vẻ"
         },
         {
           "key": "i1429",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)9999欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)9999欢乐豆>"
+          "target": "Nhấp đúp mở để nhận <(c0xFF00FFFF)9999 Đậu Vui Vẻ>"
         },
         {
           "key": "n1430",
           "occurrence": 1,
           "source": "999欢乐豆",
-          "target": "999欢乐豆"
+          "target": "999 Đậu Vui Vẻ"
         },
         {
           "key": "i1430",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)999欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)999欢乐豆>"
+          "target": "Nhấp đúp mở để nhận <(c0xFF00FFFF)999 Đậu Vui Vẻ>"
         },
         {
           "key": "n1431",
           "occurrence": 1,
           "source": "99欢乐豆",
-          "target": "99欢乐豆"
+          "target": "99 Đậu Vui Vẻ"
         },
         {
           "key": "i1431",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)99欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)99欢乐豆>"
+          "target": "Nhấp đúp mở để nhận <(c0xFF00FFFF)99 Đậu Vui Vẻ>"
         },
         {
           "key": "n1432",
