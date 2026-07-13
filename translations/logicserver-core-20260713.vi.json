@@ -72740,97 +72740,97 @@
           "key": "n2820",
           "occurrence": 1,
           "source": "六阶绑金箱",
-          "target": "六阶绑金箱"
+          "target": "Rương Vàng Khóa Bậc 6"
         },
         {
           "key": "i2820",
           "occurrence": 1,
           "source": "开启随机获得500万-1000万绑定金币",
-          "target": "开启随机获得500万-1000万绑定金币"
+          "target": "Mở nhận ngẫu nhiên 5000K–10000K Vàng Khóa"
         },
         {
           "key": "n2821",
           "occurrence": 1,
           "source": "一阶装备箱",
-          "target": "一阶装备箱"
+          "target": "Rương Trang Bị Bậc 1"
         },
         {
           "key": "i2821",
           "occurrence": 1,
           "source": "开启后随机获得50级装备",
-          "target": "开启后随机获得50级装备"
+          "target": "Mở nhận ngẫu nhiên Trang Bị Cấp 50"
         },
         {
           "key": "n2822",
           "occurrence": 1,
           "source": "二阶装备箱",
-          "target": "二阶装备箱"
+          "target": "Rương Trang Bị Bậc 2"
         },
         {
           "key": "i2822",
           "occurrence": 1,
           "source": "开启后随机获得50-60级装备",
-          "target": "开启后随机获得50-60级装备"
+          "target": "Mở nhận ngẫu nhiên Trang Bị Cấp 50–60"
         },
         {
           "key": "n2823",
           "occurrence": 1,
           "source": "三阶装备箱",
-          "target": "三阶装备箱"
+          "target": "Rương Trang Bị Bậc 3"
         },
         {
           "key": "i2823",
           "occurrence": 1,
           "source": "开启后随机获得50-70级装备",
-          "target": "开启后随机获得50-70级装备"
+          "target": "Mở nhận ngẫu nhiên Trang Bị Cấp 50–70"
         },
         {
           "key": "n2824",
           "occurrence": 1,
           "source": "四阶装备箱",
-          "target": "四阶装备箱"
+          "target": "Rương Trang Bị Bậc 4"
         },
         {
           "key": "i2824",
           "occurrence": 1,
           "source": "开启后随机获得60-70级装备",
-          "target": "开启后随机获得60-70级装备"
+          "target": "Mở nhận ngẫu nhiên Trang Bị Cấp 60–70"
         },
         {
           "key": "n2825",
           "occurrence": 1,
           "source": "五阶装备箱",
-          "target": "五阶装备箱"
+          "target": "Rương Trang Bị Bậc 5"
         },
         {
           "key": "i2825",
           "occurrence": 1,
           "source": "开启后随机获得60-1转装备",
-          "target": "开启后随机获得60-1转装备"
+          "target": "Mở nhận ngẫu nhiên Trang Bị Cấp 60–Chuyển Sinh 1"
         },
         {
           "key": "n2826",
           "occurrence": 1,
           "source": "六阶装备箱",
-          "target": "六阶装备箱"
+          "target": "Rương Trang Bị Bậc 6"
         },
         {
           "key": "i2826",
           "occurrence": 1,
           "source": "开启后随机获得70-1转装备",
-          "target": "开启后随机获得70-1转装备"
+          "target": "Mở nhận ngẫu nhiên Trang Bị Cấp 70–Chuyển Sinh 1"
         },
         {
           "key": "n2827",
           "occurrence": 1,
           "source": "7倍经验卷轴(1小时)",
-          "target": "7倍经验卷轴(1小时)"
+          "target": "Cuộn KN x7 (1 giờ)"
         },
         {
           "key": "i2827",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)7倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)7倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>"
+          "target": "Nhấp đúp dùng\\\\Nhận BUFF KN diệt quái <(c0xFF00FFFF)x7>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Thời gian cuộn cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FFFF)Cuộn có hiệu ứng khác nhau sẽ triệt tiêu lẫn nhau>"
         },
         {
           "key": "n2828",
