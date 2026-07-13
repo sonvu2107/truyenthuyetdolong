@@ -16608,97 +16608,97 @@
           "key": "pet4",
           "occurrence": 1,
           "source": "神奇兽",
-          "target": "神奇兽"
+          "target": "Thần Thú Kỳ Diệu"
         },
         {
           "key": "pet5",
           "occurrence": 1,
           "source": "仙女侍从",
-          "target": "仙女侍从"
+          "target": "Tiên Nữ Thị Tùng"
         },
         {
           "key": "pet6",
           "occurrence": 1,
           "source": "烈火斗士",
-          "target": "烈火斗士"
+          "target": "Đấu Sĩ Liệt Hỏa"
         },
         {
           "key": "pet7",
           "occurrence": 1,
           "source": "财神",
-          "target": "财神"
+          "target": "Tài Thần"
         },
         {
           "key": "pet8",
           "occurrence": 1,
           "source": "福神",
-          "target": "福神"
+          "target": "Phúc Thần"
         },
         {
           "key": "pet9",
           "occurrence": 1,
           "source": "穷神",
-          "target": "穷神"
+          "target": "Thần Nghèo"
         },
         {
           "key": "pet10",
           "occurrence": 1,
           "source": "衰神",
-          "target": "衰神"
+          "target": "Thần Suy"
         },
         {
           "key": "pet11",
           "occurrence": 1,
           "source": "仙女卡",
-          "target": "仙女卡"
+          "target": "Thẻ Tiên Nữ"
         },
         {
           "key": "pet12",
           "occurrence": 1,
           "source": "斗士卡",
-          "target": "斗士卡"
+          "target": "Thẻ Đấu Sĩ"
         },
         {
           "key": "pet13",
           "occurrence": 1,
           "source": "请神卡",
-          "target": "请神卡"
+          "target": "Thẻ Thỉnh Thần"
         },
         {
           "key": "h1",
           "occurrence": 1,
           "source": "当年的大哥",
-          "target": "当年的大哥"
+          "target": "Đại Ca Năm Xưa"
         },
         {
           "key": "h2",
           "occurrence": 1,
           "source": "美眉克星",
-          "target": "美眉克星"
+          "target": "Khắc Tinh Mỹ Nữ"
         },
         {
           "key": "h3",
           "occurrence": 1,
           "source": "坏坏先生",
-          "target": "坏坏先生"
+          "target": "Ngài Hư Hỏng"
         },
         {
           "key": "h4",
           "occurrence": 1,
           "source": "靓小姐",
-          "target": "靓小姐"
+          "target": "Cô Nàng Xinh Đẹp"
         },
         {
           "key": "h5",
           "occurrence": 1,
           "source": "一笑倾城",
-          "target": "一笑倾城"
+          "target": "Nhất Tiếu Khuynh Thành"
         },
         {
           "key": "h6",
           "occurrence": 1,
           "source": "极品御姐",
-          "target": "极品御姐"
+          "target": "Ngự Tỷ Cực Phẩm"
         }
       ]
     },
