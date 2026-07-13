@@ -64700,97 +64700,97 @@
           "key": "n2150",
           "occurrence": 1,
           "source": "神•堕落戒指（废弃）",
-          "target": "神•堕落戒指（废弃）"
+          "target": "Thần•Nhẫn Sa Ngã (Đã bỏ)"
         },
         {
           "key": "i2150",
           "occurrence": 1,
           "source": "被天地元素加持过的戒指，具有天地的威能\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "被天地元素加持过的戒指，具有天地的威能\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "Nhẫn được nguyên tố trời đất gia trì, mang uy năng trời đất\\\\<(c0xFF00FF00)Gợi ý:\\\\Có thể dùng “Tinh Thạch Thần Hồn” và bộ Cấp 50 làm nguyên liệu tại hệ thống Thánh Khí Chư Thần, nâng bộ Cấp 50 thành Thần Trang Cấp 50>\\\\<(c0xFF00FFFF)VIP Siêu Cấp, Gói Rút Nguyên Bảo có thể nhận Tinh Thạch Thần Hồn\\\\Phó Bản VIP Độc Quyền có thể nhận Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n2151",
           "occurrence": 1,
           "source": "神•诅咒戒指（废弃）",
-          "target": "神•诅咒戒指（废弃）"
+          "target": "Thần•Nhẫn Nguyền Rủa (Đã bỏ)"
         },
         {
           "key": "i2151",
           "occurrence": 1,
           "source": "用神魔之血混合炼制的戒指，具有超越神、魔的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "用神魔之血混合炼制的戒指，具有超越神、魔的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "Nhẫn được luyện từ máu Thần Ma, mang sức mạnh vượt trên Thần và Ma\\\\<(c0xFF00FF00)Gợi ý:\\\\Có thể dùng “Tinh Thạch Thần Hồn” và bộ Cấp 50 làm nguyên liệu tại hệ thống Thánh Khí Chư Thần, nâng bộ Cấp 50 thành Thần Trang Cấp 50>\\\\<(c0xFF00FFFF)VIP Siêu Cấp, Gói Rút Nguyên Bảo có thể nhận Tinh Thạch Thần Hồn\\\\Phó Bản VIP Độc Quyền có thể nhận Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n2152",
           "occurrence": 1,
           "source": "神•星辰戒指",
-          "target": "神•星辰戒指"
+          "target": "Thần•Nhẫn Tinh Thần"
         },
         {
           "key": "i2152",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)神•星辰戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•烈日戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级",
-          "target": "<(c0xFFFF6600)神•星辰戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•烈日戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级"
+          "target": "<(c0xFFFF6600)Thần•Nhẫn Tinh Thần> có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> nâng cấp thành <(c0xFFFF6600)Thần•Nhẫn Liệt Nhật>, chiến lực tăng mạnh\\\\Có thể nâng cấp Thần Trang tại <(c0xFFFF6600)Thánh Khí Chư Thần> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n2153",
           "occurrence": 1,
           "source": "神•梵天戒指",
-          "target": "神•梵天戒指"
+          "target": "Thần•Nhẫn Phạm Thiên"
         },
         {
           "key": "i2153",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)神•梵天戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•星辰戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级",
-          "target": "<(c0xFFFF6600)神•梵天戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•星辰戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级"
+          "target": "<(c0xFFFF6600)Thần•Nhẫn Phạm Thiên> có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> nâng cấp thành <(c0xFFFF6600)Thần•Nhẫn Tinh Thần>, chiến lực tăng mạnh\\\\Có thể nâng cấp Thần Trang tại <(c0xFFFF6600)Thánh Khí Chư Thần> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n2154",
           "occurrence": 1,
           "source": "神•通天戒指",
-          "target": "神•通天戒指"
+          "target": "Thần•Nhẫn Thông Thiên"
         },
         {
           "key": "i2154",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)神•通天戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•天尊戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级",
-          "target": "<(c0xFFFF6600)神•通天戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•天尊戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级"
+          "target": "<(c0xFFFF6600)Thần•Nhẫn Thông Thiên> có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> nâng cấp thành <(c0xFFFF6600)Thần•Nhẫn Thiên Tôn>, chiến lực tăng mạnh\\\\Có thể nâng cấp Thần Trang tại <(c0xFFFF6600)Thánh Khí Chư Thần> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n2155",
           "occurrence": 1,
           "source": "神•炼狱戒指",
-          "target": "神•炼狱戒指"
+          "target": "Thần•Nhẫn Luyện Ngục"
         },
         {
           "key": "i2155",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)神•炼狱戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•通天戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级",
-          "target": "<(c0xFFFF6600)神•炼狱戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•通天戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级"
+          "target": "<(c0xFFFF6600)Thần•Nhẫn Luyện Ngục> có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> nâng cấp thành <(c0xFFFF6600)Thần•Nhẫn Thông Thiên>, chiến lực tăng mạnh\\\\Có thể nâng cấp Thần Trang tại <(c0xFFFF6600)Thánh Khí Chư Thần> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n2156",
           "occurrence": 1,
           "source": "神•炎皇戒指",
-          "target": "神•炎皇戒指"
+          "target": "Thần•Nhẫn Viêm Hoàng"
         },
         {
           "key": "i2156",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)神•炎皇戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•梵天戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级",
-          "target": "<(c0xFFFF6600)神•炎皇戒指> 可使用 <(c0xFFFF6600)神魂晶石> 升级<(c0xFFFF6600)神•梵天戒指>,战力大增\\\\可在 <(c0xFFFF6600)诸神圣器>(快捷键:<(c0xFFFF6600)x>) 中进行神装升级"
+          "target": "<(c0xFFFF6600)Thần•Nhẫn Viêm Hoàng> có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> nâng cấp thành <(c0xFFFF6600)Thần•Nhẫn Phạm Thiên>, chiến lực tăng mạnh\\\\Có thể nâng cấp Thần Trang tại <(c0xFFFF6600)Thánh Khí Chư Thần> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n2157",
           "occurrence": 1,
           "source": "神•天尊戒指",
-          "target": "神•天尊戒指"
+          "target": "Thần•Nhẫn Thiên Tôn"
         },
         {
           "key": "i2157",
           "occurrence": 1,
           "source": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行4转神装锻造",
-          "target": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行4转神装锻造"
+          "target": "Có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> tại <(c0xFFFF6600)bảng Thánh Khí Chư Thần> để rèn Thần Trang Chuyển Sinh 4"
         },
         {
           "key": "n2158",
