@@ -59948,67 +59948,67 @@
           "key": "n1754",
           "occurrence": 1,
           "source": "41号囧囧有神包",
-          "target": "41号囧囧有神包"
+          "target": "Gói Thần Thái Ngơ Ngác Số 41"
         },
         {
           "key": "i1754",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)请双击打开>\\\\我给你说：这玩意啥都没，你信否？\\\\不管你信不信，反正我信了！\\\\双击打不开啊，有木有？！",
-          "target": "<(c0xFFFFFF00)请双击打开>\\\\我给你说：这玩意啥都没，你信否？\\\\不管你信不信，反正我信了！\\\\双击打不开啊，有木有？！"
+          "target": "<(c0xFFFFFF00)Hãy nhấp đúp để mở>\\\\Tôi nói bạn nghe: món này chẳng có gì, bạn tin không?\\\\Dù bạn tin hay không, dù sao tôi tin rồi!\\\\Nhấp đúp không mở được, có không?!"
         },
         {
           "key": "n1755",
           "occurrence": 1,
           "source": "灵力水晶(小)",
-          "target": "灵力水晶(小)"
+          "target": "Tinh Thể Linh Lực (Nhỏ)"
         },
         {
           "key": "i1755",
           "occurrence": 1,
           "source": "使用后增加100点灵力\\\\可用于<(c0xFFFFFF00)法宝系统>",
-          "target": "使用后增加100点灵力\\\\可用于<(c0xFFFFFF00)法宝系统>"
+          "target": "Dùng tăng 100 Linh Lực\\\\Có thể dùng cho <(c0xFFFFFF00)Hệ Thống Pháp Bảo>"
         },
         {
           "key": "n1756",
           "occurrence": 1,
           "source": "灵力水晶(中)",
-          "target": "灵力水晶(中)"
+          "target": "Tinh Thể Linh Lực (Trung)"
         },
         {
           "key": "i1756",
           "occurrence": 1,
           "source": "使用后增加1000点灵力\\\\可用于<(c0xFFFFFF00)法宝系统>",
-          "target": "使用后增加1000点灵力\\\\可用于<(c0xFFFFFF00)法宝系统>"
+          "target": "Dùng tăng 1000 Linh Lực\\\\Có thể dùng cho <(c0xFFFFFF00)Hệ Thống Pháp Bảo>"
         },
         {
           "key": "n1757",
           "occurrence": 1,
           "source": "灵力水晶(大)",
-          "target": "灵力水晶(大)"
+          "target": "Tinh Thể Linh Lực (Lớn)"
         },
         {
           "key": "i1757",
           "occurrence": 1,
           "source": "使用后增加10000点灵力\\\\可用于<(c0xFFFFFF00)法宝系统>",
-          "target": "使用后增加10000点灵力\\\\可用于<(c0xFFFFFF00)法宝系统>"
+          "target": "Dùng tăng 10000 Linh Lực\\\\Có thể dùng cho <(c0xFFFFFF00)Hệ Thống Pháp Bảo>"
         },
         {
           "key": "n1758",
           "occurrence": 1,
           "source": "名人礼包",
-          "target": "名人礼包"
+          "target": "Gói Danh Nhân"
         },
         {
           "key": "i1758",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击打开>可获得\\\\装备转生精华×50\\\\勋章灵石×50",
-          "target": "<(c0xFFFFFF00)双击打开>可获得\\\\装备转生精华×50\\\\勋章灵石×50"
+          "target": "<(c0xFFFFFF00)Nhấp đúp mở> nhận:\\\\Tinh Hoa Chuyển Sinh Trang Bị ×50\\\\Linh Thạch Huy Chương ×50"
         },
         {
           "key": "n1759",
           "occurrence": 1,
           "source": "名人亲王(废弃)",
-          "target": "名人亲王(废弃)"
+          "target": "Danh Nhân Thân Vương (Bỏ)"
         },
         {
           "key": "i1759",
