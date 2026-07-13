@@ -44366,61 +44366,61 @@
           "key": "i455",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)灵魂火咒>带有<(c0xFF00FF00)红、绿毒>效果\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级剧毒符咒>",
-          "target": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)灵魂火咒>带有<(c0xFF00FF00)红、绿毒>效果\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级剧毒符咒>"
+          "target": "<(c0xFF00FF00)Cấp 3> trở lên <(c0xFF00FF00)Linh Hồn Hỏa Chú> có hiệu ứng <(c0xFF00FF00)Độc Đỏ, Độc Xanh>\\\\Dùng <(c0xFF00FF00)Đá Nâng Cấp Trang Bị 40> nâng thành <(c0xFF00FF00)Phù Chú Kịch Độc Cao Cấp>"
         },
         {
           "key": "n456",
           "occurrence": 1,
           "source": "刀锋印记(废弃)",
-          "target": "刀锋印记(废弃)"
+          "target": "Ấn Ký Lưỡi Đao (Bỏ)"
         },
         {
           "key": "i456",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)烈火狂刀>造成伤害时,会使目标的移动速度下降持续5秒\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级刀锋印记>",
-          "target": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)烈火狂刀>造成伤害时,会使目标的移动速度下降持续5秒\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级刀锋印记>"
+          "target": "<(c0xFF00FF00)Cấp 3> trở lên <(c0xFF00FF00)Cuồng Đao Liệt Hỏa> khiến mục tiêu giảm tốc trong 5 giây\\\\Dùng <(c0xFF00FF00)Đá Nâng Cấp Trang Bị 40> nâng thành <(c0xFF00FF00)Ấn Ký Lưỡi Đao Cao Cấp>"
         },
         {
           "key": "n457",
           "occurrence": 1,
           "source": "雷禁印记(废弃)",
-          "target": "雷禁印记(废弃)"
+          "target": "Ấn Ký Cấm Lôi (Bỏ)"
         },
         {
           "key": "i457",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)天雷射>时,会使目标的移动速度下降持续3秒\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级雷禁印记>",
-          "target": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)天雷射>时,会使目标的移动速度下降持续3秒\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级雷禁印记>"
+          "target": "<(c0xFF00FF00)Cấp 3> trở lên <(c0xFF00FF00)Lôi Quang> khiến mục tiêu giảm tốc trong 3 giây\\\\Dùng <(c0xFF00FF00)Đá Nâng Cấp Trang Bị 40> nâng thành <(c0xFF00FF00)Ấn Ký Cấm Lôi Cao Cấp>"
         },
         {
           "key": "n458",
           "occurrence": 1,
           "source": "束缚符咒(废弃)",
-          "target": "束缚符咒(废弃)"
+          "target": "Phù Chú Trói Buộc (Bỏ)"
         },
         {
           "key": "i458",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)灵魂火咒>时,会使目标的移动速度下降持续3秒\\\\同时也可以使得施毒术同时具有红毒,绿毒两种效果!\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级束缚符咒>",
-          "target": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)灵魂火咒>时,会使目标的移动速度下降持续3秒\\\\同时也可以使得施毒术同时具有红毒,绿毒两种效果!\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级束缚符咒>"
+          "target": "<(c0xFF00FF00)Cấp 3> trở lên <(c0xFF00FF00)Linh Hồn Hỏa Chú> khiến mục tiêu giảm tốc trong 3 giây\\\\Đồng thời Thuật Độc có cả hiệu ứng Độc Đỏ và Độc Xanh!\\\\Dùng <(c0xFF00FF00)Đá Nâng Cấp Trang Bị 40> nâng thành <(c0xFF00FF00)Phù Chú Trói Buộc Cao Cấp>"
         },
         {
           "key": "n459",
           "occurrence": 1,
           "source": "赤血",
-          "target": "赤血"
+          "target": "Xích Huyết"
         },
         {
           "key": "i459",
           "occurrence": 1,
           "source": "双击装备\\\\它是道士必备的工具,道士的一些技能需要装备护身符才能使用\\\\例如灵魂火咒,群体加防等等",
-          "target": "双击装备\\\\它是道士必备的工具,道士的一些技能需要装备护身符才能使用\\\\例如灵魂火咒,群体加防等等"
+          "target": "Nhấp đúp trang bị\\\\Công cụ bắt buộc của Đạo Sĩ; một số kỹ năng cần trang bị Phù để dùng\\\\Ví dụ Linh Hồn Hỏa Chú, Tăng Phòng Thủ Nhóm..."
         },
         {
           "key": "n460",
           "occurrence": 1,
           "source": "虎蛇胆(废弃)",
-          "target": "虎蛇胆(废弃)"
+          "target": "Mật Hổ Xà (Bỏ)"
         },
         {
           "key": "i460",
