@@ -72836,97 +72836,97 @@
           "key": "n2828",
           "occurrence": 1,
           "source": "羽毛代金券",
-          "target": "羽毛代金券"
+          "target": "Phiếu Mua Lông Vũ"
         },
         {
           "key": "i2828",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买羽毛可以代替13元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买羽毛可以代替13元宝进行消费"
+          "target": "Nhấp đúp dùng\\\\Dùng phiếu mua Lông Vũ thay cho 13 Nguyên Bảo"
         },
         {
           "key": "n2829",
           "occurrence": 1,
           "source": "1000绑金券",
-          "target": "1000绑金券"
+          "target": "Phiếu Vàng Khóa 1000"
         },
         {
           "key": "i2829",
           "occurrence": 1,
           "source": "开启获得1000绑定金币",
-          "target": "开启获得1000绑定金币"
+          "target": "Mở nhận 1000 Vàng Khóa"
         },
         {
           "key": "n2830",
           "occurrence": 1,
           "source": "2500绑金券",
-          "target": "2500绑金券"
+          "target": "Phiếu Vàng Khóa 2500"
         },
         {
           "key": "i2830",
           "occurrence": 1,
           "source": "开启获得2500绑定金币",
-          "target": "开启获得2500绑定金币"
+          "target": "Mở nhận 2500 Vàng Khóa"
         },
         {
           "key": "n2831",
           "occurrence": 1,
           "source": "5000绑金券",
-          "target": "5000绑金券"
+          "target": "Phiếu Vàng Khóa 5000"
         },
         {
           "key": "i2831",
           "occurrence": 1,
           "source": "开启获得5000绑定金币",
-          "target": "开启获得5000绑定金币"
+          "target": "Mở nhận 5000 Vàng Khóa"
         },
         {
           "key": "n2832",
           "occurrence": 1,
           "source": "10000绑金券",
-          "target": "10000绑金券"
+          "target": "Phiếu Vàng Khóa 10000"
         },
         {
           "key": "i2832",
           "occurrence": 1,
           "source": "开启获得10000绑定金币",
-          "target": "开启获得10000绑定金币"
+          "target": "Mở nhận 10000 Vàng Khóa"
         },
         {
           "key": "n2833",
           "occurrence": 1,
           "source": "装备礼包",
-          "target": "装备礼包"
+          "target": "Gói Trang Bị"
         },
         {
           "key": "i2833",
           "occurrence": 1,
           "source": "礼包内即可获得劲炫、劲酷、高端大气上档次的超强60级套装！",
-          "target": "礼包内即可获得劲炫、劲酷、高端大气上档次的超强60级套装！"
+          "target": "Mở gói nhận ngay Bộ Trang Bị Cấp 60 siêu mạnh, cực ngầu và đẳng cấp!"
         },
         {
           "key": "n2834",
           "occurrence": 1,
           "source": "战力礼包",
-          "target": "战力礼包"
+          "target": "Gói CS"
         },
         {
           "key": "i2834",
           "occurrence": 1,
           "source": "消耗2888元宝即获得：大量提升战力道具！",
-          "target": "消耗2888元宝即获得：大量提升战力道具！"
+          "target": "Tốn 2888 Nguyên Bảo nhận: nhiều đạo cụ tăng CS!"
         },
         {
           "key": "n2835",
           "occurrence": 1,
           "source": "经验礼包(废弃)",
-          "target": "经验礼包(废弃)"
+          "target": "Gói KN (Đã Bỏ)"
         },
         {
           "key": "i2835",
           "occurrence": 1,
           "source": "消耗1888元宝即获得：大量经验道具！",
-          "target": "消耗1888元宝即获得：大量经验道具！"
+          "target": "Tốn 1888 Nguyên Bảo nhận: nhiều đạo cụ KN!"
         },
         {
           "key": "n2836",
