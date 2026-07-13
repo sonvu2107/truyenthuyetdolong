@@ -43700,241 +43700,241 @@
           "key": "n400",
           "occurrence": 1,
           "source": "豪华婚宴烟花(废弃)",
-          "target": "豪华婚宴烟花(废弃)"
+          "target": "Pháo Hoa Tiệc Cưới Sang Trọng (Bỏ)"
         },
         {
           "key": "i400",
           "occurrence": 1,
           "source": "双击使用\\\\在婚宴中使用的豪华烟花\\\\<(c0xFF00FFFF)爱你,就给你一个轰动世界的豪华婚礼.让我们的爱全世界可见!>",
-          "target": "双击使用\\\\在婚宴中使用的豪华烟花\\\\<(c0xFF00FFFF)爱你,就给你一个轰动世界的豪华婚礼.让我们的爱全世界可见!>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa sang trọng dùng trong tiệc cưới\\\\<(c0xFF00FFFF)Yêu Em, Tặng Em Hôn Lễ Sang Trọng Chấn Động Thế Giới!>"
         },
         {
           "key": "n401",
           "occurrence": 1,
           "source": "师徒情深(废弃)",
-          "target": "师徒情深(废弃)"
+          "target": "Tình Thầy Trò (Bỏ)"
         },
         {
           "key": "i401",
           "occurrence": 1,
           "source": "双击使用\\\\昭显尊师重道的烟花\\\\<(c0xFFFFFF00)一日为师!终生为父!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\昭显尊师重道的烟花\\\\<(c0xFFFFFF00)一日为师!终生为父!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa tôn sư trọng đạo\\\\<(c0xFFFFFF00)Một Ngày Là Thầy, Cả Đời Là Cha!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n402",
           "occurrence": 1,
           "source": "情义永恒(废弃)",
-          "target": "情义永恒(废弃)"
+          "target": "Nghĩa Huynh Đệ Bền Lâu (Bỏ)"
         },
         {
           "key": "i402",
           "occurrence": 1,
           "source": "双击使用\\\\展现兄弟情义的烟花\\\\<(c0xFFFFFF00)兄弟一生一起走!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\展现兄弟情义的烟花\\\\<(c0xFFFFFF00)兄弟一生一起走!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa thể hiện nghĩa Huynh Đệ\\\\<(c0xFFFFFF00)Huynh Đệ Một Đời Cùng Đi!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n403",
           "occurrence": 1,
           "source": "难兄难弟(废弃)",
-          "target": "难兄难弟(废弃)"
+          "target": "Huynh Đệ Đồng Cam (Bỏ)"
         },
         {
           "key": "i403",
           "occurrence": 1,
           "source": "双击使用\\\\展现兄弟团结的烟花\\\\<(c0xFFFFFF00)兄弟!给力!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\展现兄弟团结的烟花\\\\<(c0xFFFFFF00)兄弟!给力!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa thể hiện đoàn kết Huynh Đệ\\\\<(c0xFFFFFF00)Huynh Đệ! Hết Mình!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n404",
           "occurrence": 1,
           "source": "海誓山盟(废弃)",
-          "target": "海誓山盟(废弃)"
+          "target": "Biển Thề Non Hẹn (Bỏ)"
         },
         {
           "key": "i404",
           "occurrence": 1,
           "source": "双击使用\\\\爱的烟花\\\\<(c0xFFFFFF00)想你!爱你!要你!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\爱的烟花\\\\<(c0xFFFFFF00)想你!爱你!要你!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa tình yêu\\\\<(c0xFFFFFF00)Nhớ Em! Yêu Em! Cần Em!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n405",
           "occurrence": 1,
           "source": "万众一心(废弃)",
-          "target": "万众一心(废弃)"
+          "target": "Vạn Người Đồng Lòng (Bỏ)"
         },
         {
           "key": "i405",
           "occurrence": 1,
           "source": "双击使用\\\\展现团结一心的烟花\\\\<(c0xFFFFFF00)齐心一致,众志成城!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\展现团结一心的烟花\\\\<(c0xFFFFFF00)齐心一致,众志成城!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa thể hiện đồng lòng\\\\<(c0xFFFFFF00)Đồng Tâm Hiệp Lực, Chúng Chí Thành Thành!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n406",
           "occurrence": 1,
           "source": "生日快乐(废弃)",
-          "target": "生日快乐(废弃)"
+          "target": "Chúc Mừng Sinh Nhật (Bỏ)"
         },
         {
           "key": "i406",
           "occurrence": 1,
           "source": "双击使用\\\\生日庆贺的烟花\\\\<(c0xFFFFFF00)生日快乐!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\生日庆贺的烟花\\\\<(c0xFFFFFF00)生日快乐!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa chúc mừng sinh nhật\\\\<(c0xFFFFFF00)Chúc Mừng Sinh Nhật!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n407",
           "occurrence": 1,
           "source": "烟花",
-          "target": "烟花"
+          "target": "Pháo Hoa"
         },
         {
           "key": "i407",
           "occurrence": 1,
           "source": "用于新年烟花大赛活动中使用，每次燃放烟花可获得奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；",
-          "target": "用于新年烟花大赛活动中使用，每次燃放烟花可获得奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；"
+          "target": "Dùng trong Sự Kiện Pháo Hoa Năm Mới, mỗi lần đốt nhận thưởng;\\\\Nhận từ Niên Thú và các hoạt động Tết khác;"
         },
         {
           "key": "n408",
           "occurrence": 1,
           "source": "一见如故(废弃)",
-          "target": "一见如故(废弃)"
+          "target": "Gặp Gỡ Như Quen (Bỏ)"
         },
         {
           "key": "i408",
           "occurrence": 1,
           "source": "双击使用\\\\欢迎专用的烟花\\\\<(c0xFFFFFF00)朋友……真好!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\欢迎专用的烟花\\\\<(c0xFFFFFF00)朋友……真好!>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa chào mừng\\\\<(c0xFFFFFF00)Có Bạn... Thật Tuyệt!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n409",
           "occurrence": 1,
           "source": "有种来战(废弃)",
-          "target": "有种来战(废弃)"
+          "target": "Có Giỏi Thì Chiến (Bỏ)"
         },
         {
           "key": "i409",
           "occurrence": 1,
           "source": "双击使用\\\\展露你战意的烟花\\\\<(c0xFFFFFF00)对面的弱者们,有种来战咯~>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\展露你战意的烟花\\\\<(c0xFFFFFF00)对面的弱者们,有种来战咯~>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa thể hiện chiến ý\\\\<(c0xFFFFFF00)Kẻ Yếu Đuối Phía Đối Diện, Có Giỏi Thì Chiến!>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n410",
           "occurrence": 1,
           "source": "你还太嫩(废弃)",
-          "target": "你还太嫩(废弃)"
+          "target": "Còn Non Lắm (Bỏ)"
         },
         {
           "key": "i410",
           "occurrence": 1,
           "source": "双击使用\\\\向对方表达极其遗憾的烟花\\\\<(c0xFFFFFF00)你们真不给力啊……>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>",
-          "target": "双击使用\\\\向对方表达极其遗憾的烟花\\\\<(c0xFFFFFF00)你们真不给力啊……>\\\\<(c0xFF00FF00)在屠龙城神树守护者旁边燃放可获得经验和烟花祝福值>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa bày tỏ thất vọng\\\\<(c0xFFFFFF00)Các Ngươi Thật Yếu Đuối...>\\\\<(c0xFF00FF00)Đốt cạnh Người Giữ Thần Thụ Thành Đồ Long để nhận KN và Điểm Phúc Pháo Hoa>"
         },
         {
           "key": "n411",
           "occurrence": 1,
           "source": "1元宝票",
-          "target": "1元宝票"
+          "target": "Phiếu 1 Nguyên Bảo"
         },
         {
           "key": "i411",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)1元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)1元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)1 Nguyên Bảo>"
         },
         {
           "key": "n412",
           "occurrence": 1,
           "source": "5元宝票",
-          "target": "5元宝票"
+          "target": "Phiếu 5 Nguyên Bảo"
         },
         {
           "key": "i412",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)5元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)5元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)5 Nguyên Bảo>"
         },
         {
           "key": "n413",
           "occurrence": 1,
           "source": "10元宝票",
-          "target": "10元宝票"
+          "target": "Phiếu 10 Nguyên Bảo"
         },
         {
           "key": "i413",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)10元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)10元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)10 Nguyên Bảo>"
         },
         {
           "key": "n414",
           "occurrence": 1,
           "source": "50元宝票",
-          "target": "50元宝票"
+          "target": "Phiếu 50 Nguyên Bảo"
         },
         {
           "key": "i414",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)50元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)50元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)50 Nguyên Bảo>"
         },
         {
           "key": "n415",
           "occurrence": 1,
           "source": "100元宝票",
-          "target": "100元宝票"
+          "target": "Phiếu 100 Nguyên Bảo"
         },
         {
           "key": "i415",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)100元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)100元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)100 Nguyên Bảo>"
         },
         {
           "key": "n416",
           "occurrence": 1,
           "source": "500元宝票",
-          "target": "500元宝票"
+          "target": "Phiếu 500 Nguyên Bảo"
         },
         {
           "key": "i416",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)500元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)500元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)500 Nguyên Bảo>"
         },
         {
           "key": "n417",
           "occurrence": 1,
           "source": "1000元宝票",
-          "target": "1000元宝票"
+          "target": "Phiếu 1000 Nguyên Bảo"
         },
         {
           "key": "i417",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)1000元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)1000元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)1000 Nguyên Bảo>"
         },
         {
           "key": "n418",
           "occurrence": 1,
           "source": "10000元宝票",
-          "target": "10000元宝票"
+          "target": "Phiếu 10K Nguyên Bảo"
         },
         {
           "key": "i418",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)10000元宝>",
-          "target": "双击打开获得<(c0xFF00FFFF)10000元宝>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)10K Nguyên Bảo>"
         },
         {
           "key": "n419",
           "occurrence": 1,
           "source": "15欢乐豆",
-          "target": "15欢乐豆"
+          "target": "15 Đậu Vui Vẻ"
         },
         {
           "key": "i419",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)15欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)15欢乐豆>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)15 Đậu Vui Vẻ>"
         },
         {
           "key": "n420",
