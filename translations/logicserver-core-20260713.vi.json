@@ -49952,31 +49952,31 @@
           "key": "n921",
           "occurrence": 1,
           "source": "宝石大礼包",
-          "target": "宝石大礼包"
+          "target": "Gói Đá Quý"
         },
         {
           "key": "i921",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\宝石代金卡×5\\\\五级生命宝石×1\\\\五级魔法宝石×1",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\宝石代金卡×5\\\\五级生命宝石×1\\\\五级魔法宝石×1"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Thẻ Đá Quý ×5\\\\Đá Sinh Lực Cấp 5 ×1\\\\Đá Ma Pháp Cấp 5 ×1"
         },
         {
           "key": "n922",
           "occurrence": 1,
           "source": "转生经验水晶",
-          "target": "转生经验水晶"
+          "target": "Pha Lê KN Chuyển Sinh"
         },
         {
           "key": "i922",
           "occurrence": 1,
           "source": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)5倍>的怪物经验存入转生经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)0万经验>\\\\<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验\\\\使用相同的经验水晶,元宝消耗减半>.C923",
-          "target": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)5倍>的怪物经验存入转生经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)0万经验>\\\\<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验\\\\使用相同的经验水晶,元宝消耗减半>.C923"
+          "target": "<(c0xFF00FFFF)Pha Lê KN>\\\\Khi diệt quái, lưu <(c0xFF00FFFF)5 lần> KN quái vào Pha Lê KN Chuyển Sinh.\\\\Tối đa lưu <(c0xFF00FFFF)0K KN>\\\\<(c0xFF00FFFF)Dùng> tốn <(c0xFF00FFFF)Nguyên Bảo> để nhận toàn bộ KN đã lưu\\\\Dùng cùng loại Pha Lê KN, phí Nguyên Bảo giảm một nửa>.C923"
         },
         {
           "key": "n923",
           "occurrence": 1,
           "source": "战神之翼【10天】(废弃)",
-          "target": "战神之翼【10天】(废弃)"
+          "target": "Cánh Chiến Thần [10 Ngày] (Bỏ)"
         },
         {
           "key": "i923",
@@ -49988,127 +49988,127 @@
           "key": "n924",
           "occurrence": 1,
           "source": "佣兵幸运",
-          "target": "佣兵幸运"
+          "target": "May Mắn Lính Đánh Thuê"
         },
         {
           "key": "i924",
           "occurrence": 1,
           "source": "佣兵特殊技能,可以通过<(c0xFF00FFFF)充值礼包>获得\\\\<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\学习后让佣兵永久获得<(c0xFF00FFFF)1点>幸运值！\\\\升级后最高可达<(c0xFF00FFFF)5点>幸运值！",
-          "target": "佣兵特殊技能,可以通过<(c0xFF00FFFF)充值礼包>获得\\\\<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\学习后让佣兵永久获得<(c0xFF00FFFF)1点>幸运值！\\\\升级后最高可达<(c0xFF00FFFF)5点>幸运值！"
+          "target": "Kỹ năng đặc biệt Lính Đánh Thuê, nhận từ <(c0xFF00FFFF)Gói Nạp>\\\\Lính Đánh Thuê cấp <(c0xFF00FFFF)30> trở lên có thể học\\\\Sau khi học, Lính Đánh Thuê vĩnh viễn nhận <(c0xFF00FFFF)1> May Mắn!\\\\Nâng cấp tối đa <(c0xFF00FFFF)5> May Mắn!"
         },
         {
           "key": "n925",
           "occurrence": 1,
           "source": "10000000经验卷(废弃)",
-          "target": "10000000经验卷(废弃)"
+          "target": "Cuộn 10000K KN (Bỏ)"
         },
         {
           "key": "i925",
           "occurrence": 1,
           "source": "双击使用即可获得10000000经验",
-          "target": "双击使用即可获得10000000经验"
+          "target": "Dùng để nhận 10000K KN"
         },
         {
           "key": "n926",
           "occurrence": 1,
           "source": "10000000金币卷(废弃)",
-          "target": "10000000金币卷(废弃)"
+          "target": "Cuộn 10000K Vàng (Bỏ)"
         },
         {
           "key": "i926",
           "occurrence": 1,
           "source": "双击使用即可获得10000000金币",
-          "target": "双击使用即可获得10000000金币"
+          "target": "Dùng để nhận 10000K Vàng"
         },
         {
           "key": "n927",
           "occurrence": 1,
           "source": "5000000金币卷(废弃)",
-          "target": "5000000金币卷(废弃)"
+          "target": "Cuộn 5000K Vàng (Bỏ)"
         },
         {
           "key": "i927",
           "occurrence": 1,
           "source": "双击使用即可获得5000000金币",
-          "target": "双击使用即可获得5000000金币"
+          "target": "Dùng để nhận 5000K Vàng"
         },
         {
           "key": "n928",
           "occurrence": 1,
           "source": "1000000金币卷(废弃)",
-          "target": "1000000金币卷(废弃)"
+          "target": "Cuộn 1000K Vàng (Bỏ)"
         },
         {
           "key": "i928",
           "occurrence": 1,
           "source": "双击使用即可获得1000000金币",
-          "target": "双击使用即可获得1000000金币"
+          "target": "Dùng để nhận 1000K Vàng"
         },
         {
           "key": "n929",
           "occurrence": 1,
           "source": "在线礼包",
-          "target": "在线礼包"
+          "target": "Gói Quà Online"
         },
         {
           "key": "i929",
           "occurrence": 1,
           "source": "在线福利奖励包\\\\双击可以随机抽取一份神秘的奖励\\\\有一定几率抽出屠龙卷轴,让你免费屠龙",
-          "target": "在线福利奖励包\\\\双击可以随机抽取一份神秘的奖励\\\\有一定几率抽出屠龙卷轴,让你免费屠龙"
+          "target": "Quà Phúc Lợi Online\\\\Dùng để nhận ngẫu nhiên 1 phần quà bí ẩn\\\\Có cơ hội nhận Cuộn Đồ Long miễn phí"
         },
         {
           "key": "n930",
           "occurrence": 1,
           "source": "天使卡(废弃)",
-          "target": "天使卡(废弃)"
+          "target": "Thẻ Thiên Sứ (Bỏ)"
         },
         {
           "key": "i930",
           "occurrence": 1,
           "source": "集齐<(c0xFF00FFFF)20张>天使卡,<(c0xFFFFFF00)双击使用>获得天使侍从宝宝\\\\<(c0xFF00FF00)提示:击败在野外地图中偶尔出现的天使侍从会掉落>",
-          "target": "集齐<(c0xFF00FFFF)20张>天使卡,<(c0xFFFFFF00)双击使用>获得天使侍从宝宝\\\\<(c0xFF00FF00)提示:击败在野外地图中偶尔出现的天使侍从会掉落>"
+          "target": "Đủ <(c0xFF00FFFF)20 Thẻ Thiên Sứ>, <(c0xFFFFFF00)Dùng> để nhận Thị Tùng Thiên Sứ\\\\<(c0xFF00FF00)Gợi Ý: đánh bại Thị Tùng Thiên Sứ xuất hiện ngẫu nhiên ở bản đồ hoang dã để nhận.>"
         },
         {
           "key": "n931",
           "occurrence": 1,
           "source": "勇士卡(废弃)",
-          "target": "勇士卡(废弃)"
+          "target": "Thẻ Dũng Sĩ (Bỏ)"
         },
         {
           "key": "i931",
           "occurrence": 1,
           "source": "集齐<(c0xFF00FFFF)20张>勇士卡,<(c0xFFFFFF00)双击使用>获得屠龙勇士宝宝\\\\<(c0xFF00FF00)提示:击败在野外地图中偶尔出现的屠龙勇士会掉落>",
-          "target": "集齐<(c0xFF00FFFF)20张>勇士卡,<(c0xFFFFFF00)双击使用>获得屠龙勇士宝宝\\\\<(c0xFF00FF00)提示:击败在野外地图中偶尔出现的屠龙勇士会掉落>"
+          "target": "Đủ <(c0xFF00FFFF)20 Thẻ Dũng Sĩ>, <(c0xFFFFFF00)Dùng> để nhận Chiến Binh Đồ Long\\\\<(c0xFF00FF00)Gợi Ý: đánh bại Chiến Binh Đồ Long xuất hiện ngẫu nhiên ở bản đồ hoang dã để nhận.>"
         },
         {
           "key": "n932",
           "occurrence": 1,
           "source": "祈神卡(废弃)",
-          "target": "祈神卡(废弃)"
+          "target": "Thẻ Cầu Thần (Bỏ)"
         },
         {
           "key": "i932",
           "occurrence": 1,
           "source": "集齐<(c0xFF00FFFF)20张>祈神卡,<(c0xFFFFFF00)双击使用>随机获得财神、福神\\\\<(c0xFF00FF00)提示:击败在野外地图中偶尔出现的财神、福神会掉落>",
-          "target": "集齐<(c0xFF00FFFF)20张>祈神卡,<(c0xFFFFFF00)双击使用>随机获得财神、福神\\\\<(c0xFF00FF00)提示:击败在野外地图中偶尔出现的财神、福神会掉落>"
+          "target": "Đủ <(c0xFF00FFFF)20 Thẻ Cầu Thần>, <(c0xFFFFFF00)Dùng> để nhận ngẫu nhiên Tài Thần hoặc Phúc Thần\\\\<(c0xFF00FF00)Gợi Ý: đánh bại Tài Thần hoặc Phúc Thần xuất hiện ngẫu nhiên ở bản đồ hoang dã để nhận.>"
         },
         {
           "key": "n933",
           "occurrence": 1,
           "source": "欢乐豆",
-          "target": "欢乐豆"
+          "target": "Đậu Vui"
         },
         {
           "key": "i933",
           "occurrence": 1,
           "source": "欢乐豆可以在欢乐豆商城里购买商品\\\\也可用于任务双倍奖励之中",
-          "target": "欢乐豆可以在欢乐豆商城里购买商品\\\\也可用于任务双倍奖励之中"
+          "target": "Đậu Vui dùng mua hàng trong Cửa Hàng Đậu Vui\\\\Cũng dùng cho thưởng nhiệm vụ gấp đôi"
         },
         {
           "key": "n934",
           "occurrence": 1,
           "source": "妖月峡谷礼包(废弃)",
-          "target": "妖月峡谷礼包(废弃)"
+          "target": "Gói Hẻm Núi Yêu Nguyệt (Bỏ)"
         },
         {
           "key": "i934",
@@ -50120,7 +50120,7 @@
           "key": "n935",
           "occurrence": 1,
           "source": "万年古墓礼包(废弃)",
-          "target": "万年古墓礼包(废弃)"
+          "target": "Gói Cổ Mộ Vạn Năm (Bỏ)"
         },
         {
           "key": "i935",
@@ -50132,7 +50132,7 @@
           "key": "n936",
           "occurrence": 1,
           "source": "矿石礼包(废弃)",
-          "target": "矿石礼包(废弃)"
+          "target": "Gói Quặng (Bỏ)"
         },
         {
           "key": "i936",
@@ -50144,7 +50144,7 @@
           "key": "n937",
           "occurrence": 1,
           "source": "水域龙都礼包(废弃)",
-          "target": "水域龙都礼包(废弃)"
+          "target": "Gói Long Đô Thủy Vực (Bỏ)"
         },
         {
           "key": "i937",
@@ -50156,13 +50156,13 @@
           "key": "n938",
           "occurrence": 1,
           "source": "1级宝石礼包",
-          "target": "1级宝石礼包"
+          "target": "Gói Đá Quý Cấp 1"
         },
         {
           "key": "i938",
           "occurrence": 1,
           "source": "双击可获得4颗1级宝石！",
-          "target": "双击可获得4颗1级宝石！"
+          "target": "Dùng để nhận 4 Đá Quý Cấp 1!"
         },
         {
           "key": "n939",
