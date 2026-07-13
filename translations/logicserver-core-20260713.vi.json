@@ -36340,61 +36340,61 @@
           "key": "promTlk3061",
           "occurrence": 1,
           "source": "血腥红魔遍布幽暗丛林,你前往消灭它们吧!\\\\",
-          "target": "血腥红魔遍布幽暗丛林,你前往消灭它们吧!\\\\"
+      "target": "Hồng Ma Đẫm Máu đầy Rừng U Ám. Hãy đến diệt chúng!\\\\"
         },
         {
           "key": "promTlk3071",
           "occurrence": 1,
           "source": "去避难所找到灭魔元帅.\\\\",
-          "target": "去避难所找到灭魔元帅.\\\\"
+      "target": "Đến Nơi Tị Nạn gặp Nguyên Soái Diệt Ma.\\\\"
         },
         {
           "key": "promTlk3081",
           "occurrence": 1,
           "source": "消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Vùng Đất Chôn Xương. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3091",
           "occurrence": 1,
           "source": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Giáo Đường Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk31",
           "occurrence": 1,
           "source": "我有一个好姐妹在前方需要帮助,你去帮一下她可以吗?路途有点远,我传送你过去.\\\\",
-          "target": "我有一个好姐妹在前方需要帮助,你去帮一下她可以吗?路途有点远,我传送你过去.\\\\"
+      "target": "Ta có một tỷ muội phía trước cần giúp. Ngươi giúp cô ấy được chứ? Đường xa, ta sẽ truyền tống ngươi.\\\\"
         },
         {
           "key": "promTlk3101",
           "occurrence": 1,
           "source": "你实力如此超群,消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你实力如此超群,消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Ngươi mạnh như vậy, hãy diệt bất kỳ quái nào trong Rừng Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk311",
           "occurrence": 1,
           "source": "毒蛇山谷最厉害的自然还是毒物居多,你要通过这里必须要去采集一株火龙草,此药驱毒效果甚好.\\\\",
-          "target": "毒蛇山谷最厉害的自然还是毒物居多,你要通过这里必须要去采集一株火龙草,此药驱毒效果甚好.\\\\"
+      "target": "Thung Lũng Độc Xà đầy độc vật. Muốn qua đây, ngươi phải hái một cây Cỏ Hỏa Long, thuốc này giải độc rất tốt.\\\\"
         },
         {
           "key": "promTlk3111",
           "occurrence": 1,
           "source": "你要不断提升自己,等级达到65级后在来找我.\\\\",
-          "target": "你要不断提升自己,等级达到65级后在来找我.\\\\"
+      "target": "Hãy không ngừng mạnh lên. Đạt cấp 65 rồi hãy quay lại gặp ta.\\\\"
         },
         {
           "key": "promTlk3121",
           "occurrence": 1,
           "source": "你去找到屠龙城卓格南,他会有任务给你.\\\\",
-          "target": "你去找到屠龙城卓格南,他会有任务给你.\\\\"
+      "target": "Đến Đồ Long Thành gặp Drognan, ông ấy sẽ có nhiệm vụ cho ngươi.\\\\"
         },
         {
           "key": "promTlk3131",
           "occurrence": 1,
           "source": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Rừng Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3141",
