@@ -1,7 +1,22 @@
 {
   "format": 1,
-  "active": false,
-  "description": "Tạm vô hiệu hóa thay đổi font trong các lớp giao diện NPC + Phúc lợi vì FFDec tái biên dịch làm hỏng luồng khởi tạo WelfareWin. Bản hotfix chỉ giữ phần câu chữ trong lang.ZH_CN và dữ liệu CBP.",
+  "active": true,
+  "description": "Chuẩn hóa font tiếng Việt bằng cách thay hằng số font cùng độ dài trực tiếp trong SWF; không tái biên dịch ActionScript và không thay đổi kích thước chữ.",
+  "method": "equal-length-constant-pool-replacement",
+  "replacements": {
+    "SimSun": {
+      "target": "Tahoma",
+      "count": 1
+    },
+    "宋体": {
+      "target": "Tahoma",
+      "count": 48
+    },
+    "黑体": {
+      "target": "Tahoma",
+      "count": 117
+    }
+  },
   "classes": {
     "view.game.components.label.SimpleLinkLabel": {
       "font": "Tahoma",
@@ -17,28 +32,28 @@
     },
     "view.game.welfare.page.WelFareLevelUpPage": {
       "font": "Tahoma",
-      "size_changes": [
-        "24->20",
-        "18->16"
-      ]
+      "size": "preserve"
     },
     "view.game.welfare.page.WelFareNoticePage": {
       "font": "Tahoma",
-      "size_changes": [
-        "18->16"
-      ]
+      "size": "preserve"
     },
     "view.game.welfare.page.WelFareSurprisePage1": {
       "font": "Tahoma",
-      "size_changes": [
-        "18->16"
-      ]
+      "size": "preserve"
     },
     "view.game.welfare.page.WellFareLandingRewardPage": {
       "font": "Tahoma",
-      "size_changes": [
-        "24->20"
-      ]
+      "size": "preserve"
     }
+  },
+  "quest_tracker": {
+    "normal_text": "Tahoma",
+    "link_text": "Tahoma via view.game.components.label.SimpleLinkLabel"
+  },
+  "safety": {
+    "actionscript_recompiled": false,
+    "changed_byte_positions": 996,
+    "pcode_changes": "font constants only"
   }
 }

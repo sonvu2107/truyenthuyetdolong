@@ -1,5 +1,5 @@
 {
-  "version": "20260714npcwelfare2",
+  "version": "20260714fontsafe1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "A28B34BCDEC807D24D51D6D088C5E9C867CE490E2472D016062CC2F74A4C4F25"
+      "sha256": "E6F3DF1B7766F2A404954302ABB6831DFC063C351B14E300816C94E3B00664AC"
     },
     {
       "source": "assets/ClientLang.txt",
