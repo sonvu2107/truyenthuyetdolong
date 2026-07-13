@@ -70820,97 +70820,97 @@
           "key": "n2660",
           "occurrence": 1,
           "source": "20万经验灵石包",
-          "target": "20万经验灵石包"
+          "target": "Gói Linh Thạch KN 200K"
         },
         {
           "key": "i2660",
           "occurrence": 1,
           "source": "双击打开,消耗<(c0xFFFFFF00)30元宝>，可获得200000经验",
-          "target": "双击打开,消耗<(c0xFFFFFF00)30元宝>，可获得200000经验"
+          "target": "Nhấp đúp để mở, tiêu hao <(c0xFFFFFF00)30 Nguyên Bảo>, nhận 200K KN"
         },
         {
           "key": "n2661",
           "occurrence": 1,
           "source": "3千万经验大礼包(废弃)",
-          "target": "3千万经验大礼包(废弃)"
+          "target": "Gói KN 30000K (Đã bỏ)"
         },
         {
           "key": "i2661",
           "occurrence": 1,
           "source": "可在<(c0xFFFFFF00)53、55、57、59、61、63、65级>\\\\获得巨额经验合计可获得3千万经验\\\\使用后了立即获得272109经验\\\\884354经验大礼包x1\\\\总经验剩余29727890经验可领取",
-          "target": "可在<(c0xFFFFFF00)53、55、57、59、61、63、65级>\\\\获得巨额经验合计可获得3千万经验\\\\使用后了立即获得272109经验\\\\884354经验大礼包x1\\\\总经验剩余29727890经验可领取"
+          "target": "Có thể nhận lượng KN lớn tại <(c0xFFFFFF00)Cấp 53, 55, 57, 59, 61, 63, 65>\\\\Tổng cộng nhận 30000K KN\\\\Dùng xong lập tức nhận 272109 KN\\\\Gói KN 884354x1\\\\Còn lại 29727890 KN có thể nhận"
         },
         {
           "key": "n2662",
           "occurrence": 1,
           "source": "经验珠(10级)",
-          "target": "经验珠(10级)"
+          "target": "Bảo Châu KN (Cấp 10)"
         },
         {
           "key": "i2662",
           "occurrence": 1,
           "source": "提升到10级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>",
-          "target": "提升到10级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>"
+          "target": "Nâng đến Cấp 10, nhấp đúp để dùng\\\\Nhân vật đạt Cấp 10, dùng nhận <(c0xFF00FFFF)300K KN>\\\\Nhân vật đạt Cấp 20, dùng nhận <(c0xFF00FFFF)500K KN>\\\\Nhân vật đạt Cấp 30, dùng nhận <(c0xFF00FFFF)1000K KN>\\\\Nhân vật đạt Cấp 40, dùng nhận <(c0xFF00FFFF)2000K KN>\\\\Nhân vật đạt Cấp 50, dùng nhận <(c0xFF00FFFF)5000K KN>\\\\Nhân vật đạt Cấp 60, dùng nhận <(c0xFF00FFFF)10000K KN>"
         },
         {
           "key": "n2663",
           "occurrence": 1,
           "source": "经验珠(20级)",
-          "target": "经验珠(20级)"
+          "target": "Bảo Châu KN (Cấp 20)"
         },
         {
           "key": "i2663",
           "occurrence": 1,
           "source": "提升到20级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>",
-          "target": "提升到20级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>"
+          "target": "Nâng đến Cấp 20, nhấp đúp để dùng\\\\Nhân vật đạt Cấp 10, dùng nhận <(c0xFF00FFFF)300K KN>\\\\Nhân vật đạt Cấp 20, dùng nhận <(c0xFF00FFFF)500K KN>\\\\Nhân vật đạt Cấp 30, dùng nhận <(c0xFF00FFFF)1000K KN>\\\\Nhân vật đạt Cấp 40, dùng nhận <(c0xFF00FFFF)2000K KN>\\\\Nhân vật đạt Cấp 50, dùng nhận <(c0xFF00FFFF)5000K KN>\\\\Nhân vật đạt Cấp 60, dùng nhận <(c0xFF00FFFF)10000K KN>"
         },
         {
           "key": "n2664",
           "occurrence": 1,
           "source": "经验珠(30级)",
-          "target": "经验珠(30级)"
+          "target": "Bảo Châu KN (Cấp 30)"
         },
         {
           "key": "i2664",
           "occurrence": 1,
           "source": "提升到30级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>",
-          "target": "提升到30级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>"
+          "target": "Nâng đến Cấp 30, nhấp đúp để dùng\\\\Nhân vật đạt Cấp 10, dùng nhận <(c0xFF00FFFF)300K KN>\\\\Nhân vật đạt Cấp 20, dùng nhận <(c0xFF00FFFF)500K KN>\\\\Nhân vật đạt Cấp 30, dùng nhận <(c0xFF00FFFF)1000K KN>\\\\Nhân vật đạt Cấp 40, dùng nhận <(c0xFF00FFFF)2000K KN>\\\\Nhân vật đạt Cấp 50, dùng nhận <(c0xFF00FFFF)5000K KN>\\\\Nhân vật đạt Cấp 60, dùng nhận <(c0xFF00FFFF)10000K KN>"
         },
         {
           "key": "n2665",
           "occurrence": 1,
           "source": "经验珠(40级)",
-          "target": "经验珠(40级)"
+          "target": "Bảo Châu KN (Cấp 40)"
         },
         {
           "key": "i2665",
           "occurrence": 1,
           "source": "提升到40级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>",
-          "target": "提升到40级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>"
+          "target": "Nâng đến Cấp 40, nhấp đúp để dùng\\\\Nhân vật đạt Cấp 10, dùng nhận <(c0xFF00FFFF)300K KN>\\\\Nhân vật đạt Cấp 20, dùng nhận <(c0xFF00FFFF)500K KN>\\\\Nhân vật đạt Cấp 30, dùng nhận <(c0xFF00FFFF)1000K KN>\\\\Nhân vật đạt Cấp 40, dùng nhận <(c0xFF00FFFF)2000K KN>\\\\Nhân vật đạt Cấp 50, dùng nhận <(c0xFF00FFFF)5000K KN>\\\\Nhân vật đạt Cấp 60, dùng nhận <(c0xFF00FFFF)10000K KN>"
         },
         {
           "key": "n2666",
           "occurrence": 1,
           "source": "经验珠(50级)",
-          "target": "经验珠(50级)"
+          "target": "Bảo Châu KN (Cấp 50)"
         },
         {
           "key": "i2666",
           "occurrence": 1,
           "source": "提升到50级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>",
-          "target": "提升到50级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>"
+          "target": "Nâng đến Cấp 50, nhấp đúp để dùng\\\\Nhân vật đạt Cấp 10, dùng nhận <(c0xFF00FFFF)300K KN>\\\\Nhân vật đạt Cấp 20, dùng nhận <(c0xFF00FFFF)500K KN>\\\\Nhân vật đạt Cấp 30, dùng nhận <(c0xFF00FFFF)1000K KN>\\\\Nhân vật đạt Cấp 40, dùng nhận <(c0xFF00FFFF)2000K KN>\\\\Nhân vật đạt Cấp 50, dùng nhận <(c0xFF00FFFF)5000K KN>\\\\Nhân vật đạt Cấp 60, dùng nhận <(c0xFF00FFFF)10000K KN>"
         },
         {
           "key": "n2667",
           "occurrence": 1,
           "source": "经验珠(60级)",
-          "target": "经验珠(60级)"
+          "target": "Bảo Châu KN (Cấp 60)"
         },
         {
           "key": "i2667",
           "occurrence": 1,
           "source": "提升到60级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>",
-          "target": "提升到60级,双击使用\\\\人物到达10级，使用获得<(c0xFF00FFFF)30万经验>\\\\人物到达20级，使用获得<(c0xFF00FFFF)50万经验>\\\\人物到达30级，使用获得<(c0xFF00FFFF)100万经验>\\\\人物到达40级，使用获得<(c0xFF00FFFF)200万经验>\\\\人物到达50级，使用获得<(c0xFF00FFFF)500万经验>\\\\人物到达60级，使用获得<(c0xFF00FFFF)1000万经验>"
+          "target": "Nâng đến Cấp 60, nhấp đúp để dùng\\\\Nhân vật đạt Cấp 10, dùng nhận <(c0xFF00FFFF)300K KN>\\\\Nhân vật đạt Cấp 20, dùng nhận <(c0xFF00FFFF)500K KN>\\\\Nhân vật đạt Cấp 30, dùng nhận <(c0xFF00FFFF)1000K KN>\\\\Nhân vật đạt Cấp 40, dùng nhận <(c0xFF00FFFF)2000K KN>\\\\Nhân vật đạt Cấp 50, dùng nhận <(c0xFF00FFFF)5000K KN>\\\\Nhân vật đạt Cấp 60, dùng nhận <(c0xFF00FFFF)10000K KN>"
         },
         {
           "key": "n2668",
