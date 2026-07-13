@@ -50828,55 +50828,55 @@
           "key": "n994",
           "occurrence": 1,
           "source": "神秘奖励包",
-          "target": "神秘奖励包"
+          "target": "Gói Thưởng Bí Ẩn"
         },
         {
           "key": "i994",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种物品:\\\\祝福药水\\\\经验水晶\\\\副本通行证\\\\立即完成卷轴\\\\红玫瑰\\\\屠龙卷轴\\\\神秘彩蛋",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种物品:\\\\祝福药水\\\\经验水晶\\\\副本通行证\\\\立即完成卷轴\\\\红玫瑰\\\\屠龙卷轴\\\\神秘彩蛋"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận ngẫu nhiên 1:\\\\Thuốc Chúc Phúc\\\\Pha Lê KN\\\\Vé Phó Bản\\\\Cuộn Hoàn Thành Ngay\\\\Hoa Hồng Đỏ\\\\Cuộn Đồ Long\\\\Trứng Phục Sinh Bí Ẩn"
         },
         {
           "key": "n995",
           "occurrence": 1,
           "source": "坐骑充值礼包",
-          "target": "坐骑充值礼包"
+          "target": "Gói Nạp Thú Cưỡi"
         },
         {
           "key": "i995",
           "occurrence": 1,
           "source": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFF0000)坐骑直升１星>的<(c0xFFFFFF00)坐骑升一星>\\\\增加大量坐骑经验的<(c0xFFFFFF00)马鞭>×10\\\\3倍经验卷轴×5\\\\修复药水×5\\\\攻击药水(大)×10\\\\坐骑代金卡×5",
-          "target": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFF0000)坐骑直升１星>的<(c0xFFFFFF00)坐骑升一星>\\\\增加大量坐骑经验的<(c0xFFFFFF00)马鞭>×10\\\\3倍经验卷轴×5\\\\修复药水×5\\\\攻击药水(大)×10\\\\坐骑代金卡×5"
+          "target": "Trong sự kiện, nạp <(c0xFFFFFF00)1888 Nguyên Bảo>\\\\<(c0xFFFFFF00)Dùng> để nhận tất cả:\\\\<(c0xFFFF0000)Thú Cưỡi Lên 1 Sao> <(c0xFFFFFF00)Thú Cưỡi Lên 1 Sao>\\\\Tăng nhiều KN Thú Cưỡi: <(c0xFFFFFF00)Roi Ngựa> ×10\\\\Cuộn KN x3 ×5\\\\Thuốc Sửa Chữa ×5\\\\Thuốc Công Kích (Lớn) ×10\\\\Thẻ Thú Cưỡi ×5"
         },
         {
           "key": "n996",
           "occurrence": 1,
           "source": "宝石充值礼包",
-          "target": "宝石充值礼包"
+          "target": "Gói Nạp Đá Quý"
         },
         {
           "key": "i996",
           "occurrence": 1,
           "source": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFFFF00)6级生命宝石>×1\\\\<(c0xFFFFFF00)5级物防宝石>×1\\\\<(c0xFFFFFF00)5级魔防宝石>×1\\\\<(c0xFFFFFF00)5级魔法宝石>×1\\\\修复药水×5\\\\攻击药水(大)×10\\\\宝石代金券×3",
-          "target": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFFFF00)6级生命宝石>×1\\\\<(c0xFFFFFF00)5级物防宝石>×1\\\\<(c0xFFFFFF00)5级魔防宝石>×1\\\\<(c0xFFFFFF00)5级魔法宝石>×1\\\\修复药水×5\\\\攻击药水(大)×10\\\\宝石代金券×3"
+          "target": "Trong sự kiện, nạp <(c0xFFFFFF00)1888 Nguyên Bảo>\\\\<(c0xFFFFFF00)Dùng> để nhận tất cả:\\\\<(c0xFFFFFF00)Đá Sinh Lực Cấp 6> ×1\\\\<(c0xFFFFFF00)Đá Phòng Thủ Vật Lý Cấp 5> ×1\\\\<(c0xFFFFFF00)Đá Phòng Thủ Phép Cấp 5> ×1\\\\<(c0xFFFFFF00)Đá Ma Pháp Cấp 5> ×1\\\\Thuốc Sửa Chữa ×5\\\\Thuốc Công Kích (Lớn) ×10\\\\Thẻ Đá Quý ×3"
         },
         {
           "key": "n997",
           "occurrence": 1,
           "source": "佣兵充值礼包",
-          "target": "佣兵充值礼包"
+          "target": "Gói Nạp Lính Đánh Thuê"
         },
         {
           "key": "i997",
           "occurrence": 1,
           "source": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFF0000)佣兵直升１级>的<(c0xFFFFFF00)佣兵升一级>\\\\增加大量佣兵经验的<(c0xFFFFFF00)佣兵经验水晶(大)>×3\\\\佣兵技能升级卷轴×5\\\\增加佣兵与主人攻击力的佣兵技能<(c0xFFFFFF00)无敌戏法>×1\\\\修复药水×5\\\\攻击药水(大)×10\\\\佣兵代金卡×3",
-          "target": "只需在活动期间提取<(c0xFFFFFF00)1888元宝>\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\<(c0xFFFF0000)佣兵直升１级>的<(c0xFFFFFF00)佣兵升一级>\\\\增加大量佣兵经验的<(c0xFFFFFF00)佣兵经验水晶(大)>×3\\\\佣兵技能升级卷轴×5\\\\增加佣兵与主人攻击力的佣兵技能<(c0xFFFFFF00)无敌戏法>×1\\\\修复药水×5\\\\攻击药水(大)×10\\\\佣兵代金卡×3"
+          "target": "Trong sự kiện, nạp <(c0xFFFFFF00)1888 Nguyên Bảo>\\\\<(c0xFFFFFF00)Dùng> để nhận tất cả:\\\\<(c0xFFFF0000)Lính Đánh Thuê Lên 1 Cấp> <(c0xFFFFFF00)Lính Đánh Thuê Lên 1 Cấp>\\\\Tăng nhiều KN Lính Đánh Thuê: <(c0xFFFFFF00)Pha Lê KN Lính Đánh Thuê (Lớn)> ×3\\\\Cuộn Nâng Cấp Kỹ Năng Lính Đánh Thuê ×5\\\\Kỹ Năng tăng công cho Lính Đánh Thuê và chủ nhân: <(c0xFFFFFF00)Bí Kỹ Vô Địch> ×1\\\\Thuốc Sửa Chữa ×5\\\\Thuốc Công Kích (Lớn) ×10\\\\Thẻ Lính Đánh Thuê ×3"
         },
         {
           "key": "n998",
           "occurrence": 1,
           "source": "火龙坐骑(废弃)",
-          "target": "火龙坐骑(废弃)"
+          "target": "Thú Cưỡi Hỏa Long (Bỏ)"
         },
         {
           "key": "i998",
@@ -50888,7 +50888,7 @@
           "key": "n999",
           "occurrence": 1,
           "source": "天灾魔龙灵魄【7天】(废弃)",
-          "target": "天灾魔龙灵魄【7天】(废弃)"
+          "target": "Linh Phách Ma Long Thiên Tai [7 Ngày] (Bỏ)"
         },
         {
           "key": "i999",
@@ -50900,7 +50900,7 @@
           "key": "n1000",
           "occurrence": 1,
           "source": "帝兰麒麟灵魄【7天】(废弃)",
-          "target": "帝兰麒麟灵魄【7天】(废弃)"
+          "target": "Linh Phách Kỳ Lân Đế Lan [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1000",
@@ -50912,7 +50912,7 @@
           "key": "n1001",
           "occurrence": 1,
           "source": "银甲麒麟灵魄【10天】(废弃)",
-          "target": "银甲麒麟灵魄【10天】(废弃)"
+          "target": "Linh Phách Kỳ Lân Giáp Bạc [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1001",
@@ -50924,43 +50924,43 @@
           "key": "n1002",
           "occurrence": 1,
           "source": "45级新手包",
-          "target": "45级新手包"
+          "target": "Gói Tân Thủ Cấp 45"
         },
         {
           "key": "i1002",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)45级>即可领取等级大礼包",
-          "target": "到达<(c0xFF00FFFF)45级>即可领取等级大礼包"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 45> để nhận Gói Quà Cấp"
         },
         {
           "key": "n1003",
           "occurrence": 1,
           "source": "50级新手包",
-          "target": "50级新手包"
+          "target": "Gói Tân Thủ Cấp 50"
         },
         {
           "key": "i1003",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)50级>即可领取等级大礼包",
-          "target": "到达<(c0xFF00FFFF)50级>即可领取等级大礼包"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 50> để nhận Gói Quà Cấp"
         },
         {
           "key": "n1004",
           "occurrence": 1,
           "source": "佣兵复辟",
-          "target": "佣兵复辟"
+          "target": "Lính Đánh Thuê Phục Hưng"
         },
         {
           "key": "i1004",
           "occurrence": 1,
           "source": "佣兵特殊技能,可以通过在第八天开启的促销活动中的<(c0xFF00FFFF)佣兵大礼包>获得\\\\<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\学习后让佣兵永久获得<(c0xFF00FFFF)10%>的额外经验加成！\\\\升级后最高可达<(c0xFF00FFFF)35%>的额外经验加成",
-          "target": "佣兵特殊技能,可以通过在第八天开启的促销活动中的<(c0xFF00FFFF)佣兵大礼包>获得\\\\<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\学习后让佣兵永久获得<(c0xFF00FFFF)10%>的额外经验加成！\\\\升级后最高可达<(c0xFF00FFFF)35%>的额外经验加成"
+          "target": "Kỹ năng đặc biệt Lính Đánh Thuê, nhận từ <(c0xFF00FFFF)Gói Lính Đánh Thuê> trong khuyến mãi mở Ngày 8\\\\Lính Đánh Thuê cấp <(c0xFF00FFFF)30> trở lên có thể học\\\\Sau khi học, Lính Đánh Thuê vĩnh viễn nhận thêm <(c0xFF00FFFF)10%> KN!\\\\Nâng cấp tối đa nhận thêm <(c0xFF00FFFF)35%> KN"
         },
         {
           "key": "n1005",
           "occurrence": 1,
           "source": "水域青龙珠(废弃)",
-          "target": "水域青龙珠(废弃)"
+          "target": "Ngọc Thanh Long Thủy Vực (Bỏ)"
         },
         {
           "key": "i1005",
@@ -50972,7 +50972,7 @@
           "key": "n1006",
           "occurrence": 1,
           "source": "男性纹身(废弃)",
-          "target": "男性纹身(废弃)"
+          "target": "Hình Xăm Nam (Bỏ)"
         },
         {
           "key": "i1006",
@@ -50984,7 +50984,7 @@
           "key": "n1007",
           "occurrence": 1,
           "source": "女性纹身(废弃)",
-          "target": "女性纹身(废弃)"
+          "target": "Hình Xăm Nữ (Bỏ)"
         },
         {
           "key": "i1007",
@@ -50996,85 +50996,85 @@
           "key": "n1008",
           "occurrence": 1,
           "source": "宝石代金券礼包",
-          "target": "宝石代金券礼包"
+          "target": "Gói Thẻ Đá Quý"
         },
         {
           "key": "i1008",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得<(c0xFF00FFFF)6>张宝石代金卡",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得<(c0xFF00FFFF)6>张宝石代金卡"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận <(c0xFF00FFFF)6> Thẻ Đá Quý"
         },
         {
           "key": "n1009",
           "occurrence": 1,
           "source": "媒体礼包",
-          "target": "媒体礼包"
+          "target": "Gói Truyền Thông"
         },
         {
           "key": "i1009",
           "occurrence": 1,
           "source": "媒体礼包,双击使用\\\\可获得极品道具",
-          "target": "媒体礼包,双击使用\\\\可获得极品道具"
+          "target": "Gói Truyền Thông\\\\Dùng để nhận vật phẩm hiếm"
         },
         {
           "key": "n1010",
           "occurrence": 1,
           "source": "媒体白银礼包",
-          "target": "媒体白银礼包"
+          "target": "Gói Truyền Thông Bạc"
         },
         {
           "key": "i1010",
           "occurrence": 1,
           "source": "媒体白银礼包,双击使用\\\\可获得极品道具",
-          "target": "媒体白银礼包,双击使用\\\\可获得极品道具"
+          "target": "Gói Truyền Thông Bạc\\\\Dùng để nhận vật phẩm hiếm"
         },
         {
           "key": "n1011",
           "occurrence": 1,
           "source": "媒体黄金礼包",
-          "target": "媒体黄金礼包"
+          "target": "Gói Truyền Thông Hoàng Kim"
         },
         {
           "key": "i1011",
           "occurrence": 1,
           "source": "媒体黄金礼包,双击使用\\\\可获得极品道具",
-          "target": "媒体黄金礼包,双击使用\\\\可获得极品道具"
+          "target": "Gói Truyền Thông Hoàng Kim\\\\Dùng để nhận vật phẩm hiếm"
         },
         {
           "key": "n1012",
           "occurrence": 1,
           "source": "媒体特权礼包",
-          "target": "媒体特权礼包"
+          "target": "Gói Đặc Quyền Truyền Thông"
         },
         {
           "key": "i1012",
           "occurrence": 1,
           "source": "媒体特权礼包,双击使用\\\\可获得极品道具",
-          "target": "媒体特权礼包,双击使用\\\\可获得极品道具"
+          "target": "Gói Đặc Quyền Truyền Thông\\\\Dùng để nhận vật phẩm hiếm"
         },
         {
           "key": "n1013",
           "occurrence": 1,
           "source": "媒体礼包（白金）",
-          "target": "媒体礼包（白金）"
+          "target": "Gói Truyền Thông (Bạch Kim)"
         },
         {
           "key": "i1013",
           "occurrence": 1,
           "source": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具",
-          "target": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具"
+          "target": "Gói Truyền Thông\\\\Dùng để nhận vật phẩm hiếm trị giá 2888 Nguyên Bảo"
         },
         {
           "key": "n1014",
           "occurrence": 1,
           "source": "媒体礼包（玛瑙）",
-          "target": "媒体礼包（玛瑙）"
+          "target": "Gói Truyền Thông (Mã Não)"
         },
         {
           "key": "i1014",
           "occurrence": 1,
           "source": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具",
-          "target": "媒体礼包,双击使用\\\\可获得价值2888元宝极品道具"
+          "target": "Gói Truyền Thông\\\\Dùng để nhận vật phẩm hiếm trị giá 2888 Nguyên Bảo"
         },
         {
           "key": "n1015",
