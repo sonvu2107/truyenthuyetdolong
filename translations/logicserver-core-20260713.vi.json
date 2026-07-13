@@ -46928,79 +46928,79 @@
           "key": "n669",
           "occurrence": 1,
           "source": "法神无双(女)",
-          "target": "法神无双(女)"
+          "target": "Pháp Thần Vô Song (Nữ)"
         },
         {
           "key": "i669",
           "occurrence": 1,
           "source": "法神降世，毁天灭地!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>",
-          "target": "法神降世，毁天灭地!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>"
+          "target": "Pháp Thần giáng thế, hủy thiên diệt địa!\\\\<(c0xFF00FF00)Gợi ý: thưởng Nhiệm Vụ Chính Tuyến, mua ở Shop>"
         },
         {
           "key": "n670",
           "occurrence": 1,
           "source": "蓝宇传说(女)",
-          "target": "蓝宇传说(女)"
+          "target": "Huyền Thoại Lam Vũ (Nữ)"
         },
         {
           "key": "i670",
           "occurrence": 1,
           "source": "威破蓝宇，欺天传说!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>",
-          "target": "威破蓝宇，欺天传说!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>"
+          "target": "Uy chấn Lam Vũ, danh vang trời cao!\\\\<(c0xFF00FF00)Gợi ý: thưởng Nhiệm Vụ Chính Tuyến, mua ở Shop>"
         },
         {
           "key": "n671",
           "occurrence": 1,
           "source": "深渊之铠(女)",
-          "target": "深渊之铠(女)"
+          "target": "Giáp Vực Sâu (Nữ)"
         },
         {
           "key": "i671",
           "occurrence": 1,
           "source": "由深渊之石炼制而成!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>",
-          "target": "由深渊之石炼制而成!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>"
+          "target": "Rèn từ Đá Vực Sâu!\\\\<(c0xFF00FF00)Gợi ý: thưởng Nhiệm Vụ Chính Tuyến, mua ở Shop>"
         },
         {
           "key": "n672",
           "occurrence": 1,
           "source": "幽梦之灵(女)",
-          "target": "幽梦之灵(女)"
+          "target": "Linh Giáp U Mộng (Nữ)"
         },
         {
           "key": "i672",
           "occurrence": 1,
           "source": "幽冥皇者梦，灵甲应天生!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>",
-          "target": "幽冥皇者梦，灵甲应天生!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>"
+          "target": "Mộng U Minh Hoàng, Linh Giáp thuận thiên sinh!\\\\<(c0xFF00FF00)Gợi ý: thưởng Nhiệm Vụ Chính Tuyến, mua ở Shop>"
         },
         {
           "key": "n673",
           "occurrence": 1,
           "source": "圣洁精灵(女)",
-          "target": "圣洁精灵(女)"
+          "target": "Tinh Linh Thánh Khiết (Nữ)"
         },
         {
           "key": "i673",
           "occurrence": 1,
           "source": "圣洁女神泪，精灵泪中生!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>",
-          "target": "圣洁女神泪，精灵泪中生!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>"
+          "target": "Nước mắt Nữ Thần Thánh Khiết, hóa thành Tinh Linh!\\\\<(c0xFF00FF00)Gợi ý: thưởng Nhiệm Vụ Chính Tuyến, mua ở Shop>"
         },
         {
           "key": "n674",
           "occurrence": 1,
           "source": "神圣仲裁(女)",
-          "target": "神圣仲裁(女)"
+          "target": "Phán Quyết Thần Thánh (Nữ)"
         },
         {
           "key": "i674",
           "occurrence": 1,
           "source": "由神圣之力汇聚而成!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>",
-          "target": "由神圣之力汇聚而成!\\\\<(c0xFF00FF00)提示:主线任务奖励、商城购买>"
+          "target": "Ngưng tụ từ sức mạnh Thần Thánh!\\\\<(c0xFF00FF00)Gợi ý: thưởng Nhiệm Vụ Chính Tuyến, mua ở Shop>"
         },
         {
           "key": "n675",
           "occurrence": 1,
           "source": "麦芽酒(废弃)",
-          "target": "麦芽酒(废弃)"
+          "target": "Bia Mạch Nha (Bỏ)"
         },
         {
           "key": "i675",
@@ -47012,7 +47012,7 @@
           "key": "n676",
           "occurrence": 1,
           "source": "龙舌兰(废弃)",
-          "target": "龙舌兰(废弃)"
+          "target": "Tequila (Bỏ)"
         },
         {
           "key": "i676",
@@ -47024,7 +47024,7 @@
           "key": "n677",
           "occurrence": 1,
           "source": "矮人烈酒(废弃)",
-          "target": "矮人烈酒(废弃)"
+          "target": "Rượu Mạnh Người Lùn (Bỏ)"
         },
         {
           "key": "i677",
@@ -47036,31 +47036,31 @@
           "key": "n678",
           "occurrence": 1,
           "source": "黑暗凤凰(7档)",
-          "target": "黑暗凤凰(7档)"
+          "target": "Phượng Hoàng Hắc Ám (Bậc 7)"
         },
         {
           "key": "i678",
           "occurrence": 1,
           "source": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)黑暗凤凰(7档)>",
-          "target": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)黑暗凤凰(7档)>"
+          "target": "Dùng: nâng Cánh thành <(c0xFFFFFAF0)Phượng Hoàng Hắc Ám (Bậc 7)>"
         },
         {
           "key": "n679",
           "occurrence": 1,
           "source": "龙影翼(8档)",
-          "target": "龙影翼(8档)"
+          "target": "Cánh Long Ảnh (Bậc 8)"
         },
         {
           "key": "i679",
           "occurrence": 1,
           "source": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)龙影翼(8档)>",
-          "target": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)龙影翼(8档)>"
+          "target": "Dùng: nâng Cánh thành <(c0xFFFFFAF0)Cánh Long Ảnh (Bậc 8)>"
         },
         {
           "key": "n680",
           "occurrence": 1,
           "source": "光灵碎片(废弃)",
-          "target": "光灵碎片(废弃)"
+          "target": "Mảnh Quang Linh (Bỏ)"
         },
         {
           "key": "i680",
@@ -47072,7 +47072,7 @@
           "key": "n681",
           "occurrence": 1,
           "source": "暗灵碎片(废弃)",
-          "target": "暗灵碎片(废弃)"
+          "target": "Mảnh Ám Linh (Bỏ)"
         },
         {
           "key": "i681",
@@ -47084,37 +47084,37 @@
           "key": "n682",
           "occurrence": 1,
           "source": "4倍经验卷轴",
-          "target": "4倍经验卷轴"
+          "target": "Cuộn KN x4"
         },
         {
           "key": "i682",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)4倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)4倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Nhận buff KN khi diệt quái <(c0xFF00FFFF)x4>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Cuộn cùng hiệu ứng cộng dồn thời gian>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n683",
           "occurrence": 1,
           "source": "4倍经验卷轴(8小时)",
-          "target": "4倍经验卷轴(8小时)"
+          "target": "Cuộn KN x4 (8 Giờ)"
         },
         {
           "key": "i683",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)4倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)4倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Nhận buff KN khi diệt quái <(c0xFF00FFFF)x4>, kéo dài <(c0xFF00FFFF)8 giờ>\\\\<(c0xFF00FF00)Cuộn cùng hiệu ứng cộng dồn thời gian>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n684",
           "occurrence": 1,
           "source": "新手导航卡",
-          "target": "新手导航卡"
+          "target": "Thẻ Hướng Dẫn Tân Thủ"
         },
         {
           "key": "i684",
           "occurrence": 1,
           "source": "双击使用\\\\使用后可获得答题机会,正确回答可随机获得奖励",
-          "target": "双击使用\\\\使用后可获得答题机会,正确回答可随机获得奖励"
+          "target": "Dùng\\\\Sau khi dùng nhận lượt trả lời câu hỏi; trả lời đúng nhận quà ngẫu nhiên"
         },
         {
           "key": "n685",
