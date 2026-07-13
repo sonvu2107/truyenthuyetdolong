@@ -52952,7 +52952,7 @@
           "key": "n1171",
           "occurrence": 1,
           "source": "遁地卷轴(废弃)",
-          "target": "遁地卷轴(废弃)"
+          "target": "Cuộn Độn Thổ (Bỏ)"
         },
         {
           "key": "i1171",
@@ -52964,61 +52964,61 @@
           "key": "n1172",
           "occurrence": 1,
           "source": "强化突破石(废弃)",
-          "target": "强化突破石(废弃)"
+          "target": "Đá Đột Phá Cường Hóa (Bỏ)"
         },
         {
           "key": "i1172",
           "occurrence": 1,
           "source": "用于将<(c0xFF00FFFF)强化+15或以上>的装备进行<(c0xFF00FFFF)打磨>的材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备强化>操作\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "用于将<(c0xFF00FFFF)强化+15或以上>的装备进行<(c0xFF00FFFF)打磨>的材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备强化>操作\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Vật liệu <(c0xFF00FFFF)mài> trang bị cường hóa <(c0xFF00FFFF)+15 trở lên>\\\\<(c0xFFFFFF00)Dùng vật phẩm> mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) để <(c0xFF00FFFF)Cường Hóa Trang Bị>\\\\<(c0xFF00FF00)Gợi ý: Có thể mua tại Cửa Hàng>"
         },
         {
           "key": "n1173",
           "occurrence": 1,
           "source": "生日礼盒(废弃)",
-          "target": "生日礼盒(废弃)"
+          "target": "Hộp Quà Sinh Nhật (Bỏ)"
         },
         {
           "key": "i1173",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\生日之星头衔\\\\超级天使卡×1\\\\人参王×1\\\\雪莲王×1\\\\苹果×2\\\\花宝令牌×10\\\\生日快乐×10",
-          "target": "双击打开,获得以下物品:\\\\生日之星头衔\\\\超级天使卡×1\\\\人参王×1\\\\雪莲王×1\\\\苹果×2\\\\花宝令牌×10\\\\生日快乐×10"
+          "target": "Dùng để nhận:\\\\Danh Hiệu Sao Sinh Nhật\\\\Thẻ Thiên Thần Siêu Cấp ×1\\\\Nhân Sâm Vương ×1\\\\Tuyết Liên Vương ×1\\\\Táo ×2\\\\Thẻ Hoa Bảo ×10\\\\Chúc Mừng Sinh Nhật ×10"
         },
         {
           "key": "n1174",
           "occurrence": 1,
           "source": "超级VIP礼包",
-          "target": "超级VIP礼包"
+          "target": "Gói VIP Siêu Cấp"
         },
         {
           "key": "i1174",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\100欢乐豆×1\\\\4倍经验卷轴×1\\\\人参王×1\\\\雪莲王×1\\\\5倍离线经验玉×2\\\\苹果×3\\\\任务立即完成卷轴×3\\\\爆烈怒气丹×10",
-          "target": "双击打开,获得以下物品:\\\\100欢乐豆×1\\\\4倍经验卷轴×1\\\\人参王×1\\\\雪莲王×1\\\\5倍离线经验玉×2\\\\苹果×3\\\\任务立即完成卷轴×3\\\\爆烈怒气丹×10"
+          "target": "Dùng để nhận:\\\\100 Đậu Vui Vẻ ×1\\\\Cuộn KN 4x ×1\\\\Nhân Sâm Vương ×1\\\\Tuyết Liên Vương ×1\\\\Ngọc KN Offline 5x ×2\\\\Táo ×3\\\\Cuộn Hoàn Thành Nhiệm Vụ ×3\\\\Đan Nộ Khí Bạo Liệt ×10"
         },
         {
           "key": "n1175",
           "occurrence": 1,
           "source": "勋章灵石",
-          "target": "勋章灵石"
+          "target": "Linh Thạch Huy Chương"
         },
         {
           "key": "i1175",
           "occurrence": 1,
           "source": "收集 <(c0xFFFF6600)15> 个 <(c0xFFFF6600)勋章灵石> 可以合成一个 <(c0xFFFF6600)巨龙勋章>,战力大增\\\\3个巨龙勋章可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级\\\\勋章是游戏中顶级装备,增强实力最佳捷径！",
-          "target": "收集 <(c0xFFFF6600)15> 个 <(c0xFFFF6600)勋章灵石> 可以合成一个 <(c0xFFFF6600)巨龙勋章>,战力大增\\\\3个巨龙勋章可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级\\\\勋章是游戏中顶级装备,增强实力最佳捷径！"
+          "target": "Thu thập <(c0xFFFF6600)15> <(c0xFFFF6600)Linh Thạch Huy Chương> hợp thành <(c0xFFFF6600)Huy Chương Cự Long>, tăng mạnh CS\\\\3 Huy Chương Cự Long có thể nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)\\\\Huy Chương là trang bị đỉnh cấp, con đường mạnh lên nhanh nhất!"
         },
         {
           "key": "n1176",
           "occurrence": 1,
           "source": "装备增强特惠包(废弃)",
-          "target": "装备增强特惠包(废弃)"
+          "target": "Gói Ưu Đãi Tăng Cường Trang Bị (Bỏ)"
         },
         {
           "key": "i1176",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\强化突破石×40\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)224><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\强化突破石×40\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)224><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Đá Đột Phá Cường Hóa ×40\\\\<(c0xFF00FF00)Ưu Đãi Chồng Ưu Đãi:> mua lẻ sẽ <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)224><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n1177",
