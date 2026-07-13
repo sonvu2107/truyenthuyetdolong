@@ -52166,7 +52166,7 @@
           "key": "i1105",
           "occurrence": 1,
           "source": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)5级魔攻宝石>\\\\1颗<(c0xFF00FFFF)5级物防宝石>\\\\1颗<(c0xFF00FFFF)5级魔防宝石>\\\\1颗<(c0xFF00FFFF)5级生命宝石>\\\\1颗<(c0xFF00FFFF)5级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)5级魔攻宝石>\\\\1颗<(c0xFF00FFFF)5级物防宝石>\\\\1颗<(c0xFF00FFFF)5级魔防宝石>\\\\1颗<(c0xFF00FFFF)5级生命宝石>\\\\1颗<(c0xFF00FFFF)5级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0x00d57140)Gói siêu giá trị tăng CS!>\\\\Có thể nhận:\\\\1 <(c0xFF00FFFF)Đá Công Phép Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Vật Lý Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Phép Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Sinh Lực Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Ma Pháp Cấp 5>\\\\<(c0xFF00FF00)Ưu Đãi Chồng Ưu Đãi:> mua lẻ sẽ <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)243><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n1106",
@@ -52178,73 +52178,73 @@
           "key": "i1106",
           "occurrence": 1,
           "source": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)5级道攻宝石>\\\\1颗<(c0xFF00FFFF)5级物防宝石>\\\\1颗<(c0xFF00FFFF)5级魔防宝石>\\\\1颗<(c0xFF00FFFF)5级生命宝石>\\\\1颗<(c0xFF00FFFF)5级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)5级道攻宝石>\\\\1颗<(c0xFF00FFFF)5级物防宝石>\\\\1颗<(c0xFF00FFFF)5级魔防宝石>\\\\1颗<(c0xFF00FFFF)5级生命宝石>\\\\1颗<(c0xFF00FFFF)5级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0x00d57140)Gói siêu giá trị tăng CS!>\\\\Có thể nhận:\\\\1 <(c0xFF00FFFF)Đá Công Đạo Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Vật Lý Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Phép Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Sinh Lực Cấp 5>\\\\1 <(c0xFF00FFFF)Đá Ma Pháp Cấp 5>\\\\<(c0xFF00FF00)Ưu Đãi Chồng Ưu Đãi:> mua lẻ sẽ <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)243><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n1107",
           "occurrence": 1,
           "source": "20万经验灵石",
-          "target": "20万经验灵石"
+          "target": "Linh Thạch 200K KN"
         },
         {
           "key": "i1107",
           "occurrence": 1,
           "source": "<(c0xFF00FFFF)经验水晶>\\\\<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)24元宝>可以获得存入的所有经验",
-          "target": "<(c0xFF00FFFF)经验水晶>\\\\<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)24元宝>可以获得存入的所有经验"
+          "target": "<(c0xFF00FFFF)Pha Lê KN>\\\\<(c0xFF00FFFF)Dùng> tốn <(c0xFF00FFFF)24 Nguyên Bảo> để nhận toàn bộ KN đã lưu"
         },
         {
           "key": "n1108",
           "occurrence": 1,
           "source": "坐骑升三星",
-          "target": "坐骑升三星"
+          "target": "Thú Cưỡi +3 Sao"
         },
         {
           "key": "i1108",
           "occurrence": 1,
           "source": "双击使用\\\\你的坐骑立即提升3星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>",
-          "target": "双击使用\\\\你的坐骑立即提升3星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>"
+          "target": "Dùng\\\\Thú Cưỡi tăng ngay 3 Sao\\\\<(c0xFF00FF00)Gợi ý: Đừng dùng quá sớm!>\\\\<(c0xFF00FF00)Cấp càng cao, hiệu quả càng tốt.>"
         },
         {
           "key": "n1109",
           "occurrence": 1,
           "source": "坐骑升五星",
-          "target": "坐骑升五星"
+          "target": "Thú Cưỡi +5 Sao"
         },
         {
           "key": "i1109",
           "occurrence": 1,
           "source": "双击使用\\\\你的坐骑立即提升5星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>",
-          "target": "双击使用\\\\你的坐骑立即提升5星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>"
+          "target": "Dùng\\\\Thú Cưỡi tăng ngay 5 Sao\\\\<(c0xFF00FF00)Gợi ý: Đừng dùng quá sớm!>\\\\<(c0xFF00FF00)Cấp càng cao, hiệu quả càng tốt.>"
         },
         {
           "key": "n1110",
           "occurrence": 1,
           "source": "坐骑升八星",
-          "target": "坐骑升八星"
+          "target": "Thú Cưỡi +8 Sao"
         },
         {
           "key": "i1110",
           "occurrence": 1,
           "source": "双击使用\\\\你的坐骑立即提升8星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>",
-          "target": "双击使用\\\\你的坐骑立即提升8星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>"
+          "target": "Dùng\\\\Thú Cưỡi tăng ngay 8 Sao\\\\<(c0xFF00FF00)Gợi ý: Đừng dùng quá sớm!>\\\\<(c0xFF00FF00)Cấp càng cao, hiệu quả càng tốt.>"
         },
         {
           "key": "n1111",
           "occurrence": 1,
           "source": "坐骑升一阶",
-          "target": "坐骑升一阶"
+          "target": "Thú Cưỡi +1 Bậc"
         },
         {
           "key": "i1111",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内最顶级的坐骑升阶道具>\\\\双击使用\\\\坐骑在任意等级下<(c0x00d57140)立即提升一阶>，可让坐骑替换新形象\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)　　 等级越高,使用的效果越佳.>",
-          "target": "<(c0x00d57140)游戏内最顶级的坐骑升阶道具>\\\\双击使用\\\\坐骑在任意等级下<(c0x00d57140)立即提升一阶>，可让坐骑替换新形象\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)　　 等级越高,使用的效果越佳.>"
+          "target": "<(c0x00d57140)Vật phẩm tăng bậc Thú Cưỡi đỉnh nhất game>\\\\Dùng\\\\Thú Cưỡi ở mọi cấp <(c0x00d57140)tăng ngay 1 Bậc>, đổi diện mạo mới\\\\<(c0xFF00FF00)Gợi ý: Đừng dùng quá sớm!>\\\\<(c0xFF00FF00)Cấp càng cao, hiệu quả càng tốt.>"
         },
         {
           "key": "n1112",
           "occurrence": 1,
           "source": "灵舞仙狐灵魄【1天】(废弃)",
-          "target": "灵舞仙狐灵魄【1天】(废弃)"
+          "target": "Linh Phách Hồ Tiên Linh Vũ [1 Ngày] (Bỏ)"
         },
         {
           "key": "i1112",
@@ -52256,7 +52256,7 @@
           "key": "n1113",
           "occurrence": 1,
           "source": "火鳞鹰兽灵魄【1天】(废弃)",
-          "target": "火鳞鹰兽灵魄【1天】(废弃)"
+          "target": "Linh Phách Ưng Thú Vảy Lửa [1 Ngày] (Bỏ)"
         },
         {
           "key": "i1113",
@@ -52268,7 +52268,7 @@
           "key": "n1114",
           "occurrence": 1,
           "source": "幽蓝战骑灵魄【1天】(废弃)",
-          "target": "幽蓝战骑灵魄【1天】(废弃)"
+          "target": "Linh Phách Chiến Kỵ U Lam [1 Ngày] (Bỏ)"
         },
         {
           "key": "i1114",
@@ -52280,7 +52280,7 @@
           "key": "n1115",
           "occurrence": 1,
           "source": "雷光麒麟灵魄【1天】(废弃)",
-          "target": "雷光麒麟灵魄【1天】(废弃)"
+          "target": "Linh Phách Kỳ Lân Lôi Quang [1 Ngày] (Bỏ)"
         },
         {
           "key": "i1115",
@@ -52292,7 +52292,7 @@
           "key": "n1116",
           "occurrence": 1,
           "source": "寒冰骨龙灵魄【1天】(废弃)",
-          "target": "寒冰骨龙灵魄【1天】(废弃)"
+          "target": "Linh Phách Cốt Long Băng Giá [1 Ngày] (Bỏ)"
         },
         {
           "key": "i1116",
@@ -52304,7 +52304,7 @@
           "key": "n1117",
           "occurrence": 1,
           "source": "赤角岩龙灵魄【1天】(废弃)",
-          "target": "赤角岩龙灵魄【1天】(废弃)"
+          "target": "Linh Phách Nham Long Sừng Đỏ [1 Ngày] (Bỏ)"
         },
         {
           "key": "i1117",
@@ -52316,97 +52316,97 @@
           "key": "n1118",
           "occurrence": 1,
           "source": "6倍经验神圣卷轴",
-          "target": "6倍经验神圣卷轴"
+          "target": "Cuộn Thánh 6x KN"
         },
         {
           "key": "i1118",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)6倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)6倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>"
+          "target": "Dùng\\\\Nhận BUFF KN diệt quái <(c0xFF00FFFF)x6>, kéo dài <(c0xFF00FFFF)1 Giờ>\\\\<(c0xFF00FF00)Thời gian cuộn cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>"
         },
         {
           "key": "n1119",
           "occurrence": 1,
           "source": "6倍经验卷轴(8小时)",
-          "target": "6倍经验卷轴(8小时)"
+          "target": "Cuộn KN 6x (8 Giờ)"
         },
         {
           "key": "i1119",
           "occurrence": 1,
           "source": "<(c0x00d57140)稀有升级道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)6倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>",
-          "target": "<(c0x00d57140)稀有升级道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)6倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>"
+          "target": "<(c0x00d57140)Vật phẩm tăng cấp hiếm>\\\\Dùng\\\\Nhận BUFF KN diệt quái <(c0xFF00FFFF)x6>, kéo dài <(c0xFF00FFFF)8 Giờ>\\\\<(c0xFF00FF00)Thời gian cuộn cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>"
         },
         {
           "key": "n1120",
           "occurrence": 1,
           "source": "8倍经验神圣卷轴",
-          "target": "8倍经验神圣卷轴"
+          "target": "Cuộn Thánh 8x KN"
         },
         {
           "key": "i1120",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)8倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)8倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>"
+          "target": "Dùng\\\\Nhận BUFF KN diệt quái <(c0xFF00FFFF)x8>, kéo dài <(c0xFF00FFFF)1 Giờ>\\\\<(c0xFF00FF00)Thời gian cuộn cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>"
         },
         {
           "key": "n1121",
           "occurrence": 1,
           "source": "8倍经验卷轴(8小时)",
-          "target": "8倍经验卷轴(8小时)"
+          "target": "Cuộn KN 8x (8 Giờ)"
         },
         {
           "key": "i1121",
           "occurrence": 1,
           "source": "<(c0x00d57140)顶级升级道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)8倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>",
-          "target": "<(c0x00d57140)顶级升级道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)8倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>"
+          "target": "<(c0x00d57140)Vật phẩm tăng cấp đỉnh cấp>\\\\Dùng\\\\Nhận BUFF KN diệt quái <(c0xFF00FFFF)x8>, kéo dài <(c0xFF00FFFF)8 Giờ>\\\\<(c0xFF00FF00)Thời gian cuộn cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>"
         },
         {
           "key": "n1122",
           "occurrence": 1,
           "source": "10倍经验神圣卷轴",
-          "target": "10倍经验神圣卷轴"
+          "target": "Cuộn Thánh 10x KN"
         },
         {
           "key": "i1122",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)10倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)10倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>"
+          "target": "Dùng\\\\Nhận BUFF KN diệt quái <(c0xFF00FFFF)x10>, kéo dài <(c0xFF00FFFF)1 Giờ>\\\\<(c0xFF00FF00)Thời gian cuộn cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>"
         },
         {
           "key": "n1123",
           "occurrence": 1,
           "source": "10倍经验卷轴(8小时)",
-          "target": "10倍经验卷轴(8小时)"
+          "target": "Cuộn KN 10x (8 Giờ)"
         },
         {
           "key": "i1123",
           "occurrence": 1,
           "source": "<(c0x00d57140)绝版升级道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)10倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>",
-          "target": "<(c0x00d57140)绝版升级道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)10倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>"
+          "target": "<(c0x00d57140)Vật phẩm tăng cấp tuyệt bản>\\\\Dùng\\\\Nhận BUFF KN diệt quái <(c0xFF00FFFF)x10>, kéo dài <(c0xFF00FFFF)8 Giờ>\\\\<(c0xFF00FF00)Thời gian cuộn cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>"
         },
         {
           "key": "n1124",
           "occurrence": 1,
           "source": "任务立即完成令牌",
-          "target": "任务立即完成令牌"
+          "target": "Thẻ Hoàn Thành Nhiệm Vụ"
         },
         {
           "key": "i1124",
           "occurrence": 1,
           "source": "让你免费完成一次<(c0xFF00FF00)任务>功能的卷轴\\\\可在狩猎任务、赏金任务、日常任务中使用",
-          "target": "让你免费完成一次<(c0xFF00FF00)任务>功能的卷轴\\\\可在狩猎任务、赏金任务、日常任务中使用"
+          "target": "Cuộn miễn phí hoàn thành 1 lần <(c0xFF00FF00)Nhiệm Vụ>\\\\Dùng trong Nhiệm Vụ Săn Bắn, Truy Nã và Hằng Ngày"
         },
         {
           "key": "n1125",
           "occurrence": 1,
           "source": "城主屠龙",
-          "target": "城主屠龙"
+          "target": "Đồ Long Thành Chủ"
         },
         {
           "key": "i1125",
           "occurrence": 1,
           "source": "<(c0x00d57140)天下无双的锋芒,不世王者的象征！>\\\\<(c0xFF00FF00)黄金屠龙最锋芒\\\\神兵谱上称尊皇\\\\世人难控此霸刀\\\\唯有雄主驭手上>",
-          "target": "<(c0x00d57140)天下无双的锋芒,不世王者的象征！>\\\\<(c0xFF00FF00)黄金屠龙最锋芒\\\\神兵谱上称尊皇\\\\世人难控此霸刀\\\\唯有雄主驭手上>"
+          "target": "<(c0x00d57140)Sắc bén vô song, biểu tượng của bậc vương giả!>\\\\<(c0xFF00FF00)Đồ Long Hoàng Kim sáng chói\\\\Đứng đầu thần binh phổ\\\\Bá đao này ai khó khống\\\\Chỉ chủ hùng mới cầm tay>"
         },
         {
           "key": "n1126",
