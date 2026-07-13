@@ -68984,97 +68984,97 @@
           "key": "n2507",
           "occurrence": 1,
           "source": "妖月法杖",
-          "target": "妖月法杖"
+          "target": "Trượng Yêu Nguyệt"
         },
         {
           "key": "i2507",
           "occurrence": 1,
           "source": "让你能在游戏初期先人一步的高度强化法杖！\\\\<(c0xFF00FF00)可提取1元宝在首充礼包中获得！>\\\\可到锻造系统升级70级套装武器",
-          "target": "让你能在游戏初期先人一步的高度强化法杖！\\\\<(c0xFF00FF00)可提取1元宝在首充礼包中获得！>\\\\可到锻造系统升级70级套装武器"
+          "target": "Pháp trượng cường hóa cao giúp bạn dẫn đầu giai đoạn đầu game!\\\\<(c0xFF00FF00)Có thể tách lấy 1 Nguyên Bảo, nhận từ Gói Nạp Đầu!>\\\\Có thể nâng cấp thành vũ khí bộ Cấp 70 tại Hệ Thống Rèn"
         },
         {
           "key": "n2508",
           "occurrence": 1,
           "source": "灭魔之剑",
-          "target": "灭魔之剑"
+          "target": "Kiếm Diệt Ma"
         },
         {
           "key": "i2508",
           "occurrence": 1,
           "source": "让你能在游戏初期先人一步的高度强化圣剑！\\\\<(c0xFF00FF00)可提取1元宝在首充礼包中获得！>\\\\可到锻造系统升级70级套装武器",
-          "target": "让你能在游戏初期先人一步的高度强化圣剑！\\\\<(c0xFF00FF00)可提取1元宝在首充礼包中获得！>\\\\可到锻造系统升级70级套装武器"
+          "target": "Thánh kiếm cường hóa cao giúp bạn dẫn đầu giai đoạn đầu game!\\\\<(c0xFF00FF00)Có thể tách lấy 1 Nguyên Bảo, nhận từ Gói Nạp Đầu!>\\\\Có thể nâng cấp thành vũ khí bộ Cấp 70 tại Hệ Thống Rèn"
         },
         {
           "key": "n2509",
           "occurrence": 1,
           "source": "佣兵洗练药水",
-          "target": "佣兵洗练药水"
+          "target": "Thuốc Tẩy Luyện Lính Đánh Thuê"
         },
         {
           "key": "i2509",
           "occurrence": 1,
           "source": "神奇的药水，透露着独特的特殊能量\\\\可用于佣兵系统的洗练功能。",
-          "target": "神奇的药水，透露着独特的特殊能量\\\\可用于佣兵系统的洗练功能。"
+          "target": "Loại thuốc kỳ diệu ẩn chứa năng lượng đặc biệt\\\\Dùng cho chức năng Tẩy Luyện trong hệ thống Lính Đánh Thuê."
         },
         {
           "key": "n2510",
           "occurrence": 1,
           "source": "首充礼包",
-          "target": "首充礼包"
+          "target": "Gói Nạp Đầu"
         },
         {
           "key": "i2510",
           "occurrence": 1,
           "source": "充值任意金额即可获得首充大礼包\\\\发光神器、绚丽翅膀、经验金币立即属于你！",
-          "target": "充值任意金额即可获得首充大礼包\\\\发光神器、绚丽翅膀、经验金币立即属于你！"
+          "target": "Nạp bất kỳ số tiền nào đều nhận Đại Gói Nạp Đầu\\\\Thần khí phát sáng, Cánh rực rỡ, KN và Vàng lập tức thuộc về bạn!"
         },
         {
           "key": "n2511",
           "occurrence": 1,
           "source": "再充礼包",
-          "target": "再充礼包"
+          "target": "Gói Nạp Lại"
         },
         {
           "key": "i2511",
           "occurrence": 1,
           "source": "只需提取<(c0xFFFFFF00)2000元宝>即可获得再充礼包,极品道具等你拿！",
-          "target": "只需提取<(c0xFFFFFF00)2000元宝>即可获得再充礼包,极品道具等你拿！"
+          "target": "Chỉ cần tách <(c0xFFFFFF00)2000 Nguyên Bảo> là nhận Gói Nạp Lại, đạo cụ cực phẩm đang chờ bạn!"
         },
         {
           "key": "n2512",
           "occurrence": 1,
           "source": "三充礼包",
-          "target": "三充礼包"
+          "target": "Gói Nạp Lần 3"
         },
         {
           "key": "i2512",
           "occurrence": 1,
           "source": "只需提取<(c0xFFFFFF00)3000元宝>即可获得三充礼包,极品道具等你拿！",
-          "target": "只需提取<(c0xFFFFFF00)3000元宝>即可获得三充礼包,极品道具等你拿！"
+          "target": "Chỉ cần tách <(c0xFFFFFF00)3000 Nguyên Bảo> là nhận Gói Nạp Lần 3, đạo cụ cực phẩm đang chờ bạn!"
         },
         {
           "key": "n2513",
           "occurrence": 1,
           "source": "豪充礼包",
-          "target": "豪充礼包"
+          "target": "Gói Nạp Hào"
         },
         {
           "key": "i2513",
           "occurrence": 1,
           "source": "只需提取<(c0xFFFFFF00)5000元宝>即可获得豪充礼包,极品道具等你拿！",
-          "target": "只需提取<(c0xFFFFFF00)5000元宝>即可获得豪充礼包,极品道具等你拿！"
+          "target": "Chỉ cần tách <(c0xFFFFFF00)5000 Nguyên Bảo> là nhận Gói Nạp Hào, đạo cụ cực phẩm đang chờ bạn!"
         },
         {
           "key": "n2514",
           "occurrence": 1,
           "source": "神•血祭戒指",
-          "target": "神•血祭戒指"
+          "target": "Thần • Nhẫn Huyết Tế"
         },
         {
           "key": "i2514",
           "occurrence": 1,
           "source": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造",
-          "target": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造"
+          "target": "Có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> để rèn Thần Trang 5 Chuyển Sinh tại <(c0xFFFF6600)Thánh Khí Chư Thần>"
         },
         {
           "key": "n2515",
