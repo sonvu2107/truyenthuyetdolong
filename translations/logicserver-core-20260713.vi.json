@@ -62096,61 +62096,61 @@
           "key": "n1933",
           "occurrence": 1,
           "source": "紫色魔晶矿石",
-          "target": "紫色魔晶矿石"
+          "target": "Quặng Ma Tinh Tím"
         },
         {
           "key": "i1933",
           "occurrence": 1,
           "source": "只在本活动内使用，作为上交NPC的一个活动道具",
-          "target": "只在本活动内使用，作为上交NPC的一个活动道具"
+          "target": "Chỉ dùng trong hoạt động này, là đạo cụ hoạt động để nộp NPC"
         },
         {
           "key": "n1934",
           "occurrence": 1,
           "source": "橙色魔晶矿石",
-          "target": "橙色魔晶矿石"
+          "target": "Quặng Ma Tinh Cam"
         },
         {
           "key": "i1934",
           "occurrence": 1,
           "source": "只在本活动内使用，作为上交NPC的一个活动道具",
-          "target": "只在本活动内使用，作为上交NPC的一个活动道具"
+          "target": "Chỉ dùng trong hoạt động này, là đạo cụ hoạt động để nộp NPC"
         },
         {
           "key": "n1935",
           "occurrence": 1,
           "source": "经验阁通行证",
-          "target": "经验阁通行证"
+          "target": "Vé Vào Các KN"
         },
         {
           "key": "i1935",
           "occurrence": 1,
           "source": "进入经验阁副本道具\\\\进入经验阁越高层消耗的道具数量就越多\\\\<(c0xFF00FF00)提示:可在商城购买获得>",
-          "target": "进入经验阁副本道具\\\\进入经验阁越高层消耗的道具数量就越多\\\\<(c0xFF00FF00)提示:可在商城购买获得>"
+          "target": "Đạo cụ vào Phó Bản Các KN\\\\Vào tầng Các KN càng cao càng tốn nhiều đạo cụ\\\\<(c0xFF00FF00)Gợi ý: có thể mua tại Cửa Hàng>"
         },
         {
           "key": "n1936",
           "occurrence": 1,
           "source": "挖宝令",
-          "target": "挖宝令"
+          "target": "Lệnh Đào Báu"
         },
         {
           "key": "i1936",
           "occurrence": 1,
           "source": "只在本活动内使用，作为上交NPC的一个活动道具\\\\<(c0xFF00FF00)提示:可在商城购买获得>",
-          "target": "只在本活动内使用，作为上交NPC的一个活动道具\\\\<(c0xFF00FF00)提示:可在商城购买获得>"
+          "target": "Chỉ dùng trong hoạt động này, là đạo cụ hoạt động để nộp NPC\\\\<(c0xFF00FF00)Gợi ý: có thể mua tại Cửa Hàng>"
         },
         {
           "key": "n1937",
           "occurrence": 1,
           "source": "佣兵装备碎片",
-          "target": "佣兵装备碎片"
+          "target": "Mảnh Trang Bị Lính Đánh Thuê"
         },
         {
           "key": "i1937",
           "occurrence": 1,
           "source": "神奇的药水，透露着独特的特殊能量，佣兵装备升级的必须材料",
-          "target": "神奇的药水，透露着独特的特殊能量，佣兵装备升级的必须材料"
+          "target": "Dược thủy thần kỳ mang năng lượng đặc biệt, là vật liệu bắt buộc để nâng cấp Trang Bị Lính Đánh Thuê"
         },
         {
           "key": "n1938",
