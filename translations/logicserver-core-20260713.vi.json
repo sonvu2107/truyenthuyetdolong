@@ -63332,181 +63332,181 @@
           "key": "n2036",
           "occurrence": 1,
           "source": "止血草",
-          "target": "止血草"
+          "target": "Cỏ Cầm Máu"
         },
         {
           "key": "i2036",
           "occurrence": 1,
           "source": "瞬间止血的超级草药",
-          "target": "瞬间止血的超级草药"
+          "target": "Thảo dược siêu cấp cầm máu tức thì"
         },
         {
           "key": "n2037",
           "occurrence": 1,
           "source": "行会日常礼包",
-          "target": "行会日常礼包"
+          "target": "Gói Hằng Ngày Bang Hội"
         },
         {
           "key": "i2037",
           "occurrence": 1,
           "source": "行会日常礼包\\\\<(c0xFF00FF00)提示:行会成员每天可在行会界面领取>",
-          "target": "行会日常礼包\\\\<(c0xFF00FF00)提示:行会成员每天可在行会界面领取>"
+          "target": "Gói Hằng Ngày Bang Hội\\\\<(c0xFF00FF00)Gợi ý: Thành viên Bang Hội có thể nhận mỗi ngày tại giao diện Bang Hội>"
         },
         {
           "key": "n2038",
           "occurrence": 1,
           "source": "会长日常礼包",
-          "target": "会长日常礼包"
+          "target": "Gói Hằng Ngày Hội Trưởng"
         },
         {
           "key": "i2038",
           "occurrence": 1,
           "source": "行会日常礼包\\\\<(c0xFF00FF00)提示:行会会长、副会长每天可在行会界面领取>",
-          "target": "行会日常礼包\\\\<(c0xFF00FF00)提示:行会会长、副会长每天可在行会界面领取>"
+          "target": "Gói Hằng Ngày Bang Hội\\\\<(c0xFF00FF00)Gợi ý: Hội Trưởng và Phó Hội Trưởng có thể nhận mỗi ngày tại giao diện Bang Hội>"
         },
         {
           "key": "n2039",
           "occurrence": 1,
           "source": "黄金行会资源礼包",
-          "target": "黄金行会资源礼包"
+          "target": "Gói Tài Nguyên Bang Hội Vàng"
         },
         {
           "key": "i2039",
           "occurrence": 1,
           "source": "黄金行会资源礼包\\\\<(c0xFF00FF00)提示:由攻城战奖励中的暗金易主宝箱与攻城宝箱中获得>",
-          "target": "黄金行会资源礼包\\\\<(c0xFF00FF00)提示:由攻城战奖励中的暗金易主宝箱与攻城宝箱中获得>"
+          "target": "Gói Tài Nguyên Bang Hội Vàng\\\\<(c0xFF00FF00)Gợi ý: Nhận từ Rương Đổi Chủ Ám Kim và Rương Công Thành trong thưởng Công Thành>"
         },
         {
           "key": "n2040",
           "occurrence": 1,
           "source": "白银行会资源礼包",
-          "target": "白银行会资源礼包"
+          "target": "Gói Tài Nguyên Bang Hội Bạc"
         },
         {
           "key": "i2040",
           "occurrence": 1,
           "source": "白银行会资源礼包\\\\<(c0xFF00FF00)提示:由攻城战奖励中的暗金易主宝箱与攻城宝箱中获得>",
-          "target": "白银行会资源礼包\\\\<(c0xFF00FF00)提示:由攻城战奖励中的暗金易主宝箱与攻城宝箱中获得>"
+          "target": "Gói Tài Nguyên Bang Hội Bạc\\\\<(c0xFF00FF00)Gợi ý: Nhận từ Rương Đổi Chủ Ám Kim và Rương Công Thành trong thưởng Công Thành>"
         },
         {
           "key": "n2041",
           "occurrence": 1,
           "source": "青铜行会资源礼包",
-          "target": "青铜行会资源礼包"
+          "target": "Gói Tài Nguyên Bang Hội Đồng"
         },
         {
           "key": "i2041",
           "occurrence": 1,
           "source": "青铜行会资源礼包\\\\<(c0xFF00FF00)提示:由攻城战奖励中的暗金易主宝箱与攻城宝箱中获得>",
-          "target": "青铜行会资源礼包\\\\<(c0xFF00FF00)提示:由攻城战奖励中的暗金易主宝箱与攻城宝箱中获得>"
+          "target": "Gói Tài Nguyên Bang Hội Đồng\\\\<(c0xFF00FF00)Gợi ý: Nhận từ Rương Đổi Chủ Ám Kim và Rương Công Thành trong thưởng Công Thành>"
         },
         {
           "key": "n2042",
           "occurrence": 1,
           "source": "普通感恩礼包",
-          "target": "普通感恩礼包"
+          "target": "Gói Cảm Ân Thường"
         },
         {
           "key": "i2042",
           "occurrence": 1,
           "source": "普通感恩礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>",
-          "target": "普通感恩礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>"
+          "target": "Gói Cảm Ân Thường\\\\<(c0xFF00FF00)Gợi ý: Có thể mua trong Phó Bản Sư Đồ>"
         },
         {
           "key": "n2043",
           "occurrence": 1,
           "source": "尊贵感恩礼包",
-          "target": "尊贵感恩礼包"
+          "target": "Gói Cảm Ân Quý"
         },
         {
           "key": "i2043",
           "occurrence": 1,
           "source": "尊贵感恩礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>",
-          "target": "尊贵感恩礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>"
+          "target": "Gói Cảm Ân Quý\\\\<(c0xFF00FF00)Gợi ý: Có thể mua trong Phó Bản Sư Đồ>"
         },
         {
           "key": "n2044",
           "occurrence": 1,
           "source": "恩重如山感恩礼包",
-          "target": "恩重如山感恩礼包"
+          "target": "Gói Cảm Ân Ân Nặng Như Núi"
         },
         {
           "key": "i2044",
           "occurrence": 1,
           "source": "恩重如山感恩礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>",
-          "target": "恩重如山感恩礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>"
+          "target": "Gói Cảm Ân Ân Nặng Như Núi\\\\<(c0xFF00FF00)Gợi ý: Có thể mua trong Phó Bản Sư Đồ>"
         },
         {
           "key": "n2045",
           "occurrence": 1,
           "source": "普通爱徒礼包",
-          "target": "普通爱徒礼包"
+          "target": "Gói Ái Đồ Thường"
         },
         {
           "key": "i2045",
           "occurrence": 1,
           "source": "普通爱徒礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>",
-          "target": "普通爱徒礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>"
+          "target": "Gói Ái Đồ Thường\\\\<(c0xFF00FF00)Gợi ý: Có thể mua trong Phó Bản Sư Đồ>"
         },
         {
           "key": "n2046",
           "occurrence": 1,
           "source": "尊贵爱徒礼包",
-          "target": "尊贵爱徒礼包"
+          "target": "Gói Ái Đồ Quý"
         },
         {
           "key": "i2046",
           "occurrence": 1,
           "source": "尊贵爱徒礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>",
-          "target": "尊贵爱徒礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>"
+          "target": "Gói Ái Đồ Quý\\\\<(c0xFF00FF00)Gợi ý: Có thể mua trong Phó Bản Sư Đồ>"
         },
         {
           "key": "n2047",
           "occurrence": 1,
           "source": "师徒情深爱徒礼包",
-          "target": "师徒情深爱徒礼包"
+          "target": "Gói Ái Đồ Thắm Tình Sư Đồ"
         },
         {
           "key": "i2047",
           "occurrence": 1,
           "source": "师徒情深爱徒礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>",
-          "target": "师徒情深爱徒礼包\\\\<(c0xFF00FF00)提示:可在师徒副本中购买>"
+          "target": "Gói Ái Đồ Thắm Tình Sư Đồ\\\\<(c0xFF00FF00)Gợi ý: Có thể mua trong Phó Bản Sư Đồ>"
         },
         {
           "key": "n2048",
           "occurrence": 1,
           "source": "易主宝箱",
-          "target": "易主宝箱"
+          "target": "Rương Đổi Chủ"
         },
         {
           "key": "i2048",
           "occurrence": 1,
           "source": "攻城易主宝箱\\\\<(c0xFF00FF00)提示:攻城易主后可获得>",
-          "target": "攻城易主宝箱\\\\<(c0xFF00FF00)提示:攻城易主后可获得>"
+          "target": "Rương Đổi Chủ Công Thành\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận sau khi Công Thành đổi chủ>"
         },
         {
           "key": "n2049",
           "occurrence": 1,
           "source": "暗金易主宝箱",
-          "target": "暗金易主宝箱"
+          "target": "Rương Đổi Chủ Ám Kim"
         },
         {
           "key": "i2049",
           "occurrence": 1,
           "source": "攻城易主宝箱\\\\<(c0xFF00FF00)提示:攻城易主后、并守护十分钟可获得>",
-          "target": "攻城易主宝箱\\\\<(c0xFF00FF00)提示:攻城易主后、并守护十分钟可获得>"
+          "target": "Rương Đổi Chủ Công Thành\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận sau khi Công Thành đổi chủ và phòng thủ 10 phút>"
         },
         {
           "key": "n2050",
           "occurrence": 1,
           "source": "攻城宝箱",
-          "target": "攻城宝箱"
+          "target": "Rương Công Thành"
         },
         {
           "key": "i2050",
           "occurrence": 1,
           "source": "攻城宝箱\\\\包含<(c0xFF00FF00)提示:攻城结束后可获得>",
-          "target": "攻城宝箱\\\\包含<(c0xFF00FF00)提示:攻城结束后可获得>"
+          "target": "Rương Công Thành\\\\Bao gồm <(c0xFF00FF00)Gợi ý: Có thể nhận sau khi Công Thành kết thúc>"
         },
         {
           "key": "n2051",
