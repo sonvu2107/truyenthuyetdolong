@@ -47540,43 +47540,43 @@
           "key": "n720",
           "occurrence": 1,
           "source": "活跃礼盒",
-          "target": "活跃礼盒"
+          "target": "Hộp Quà Năng Động"
         },
         {
           "key": "i720",
           "occurrence": 1,
           "source": "活跃奖励礼盒\\\\双击可以随机抽取一份神秘的奖励\\\\有一定几率抽到坐骑直升1级的<(c0xFFFFFF00)坐骑升一星>",
-          "target": "活跃奖励礼盒\\\\双击可以随机抽取一份神秘的奖励\\\\有一定几率抽到坐骑直升1级的<(c0xFFFFFF00)坐骑升一星>"
+          "target": "Hộp Quà Năng Động\\\\Dùng để nhận ngẫu nhiên 1 phần quà bí ẩn\\\\Có xác suất nhận <(c0xFFFFFF00)Thú Cưỡi Tăng 1 Sao> giúp Thú Cưỡi lên 1 cấp"
         },
         {
           "key": "n721",
           "occurrence": 1,
           "source": "11阶充值礼包",
-          "target": "11阶充值礼包"
+          "target": "Gói Nạp Bậc 11"
         },
         {
           "key": "i721",
           "occurrence": 1,
           "source": "只需<(c0xFFFFFF00)累积提取元宝>达到11阶\\\\<(c0xFFFFFF00)双击使用>即可拥有大量珍贵道具",
-          "target": "只需<(c0xFFFFFF00)累积提取元宝>达到11阶\\\\<(c0xFFFFFF00)双击使用>即可拥有大量珍贵道具"
+          "target": "Chỉ cần <(c0xFFFFFF00)Nạp tích lũy> đạt Bậc 11\\\\<(c0xFFFFFF00)Dùng> để nhận nhiều vật phẩm quý"
         },
         {
           "key": "n722",
           "occurrence": 1,
           "source": "12阶充值礼包",
-          "target": "12阶充值礼包"
+          "target": "Gói Nạp Bậc 12"
         },
         {
           "key": "i722",
           "occurrence": 1,
           "source": "只需<(c0xFFFFFF00)累积提取元宝>达到12阶\\\\<(c0xFFFFFF00)双击使用>即可拥有大量珍贵道具",
-          "target": "只需<(c0xFFFFFF00)累积提取元宝>达到12阶\\\\<(c0xFFFFFF00)双击使用>即可拥有大量珍贵道具"
+          "target": "Chỉ cần <(c0xFFFFFF00)Nạp tích lũy> đạt Bậc 12\\\\<(c0xFFFFFF00)Dùng> để nhận nhiều vật phẩm quý"
         },
         {
           "key": "n723",
           "occurrence": 1,
           "source": "光灵碎片包(废弃)",
-          "target": "光灵碎片包(废弃)"
+          "target": "Gói Mảnh Quang Linh (Bỏ)"
         },
         {
           "key": "i723",
@@ -47588,7 +47588,7 @@
           "key": "n724",
           "occurrence": 1,
           "source": "光灵碎片盒(废弃)",
-          "target": "光灵碎片盒(废弃)"
+          "target": "Hộp Mảnh Quang Linh (Bỏ)"
         },
         {
           "key": "i724",
@@ -47600,7 +47600,7 @@
           "key": "n725",
           "occurrence": 1,
           "source": "暗灵碎片包(废弃)",
-          "target": "暗灵碎片包(废弃)"
+          "target": "Gói Mảnh Ám Linh (Bỏ)"
         },
         {
           "key": "i725",
@@ -47612,7 +47612,7 @@
           "key": "n726",
           "occurrence": 1,
           "source": "暗灵碎片盒(废弃)",
-          "target": "暗灵碎片盒(废弃)"
+          "target": "Hộp Mảnh Ám Linh (Bỏ)"
         },
         {
           "key": "i726",
@@ -47624,7 +47624,7 @@
           "key": "n727",
           "occurrence": 1,
           "source": "新手铁镐(废弃)",
-          "target": "新手铁镐(废弃)"
+          "target": "Cuốc Sắt Tân Thủ (Bỏ)"
         },
         {
           "key": "i727",
@@ -47636,7 +47636,7 @@
           "key": "n728",
           "occurrence": 1,
           "source": "老手铁镐(废弃)",
-          "target": "老手铁镐(废弃)"
+          "target": "Cuốc Sắt Lão Luyện (Bỏ)"
         },
         {
           "key": "i728",
@@ -47648,19 +47648,19 @@
           "key": "n729",
           "occurrence": 1,
           "source": "让你升一级",
-          "target": "让你升一级"
+          "target": "Lên 1 Cấp"
         },
         {
           "key": "i729",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)顶级升级利器>\\\\双击使用\\\\不论您当前等级是多少,都会将立刻升一级!\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>",
-          "target": "<(c0xFFFFFF00)顶级升级利器>\\\\双击使用\\\\不论您当前等级是多少,都会将立刻升一级!\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)等级越高,使用的效果越佳.>"
+          "target": "<(c0xFFFFFF00)Vật phẩm lên cấp cực phẩm>\\\\Dùng\\\\Dù cấp hiện tại bao nhiêu, sẽ lên ngay 1 cấp!\\\\<(c0xFF00FF00)Gợi ý: đừng dùng quá sớm!>\\\\<(c0xFF00FF00)Cấp càng cao, hiệu quả càng tốt.>"
         },
         {
           "key": "n730",
           "occurrence": 1,
           "source": "赤铜矿(废弃)",
-          "target": "赤铜矿(废弃)"
+          "target": "Quặng Đồng Đỏ (Bỏ)"
         },
         {
           "key": "i730",
@@ -47672,19 +47672,19 @@
           "key": "n731",
           "occurrence": 1,
           "source": "马鞭",
-          "target": "马鞭"
+          "target": "Roi Ngựa"
         },
         {
           "key": "i731",
           "occurrence": 1,
           "source": "辅助道具\\\\在坐骑系统中能够使用一次元宝提升功能\\\\<(c0xFFFFFF00)双击物品>可打开坐骑界面\\\\<(c0xFF00FF00)提示:可通过商城购买、竞速赛马活动获得>",
-          "target": "辅助道具\\\\在坐骑系统中能够使用一次元宝提升功能\\\\<(c0xFFFFFF00)双击物品>可打开坐骑界面\\\\<(c0xFF00FF00)提示:可通过商城购买、竞速赛马活动获得>"
+          "target": "Vật Phẩm Hỗ Trợ\\\\Dùng 1 lần nâng Thú Cưỡi bằng Nguyên Bảo\\\\<(c0xFFFFFF00)Dùng> để mở giao diện Thú Cưỡi\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop, nhận từ Đua Ngựa>"
         },
         {
           "key": "n732",
           "occurrence": 1,
           "source": "骨马碎片(废弃)",
-          "target": "骨马碎片(废弃)"
+          "target": "Mảnh Ngựa Xương (Bỏ)"
         },
         {
           "key": "i732",
@@ -47696,19 +47696,19 @@
           "key": "n733",
           "occurrence": 1,
           "source": "黑暗破坏神骑术【3天】",
-          "target": "黑暗破坏神骑术【3天】"
+          "target": "Kỹ Năng Cưỡi Ma Thần Hắc Ám [3 Ngày]"
         },
         {
           "key": "i733",
           "occurrence": 1,
           "source": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大道术攻击力+80",
-          "target": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大道术攻击力+80"
+          "target": "Mãnh thú thượng cổ, vô cùng hung mãnh\\\\Dùng\\\\Nhận thuộc tính\\\\Công Vật Lý Tối Đa +80\\\\Công Phép Tối Đa +80\\\\Công Đạo Tối Đa +80"
         },
         {
           "key": "n734",
           "occurrence": 1,
           "source": "烈焰龙驹灵魄【10天】(废弃)",
-          "target": "烈焰龙驹灵魄【10天】(废弃)"
+          "target": "Linh Phách Long Câu Liệt Diễm [10 Ngày] (Bỏ)"
         },
         {
           "key": "i734",
@@ -47720,31 +47720,31 @@
           "key": "n735",
           "occurrence": 1,
           "source": "远古猛犸象【3天】",
-          "target": "远古猛犸象【3天】"
+          "target": "Voi Ma Mút Cổ Đại [3 Ngày]"
         },
         {
           "key": "i735",
           "occurrence": 1,
           "source": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大道术攻击力+80",
-          "target": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大道术攻击力+80"
+          "target": "Mãnh thú thượng cổ, vô cùng hung mãnh\\\\Dùng\\\\Nhận thuộc tính\\\\Công Vật Lý Tối Đa +80\\\\Công Phép Tối Đa +80\\\\Công Đạo Tối Đa +80"
         },
         {
           "key": "n736",
           "occurrence": 1,
           "source": "城主专属坐骑【7天】",
-          "target": "城主专属坐骑【7天】"
+          "target": "Thú Cưỡi Riêng Thành Chủ [7 Ngày]"
         },
         {
           "key": "i736",
           "occurrence": 1,
           "source": "城主专属坐骑\\\\上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大精神攻击力+120\\\\幸运+1",
-          "target": "城主专属坐骑\\\\上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大精神攻击力+120\\\\幸运+1"
+          "target": "Thú Cưỡi riêng của Thành Chủ\\\\Mãnh thú thượng cổ, vô cùng hung mãnh\\\\Dùng\\\\Nhận thuộc tính\\\\Công Vật Lý Tối Đa +120\\\\Công Phép Tối Đa +120\\\\Công Tinh Thần Tối Đa +120\\\\May Mắn +1"
         },
         {
           "key": "n737",
           "occurrence": 1,
           "source": "机甲铜狮灵魄【7天】(废弃)",
-          "target": "机甲铜狮灵魄【7天】(废弃)"
+          "target": "Linh Phách Sư Tử Đồng Cơ Giáp [7 Ngày] (Bỏ)"
         },
         {
           "key": "i737",
@@ -47756,19 +47756,19 @@
           "key": "n738",
           "occurrence": 1,
           "source": "帝王雷龙【7天】",
-          "target": "帝王雷龙【7天】"
+          "target": "Lôi Long Đế Vương [7 Ngày]"
         },
         {
           "key": "i738",
           "occurrence": 1,
           "source": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大精神攻击力+80",
-          "target": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大精神攻击力+80"
+          "target": "Mãnh thú thượng cổ, vô cùng hung mãnh\\\\Dùng\\\\Nhận thuộc tính\\\\Công Vật Lý Tối Đa +80\\\\Công Phép Tối Đa +80\\\\Công Tinh Thần Tối Đa +80"
         },
         {
           "key": "n739",
           "occurrence": 1,
           "source": "幽灵骨马灵魄【7天】(废弃)",
-          "target": "幽灵骨马灵魄【7天】(废弃)"
+          "target": "Linh Phách Ngựa Xương U Linh [7 Ngày] (Bỏ)"
         },
         {
           "key": "i739",
@@ -47780,7 +47780,7 @@
           "key": "n740",
           "occurrence": 1,
           "source": "铜块(废弃)",
-          "target": "铜块(废弃)"
+          "target": "Khối Đồng (Bỏ)"
         },
         {
           "key": "i740",
@@ -47792,7 +47792,7 @@
           "key": "n741",
           "occurrence": 1,
           "source": "银块(废弃)",
-          "target": "银块(废弃)"
+          "target": "Khối Bạc (Bỏ)"
         },
         {
           "key": "i741",
@@ -47804,7 +47804,7 @@
           "key": "n742",
           "occurrence": 1,
           "source": "金块(废弃)",
-          "target": "金块(废弃)"
+          "target": "Khối Vàng (Bỏ)"
         },
         {
           "key": "i742",
@@ -47816,25 +47816,25 @@
           "key": "n743",
           "occurrence": 1,
           "source": "护车令",
-          "target": "护车令"
+          "target": "Lệnh Hộ Tiêu"
         },
         {
           "key": "i743",
           "occurrence": 1,
           "source": "辅助道具\\\\可让你镖车的收益不会因为被劫而损失",
-          "target": "辅助道具\\\\可让你镖车的收益不会因为被劫而损失"
+          "target": "Vật Phẩm Hỗ Trợ\\\\Giữ nguyên lợi tức xe tiêu khi bị cướp"
         },
         {
           "key": "n744",
           "occurrence": 1,
           "source": "召唤兽升级玉",
-          "target": "召唤兽升级玉"
+          "target": "Ngọc Nâng Cấp Triệu Hồi Thú"
         },
         {
           "key": "i744",
           "occurrence": 1,
           "source": "双击使用\\\\让道士的召唤兽等级立即提升至<(c0xFF00FFFF)7级>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\让道士的召唤兽等级立即提升至<(c0xFF00FFFF)7级>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Nâng Triệu Hồi Thú của Đạo Sĩ lên ngay <(c0xFF00FFFF)Cấp 7>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n745",
