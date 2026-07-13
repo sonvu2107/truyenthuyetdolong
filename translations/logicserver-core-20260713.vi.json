@@ -45290,13 +45290,13 @@
           "key": "i532",
           "occurrence": 1,
           "source": "打BOSS!爆好装备!\\\\可以用它召唤BOSS.",
-          "target": "打BOSS!爆好装备!\\\\可以用它召唤BOSS."
+          "target": "Đánh BOSS, nổ trang bị xịn!\\\\Dùng để triệu hồi BOSS."
         },
         {
           "key": "n533",
           "occurrence": 1,
           "source": "天下第二礼包(废弃)",
-          "target": "天下第二礼包(废弃)"
+          "target": "Quà Hạng 2 (Bỏ)"
         },
         {
           "key": "i533",
@@ -45308,7 +45308,7 @@
           "key": "n534",
           "occurrence": 1,
           "source": "天下第三礼包(废弃)",
-          "target": "天下第三礼包(废弃)"
+          "target": "Quà Hạng 3 (Bỏ)"
         },
         {
           "key": "i534",
@@ -45320,7 +45320,7 @@
           "key": "n535",
           "occurrence": 1,
           "source": "天下第四礼包(废弃)",
-          "target": "天下第四礼包(废弃)"
+          "target": "Quà Hạng 4 (Bỏ)"
         },
         {
           "key": "i535",
@@ -45332,7 +45332,7 @@
           "key": "n536",
           "occurrence": 1,
           "source": "天下第五礼包(废弃)",
-          "target": "天下第五礼包(废弃)"
+          "target": "Quà Hạng 5 (Bỏ)"
         },
         {
           "key": "i536",
@@ -45344,7 +45344,7 @@
           "key": "n537",
           "occurrence": 1,
           "source": "天下第六礼包(废弃)",
-          "target": "天下第六礼包(废弃)"
+          "target": "Quà Hạng 6 (Bỏ)"
         },
         {
           "key": "i537",
@@ -45356,7 +45356,7 @@
           "key": "n538",
           "occurrence": 1,
           "source": "天下第七礼包(废弃)",
-          "target": "天下第七礼包(废弃)"
+          "target": "Quà Hạng 7 (Bỏ)"
         },
         {
           "key": "i538",
@@ -45368,7 +45368,7 @@
           "key": "n539",
           "occurrence": 1,
           "source": "天下第八礼包(废弃)",
-          "target": "天下第八礼包(废弃)"
+          "target": "Quà Hạng 8 (Bỏ)"
         },
         {
           "key": "i539",
@@ -45380,43 +45380,43 @@
           "key": "n540",
           "occurrence": 1,
           "source": "10级新手包",
-          "target": "10级新手包"
+          "target": "Gói Tân Thủ Cấp 10"
         },
         {
           "key": "i540",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)10级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)10级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 10> để nhận\\\\<(c0xFF00FF00)Gợi ý: nhận ở Quà Cấp trong Phúc Lợi>"
         },
         {
           "key": "n541",
           "occurrence": 1,
           "source": "20级新手包",
-          "target": "20级新手包"
+          "target": "Gói Tân Thủ Cấp 20"
         },
         {
           "key": "i541",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)20级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)20级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 20> để nhận\\\\<(c0xFF00FF00)Gợi ý: nhận ở Quà Cấp trong Phúc Lợi>"
         },
         {
           "key": "n542",
           "occurrence": 1,
           "source": "30级新手包",
-          "target": "30级新手包"
+          "target": "Gói Tân Thủ Cấp 30"
         },
         {
           "key": "i542",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)30级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)30级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 30> để nhận\\\\<(c0xFF00FF00)Gợi ý: nhận ở Quà Cấp trong Phúc Lợi>"
         },
         {
           "key": "n543",
           "occurrence": 1,
           "source": "35级新手包(废弃)",
-          "target": "35级新手包(废弃)"
+          "target": "Gói Tân Thủ Cấp 35 (Bỏ)"
         },
         {
           "key": "i543",
@@ -45428,133 +45428,133 @@
           "key": "n544",
           "occurrence": 1,
           "source": "40级新手包",
-          "target": "40级新手包"
+          "target": "Gói Tân Thủ Cấp 40"
         },
         {
           "key": "i544",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 40> để nhận\\\\<(c0xFF00FF00)Gợi ý: nhận ở Quà Cấp trong Phúc Lợi>"
         },
         {
           "key": "n545",
           "occurrence": 1,
           "source": "背包扩展卷轴",
-          "target": "背包扩展卷轴"
+          "target": "Cuộn Mở Rộng Túi"
         },
         {
           "key": "i545",
           "occurrence": 1,
           "source": "辅助道具\\\\可以用来扩展背包空间的神奇卷轴\\\\打开背包界面(快捷键:<(c0xFF00FFFF)B>)点击未开启的格子即可使用",
-          "target": "辅助道具\\\\可以用来扩展背包空间的神奇卷轴\\\\打开背包界面(快捷键:<(c0xFF00FFFF)B>)点击未开启的格子即可使用"
+          "target": "Vật Phẩm Hỗ Trợ\\\\Cuộn thần kỳ giúp mở rộng ô túi\\\\Mở Túi (phím tắt: <(c0xFF00FFFF)B>), bấm ô chưa mở để dùng"
         },
         {
           "key": "n546",
           "occurrence": 1,
           "source": "火焰戒指",
-          "target": "火焰戒指"
+          "target": "Nhẫn Hỏa Diễm"
         },
         {
           "key": "i546",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,即学会 <(c0xFFFF6600)火焰技能>\\\\技能效果 对目标及其范围内的敌人造成大量伤害！",
-          "target": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,即学会 <(c0xFFFF6600)火焰技能>\\\\技能效果 对目标及其范围内的敌人造成大量伤害！"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn đỉnh cấp>\\\\Đeo vào học <(c0xFFFF6600)Kỹ Năng Hỏa Diễm>\\\\Hiệu quả: Gây sát thương lớn cho mục tiêu và vùng xung quanh!"
         },
         {
           "key": "n547",
           "occurrence": 1,
           "source": "防御戒指",
-          "target": "防御戒指"
+          "target": "Nhẫn Phòng Thủ"
         },
         {
           "key": "i547",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,所受伤害减免<(c0xFFFF6600) 10%>",
-          "target": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,所受伤害减免<(c0xFFFF6600) 10%>"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn đỉnh cấp>\\\\Đeo vào giảm <(c0xFFFF6600)10%> sát thương nhận vào"
         },
         {
           "key": "n548",
           "occurrence": 1,
           "source": "传送戒指",
-          "target": "传送戒指"
+          "target": "Nhẫn Dịch Chuyển"
         },
         {
           "key": "i548",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,即学会 <(c0xFFFF6600)传送技能>\\\\技能效果 可以瞬间移动到目标地点！",
-          "target": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,即学会 <(c0xFFFF6600)传送技能>\\\\技能效果 可以瞬间移动到目标地点！"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn đỉnh cấp>\\\\Đeo vào học <(c0xFFFF6600)Kỹ Năng Dịch Chuyển>\\\\Hiệu quả: Dịch chuyển tức thì đến vị trí chỉ định!"
         },
         {
           "key": "n549",
           "occurrence": 1,
           "source": "麻痹戒指",
-          "target": "麻痹戒指"
+          "target": "Nhẫn Tê Liệt"
         },
         {
           "key": "i549",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)麻痹戒指> 可以合成一个 <(c0xFFFF6600)2阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)麻痹戒指> 可以合成一个 <(c0xFFFF6600)2阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Đòn vật lý có xác suất <(c0xFFFF6600)Tê Liệt 5 giây>\\\\Hiệu ứng Tê Liệt cộng dồn; tăng bậc tăng tỷ lệ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Tê Liệt> hợp thành <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 2>, tăng mạnh sức mạnh\\\\Hợp thành tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n550",
           "occurrence": 1,
           "source": "护体戒指",
-          "target": "护体戒指"
+          "target": "Nhẫn Hộ Thể"
         },
         {
           "key": "i550",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,受到伤害时将会由 <(c0xFFFF6600)魔法值来抵消伤害>\\\\多个护体效果可进行叠加,升阶增加护体比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)护体戒指> 可以合成一个 <(c0xFFFF6600)2阶护体戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,受到伤害时将会由 <(c0xFFFF6600)魔法值来抵消伤害>\\\\多个护体效果可进行叠加,升阶增加护体比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)护体戒指> 可以合成一个 <(c0xFFFF6600)2阶护体戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Khi nhận sát thương, <(c0xFFFF6600)MP> sẽ hấp thụ sát thương\\\\Hiệu ứng Hộ Thể cộng dồn; tăng bậc tăng tỷ lệ hấp thụ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Hộ Thể> hợp thành <(c0xFFFF6600)Nhẫn Hộ Thể Bậc 2>, tăng mạnh sức mạnh\\\\Hợp thành tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n551",
           "occurrence": 1,
           "source": "复活戒指",
-          "target": "复活戒指"
+          "target": "Nhẫn Hồi Sinh"
         },
         {
           "key": "i551",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\多个回血比率效果可进行叠加,升阶增加回血比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)复活戒指> 可以合成一个 <(c0xFFFF6600)2阶复活戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\多个回血比率效果可进行叠加,升阶增加回血比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)复活戒指> 可以合成一个 <(c0xFFFF6600)2阶复活戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Chết sẽ <(c0xFFFF6600)Hồi Sinh ngay>, hồi chiêu 60 giây\\\\Hiệu ứng hồi HP cộng dồn; tăng bậc tăng tỷ lệ hồi HP\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Hồi Sinh> hợp thành <(c0xFFFF6600)Nhẫn Hồi Sinh Bậc 2>, tăng mạnh sức mạnh\\\\Hợp thành tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n552",
           "occurrence": 1,
           "source": "重生戒指",
-          "target": "重生戒指"
+          "target": "Nhẫn Tái Sinh"
         },
         {
           "key": "i552",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内最顶级的特殊戒指>\\\\死亡后可以马上复活,冷却时间<(c0xFF00FFFF)5分钟>,生命值,魔法值都回满本装备可以激活任意等级的宝石",
-          "target": "<(c0x00d57140)游戏内最顶级的特殊戒指>\\\\死亡后可以马上复活,冷却时间<(c0xFF00FFFF)5分钟>,生命值,魔法值都回满本装备可以激活任意等级的宝石"
+          "target": "<(c0x00d57140)Nhẫn đặc biệt mạnh nhất game>\\\\Chết sẽ Hồi Sinh ngay, hồi chiêu <(c0xFF00FFFF)5 phút>; HP và MP hồi đầy. Trang bị này kích hoạt mọi cấp Đá Quý"
         },
         {
           "key": "n553",
           "occurrence": 1,
           "source": "隐身戒指",
-          "target": "隐身戒指"
+          "target": "Nhẫn Tàng Hình"
         },
         {
           "key": "i553",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,即学会 <(c0xFFFF6600)隐身技能>\\\\技能效果其他玩家与普通怪物无法看见你！",
-          "target": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,即学会 <(c0xFFFF6600)隐身技能>\\\\技能效果其他玩家与普通怪物无法看见你！"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn đỉnh cấp>\\\\Đeo vào học <(c0xFFFF6600)Kỹ Năng Tàng Hình>\\\\Hiệu quả: Người chơi và quái thường không thể thấy bạn!"
         },
         {
           "key": "n554",
           "occurrence": 1,
           "source": "神力戒指",
-          "target": "神力戒指"
+          "target": "Nhẫn Thần Lực"
         },
         {
           "key": "i554",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,所有伤害增加<(c0xFFFF6600) 10%>",
-          "target": "<(c0x00ff0066)顶级神戒之一>\\\\ 穿戴后,所有伤害增加<(c0xFFFF6600) 10%>"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn đỉnh cấp>\\\\Đeo vào tăng <(c0xFFFF6600)10%> toàn bộ sát thương"
         },
         {
           "key": "n555",
