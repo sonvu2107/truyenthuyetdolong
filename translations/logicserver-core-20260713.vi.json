@@ -37660,61 +37660,61 @@
           "key": "promTlk511",
           "occurrence": 1,
           "source": "我之前在城外实验魔法的时候,意外发现堕落羊人视乎也拥有人类的战技技能，很是好奇,你能去帮我探究一下吗?\\\\",
-          "target": "我之前在城外实验魔法的时候,意外发现堕落羊人视乎也拥有人类的战技技能，很是好奇,你能去帮我探究一下吗?\\\\"
+      "target": "Khi thử ma pháp ngoài thành, ta phát hiện Dê Nhân Sa Ngã có vẻ cũng biết chiến kỹ Nhân Tộc. Ngươi điều tra giúp ta được chứ?\\\\"
         },
         {
           "key": "promTlk5111",
           "occurrence": 1,
           "source": "既生牛，何生羊?前面有好多羊人!都是阿格硫斯流传的种族,金羊毛的故事你听过没?算了,说了你也不知道,帮我消灭它们吧!\\\\",
-          "target": "既生牛，何生羊?前面有好多羊人!都是阿格硫斯流传的种族,金羊毛的故事你听过没?算了,说了你也不知道,帮我消灭它们吧!\\\\"
+      "target": "Đã có Bò sao còn có Dê? Phía trước đầy Dê Nhân, hậu duệ Argus. Chuyện Lông Cừu Vàng nghe chưa? Thôi, giúp ta diệt chúng!\\\\"
         },
         {
           "key": "promTlk5121",
           "occurrence": 1,
           "source": "好了,奶牛到此为止,以后你可以去圣城参加真正的奶牛关副本,你现在去跟那个荒野守卫说,让他不要一天到晚的监视我,不用担心.\\\\",
-          "target": "好了,奶牛到此为止,以后你可以去圣城参加真正的奶牛关副本,你现在去跟那个荒野守卫说,让他不要一天到晚的监视我,不用担心.\\\\"
+      "target": "Bò đến đây thôi. Sau này hãy vào Cửa Ải Bò thật ở Thánh Thành. Bảo Vệ Binh Hoang Dã đừng theo dõi ta cả ngày, không cần lo.\\\\"
         },
         {
           "key": "promTlk5131",
           "occurrence": 1,
           "source": "前面有很多食尸虫的虫卵,它们成长后会跑到地面上大开杀戒!你去替我收集它们的卵.我会集中处理掉.\\\\",
-          "target": "前面有很多食尸虫的虫卵,它们成长后会跑到地面上大开杀戒!你去替我收集它们的卵.我会集中处理掉.\\\\"
+      "target": "Phía trước có nhiều trứng Trùng Ăn Xác, lớn lên sẽ tàn sát trên mặt đất. Hãy thu thập trứng, ta sẽ xử lý chúng.\\\\"
         },
         {
           "key": "promTlk5141",
           "occurrence": 1,
           "source": "希望你能前往协助我调查!周围的沉沦魔巫师扰乱了我的注意力,你去消灭它们!\\\\",
-          "target": "希望你能前往协助我调查!周围的沉沦魔巫师扰乱了我的注意力,你去消灭它们!\\\\"
+      "target": "Hãy đến hỗ trợ ta điều tra! Pháp Sư Trầm Luân Ma quanh đây làm ta phân tâm, hãy diệt chúng!\\\\"
         },
         {
           "key": "promTlk5151",
           "occurrence": 1,
           "source": "荒野有太多的污染怪侵蚀自然,吞噬生命,必须要清除它们才能安心.\\\\",
-          "target": "荒野有太多的污染怪侵蚀自然,吞噬生命,必须要清除它们才能安心.\\\\"
+      "target": "Hoang Dã có quá nhiều Quái Ô Nhiễm xâm hại thiên nhiên, nuốt chửng sự sống. Phải dọn chúng mới yên tâm.\\\\"
         },
         {
           "key": "promTlk5161",
           "occurrence": 1,
           "source": "这片荒野以前是通往黑暗深林的地方,后来灵魂之石的衰弱影响了空间的稳固,场景发生了很大的变化.\\\\",
-          "target": "这片荒野以前是通往黑暗深林的地方,后来灵魂之石的衰弱影响了空间的稳固,场景发生了很大的变化.\\\\"
+      "target": "Hoang Dã này từng dẫn đến Rừng Hắc Ám. Hồn Thạch suy yếu làm không gian bất ổn, cảnh vật đã thay đổi nhiều.\\\\"
         },
         {
           "key": "promTlk5171",
           "occurrence": 1,
           "source": "感应到了你的灵魂能力!黑暗中的等待还是迎来了曙光,现在的毁灭王座仍然残留着迪亚波罗魔神的魔力,只有你的灵魂之力能够免疫它的伤害,你进去消灭掉魔神残余的邪恶之力吧!\\\\",
-          "target": "感应到了你的灵魂能力!黑暗中的等待还是迎来了曙光,现在的毁灭王座仍然残留着迪亚波罗魔神的魔力,只有你的灵魂之力能够免疫它的伤害,你进去消灭掉魔神残余的邪恶之力吧!\\\\"
+      "target": "Ta cảm nhận Linh Hồn Lực của ngươi! Ngai Hủy Diệt còn ma lực Diablo, chỉ ngươi miễn nhiễm được. Hãy vào diệt tà lực còn sót lại!\\\\"
         },
         {
           "key": "promTlk5181",
           "occurrence": 1,
           "source": "前面有一批精英怪,别看它等级低就小看它哦!你去消灭它们吧!\\\\",
-          "target": "前面有一批精英怪,别看它等级低就小看它哦!你去消灭它们吧!\\\\"
+      "target": "Phía trước có quái Tinh Anh. Đừng thấy cấp thấp mà coi thường, hãy diệt chúng!\\\\"
         },
         {
           "key": "promTlk5191",
           "occurrence": 1,
           "source": "石块荒野有一座遗忘之塔,里面有邪恶女伯爵!附近那些的堕落罗格就是她的手下,你前去讨伐她们吧!\\\\",
-          "target": "石块荒野有一座遗忘之塔,里面有邪恶女伯爵!附近那些的堕落罗格就是她的手下,你前去讨伐她们吧!\\\\"
+      "target": "Hoang Dã Đá có Tháp Lãng Quên với Nữ Bá Tước Tà Ác. Rogue Sa Ngã quanh đó là tay sai, hãy đến thảo phạt chúng!\\\\"
         },
         {
           "key": "promTlk5201",
