@@ -70628,97 +70628,97 @@
           "key": "n2644",
           "occurrence": 1,
           "source": "神魂晶石礼包(小)",
-          "target": "神魂晶石礼包(小)"
+          "target": "Gói Tinh Thạch Thần Hồn (Nhỏ)"
         },
         {
           "key": "i2644",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\神魂晶石*10 (神装顶级材料)",
-          "target": "双击打开,获得以下物品:\\\\神魂晶石*10 (神装顶级材料)"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\Tinh Thạch Thần Hồn*10 (nguyên liệu Thần Trang đỉnh cấp)"
         },
         {
           "key": "n2645",
           "occurrence": 1,
           "source": "神魂晶石礼包(大)",
-          "target": "神魂晶石礼包(大)"
+          "target": "Gói Tinh Thạch Thần Hồn (Lớn)"
         },
         {
           "key": "i2645",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\神魂晶石*30(神装顶级材料)",
-          "target": "双击打开,获得以下物品:\\\\神魂晶石*30(神装顶级材料)"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\Tinh Thạch Thần Hồn*30 (nguyên liệu Thần Trang đỉnh cấp)"
         },
         {
           "key": "n2646",
           "occurrence": 1,
           "source": "神装增强礼包(小)",
-          "target": "神装增强礼包(小)"
+          "target": "Gói Tăng Cường Thần Trang (Nhỏ)"
         },
         {
           "key": "i2646",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\1级神装增强精华*10",
-          "target": "双击打开,获得以下物品:\\\\1级神装增强精华*10"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\Tinh Hoa Tăng Cường Thần Trang Cấp 1*10"
         },
         {
           "key": "n2647",
           "occurrence": 1,
           "source": "神装增强礼包(大)",
-          "target": "神装增强礼包(大)"
+          "target": "Gói Tăng Cường Thần Trang (Lớn)"
         },
         {
           "key": "i2647",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\1级神装增强精华*30",
-          "target": "双击打开,获得以下物品:\\\\1级神装增强精华*30"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\Tinh Hoa Tăng Cường Thần Trang Cấp 1*30"
         },
         {
           "key": "n2648",
           "occurrence": 1,
           "source": "勋章材料礼包(小)",
-          "target": "勋章材料礼包(小)"
+          "target": "Gói Nguyên Liệu Huy Chương (Nhỏ)"
         },
         {
           "key": "i2648",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\勋章灵石*10",
-          "target": "双击打开,获得以下物品:\\\\勋章灵石*10"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\Linh Thạch Huy Chương*10"
         },
         {
           "key": "n2649",
           "occurrence": 1,
           "source": "勋章材料礼包(大)",
-          "target": "勋章材料礼包(大)"
+          "target": "Gói Nguyên Liệu Huy Chương (Lớn)"
         },
         {
           "key": "i2649",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\勋章灵石*30",
-          "target": "双击打开,获得以下物品:\\\\勋章灵石*30"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\Linh Thạch Huy Chương*30"
         },
         {
           "key": "n2650",
           "occurrence": 1,
           "source": "第一天巨划算礼包",
-          "target": "第一天巨划算礼包"
+          "target": "Gói Siêu Hời Ngày 1"
         },
         {
           "key": "i2650",
           "occurrence": 1,
           "source": "双击打开,消耗<(c0xFFFFFF00)1000元宝>，获得以下物品:\\\\60装备升级石*4(装备升级材料)",
-          "target": "双击打开,消耗<(c0xFFFFFF00)1000元宝>，获得以下物品:\\\\60装备升级石*4(装备升级材料)"
+          "target": "Nhấp đúp để mở, tiêu hao <(c0xFFFFFF00)1000 Nguyên Bảo>, nhận các vật phẩm sau:\\\\Đá Nâng Cấp Trang Bị Cấp 60*4 (nguyên liệu nâng cấp trang bị)"
         },
         {
           "key": "n2651",
           "occurrence": 1,
           "source": "第二天巨划算礼包",
-          "target": "第二天巨划算礼包"
+          "target": "Gói Siêu Hời Ngày 2"
         },
         {
           "key": "i2651",
           "occurrence": 1,
           "source": "双击打开,消耗<(c0xFFFFFF00)1000元宝>，获得以下物品:\\\\天使之羽*25(翅膀合成材料)",
-          "target": "双击打开,消耗<(c0xFFFFFF00)1000元宝>，获得以下物品:\\\\天使之羽*25(翅膀合成材料)"
+          "target": "Nhấp đúp để mở, tiêu hao <(c0xFFFFFF00)1000 Nguyên Bảo>, nhận các vật phẩm sau:\\\\Lông Cánh Thiên Thần*25 (nguyên liệu hợp thành Cánh)"
         },
         {
           "key": "n2652",
