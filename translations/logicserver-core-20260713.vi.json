@@ -36520,61 +36520,61 @@
           "key": "promTlk3321",
           "occurrence": 1,
           "source": "火焰之河群魔乱舞,步步危机,想让你替我侦查下具体情况,我的坐骑就先借你用用,之后记得找到罗格勇士报告情况.\\\\",
-          "target": "火焰之河群魔乱舞,步步危机,想让你替我侦查下具体情况,我的坐骑就先借你用用,之后记得找到罗格勇士报告情况.\\\\"
+      "target": "Sông Lửa đầy ác ma, từng bước hiểm nguy. Hãy trinh sát giúp ta; cứ mượn tọa kỵ của ta, xong nhớ báo Dũng Sĩ Rogue.\\\\"
         },
         {
           "key": "promTlk3331",
           "occurrence": 1,
           "source": "消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Vùng Đất Chôn Xương. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3341",
           "occurrence": 1,
           "source": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Giáo Đường Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3351",
           "occurrence": 1,
           "source": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Rừng Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3361",
           "occurrence": 1,
           "source": "你要不断提升自己,等级达到67级后在来找我.\\\\",
-          "target": "你要不断提升自己,等级达到67级后在来找我.\\\\"
+      "target": "Hãy không ngừng mạnh lên. Đạt cấp 67 rồi hãy quay lại gặp ta.\\\\"
         },
         {
           "key": "promTlk3371",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt bất kỳ quái nào trong Rừng Hắc Ám, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3381",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt bất kỳ quái nào trong Giáo Đường Hắc Ám, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3391",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt bất kỳ quái nào trong Vùng Đất Chôn Xương, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3401",
           "occurrence": 1,
           "source": "干燥高地的怪物很多,你前往消灭里面任意怪物吧.\\\\",
-          "target": "干燥高地的怪物很多,你前往消灭里面任意怪物吧.\\\\"
+      "target": "Quái ở Cao Nguyên Khô Cằn rất nhiều. Hãy đến diệt bất kỳ quái nào.\\\\"
         },
         {
           "key": "promTlk341",
           "occurrence": 1,
           "source": "当年为了对付半兽人的侵袭,行会四起,占领沙巴克之地号令天下好不威风!我带你去感受一下昔日那份热血城战堡垒的冲动吧!\\\\",
-          "target": "当年为了对付半兽人的侵袭,行会四起,占领沙巴克之地号令天下好不威风!我带你去感受一下昔日那份热血城战堡垒的冲动吧!\\\\"
+      "target": "Xưa kia các Công Hội nổi dậy chống Bán Thú Nhân, chiếm Sa Bặc hiệu lệnh thiên hạ. Ta đưa ngươi cảm nhận hào khí thành chiến năm xưa!\\\\"
         },
         {
           "key": "promTlk3411",
