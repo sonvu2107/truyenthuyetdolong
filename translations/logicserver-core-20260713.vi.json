@@ -35680,61 +35680,61 @@
           "key": "promTlk2071",
           "occurrence": 1,
           "source": "我的上司在前方猎杀邪恶骑士,我现在在这里镇守洛萨血魔,你能帮我前去帮助他吗?\\\\",
-          "target": "我的上司在前方猎杀邪恶骑士,我现在在这里镇守洛萨血魔,你能帮我前去帮助他吗?\\\\"
+          "target": "Cấp trên ta đang săn Kỵ Sĩ Tà Ác phía trước, còn ta trấn thủ Huyết Ma Lothar ở đây. Ngươi giúp ông ấy được không?\\\\"
         },
         {
           "key": "promTlk2081",
           "occurrence": 1,
           "source": "前面有很多死神魔蛇,它们的镰刀夺取了很多战士的生命,我为了报仇一直没休息过.\\\\",
-          "target": "前面有很多死神魔蛇,它们的镰刀夺取了很多战士的生命,我为了报仇一直没休息过.\\\\"
+          "target": "Phía trước nhiều Tử Thần Ma Xà, lưỡi hái của chúng cướp đi mạng nhiều chiến sĩ. Ta chưa từng nghỉ để báo thù.\\\\"
         },
         {
           "key": "promTlk2091",
           "occurrence": 1,
           "source": "要塞的事情因为你的加入缓和了下来,现在你赶过去屠龙城那边找到任务使者吧.\\\\",
-          "target": "要塞的事情因为你的加入缓和了下来,现在你赶过去屠龙城那边找到任务使者吧.\\\\"
+          "target": "Nhờ ngươi, tình hình Pháo Đài đã dịu lại. Giờ hãy đến Đồ Long Thành tìm Sứ Giả Nhiệm Vụ.\\\\"
         },
         {
           "key": "promTlk21",
           "occurrence": 1,
           "source": "众多强者已经应招前去支援抗魔击,你也快点动身吧!\\\\",
-          "target": "众多强者已经应招前去支援抗魔击,你也快点动身吧!\\\\"
+          "target": "Nhiều cường giả đã hưởng ứng đi hỗ trợ chống Ma, ngươi cũng mau lên đường!\\\\"
         },
         {
           "key": "promTlk2101",
           "occurrence": 1,
           "source": "你的到来让我们看到了希望,我想玛雅使者见到你会很高兴的,你去前方见一下他吧.\\\\",
-          "target": "你的到来让我们看到了希望,我想玛雅使者见到你会很高兴的,你去前方见一下他吧.\\\\"
+          "target": "Ngươi đến cho chúng ta hy vọng. Sứ Giả Maya chắc sẽ vui khi gặp ngươi, hãy đến phía trước gặp ông ấy.\\\\"
         },
         {
           "key": "promTlk211",
           "occurrence": 1,
           "source": "现在你去找到圣城大祭司奥斯玛!他正在调查邪恶洞穴的事情,你前去帮助他吧!\\\\",
-          "target": "现在你去找到圣城大祭司奥斯玛!他正在调查邪恶洞穴的事情,你前去帮助他吧!\\\\"
+          "target": "Hãy tìm Đại Tế Tư Thánh Thành Osman! Ông ấy đang điều tra Hang Động Tà Ác, hãy đến giúp.\\\\"
         },
         {
           "key": "promTlk2111",
           "occurrence": 1,
           "source": "你去找到海罗德,他会给你冒险所用的装备.\\\\",
-          "target": "你去找到海罗德,他会给你冒险所用的装备.\\\\"
+          "target": "Hãy tìm Herod, ông ấy sẽ cho ngươi Trang Bị dùng khi phiêu lưu.\\\\"
         },
         {
           "key": "promTlk2121",
           "occurrence": 1,
           "source": "前方的牛怪一直是大陆的灾厄隐患,你前去消灭它们吧!\\\\",
-          "target": "前方的牛怪一直是大陆的灾厄隐患,你前去消灭它们吧!\\\\"
+          "target": "Quái Bò phía trước luôn là tai họa tiềm ẩn của đại lục, hãy diệt chúng!\\\\"
         },
         {
           "key": "promTlk2131",
           "occurrence": 1,
           "source": "这片大陆被来至地下城的骷髅怪骚扰,仍然横行霸道,你替我消灭它们去!\\\\",
-          "target": "这片大陆被来至地下城的骷髅怪骚扰,仍然横行霸道,你替我消灭它们去!\\\\"
+          "target": "Đại lục bị Quái Khô Lâu từ Hầm Ngục quấy nhiễu, chúng vẫn hoành hành. Hãy thay ta diệt chúng!\\\\"
         },
         {
           "key": "promTlk2141",
           "occurrence": 1,
           "source": "这片大陆邪恶势力蔓延,地下城来的黑巫师不夺取无辜生命!你去消灭它们!\\\\",
-          "target": "这片大陆邪恶势力蔓延,地下城来的黑巫师不夺取无辜生命!你去消灭它们!\\\\"
+          "target": "Tà ác lan tràn khắp đại lục, Vu Sư Hắc Ám từ Hầm Ngục sát hại sinh mạng vô tội. Hãy diệt chúng!\\\\"
         },
         {
           "key": "promTlk2151",
