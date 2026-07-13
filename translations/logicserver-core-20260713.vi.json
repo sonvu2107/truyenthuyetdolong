@@ -73220,97 +73220,97 @@
           "key": "n2860",
           "occurrence": 1,
           "source": "战神之力（10阶）",
-          "target": "战神之力（10阶）"
+          "target": "Sức Mạnh Chiến Thần (Bậc 10)"
         },
         {
           "key": "i2860",
           "occurrence": 1,
           "source": "可使用战魂值，在装备兑换使者处兑换获得。",
-          "target": "可使用战魂值，在装备兑换使者处兑换获得。"
+          "target": "Dùng Điểm Chiến Hồn đổi tại Sứ Giả Đổi Trang Bị."
         },
         {
           "key": "n2861",
           "occurrence": 1,
           "source": "增强礼包",
-          "target": "增强礼包"
+          "target": "Gói Cường Hóa"
         },
         {
           "key": "i2861",
           "occurrence": 1,
           "source": "消耗5888元宝即可获得:\\\\10级完美强化卡x2\\\\经验水晶(中)x3\\\\装备升级石x5\\\\宝石代金卡x2\\\\装备升级石代金卡x2",
-          "target": "消耗5888元宝即可获得:\\\\10级完美强化卡x2\\\\经验水晶(中)x3\\\\装备升级石x5\\\\宝石代金卡x2\\\\装备升级石代金卡x2"
+          "target": "Tốn 5888 Nguyên Bảo nhận:\\\\Thẻ Cường Hóa Hoàn Mỹ Cấp 10 x2\\\\Pha Lê KN (Vừa) x3\\\\Đá Nâng Cấp Trang Bị x5\\\\Phiếu Đá Quý x2\\\\Phiếu Đá Nâng Cấp Trang Bị x2"
         },
         {
           "key": "n2862",
           "occurrence": 1,
           "source": "王者礼包",
-          "target": "王者礼包"
+          "target": "Gói Vương Giả"
         },
         {
           "key": "i2862",
           "occurrence": 1,
           "source": "消耗8888元宝即可获得:\\\\超级祝福油x1\\\\15级完美强化卡x1\\\\神魂晶石x10\\\\翅膀代金券x2\\\\坐骑代金卡x1\\\\六阶宝石梦幻礼包x2",
-          "target": "消耗8888元宝即可获得:\\\\超级祝福油x1\\\\15级完美强化卡x1\\\\神魂晶石x10\\\\翅膀代金券x2\\\\坐骑代金卡x1\\\\六阶宝石梦幻礼包x2"
+          "target": "Tốn 8888 Nguyên Bảo nhận:\\\\Dầu Chúc Phúc Siêu Cấp x1\\\\Thẻ Cường Hóa Hoàn Mỹ Cấp 15 x1\\\\Tinh Thạch Thần Hồn x10\\\\Phiếu Cánh x2\\\\Phiếu Thú Cưỡi x1\\\\Gói Đá Quý Huyền Ảo Bậc 6 x2"
         },
         {
           "key": "n2863",
           "occurrence": 1,
           "source": "暗",
-          "target": "暗"
+          "target": "Ám"
         },
         {
           "key": "i2863",
           "occurrence": 1,
           "source": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。",
-          "target": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。"
+          "target": "Sự kiện đổi chữ Ám Hắc Đồ Long khai server\\\\Có thể nhận từ các sự kiện, phó bản và quái dã ngoại rơi\\\\Thu thập đủ số lượng rồi đến Đồ Long Thành gặp <(c0xFF66CCFF)Sứ Giả Nhiệm Vụ> để tham gia đổi."
         },
         {
           "key": "n2864",
           "occurrence": 1,
           "source": "黑",
-          "target": "黑"
+          "target": "Hắc"
         },
         {
           "key": "i2864",
           "occurrence": 1,
           "source": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。",
-          "target": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。"
+          "target": "Sự kiện đổi chữ Ám Hắc Đồ Long khai server\\\\Có thể nhận từ các sự kiện, phó bản và quái dã ngoại rơi\\\\Thu thập đủ số lượng rồi đến Đồ Long Thành gặp <(c0xFF66CCFF)Sứ Giả Nhiệm Vụ> để tham gia đổi."
         },
         {
           "key": "n2865",
           "occurrence": 1,
           "source": "屠",
-          "target": "屠"
+          "target": "Đồ"
         },
         {
           "key": "i2865",
           "occurrence": 1,
           "source": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。",
-          "target": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。"
+          "target": "Sự kiện đổi chữ Ám Hắc Đồ Long khai server\\\\Có thể nhận từ các sự kiện, phó bản và quái dã ngoại rơi\\\\Thu thập đủ số lượng rồi đến Đồ Long Thành gặp <(c0xFF66CCFF)Sứ Giả Nhiệm Vụ> để tham gia đổi."
         },
         {
           "key": "n2866",
           "occurrence": 1,
           "source": "龙",
-          "target": "龙"
+          "target": "Long"
         },
         {
           "key": "i2866",
           "occurrence": 1,
           "source": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。",
-          "target": "开服暗黑屠龙字体兑换活动\\\\可通过各大活动、副本、野外怪物掉落\\\\收集一定数量可到屠龙城的 <(c0xFF66CCFF)任务使者>参加兑换活动。"
+          "target": "Sự kiện đổi chữ Ám Hắc Đồ Long khai server\\\\Có thể nhận từ các sự kiện, phó bản và quái dã ngoại rơi\\\\Thu thập đủ số lượng rồi đến Đồ Long Thành gặp <(c0xFF66CCFF)Sứ Giả Nhiệm Vụ> để tham gia đổi."
         },
         {
           "key": "n2867",
           "occurrence": 1,
           "source": "5000金币",
-          "target": "5000金币"
+          "target": "5000 Vàng"
         },
         {
           "key": "i2867",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)5000金币>",
-          "target": "双击可获得<(c0xFF00FFFF)5000金币>"
+          "target": "Nhấp đúp nhận <(c0xFF00FFFF)5000 Vàng>"
         },
         {
           "key": "n2868",
