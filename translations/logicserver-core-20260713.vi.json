@@ -30508,61 +30508,61 @@
           "key": "desc8100",
           "occurrence": 1,
           "source": "<行政官/M伏魔谷:0:0:行政官>发布组队任务,完成后会得到丰厚的奖励.",
-          "target": "<行政官/M伏魔谷:0:0:行政官>发布组队任务,完成后会得到丰厚的奖励."
+          "target": "<Hành Chính Quan/M伏魔谷:0:0:行政官> phát nhiệm vụ tổ đội, hoàn thành nhận thưởng lớn."
         },
         {
           "key": "desc8101",
           "occurrence": 1,
           "source": "找到<行政官/M伏魔谷:0:0:行政官>领取组队任务,完成任务后会得到丰厚奖励.",
-          "target": "找到<行政官/M伏魔谷:0:0:行政官>领取组队任务,完成任务后会得到丰厚奖励."
+          "target": "Gặp <Hành Chính Quan/M伏魔谷:0:0:行政官> nhận nhiệm vụ tổ đội, hoàn thành nhận thưởng lớn."
         },
         {
           "key": "desc8102",
           "occurrence": 1,
           "source": "找到<行政官/M伏魔谷:0:0:行政官>领取组队任务,完成任务后会得到丰厚奖励.",
-          "target": "找到<行政官/M伏魔谷:0:0:行政官>领取组队任务,完成任务后会得到丰厚奖励."
+          "target": "Gặp <Hành Chính Quan/M伏魔谷:0:0:行政官> nhận nhiệm vụ tổ đội, hoàn thành nhận thưởng lớn."
         },
         {
           "key": "desc8103",
           "occurrence": 1,
           "source": "在<行政官/M伏魔谷:0:0:行政官>的鼓舞下,前去消灭邪恶的妖魔头领.",
-          "target": "在<行政官/M伏魔谷:0:0:行政官>的鼓舞下,前去消灭邪恶的妖魔头领."
+          "target": "Theo lời động viên của <Hành Chính Quan/M伏魔谷:0:0:行政官>, hãy diệt thủ lĩnh yêu ma."
         },
         {
           "key": "desc8104",
           "occurrence": 1,
           "source": "在<行政官/M伏魔谷:0:0:行政官>的鼓舞下,前去消灭邪恶的妖魔头领.",
-          "target": "在<行政官/M伏魔谷:0:0:行政官>的鼓舞下,前去消灭邪恶的妖魔头领."
+          "target": "Theo lời động viên của <Hành Chính Quan/M伏魔谷:0:0:行政官>, hãy diệt thủ lĩnh yêu ma."
         },
         {
           "key": "desc8105",
           "occurrence": 1,
           "source": "<行政官/M伏魔谷:0:0:行政官>想请你把元帅的信带给<颜如花/M屠龙城:0:0:颜如花>.",
-          "target": "<行政官/M伏魔谷:0:0:行政官>想请你把元帅的信带给<颜如花/M屠龙城:0:0:颜如花>."
+          "target": "<Hành Chính Quan/M伏魔谷:0:0:行政官> nhờ ngươi chuyển thư của Nguyên Soái cho <Nhan Như Hoa/M屠龙城:0:0:颜如花>."
         },
         {
           "key": "desc8106",
           "occurrence": 1,
           "source": "帮助<行政官/M伏魔谷:0:0:行政官>解决他遇到的棘手问题.",
-          "target": "帮助<行政官/M伏魔谷:0:0:行政官>解决他遇到的棘手问题."
+          "target": "Giúp <Hành Chính Quan/M伏魔谷:0:0:行政官> giải quyết vấn đề khó khăn."
         },
         {
           "key": "desc8107",
           "occurrence": 1,
           "source": "帮助<行政官/M伏魔谷:0:0:行政官>解决他遇到的棘手问题.",
-          "target": "帮助<行政官/M伏魔谷:0:0:行政官>解决他遇到的棘手问题."
+          "target": "Giúp <Hành Chính Quan/M伏魔谷:0:0:行政官> giải quyết vấn đề khó khăn."
         },
         {
           "key": "desc8108",
           "occurrence": 1,
           "source": "代<行政官/M伏魔谷:0:0:行政官>向屠龙城的<隐士/M屠龙城:0:0:隐士>问道解惑.",
-          "target": "代<行政官/M伏魔谷:0:0:行政官>向屠龙城的<隐士/M屠龙城:0:0:隐士>问道解惑."
+          "target": "Thay <Hành Chính Quan/M伏魔谷:0:0:行政官> đến Đồ Long Thành hỏi <Ẩn Sĩ/M屠龙城:0:0:隐士> giải đáp."
         },
         {
           "key": "desc811",
           "occurrence": 1,
           "source": "完成任务后找<马拉/M圣城:180:229:马拉>.",
-          "target": "完成任务后找<马拉/M圣城:180:229:马拉>."
+          "target": "Hoàn thành nhiệm vụ rồi gặp <Mara/M圣城:180:229:马拉>."
         },
         {
           "key": "desc812",
