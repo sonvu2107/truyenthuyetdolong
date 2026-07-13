@@ -44552,7 +44552,7 @@
           "key": "n471",
           "occurrence": 1,
           "source": "巨人心脏(废弃)",
-          "target": "巨人心脏(废弃)"
+          "target": "Trái Tim Người Khổng Lồ (Bỏ)"
         },
         {
           "key": "i471",
@@ -44564,7 +44564,7 @@
           "key": "n472",
           "occurrence": 1,
           "source": "钢牙(废弃)",
-          "target": "钢牙(废弃)"
+          "target": "Nanh Thép (Bỏ)"
         },
         {
           "key": "i472",
@@ -44576,7 +44576,7 @@
           "key": "n473",
           "occurrence": 1,
           "source": "毒囊(废弃)",
-          "target": "毒囊(废弃)"
+          "target": "Túi Độc (Bỏ)"
         },
         {
           "key": "i473",
@@ -44588,7 +44588,7 @@
           "key": "n474",
           "occurrence": 1,
           "source": "怨灵(废弃)",
-          "target": "怨灵(废弃)"
+          "target": "Oán Linh (Bỏ)"
         },
         {
           "key": "i474",
@@ -44600,7 +44600,7 @@
           "key": "n475",
           "occurrence": 1,
           "source": "猪牙(废弃)",
-          "target": "猪牙(废弃)"
+          "target": "Nanh Heo (Bỏ)"
         },
         {
           "key": "i475",
@@ -44612,7 +44612,7 @@
           "key": "n476",
           "occurrence": 1,
           "source": "天香血莲(废弃)",
-          "target": "天香血莲(废弃)"
+          "target": "Huyết Liên Thiên Hương (Bỏ)"
         },
         {
           "key": "i476",
@@ -44624,7 +44624,7 @@
           "key": "n477",
           "occurrence": 1,
           "source": "邪恶灵魂(废弃)",
-          "target": "邪恶灵魂(废弃)"
+          "target": "Linh Hồn Tà Ác (Bỏ)"
         },
         {
           "key": "i477",
@@ -44636,19 +44636,19 @@
           "key": "n478",
           "occurrence": 1,
           "source": "2倍离线经验玉",
-          "target": "2倍离线经验玉"
+          "target": "Ngọc KN Offline x2"
         },
         {
           "key": "i478",
           "occurrence": 1,
           "source": "辅助道具\\\\可用于<(c0xFF00FFFF)双倍>的离线经验找回<(c0xFFFFFF00)双击物品>可打开福利界面\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "辅助道具\\\\可用于<(c0xFF00FFFF)双倍>的离线经验找回<(c0xFFFFFF00)双击物品>可打开福利界面\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Vật phẩm hỗ trợ\\\\Dùng nhận lại KN Offline <(c0xFF00FFFF)x2><(c0xFFFFFF00)Nhấp đúp vật phẩm> mở giao diện Phúc Lợi\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n479",
           "occurrence": 1,
           "source": "3倍离线经验玉",
-          "target": "3倍离线经验玉"
+          "target": "Ngọc KN Offline x3"
         },
         {
           "key": "i479",
