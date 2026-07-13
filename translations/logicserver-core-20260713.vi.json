@@ -36640,61 +36640,61 @@
           "key": "promTlk351",
           "occurrence": 1,
           "source": "你去找到前方的罗格佣兵,他需要你的帮助!\\\\",
-          "target": "你去找到前方的罗格佣兵,他需要你的帮助!\\\\"
+      "target": "Hãy tìm Lính Đánh Thuê Rogue phía trước, anh ấy cần ngươi giúp!\\\\"
         },
         {
           "key": "promTlk3511",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt bất kỳ quái nào trong Giáo Đường Hắc Ám, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3521",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt bất kỳ quái nào trong Rừng Hắc Ám, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3531",
           "occurrence": 1,
           "source": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Rừng Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3541",
           "occurrence": 1,
           "source": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Giáo Đường Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3551",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭埋骨之地内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt bất kỳ quái nào trong Vùng Đất Chôn Xương, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3561",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，干燥高地的怪物很多,你前往消灭里面任意怪物吧.\\\\",
-          "target": "你的到来让我们看到希望，干燥高地的怪物很多,你前往消灭里面任意怪物吧.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Quái ở Cao Nguyên Khô Cằn rất nhiều, hãy đến diệt chúng.\\\\"
         },
         {
           "key": "promTlk3571",
           "occurrence": 1,
           "source": "消灭埋骨之地内的任意怪物.达到数量要求后回来交付.",
-          "target": "消灭埋骨之地内的任意怪物.达到数量要求后回来交付."
+      "target": "Diệt bất kỳ quái nào trong Vùng Đất Chôn Xương. Đủ số lượng rồi về giao nhiệm vụ."
         },
         {
           "key": "promTlk3581",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt bất kỳ quái nào trong Giáo Đường Hắc Ám, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3591",
           "occurrence": 1,
           "source": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Rừng Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk3601",
