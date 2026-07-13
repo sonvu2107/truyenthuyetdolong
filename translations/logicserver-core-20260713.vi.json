@@ -30568,13 +30568,13 @@
           "key": "desc812",
           "occurrence": 1,
           "source": "完成任务后找<基德/M圣城:156:230:基德>对话.",
-          "target": "完成任务后找<基德/M圣城:156:230:基德>对话."
+          "target": "Hoàn thành nhiệm vụ rồi nói chuyện với <Gheed/M圣城:156:230:基德>."
         },
         {
           "key": "desc813",
           "occurrence": 1,
           "source": "找<奶牛关大使/M圣城:119:83:奶牛关大使>进入奶牛关后,找<凯恩/M圣城:220:180:凯恩>对话.",
-          "target": "找<奶牛关大使/M圣城:119:83:奶牛关大使>进入奶牛关后,找<凯恩/M圣城:220:180:凯恩>对话."
+          "target": "Gặp <Đại Sứ Ải Bò/M圣城:119:83:奶牛关大使> vào Ải Bò, rồi nói chuyện với <Hiền Giả Cain/M圣城:220:180:凯恩>."
         },
         {
           "key": "desc82",
@@ -30598,49 +30598,49 @@
           "key": "desc840",
           "occurrence": 1,
           "source": "完成凯恩的指引，后找<凯恩/M圣城:220:180:凯恩>对话.",
-          "target": "完成凯恩的指引，后找<凯恩/M圣城:220:180:凯恩>对话."
+          "target": "Hoàn thành hướng dẫn của Cain, rồi nói chuyện với <Hiền Giả Cain/M圣城:220:180:凯恩>."
         },
         {
           "key": "desc8416",
           "occurrence": 1,
           "source": "领取赏金任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦.",
-          "target": "领取赏金任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦."
+          "target": "Nhận nhiệm vụ Truy Nã; làm mới để nhận quà tốt, hoàn thành rồi nhận thưởng bội số."
         },
         {
           "key": "desc8417",
           "occurrence": 1,
           "source": "每日杀怪，经验多多!",
-          "target": "每日杀怪，经验多多!"
+          "target": "Mỗi ngày diệt quái, nhận nhiều KN!"
         },
         {
           "key": "desc8418",
           "occurrence": 1,
           "source": "装备强化等级越高,获得的属性越显著,快去强化装备吧!",
-          "target": "装备强化等级越高,获得的属性越显著,快去强化装备吧!"
+          "target": "Cường hóa trang bị càng cao, thuộc tính càng mạnh. Hãy đi cường hóa!"
         },
         {
           "key": "desc8419",
           "occurrence": 1,
           "source": "好的装备属性,都是鉴定出来的.",
-          "target": "好的装备属性,都是鉴定出来的."
+          "target": "Thuộc tính trang bị tốt đến từ Giám Định."
         },
         {
           "key": "desc8420",
           "occurrence": 1,
           "source": "升级装备可以获得强大的属性,快去升级装备吧!",
-          "target": "升级装备可以获得强大的属性,快去升级装备吧!"
+          "target": "Nâng cấp trang bị để nhận thuộc tính mạnh hơn!"
         },
         {
           "key": "desc8421",
           "occurrence": 1,
           "source": "领取狩猎任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦.",
-          "target": "领取狩猎任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦."
+          "target": "Nhận nhiệm vụ Săn Bắn; làm mới để nhận quà tốt, hoàn thành rồi nhận thưởng bội số."
         },
         {
           "key": "desc8422",
           "occurrence": 1,
           "source": "五阶坐骑就会开通兽魂功能,兽魂将能大幅度提升战力,快去升级坐骑吧!",
-          "target": "五阶坐骑就会开通兽魂功能,兽魂将能大幅度提升战力,快去升级坐骑吧!"
+          "target": "Thú Cưỡi bậc 5 mở Hồn Thú, tăng mạnh CS. Hãy nâng Thú Cưỡi!"
         },
         {
           "key": "desc8423",
