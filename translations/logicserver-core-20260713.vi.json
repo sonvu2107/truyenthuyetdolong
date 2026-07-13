@@ -71684,97 +71684,97 @@
           "key": "n2732",
           "occurrence": 1,
           "source": "传送石",
-          "target": "传送石"
+          "target": "Đá Dịch Chuyển"
         },
         {
           "key": "i2732",
           "occurrence": 1,
           "source": "双击使用可打开传送界面\\\\可将你传送到各大地图",
-          "target": "双击使用可打开传送界面\\\\可将你传送到各大地图"
+          "target": "Nhấp đúp để dùng mở giao diện Dịch Chuyển\\\\Đưa bạn đến các bản đồ lớn"
         },
         {
           "key": "n2733",
           "occurrence": 1,
           "source": "苍穹魔钻",
-          "target": "苍穹魔钻"
+          "target": "Ma Toản Thương Khung"
         },
         {
           "key": "i2733",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石1阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)3%>",
-          "target": "<(c0x00ff0066)顶级钻石1阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)3%>"
+          "target": "<(c0x00ff0066)Đá Quý Đỉnh Cấp Bậc 1>\\\\ Sau khi trang bị, giảm mọi sát thương <(c0x00ff0066)3%>"
         },
         {
           "key": "n2734",
           "occurrence": 1,
           "source": "幽灵魔钻",
-          "target": "幽灵魔钻"
+          "target": "Ma Toản U Linh"
         },
         {
           "key": "i2734",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石2阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)6%>",
-          "target": "<(c0x00ff0066)顶级钻石2阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)6%>"
+          "target": "<(c0x00ff0066)Đá Quý Đỉnh Cấp Bậc 2>\\\\ Sau khi trang bị, giảm mọi sát thương <(c0x00ff0066)6%>"
         },
         {
           "key": "n2735",
           "occurrence": 1,
           "source": "封魔魔钻",
-          "target": "封魔魔钻"
+          "target": "Ma Toản Phong Ma"
         },
         {
           "key": "i2735",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石3阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)9%>毒物闪避增加 <(c0x00ff0066)5%>",
-          "target": "<(c0x00ff0066)顶级钻石3阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)9%>毒物闪避增加 <(c0x00ff0066)5%>"
+          "target": "<(c0x00ff0066)Đá Quý Đỉnh Cấp Bậc 3>\\\\ Sau khi trang bị, giảm mọi sát thương <(c0x00ff0066)9%>Tăng Né Độc <(c0x00ff0066)5%>"
         },
         {
           "key": "n2736",
           "occurrence": 1,
           "source": "深渊魔钻",
-          "target": "深渊魔钻"
+          "target": "Ma Toản Vực Sâu"
         },
         {
           "key": "i2736",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石4阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)10%>毒物闪避增加 <(c0x00ff0066)10%>",
-          "target": "<(c0x00ff0066)顶级钻石4阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)10%>毒物闪避增加 <(c0x00ff0066)10%>"
+          "target": "<(c0x00ff0066)Đá Quý Đỉnh Cấp Bậc 4>\\\\ Sau khi trang bị, giảm mọi sát thương <(c0x00ff0066)10%>Tăng Né Độc <(c0x00ff0066)10%>"
         },
         {
           "key": "n2737",
           "occurrence": 1,
           "source": "镇狱魔钻",
-          "target": "镇狱魔钻"
+          "target": "Ma Toản Trấn Ngục"
         },
         {
           "key": "i2737",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石5阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)10%>毒物闪避增加 <(c0x00ff0066)15%>",
-          "target": "<(c0x00ff0066)顶级钻石5阶>\\\\ 穿戴后,所有伤害减免 <(c0x00ff0066)10%>毒物闪避增加 <(c0x00ff0066)15%>"
+          "target": "<(c0x00ff0066)Đá Quý Đỉnh Cấp Bậc 5>\\\\ Sau khi trang bị, giảm mọi sát thương <(c0x00ff0066)10%>Tăng Né Độc <(c0x00ff0066)15%>"
         },
         {
           "key": "n2738",
           "occurrence": 1,
           "source": "魔钻灵石",
-          "target": "魔钻灵石"
+          "target": "Linh Thạch Ma Toản"
         },
         {
           "key": "i2738",
           "occurrence": 1,
           "source": "收集 <(c0xFFFF6600)15> 个 <(c0xFFFF6600)魔钻灵石> 可以合成一个 <(c0xFFFF6600)苍穹魔钻>,战力大增\\\\3个苍穹魔钻可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级\\\\魔钻是游戏中顶级装备,增强实力最佳捷径！",
-          "target": "收集 <(c0xFFFF6600)15> 个 <(c0xFFFF6600)魔钻灵石> 可以合成一个 <(c0xFFFF6600)苍穹魔钻>,战力大增\\\\3个苍穹魔钻可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级\\\\魔钻是游戏中顶级装备,增强实力最佳捷径！"
+          "target": "Thu thập <(c0xFFFF6600)15> <(c0xFFFF6600)Linh Thạch Ma Toản> có thể hợp thành một <(c0xFFFF6600)Ma Toản Thương Khung>, CS tăng mạnh\\\\3 Ma Toản Thương Khung có thể nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)\\\\Ma Toản là trang bị đỉnh cấp, con đường mạnh lên nhanh nhất!"
         },
         {
           "key": "n2739",
           "occurrence": 1,
           "source": "连环礼包(废弃)",
-          "target": "连环礼包(废弃)"
+          "target": "Gói Liên Hoàn (Đã bỏ)"
         },
         {
           "key": "i2739",
           "occurrence": 1,
           "source": "双击即可获得劲炫、劲酷、高端大气上档次的超强60级套装！",
-          "target": "双击即可获得劲炫、劲酷、高端大气上档次的超强60级套装！"
+          "target": "Nhấp đúp để nhận bộ trang bị Cấp 60 cực mạnh, ngầu và đẳng cấp!"
         },
         {
           "key": "n2740",
