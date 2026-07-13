@@ -58340,73 +58340,73 @@
           "key": "n1620",
           "occurrence": 1,
           "source": "13阶充值礼包(废弃)",
-          "target": "13阶充值礼包(废弃)"
+          "target": "Gói Nạp Bậc 13 (Bỏ)"
         },
         {
           "key": "i1620",
           "occurrence": 1,
           "source": "只需<(c0xFFFFFF00)累积提取元宝>达到13阶\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\霸气皇者神装：<(c0xFFFF0000)黄金屠龙战衣>\\\\最酷最新时装：<(c0xFFFF0000)吕布与貂蝉>(根据性别获得)\\\\对应自身职业的强大<(c0xFFFF0000)10级攻击宝石>\\\\<(c0xFFFFFF00)装备转生精华>×10\\\\灵魂水晶×10\\\\10倍经验卷轴(8小时)×1\\\\999朵红玫瑰×1\\\\勋章灵石×10\\\\苹果×20",
-          "target": "只需<(c0xFFFFFF00)累积提取元宝>达到13阶\\\\你<(c0xFFFFFF00)双击使用>即可拥有以下所有物品:\\\\霸气皇者神装：<(c0xFFFF0000)黄金屠龙战衣>\\\\最酷最新时装：<(c0xFFFF0000)吕布与貂蝉>(根据性别获得)\\\\对应自身职业的强大<(c0xFFFF0000)10级攻击宝石>\\\\<(c0xFFFFFF00)装备转生精华>×10\\\\灵魂水晶×10\\\\10倍经验卷轴(8小时)×1\\\\999朵红玫瑰×1\\\\勋章灵石×10\\\\苹果×20"
+          "target": "Chỉ cần <(c0xFFFFFF00)tổng nạp Nguyên Bảo> đạt Bậc 13\\\\Bạn <(c0xFFFFFF00)nhấp đúp để dùng> để nhận toàn bộ:\\\\Thần Trang Hoàng Giả Bá Khí: <(c0xFFFF0000)Chiến Y Đồ Long Hoàng Kim>\\\\Thời Trang Mới Cực Chất: <(c0xFFFF0000)Lữ Bố và Điêu Thuyền> (nhận theo giới tính)\\\\Đá <(c0xFFFF0000)Công Kích Cấp 10> mạnh mẽ theo nghề\\\\<(c0xFFFFFF00)Tinh Hoa Chuyển Sinh Trang Bị> ×10\\\\Pha Lê Linh Hồn ×10\\\\Cuộn KN x10 (8 Giờ) ×1\\\\999 Hoa Hồng Đỏ ×1\\\\Linh Thạch Huy Chương ×10\\\\Táo ×20"
         },
         {
           "key": "n1621",
           "occurrence": 1,
           "source": "1880元宝实惠回馈包(废弃)",
-          "target": "1880元宝实惠回馈包(废弃)"
+          "target": "Gói Hoàn Trả Ưu Đãi 1880 Nguyên Bảo (Bỏ)"
         },
         {
           "key": "i1621",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FF00)1>个<(c0xFF00FF00)3级魔防宝石>与<(c0xFF00FF00)3>个<(c0xFF00FF00)马鞭>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送",
-          "target": "双击可获得<(c0xFF00FF00)1>个<(c0xFF00FF00)3级魔防宝石>与<(c0xFF00FF00)3>个<(c0xFF00FF00)马鞭>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送"
+          "target": "Nhấp đúp nhận <(c0xFF00FF00)1> <(c0xFF00FF00)Đá Phòng Thủ Phép Cấp 3> và <(c0xFF00FF00)3> <(c0xFF00FF00)Roi Ngựa>\\\\Cách nhận: tặng qua <(c0xFF00FF00)Sự Kiện Nạp>"
         },
         {
           "key": "n1622",
           "occurrence": 1,
           "source": "1880元宝惊喜回馈包(废弃)",
-          "target": "1880元宝惊喜回馈包(废弃)"
+          "target": "Gói Hoàn Trả Bất Ngờ 1880 Nguyên Bảo (Bỏ)"
         },
         {
           "key": "i1622",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FF00)1>个<(c0xFF00FF00)3级生命宝石>与<(c0xFF00FF00)2>个<(c0xFF00FF00)9朵玫瑰>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送",
-          "target": "双击可获得<(c0xFF00FF00)1>个<(c0xFF00FF00)3级生命宝石>与<(c0xFF00FF00)2>个<(c0xFF00FF00)9朵玫瑰>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送"
+          "target": "Nhấp đúp nhận <(c0xFF00FF00)1> <(c0xFF00FF00)Đá Sinh Lực Cấp 3> và <(c0xFF00FF00)2> <(c0xFF00FF00)9 Hoa Hồng>\\\\Cách nhận: tặng qua <(c0xFF00FF00)Sự Kiện Nạp>"
         },
         {
           "key": "n1623",
           "occurrence": 1,
           "source": "1880元宝欢乐回馈包(废弃)",
-          "target": "1880元宝欢乐回馈包(废弃)"
+          "target": "Gói Hoàn Trả Vui Vẻ 1880 Nguyên Bảo (Bỏ)"
         },
         {
           "key": "i1623",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FF00)1>个<(c0xFF00FF00)3级物防宝石>与<(c0xFF00FF00)1>个<(c0xFF00FF00)5倍经验卷轴>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送",
-          "target": "双击可获得<(c0xFF00FF00)1>个<(c0xFF00FF00)3级物防宝石>与<(c0xFF00FF00)1>个<(c0xFF00FF00)5倍经验卷轴>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送"
+          "target": "Nhấp đúp nhận <(c0xFF00FF00)1> <(c0xFF00FF00)Đá Phòng Thủ Vật Lý Cấp 3> và <(c0xFF00FF00)1> <(c0xFF00FF00)Cuộn KN x5>\\\\Cách nhận: tặng qua <(c0xFF00FF00)Sự Kiện Nạp>"
         },
         {
           "key": "n1624",
           "occurrence": 1,
           "source": "2880元宝惊喜回馈包(废弃)",
-          "target": "2880元宝惊喜回馈包(废弃)"
+          "target": "Gói Hoàn Trả Bất Ngờ 2880 Nguyên Bảo (Bỏ)"
         },
         {
           "key": "i1624",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FF00)30欢乐豆>与<(c0xFF00FF00)1>个<(c0xFF00FF00)6倍经验卷轴>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送",
-          "target": "双击可获得<(c0xFF00FF00)30欢乐豆>与<(c0xFF00FF00)1>个<(c0xFF00FF00)6倍经验卷轴>\\\\获得途径：通过<(c0xFF00FF00)充值活动>赠送"
+          "target": "Nhấp đúp nhận <(c0xFF00FF00)30 Đậu Vui Vẻ> và <(c0xFF00FF00)1> <(c0xFF00FF00)Cuộn KN x6>\\\\Cách nhận: tặng qua <(c0xFF00FF00)Sự Kiện Nạp>"
         },
         {
           "key": "n1625",
           "occurrence": 1,
           "source": "爱意浓浓惊喜回馈礼包(废弃)",
-          "target": "爱意浓浓惊喜回馈礼包(废弃)"
+          "target": "Gói Hoàn Trả Bất Ngờ Tình Ý Đậm Sâu (Bỏ)"
         },
         {
           "key": "i1625",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FF00)头衔：老婆我爱你，老公我爱你>\\\\999朵蓝玫瑰\\\\99朵红玫瑰×2\\\\获得途径：通过<(c0xFF00FF00)充值回馈活动>赠送",
-          "target": "双击可获得<(c0xFF00FF00)头衔：老婆我爱你，老公我爱你>\\\\999朵蓝玫瑰\\\\99朵红玫瑰×2\\\\获得途径：通过<(c0xFF00FF00)充值回馈活动>赠送"
+          "target": "Nhấp đúp nhận <(c0xFF00FF00)Danh Hiệu: Vợ Yêu Anh, Chồng Yêu Em>\\\\999 Hoa Hồng Xanh\\\\99 Hoa Hồng Đỏ ×2\\\\Cách nhận: tặng qua <(c0xFF00FF00)Sự Kiện Hoàn Trả Nạp>"
         },
         {
           "key": "n1626",
