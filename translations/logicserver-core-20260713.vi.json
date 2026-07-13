@@ -24502,61 +24502,61 @@
           "key": "data180",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><药店掌柜/M王城:0:0:药店掌柜><(c0xFF1E90FF)处购买任意药品>",
-          "target": "<(c0xFF1E90FF)到><药店掌柜/M王城:0:0:药店掌柜><(c0xFF1E90FF)处购买任意药品>"
+          "target": "<(c0xFF1E90FF)Đến><Chủ Tiệm Thuốc/M王城:0:0:药店掌柜><(c0xFF1E90FF)mua thuốc bất kỳ>"
         },
         {
           "key": "data1800",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:嗜血甲虫><(x幽暗丛林:0:0:嗜血甲虫)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:144:67>",
-          "target": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:嗜血甲虫><(x幽暗丛林:0:0:嗜血甲虫)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:144:67>"
+          "target": "<(c0xFF1E90FF)Rừng U Ám><Quái Bất Kỳ/M幽暗丛林:0:0:嗜血甲虫><(x幽暗丛林:0:0:嗜血甲虫)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng U Ám/M幽暗丛林:144:67>"
         },
         {
           "key": "data1920",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:117:48>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:117:48>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:117:48>"
         },
         {
           "key": "data1950",
           "occurrence": 1,
           "source": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>",
-          "target": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>"
+          "target": "<Đấu Lực Chiến/@@showWin,52,0,0><(c0xFF1E90FF)1 lần>"
         },
         {
           "key": "data1960",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><金钱鬼/M王城:0:0:金钱鬼><(c0xFF1E90FF)进入天地宝窟><(x王城:0:0:金钱鬼)>",
-          "target": "<(c0xFF1E90FF)找到><金钱鬼/M王城:0:0:金钱鬼><(c0xFF1E90FF)进入天地宝窟><(x王城:0:0:金钱鬼)>"
+          "target": "<(c0xFF1E90FF)Tìm><Quỷ Tiền/M王城:0:0:金钱鬼><(c0xFF1E90FF)vào Kho Báu Trời Đất><(x王城:0:0:金钱鬼)>"
         },
         {
           "key": "data1990",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:189:120>"
         },
         {
           "key": "data2020",
           "occurrence": 1,
           "source": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>",
-          "target": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
+          "target": "<Sứ Giả Phó Bản/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
         },
         {
           "key": "data2050",
           "occurrence": 1,
           "source": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>",
-          "target": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>"
+          "target": "<Đấu Lực Chiến/@@showWin,52,0,0><(c0xFF1E90FF)1 lần>"
         },
         {
           "key": "data2060",
           "occurrence": 1,
           "source": "<请做狩猎任务/@@showWin,63>",
-          "target": "<请做狩猎任务/@@showWin,63>"
+          "target": "<Hãy làm nhiệm vụ săn quái/@@showWin,63>"
         },
         {
           "key": "data2080",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:189:120>"
         },
         {
           "key": "data2120",
