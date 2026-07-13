@@ -73700,97 +73700,97 @@
           "key": "n2900",
           "occurrence": 1,
           "source": "神•龙吟勋章",
-          "target": "神•龙吟勋章"
+          "target": "Thần • Long Ngâm Huy Chương"
         },
         {
           "key": "i2900",
           "occurrence": 1,
           "source": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造",
-          "target": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造"
+          "target": "Có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> để rèn Thần Trang 5 Chuyển Sinh tại <(c0xFFFF6600)Thánh Khí Chư Thần>"
         },
         {
           "key": "n2901",
           "occurrence": 1,
           "source": "城主礼包",
-          "target": "城主礼包"
+          "target": "Gói Thành Chủ"
         },
         {
           "key": "i2901",
           "occurrence": 1,
           "source": "【城池争霸】系统中，城主可领取的官职奖励：\\\\<(c0xFFFF6600)金币x50000\\\\天神精华x2\\\\神魂晶石x10\\\\10000点神魂卷x2\\\\10000点战魂卷x2\\\\10000点星魂卡x5\\\\1级神装增强精华x10\\\\符文精炼石x5\\\\10000000经验x10\\\\马鞭x10\\\\羽毛x10>",
-          "target": "【城池争霸】系统中，城主可领取的官职奖励：\\\\<(c0xFFFF6600)金币x50000\\\\天神精华x2\\\\神魂晶石x10\\\\10000点神魂卷x2\\\\10000点战魂卷x2\\\\10000点星魂卡x5\\\\1级神装增强精华x10\\\\符文精炼石x5\\\\10000000经验x10\\\\马鞭x10\\\\羽毛x10>"
+          "target": "Trong hệ thống 【Tranh Bá Thành Trì】, phần thưởng chức vị Thành Chủ có thể nhận:\\\\<(c0xFFFF6600)Vàng x50000\\\\Tinh Hoa Thiên Thần x2\\\\Tinh Thạch Thần Hồn x10\\\\Cuộn Thần Hồn 10000 Điểm x2\\\\Cuộn Chiến Hồn 10000 Điểm x2\\\\Thẻ Tinh Hồn 10000 Điểm x5\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 x10\\\\Đá Tinh Luyện Phù Văn x5\\\\10000K KN x10\\\\Roi Ngựa x10\\\\Lông Vũ x10>"
         },
         {
           "key": "n2902",
           "occurrence": 1,
           "source": "副城主礼包",
-          "target": "副城主礼包"
+          "target": "Gói Phó Thành Chủ"
         },
         {
           "key": "i2902",
           "occurrence": 1,
           "source": "【城池争霸】系统中，副城主可领取的官职奖励：\\\\<(c0xFFFF6600)金币x30000\\\\天神精华x1\\\\神魂晶石x5\\\\10000点神魂卷x2\\\\10000点战魂卷x2\\\\10000点星魂卡x3\\\\1级神装增强精华x5\\\\符文精炼石x5\\\\10000000经验x5\\\\马鞭x10\\\\羽毛x10>",
-          "target": "【城池争霸】系统中，副城主可领取的官职奖励：\\\\<(c0xFFFF6600)金币x30000\\\\天神精华x1\\\\神魂晶石x5\\\\10000点神魂卷x2\\\\10000点战魂卷x2\\\\10000点星魂卡x3\\\\1级神装增强精华x5\\\\符文精炼石x5\\\\10000000经验x5\\\\马鞭x10\\\\羽毛x10>"
+          "target": "Trong hệ thống 【Tranh Bá Thành Trì】, phần thưởng chức vị Phó Thành Chủ có thể nhận:\\\\<(c0xFFFF6600)Vàng x30000\\\\Tinh Hoa Thiên Thần x1\\\\Tinh Thạch Thần Hồn x5\\\\Cuộn Thần Hồn 10000 Điểm x2\\\\Cuộn Chiến Hồn 10000 Điểm x2\\\\Thẻ Tinh Hồn 10000 Điểm x3\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 x5\\\\Đá Tinh Luyện Phù Văn x5\\\\10000K KN x5\\\\Roi Ngựa x10\\\\Lông Vũ x10>"
         },
         {
           "key": "n2903",
           "occurrence": 1,
           "source": "官员礼包",
-          "target": "官员礼包"
+          "target": "Gói Quan Chức"
         },
         {
           "key": "i2903",
           "occurrence": 1,
           "source": "【城池争霸】系统中，大将军/大政令/大总管可领取的官职奖励：\\\\<(c0xFFFF6600)金币x10000\\\\攻击药水(大)x3\\\\神魂晶石x5\\\\10000点神魂卷x2\\\\10000点战魂卷x2\\\\10000点星魂卡x2\\\\1级神装增强精华x2\\\\防御药水(大)x3\\\\10000000经验x5\\\\马鞭x10\\\\羽毛x10>",
-          "target": "【城池争霸】系统中，大将军/大政令/大总管可领取的官职奖励：\\\\<(c0xFFFF6600)金币x10000\\\\攻击药水(大)x3\\\\神魂晶石x5\\\\10000点神魂卷x2\\\\10000点战魂卷x2\\\\10000点星魂卡x2\\\\1级神装增强精华x2\\\\防御药水(大)x3\\\\10000000经验x5\\\\马鞭x10\\\\羽毛x10>"
+          "target": "Trong hệ thống 【Tranh Bá Thành Trì】, phần thưởng chức vị Đại Tướng Quân/Đại Chính Lệnh/Đại Tổng Quản có thể nhận:\\\\<(c0xFFFF6600)Vàng x10000\\\\Thuốc Tấn Công (Lớn) x3\\\\Tinh Thạch Thần Hồn x5\\\\Cuộn Thần Hồn 10000 Điểm x2\\\\Cuộn Chiến Hồn 10000 Điểm x2\\\\Thẻ Tinh Hồn 10000 Điểm x2\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 x2\\\\Thuốc Phòng Thủ (Lớn) x3\\\\10000K KN x5\\\\Roi Ngựa x10\\\\Lông Vũ x10>"
         },
         {
           "key": "n2904",
           "occurrence": 1,
           "source": "影魅之翼【3天】",
-          "target": "影魅之翼【3天】"
+          "target": "Cánh Ảnh Mị 【3 ngày】"
         },
         {
           "key": "i2904",
           "occurrence": 1,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+50\\\\最大魔法攻击力+50\\\\最大道术攻击力+50",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+50\\\\最大魔法攻击力+50\\\\最大道术攻击力+50"
+          "target": "Nhấp đúp dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +50\\\\Tấn Công Ma Pháp tối đa +50\\\\Tấn Công Đạo Thuật tối đa +50"
         },
         {
           "key": "n2905",
           "occurrence": 1,
           "source": "微信礼包",
-          "target": "微信礼包"
+          "target": "Gói WeChat"
         },
         {
           "key": "i2905",
           "occurrence": 1,
           "source": "双击即可获得\\\\星魂卡x2\\\\兽魂丹x5\\\\羽毛x5\\\\强效怒气丹x2\\\\一阶绑金箱x1",
-          "target": "双击即可获得\\\\星魂卡x2\\\\兽魂丹x5\\\\羽毛x5\\\\强效怒气丹x2\\\\一阶绑金箱x1"
+          "target": "Nhấp đúp nhận\\\\Thẻ Tinh Hồn x2\\\\Đan Thú Hồn x5\\\\Lông Vũ x5\\\\Đan Nộ Khí Cường Hiệu x2\\\\Rương Vàng Khóa Bậc 1 x1"
         },
         {
           "key": "n2906",
           "occurrence": 1,
           "source": "荷花",
-          "target": "荷花"
+          "target": "Hoa Sen"
         },
         {
           "key": "i2906",
           "occurrence": 1,
           "source": "任务物品",
-          "target": "任务物品"
+          "target": "Vật Phẩm Nhiệm Vụ"
         },
         {
           "key": "n2907",
           "occurrence": 1,
           "source": "暗黑屠龙Q群礼包",
-          "target": "暗黑屠龙Q群礼包"
+          "target": "Gói Nhóm QQ Ám Hắc Đồ Long"
         },
         {
           "key": "i2907",
           "occurrence": 1,
           "source": "双击即可获得\\\\星魂卡x2\\\\马鞭x5\\\\羽毛x8\\\\苹果x1\\\\一阶绑金箱x2",
-          "target": "双击即可获得\\\\星魂卡x2\\\\马鞭x5\\\\羽毛x8\\\\苹果x1\\\\一阶绑金箱x2"
+          "target": "Nhấp đúp nhận\\\\Thẻ Tinh Hồn x2\\\\Roi Ngựa x5\\\\Lông Vũ x8\\\\Táo x1\\\\Rương Vàng Khóa Bậc 1 x2"
         },
         {
           "key": "n2908",
