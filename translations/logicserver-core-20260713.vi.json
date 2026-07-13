@@ -63092,67 +63092,67 @@
           "key": "n2016",
           "occurrence": 1,
           "source": "普通辨识符",
-          "target": "普通辨识符"
+          "target": "Phù Giám Định Thường"
         },
         {
           "key": "i2016",
           "occurrence": 1,
           "source": "可对未辨识符文进行辨识\\\\辨识后符文可获得随机属性",
-          "target": "可对未辨识符文进行辨识\\\\辨识后符文可获得随机属性"
+          "target": "Có thể Giám Định Phù Văn chưa Giám Định\\\\Sau khi Giám Định, Phù Văn có thể nhận thuộc tính ngẫu nhiên"
         },
         {
           "key": "n2017",
           "occurrence": 1,
           "source": "超级辨识符",
-          "target": "超级辨识符"
+          "target": "Phù Giám Định Siêu Cấp"
         },
         {
           "key": "i2017",
           "occurrence": 1,
           "source": "可对未辨识符文进行辨识\\\\辨识后可高机率获得高品质的符文",
-          "target": "可对未辨识符文进行辨识\\\\辨识后可高机率获得高品质的符文"
+          "target": "Có thể Giám Định Phù Văn chưa Giám Định\\\\Sau khi Giám Định có tỷ lệ cao nhận Phù Văn phẩm chất cao"
         },
         {
           "key": "n2018",
           "occurrence": 1,
           "source": "VIP转盘奖励刷新道具",
-          "target": "VIP转盘奖励刷新道具"
+          "target": "Đạo Cụ Làm Mới Thưởng Vòng Quay VIP"
         },
         {
           "key": "i2018",
           "occurrence": 1,
           "source": "在线奖励中，可以刷新转盘奖励物品的道具",
-          "target": "在线奖励中，可以刷新转盘奖励物品的道具"
+          "target": "Đạo cụ làm mới phần thưởng Vòng Quay trong Thưởng Online"
         },
         {
           "key": "n2019",
           "occurrence": 1,
           "source": "65级新手包",
-          "target": "65级新手包"
+          "target": "Gói Tân Thủ Cấp 65"
         },
         {
           "key": "i2019",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)65级>即可领取60级等级礼包",
-          "target": "到达<(c0xFF00FFFF)65级>即可领取60级等级礼包"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 65> có thể nhận Gói Cấp 60"
         },
         {
           "key": "n2020",
           "occurrence": 1,
           "source": "70级新手包",
-          "target": "70级新手包"
+          "target": "Gói Tân Thủ Cấp 70"
         },
         {
           "key": "i2020",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)70级>即可领取60级等级礼包",
-          "target": "到达<(c0xFF00FFFF)70级>即可领取60级等级礼包"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 70> có thể nhận Gói Cấp 60"
         },
         {
           "key": "n2021",
           "occurrence": 1,
           "source": "1转套装材料(废弃)",
-          "target": "1转套装材料(废弃)"
+          "target": "Nguyên Liệu Bộ Trang Bị Chuyển Sinh 1 (Đã bỏ)"
         },
         {
           "key": "i2021",
@@ -63164,7 +63164,7 @@
           "key": "n2022",
           "occurrence": 1,
           "source": "2转套装材料(废弃)",
-          "target": "2转套装材料(废弃)"
+          "target": "Nguyên Liệu Bộ Trang Bị Chuyển Sinh 2 (Đã bỏ)"
         },
         {
           "key": "i2022",
@@ -63176,7 +63176,7 @@
           "key": "n2023",
           "occurrence": 1,
           "source": "3转套装材料(废弃)",
-          "target": "3转套装材料(废弃)"
+          "target": "Nguyên Liệu Bộ Trang Bị Chuyển Sinh 3 (Đã bỏ)"
         },
         {
           "key": "i2023",
@@ -63188,145 +63188,145 @@
           "key": "n2024",
           "occurrence": 1,
           "source": "大天使之剑",
-          "target": "大天使之剑"
+          "target": "Kiếm Đại Thiên Sứ"
         },
         {
           "key": "i2024",
           "occurrence": 1,
           "source": "神器",
-          "target": "神器"
+          "target": "Thần Khí"
         },
         {
           "key": "n2025",
           "occurrence": 1,
           "source": "玉石",
-          "target": "玉石"
+          "target": "Ngọc Thạch"
         },
         {
           "key": "i2025",
           "occurrence": 1,
           "source": "必须加入行会才可以使用\\\\按快捷键(G)可加入或打开行会\\\\双击使用上缴到行会聚宝盆",
-          "target": "必须加入行会才可以使用\\\\按快捷键(G)可加入或打开行会\\\\双击使用上缴到行会聚宝盆"
+          "target": "Phải gia nhập Bang Hội mới có thể dùng\\\\Nhấn phím tắt (G) để gia nhập hoặc mở Bang Hội\\\\Nhấp đúp dùng để nộp vào Bồn Tụ Bảo Bang Hội"
         },
         {
           "key": "n2026",
           "occurrence": 1,
           "source": "珍珠",
-          "target": "珍珠"
+          "target": "Ngọc Trai"
         },
         {
           "key": "i2026",
           "occurrence": 1,
           "source": "必须加入行会才可以使用\\\\按快捷键(G)可加入或打开行会\\\\双击使用上缴到行会聚宝盆",
-          "target": "必须加入行会才可以使用\\\\按快捷键(G)可加入或打开行会\\\\双击使用上缴到行会聚宝盆"
+          "target": "Phải gia nhập Bang Hội mới có thể dùng\\\\Nhấn phím tắt (G) để gia nhập hoặc mở Bang Hội\\\\Nhấp đúp dùng để nộp vào Bồn Tụ Bảo Bang Hội"
         },
         {
           "key": "n2027",
           "occurrence": 1,
           "source": "钻石",
-          "target": "钻石"
+          "target": "Kim Cương"
         },
         {
           "key": "i2027",
           "occurrence": 1,
           "source": "必须加入行会才可以使用\\\\按快捷键(G)可加入或打开行会\\\\双击使用上缴到行会聚宝盆",
-          "target": "必须加入行会才可以使用\\\\按快捷键(G)可加入或打开行会\\\\双击使用上缴到行会聚宝盆"
+          "target": "Phải gia nhập Bang Hội mới có thể dùng\\\\Nhấn phím tắt (G) để gia nhập hoặc mở Bang Hội\\\\Nhấp đúp dùng để nộp vào Bồn Tụ Bảo Bang Hội"
         },
         {
           "key": "n2028",
           "occurrence": 1,
           "source": "地狱之火",
-          "target": "地狱之火"
+          "target": "Lửa Địa Ngục"
         },
         {
           "key": "i2028",
           "occurrence": 1,
           "source": "炼狱深处混沌之炉的力量",
-          "target": "炼狱深处混沌之炉的力量"
+          "target": "Sức mạnh của Lò Hỗn Độn sâu trong Luyện Ngục"
         },
         {
           "key": "n2029",
           "occurrence": 1,
           "source": "基德珍珠",
-          "target": "基德珍珠"
+          "target": "Ngọc Trai Gheed"
         },
         {
           "key": "i2029",
           "occurrence": 1,
           "source": "珠宝商基德最喜欢的天然原材料",
-          "target": "珠宝商基德最喜欢的天然原材料"
+          "target": "Nguyên liệu tự nhiên được thợ kim hoàn Gheed yêu thích nhất"
         },
         {
           "key": "n2030",
           "occurrence": 1,
           "source": "虫卵",
-          "target": "虫卵"
+          "target": "Trứng Sâu"
         },
         {
           "key": "i2030",
           "occurrence": 1,
           "source": "邪恶力量的结晶",
-          "target": "邪恶力量的结晶"
+          "target": "Kết tinh của sức mạnh tà ác"
         },
         {
           "key": "n2031",
           "occurrence": 1,
           "source": "白银VIP礼包",
-          "target": "白银VIP礼包"
+          "target": "Gói VIP Bạc"
         },
         {
           "key": "i2031",
           "occurrence": 1,
           "source": "VIP礼包",
-          "target": "VIP礼包"
+          "target": "Gói VIP"
         },
         {
           "key": "n2032",
           "occurrence": 1,
           "source": "黄金VIP礼包",
-          "target": "黄金VIP礼包"
+          "target": "Gói VIP Vàng"
         },
         {
           "key": "i2032",
           "occurrence": 1,
           "source": "VIP礼包",
-          "target": "VIP礼包"
+          "target": "Gói VIP"
         },
         {
           "key": "n2033",
           "occurrence": 1,
           "source": "至尊VIP礼包",
-          "target": "至尊VIP礼包"
+          "target": "Gói VIP Tối Thượng"
         },
         {
           "key": "i2033",
           "occurrence": 1,
           "source": "VIP礼包",
-          "target": "VIP礼包"
+          "target": "Gói VIP"
         },
         {
           "key": "n2034",
           "occurrence": 1,
           "source": "兽魂丹代金券",
-          "target": "兽魂丹代金券"
+          "target": "Phiếu Đan Hồn Thú"
         },
         {
           "key": "i2034",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买兽魂丹时可以代替30元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买兽魂丹时可以代替30元宝进行消费"
+          "target": "Nhấp đúp để dùng\\\\Khi mua Đan Hồn Thú, có thể dùng phiếu thay cho 30 Nguyên Bảo"
         },
         {
           "key": "n2035",
           "occurrence": 1,
           "source": "超级符文鉴定符代金券",
-          "target": "超级符文鉴定符代金券"
+          "target": "Phiếu Phù Giám Định Phù Văn Siêu Cấp"
         },
         {
           "key": "i2035",
           "occurrence": 1,
           "source": "双击使用\\\\在商城购买超级符文鉴定符代替30元宝进行消费",
-          "target": "双击使用\\\\在商城购买超级符文鉴定符代替30元宝进行消费"
+          "target": "Nhấp đúp để dùng\\\\Khi mua Phù Giám Định Phù Văn Siêu Cấp tại Cửa Hàng, có thể dùng phiếu thay cho 30 Nguyên Bảo"
         },
         {
           "key": "n2036",
