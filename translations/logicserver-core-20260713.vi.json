@@ -48896,85 +48896,85 @@
           "key": "n833",
           "occurrence": 1,
           "source": "佣兵刺杀",
-          "target": "佣兵刺杀"
+          "target": "Ám Sát Lính Đánh Thuê"
         },
         {
           "key": "i833",
           "occurrence": 1,
           "source": "佣兵专用技能,佣兵创建时候自动学得\\\\攻击前方两格的目标,对第一格目标造成<(c0xFF00FFFF)100%>物理伤害\\\\对第二格的目标造成<(c0xFF00FFFF)60%>的伤害并且无视防御",
-          "target": "佣兵专用技能,佣兵创建时候自动学得\\\\攻击前方两格的目标,对第一格目标造成<(c0xFF00FFFF)100%>物理伤害\\\\对第二格的目标造成<(c0xFF00FFFF)60%>的伤害并且无视防御"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, tự học khi tạo\\\\Tấn công 2 ô phía trước; mục tiêu ô 1 nhận <(c0xFF00FFFF)100%> sát thương Vật Lý\\\\Mục tiêu ô 2 nhận <(c0xFF00FFFF)60%> sát thương, bỏ qua Phòng Thủ"
         },
         {
           "key": "n834",
           "occurrence": 1,
           "source": "佣兵半月",
-          "target": "佣兵半月"
+          "target": "Bán Nguyệt Lính Đánh Thuê"
         },
         {
           "key": "i834",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\攻击目标造成<(c0xFF00FFFF)100%>伤害,并对目标附近的目标造成<(c0xFF00FFFF)20%>的伤害",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\攻击目标造成<(c0xFF00FFFF)100%>伤害,并对目标附近的目标造成<(c0xFF00FFFF)20%>的伤害"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 30> có thể học\\\\Gây <(c0xFF00FFFF)100%> sát thương mục tiêu, và <(c0xFF00FFFF)20%> sát thương mục tiêu quanh đó"
         },
         {
           "key": "n835",
           "occurrence": 1,
           "source": "佣兵烈火",
-          "target": "佣兵烈火"
+          "target": "Liệt Hỏa Lính Đánh Thuê"
         },
         {
           "key": "i835",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\使得下一次攻击对目标造成240%的伤害",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\使得下一次攻击对目标造成240%的伤害"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 35> có thể học\\\\Đòn kế tiếp gây 240% sát thương mục tiêu"
         },
         {
           "key": "n836",
           "occurrence": 1,
           "source": "烈火轰杀",
-          "target": "烈火轰杀"
+          "target": "Liệt Hỏa Oanh Sát"
         },
         {
           "key": "i836",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\攻击佣兵身边8X8的所有可攻击目标\\\\造成50%的物理攻击并且使得目标的最大物理攻击下降60点\\\\持续5秒,冷却时间:30秒",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\攻击佣兵身边8X8的所有可攻击目标\\\\造成50%的物理攻击并且使得目标的最大物理攻击下降60点\\\\持续5秒,冷却时间:30秒"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 35> có thể học\\\\Tấn công mọi mục tiêu trong vùng 8×8 quanh Lính Đánh Thuê\\\\Gây 50% Công Vật Lý, giảm 60 Công Vật Lý Tối Đa\\\\Kéo dài 5 giây, hồi chiêu: 30 giây"
         },
         {
           "key": "n837",
           "occurrence": 1,
           "source": "佣兵雷电",
-          "target": "佣兵雷电"
+          "target": "Lôi Điện Lính Đánh Thuê"
         },
         {
           "key": "i837",
           "occurrence": 1,
           "source": "佣兵专用技能,佣兵创建时候自动学得\\\\从空中召唤一道雷电攻击目标\\\\对目标造成80%魔法攻击加上25~65点的魔法伤害",
-          "target": "佣兵专用技能,佣兵创建时候自动学得\\\\从空中召唤一道雷电攻击目标\\\\对目标造成80%魔法攻击加上25~65点的魔法伤害"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, tự học khi tạo\\\\Gọi Lôi Điện từ trời tấn công mục tiêu\\\\Gây 80% Công Phép + 25~65 sát thương Phép"
         },
         {
           "key": "n838",
           "occurrence": 1,
           "source": "佣兵冰咆哮",
-          "target": "佣兵冰咆哮"
+          "target": "Băng Khiếu Lính Đánh Thuê"
         },
         {
           "key": "i838",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\对3x3范围内的目标造成80%魔法攻击加上160点的魔法伤害",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\对3x3范围内的目标造成80%魔法攻击加上160点的魔法伤害"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 30> có thể học\\\\Gây cho mục tiêu trong vùng 3×3: 80% Công Phép + 160 sát thương Phép"
         },
         {
           "key": "n839",
           "occurrence": 1,
           "source": "佣兵魔法盾",
-          "target": "佣兵魔法盾"
+          "target": "Khiên Phép Lính Đánh Thuê"
         },
         {
           "key": "i839",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\凝聚一个魔法盾来使得物理攻击和魔法攻击对自身的伤害减低24%.",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\凝聚一个魔法盾来使得物理攻击和魔法攻击对自身的伤害减低24%."
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 35> có thể học\\\\Tạo Khiên Phép giảm 24% sát thương Vật Lý và Phép nhận vào"
         },
         {
           "key": "n840",
