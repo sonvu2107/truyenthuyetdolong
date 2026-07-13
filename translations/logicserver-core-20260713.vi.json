@@ -29452,55 +29452,55 @@
           "key": "desc471",
           "occurrence": 1,
           "source": "离开<首饰店老板/M高老庄:0:0:首饰店老板>,去铁匠铺找<铁匠/M高老庄:0:0:铁匠>,寻把趁手兵器.",
-          "target": "离开<首饰店老板/M高老庄:0:0:首饰店老板>,去铁匠铺找<铁匠/M高老庄:0:0:铁匠>,寻把趁手兵器."
+          "target": "Rời <Chủ Tiệm Trang Sức/M高老庄:0:0:首饰店老板>, đến lò rèn gặp <Thợ Rèn/M高老庄:0:0:铁匠> tìm vũ khí vừa tay."
         },
         {
           "key": "desc472",
           "occurrence": 1,
           "source": "告别<铁匠/M高老庄:0:0:铁匠>,去找<书店老板/M高老庄:0:0:书店老板>补给需求.",
-          "target": "告别<铁匠/M高老庄:0:0:铁匠>,去找<书店老板/M高老庄:0:0:书店老板>补给需求."
+          "target": "Từ biệt <Thợ Rèn/M高老庄:0:0:铁匠>, gặp <Chủ Tiệm Sách/M高老庄:0:0:书店老板> bổ sung nhu yếu phẩm."
         },
         {
           "key": "desc473",
           "occurrence": 1,
           "source": "偶遇采药归来的<药店掌柜,/M高老庄:0:0:药店掌柜,>与之对话.",
-          "target": "偶遇采药归来的<药店掌柜,/M高老庄:0:0:药店掌柜,>与之对话."
+          "target": "Gặp <Chủ Tiệm Thuốc,/M高老庄:0:0:药店掌柜,> vừa hái thuốc về, hãy nói chuyện."
         },
         {
           "key": "desc474",
           "occurrence": 1,
           "source": "走出书店,徜徉到<杂货商/M高老庄:0:0:杂货商>那里看看有没有需要的.",
-          "target": "走出书店,徜徉到<杂货商/M高老庄:0:0:杂货商>那里看看有没有需要的."
+          "target": "Rời tiệm sách, đến <Thương Nhân Tạp Hóa/M高老庄:0:0:杂货商> xem có gì cần dùng."
         },
         {
           "key": "desc475",
           "occurrence": 1,
           "source": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "消灭怪物后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Diệt quái rồi nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc476",
           "occurrence": 1,
           "source": "找到美女小佳.",
-          "target": "找到美女小佳."
+          "target": "Tìm Tiểu Giai."
         },
         {
           "key": "desc477",
           "occurrence": 1,
           "source": "消灭邪恶羊怪.",
-          "target": "消灭邪恶羊怪."
+          "target": "Diệt Dê Quỷ."
         },
         {
           "key": "desc478",
           "occurrence": 1,
           "source": "拜访<铁匠恰西/M圣城:166:243:铁匠恰西>询问游戏后期玩法.",
-          "target": "拜访<铁匠恰西/M圣城:166:243:铁匠恰西>询问游戏后期玩法."
+          "target": "Gặp <Thợ Rèn Charsi/M圣城:166:243:铁匠恰西> hỏi cách chơi giai đoạn sau."
         },
         {
           "key": "desc479",
           "occurrence": 1,
           "source": "继续对话美女小佳.",
-          "target": "继续对话美女小佳."
+          "target": "Tiếp tục nói chuyện với Tiểu Giai."
         },
         {
           "key": "desc48",
@@ -29512,7 +29512,7 @@
           "key": "desc480",
           "occurrence": 1,
           "source": "下载并使用登陆器后找到<凯恩/M圣城:220:180:凯恩>交付任务.",
-          "target": "下载并使用登陆器后找到<凯恩/M圣城:220:180:凯恩>交付任务."
+          "target": "Tải và dùng Launcher, rồi gặp <Hiền Giả Cain/M圣城:220:180:凯恩> nộp nhiệm vụ."
         },
         {
           "key": "desc481",
