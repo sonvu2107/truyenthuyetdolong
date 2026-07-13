@@ -44,7 +44,7 @@
     {
       "source": "assets/game/static/common.js",
       "target": "game/static/common.js",
-      "sha256": "6737ADFB6CE36BC5AC1AD2AEDA38F942E3621C2B947C84DF27196F31BBE5997B"
+      "sha256": "32F3F6CA07F9555AC70A0AE7ACE1A2B33DA58DD43B69EEC12776CB1620FF47E6"
     },
     {
       "source": "assets/game/djrm.php",
