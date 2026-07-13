@@ -57164,31 +57164,31 @@
           "key": "n1522",
           "occurrence": 1,
           "source": "高富帅的印证(废弃)",
-          "target": "高富帅的印证(废弃)"
+          "target": "Chứng Nhận Cao Phú Soái (Bỏ)"
         },
         {
           "key": "i1522",
           "occurrence": 1,
           "source": "现代型男三标准：\\\\<(c0xFF00FF00)高>！<(c0xFFFFFF00)富>！<(c0xFF00FFFF)帅>！\\\\双击使用，即可获得<(c0xFFFF0000)永久型男>专属身份头衔\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>",
-          "target": "现代型男三标准：\\\\<(c0xFF00FF00)高>！<(c0xFFFFFF00)富>！<(c0xFF00FFFF)帅>！\\\\双击使用，即可获得<(c0xFFFF0000)永久型男>专属身份头衔\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>"
+          "target": "Ba tiêu chuẩn đàn ông hiện đại:\\\\<(c0xFF00FF00)Cao>! <(c0xFFFFFF00)Giàu>! <(c0xFF00FFFF)Đẹp Trai>!\\\\Nhấp đúp để dùng, nhận Danh Hiệu thân phận độc quyền <(c0xFFFF0000)Nam Thần Vĩnh Viễn>\\\\Đồng thời nhận <(c0xFFCC6600)Thuộc Tính cộng thêm>:\\\\<(c0xFFFFFF00)　HP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　MP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　Phòng Thủ Vật Lý Tối Đa><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　Phòng Thủ Pháp Thuật Tối Đa><(c0xFF00FF00)+20>"
         },
         {
           "key": "n1523",
           "occurrence": 1,
           "source": "白富美的印证(废弃)",
-          "target": "白富美的印证(废弃)"
+          "target": "Chứng Nhận Bạch Phú Mỹ (Bỏ)"
         },
         {
           "key": "i1523",
           "occurrence": 1,
           "source": "现代靓女三面观：\\\\白～<(c0xFFFFFF00)富>～<(c0xFFFFD7EA)美>！\\\\双击使用，即可获得<(c0xFFFF0000)永久靓女>专属身份头衔\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>",
-          "target": "现代靓女三面观：\\\\白～<(c0xFFFFFF00)富>～<(c0xFFFFD7EA)美>！\\\\双击使用，即可获得<(c0xFFFF0000)永久靓女>专属身份头衔\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>"
+          "target": "Ba tiêu chuẩn mỹ nữ hiện đại:\\\\Trắng ~<(c0xFFFFFF00)Giàu>~<(c0xFFFFD7EA)Đẹp>!\\\\Nhấp đúp để dùng, nhận Danh Hiệu thân phận độc quyền <(c0xFFFF0000)Mỹ Nữ Vĩnh Viễn>\\\\Đồng thời nhận <(c0xFFCC6600)Thuộc Tính cộng thêm>:\\\\<(c0xFFFFFF00)　HP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　MP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　Phòng Thủ Vật Lý Tối Đa><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　Phòng Thủ Pháp Thuật Tối Đa><(c0xFF00FF00)+20>"
         },
         {
           "key": "n1524",
           "occurrence": 1,
           "source": "战士男装佣兵包(废弃)",
-          "target": "战士男装佣兵包(废弃)"
+          "target": "Gói Lính Đánh Thuê Chiến Sĩ (Nam) (Bỏ)"
         },
         {
           "key": "i1524",
@@ -57200,7 +57200,7 @@
           "key": "n1525",
           "occurrence": 1,
           "source": "法师男装佣兵包(废弃)",
-          "target": "法师男装佣兵包(废弃)"
+          "target": "Gói Lính Đánh Thuê Pháp Sư (Nam) (Bỏ)"
         },
         {
           "key": "i1525",
@@ -57212,7 +57212,7 @@
           "key": "n1526",
           "occurrence": 1,
           "source": "道士男装佣兵包(废弃)",
-          "target": "道士男装佣兵包(废弃)"
+          "target": "Gói Lính Đánh Thuê Đạo Sĩ (Nam) (Bỏ)"
         },
         {
           "key": "i1526",
@@ -57224,7 +57224,7 @@
           "key": "n1527",
           "occurrence": 1,
           "source": "战士女装佣兵包(废弃)",
-          "target": "战士女装佣兵包(废弃)"
+          "target": "Gói Lính Đánh Thuê Chiến Sĩ (Nữ) (Bỏ)"
         },
         {
           "key": "i1527",
@@ -57236,7 +57236,7 @@
           "key": "n1528",
           "occurrence": 1,
           "source": "法师女装佣兵包(废弃)",
-          "target": "法师女装佣兵包(废弃)"
+          "target": "Gói Lính Đánh Thuê Pháp Sư (Nữ) (Bỏ)"
         },
         {
           "key": "i1528",
@@ -57248,7 +57248,7 @@
           "key": "n1529",
           "occurrence": 1,
           "source": "道士女装佣兵包(废弃)",
-          "target": "道士女装佣兵包(废弃)"
+          "target": "Gói Lính Đánh Thuê Đạo Sĩ (Nữ) (Bỏ)"
         },
         {
           "key": "i1529",
@@ -57260,13 +57260,13 @@
           "key": "n1530",
           "occurrence": 1,
           "source": "海洋之心(废弃)",
-          "target": "海洋之心(废弃)"
+          "target": "Trái Tim Đại Dương (Bỏ)"
         },
         {
           "key": "i1530",
           "occurrence": 1,
           "source": "晶透莹光爱耀眼,钻戒恒久心相牵\\\\<(c0xFF00FF00)3>个<(c0xFF00FF00)海洋之心>可以升级成一个<(c0xFF00FF00)紫韵浪漫>！",
-          "target": "晶透莹光爱耀眼,钻戒恒久心相牵\\\\<(c0xFF00FF00)3>个<(c0xFF00FF00)海洋之心>可以升级成一个<(c0xFF00FF00)紫韵浪漫>！"
+          "target": "Kim cương trong sáng, tình yêu chói mắt; nhẫn cưới gắn kết trái tim mãi mãi\\\\<(c0xFF00FF00)3> <(c0xFF00FF00)Trái Tim Đại Dương> có thể nâng thành một <(c0xFF00FF00)Lãng Mạn Tím>!"
         },
         {
           "key": "n1531",
