@@ -50570,73 +50570,73 @@
           "key": "i972",
           "occurrence": 1,
           "source": "用于进入闹洞房的凭证,可在商城中购买\\\\<(c0xFF00FF00)提示:通过商城购买获得>",
-          "target": "用于进入闹洞房的凭证,可在商城中购买\\\\<(c0xFF00FF00)提示:通过商城购买获得>"
+          "target": "Vé vào Động Phòng, mua trong Cửa Hàng\\\\<(c0xFF00FF00)Gợi Ý: mua trong Cửa Hàng>"
         },
         {
           "key": "n973",
           "occurrence": 1,
           "source": "行会卡礼包",
-          "target": "行会卡礼包"
+          "target": "Gói Thẻ Bang Hội"
         },
         {
           "key": "i973",
           "occurrence": 1,
           "source": "双击打开,获得行会礼包道具\\\\<(c0xFF00FF00)提示:在福利系统处可领取>",
-          "target": "双击打开,获得行会礼包道具\\\\<(c0xFF00FF00)提示:在福利系统处可领取>"
+          "target": "Dùng để nhận vật phẩm Gói Bang Hội\\\\<(c0xFF00FF00)Gợi Ý: nhận tại Phúc Lợi>"
         },
         {
           "key": "n974",
           "occurrence": 1,
           "source": "宝石代金卡",
-          "target": "宝石代金卡"
+          "target": "Thẻ Đá Quý"
         },
         {
           "key": "i974",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买5级宝石时可以代替729元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买5级宝石时可以代替729元宝进行消费"
+          "target": "Dùng\\\\Mua Đá Quý Cấp 5 bằng thẻ để thay 729 Nguyên Bảo"
         },
         {
           "key": "n975",
           "occurrence": 1,
           "source": "装备升级石代金卡",
-          "target": "装备升级石代金卡"
+          "target": "Thẻ Đá Nâng Cấp Trang Bị"
         },
         {
           "key": "i975",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买装备升级石升级材料可以代替29元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买装备升级石升级材料可以代替29元宝进行消费"
+          "target": "Dùng\\\\Mua nguyên liệu Đá Nâng Cấp Trang Bị bằng thẻ để thay 29 Nguyên Bảo"
         },
         {
           "key": "n976",
           "occurrence": 1,
           "source": "时装代金卡",
-          "target": "时装代金卡"
+          "target": "Thẻ Thời Trang"
         },
         {
           "key": "i976",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买指定时装可以代替300元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买指定时装可以代替300元宝进行消费"
+          "target": "Dùng\\\\Mua thời trang chỉ định bằng thẻ để thay 300 Nguyên Bảo"
         },
         {
           "key": "n977",
           "occurrence": 1,
           "source": "玫瑰代金卡",
-          "target": "玫瑰代金卡"
+          "target": "Thẻ Hoa Hồng"
         },
         {
           "key": "i977",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买999玫瑰可以代替400元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买999玫瑰可以代替400元宝进行消费"
+          "target": "Dùng\\\\Mua 999 Hoa Hồng bằng thẻ để thay 400 Nguyên Bảo"
         },
         {
           "key": "n978",
           "occurrence": 1,
           "source": "幸运宝石(废弃)",
-          "target": "幸运宝石(废弃)"
+          "target": "Đá May Mắn (Bỏ)"
         },
         {
           "key": "i978",
@@ -50648,7 +50648,7 @@
           "key": "n979",
           "occurrence": 1,
           "source": "神圣宝石(废弃)",
-          "target": "神圣宝石(废弃)"
+          "target": "Đá Thần Thánh (Bỏ)"
         },
         {
           "key": "i979",
@@ -50660,7 +50660,7 @@
           "key": "n980",
           "occurrence": 1,
           "source": "移速宝石(废弃)",
-          "target": "移速宝石(废弃)"
+          "target": "Đá Tốc Chạy (Bỏ)"
         },
         {
           "key": "i980",
@@ -50672,7 +50672,7 @@
           "key": "n981",
           "occurrence": 1,
           "source": "攻速宝石(废弃)",
-          "target": "攻速宝石(废弃)"
+          "target": "Đá Tốc Đánh (Bỏ)"
         },
         {
           "key": "i981",
@@ -50684,43 +50684,43 @@
           "key": "n982",
           "occurrence": 1,
           "source": "2阶麻痹戒指",
-          "target": "2阶麻痹戒指"
+          "target": "Nhẫn Tê Liệt Bậc 2"
         },
         {
           "key": "i982",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)2阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)3阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)2阶麻痹戒指> 可以合成一个 <(c0xFFFF6600)3阶麻痹戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Trang bị: sát thương Vật Lý có cơ hội <(c0xFFFF6600)Tê Liệt 5 Giây>\\\\Hiệu ứng Tê Liệt cộng dồn, tăng bậc tăng tỷ lệ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 2> ghép thành <(c0xFFFF6600)Nhẫn Tê Liệt Bậc 3>, tăng mạnh sức mạnh\\\\Ghép tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n983",
           "occurrence": 1,
           "source": "2阶护体戒指",
-          "target": "2阶护体戒指"
+          "target": "Nhẫn Hộ Thể Bậc 2"
         },
         {
           "key": "i983",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,受到伤害时将会由 <(c0xFFFF6600)魔法值来抵消伤害>\\\\多个护体效果可进行叠加,升阶增加护体比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)2阶护体戒指> 可以合成一个 <(c0xFFFF6600)3阶护体戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,受到伤害时将会由 <(c0xFFFF6600)魔法值来抵消伤害>\\\\多个护体效果可进行叠加,升阶增加护体比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)2阶护体戒指> 可以合成一个 <(c0xFFFF6600)3阶护体戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Khi chịu sát thương, <(c0xFFFF6600)MP chịu thay sát thương>\\\\Hiệu ứng Hộ Thể cộng dồn, tăng bậc tăng tỷ lệ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Hộ Thể Bậc 2> ghép thành <(c0xFFFF6600)Nhẫn Hộ Thể Bậc 3>, tăng mạnh sức mạnh\\\\Ghép tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n984",
           "occurrence": 1,
           "source": "2阶复活戒指",
-          "target": "2阶复活戒指"
+          "target": "Nhẫn Phục Sinh Bậc 2"
         },
         {
           "key": "i984",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\多个回血比率效果可进行叠加,升阶增加回血比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)2阶复活戒指> 可以合成一个 <(c0xFFFF6600)3阶复活戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\多个回血比率效果可进行叠加,升阶增加回血比率\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)2阶复活戒指> 可以合成一个 <(c0xFFFF6600)3阶复活戒指>,实力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行合成"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Khi tử vong, <(c0xFFFF6600)Phục Sinh ngay>, hồi chiêu 60 Giây\\\\Hiệu ứng tỷ lệ hồi HP cộng dồn, tăng bậc tăng tỷ lệ\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Phục Sinh Bậc 2> ghép thành <(c0xFFFF6600)Nhẫn Phục Sinh Bậc 3>, tăng mạnh sức mạnh\\\\Ghép tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n985",
           "occurrence": 1,
           "source": "毒血(废弃)",
-          "target": "毒血(废弃)"
+          "target": "Máu Độc (Bỏ)"
         },
         {
           "key": "i985",
@@ -50732,7 +50732,7 @@
           "key": "n986",
           "occurrence": 1,
           "source": "虫魔灵魂(废弃)",
-          "target": "虫魔灵魂(废弃)"
+          "target": "Linh Hồn Trùng Ma (Bỏ)"
         },
         {
           "key": "i986",
@@ -50744,7 +50744,7 @@
           "key": "n987",
           "occurrence": 1,
           "source": "残花(废弃)",
-          "target": "残花(废弃)"
+          "target": "Hoa Tàn (Bỏ)"
         },
         {
           "key": "i987",
@@ -50756,7 +50756,7 @@
           "key": "n988",
           "occurrence": 1,
           "source": "灵石(废弃)",
-          "target": "灵石(废弃)"
+          "target": "Linh Thạch (Bỏ)"
         },
         {
           "key": "i988",
@@ -50768,7 +50768,7 @@
           "key": "n989",
           "occurrence": 1,
           "source": "灵汁(废弃)",
-          "target": "灵汁(废弃)"
+          "target": "Linh Dịch (Bỏ)"
         },
         {
           "key": "i989",
@@ -50780,49 +50780,49 @@
           "key": "n990",
           "occurrence": 1,
           "source": "雪霜药剂",
-          "target": "雪霜药剂"
+          "target": "Thuốc Tuyết Sương"
         },
         {
           "key": "i990",
           "occurrence": 1,
           "source": "立即恢复人物一定的生命值!\\\\<(c0xFF00FF00)提示:可在马拉NPC处购买>",
-          "target": "立即恢复人物一定的生命值!\\\\<(c0xFF00FF00)提示:可在马拉NPC处购买>"
+          "target": "Hồi ngay một lượng HP!\\\\<(c0xFF00FF00)Gợi Ý: mua tại NPC Mala>"
         },
         {
           "key": "n991",
           "occurrence": 1,
           "source": "强效雪霜药剂",
-          "target": "强效雪霜药剂"
+          "target": "Thuốc Tuyết Sương Mạnh"
         },
         {
           "key": "i991",
           "occurrence": 1,
           "source": "立即恢复人物一定的生命值!\\\\<(c0xFF00FF00)提示:可在马拉NPC处购买>",
-          "target": "立即恢复人物一定的生命值!\\\\<(c0xFF00FF00)提示:可在马拉NPC处购买>"
+          "target": "Hồi ngay một lượng HP!\\\\<(c0xFF00FF00)Gợi Ý: mua tại NPC Mala>"
         },
         {
           "key": "n992",
           "occurrence": 1,
           "source": "日常用品包",
-          "target": "日常用品包"
+          "target": "Gói Đồ Dùng Hằng Ngày"
         },
         {
           "key": "i992",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种物品:\\\\修复药水\\\\复活药水\\\\西洋参\\\\雪莲\\\\生命药水(中)\\\\防御药水(中)",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种物品:\\\\修复药水\\\\复活药水\\\\西洋参\\\\雪莲\\\\生命药水(中)\\\\防御药水(中)"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận ngẫu nhiên 1:\\\\Thuốc Sửa Chữa\\\\Thuốc Phục Sinh\\\\Sâm Tây Dương\\\\Tuyết Liên\\\\Thuốc HP (Trung)\\\\Thuốc Phòng Thủ (Trung)"
         },
         {
           "key": "n993",
           "occurrence": 1,
           "source": "装备强化包",
-          "target": "装备强化包"
+          "target": "Gói Cường Hóa Trang Bị"
         },
         {
           "key": "i993",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种物品:\\\\强化卷轴\\\\强化水晶\\\\强化保护卷轴\\\\清洗药水\\\\鉴定锁\\\\1级魔晶石\\\\2级魔晶石\\\\3级魔晶石",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种物品:\\\\强化卷轴\\\\强化水晶\\\\强化保护卷轴\\\\清洗药水\\\\鉴定锁\\\\1级魔晶石\\\\2级魔晶石\\\\3级魔晶石"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận ngẫu nhiên 1:\\\\Cuộn Cường Hóa\\\\Pha Lê Cường Hóa\\\\Cuộn Bảo Hộ Cường Hóa\\\\Thuốc Tẩy\\\\Khóa Giám Định\\\\Đá Ma Tinh Cấp 1\\\\Đá Ma Tinh Cấp 2\\\\Đá Ma Tinh Cấp 3"
         },
         {
           "key": "n994",
