@@ -51476,43 +51476,43 @@
           "key": "n1048",
           "occurrence": 1,
           "source": "1倍经验水晶",
-          "target": "1倍经验水晶"
+          "target": "Pha Lê KN x1"
         },
         {
           "key": "i1048",
           "occurrence": 1,
           "source": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)1倍>的怪物经验存入1倍经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)300万经验>\\\\50级后<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验",
-          "target": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)1倍>的怪物经验存入1倍经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)300万经验>\\\\50级后<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验"
+          "target": "<(c0xFF00FFFF)Pha Lê KN>\\\\Khi diệt quái, lưu <(c0xFF00FFFF)1 lần> KN quái vào Pha Lê KN x1.\\\\Tối đa lưu <(c0xFF00FFFF)3000K KN>\\\\Sau Cấp 50, <(c0xFF00FFFF)Dùng> tốn <(c0xFF00FFFF)Nguyên Bảo> nhận toàn bộ KN đã lưu"
         },
         {
           "key": "n1049",
           "occurrence": 1,
           "source": "1.5倍经验水晶",
-          "target": "1.5倍经验水晶"
+          "target": "Pha Lê KN x1.5"
         },
         {
           "key": "i1049",
           "occurrence": 1,
           "source": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)1.5倍>的怪物经验存入1.5倍经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)600万经验>\\\\50级后<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验",
-          "target": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)1.5倍>的怪物经验存入1.5倍经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)600万经验>\\\\50级后<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验"
+          "target": "<(c0xFF00FFFF)Pha Lê KN>\\\\Khi diệt quái, lưu <(c0xFF00FFFF)1.5 lần> KN quái vào Pha Lê KN x1.5.\\\\Tối đa lưu <(c0xFF00FFFF)6000K KN>\\\\Sau Cấp 50, <(c0xFF00FFFF)Dùng> tốn <(c0xFF00FFFF)Nguyên Bảo> nhận toàn bộ KN đã lưu"
         },
         {
           "key": "n1050",
           "occurrence": 1,
           "source": "2倍经验水晶",
-          "target": "2倍经验水晶"
+          "target": "Pha Lê KN x2"
         },
         {
           "key": "i1050",
           "occurrence": 1,
           "source": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)2倍>的怪物经验存入2倍经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)1000万经验>\\\\50级后<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验",
-          "target": "<(c0xFF00FFFF)经验水晶>\\\\当你消灭怪物时,可将<(c0xFF00FFFF)2倍>的怪物经验存入2倍经验水晶之中.\\\\最高可存入<(c0xFF00FFFF)1000万经验>\\\\50级后<(c0xFF00FFFF)双击使用>消耗<(c0xFF00FFFF)元宝>可以获得存入的所有经验"
+          "target": "<(c0xFF00FFFF)Pha Lê KN>\\\\Khi diệt quái, lưu <(c0xFF00FFFF)2 lần> KN quái vào Pha Lê KN x2.\\\\Tối đa lưu <(c0xFF00FFFF)10000K KN>\\\\Sau Cấp 50, <(c0xFF00FFFF)Dùng> tốn <(c0xFF00FFFF)Nguyên Bảo> nhận toàn bộ KN đã lưu"
         },
         {
           "key": "n1051",
           "occurrence": 1,
           "source": "金耀火凤召唤石碎片(废弃)",
-          "target": "金耀火凤召唤石碎片(废弃)"
+          "target": "Mảnh Đá Triệu Hồi Phượng Hoàng Lửa Kim Diệu (Bỏ)"
         },
         {
           "key": "i1051",
@@ -51524,7 +51524,7 @@
           "key": "n1052",
           "occurrence": 1,
           "source": "金耀火凤召唤石(废弃)",
-          "target": "金耀火凤召唤石(废弃)"
+          "target": "Đá Triệu Hồi Phượng Hoàng Lửa Kim Diệu (Bỏ)"
         },
         {
           "key": "i1052",
@@ -51536,7 +51536,7 @@
           "key": "n1053",
           "occurrence": 1,
           "source": "影魅之翼【10天】(废弃)",
-          "target": "影魅之翼【10天】(废弃)"
+          "target": "Cánh Ảnh Mị [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1053",
@@ -51548,7 +51548,7 @@
           "key": "n1054",
           "occurrence": 1,
           "source": "传奇之翼【10天】(废弃)",
-          "target": "传奇之翼【10天】(废弃)"
+          "target": "Cánh Truyền Kỳ [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1054",
@@ -51560,7 +51560,7 @@
           "key": "n1055",
           "occurrence": 1,
           "source": "九天之翼【10天】(废弃)",
-          "target": "九天之翼【10天】(废弃)"
+          "target": "Cánh Cửu Thiên [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1055",
@@ -51572,7 +51572,7 @@
           "key": "n1056",
           "occurrence": 1,
           "source": "凌霄之翼【10天】(废弃)",
-          "target": "凌霄之翼【10天】(废弃)"
+          "target": "Cánh Lăng Tiêu [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1056",
@@ -51584,19 +51584,19 @@
           "key": "n1057",
           "occurrence": 1,
           "source": "马鞭大礼包",
-          "target": "马鞭大礼包"
+          "target": "Gói Roi Ngựa"
         },
         {
           "key": "i1057",
           "occurrence": 1,
           "source": "内含99条马鞭,双击即可获得",
-          "target": "内含99条马鞭,双击即可获得"
+          "target": "Chứa 99 Roi Ngựa, dùng để nhận"
         },
         {
           "key": "n1058",
           "occurrence": 1,
           "source": "灵舞仙狐灵魄【5天】(废弃)",
-          "target": "灵舞仙狐灵魄【5天】(废弃)"
+          "target": "Linh Phách Hồ Tiên Linh Vũ [5 Ngày] (Bỏ)"
         },
         {
           "key": "i1058",
@@ -51608,7 +51608,7 @@
           "key": "n1059",
           "occurrence": 1,
           "source": "火鳞鹰兽灵魄【5天】(废弃)",
-          "target": "火鳞鹰兽灵魄【5天】(废弃)"
+          "target": "Linh Phách Ưng Thú Vảy Lửa [5 Ngày] (Bỏ)"
         },
         {
           "key": "i1059",
@@ -51620,7 +51620,7 @@
           "key": "n1060",
           "occurrence": 1,
           "source": "幽蓝战骑灵魄【5天】(废弃)",
-          "target": "幽蓝战骑灵魄【5天】(废弃)"
+          "target": "Linh Phách Chiến Kỵ Lam U [5 Ngày] (Bỏ)"
         },
         {
           "key": "i1060",
@@ -51632,7 +51632,7 @@
           "key": "n1061",
           "occurrence": 1,
           "source": "雷光麒麟灵魄【5天】(废弃)",
-          "target": "雷光麒麟灵魄【5天】(废弃)"
+          "target": "Linh Phách Kỳ Lân Lôi Quang [5 Ngày] (Bỏ)"
         },
         {
           "key": "i1061",
