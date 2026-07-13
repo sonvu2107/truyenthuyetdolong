@@ -51644,7 +51644,7 @@
           "key": "n1062",
           "occurrence": 1,
           "source": "寒冰骨龙灵魄【5天】(废弃)",
-          "target": "寒冰骨龙灵魄【5天】(废弃)"
+          "target": "Linh Phách Cốt Long Băng Giá [5 Ngày] (Bỏ)"
         },
         {
           "key": "i1062",
@@ -51656,7 +51656,7 @@
           "key": "n1063",
           "occurrence": 1,
           "source": "赤角岩龙灵魄【5天】(废弃)",
-          "target": "赤角岩龙灵魄【5天】(废弃)"
+          "target": "Linh Phách Nham Long Sừng Đỏ [5 Ngày] (Bỏ)"
         },
         {
           "key": "i1063",
@@ -51668,55 +51668,55 @@
           "key": "n1064",
           "occurrence": 1,
           "source": "8级完美强化卡",
-          "target": "8级完美强化卡"
+          "target": "Thẻ Cường Hóa Hoàn Hảo Cấp 8"
         },
         {
           "key": "i1064",
           "occurrence": 1,
           "source": "双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+8>\\\\增加了<(c0xFF00FF00)最大攻击>",
-          "target": "双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+8>\\\\增加了<(c0xFF00FF00)最大攻击>"
+          "target": "Dùng để cường hóa một trang bị <(c0xFF00FF00)ngay +8>\\\\Tăng <(c0xFF00FF00)Công Tối Đa>"
         },
         {
           "key": "n1065",
           "occurrence": 1,
           "source": "佣兵代金券",
-          "target": "佣兵代金券"
+          "target": "Phiếu Lính Đánh Thuê"
         },
         {
           "key": "i1065",
           "occurrence": 1,
           "source": "双击使用\\\\在商城购买10个佣兵经验水晶(大)以代替3750元宝进行消费",
-          "target": "双击使用\\\\在商城购买10个佣兵经验水晶(大)以代替3750元宝进行消费"
+          "target": "Dùng\\\\Mua 10 Pha Lê KN Lính Đánh Thuê (Lớn) trong Cửa Hàng để thay 3750 Nguyên Bảo"
         },
         {
           "key": "n1066",
           "occurrence": 1,
           "source": "佣兵代金卡",
-          "target": "佣兵代金卡"
+          "target": "Thẻ Lính Đánh Thuê"
         },
         {
           "key": "i1066",
           "occurrence": 1,
           "source": "双击使用\\\\在商城购买10个佣兵经验水晶(大)以代替3750元宝进行消费",
-          "target": "双击使用\\\\在商城购买10个佣兵经验水晶(大)以代替3750元宝进行消费"
+          "target": "Dùng\\\\Mua 10 Pha Lê KN Lính Đánh Thuê (Lớn) trong Cửa Hàng để thay 3750 Nguyên Bảo"
         },
         {
           "key": "n1067",
           "occurrence": 1,
           "source": "10个佣兵经验水晶(大)",
-          "target": "10个佣兵经验水晶(大)"
+          "target": "10 Pha Lê KN Lính Đánh Thuê (Lớn)"
         },
         {
           "key": "i1067",
           "occurrence": 1,
           "source": "双击使用\\\\获得10个佣兵经验水晶(大)",
-          "target": "双击使用\\\\获得10个佣兵经验水晶(大)"
+          "target": "Dùng\\\\Nhận 10 Pha Lê KN Lính Đánh Thuê (Lớn)"
         },
         {
           "key": "n1068",
           "occurrence": 1,
           "source": "冰麒麟灵魄(废弃)",
-          "target": "冰麒麟灵魄(废弃)"
+          "target": "Linh Phách Kỳ Lân Băng (Bỏ)"
         },
         {
           "key": "i1068",
@@ -51728,7 +51728,7 @@
           "key": "n1069",
           "occurrence": 1,
           "source": "神圣戒指(废弃)",
-          "target": "神圣戒指(废弃)"
+          "target": "Nhẫn Thần Thánh (Bỏ)"
         },
         {
           "key": "i1069",
@@ -51740,7 +51740,7 @@
           "key": "n1070",
           "occurrence": 1,
           "source": "魔防戒指(废弃)",
-          "target": "魔防戒指(废弃)"
+          "target": "Nhẫn Phòng Thủ Phép (Bỏ)"
         },
         {
           "key": "i1070",
@@ -51752,7 +51752,7 @@
           "key": "n1071",
           "occurrence": 1,
           "source": "物防戒指(废弃)",
-          "target": "物防戒指(废弃)"
+          "target": "Nhẫn Phòng Thủ Vật Lý (Bỏ)"
         },
         {
           "key": "i1071",
@@ -51764,37 +51764,37 @@
           "key": "n1072",
           "occurrence": 1,
           "source": "万年人参",
-          "target": "万年人参"
+          "target": "Nhân Sâm Vạn Năm"
         },
         {
           "key": "i1072",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)550点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)550点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Mỗi <(c0xFF00FFFF)5 Giây> hồi <(c0xFF00FFFF)550 HP>, kéo dài <(c0xFF00FFFF)1 Giờ>\\\\<(c0xFF00FF00)Cùng mức hồi sẽ cộng dồn thời gian>\\\\<(c0xFF00FF00)Khác mức hồi sẽ triệt tiêu lẫn nhau>\\\\<(c0xFF00FF00)Gợi Ý: mua trong Cửa Hàng>"
         },
         {
           "key": "n1073",
           "occurrence": 1,
           "source": "人参王",
-          "target": "人参王"
+          "target": "Nhân Sâm Vương"
         },
         {
           "key": "i1073",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)700点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)700点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Mỗi <(c0xFF00FFFF)5 Giây> hồi <(c0xFF00FFFF)700 HP>, kéo dài <(c0xFF00FFFF)1 Giờ>\\\\<(c0xFF00FF00)Cùng mức hồi sẽ cộng dồn thời gian>\\\\<(c0xFF00FF00)Khác mức hồi sẽ triệt tiêu lẫn nhau>\\\\<(c0xFF00FF00)Gợi Ý: mua trong Cửa Hàng>"
         },
         {
           "key": "n1074",
           "occurrence": 1,
           "source": "万年雪莲",
-          "target": "万年雪莲"
+          "target": "Tuyết Liên Vạn Năm"
         },
         {
           "key": "i1074",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)675点>魔法值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)675点>魔法值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Mỗi <(c0xFF00FFFF)5 Giây> hồi <(c0xFF00FFFF)675 MP>, kéo dài <(c0xFF00FFFF)1 Giờ>\\\\<(c0xFF00FF00)Cùng mức hồi sẽ cộng dồn thời gian>\\\\<(c0xFF00FF00)Khác mức hồi sẽ triệt tiêu lẫn nhau>\\\\<(c0xFF00FF00)Gợi Ý: mua trong Cửa Hàng>"
         },
         {
           "key": "n1075",
