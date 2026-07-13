@@ -51080,7 +51080,7 @@
           "key": "n1015",
           "occurrence": 1,
           "source": "七彩石(废弃)",
-          "target": "七彩石(废弃)"
+          "target": "Đá Bảy Màu (Bỏ)"
         },
         {
           "key": "i1015",
@@ -51092,7 +51092,7 @@
           "key": "n1016",
           "occurrence": 1,
           "source": "天灾魔龙召唤石(废弃)",
-          "target": "天灾魔龙召唤石(废弃)"
+          "target": "Đá Triệu Hồi Ma Long Thiên Tai (Bỏ)"
         },
         {
           "key": "i1016",
@@ -51104,91 +51104,91 @@
           "key": "n1017",
           "occurrence": 1,
           "source": "佣兵技能抢购包",
-          "target": "佣兵技能抢购包"
+          "target": "Gói Săn Kỹ Năng Lính Đánh Thuê"
         },
         {
           "key": "i1017",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下佣兵技能书:\\\\<(c0xFF40FF40)无敌戏法>:被动增加佣兵与玩家的所有<(c0xFF40FF40)最大攻击>\\\\<(c0xFF40FF40)强健体魄>:被动增加佣兵与玩家的<(c0xFF40FF40)生命与魔法最大值>\\\\<(c0xFF40FF40)天罡正气>:被动增加佣兵与玩家的所有<(c0xFF40FF40)最大防御>\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)396><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下佣兵技能书:\\\\<(c0xFF40FF40)无敌戏法>:被动增加佣兵与玩家的所有<(c0xFF40FF40)最大攻击>\\\\<(c0xFF40FF40)强健体魄>:被动增加佣兵与玩家的<(c0xFF40FF40)生命与魔法最大值>\\\\<(c0xFF40FF40)天罡正气>:被动增加佣兵与玩家的所有<(c0xFF40FF40)最大防御>\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)396><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận sách kỹ năng Lính Đánh Thuê:\\\\<(c0xFF40FF40)Bí Kỹ Vô Địch>: bị động tăng <(c0xFF40FF40)Công Tối Đa> cho Lính Đánh Thuê và người chơi\\\\<(c0xFF40FF40)Thể Phách Cường Tráng>: bị động tăng <(c0xFF40FF40)HP và MP Tối Đa> cho Lính Đánh Thuê và người chơi\\\\<(c0xFF40FF40)Chính Khí Thiên Cang>: bị động tăng <(c0xFF40FF40)Phòng Thủ Tối Đa> cho Lính Đánh Thuê và người chơi\\\\<(c0xFF00FF00)Ưu Đãi Chồng Ưu Đãi:> mua rẻ hơn <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)396><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n1018",
           "occurrence": 1,
           "source": "40装备升级石碎片(废弃)",
-          "target": "40装备升级石碎片(废弃)"
+          "target": "Mảnh Đá Nâng Cấp Trang Bị Cấp 40 (Bỏ)"
         },
         {
           "key": "i1018",
           "occurrence": 1,
           "source": "收集6个后双击使用\\\\可以获得一颗<(c0xFF00FFFF)40装备升级石>",
-          "target": "收集6个后双击使用\\\\可以获得一颗<(c0xFF00FFFF)40装备升级石>"
+          "target": "Đủ 6 mảnh, dùng\\\\để nhận 1 <(c0xFF00FFFF)Đá Nâng Cấp Trang Bị Cấp 40>"
         },
         {
           "key": "n1019",
           "occurrence": 1,
           "source": "经验宝珠",
-          "target": "经验宝珠"
+          "target": "Ngọc KN"
         },
         {
           "key": "i1019",
           "occurrence": 1,
           "source": "穿戴后,获得经验永久加成10%",
-          "target": "穿戴后,获得经验永久加成10%"
+          "target": "Trang bị: tăng vĩnh viễn 10% KN"
         },
         {
           "key": "n1020",
           "occurrence": 1,
           "source": "白色翎羽",
-          "target": "白色翎羽"
+          "target": "Lông Vũ Trắng"
         },
         {
           "key": "i1020",
           "occurrence": 1,
           "source": "翅膀升级材料\\\\用于将<(c0xFF00FFFF)永久的白色翅膀>升级成<(c0xFF00FFFF)彩凤之轩(1档)>的材料",
-          "target": "翅膀升级材料\\\\用于将<(c0xFF00FFFF)永久的白色翅膀>升级成<(c0xFF00FFFF)彩凤之轩(1档)>的材料"
+          "target": "Nguyên liệu nâng Cánh\\\\Dùng nâng <(c0xFF00FFFF)Cánh Trắng Vĩnh Viễn> thành <(c0xFF00FFFF)Cánh Thải Phượng (Bậc 1)>"
         },
         {
           "key": "n1021",
           "occurrence": 1,
           "source": "强效攻击药水",
-          "target": "强效攻击药水"
+          "target": "Thuốc Công Kích Mạnh"
         },
         {
           "key": "i1021",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)100%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)100%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>"
+          "target": "Dùng\\\\Trong <(c0xFF00FFFF)10 Phút>, sát thương tăng <(c0xFF00FFFF)100%>\\\\<(c0xFF00FF00)Cùng loại sẽ làm mới thời gian>\\\\<(c0xFF00FF00)Khác loại sẽ triệt tiêu lẫn nhau>"
         },
         {
           "key": "n1022",
           "occurrence": 1,
           "source": "超级攻击药水",
-          "target": "超级攻击药水"
+          "target": "Thuốc Công Kích Siêu Cấp"
         },
         {
           "key": "i1022",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)150%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)150%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>"
+          "target": "Dùng\\\\Trong <(c0xFF00FFFF)10 Phút>, sát thương tăng <(c0xFF00FFFF)150%>\\\\<(c0xFF00FF00)Cùng loại sẽ làm mới thời gian>\\\\<(c0xFF00FF00)Khác loại sẽ triệt tiêu lẫn nhau>"
         },
         {
           "key": "n1023",
           "occurrence": 1,
           "source": "极效攻击药水",
-          "target": "极效攻击药水"
+          "target": "Thuốc Công Kích Cực Hiệu"
         },
         {
           "key": "i1023",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)200%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)200%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>"
+          "target": "Dùng\\\\Trong <(c0xFF00FFFF)10 Phút>, sát thương tăng <(c0xFF00FFFF)200%>\\\\<(c0xFF00FF00)Cùng loại sẽ làm mới thời gian>\\\\<(c0xFF00FF00)Khác loại sẽ triệt tiêu lẫn nhau>"
         },
         {
           "key": "n1024",
           "occurrence": 1,
           "source": "藏宝图碎片(废弃)",
-          "target": "藏宝图碎片(废弃)"
+          "target": "Mảnh Bản Đồ Kho Báu (Bỏ)"
         },
         {
           "key": "i1024",
@@ -51200,7 +51200,7 @@
           "key": "n1025",
           "occurrence": 1,
           "source": "普通藏宝图(废弃)",
-          "target": "普通藏宝图(废弃)"
+          "target": "Bản Đồ Kho Báu Thường (Bỏ)"
         },
         {
           "key": "i1025",
@@ -51212,7 +51212,7 @@
           "key": "n1026",
           "occurrence": 1,
           "source": "珍品藏宝图(废弃)",
-          "target": "珍品藏宝图(废弃)"
+          "target": "Bản Đồ Kho Báu Quý (Bỏ)"
         },
         {
           "key": "i1026",
@@ -51224,7 +51224,7 @@
           "key": "n1027",
           "occurrence": 1,
           "source": "极品藏宝图(废弃)",
-          "target": "极品藏宝图(废弃)"
+          "target": "Bản Đồ Kho Báu Cực Phẩm (Bỏ)"
         },
         {
           "key": "i1027",
@@ -51236,19 +51236,19 @@
           "key": "n1028",
           "occurrence": 1,
           "source": "5000000经验卷",
-          "target": "5000000经验卷"
+          "target": "Cuộn 5000K KN"
         },
         {
           "key": "i1028",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)500万经验>",
-          "target": "双击可获得<(c0xFF00FFFF)500万经验>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)5000K KN>"
         },
         {
           "key": "n1029",
           "occurrence": 1,
           "source": "十万荣誉印记(废弃)",
-          "target": "十万荣誉印记(废弃)"
+          "target": "Ấn Danh Dự 100K (Bỏ)"
         },
         {
           "key": "i1029",
@@ -51260,37 +51260,37 @@
           "key": "n1030",
           "occurrence": 1,
           "source": "神鸟翅膀（限时）",
-          "target": "神鸟翅膀（限时）"
+          "target": "Cánh Thần Điểu [Thời Hạn]"
         },
         {
           "key": "i1030",
           "occurrence": 1,
           "source": "纯白无暇的羽翼\\\\完成<(c0xFF00FFFF)首次充值>可获得一个<(c0xFF00FFFF)永久白色翅膀>，无论多少金额。\\\\<(c0xFF00FF00)提示:首次充值可获得>\\\\充值2000元宝可在再充礼包中获得<(c0xFF00FFFF)白色翎羽>\\\\<(c0xFF00FFFF)白色翎羽：>可把永久翅膀：<(c0xFF00FFFF)神鸟翅膀>升级成<(c0xFF00FFFF)彩凤之轩（1档）的材料>",
-          "target": "纯白无暇的羽翼\\\\完成<(c0xFF00FFFF)首次充值>可获得一个<(c0xFF00FFFF)永久白色翅膀>，无论多少金额。\\\\<(c0xFF00FF00)提示:首次充值可获得>\\\\充值2000元宝可在再充礼包中获得<(c0xFF00FFFF)白色翎羽>\\\\<(c0xFF00FFFF)白色翎羽：>可把永久翅膀：<(c0xFF00FFFF)神鸟翅膀>升级成<(c0xFF00FFFF)彩凤之轩（1档）的材料>"
+          "target": "Cánh trắng tinh khiết\\\\Hoàn tất <(c0xFF00FFFF)Nạp Lần Đầu> nhận <(c0xFF00FFFF)Cánh Trắng Vĩnh Viễn>, không cần mức nạp.\\\\<(c0xFF00FF00)Gợi Ý: nhận khi nạp lần đầu>\\\\Nạp 2K Nguyên Bảo nhận <(c0xFF00FFFF)Lông Vũ Trắng> từ Gói Nạp Lại\\\\<(c0xFF00FFFF)Lông Vũ Trắng:> nguyên liệu nâng Cánh Vĩnh Viễn <(c0xFF00FFFF)Cánh Thần Điểu> thành <(c0xFF00FFFF)Cánh Thải Phượng (Bậc 1)>"
         },
         {
           "key": "n1031",
           "occurrence": 1,
           "source": "10级完美强化卡",
-          "target": "10级完美强化卡"
+          "target": "Thẻ Cường Hóa Hoàn Hảo Cấp 10"
         },
         {
           "key": "i1031",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)高级强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+10>\\\\增加了<(c0xFF00FF00)最大攻击>",
-          "target": "<(c0xFF00FF00)高级强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+10>\\\\增加了<(c0xFF00FF00)最大攻击>"
+          "target": "<(c0xFF00FF00)Vật phẩm cường hóa cao cấp>\\\\Dùng để cường hóa một trang bị <(c0xFF00FF00)ngay +10>\\\\Tăng <(c0xFF00FF00)Công Tối Đa>"
         },
         {
           "key": "n1032",
           "occurrence": 1,
           "source": "15级完美强化卡",
-          "target": "15级完美强化卡"
+          "target": "Thẻ Cường Hóa Hoàn Hảo Cấp 15"
         },
         {
           "key": "i1032",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)顶级强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+15>\\\\增加了<(c0xFF00FF00)最大攻击>",
-          "target": "<(c0xFF00FF00)顶级强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+15>\\\\增加了<(c0xFF00FF00)最大攻击>"
+          "target": "<(c0xFF00FF00)Vật phẩm cường hóa cực phẩm>\\\\Dùng để cường hóa một trang bị <(c0xFF00FF00)ngay +15>\\\\Tăng <(c0xFF00FF00)Công Tối Đa>"
         },
         {
           "key": "n1033",
