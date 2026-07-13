@@ -29386,55 +29386,55 @@
           "key": "desc461",
           "occurrence": 1,
           "source": "<水生/M云烟水村:0:0:水生>告诉你,疯子<唐玄奘/M云烟水村:0:0:唐玄奘>正在村内大闹.",
-          "target": "<水生/M云烟水村:0:0:水生>告诉你,疯子<唐玄奘/M云烟水村:0:0:唐玄奘>正在村内大闹."
+          "target": "<Thủy Sinh/M云烟水村:0:0:水生> nói tên điên <Đường Huyền Trang/M云烟水村:0:0:唐玄奘> đang quậy phá trong làng."
         },
         {
           "key": "desc462",
           "occurrence": 1,
           "source": "<唐玄奘/M云烟水村:0:0:唐玄奘>看到水妖身影,让你快去告诉<阿水嫂/M云烟水村:0:0:阿水嫂>.",
-          "target": "<唐玄奘/M云烟水村:0:0:唐玄奘>看到水妖身影,让你快去告诉<阿水嫂/M云烟水村:0:0:阿水嫂>."
+          "target": "<Đường Huyền Trang/M云烟水村:0:0:唐玄奘> thấy Thủy Yêu, bảo ngươi báo ngay cho <A Thủy Tẩu/M云烟水村:0:0:阿水嫂>."
         },
         {
           "key": "desc463",
           "occurrence": 1,
           "source": "<婷依/M云烟水村:0:0:婷依>危在旦夕,<阿水嫂/M云烟水村:0:0:阿水嫂>请你去救她女儿.",
-          "target": "<婷依/M云烟水村:0:0:婷依>危在旦夕,<阿水嫂/M云烟水村:0:0:阿水嫂>请你去救她女儿."
+          "target": "<Đình Y/M云烟水村:0:0:婷依> đang nguy cấp, <A Thủy Tẩu/M云烟水村:0:0:阿水嫂> nhờ ngươi cứu con gái."
         },
         {
           "key": "desc464",
           "occurrence": 1,
           "source": "记得<婷依/M云烟水村:0:0:婷依>说的话,去找村里的<肥婆/M云烟水村:0:0:肥婆>帮忙.",
-          "target": "记得<婷依/M云烟水村:0:0:婷依>说的话,去找村里的<肥婆/M云烟水村:0:0:肥婆>帮忙."
+          "target": "Nhớ lời <Đình Y/M云烟水村:0:0:婷依>, tìm <Bà Béo/M云烟水村:0:0:肥婆> trong làng giúp đỡ."
         },
         {
           "key": "desc465",
           "occurrence": 1,
           "source": "<肥婆/M云烟水村:0:0:肥婆>一出场,水妖便被降服,到岸上化成<沙悟净/M云烟水村:0:0:沙悟净>.",
-          "target": "<肥婆/M云烟水村:0:0:肥婆>一出场,水妖便被降服,到岸上化成<沙悟净/M云烟水村:0:0:沙悟净>."
+          "target": "<Bà Béo/M云烟水村:0:0:肥婆> xuất hiện, Thủy Yêu bị khuất phục và lên bờ hóa <Sa Ngộ Tịnh/M云烟水村:0:0:沙悟净>."
         },
         {
           "key": "desc466",
           "occurrence": 1,
           "source": "<沙悟净/M云烟水村:0:0:沙悟净>狂性大发,去找<舒姑娘/M云烟水村:0:0:舒姑娘>来制服他.",
-          "target": "<沙悟净/M云烟水村:0:0:沙悟净>狂性大发,去找<舒姑娘/M云烟水村:0:0:舒姑娘>来制服他."
+          "target": "<Sa Ngộ Tịnh/M云烟水村:0:0:沙悟净> nổi điên, tìm <Cô Nương Thư/M云烟水村:0:0:舒姑娘> để trấn áp hắn."
         },
         {
           "key": "desc467",
           "occurrence": 1,
           "source": "制服水妖,告别<舒姑娘/M云烟水村:0:0:舒姑娘>,前往高老庄.",
-          "target": "制服水妖,告别<舒姑娘/M云烟水村:0:0:舒姑娘>,前往高老庄."
+          "target": "Trấn áp Thủy Yêu, từ biệt <Cô Nương Thư/M云烟水村:0:0:舒姑娘>, đến Cao Lão Trang."
         },
         {
           "key": "desc468",
           "occurrence": 1,
           "source": "<女老板/M高老庄:0:0:女老板>热情好客,帮助她驱赶周围的妖怪.",
-          "target": "<女老板/M高老庄:0:0:女老板>热情好客,帮助她驱赶周围的妖怪."
+          "target": "<Nữ Chủ Quán/M高老庄:0:0:女老板> hiếu khách, hãy giúp đuổi yêu quái xung quanh."
         },
         {
           "key": "desc469",
           "occurrence": 1,
           "source": "在<女老板/M高老庄:0:0:女老板>的指引下,去拜访<服装店老板/M高老庄:0:0:服装店老板>.",
-          "target": "在<女老板/M高老庄:0:0:女老板>的指引下,去拜访<服装店老板/M高老庄:0:0:服装店老板>."
+          "target": "Theo chỉ dẫn của <Nữ Chủ Quán/M高老庄:0:0:女老板>, đến gặp <Chủ Tiệm Trang Phục/M高老庄:0:0:服装店老板>."
         },
         {
           "key": "desc47",
@@ -29446,7 +29446,7 @@
           "key": "desc470",
           "occurrence": 1,
           "source": "<服装店老板/M高老庄:0:0:服装店老板>指引你去拜访<首饰店老板/M高老庄:0:0:首饰店老板>.",
-          "target": "<服装店老板/M高老庄:0:0:服装店老板>指引你去拜访<首饰店老板/M高老庄:0:0:首饰店老板>."
+          "target": "<Chủ Tiệm Trang Phục/M高老庄:0:0:服装店老板> chỉ ngươi đến gặp <Chủ Tiệm Trang Sức/M高老庄:0:0:首饰店老板>."
         },
         {
           "key": "desc471",
