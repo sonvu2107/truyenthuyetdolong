@@ -73796,97 +73796,97 @@
           "key": "n2908",
           "occurrence": 1,
           "source": "天神臂章(1阶)",
-          "target": "天神臂章(1阶)"
+          "target": "Hộ Phù Thiên Thần (Bậc 1)"
         },
         {
           "key": "i2908",
           "occurrence": 1,
           "source": "收集 <(c0xFFFF6600)30> 个 <(c0xFFFF6600)天神精华> 可以合成一个 <(c0xFFFF6600)天神臂章>",
-          "target": "收集 <(c0xFFFF6600)30> 个 <(c0xFFFF6600)天神精华> 可以合成一个 <(c0xFFFF6600)天神臂章>"
+          "target": "Thu thập <(c0xFFFF6600)30> <(c0xFFFF6600)Tinh Hoa Thiên Thần> có thể ghép thành 1 <(c0xFFFF6600)Hộ Phù Thiên Thần>"
         },
         {
           "key": "n2909",
           "occurrence": 1,
           "source": "天神臂章(2阶)",
-          "target": "天神臂章(2阶)"
+          "target": "Hộ Phù Thiên Thần (Bậc 2)"
         },
         {
           "key": "i2909",
           "occurrence": 1,
           "source": "2个天神臂章(2阶)加上一定数量的天神精华可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级\\\\天神臂章是游戏中顶级装备,增强攻击力的最佳捷径！",
-          "target": "2个天神臂章(2阶)加上一定数量的天神精华可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级\\\\天神臂章是游戏中顶级装备,增强攻击力的最佳捷径！"
+          "target": "2 Hộ Phù Thiên Thần (Bậc 2) cùng một lượng Tinh Hoa Thiên Thần nhất định có thể nâng cấp tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)\\\\Hộ Phù Thiên Thần là trang bị đỉnh cao, con đường tốt nhất để tăng Tấn Công!"
         },
         {
           "key": "n2910",
           "occurrence": 1,
           "source": "烟花(废弃)",
-          "target": "烟花(废弃)"
+          "target": "Pháo Hoa (Đã Bỏ)"
         },
         {
           "key": "i2910",
           "occurrence": 1,
           "source": "用于新年烟花大赛活动中使用，每次燃放烟花可获得奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；",
-          "target": "用于新年烟花大赛活动中使用，每次燃放烟花可获得奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；"
+          "target": "Dùng trong sự kiện Đại Hội Pháo Hoa Năm Mới, mỗi lần đốt pháo hoa nhận phần thưởng;\\\\Có thể nhận từ sự kiện Niên Thú Tết Năm Mới và các sự kiện Tết khác;"
         },
         {
           "key": "n2911",
           "occurrence": 1,
           "source": "红包",
-          "target": "红包"
+          "target": "Bao Lì Xì"
         },
         {
           "key": "i2911",
           "occurrence": 1,
           "source": "用于新年活动道具兑奖，消耗一定数量红包可兑换各种物品；\\\\可在新年春节逐年兽和其他春节活动中获得；",
-          "target": "用于新年活动道具兑奖，消耗一定数量红包可兑换各种物品；\\\\可在新年春节逐年兽和其他春节活动中获得；"
+          "target": "Dùng đổi đạo cụ sự kiện Năm Mới, tốn một lượng Bao Lì Xì nhất định để đổi các vật phẩm;\\\\Có thể nhận từ sự kiện Niên Thú Tết Năm Mới và các sự kiện Tết khác;"
         },
         {
           "key": "n2912",
           "occurrence": 1,
           "source": "马",
-          "target": "马"
+          "target": "Mã"
         },
         {
           "key": "i2912",
           "occurrence": 1,
           "source": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；",
-          "target": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；"
+          "target": "Dùng trong sự kiện đổi chữ Năm Mới nhận thưởng, thu đủ số chữ nhất định để đổi quà;\\\\Có thể nhận từ sự kiện Niên Thú Tết Năm Mới và các sự kiện Tết khác;"
         },
         {
           "key": "n2913",
           "occurrence": 1,
           "source": "到",
-          "target": "到"
+          "target": "Đáo"
         },
         {
           "key": "i2913",
           "occurrence": 1,
           "source": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；",
-          "target": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；"
+          "target": "Dùng trong sự kiện đổi chữ Năm Mới nhận thưởng, thu đủ số chữ nhất định để đổi quà;\\\\Có thể nhận từ sự kiện Niên Thú Tết Năm Mới và các sự kiện Tết khác;"
         },
         {
           "key": "n2914",
           "occurrence": 1,
           "source": "成",
-          "target": "成"
+          "target": "Thành"
         },
         {
           "key": "i2914",
           "occurrence": 1,
           "source": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；",
-          "target": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；"
+          "target": "Dùng trong sự kiện đổi chữ Năm Mới nhận thưởng, thu đủ số chữ nhất định để đổi quà;\\\\Có thể nhận từ sự kiện Niên Thú Tết Năm Mới và các sự kiện Tết khác;"
         },
         {
           "key": "n2915",
           "occurrence": 1,
           "source": "功",
-          "target": "功"
+          "target": "Công"
         },
         {
           "key": "i2915",
           "occurrence": 1,
           "source": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；",
-          "target": "用于新年字帖兑换有奖活动中使用，齐集一定数量的字帖可兑换奖励；\\\\可在新年春节逐年兽和其他春节活动中获得；"
+          "target": "Dùng trong sự kiện đổi chữ Năm Mới nhận thưởng, thu đủ số chữ nhất định để đổi quà;\\\\Có thể nhận từ sự kiện Niên Thú Tết Năm Mới và các sự kiện Tết khác;"
         },
         {
           "key": "n2916",
