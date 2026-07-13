@@ -55244,79 +55244,79 @@
           "key": "n1362",
           "occurrence": 1,
           "source": "神秘彩蛋",
-          "target": "神秘彩蛋"
+          "target": "Trứng Bí Ẩn"
         },
         {
           "key": "i1362",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)金光闪闪的蛋蛋！>\\\\<(c0xFFFFFF00)双击使用>即可获得丰厚奖励\\\\有一定几率抽到60级装备，稀有坐骑，70装备升级石，装备转生精华！",
-          "target": "<(c0xFFFFFF00)金光闪闪的蛋蛋！>\\\\<(c0xFFFFFF00)双击使用>即可获得丰厚奖励\\\\有一定几率抽到60级装备，稀有坐骑，70装备升级石，装备转生精华！"
+          "target": "<(c0xFFFFFF00)Quả trứng lấp lánh ánh vàng!>\\\\<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận phần thưởng giá trị\\\\Có xác suất nhận được trang bị cấp 60, Thú Cưỡi hiếm, Đá Nâng Cấp Trang Bị cấp 70, Tinh Hoa Chuyển Sinh Trang Bị!"
         },
         {
           "key": "n1363",
           "occurrence": 1,
           "source": "珍珠之精",
-          "target": "珍珠之精"
+          "target": "Tinh Hoa Trân Châu"
         },
         {
           "key": "i1363",
           "occurrence": 1,
           "source": "任务物品",
-          "target": "任务物品"
+          "target": "Vật phẩm nhiệm vụ"
         },
         {
           "key": "n1364",
           "occurrence": 1,
           "source": "装备抢购券",
-          "target": "装备抢购券"
+          "target": "Phiếu Mua Trang Bị"
         },
         {
           "key": "i1364",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>\\\\只需<(c0xFF00FF00)88><(c0xFFFFFF00)元宝>自由选购三大职业的一整套40级套装！\\\\<(c0xFF00FF00)一券在手，装备我有！>",
-          "target": "<(c0xFFFFFF00)双击使用>\\\\只需<(c0xFF00FF00)88><(c0xFFFFFF00)元宝>自由选购三大职业的一整套40级套装！\\\\<(c0xFF00FF00)一券在手，装备我有！>"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng>\\\\Chỉ cần <(c0xFF00FF00)88><(c0xFFFFFF00)Nguyên Bảo> để tự chọn trọn bộ trang bị cấp 40 cho một trong ba nghề!\\\\<(c0xFF00FF00)Có phiếu trong tay, trang bị không lo!>"
         },
         {
           "key": "n1365",
           "occurrence": 1,
           "source": "40级战士套装包",
-          "target": "40级战士套装包"
+          "target": "Gói Trang Bị Chiến Sĩ Cấp 40"
         },
         {
           "key": "i1365",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>\\\\立即获得一整套12件战士40级套装装备\\\\包含武器、衣服、头盔\\\\项链、宝石、勋章\\\\腰带、鞋子\\\\一对手镯、一对戒指",
-          "target": "<(c0xFFFFFF00)双击使用>\\\\立即获得一整套12件战士40级套装装备\\\\包含武器、衣服、头盔\\\\项链、宝石、勋章\\\\腰带、鞋子\\\\一对手镯、一对戒指"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng>\\\\Nhận ngay trọn bộ 12 trang bị Chiến Sĩ cấp 40\\\\Gồm vũ khí, áo giáp, mũ giáp\\\\Dây Chuyền, Đá Quý, Huy Chương\\\\Thắt Lưng, Giày\\\\Một cặp Vòng Tay, một cặp Nhẫn"
         },
         {
           "key": "n1366",
           "occurrence": 1,
           "source": "40级法师套装包",
-          "target": "40级法师套装包"
+          "target": "Gói Trang Bị Pháp Sư Cấp 40"
         },
         {
           "key": "i1366",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>\\\\立即获得一整套12件法师40级套装装备\\\\包含武器、衣服、头盔\\\\项链、宝石、勋章\\\\腰带、鞋子\\\\一对手镯、一对戒指",
-          "target": "<(c0xFFFFFF00)双击使用>\\\\立即获得一整套12件法师40级套装装备\\\\包含武器、衣服、头盔\\\\项链、宝石、勋章\\\\腰带、鞋子\\\\一对手镯、一对戒指"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng>\\\\Nhận ngay trọn bộ 12 trang bị Pháp Sư cấp 40\\\\Gồm vũ khí, áo giáp, mũ giáp\\\\Dây Chuyền, Đá Quý, Huy Chương\\\\Thắt Lưng, Giày\\\\Một cặp Vòng Tay, một cặp Nhẫn"
         },
         {
           "key": "n1367",
           "occurrence": 1,
           "source": "40级道士套装包",
-          "target": "40级道士套装包"
+          "target": "Gói Trang Bị Đạo Sĩ Cấp 40"
         },
         {
           "key": "i1367",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>\\\\立即获得一整套12件道士40级套装装备\\\\包含武器、衣服、头盔\\\\项链、宝石、勋章\\\\腰带、鞋子\\\\一对手镯、一对戒指",
-          "target": "<(c0xFFFFFF00)双击使用>\\\\立即获得一整套12件道士40级套装装备\\\\包含武器、衣服、头盔\\\\项链、宝石、勋章\\\\腰带、鞋子\\\\一对手镯、一对戒指"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng>\\\\Nhận ngay trọn bộ 12 trang bị Đạo Sĩ cấp 40\\\\Gồm vũ khí, áo giáp, mũ giáp\\\\Dây Chuyền, Đá Quý, Huy Chương\\\\Thắt Lưng, Giày\\\\Một cặp Vòng Tay, một cặp Nhẫn"
         },
         {
           "key": "n1368",
           "occurrence": 1,
           "source": "王者战甲选购卡(废弃)",
-          "target": "王者战甲选购卡(废弃)"
+          "target": "Thẻ Chọn Mua Chiến Giáp Vương Giả (Bỏ)"
         },
         {
           "key": "i1368",
@@ -55328,7 +55328,7 @@
           "key": "n1369",
           "occurrence": 1,
           "source": "混乱魔袍选购卡(废弃)",
-          "target": "混乱魔袍选购卡(废弃)"
+          "target": "Thẻ Chọn Mua Ma Bào Hỗn Loạn (Bỏ)"
         },
         {
           "key": "i1369",
@@ -55340,7 +55340,7 @@
           "key": "n1370",
           "occurrence": 1,
           "source": "灼热战衣选购卡(废弃)",
-          "target": "灼热战衣选购卡(废弃)"
+          "target": "Thẻ Chọn Mua Chiến Y Nóng Bỏng (Bỏ)"
         },
         {
           "key": "i1370",
