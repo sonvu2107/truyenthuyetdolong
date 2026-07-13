@@ -70244,97 +70244,97 @@
           "key": "n2612",
           "occurrence": 1,
           "source": "60级土豪金",
-          "target": "60级土豪金"
+          "target": "Vàng Đại Gia Cấp 60"
         },
         {
           "key": "i2612",
           "occurrence": 1,
           "source": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>双击打开,获得以下物品:\\\\5万金币\\\\70级土豪金×1",
-          "target": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>双击打开,获得以下物品:\\\\5万金币\\\\70级土豪金×1"
+          "target": "Năm nay lễ tết không nhận quà, chỉ nhận Vàng Đại Gia!\\\\<(c0x00d57140)Sở hữu Vàng Đại Gia sẽ nhận kho báu khổng lồ, trở thành Đại Gia!>Nhấp đúp để mở, nhận các vật phẩm sau:\\\\50K Vàng\\\\Vàng Đại Gia Cấp 70×1"
         },
         {
           "key": "n2613",
           "occurrence": 1,
           "source": "70级土豪金",
-          "target": "70级土豪金"
+          "target": "Vàng Đại Gia Cấp 70"
         },
         {
           "key": "i2613",
           "occurrence": 1,
           "source": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>双击打开,获得以下物品:\\\\5万金币",
-          "target": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>双击打开,获得以下物品:\\\\5万金币"
+          "target": "Năm nay lễ tết không nhận quà, chỉ nhận Vàng Đại Gia!\\\\<(c0x00d57140)Sở hữu Vàng Đại Gia sẽ nhận kho báu khổng lồ, trở thành Đại Gia!>Nhấp đúp để mở, nhận các vật phẩm sau:\\\\50K Vàng"
         },
         {
           "key": "n2614",
           "occurrence": 1,
           "source": "55级200万经验包",
-          "target": "55级200万经验包"
+          "target": "Gói KN 2000K Cấp 55"
         },
         {
           "key": "i2614",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\200万经验\\\\60级300万经验包×1",
-          "target": "双击打开,获得以下物品:\\\\200万经验\\\\60级300万经验包×1"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\2000K KN\\\\Gói KN 3000K Cấp 60×1"
         },
         {
           "key": "n2615",
           "occurrence": 1,
           "source": "60级300万经验包",
-          "target": "60级300万经验包"
+          "target": "Gói KN 3000K Cấp 60"
         },
         {
           "key": "i2615",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\300万经验\\\\65级400万经验包×1",
-          "target": "双击打开,获得以下物品:\\\\300万经验\\\\65级400万经验包×1"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\3000K KN\\\\Gói KN 4000K Cấp 65×1"
         },
         {
           "key": "n2616",
           "occurrence": 1,
           "source": "65级400万经验包",
-          "target": "65级400万经验包"
+          "target": "Gói KN 4000K Cấp 65"
         },
         {
           "key": "i2616",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\400万经验",
-          "target": "双击打开,获得以下物品:\\\\400万经验"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\4000K KN"
         },
         {
           "key": "n2617",
           "occurrence": 1,
           "source": "冲级首充礼包",
-          "target": "冲级首充礼包"
+          "target": "Gói Nạp Đầu Đua Cấp"
         },
         {
           "key": "i2617",
           "occurrence": 1,
           "source": "开服第一天,只要充值任意金额即可获得\\\\双击使用即可获得以下物品:\\\\魔钻灵石*7\\\\1000000经验*1\\\\经验宝珠*1\\\\经验水晶(小)*3",
-          "target": "开服第一天,只要充值任意金额即可获得\\\\双击使用即可获得以下物品:\\\\魔钻灵石*7\\\\1000000经验*1\\\\经验宝珠*1\\\\经验水晶(小)*3"
+          "target": "Ngày 1 mở server, nạp bất kỳ số tiền nào cũng nhận được\\\\Nhấp đúp để dùng, nhận các vật phẩm sau:\\\\Linh Thạch Ma Toản*7\\\\1000K KN*1\\\\Bảo Châu KN*1\\\\Tinh Thể KN (Nhỏ)*3"
         },
         {
           "key": "n2618",
           "occurrence": 1,
           "source": "翅膀首充礼包",
-          "target": "翅膀首充礼包"
+          "target": "Gói Nạp Đầu Cánh"
         },
         {
           "key": "i2618",
           "occurrence": 1,
           "source": "开服第二天,只要充值任意金额即可获得\\\\双击使用即可获得以下物品:\\\\魔钻灵石*7\\\\1000000经验*2\\\\羽毛*5\\\\苹果*2",
-          "target": "开服第二天,只要充值任意金额即可获得\\\\双击使用即可获得以下物品:\\\\魔钻灵石*7\\\\1000000经验*2\\\\羽毛*5\\\\苹果*2"
+          "target": "Ngày 2 mở server, nạp bất kỳ số tiền nào cũng nhận được\\\\Nhấp đúp để dùng, nhận các vật phẩm sau:\\\\Linh Thạch Ma Toản*7\\\\1000K KN*2\\\\Lông Vũ*5\\\\Táo*2"
         },
         {
           "key": "n2619",
           "occurrence": 1,
           "source": "攻城首充礼包",
-          "target": "攻城首充礼包"
+          "target": "Gói Nạp Đầu Công Thành"
         },
         {
           "key": "i2619",
           "occurrence": 1,
           "source": "开服第三天,只要充值任意金额即可获得\\\\双击使用即可获得以下物品:\\\\魔钻灵石*7\\\\1000000经验*3\\\\攻击药水(大)*1\\\\苹果*2",
-          "target": "开服第三天,只要充值任意金额即可获得\\\\双击使用即可获得以下物品:\\\\魔钻灵石*7\\\\1000000经验*3\\\\攻击药水(大)*1\\\\苹果*2"
+          "target": "Ngày 3 mở server, nạp bất kỳ số tiền nào cũng nhận được\\\\Nhấp đúp để dùng, nhận các vật phẩm sau:\\\\Linh Thạch Ma Toản*7\\\\1000K KN*3\\\\Bình Thuốc Tấn Công (Lớn)*1\\\\Táo*2"
         },
         {
           "key": "n2620",
