@@ -43220,241 +43220,241 @@
           "key": "n360",
           "occurrence": 1,
           "source": "9朵蓝玫瑰",
-          "target": "9朵蓝玫瑰"
+          "target": "9 Hoa Hồng Xanh"
         },
         {
           "key": "i360",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得9支绑定的<(c0xFF00FFFF)蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加9点\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得9支绑定的<(c0xFF00FFFF)蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加9点\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 9 <(c0xFF00FFFF)Hoa Hồng Xanh đã khóa>\\\\Tặng người bạn ngưỡng mộ để tăng <(c0xFF00FFFF)Sức Hút hoặc Phong Độ> thêm 9\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n361",
           "occurrence": 1,
           "source": "99朵蓝玫瑰",
-          "target": "99朵蓝玫瑰"
+          "target": "99 Hoa Hồng Xanh"
         },
         {
           "key": "i361",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)9朵蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加99点\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)9朵蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加99点\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 10 <(c0xFF00FFFF)9 Hoa Hồng Xanh đã khóa>\\\\Tặng người bạn ngưỡng mộ để tăng <(c0xFF00FFFF)Sức Hút hoặc Phong Độ> thêm 99\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n362",
           "occurrence": 1,
           "source": "999朵蓝玫瑰",
-          "target": "999朵蓝玫瑰"
+          "target": "999 Hoa Hồng Xanh"
         },
         {
           "key": "i362",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)99朵蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加999点\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)99朵蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加999点\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 10 <(c0xFF00FFFF)99 Hoa Hồng Xanh đã khóa>\\\\Tặng người bạn ngưỡng mộ để tăng <(c0xFF00FFFF)Sức Hút hoặc Phong Độ> thêm 999\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n363",
           "occurrence": 1,
           "source": "9999朵蓝玫瑰",
-          "target": "9999朵蓝玫瑰"
+          "target": "9999 Hoa Hồng Xanh"
         },
         {
           "key": "i363",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)999朵蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加9999点\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)999朵蓝玫瑰>\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加9999点\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 10 <(c0xFF00FFFF)999 Hoa Hồng Xanh đã khóa>\\\\Tặng người bạn ngưỡng mộ để tăng <(c0xFF00FFFF)Sức Hút hoặc Phong Độ> thêm 9999\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n364",
           "occurrence": 1,
           "source": "生命神石",
-          "target": "生命神石"
+          "target": "Thần Thạch HP"
         },
         {
           "key": "i364",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)280点>生命值,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)280点>生命值,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)280 HP>, kéo dài <(c0xFF00FFFF)8 giờ>\\\\<(c0xFF00FF00)Thời gian thuốc cùng lượng hồi phục sẽ cộng dồn>\\\\<(c0xFF00FF00)Thuốc có lượng hồi phục khác nhau sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n365",
           "occurrence": 1,
           "source": "魔法神石",
-          "target": "魔法神石"
+          "target": "Thần Thạch MP"
         },
         {
           "key": "i365",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)370点>魔法值,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)370点>魔法值,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)370 MP>, kéo dài <(c0xFF00FFFF)8 giờ>\\\\<(c0xFF00FF00)Thời gian thuốc cùng lượng hồi phục sẽ cộng dồn>\\\\<(c0xFF00FF00)Thuốc có lượng hồi phục khác nhau sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n366",
           "occurrence": 1,
           "source": "西洋参",
-          "target": "西洋参"
+          "target": "Nhân Sâm Mỹ"
         },
         {
           "key": "i366",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)280点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)280点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)280 HP>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Thời gian thuốc cùng lượng hồi phục sẽ cộng dồn>\\\\<(c0xFF00FF00)Thuốc có lượng hồi phục khác nhau sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n367",
           "occurrence": 1,
           "source": "西洋参之精",
-          "target": "西洋参之精"
+          "target": "Tinh Nhân Sâm Mỹ"
         },
         {
           "key": "i367",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)400点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)400点>生命值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)400 HP>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Thời gian thuốc cùng lượng hồi phục sẽ cộng dồn>\\\\<(c0xFF00FF00)Thuốc có lượng hồi phục khác nhau sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n368",
           "occurrence": 1,
           "source": "雪莲",
-          "target": "雪莲"
+          "target": "Tuyết Liên"
         },
         {
           "key": "i368",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)370点>魔法值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)370点>魔法值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)370 MP>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Thời gian thuốc cùng lượng hồi phục sẽ cộng dồn>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n369",
           "occurrence": 1,
           "source": "雪莲之精",
-          "target": "雪莲之精"
+          "target": "Tinh Tuyết Liên"
         },
         {
           "key": "i369",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)520点>魔法值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复<(c0xFF00FFFF)520点>魔法值,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)520 MP>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Thời gian thuốc cùng lượng hồi phục sẽ cộng dồn>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n370",
           "occurrence": 1,
           "source": "祝福油",
-          "target": "祝福油"
+          "target": "Dầu Chúc Phúc"
         },
         {
           "key": "i370",
           "occurrence": 1,
           "source": "双击使用\\\\使手中武器的幸运值有一定几率<(c0xFF00FFFF)增加>、<(c0xFF00FFFF)不变>、<(c0xFF00FFFF)或减少>\\\\当人物的幸运值达到<(c0xFF00FFFF)9或以上>时,每次攻击都能造成<(c0xFF00FFFF)最大>伤害\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>",
-          "target": "双击使用\\\\使手中武器的幸运值有一定几率<(c0xFF00FFFF)增加>、<(c0xFF00FFFF)不变>、<(c0xFF00FFFF)或减少>\\\\当人物的幸运值达到<(c0xFF00FFFF)9或以上>时,每次攻击都能造成<(c0xFF00FFFF)最大>伤害\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>"
+          "target": "Nhấp đúp dùng\\\\Có xác suất <(c0xFF00FFFF)tăng>, <(c0xFF00FFFF)giữ nguyên> hoặc <(c0xFF00FFFF)giảm> May Mắn của vũ khí đang cầm\\\\Khi May Mắn đạt <(c0xFF00FFFF)9 trở lên>, mỗi đòn đánh gây <(c0xFF00FFFF)Sát Thương Tối Đa>\\\\<(c0xFF00FF00)Mẹo: Nhận tại Cửa Hàng, sự kiện hoặc phụ bản>"
         },
         {
           "key": "n371",
           "occurrence": 1,
           "source": "生命药水(小)",
-          "target": "生命药水(小)"
+          "target": "Bình HP (Nhỏ)"
         },
         {
           "key": "i371",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,生命最大值提升<(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,生命最大值提升<(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, HP tối đa tăng <(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n372",
           "occurrence": 1,
           "source": "生命药水(中)",
-          "target": "生命药水(中)"
+          "target": "Bình HP (Trung)"
         },
         {
           "key": "i372",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,生命最大值提升<(c0xFF00FFFF)7%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,生命最大值提升<(c0xFF00FFFF)7%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, HP tối đa tăng <(c0xFF00FFFF)7%>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n373",
           "occurrence": 1,
           "source": "生命药水(大)",
-          "target": "生命药水(大)"
+          "target": "Bình HP (Lớn)"
         },
         {
           "key": "i373",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,生命最大值提升<(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,生命最大值提升<(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, HP tối đa tăng <(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n374",
           "occurrence": 1,
           "source": "法力药水(小)",
-          "target": "法力药水(小)"
+          "target": "Bình MP (Nhỏ)"
         },
         {
           "key": "i374",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,魔法最大值提升<(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,魔法最大值提升<(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, MP tối đa tăng <(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n375",
           "occurrence": 1,
           "source": "法力药水(中)",
-          "target": "法力药水(中)"
+          "target": "Bình MP (Trung)"
         },
         {
           "key": "i375",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,魔法最大值提升<(c0xFF00FFFF)7%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,魔法最大值提升<(c0xFF00FFFF)7%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, MP tối đa tăng <(c0xFF00FFFF)7%>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n376",
           "occurrence": 1,
           "source": "法力药水(大)",
-          "target": "法力药水(大)"
+          "target": "Bình MP (Lớn)"
         },
         {
           "key": "i376",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,魔法最大值提升<(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,魔法最大值提升<(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, MP tối đa tăng <(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n377",
           "occurrence": 1,
           "source": "攻击药水(小)",
-          "target": "攻击药水(小)"
+          "target": "Bình Công Kích (Nhỏ)"
         },
         {
           "key": "i377",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)10 phút>, sát thương tăng <(c0xFF00FFFF)5%>\\\\<(c0xFF00FF00)Thời gian Bình Công Kích cùng loại sẽ làm mới>\\\\<(c0xFF00FF00)Bình Công Kích khác loại sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n378",
           "occurrence": 1,
           "source": "攻击药水(中)",
-          "target": "攻击药水(中)"
+          "target": "Bình Công Kích (Trung)"
         },
         {
           "key": "i378",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)10 phút>, sát thương tăng <(c0xFF00FFFF)10%>\\\\<(c0xFF00FF00)Thời gian Bình Công Kích cùng loại sẽ làm mới>\\\\<(c0xFF00FF00)Bình Công Kích khác loại sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n379",
           "occurrence": 1,
           "source": "攻击药水(大)",
-          "target": "攻击药水(大)"
+          "target": "Bình Công Kích (Lớn)"
         },
         {
           "key": "i379",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)15%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,造成的伤害提升<(c0xFF00FFFF)15%>\\\\<(c0xFF00FF00)相同的攻击药水时间会刷新>\\\\<(c0xFF00FF00)不同的攻击药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)10 phút>, sát thương tăng <(c0xFF00FFFF)15%>\\\\<(c0xFF00FF00)Thời gian Bình Công Kích cùng loại sẽ làm mới>\\\\<(c0xFF00FF00)Bình Công Kích khác loại sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n380",
