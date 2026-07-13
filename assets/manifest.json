@@ -1,5 +1,5 @@
 {
-  "version": "20260714notifyonly1",
+  "version": "20260714questfont1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "CE9E0EAFEFD01B4607DB98C246002F06FB225BF38516D09A4310BF543E11EA68"
+      "sha256": "F9C598A11388048EC28A6824579245558835E834C2D2BE5F98A114266706D52F"
     },
     {
       "source": "assets/ClientLang.txt",
