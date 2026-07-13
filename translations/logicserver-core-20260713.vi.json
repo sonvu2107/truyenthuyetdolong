@@ -40292,121 +40292,121 @@
           "key": "n116",
           "occurrence": 1,
           "source": "诅咒之剑",
-          "target": "诅咒之剑"
+          "target": "Kiếm Nguyền Rủa"
         },
         {
           "key": "i116",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒之剑> 可以合成一个 <(c0xFFFF6600)奔雷之剑>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒之剑> 可以合成一个 <(c0xFFFF6600)奔雷之剑>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Kiếm Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Kiếm Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n117",
           "occurrence": 1,
           "source": "诅咒战衣(男)",
-          "target": "诅咒战衣(男)"
+          "target": "Giáp Nguyền Rủa (Nam)"
         },
         {
           "key": "i117",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒战衣(男)> 可以合成一个 <(c0xFFFF6600)奔雷战衣(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒战衣(男)> 可以合成一个 <(c0xFFFF6600)奔雷战衣(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Nguyền Rủa (Nam)> có thể hợp thành <(c0xFFFF6600)Giáp Bôn Lôi (Nam)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n118",
           "occurrence": 1,
           "source": "诅咒战衣(女)",
-          "target": "诅咒战衣(女)"
+          "target": "Giáp Nguyền Rủa (Nữ)"
         },
         {
           "key": "i118",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒战衣(女)> 可以合成一个 <(c0xFFFF6600)奔雷战衣(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒战衣(女)> 可以合成一个 <(c0xFFFF6600)奔雷战衣(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Nguyền Rủa (Nữ)> có thể hợp thành <(c0xFFFF6600)Giáp Bôn Lôi (Nữ)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n119",
           "occurrence": 1,
           "source": "诅咒头盔",
-          "target": "诅咒头盔"
+          "target": "Mũ Nguyền Rủa"
         },
         {
           "key": "i119",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒头盔> 可以合成一个 <(c0xFFFF6600)奔雷头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒头盔> 可以合成一个 <(c0xFFFF6600)奔雷头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Mũ Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n120",
           "occurrence": 1,
           "source": "诅咒项链",
-          "target": "诅咒项链"
+          "target": "Dây Chuyền Nguyền Rủa"
         },
         {
           "key": "i120",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒项链> 可以合成一个 <(c0xFFFF6600)奔雷项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒项链> 可以合成一个 <(c0xFFFF6600)奔雷项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Dây Chuyền Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n121",
           "occurrence": 1,
           "source": "诅咒手镯",
-          "target": "诅咒手镯"
+          "target": "Vòng Tay Nguyền Rủa"
         },
         {
           "key": "i121",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒手镯> 可以合成一个 <(c0xFFFF6600)奔雷手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒手镯> 可以合成一个 <(c0xFFFF6600)奔雷手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Vòng Tay Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n122",
           "occurrence": 1,
           "source": "诅咒腰带",
-          "target": "诅咒腰带"
+          "target": "Đai Lưng Nguyền Rủa"
         },
         {
           "key": "i122",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒腰带> 可以合成一个 <(c0xFFFF6600)奔雷腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒腰带> 可以合成一个 <(c0xFFFF6600)奔雷腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Lưng Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Đai Lưng Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n123",
           "occurrence": 1,
           "source": "诅咒战鞋",
-          "target": "诅咒战鞋"
+          "target": "Giày Nguyền Rủa"
         },
         {
           "key": "i123",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒战鞋> 可以合成一个 <(c0xFFFF6600)奔雷战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒战鞋> 可以合成一个 <(c0xFFFF6600)奔雷战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giày Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Giày Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n124",
           "occurrence": 1,
           "source": "诅咒宝石",
-          "target": "诅咒宝石"
+          "target": "Đá Quý Nguyền Rủa"
         },
         {
           "key": "i124",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒宝石> 可以合成一个 <(c0xFFFF6600)奔雷宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒宝石> 可以合成一个 <(c0xFFFF6600)奔雷宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đá Quý Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Đá Quý Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n125",
           "occurrence": 1,
           "source": "诅咒戒指",
-          "target": "诅咒戒指"
+          "target": "Nhẫn Nguyền Rủa"
         },
         {
           "key": "i125",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒戒指> 可以合成一个 <(c0xFFFF6600)奔雷戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒戒指> 可以合成一个 <(c0xFFFF6600)奔雷戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Nhẫn Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n126",
