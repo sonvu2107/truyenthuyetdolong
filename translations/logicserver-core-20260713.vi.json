@@ -62492,121 +62492,121 @@
           "key": "n1966",
           "occurrence": 1,
           "source": "挖宝铲子",
-          "target": "挖宝铲子"
+          "target": "Xẻng Đào Báu"
         },
         {
           "key": "i1966",
           "occurrence": 1,
           "source": "双击使用，可以随机获得奖励道具",
-          "target": "双击使用，可以随机获得奖励道具"
+          "target": "Nhấp đúp để dùng, có thể ngẫu nhiên nhận đạo cụ phần thưởng"
         },
         {
           "key": "n1967",
           "occurrence": 1,
           "source": "神秘宝箱",
-          "target": "神秘宝箱"
+          "target": "Rương Bí Ẩn"
         },
         {
           "key": "i1967",
           "occurrence": 1,
           "source": "双击神秘宝箱将随机获得一种道具",
-          "target": "双击神秘宝箱将随机获得一种道具"
+          "target": "Nhấp đúp Rương Bí Ẩn để ngẫu nhiên nhận một loại đạo cụ"
         },
         {
           "key": "n1968",
           "occurrence": 1,
           "source": "神秘礼物",
-          "target": "神秘礼物"
+          "target": "Quà Bí Ẩn"
         },
         {
           "key": "i1968",
           "occurrence": 1,
           "source": "双击将随机获得一种道具；",
-          "target": "双击将随机获得一种道具；"
+          "target": "Nhấp đúp để ngẫu nhiên nhận một loại đạo cụ;"
         },
         {
           "key": "n1969",
           "occurrence": 1,
           "source": "物攻宝石碎片",
-          "target": "物攻宝石碎片"
+          "target": "Mảnh Đá Quý Công Vật Lý"
         },
         {
           "key": "i1969",
           "occurrence": 1,
           "source": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作",
-          "target": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作"
+          "target": "Nuốt vào Đá Quý cùng loại để tăng <(c0x00ff0066)KN Đá Quý>\\\\Nhấn phím tắt:<(c0xFFFF6600)C> để mở bảng Đá Quý thao tác"
         },
         {
           "key": "n1970",
           "occurrence": 1,
           "source": "魔攻宝石碎片",
-          "target": "魔攻宝石碎片"
+          "target": "Mảnh Đá Quý Công Ma Pháp"
         },
         {
           "key": "i1970",
           "occurrence": 1,
           "source": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作",
-          "target": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作"
+          "target": "Nuốt vào Đá Quý cùng loại để tăng <(c0x00ff0066)KN Đá Quý>\\\\Nhấn phím tắt:<(c0xFFFF6600)C> để mở bảng Đá Quý thao tác"
         },
         {
           "key": "n1971",
           "occurrence": 1,
           "source": "道攻宝石碎片",
-          "target": "道攻宝石碎片"
+          "target": "Mảnh Đá Quý Công Đạo Thuật"
         },
         {
           "key": "i1971",
           "occurrence": 1,
           "source": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作",
-          "target": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作"
+          "target": "Nuốt vào Đá Quý cùng loại để tăng <(c0x00ff0066)KN Đá Quý>\\\\Nhấn phím tắt:<(c0xFFFF6600)C> để mở bảng Đá Quý thao tác"
         },
         {
           "key": "n1972",
           "occurrence": 1,
           "source": "物防宝石碎片",
-          "target": "物防宝石碎片"
+          "target": "Mảnh Đá Quý Phòng Thủ Vật Lý"
         },
         {
           "key": "i1972",
           "occurrence": 1,
           "source": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作",
-          "target": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作"
+          "target": "Nuốt vào Đá Quý cùng loại để tăng <(c0x00ff0066)KN Đá Quý>\\\\Nhấn phím tắt:<(c0xFFFF6600)C> để mở bảng Đá Quý thao tác"
         },
         {
           "key": "n1973",
           "occurrence": 1,
           "source": "魔防宝石碎片",
-          "target": "魔防宝石碎片"
+          "target": "Mảnh Đá Quý Phòng Thủ Ma Pháp"
         },
         {
           "key": "i1973",
           "occurrence": 1,
           "source": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作",
-          "target": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作"
+          "target": "Nuốt vào Đá Quý cùng loại để tăng <(c0x00ff0066)KN Đá Quý>\\\\Nhấn phím tắt:<(c0xFFFF6600)C> để mở bảng Đá Quý thao tác"
         },
         {
           "key": "n1974",
           "occurrence": 1,
           "source": "生命宝石碎片",
-          "target": "生命宝石碎片"
+          "target": "Mảnh Đá Quý Sinh Mệnh"
         },
         {
           "key": "i1974",
           "occurrence": 1,
           "source": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作",
-          "target": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作"
+          "target": "Nuốt vào Đá Quý cùng loại để tăng <(c0x00ff0066)KN Đá Quý>\\\\Nhấn phím tắt:<(c0xFFFF6600)C> để mở bảng Đá Quý thao tác"
         },
         {
           "key": "n1975",
           "occurrence": 1,
           "source": "魔法宝石碎片",
-          "target": "魔法宝石碎片"
+          "target": "Mảnh Đá Quý Ma Pháp"
         },
         {
           "key": "i1975",
           "occurrence": 1,
           "source": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作",
-          "target": "吞噬到同类型宝石上可以增加 <(c0x00ff0066)宝石经验>\\\\按快捷键:<(c0xFFFF6600)C>打开宝石面板操作"
+          "target": "Nuốt vào Đá Quý cùng loại để tăng <(c0x00ff0066)KN Đá Quý>\\\\Nhấn phím tắt:<(c0xFFFF6600)C> để mở bảng Đá Quý thao tác"
         },
         {
           "key": "n1976",
