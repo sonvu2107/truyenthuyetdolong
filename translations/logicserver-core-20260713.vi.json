@@ -52142,7 +52142,7 @@
           "key": "i1103",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\多个回血比率效果可进行叠加,升阶增加回血比率",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\多个回血比率效果可进行叠加,升阶增加回血比率"
+          "target": "<(c0x00ff0066)Một trong các Thần Nhẫn mạnh nhất>\\\\Khi tử vong, <(c0xFFFF6600)Phục Sinh ngay>, hồi chiêu 60 Giây\\\\Hiệu ứng tỷ lệ hồi HP cộng dồn, tăng bậc tăng tỷ lệ"
         },
         {
           "key": "n1104",
