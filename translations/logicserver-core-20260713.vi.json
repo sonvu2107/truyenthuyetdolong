@@ -71780,97 +71780,97 @@
           "key": "n2740",
           "occurrence": 1,
           "source": "让你升十级",
-          "target": "让你升十级"
+          "target": "Tăng 10 Cấp"
         },
         {
           "key": "i2740",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)顶级升级利器>\\\\双击使用\\\\比当前可转生等级低10级或以上都会将立刻升<(c0xFFFF6600)十级>!\\\\<(c0xFF00FF00)人物转生后效果更佳.>\\\\<(c0xFF00FF00)提示:可通过首充礼包获得>",
-          "target": "<(c0xFFFFFF00)顶级升级利器>\\\\双击使用\\\\比当前可转生等级低10级或以上都会将立刻升<(c0xFFFF6600)十级>!\\\\<(c0xFF00FF00)人物转生后效果更佳.>\\\\<(c0xFF00FF00)提示:可通过首充礼包获得>"
+          "target": "<(c0xFFFFFF00)Vật phẩm tăng cấp đỉnh cấp>\\\\Nhấp đúp để dùng\\\\Thấp hơn Cấp Chuyển Sinh hiện tại 10 cấp hoặc cao hơn sẽ lập tức tăng <(c0xFFFF6600)10 Cấp>!\\\\<(c0xFF00FF00)Hiệu quả tốt hơn sau khi Chuyển Sinh.>\\\\<(c0xFF00FF00)Mẹo: nhận từ Gói Nạp Đầu>"
         },
         {
           "key": "n2741",
           "occurrence": 1,
           "source": "挑战令牌",
-          "target": "挑战令牌"
+          "target": "Lệnh Khiêu Chiến"
         },
         {
           "key": "i2741",
           "occurrence": 1,
           "source": "打BOSS!爆好装备!\\\\进入个人BOSS的通行证",
-          "target": "打BOSS!爆好装备!\\\\进入个人BOSS的通行证"
+          "target": "Đánh BOSS! Rơi trang bị xịn!\\\\Vé vào BOSS Cá Nhân"
         },
         {
           "key": "n2742",
           "occurrence": 1,
           "source": "经验灵丹",
-          "target": "经验灵丹"
+          "target": "Linh Đan KN"
         },
         {
           "key": "i2742",
           "occurrence": 1,
           "source": "使用该道具后，3小时内，每5秒给人物增加1000点经验值",
-          "target": "使用该道具后，3小时内，每5秒给人物增加1000点经验值"
+          "target": "Dùng vật phẩm, trong 3 giờ mỗi 5 giây tăng 1000 KN cho nhân vật"
         },
         {
           "key": "n2743",
           "occurrence": 1,
           "source": "强化清洗石",
-          "target": "强化清洗石"
+          "target": "Đá Tẩy Cường Hóa"
         },
         {
           "key": "i2743",
           "occurrence": 1,
           "source": "强化清洗石\\\\用于把强化过的装备，清0并给与玩家15次强化机会",
-          "target": "强化清洗石\\\\用于把强化过的装备，清0并给与玩家15次强化机会"
+          "target": "Đá Tẩy Cường Hóa\\\\Dùng để xóa Cường Hóa trang bị về 0 và cho người chơi 15 lần Cường Hóa"
         },
         {
           "key": "n2744",
           "occurrence": 1,
           "source": "5级完美强化卡",
-          "target": "5级完美强化卡"
+          "target": "Thẻ Cường Hóa Hoàn Mỹ Cấp 5"
         },
         {
           "key": "i2744",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+5>>",
-          "target": "<(c0xFF00FF00)强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+5>>"
+          "target": "<(c0xFF00FF00)Vật phẩm Cường Hóa>\\\\Nhấp đúp để dùng, có thể Cường Hóa trực tiếp một trang bị bất kỳ lên <(c0xFF00FF00)+5>>"
         },
         {
           "key": "n2745",
           "occurrence": 1,
           "source": "7级完美强化卡",
-          "target": "7级完美强化卡"
+          "target": "Thẻ Cường Hóa Hoàn Mỹ Cấp 7"
         },
         {
           "key": "i2745",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+7>>",
-          "target": "<(c0xFF00FF00)强化道具>\\\\双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+7>>"
+          "target": "<(c0xFF00FF00)Vật phẩm Cường Hóa>\\\\Nhấp đúp để dùng, có thể Cường Hóa trực tiếp một trang bị bất kỳ lên <(c0xFF00FF00)+7>>"
         },
         {
           "key": "n2746",
           "occurrence": 1,
           "source": "5000000绑定金币",
-          "target": "5000000绑定金币"
+          "target": "5000K Vàng Khóa"
         },
         {
           "key": "i2746",
           "occurrence": 1,
           "source": "双击使用获得<(c0xFF00FFFF)500万绑定金币>",
-          "target": "双击使用获得<(c0xFF00FFFF)500万绑定金币>"
+          "target": "Nhấp đúp để nhận <(c0xFF00FFFF)5000K Vàng Khóa>"
         },
         {
           "key": "n2747",
           "occurrence": 1,
           "source": "6000000绑定金币",
-          "target": "6000000绑定金币"
+          "target": "6000K Vàng Khóa"
         },
         {
           "key": "i2747",
           "occurrence": 1,
           "source": "双击使用获得<(c0xFF00FFFF)600万绑定金币>",
-          "target": "双击使用获得<(c0xFF00FFFF)600万绑定金币>"
+          "target": "Nhấp đúp để nhận <(c0xFF00FFFF)6000K Vàng Khóa>"
         },
         {
           "key": "n2748",
