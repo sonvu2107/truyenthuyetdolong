@@ -68408,97 +68408,97 @@
           "key": "n2459",
           "occurrence": 1,
           "source": "装备转生礼包",
-          "target": "装备转生礼包"
+          "target": "Gói Chuyển Sinh Trang Bị"
         },
         {
           "key": "i2459",
           "occurrence": 1,
           "source": "装备转生礼包\\\\内有：装备转生精华*10",
-          "target": "装备转生礼包\\\\内有：装备转生精华*10"
+          "target": "Gói Chuyển Sinh Trang Bị\\\\Gồm: Tinh Hoa Chuyển Sinh Trang Bị ×10"
         },
         {
           "key": "n2460",
           "occurrence": 1,
           "source": "装备淬炼材料礼包",
-          "target": "装备淬炼材料礼包"
+          "target": "Gói Nguyên Liệu Tôi Luyện Trang Bị"
         },
         {
           "key": "i2460",
           "occurrence": 1,
           "source": "装备淬炼材料礼包\\\\内有：1转淬炼神石*50",
-          "target": "装备淬炼材料礼包\\\\内有：1转淬炼神石*50"
+          "target": "Gói Nguyên Liệu Tôi Luyện Trang Bị\\\\Gồm: Đá Thần Tôi Luyện Chuyển Sinh 1 ×50"
         },
         {
           "key": "n2461",
           "occurrence": 1,
           "source": "神魂晶石碎片",
-          "target": "神魂晶石碎片"
+          "target": "Mảnh Tinh Thạch Thần Hồn"
         },
         {
           "key": "i2461",
           "occurrence": 1,
           "source": "收集<(c0xFF00FFFF)20>个神魂晶石碎片，<(c0xFFFFFF00)双击使用>即可\\\\获得<(c0xFF00FFFF)神魂晶石>\\\\神魂晶石可以锻造顶级神装",
-          "target": "收集<(c0xFF00FFFF)20>个神魂晶石碎片，<(c0xFFFFFF00)双击使用>即可\\\\获得<(c0xFF00FFFF)神魂晶石>\\\\神魂晶石可以锻造顶级神装"
+          "target": "Thu thập <(c0xFF00FFFF)20> Mảnh Tinh Thạch Thần Hồn, <(c0xFFFFFF00)nhấp đúp dùng> để\\\\Nhận <(c0xFF00FFFF)Tinh Thạch Thần Hồn>\\\\Tinh Thạch Thần Hồn dùng rèn Thần Trang bậc cao"
         },
         {
           "key": "n2462",
           "occurrence": 1,
           "source": "勋章灵石碎片",
-          "target": "勋章灵石碎片"
+          "target": "Mảnh Linh Thạch Huy Chương"
         },
         {
           "key": "i2462",
           "occurrence": 1,
           "source": "收集<(c0xFF00FFFF)20>个勋章灵石碎片，<(c0xFFFFFF00)双击使用>即可获得<(c0xFF00FFFF)勋章灵石>\\\\最顶级勋章升级材料",
-          "target": "收集<(c0xFF00FFFF)20>个勋章灵石碎片，<(c0xFFFFFF00)双击使用>即可获得<(c0xFF00FFFF)勋章灵石>\\\\最顶级勋章升级材料"
+          "target": "Thu thập <(c0xFF00FFFF)20> Mảnh Linh Thạch Huy Chương, <(c0xFFFFFF00)nhấp đúp dùng> để nhận <(c0xFF00FFFF)Linh Thạch Huy Chương>\\\\Nguyên liệu nâng cấp Huy Chương bậc cao nhất"
         },
         {
           "key": "n2463",
           "occurrence": 1,
           "source": "招财进宝(小)",
-          "target": "招财进宝(小)"
+          "target": "Chiêu Tài Tiến Bảo (Nhỏ)"
         },
         {
           "key": "i2463",
           "occurrence": 1,
           "source": "双击使用获得<(c0xFF00FFFF)5万绑定金币>",
-          "target": "双击使用获得<(c0xFF00FFFF)5万绑定金币>"
+          "target": "Nhấp đúp dùng nhận <(c0xFF00FFFF)50K Vàng Khóa>"
         },
         {
           "key": "n2464",
           "occurrence": 1,
           "source": "招财进宝(中)",
-          "target": "招财进宝(中)"
+          "target": "Chiêu Tài Tiến Bảo (Vừa)"
         },
         {
           "key": "i2464",
           "occurrence": 1,
           "source": "双击使用获得<(c0xFF00FFFF)10万绑定金币>",
-          "target": "双击使用获得<(c0xFF00FFFF)10万绑定金币>"
+          "target": "Nhấp đúp dùng nhận <(c0xFF00FFFF)100K Vàng Khóa>"
         },
         {
           "key": "n2465",
           "occurrence": 1,
           "source": "特权礼包",
-          "target": "特权礼包"
+          "target": "Gói Đặc Quyền"
         },
         {
           "key": "i2465",
           "occurrence": 1,
           "source": "媒体特权礼包,双击使用\\\\可获得极品道具",
-          "target": "媒体特权礼包,双击使用\\\\可获得极品道具"
+          "target": "Gói Đặc Quyền truyền thông, nhấp đúp dùng\\\\Có thể nhận đạo cụ cực phẩm"
         },
         {
           "key": "n2466",
           "occurrence": 1,
           "source": "冲级大礼包",
-          "target": "冲级大礼包"
+          "target": "Đại Gói Đua Cấp"
         },
         {
           "key": "i2466",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\苹果×10\\\\40装备升级石×6\\\\马鞭×10\\\\兽魂丹×10\\\\红玫瑰×1\\\\修复药水×1\\\\经验水晶(大)×2\\\\西洋参之精×2\\\\雪莲之精×2\\\\祝福药水×20\\\\5倍经验卷轴×2\\\\未辨识符文×10\\\\3倍离线经验玉×2\\\\VIP体验卡×1\\\\<(c0xFF00FFFF)运营活动大礼包>",
-          "target": "双击打开,获得以下物品:\\\\苹果×10\\\\40装备升级石×6\\\\马鞭×10\\\\兽魂丹×10\\\\红玫瑰×1\\\\修复药水×1\\\\经验水晶(大)×2\\\\西洋参之精×2\\\\雪莲之精×2\\\\祝福药水×20\\\\5倍经验卷轴×2\\\\未辨识符文×10\\\\3倍离线经验玉×2\\\\VIP体验卡×1\\\\<(c0xFF00FFFF)运营活动大礼包>"
+          "target": "Nhấp đúp mở, nhận các vật phẩm sau:\\\\Táo ×10\\\\Đá Nâng Cấp Trang Bị Cấp 40 ×6\\\\Roi Ngựa ×10\\\\Đan Hồn Thú ×10\\\\Hoa Hồng Đỏ ×1\\\\Thuốc Sửa Chữa ×1\\\\Pha Lê KN (Lớn) ×2\\\\Tinh Hoa Nhân Sâm Tây Dương ×2\\\\Tinh Hoa Tuyết Liên ×2\\\\Thuốc Chúc Phúc ×20\\\\Cuộn KN x5 ×2\\\\Phù Văn Chưa Giám Định ×10\\\\Ngọc KN Offline x3 ×2\\\\Thẻ Trải Nghiệm VIP ×1\\\\<(c0xFF00FFFF)Đại Gói Sự Kiện Vận Hành>"
         },
         {
           "key": "n2467",
