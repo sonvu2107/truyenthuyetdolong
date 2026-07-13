@@ -42986,235 +42986,235 @@
           "key": "i340",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)超级治疗药剂>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)超级治疗药剂>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Thuốc Hồi Phục Siêu Cấp>"
         },
         {
           "key": "n341",
           "occurrence": 1,
           "source": "完美治疗药剂",
-          "target": "完美治疗药剂"
+          "target": "Thuốc Hồi Phục Hoàn Hảo"
         },
         {
           "key": "i341",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)超级治疗药剂包>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)超级治疗药剂包>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Gói Thuốc Hồi Phục Siêu Cấp>"
         },
         {
           "key": "n342",
           "occurrence": 1,
           "source": "轻微法力药剂",
-          "target": "轻微法力药剂"
+          "target": "Thuốc Hồi MP Nhẹ"
         },
         {
           "key": "i342",
           "occurrence": 1,
           "source": "每秒回复60点魔法值,持续8秒\\\\一共恢复魔法值<(c0xFF00FFFF)480>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>",
-          "target": "每秒回复60点魔法值,持续8秒\\\\一共恢复魔法值<(c0xFF00FFFF)480>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>"
+          "target": "Mỗi giây hồi 60 MP, kéo dài 8 giây\\\\Tổng hồi <(c0xFF00FFFF)480 MP>\\\\<(c0xFF00FF00)Mẹo: Mua tại NPC Akara>"
         },
         {
           "key": "n343",
           "occurrence": 1,
           "source": "轻型法力药剂",
-          "target": "轻型法力药剂"
+          "target": "Thuốc Hồi MP Nhỏ"
         },
         {
           "key": "i343",
           "occurrence": 1,
           "source": "每秒回复60点魔法值,持续16秒\\\\一共恢复魔法值<(c0xFF00FFFF)960>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>",
-          "target": "每秒回复60点魔法值,持续16秒\\\\一共恢复魔法值<(c0xFF00FFFF)960>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>"
+          "target": "Mỗi giây hồi 60 MP, kéo dài 16 giây\\\\Tổng hồi <(c0xFF00FFFF)960 MP>\\\\<(c0xFF00FF00)Mẹo: Mua tại NPC Akara>"
         },
         {
           "key": "n344",
           "occurrence": 1,
           "source": "法力药剂",
-          "target": "法力药剂"
+          "target": "Thuốc Hồi MP"
         },
         {
           "key": "i344",
           "occurrence": 1,
           "source": "每秒回复120点魔法值,持续15秒\\\\一共恢复魔法值<(c0xFF00FFFF)1800>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>",
-          "target": "每秒回复120点魔法值,持续15秒\\\\一共恢复魔法值<(c0xFF00FFFF)1800>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>"
+          "target": "Mỗi giây hồi 120 MP, kéo dài 15 giây\\\\Tổng hồi <(c0xFF00FFFF)1800 MP>\\\\<(c0xFF00FF00)Mẹo: Mua tại NPC Akara>"
         },
         {
           "key": "n345",
           "occurrence": 1,
           "source": "强效法力药剂",
-          "target": "强效法力药剂"
+          "target": "Thuốc Hồi MP Mạnh"
         },
         {
           "key": "i345",
           "occurrence": 1,
           "source": "每秒回复120点魔法值,持续25秒\\\\一共恢复魔法值<(c0xFF00FFFF)3000>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>",
-          "target": "每秒回复120点魔法值,持续25秒\\\\一共恢复魔法值<(c0xFF00FFFF)3000>\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>"
+          "target": "Mỗi giây hồi 120 MP, kéo dài 25 giây\\\\Tổng hồi <(c0xFF00FFFF)3000 MP>\\\\<(c0xFF00FF00)Mẹo: Mua tại NPC Akara>"
         },
         {
           "key": "n346",
           "occurrence": 1,
           "source": "超强法力药剂",
-          "target": "超强法力药剂"
+          "target": "Gói Thuốc Hồi MP Mạnh"
         },
         {
           "key": "i346",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)强效法力药剂>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)强效法力药剂>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Thuốc Hồi MP Mạnh>"
         },
         {
           "key": "n347",
           "occurrence": 1,
           "source": "极品法力药剂",
-          "target": "极品法力药剂"
+          "target": "Thuốc Hồi MP Cực Phẩm"
         },
         {
           "key": "i347",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)超级法力药剂>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)超级法力药剂>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Thuốc Hồi MP Siêu Cấp>"
         },
         {
           "key": "n348",
           "occurrence": 1,
           "source": "完美法力药剂",
-          "target": "完美法力药剂"
+          "target": "Gói Thuốc Hồi MP Hoàn Hảo"
         },
         {
           "key": "i348",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)超级法力药剂包>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)超级法力药剂包>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Gói Thuốc Hồi MP Siêu Cấp>"
         },
         {
           "key": "n349",
           "occurrence": 1,
           "source": "活力药水",
-          "target": "活力药水"
+          "target": "Bình Sinh Lực"
         },
         {
           "key": "i349",
           "occurrence": 1,
           "source": "充满活力的药剂，让人振奋!\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>",
-          "target": "充满活力的药剂，让人振奋!\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>"
+          "target": "Bình Sinh Lực tràn đầy, tiếp thêm sức mạnh!\\\\<(c0xFF00FF00)Mẹo: Mua tại NPC Akara>"
         },
         {
           "key": "n350",
           "occurrence": 1,
           "source": "完美活力药水",
-          "target": "完美活力药水"
+          "target": "Bình Sinh Lực Hoàn Hảo"
         },
         {
           "key": "i350",
           "occurrence": 1,
           "source": "充满活力的药剂，让人振奋!\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>",
-          "target": "充满活力的药剂，让人振奋!\\\\<(c0xFF00FF00)提示:可在NPC阿卡拉处购买>"
+          "target": "Bình Sinh Lực tràn đầy, tiếp thêm sức mạnh!\\\\<(c0xFF00FF00)Mẹo: Mua tại NPC Akara>"
         },
         {
           "key": "n351",
           "occurrence": 1,
           "source": "活力药水包",
-          "target": "活力药水包"
+          "target": "Gói Bình Sinh Lực"
         },
         {
           "key": "i351",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)活力药剂>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)活力药剂>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Bình Sinh Lực>"
         },
         {
           "key": "n352",
           "occurrence": 1,
           "source": "完美活力药水包",
-          "target": "完美活力药水包"
+          "target": "Gói Bình Sinh Lực Hoàn Hảo"
         },
         {
           "key": "i352",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)完美活力药剂>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)完美活力药剂>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Bình Sinh Lực Hoàn Hảo>"
         },
         {
           "key": "n353",
           "occurrence": 1,
           "source": "完美活力药水大包",
-          "target": "完美活力药水大包"
+          "target": "Đại Gói Bình Sinh Lực Hoàn Hảo"
         },
         {
           "key": "i353",
           "occurrence": 1,
           "source": "双击打开,可以获得6个<(c0xFF00FFFF)完美活力药剂包>",
-          "target": "双击打开,可以获得6个<(c0xFF00FFFF)完美活力药剂包>"
+          "target": "Nhấp đúp mở, nhận 6 <(c0xFF00FFFF)Gói Bình Sinh Lực Hoàn Hảo>"
         },
         {
           "key": "n354",
           "occurrence": 1,
           "source": "红玫瑰",
-          "target": "红玫瑰"
+          "target": "Hoa Hồng Đỏ"
         },
         {
           "key": "i354",
           "occurrence": 1,
           "source": "可到圣城的打捆商人处打捆红玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\<(c0xFF00FF00)提示:可在商城与活动副本中获得>\\\\已绑定的玫瑰不可赠送",
-          "target": "可到圣城的打捆商人处打捆红玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\<(c0xFF00FF00)提示:可在商城与活动副本中获得>\\\\已绑定的玫瑰不可赠送"
+          "target": "Có thể bó Hoa Hồng Đỏ tại Thương Nhân Đóng Gói ở Thánh Thành\\\\Tặng Hoa Hồng giúp tăng <(c0xFF00FFFF)Sức Hút> hoặc <(c0xFF00FFFF)Phong Độ>\\\\<(c0xFF00FF00)Mẹo: Nhận tại Cửa Hàng hoặc phụ bản sự kiện>\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n355",
           "occurrence": 1,
           "source": "9朵红玫瑰",
-          "target": "9朵红玫瑰"
+          "target": "9 Hoa Hồng Đỏ"
         },
         {
           "key": "i355",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得9支绑定的<(c0xFF00FFFF)红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定数量的非绑定玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得9支绑定的<(c0xFF00FFFF)红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定数量的非绑定玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 9 <(c0xFF00FFFF)Hoa Hồng Đỏ đã khóa>\\\\Nên tháo gói tại Thương Nhân Đóng Gói\\\\Hoa Hồng chưa khóa có thể tháo thành một số Hoa Hồng chưa khóa\\\\Tặng Hoa Hồng giúp tăng <(c0xFF00FFFF)Sức Hút> hoặc <(c0xFF00FFFF)Phong Độ>\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n356",
           "occurrence": 1,
           "source": "99朵红玫瑰",
-          "target": "99朵红玫瑰"
+          "target": "99 Hoa Hồng Đỏ"
         },
         {
           "key": "i356",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)9朵红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定数量的非绑定玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)9朵红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定数量的非绑定玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 10 <(c0xFF00FFFF)9 Hoa Hồng Đỏ đã khóa>\\\\Nên tháo gói tại Thương Nhân Đóng Gói\\\\Hoa Hồng chưa khóa có thể tháo thành một số Hoa Hồng chưa khóa\\\\Tặng Hoa Hồng giúp tăng <(c0xFF00FFFF)Sức Hút> hoặc <(c0xFF00FFFF)Phong Độ>\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n357",
           "occurrence": 1,
           "source": "999朵红玫瑰",
-          "target": "999朵红玫瑰"
+          "target": "999 Hoa Hồng Đỏ"
         },
         {
           "key": "i357",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)99朵红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定数量的非绑定玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)99朵红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定数量的非绑定玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 10 <(c0xFF00FFFF)99 Hoa Hồng Đỏ đã khóa>\\\\Nên tháo gói tại Thương Nhân Đóng Gói\\\\Hoa Hồng chưa khóa có thể tháo thành một số Hoa Hồng chưa khóa\\\\Tặng Hoa Hồng giúp tăng <(c0xFF00FFFF)Sức Hút> hoặc <(c0xFF00FFFF)Phong Độ>\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n358",
           "occurrence": 1,
           "source": "9999朵红玫瑰",
-          "target": "9999朵红玫瑰"
+          "target": "9999 Hoa Hồng Đỏ"
         },
         {
           "key": "i358",
           "occurrence": 1,
           "source": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)999朵红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定非绑定的玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送",
-          "target": "双击进行解捆\\\\解捆可以获得10支绑定的<(c0xFF00FFFF)999朵红玫瑰>\\\\建议到打捆商人处进行解捆\\\\非绑定的玫瑰可解捆成一定非绑定的玫瑰\\\\玫瑰可赠送他人,增加对方<(c0xFF00FFFF)魅力>或<(c0xFF00FFFF)帅气值>\\\\已绑定的玫瑰不可赠送"
+          "target": "Nhấp đúp để tháo gói\\\\Tháo gói nhận 10 <(c0xFF00FFFF)999 Hoa Hồng Đỏ đã khóa>\\\\Nên tháo gói tại Thương Nhân Đóng Gói\\\\Hoa Hồng chưa khóa có thể tháo thành một số Hoa Hồng chưa khóa\\\\Tặng Hoa Hồng giúp tăng <(c0xFF00FFFF)Sức Hút> hoặc <(c0xFF00FFFF)Phong Độ>\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n359",
           "occurrence": 1,
           "source": "蓝玫瑰",
-          "target": "蓝玫瑰"
+          "target": "Hoa Hồng Xanh"
         },
         {
           "key": "i359",
           "occurrence": 1,
           "source": "一朵冷艳的蓝玫瑰\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加1点\\\\<(c0xFF00FF00)提示:可通过商城购买获得\\\\绑定则不可赠送>\\\\已绑定的玫瑰不可赠送",
-          "target": "一朵冷艳的蓝玫瑰\\\\赠送给你仰慕的人，可使对方的<(c0xFF00FFFF)魅力值或帅气值>增加1点\\\\<(c0xFF00FF00)提示:可通过商城购买获得\\\\绑定则不可赠送>\\\\已绑定的玫瑰不可赠送"
+          "target": "Một đóa Hoa Hồng Xanh lạnh lùng\\\\Tặng người bạn ngưỡng mộ để tăng <(c0xFF00FFFF)Sức Hút hoặc Phong Độ> thêm 1\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng\\\\Hoa Hồng đã khóa không thể tặng>\\\\Hoa Hồng đã khóa không thể tặng"
         },
         {
           "key": "n360",
