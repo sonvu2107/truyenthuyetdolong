@@ -1,5 +1,5 @@
 {
-  "version": "20260714welfare3",
+  "version": "20260714welfare4",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "4F8629BCD58F4CF68636089D59FB5709702F22AC9764DDD44446D972CA1818AF"
+      "sha256": "DC74793FC45D37137A03A346617F8D24FB44D20F0193E6A096F3EDD584EDED52"
     },
     {
       "source": "assets/ClientLang.txt",
