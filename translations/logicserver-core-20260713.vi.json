@@ -45560,7 +45560,7 @@
           "key": "n555",
           "occurrence": 1,
           "source": "生铁戒指",
-          "target": "生铁戒指"
+          "target": "Nhẫn Sắt Thô"
         },
         {
           "key": "i555",
@@ -45572,7 +45572,7 @@
           "key": "n556",
           "occurrence": 1,
           "source": "生铁护手",
-          "target": "生铁护手"
+          "target": "Găng Sắt Thô"
         },
         {
           "key": "i556",
@@ -45584,7 +45584,7 @@
           "key": "n557",
           "occurrence": 1,
           "source": "生铁项链",
-          "target": "生铁项链"
+          "target": "Dây Chuyền Sắt Thô"
         },
         {
           "key": "i557",
@@ -45596,7 +45596,7 @@
           "key": "n558",
           "occurrence": 1,
           "source": "生铁头盔",
-          "target": "生铁头盔"
+          "target": "Mũ Sắt Thô"
         },
         {
           "key": "i558",
@@ -45608,43 +45608,43 @@
           "key": "n559",
           "occurrence": 1,
           "source": "天使之羽",
-          "target": "天使之羽"
+          "target": "Lông Vũ Thiên Sứ"
         },
         {
           "key": "i559",
           "occurrence": 1,
           "source": "可代替一个<(c0xFF00FFFF)羽毛>作为翅膀系统提升道具。",
-          "target": "可代替一个<(c0xFF00FFFF)羽毛>作为翅膀系统提升道具。"
+          "target": "Dùng thay 1 <(c0xFF00FFFF)Lông Vũ> làm vật phẩm nâng Cánh."
         },
         {
           "key": "n560",
           "occurrence": 1,
           "source": "翅膀合成卷轴",
-          "target": "翅膀合成卷轴"
+          "target": "Cuộn Hợp Thành Cánh"
         },
         {
           "key": "i560",
           "occurrence": 1,
           "source": "可代替6个<(c0xFF00FFFF)羽毛>作为翅膀系统提升道具。",
-          "target": "可代替6个<(c0xFF00FFFF)羽毛>作为翅膀系统提升道具。"
+          "target": "Dùng thay 6 <(c0xFF00FFFF)Lông Vũ> làm vật phẩm nâng Cánh."
         },
         {
           "key": "n561",
           "occurrence": 1,
           "source": "神•黄金戒指（废弃）",
-          "target": "神•黄金戒指（废弃）"
+          "target": "Thần • Nhẫn Hoàng Kim (Bỏ)"
         },
         {
           "key": "i561",
           "occurrence": 1,
           "source": "超强神级套装\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与\\\\50级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "超强神级套装\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与\\\\50级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "Bộ Thần Trang cực mạnh\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng\\\\Bộ Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n562",
           "occurrence": 1,
           "source": "尘封的魔瓶(废弃)",
-          "target": "尘封的魔瓶(废弃)"
+          "target": "Bình Ma Phong Ấn (Bỏ)"
         },
         {
           "key": "i562",
@@ -45656,55 +45656,55 @@
           "key": "n563",
           "occurrence": 1,
           "source": "强效药剂包",
-          "target": "强效药剂包"
+          "target": "Gói Thuốc Mạnh"
         },
         {
           "key": "i563",
           "occurrence": 1,
           "source": "双击使用,即可获得以下物品:\\\\强效治疗药剂×9\\\\强效法力药剂×9",
-          "target": "双击使用,即可获得以下物品:\\\\强效治疗药剂×9\\\\强效法力药剂×9"
+          "target": "Dùng để nhận:\\\\Thuốc HP Mạnh ×9\\\\Thuốc MP Mạnh ×9"
         },
         {
           "key": "n564",
           "occurrence": 1,
           "source": "超级药剂包",
-          "target": "超级药剂包"
+          "target": "Gói Thuốc Siêu Cấp"
         },
         {
           "key": "i564",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下三种物品:\\\\完美活力药剂或强效雪霜药剂×10(根据职业)\\\\超级治疗药剂×20\\\\超级法力药剂×20",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下三种物品:\\\\完美活力药剂或强效雪霜药剂×10(根据职业)\\\\超级治疗药剂×20\\\\超级法力药剂×20"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 3 vật phẩm:\\\\Thuốc Sinh Lực Hoàn Mỹ hoặc Thuốc Tuyết Sương Mạnh ×10 (tùy nghề)\\\\Thuốc HP Siêu Cấp ×20\\\\Thuốc MP Siêu Cấp ×20"
         },
         {
           "key": "n565",
           "occurrence": 1,
           "source": "新手卡礼包",
-          "target": "新手卡礼包"
+          "target": "Gói Thẻ Tân Thủ"
         },
         {
           "key": "i565",
           "occurrence": 1,
           "source": "双击打开,获得新手必备珍品:\\\\<(c0xFF00FF00)提示:福利系统可领取>",
-          "target": "双击打开,获得新手必备珍品:\\\\<(c0xFF00FF00)提示:福利系统可领取>"
+          "target": "Dùng để mở, nhận vật phẩm Tân Thủ:\\\\<(c0xFF00FF00)Gợi ý: nhận ở Phúc Lợi>"
         },
         {
           "key": "n566",
           "occurrence": 1,
           "source": "3000元宝",
-          "target": "3000元宝"
+          "target": "3K Nguyên Bảo"
         },
         {
           "key": "i566",
           "occurrence": 1,
           "source": "立即获得3000元宝",
-          "target": "立即获得3000元宝"
+          "target": "Nhận ngay 3K Nguyên Bảo"
         },
         {
           "key": "n567",
           "occurrence": 1,
           "source": "初级技巧项链(废弃)",
-          "target": "初级技巧项链(废弃)"
+          "target": "Dây Chuyền Kỹ Xảo Sơ Cấp (Bỏ)"
         },
         {
           "key": "i567",
@@ -45716,7 +45716,7 @@
           "key": "n568",
           "occurrence": 1,
           "source": "中级技巧项链(废弃)",
-          "target": "中级技巧项链(废弃)"
+          "target": "Dây Chuyền Kỹ Xảo Trung Cấp (Bỏ)"
         },
         {
           "key": "i568",
@@ -45728,7 +45728,7 @@
           "key": "n569",
           "occurrence": 1,
           "source": "高级技巧项链(废弃)",
-          "target": "高级技巧项链(废弃)"
+          "target": "Dây Chuyền Kỹ Xảo Cao Cấp (Bỏ)"
         },
         {
           "key": "i569",
@@ -45740,7 +45740,7 @@
           "key": "n570",
           "occurrence": 1,
           "source": "超级技巧项链(废弃)",
-          "target": "超级技巧项链(废弃)"
+          "target": "Dây Chuyền Kỹ Xảo Siêu Cấp (Bỏ)"
         },
         {
           "key": "i570",
@@ -45752,7 +45752,7 @@
           "key": "n571",
           "occurrence": 1,
           "source": "究极技巧项链(废弃)",
-          "target": "究极技巧项链(废弃)"
+          "target": "Dây Chuyền Kỹ Xảo Cực Phẩm (Bỏ)"
         },
         {
           "key": "i571",
@@ -45764,127 +45764,127 @@
           "key": "n572",
           "occurrence": 1,
           "source": "装备转生碎片",
-          "target": "装备转生碎片"
+          "target": "Mảnh Chuyển Sinh Trang Bị"
         },
         {
           "key": "i572",
           "occurrence": 1,
           "source": "转生装备材料,将普通装备提升成转生装备的必要材料\\\\可以通过<(c0xFF00FFFF)分解装备>或者在<(c0xFF00FFFF)商城购买>获得\\\\装备分解可以在<(c0xFF00FFFF)圣城>的<(c0xFF00FFFF)大天使>处进行\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)转生锻造>操作",
-          "target": "转生装备材料,将普通装备提升成转生装备的必要材料\\\\可以通过<(c0xFF00FFFF)分解装备>或者在<(c0xFF00FFFF)商城购买>获得\\\\装备分解可以在<(c0xFF00FFFF)圣城>的<(c0xFF00FFFF)大天使>处进行\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)转生锻造>操作"
+          "target": "Nguyên liệu CS Trang Bị, cần để nâng Trang Bị thường thành Trang Bị CS\\\\Nhận qua <(c0xFF00FFFF)Phân Giải Trang Bị> hoặc <(c0xFF00FFFF)Mua ở Shop>\\\\Phân giải tại <(c0xFF00FFFF)Đại Thiên Sứ> ở <(c0xFF00FFFF)Thánh Thành>\\\\<(c0xFFFFFF00)Dùng> để mở Bảng Rèn (phím tắt: <(c0xFF00FFFF)X>) thực hiện <(c0xFF00FFFF)Rèn Chuyển Sinh>"
         },
         {
           "key": "n573",
           "occurrence": 1,
           "source": "神•黄金战斧（废弃）",
-          "target": "神•黄金战斧（废弃）"
+          "target": "Thần • Rìu Chiến Hoàng Kim (Bỏ)"
         },
         {
           "key": "i573",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战斧，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战斧，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Rìu chiến hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng Bộ\\\\Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n574",
           "occurrence": 1,
           "source": "神•黄金战甲(男)（废弃）",
-          "target": "神•黄金战甲(男)（废弃）"
+          "target": "Thần • Giáp Hoàng Kim (Nam) (Bỏ)"
         },
         {
           "key": "i574",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战甲，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战甲，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Chiến giáp hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng Bộ\\\\Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n575",
           "occurrence": 1,
           "source": "神•黄金战甲(女)（废弃）",
-          "target": "神•黄金战甲(女)（废弃）"
+          "target": "Thần • Giáp Hoàng Kim (Nữ) (Bỏ)"
         },
         {
           "key": "i575",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战甲，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战甲，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Chiến giáp hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng Bộ\\\\Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n576",
           "occurrence": 1,
           "source": "神•黄金头盔（废弃）",
-          "target": "神•黄金头盔（废弃）"
+          "target": "Thần • Mũ Hoàng Kim (Bỏ)"
         },
         {
           "key": "i576",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战盔，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战盔，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Mũ chiến hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng Bộ\\\\Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n577",
           "occurrence": 1,
           "source": "神•黄金项链（废弃）",
-          "target": "神•黄金项链（废弃）"
+          "target": "Thần • Dây Chuyền Hoàng Kim (Bỏ)"
         },
         {
           "key": "i577",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战链，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战链，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Dây chuyền hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng Bộ\\\\Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n578",
           "occurrence": 1,
           "source": "神•黄金手镯（废弃）",
-          "target": "神•黄金手镯（废弃）"
+          "target": "Thần • Vòng Tay Hoàng Kim (Bỏ)"
         },
         {
           "key": "i578",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的手镯，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的手镯，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Vòng tay hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng Bộ\\\\Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n579",
           "occurrence": 1,
           "source": "神•黄金腰带",
-          "target": "神•黄金腰带"
+          "target": "Thần • Đai Hoàng Kim"
         },
         {
           "key": "i579",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战链，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用<(c0xFF00FFFF)神魂晶石>合成60级神装腰带>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石>",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战链，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用<(c0xFF00FFFF)神魂晶石>合成60级神装腰带>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石>"
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Đai hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng <(c0xFF00FFFF)Tinh Thạch Thần Hồn> hợp thành Đai Thần Trang cấp 60>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn>"
         },
         {
           "key": "n580",
           "occurrence": 1,
           "source": "神•黄金战靴",
-          "target": "神•黄金战靴"
+          "target": "Thần • Giày Chiến Hoàng Kim"
         },
         {
           "key": "i580",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战靴，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用<(c0xFF00FFFF)神魂晶石>合成60级神装战靴>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石>",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的战靴，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用<(c0xFF00FFFF)神魂晶石>合成60级神装战靴>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石>"
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Giày chiến hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng <(c0xFF00FFFF)Tinh Thạch Thần Hồn> hợp thành Giày Chiến Thần Trang cấp 60>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn>"
         },
         {
           "key": "n581",
           "occurrence": 1,
           "source": "神•黄金宝石（废弃）",
-          "target": "神•黄金宝石（废弃）"
+          "target": "Thần • Đá Quý Hoàng Kim (Bỏ)"
         },
         {
           "key": "i581",
           "occurrence": 1,
           "source": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的宝石，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "<(c0x00d57140)超强黄金神装>\\\\融有天神血的宝石，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "<(c0x00d57140)Thần Trang Hoàng Kim cực mạnh>\\\\Đá Quý hòa máu Thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi ý:\\\\Tại Thánh Khí Chư Thần, dùng “Tinh Thạch Thần Hồn” cùng Bộ\\\\Trang Bị cấp 50 làm nguyên liệu, nâng Bộ cấp 50 thành Thần Trang cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, quà rút Nguyên Bảo có Tinh Thạch Thần Hồn\\\\Phó bản riêng VIP có Tinh Thạch Thần Hồn> "
         },
         {
           "key": "n582",
           "occurrence": 1,
           "source": "蓝宝石",
-          "target": "蓝宝石"
+          "target": "Lam Ngọc"
         },
         {
           "key": "i582",
