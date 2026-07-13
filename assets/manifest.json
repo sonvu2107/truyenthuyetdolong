@@ -1,5 +1,5 @@
 {
-  "version": "20260713notifyfont1",
+  "version": "20260713rollback1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "53CD51312326044A13261F7F4C3138D11B76C41DF92EFF54D1A275BD29706170"
+      "sha256": "8EC3B3957CA302F3DA9F78C90128CD255A414FE25E3624BDAC612F3FE600BB21"
     },
     {
       "source": "assets/ClientLang.txt",

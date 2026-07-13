@@ -1,5 +1,7 @@
 {
   "format": 1,
+  "active": false,
+  "status": "Tạm ngưng sau lỗi đen màn hình tại bước chọn nhân vật ngày 2026-07-13.",
   "description": "Thay font SimSun/宋体/黑体 hardcode bằng Tahoma để hỗ trợ tiếng Việt; loại ba lớp Hero không ổn định khi FFDec tái biên dịch.",
   "excluded_classes": [
     "scripts/view/game/hero/View2/HeroInfoPanel2.as",
