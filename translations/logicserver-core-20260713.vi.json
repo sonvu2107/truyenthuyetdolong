@@ -43940,43 +43940,43 @@
           "key": "n420",
           "occurrence": 1,
           "source": "30欢乐豆",
-          "target": "30欢乐豆"
+          "target": "30 Đậu Vui Vẻ"
         },
         {
           "key": "i420",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)30欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)30欢乐豆>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)30 Đậu Vui Vẻ>"
         },
         {
           "key": "n421",
           "occurrence": 1,
           "source": "50欢乐豆",
-          "target": "50欢乐豆"
+          "target": "50 Đậu Vui Vẻ"
         },
         {
           "key": "i421",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)50欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)50欢乐豆>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)50 Đậu Vui Vẻ>"
         },
         {
           "key": "n422",
           "occurrence": 1,
           "source": "100欢乐豆",
-          "target": "100欢乐豆"
+          "target": "100 Đậu Vui Vẻ"
         },
         {
           "key": "i422",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)100欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)100欢乐豆>"
+          "target": "Nhấp đúp mở nhận <(c0xFF00FFFF)100 Đậu Vui Vẻ>"
         },
         {
           "key": "n423",
           "occurrence": 1,
           "source": "测试用刀",
-          "target": "测试用刀"
+          "target": "Đao Thử Nghiệm"
         },
         {
           "key": "i423",
@@ -43988,79 +43988,79 @@
           "key": "n424",
           "occurrence": 1,
           "source": "蛮力平击",
-          "target": "蛮力平击"
+          "target": "Đòn Mạnh"
         },
         {
           "key": "i424",
           "occurrence": 1,
           "source": "双击使用后,学会蛮力平击\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会蛮力平击\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Đòn Mạnh\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n425",
           "occurrence": 1,
           "source": "灭绝挥砍",
-          "target": "灭绝挥砍"
+          "target": "Chém Diệt Tuyệt"
         },
         {
           "key": "i425",
           "occurrence": 1,
           "source": "双击使用后,学会灭绝挥砍\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会灭绝挥砍\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Chém Diệt Tuyệt\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n426",
           "occurrence": 1,
           "source": "爆裂刺杀",
-          "target": "爆裂刺杀"
+          "target": "Đâm Bạo Liệt"
         },
         {
           "key": "i426",
           "occurrence": 1,
           "source": "双击使用后,学会爆裂刺杀\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会爆裂刺杀\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Đâm Bạo Liệt\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n427",
           "occurrence": 1,
           "source": "夺命弦月",
-          "target": "夺命弦月"
+          "target": "Nguyệt Đoạt Mệnh"
         },
         {
           "key": "i427",
           "occurrence": 1,
           "source": "双击使用后,学会夺命弦月\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会夺命弦月\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Nguyệt Đoạt Mệnh\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n428",
           "occurrence": 1,
           "source": "冲锋击退",
-          "target": "冲锋击退"
+          "target": "Xung Phong Đẩy Lùi"
         },
         {
           "key": "i428",
           "occurrence": 1,
           "source": "双击使用后,学会冲锋击退\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会冲锋击退\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Xung Phong Đẩy Lùi\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n429",
           "occurrence": 1,
           "source": "烈火狂刀",
-          "target": "烈火狂刀"
+          "target": "Cuồng Đao Liệt Hỏa"
         },
         {
           "key": "i429",
           "occurrence": 1,
           "source": "双击使用后,学会烈火狂刀\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会烈火狂刀\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Cuồng Đao Liệt Hỏa\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n430",
           "occurrence": 1,
           "source": "火弹",
-          "target": "火弹"
+          "target": "Hỏa Cầu"
         },
         {
           "key": "i430",
