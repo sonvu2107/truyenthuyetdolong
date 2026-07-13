@@ -50168,7 +50168,7 @@
           "key": "n939",
           "occurrence": 1,
           "source": "魔剑封印礼包(废弃)",
-          "target": "魔剑封印礼包(废弃)"
+          "target": "Gói Phong Ấn Ma Kiếm (Bỏ)"
         },
         {
           "key": "i939",
@@ -50180,79 +50180,79 @@
           "key": "n940",
           "occurrence": 1,
           "source": "45级元宝大礼包",
-          "target": "45级元宝大礼包"
+          "target": "Gói Nguyên Bảo Cấp 45"
         },
         {
           "key": "i940",
           "occurrence": 1,
           "source": "双击打开获得5000元宝",
-          "target": "双击打开获得5000元宝"
+          "target": "Dùng để nhận 5K Nguyên Bảo"
         },
         {
           "key": "n941",
           "occurrence": 1,
           "source": "50级元宝大礼包",
-          "target": "50级元宝大礼包"
+          "target": "Gói Nguyên Bảo Cấp 50"
         },
         {
           "key": "i941",
           "occurrence": 1,
           "source": "双击打开获得10000元宝",
-          "target": "双击打开获得10000元宝"
+          "target": "Dùng để nhận 10K Nguyên Bảo"
         },
         {
           "key": "n942",
           "occurrence": 1,
           "source": "55级元宝大礼包",
-          "target": "55级元宝大礼包"
+          "target": "Gói Nguyên Bảo Cấp 55"
         },
         {
           "key": "i942",
           "occurrence": 1,
           "source": "双击打开获得30000元宝",
-          "target": "双击打开获得30000元宝"
+          "target": "Dùng để nhận 30K Nguyên Bảo"
         },
         {
           "key": "n943",
           "occurrence": 1,
           "source": "60级元宝大礼包",
-          "target": "60级元宝大礼包"
+          "target": "Gói Nguyên Bảo Cấp 60"
         },
         {
           "key": "i943",
           "occurrence": 1,
           "source": "双击打开获得50000元宝",
-          "target": "双击打开获得50000元宝"
+          "target": "Dùng để nhận 50K Nguyên Bảo"
         },
         {
           "key": "n944",
           "occurrence": 1,
           "source": "经验券",
-          "target": "经验券"
+          "target": "Phiếu KN"
         },
         {
           "key": "i944",
           "occurrence": 1,
           "source": "双击使用即可获得大量随机经验，等级越高获得经验越高",
-          "target": "双击使用即可获得大量随机经验，等级越高获得经验越高"
+          "target": "Dùng để nhận lượng KN ngẫu nhiên lớn, cấp càng cao nhận càng nhiều KN"
         },
         {
           "key": "n945",
           "occurrence": 1,
           "source": "40装备升级石盒(废弃)",
-          "target": "40装备升级石盒(废弃)"
+          "target": "Hộp Đá Nâng Cấp Trang Bị Cấp 40 (Bỏ)"
         },
         {
           "key": "i945",
           "occurrence": 1,
           "source": "内含10个40装备升级石,双击即可获得",
-          "target": "内含10个40装备升级石,双击即可获得"
+          "target": "Chứa 10 Đá Nâng Cấp Trang Bị Cấp 40, dùng để nhận"
         },
         {
           "key": "n946",
           "occurrence": 1,
           "source": "宝矿鹤嘴锄(废弃)",
-          "target": "宝矿鹤嘴锄(废弃)"
+          "target": "Cuốc Mỏ Kho Báu (Bỏ)"
         },
         {
           "key": "i946",
@@ -50264,97 +50264,97 @@
           "key": "n947",
           "occurrence": 1,
           "source": "玉树临风时装",
-          "target": "玉树临风时装"
+          "target": "Thời Trang Ngọc Thụ Lâm Phong"
         },
         {
           "key": "i947",
           "occurrence": 1,
           "source": "每周一0点结算上周周帅气值排行,排行第一的男性玩家就可以获得该时装.获得排行第一的玩家可以到王城的玫瑰小姐处领取时装",
-          "target": "每周一0点结算上周周帅气值排行,排行第一的男性玩家就可以获得该时装.获得排行第一的玩家可以到王城的玫瑰小姐处领取时装"
+          "target": "Mỗi Thứ Hai lúc 0h chốt BXH Phong Độ tuần trước. Nam hạng 1 nhận thời trang này. Đến Tiểu Thư Hoa Hồng tại Vương Thành để nhận."
         },
         {
           "key": "n948",
           "occurrence": 1,
           "source": "人气宝贝时装",
-          "target": "人气宝贝时装"
+          "target": "Thời Trang Bé Cưng Nổi Tiếng"
         },
         {
           "key": "i948",
           "occurrence": 1,
           "source": "每周一0点结算上周周魅力值排行,排行第一的女性玩家就可以获得该时装.获得排行第一的玩家可以到王城的玫瑰小姐处领取时装",
-          "target": "每周一0点结算上周周魅力值排行,排行第一的女性玩家就可以获得该时装.获得排行第一的玩家可以到王城的玫瑰小姐处领取时装"
+          "target": "Mỗi Thứ Hai lúc 0h chốt BXH Sức Hút tuần trước. Nữ hạng 1 nhận thời trang này. Đến Tiểu Thư Hoa Hồng tại Vương Thành để nhận."
         },
         {
           "key": "n949",
           "occurrence": 1,
           "source": "幻影斩龙刀(废弃)",
-          "target": "幻影斩龙刀(废弃)"
+          "target": "Đao Trảm Long Ảo Ảnh (Bỏ)"
         },
         {
           "key": "i949",
           "occurrence": 1,
           "source": "屠龙的伴生神兵,幻影斩龙刀经过千年损耗,威力已经大减",
-          "target": "屠龙的伴生神兵,幻影斩龙刀经过千年损耗,威力已经大减"
+          "target": "Thần binh kèm theo Đồ Long. Đao Trảm Long Ảo Ảnh qua ngàn năm hao mòn nên uy lực giảm mạnh."
         },
         {
           "key": "n950",
           "occurrence": 1,
           "source": "幻影亡灵杖(废弃)",
-          "target": "幻影亡灵杖(废弃)"
+          "target": "Trượng Vong Linh Ảo Ảnh (Bỏ)"
         },
         {
           "key": "i950",
           "occurrence": 1,
           "source": "屠龙的伴生神兵,幻影亡灵杖经过千年损耗,威力已经大减",
-          "target": "屠龙的伴生神兵,幻影亡灵杖经过千年损耗,威力已经大减"
+          "target": "Thần binh kèm theo Đồ Long. Trượng Vong Linh Ảo Ảnh qua ngàn năm hao mòn nên uy lực giảm mạnh."
         },
         {
           "key": "n951",
           "occurrence": 1,
           "source": "幻影山河扇(废弃)",
-          "target": "幻影山河扇(废弃)"
+          "target": "Quạt Sơn Hà Ảo Ảnh (Bỏ)"
         },
         {
           "key": "i951",
           "occurrence": 1,
           "source": "屠龙的伴生神兵,幻影山河扇经过千年损耗,威力已经大减",
-          "target": "屠龙的伴生神兵,幻影山河扇经过千年损耗,威力已经大减"
+          "target": "Thần binh kèm theo Đồ Long. Quạt Sơn Hà Ảo Ảnh qua ngàn năm hao mòn nên uy lực giảm mạnh."
         },
         {
           "key": "n952",
           "occurrence": 1,
           "source": "精制圣魂斩(废弃)",
-          "target": "精制圣魂斩(废弃)"
+          "target": "Thánh Hồn Trảm Tinh Chế (Bỏ)"
         },
         {
           "key": "i952",
           "occurrence": 1,
           "source": "完成支线任务<(c0xFF00FFFF)商城购物>后获得的武器\\\\可以用到<(c0xFF00FFFF)40级>!",
-          "target": "完成支线任务<(c0xFF00FFFF)商城购物>后获得的武器\\\\可以用到<(c0xFF00FFFF)40级>!"
+          "target": "Vũ khí nhận sau Nhiệm Vụ Nhánh <(c0xFF00FFFF)Mua Sắm Cửa Hàng>\\\\Dùng đến <(c0xFF00FFFF)Cấp 40>!"
         },
         {
           "key": "n953",
           "occurrence": 1,
           "source": "精制龙鳞刀(废弃)",
-          "target": "精制龙鳞刀(废弃)"
+          "target": "Đao Long Lân Tinh Chế (Bỏ)"
         },
         {
           "key": "i953",
           "occurrence": 1,
           "source": "完成支线任务<(c0xFF00FFFF)商城购物>后获得的武器\\\\可以用到<(c0xFF00FFFF)40级>!",
-          "target": "完成支线任务<(c0xFF00FFFF)商城购物>后获得的武器\\\\可以用到<(c0xFF00FFFF)40级>!"
+          "target": "Vũ khí nhận sau Nhiệm Vụ Nhánh <(c0xFF00FFFF)Mua Sắm Cửa Hàng>\\\\Dùng đến <(c0xFF00FFFF)Cấp 40>!"
         },
         {
           "key": "n954",
           "occurrence": 1,
           "source": "精制镇魔剑(废弃)",
-          "target": "精制镇魔剑(废弃)"
+          "target": "Kiếm Trấn Ma Tinh Chế (Bỏ)"
         },
         {
           "key": "i954",
           "occurrence": 1,
           "source": "完成支线任务<(c0xFF00FFFF)商城购物>后获得的武器\\\\可以用到<(c0xFF00FFFF)40级>!",
-          "target": "完成支线任务<(c0xFF00FFFF)商城购物>后获得的武器\\\\可以用到<(c0xFF00FFFF)40级>!"
+          "target": "Vũ khí nhận sau Nhiệm Vụ Nhánh <(c0xFF00FFFF)Mua Sắm Cửa Hàng>\\\\Dùng đến <(c0xFF00FFFF)Cấp 40>!"
         },
         {
           "key": "n955",
