@@ -43460,241 +43460,241 @@
           "key": "n380",
           "occurrence": 1,
           "source": "防御药水(小)",
-          "target": "防御药水(小)"
+          "target": "Bình Phòng Thủ (Nhỏ)"
         },
         {
           "key": "i380",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,增加最大物理防御与最大魔法防御<(c0xFF00FFFF)50点>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,增加最大物理防御与最大魔法防御<(c0xFF00FFFF)50点>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, P.Thủ và M.Thủ tối đa +<(c0xFF00FFFF)50>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n381",
           "occurrence": 1,
           "source": "防御药水(中)",
-          "target": "防御药水(中)"
+          "target": "Bình Phòng Thủ (Trung)"
         },
         {
           "key": "i381",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,增加最大物理防御与最大魔法防御<(c0xFF00FFFF)80点>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,增加最大物理防御与最大魔法防御<(c0xFF00FFFF)80点>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, P.Thủ và M.Thủ tối đa +<(c0xFF00FFFF)80>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n382",
           "occurrence": 1,
           "source": "防御药水(大)",
-          "target": "防御药水(大)"
+          "target": "Bình Phòng Thủ (Lớn)"
         },
         {
           "key": "i382",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,增加最大物理防御与最大魔法防御<(c0xFF00FFFF)120点>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)60分钟>内,增加最大物理防御与最大魔法防御<(c0xFF00FFFF)120点>\\\\<(c0xFF00FF00)相同效果的药水时间会叠加>\\\\<(c0xFF00FF00)不同效果的药水会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Trong <(c0xFF00FFFF)60 phút>, P.Thủ và M.Thủ tối đa +<(c0xFF00FFFF)120>\\\\<(c0xFF00FF00)Thời gian Bình cùng hiệu ứng sẽ cộng dồn>\\\\<(c0xFF00FF00)Bình khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n383",
           "occurrence": 1,
           "source": "修复药水",
-          "target": "修复药水"
+          "target": "Bình Sửa Chữa"
         },
         {
           "key": "i383",
           "occurrence": 1,
           "source": "双击使用\\\\可将身上所有装备耐久度恢复至满值\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>",
-          "target": "双击使用\\\\可将身上所有装备耐久度恢复至满值\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>"
+          "target": "Nhấp đúp dùng\\\\Hồi đầy độ bền cho mọi trang bị đang mặc\\\\<(c0xFF00FF00)Mẹo: Nhận tại Cửa Hàng, sự kiện hoặc phụ bản>"
         },
         {
           "key": "n384",
           "occurrence": 1,
           "source": "复活药水",
-          "target": "复活药水"
+          "target": "Bình Hồi Sinh"
         },
         {
           "key": "i384",
           "occurrence": 1,
           "source": "辅助道具\\\\死亡后原地复活所需要消耗的神奇药水\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>",
-          "target": "辅助道具\\\\死亡后原地复活所需要消耗的神奇药水\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>"
+          "target": "Vật phẩm hỗ trợ\\\\Bình kỳ diệu dùng để hồi sinh tại chỗ sau khi chết\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>\\\\<(c0xFF00FF00)Mẹo: Nhận tại Cửa Hàng, sự kiện hoặc phụ bản>"
         },
         {
           "key": "n385",
           "occurrence": 1,
           "source": "红名清洗卡",
-          "target": "红名清洗卡"
+          "target": "Thẻ Rửa PK"
         },
         {
           "key": "i385",
           "occurrence": 1,
           "source": "双击使用\\\\立即消除<(c0xFF00FFFF)500点>PK值\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\立即消除<(c0xFF00FFFF)500点>PK值\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Xóa ngay <(c0xFF00FFFF)500 điểm> PK\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n386",
           "occurrence": 1,
           "source": "速传卷轴",
-          "target": "速传卷轴"
+          "target": "Cuộn Dịch Chuyển Nhanh"
         },
         {
           "key": "i386",
           "occurrence": 1,
           "source": "辅助道具\\\\可将您快速传送到目标位置\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>",
-          "target": "辅助道具\\\\可将您快速传送到目标位置\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>"
+          "target": "Vật phẩm hỗ trợ\\\\Dịch chuyển nhanh đến vị trí mục tiêu\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>\\\\<(c0xFF00FF00)Mẹo: Nhận tại Cửa Hàng, sự kiện hoặc phụ bản>"
         },
         {
           "key": "n387",
           "occurrence": 1,
           "source": "屠龙城回城卷",
-          "target": "屠龙城回城卷"
+          "target": "Cuộn Về Thành Đồ Long"
         },
         {
           "key": "i387",
           "occurrence": 1,
           "source": "双击使用\\\\可立即回到屠龙城的安全区\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>",
-          "target": "双击使用\\\\可立即回到屠龙城的安全区\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>"
+          "target": "Nhấp đúp dùng\\\\Lập tức về Khu An Toàn Thành Đồ Long\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>\\\\<(c0xFF00FF00)Mẹo: Nhận tại Cửa Hàng, sự kiện hoặc phụ bản>"
         },
         {
           "key": "n388",
           "occurrence": 1,
           "source": "圣城回城卷",
-          "target": "圣城回城卷"
+          "target": "Cuộn Về Thánh Thành"
         },
         {
           "key": "i388",
           "occurrence": 1,
           "source": "双击使用\\\\可立即回到圣城的安全区\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>",
-          "target": "双击使用\\\\可立即回到圣城的安全区\\\\<(c0xFFFF0000)部分场景限制使用>\\\\<(c0xFF00FF00)提示:可在商城、活动、副本中获得>"
+          "target": "Nhấp đúp dùng\\\\Lập tức về Khu An Toàn Thánh Thành\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>\\\\<(c0xFF00FF00)Mẹo: Nhận tại Cửa Hàng, sự kiện hoặc phụ bản>"
         },
         {
           "key": "n389",
           "occurrence": 1,
           "source": "回城卷",
-          "target": "回城卷"
+          "target": "Cuộn Về Thành"
         },
         {
           "key": "i389",
           "occurrence": 1,
           "source": "双击使用\\\\可立即回到您上一次所在的安全区\\\\<(c0xFFFF0000)部分场景限制使用>",
-          "target": "双击使用\\\\可立即回到您上一次所在的安全区\\\\<(c0xFFFF0000)部分场景限制使用>"
+          "target": "Nhấp đúp dùng\\\\Lập tức về Khu An Toàn gần nhất\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>"
         },
         {
           "key": "n390",
           "occurrence": 1,
           "source": "回城卷包",
-          "target": "回城卷包"
+          "target": "Gói Cuộn Về Thành"
         },
         {
           "key": "i390",
           "occurrence": 1,
           "source": "双击打开可以获得9个<(c0xFF00FFFF)回城卷>",
-          "target": "双击打开可以获得9个<(c0xFF00FFFF)回城卷>"
+          "target": "Nhấp đúp mở, nhận 9 <(c0xFF00FFFF)Cuộn Về Thành>"
         },
         {
           "key": "n391",
           "occurrence": 1,
           "source": "超级回城卷",
-          "target": "超级回城卷"
+          "target": "Siêu Cuộn Về Thành"
         },
         {
           "key": "i391",
           "occurrence": 1,
           "source": "双击使用\\\\可立即回到你上一次所在的安全区\\\\可使用<(c0xFF00FFFF)50次>\\\\<(c0xFFFF0000)部分场景限制使用>",
-          "target": "双击使用\\\\可立即回到你上一次所在的安全区\\\\可使用<(c0xFF00FFFF)50次>\\\\<(c0xFFFF0000)部分场景限制使用>"
+          "target": "Nhấp đúp dùng\\\\Lập tức về Khu An Toàn gần nhất\\\\Dùng được <(c0xFF00FFFF)50 lần>\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>"
         },
         {
           "key": "n392",
           "occurrence": 1,
           "source": "随机传送卷",
-          "target": "随机传送卷"
+          "target": "Cuộn Dịch Chuyển Ngẫu Nhiên"
         },
         {
           "key": "i392",
           "occurrence": 1,
           "source": "双击使用\\\\可将您随机传送到本地图的任意坐标\\\\<(c0xFFFF0000)部分场景限制使用>",
-          "target": "双击使用\\\\可将您随机传送到本地图的任意坐标\\\\<(c0xFFFF0000)部分场景限制使用>"
+          "target": "Nhấp đúp dùng\\\\Dịch chuyển ngẫu nhiên đến một tọa độ trên bản đồ hiện tại\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>"
         },
         {
           "key": "n393",
           "occurrence": 1,
           "source": "随机传送卷包",
-          "target": "随机传送卷包"
+          "target": "Gói Cuộn Dịch Chuyển Ngẫu Nhiên"
         },
         {
           "key": "i393",
           "occurrence": 1,
           "source": "打开可以获得9个<(c0xFF00FFFF)随机传送卷>",
-          "target": "打开可以获得9个<(c0xFF00FFFF)随机传送卷>"
+          "target": "Mở nhận 9 <(c0xFF00FFFF)Cuộn Dịch Chuyển Ngẫu Nhiên>"
         },
         {
           "key": "n394",
           "occurrence": 1,
           "source": "超级随机传送卷",
-          "target": "超级随机传送卷"
+          "target": "Siêu Cuộn Dịch Chuyển Ngẫu Nhiên"
         },
         {
           "key": "i394",
           "occurrence": 1,
           "source": "双击使用\\\\可将您随机传送到本地图的任意坐标\\\\可使用<(c0xFF00FFFF)50次>\\\\<(c0xFFFF0000)部分场景限制使用>",
-          "target": "双击使用\\\\可将您随机传送到本地图的任意坐标\\\\可使用<(c0xFF00FFFF)50次>\\\\<(c0xFFFF0000)部分场景限制使用>"
+          "target": "Nhấp đúp dùng\\\\Dịch chuyển ngẫu nhiên đến một tọa độ trên bản đồ hiện tại\\\\Dùng được <(c0xFF00FFFF)50 lần>\\\\<(c0xFFFF0000)Một số bản đồ hạn chế sử dụng>"
         },
         {
           "key": "n395",
           "occurrence": 1,
           "source": "传音喇叭",
-          "target": "传音喇叭"
+          "target": "Loa Truyền Âm"
         },
         {
           "key": "i395",
           "occurrence": 1,
           "source": "双击使用\\\\将您的话发送到全服务器的玩家都可见\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\将您的话发送到全服务器的玩家都可见\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nhấp đúp dùng\\\\Gửi lời của bạn đến toàn bộ người chơi trên máy chủ\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n396",
           "occurrence": 1,
           "source": "骰子(废弃)",
-          "target": "骰子(废弃)"
+          "target": "Xúc Xắc Thường (Bỏ)"
         },
         {
           "key": "i396",
           "occurrence": 1,
           "source": "非常普通的骰子\\\\丢在地面随机掷出<(c0xFF00FFFF)1>~<(c0xFF00FFFF)6>点",
-          "target": "非常普通的骰子\\\\丢在地面随机掷出<(c0xFF00FFFF)1>~<(c0xFF00FFFF)6>点"
+          "target": "Một viên xúc xắc bình thường\\\\Ném xuống đất để tung ngẫu nhiên <(c0xFF00FFFF)1>–<(c0xFF00FFFF)6> điểm"
         },
         {
           "key": "n397",
           "occurrence": 1,
           "source": "玉骰子(废弃)",
-          "target": "玉骰子(废弃)"
+          "target": "Xúc Xắc Ngọc (Bỏ)"
         },
         {
           "key": "i397",
           "occurrence": 1,
           "source": "金属材质的骰子\\\\丢在地面随机掷出<(c0xFF00FFFF)1>~<(c0xFF00FFFF)6>点",
-          "target": "金属材质的骰子\\\\丢在地面随机掷出<(c0xFF00FFFF)1>~<(c0xFF00FFFF)6>点"
+          "target": "Một viên xúc xắc kim loại\\\\Ném xuống đất để tung ngẫu nhiên <(c0xFF00FFFF)1>–<(c0xFF00FFFF)6> điểm"
         },
         {
           "key": "n398",
           "occurrence": 1,
           "source": "水晶骰子(废弃)",
-          "target": "水晶骰子(废弃)"
+          "target": "Xúc Xắc Pha Lê (Bỏ)"
         },
         {
           "key": "i398",
           "occurrence": 1,
           "source": "水晶材质的骰子\\\\丢在地面随机掷出<(c0xFF00FFFF)1>~<(c0xFF00FFFF)6>点",
-          "target": "水晶材质的骰子\\\\丢在地面随机掷出<(c0xFF00FFFF)1>~<(c0xFF00FFFF)6>点"
+          "target": "Một viên xúc xắc Pha Lê\\\\Ném xuống đất để tung ngẫu nhiên <(c0xFF00FFFF)1>–<(c0xFF00FFFF)6> điểm"
         },
         {
           "key": "n399",
           "occurrence": 1,
           "source": "普通婚宴烟花(废弃)",
-          "target": "普通婚宴烟花(废弃)"
+          "target": "Pháo Hoa Tiệc Cưới Thường (Bỏ)"
         },
         {
           "key": "i399",
           "occurrence": 1,
           "source": "双击使用\\\\在婚宴中使用的普通烟花\\\\<(c0xFF00FFFF)爱你,就给你一个难忘的绝美婚礼!>",
-          "target": "双击使用\\\\在婚宴中使用的普通烟花\\\\<(c0xFF00FFFF)爱你,就给你一个难忘的绝美婚礼!>"
+          "target": "Nhấp đúp dùng\\\\Pháo hoa thường dùng trong tiệc cưới\\\\<(c0xFF00FFFF)Yêu Em, Tặng Em Một Hôn Lễ Đẹp Khó Quên!>"
         },
         {
           "key": "n400",
