@@ -44246,121 +44246,121 @@
           "key": "i445",
           "occurrence": 1,
           "source": "双击使用后,学会隐匿术\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会隐匿术\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Ẩn Thân Thuật\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n446",
           "occurrence": 1,
           "source": "群体隐匿术",
-          "target": "群体隐匿术"
+          "target": "Quần Thể Ẩn Thân"
         },
         {
           "key": "i446",
           "occurrence": 1,
           "source": "双击使用后,学会群体隐匿术\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会群体隐匿术\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Quần Thể Ẩn Thân\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n447",
           "occurrence": 1,
           "source": "圣灵护身术",
-          "target": "圣灵护身术"
+          "target": "Thánh Linh Hộ Thân"
         },
         {
           "key": "i447",
           "occurrence": 1,
           "source": "双击使用后,学会圣灵护身术\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会圣灵护身术\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Thánh Linh Hộ Thân\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n448",
           "occurrence": 1,
           "source": "炼气战甲术",
-          "target": "炼气战甲术"
+          "target": "Luyện Khí Chiến Giáp"
         },
         {
           "key": "i448",
           "occurrence": 1,
           "source": "双击使用后,学会炼气战甲术\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会炼气战甲术\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Luyện Khí Chiến Giáp\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n449",
           "occurrence": 1,
           "source": "群体治疗术",
-          "target": "群体治疗术"
+          "target": "Quần Thể Hồi Phục"
         },
         {
           "key": "i449",
           "occurrence": 1,
           "source": "双击使用后,学会群体治疗术\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会群体治疗术\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Quần Thể Hồi Phục\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n450",
           "occurrence": 1,
           "source": "召唤魔使",
-          "target": "召唤魔使"
+          "target": "Triệu Hồi Ma Sứ"
         },
         {
           "key": "i450",
           "occurrence": 1,
           "source": "双击使用后,学会召唤魔使\\\\至尊VIP可以自动学习所有技能并提升到3级",
-          "target": "双击使用后,学会召唤魔使\\\\至尊VIP可以自动学习所有技能并提升到3级"
+          "target": "Nhấp đúp dùng để học Triệu Hồi Ma Sứ\\\\VIP Chí Tôn tự học mọi kỹ năng và nâng lên Cấp 3"
         },
         {
           "key": "n451",
           "occurrence": 1,
           "source": "黄铜矿(废弃)",
-          "target": "黄铜矿(废弃)"
+          "target": "Quặng Đồng Thau (Bỏ)"
         },
         {
           "key": "i451",
           "occurrence": 1,
           "source": "任务物品\\\\<(c0xFFFF0000)只能在需要挖矿的任务中挖矿获得>\\\\除了交予任务外没有任何作用",
-          "target": "任务物品\\\\<(c0xFFFF0000)只能在需要挖矿的任务中挖矿获得>\\\\除了交予任务外没有任何作用"
+          "target": "Vật phẩm nhiệm vụ\\\\<(c0xFFFF0000)Chỉ đào được trong nhiệm vụ yêu cầu khai thác>\\\\Ngoài nộp nhiệm vụ không có tác dụng khác"
         },
         {
           "key": "n452",
           "occurrence": 1,
           "source": "坚硬的虫角(废弃)",
-          "target": "坚硬的虫角(废弃)"
+          "target": "Sừng Trùng Cứng (Bỏ)"
         },
         {
           "key": "i452",
           "occurrence": 1,
           "source": "没用",
-          "target": "没用"
+          "target": "Vô Dụng"
         },
         {
           "key": "n453",
           "occurrence": 1,
           "source": "爆焱印记(废弃)",
-          "target": "爆焱印记(废弃)"
+          "target": "Ấn Ký Bạo Diễm (Bỏ)"
         },
         {
           "key": "i453",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)烈火狂刀>会附加<(c0xFF00FF00)3X3>的<(c0xFF00FF00)180%基础物理伤害>\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级爆焱印记>",
-          "target": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)烈火狂刀>会附加<(c0xFF00FF00)3X3>的<(c0xFF00FF00)180%基础物理伤害>\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级爆焱印记>"
+          "target": "<(c0xFF00FF00)Cấp 3> trở lên <(c0xFF00FF00)Cuồng Đao Liệt Hỏa> thêm <(c0xFF00FF00)3×3> <(c0xFF00FF00)180% Sát Thương Vật Lý Cơ Bản>\\\\Dùng <(c0xFF00FF00)Đá Nâng Cấp Trang Bị 40> nâng thành <(c0xFF00FF00)Ấn Ký Bạo Diễm Cao Cấp>"
         },
         {
           "key": "n454",
           "occurrence": 1,
           "source": "爆雷印记(废弃)",
-          "target": "爆雷印记(废弃)"
+          "target": "Ấn Ký Bạo Lôi (Bỏ)"
         },
         {
           "key": "i454",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)天雷射>会附加<(c0xFF00FF00)3X3>的<(c0xFF00FF00)33%基础魔法伤害>\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级爆雷印记>",
-          "target": "<(c0xFF00FF00)3>级或以上<(c0xFF00FF00)天雷射>会附加<(c0xFF00FF00)3X3>的<(c0xFF00FF00)33%基础魔法伤害>\\\\可以使用<(c0xFF00FF00)40装备升级石>升级成<(c0xFF00FF00)高级爆雷印记>"
+          "target": "<(c0xFF00FF00)Cấp 3> trở lên <(c0xFF00FF00)Lôi Quang> thêm <(c0xFF00FF00)3×3> <(c0xFF00FF00)33% Sát Thương Phép Cơ Bản>\\\\Dùng <(c0xFF00FF00)Đá Nâng Cấp Trang Bị 40> nâng thành <(c0xFF00FF00)Ấn Ký Bạo Lôi Cao Cấp>"
         },
         {
           "key": "n455",
           "occurrence": 1,
           "source": "剧毒符咒(废弃)",
-          "target": "剧毒符咒(废弃)"
+          "target": "Phù Chú Kịch Độc (Bỏ)"
         },
         {
           "key": "i455",
