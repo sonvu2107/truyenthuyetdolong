@@ -49472,61 +49472,61 @@
           "key": "n881",
           "occurrence": 1,
           "source": "结婚礼包(废弃)",
-          "target": "结婚礼包(废弃)"
+          "target": "Gói Cưới (Bỏ)"
         },
         {
           "key": "i881",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\花篮×9\\\\情意绵绵×9\\\\普通婚宴烟花×9",
-          "target": "双击打开,获得以下物品:\\\\花篮×9\\\\情意绵绵×9\\\\普通婚宴烟花×9"
+          "target": "Dùng để mở, nhận:\\\\Giỏ Hoa ×9\\\\Tình Ý Miên Miên ×9\\\\Pháo Hoa Tiệc Cưới Thường ×9"
         },
         {
           "key": "n882",
           "occurrence": 1,
           "source": "中式结婚礼包(废弃)",
-          "target": "中式结婚礼包(废弃)"
+          "target": "Gói Cưới Trung Hoa (Bỏ)"
         },
         {
           "key": "i882",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\永恒钻戒×2\\\\中式礼服(男)\\\\中式礼服(女)\\\\行会花篮×9\\\\花篮×9\\\\情意绵绵×9\\\\普通婚宴烟花×9",
-          "target": "双击打开,获得以下物品:\\\\永恒钻戒×2\\\\中式礼服(男)\\\\中式礼服(女)\\\\行会花篮×9\\\\花篮×9\\\\情意绵绵×9\\\\普通婚宴烟花×9"
+          "target": "Dùng để mở, nhận:\\\\Nhẫn Vĩnh Hằng ×2\\\\Lễ Phục Trung Hoa (Nam)\\\\Lễ Phục Trung Hoa (Nữ)\\\\Giỏ Hoa Bang Hội ×9\\\\Giỏ Hoa ×9\\\\Tình Ý Miên Miên ×9\\\\Pháo Hoa Tiệc Cưới Thường ×9"
         },
         {
           "key": "n883",
           "occurrence": 1,
           "source": "西式结婚礼包(废弃)",
-          "target": "西式结婚礼包(废弃)"
+          "target": "Gói Cưới Phương Tây (Bỏ)"
         },
         {
           "key": "i883",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\永恒钻戒×2\\\\西式礼服(男)\\\\西式礼服(女)\\\\行会花篮×9\\\\花篮×9\\\\情意绵绵×9\\\\普通婚宴烟花×9",
-          "target": "双击打开,获得以下物品:\\\\永恒钻戒×2\\\\西式礼服(男)\\\\西式礼服(女)\\\\行会花篮×9\\\\花篮×9\\\\情意绵绵×9\\\\普通婚宴烟花×9"
+          "target": "Dùng để mở, nhận:\\\\Nhẫn Vĩnh Hằng ×2\\\\Lễ Phục Phương Tây (Nam)\\\\Lễ Phục Phương Tây (Nữ)\\\\Giỏ Hoa Bang Hội ×9\\\\Giỏ Hoa ×9\\\\Tình Ý Miên Miên ×9\\\\Pháo Hoa Tiệc Cưới Thường ×9"
         },
         {
           "key": "n884",
           "occurrence": 1,
           "source": "天宫结婚礼包(废弃)",
-          "target": "天宫结婚礼包(废弃)"
+          "target": "Gói Cưới Thiên Cung (Bỏ)"
         },
         {
           "key": "i884",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\永恒钻戒×2\\\\天宫礼服(男)\\\\天宫礼服(女)\\\\行会花篮×20\\\\花篮×20\\\\情意绵绵×20\\\\豪华婚宴烟花×20",
-          "target": "双击打开,获得以下物品:\\\\永恒钻戒×2\\\\天宫礼服(男)\\\\天宫礼服(女)\\\\行会花篮×20\\\\花篮×20\\\\情意绵绵×20\\\\豪华婚宴烟花×20"
+          "target": "Dùng để mở, nhận:\\\\Nhẫn Vĩnh Hằng ×2\\\\Lễ Phục Thiên Cung (Nam)\\\\Lễ Phục Thiên Cung (Nữ)\\\\Giỏ Hoa Bang Hội ×20\\\\Giỏ Hoa ×20\\\\Tình Ý Miên Miên ×20\\\\Pháo Hoa Tiệc Cưới Cao Cấp ×20"
         },
         {
           "key": "n885",
           "occurrence": 1,
           "source": "烟花(废弃)",
-          "target": "烟花(废弃)"
+          "target": "Pháo Hoa (Bỏ)"
         },
         {
           "key": "i885",
           "occurrence": 1,
           "source": "双击播放烟花",
-          "target": "双击播放烟花"
+          "target": "Dùng để bắn Pháo Hoa"
         },
         {
           "key": "n886",
