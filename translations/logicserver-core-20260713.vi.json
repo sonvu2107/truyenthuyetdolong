@@ -40412,145 +40412,145 @@
           "key": "n126",
           "occurrence": 1,
           "source": "诅咒勋章",
-          "target": "诅咒勋章"
+          "target": "Huy Chương Nguyền Rủa"
         },
         {
           "key": "i126",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒勋章> 可以合成一个 <(c0xFFFF6600)奔雷勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒勋章> 可以合成一个 <(c0xFFFF6600)奔雷勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Huy Chương Bôn Lôi>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n127",
           "occurrence": 1,
           "source": "卓越战刀",
-          "target": "卓越战刀"
+          "target": "Đao Xuất Sắc"
         },
         {
           "key": "i127",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战刀> 可以合成一个 <(c0xFFFF6600)王者战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战刀> 可以合成一个 <(c0xFFFF6600)王者战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đao Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Đao Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n128",
           "occurrence": 1,
           "source": "卓越战甲(男)",
-          "target": "卓越战甲(男)"
+          "target": "Giáp Xuất Sắc (Nam)"
         },
         {
           "key": "i128",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战甲(男)> 可以合成一个 <(c0xFFFF6600)王者战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战甲(男)> 可以合成一个 <(c0xFFFF6600)王者战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Xuất Sắc (Nam)> có thể hợp thành <(c0xFFFF6600)Giáp Vương Giả (Nam)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n129",
           "occurrence": 1,
           "source": "卓越战甲(女)",
-          "target": "卓越战甲(女)"
+          "target": "Giáp Xuất Sắc (Nữ)"
         },
         {
           "key": "i129",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战甲(女)> 可以合成一个 <(c0xFFFF6600)王者战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战甲(女)> 可以合成一个 <(c0xFFFF6600)王者战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Xuất Sắc (Nữ)> có thể hợp thành <(c0xFFFF6600)Giáp Vương Giả (Nữ)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n130",
           "occurrence": 1,
           "source": "卓越头盔",
-          "target": "卓越头盔"
+          "target": "Mũ Xuất Sắc"
         },
         {
           "key": "i130",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越头盔> 可以合成一个 <(c0xFFFF6600)王者头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越头盔> 可以合成一个 <(c0xFFFF6600)王者头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Mũ Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n131",
           "occurrence": 1,
           "source": "卓越项链",
-          "target": "卓越项链"
+          "target": "Dây Chuyền Xuất Sắc"
         },
         {
           "key": "i131",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越项链> 可以合成一个 <(c0xFFFF6600)王者项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越项链> 可以合成一个 <(c0xFFFF6600)王者项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Dây Chuyền Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n132",
           "occurrence": 1,
           "source": "卓越手镯",
-          "target": "卓越手镯"
+          "target": "Vòng Tay Xuất Sắc"
         },
         {
           "key": "i132",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒手镯> 可以合成一个 <(c0xFFFF6600)王者手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)诅咒手镯> 可以合成一个 <(c0xFFFF6600)王者手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Nguyền Rủa> có thể hợp thành <(c0xFFFF6600)Vòng Tay Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n133",
           "occurrence": 1,
           "source": "卓越腰带",
-          "target": "卓越腰带"
+          "target": "Đai Lưng Xuất Sắc"
         },
         {
           "key": "i133",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越腰带> 可以合成一个 <(c0xFFFF6600)王者腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越腰带> 可以合成一个 <(c0xFFFF6600)王者腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Lưng Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Đai Lưng Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n134",
           "occurrence": 1,
           "source": "卓越战靴",
-          "target": "卓越战靴"
+          "target": "Giày Xuất Sắc"
         },
         {
           "key": "i134",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战靴> 可以合成一个 <(c0xFFFF6600)王者战靴>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越战靴> 可以合成一个 <(c0xFFFF6600)王者战靴>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giày Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Giày Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n135",
           "occurrence": 1,
           "source": "卓越宝石",
-          "target": "卓越宝石"
+          "target": "Đá Quý Xuất Sắc"
         },
         {
           "key": "i135",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越宝石> 可以合成一个 <(c0xFFFF6600)王者宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越宝石> 可以合成一个 <(c0xFFFF6600)王者宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đá Quý Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Đá Quý Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n136",
           "occurrence": 1,
           "source": "卓越戒指",
-          "target": "卓越戒指"
+          "target": "Nhẫn Xuất Sắc"
         },
         {
           "key": "i136",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越戒指> 可以合成一个 <(c0xFFFF6600)王者戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越戒指> 可以合成一个 <(c0xFFFF6600)王者戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Nhẫn Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n137",
           "occurrence": 1,
           "source": "卓越勋章",
-          "target": "卓越勋章"
+          "target": "Huy Chương Xuất Sắc"
         },
         {
           "key": "i137",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越勋章> 可以合成一个 <(c0xFFFF6600)王者勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)卓越勋章> 可以合成一个 <(c0xFFFF6600)王者勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Xuất Sắc> có thể hợp thành <(c0xFFFF6600)Huy Chương Vương Giả>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n138",
