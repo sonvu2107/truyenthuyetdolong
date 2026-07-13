@@ -25684,31 +25684,31 @@
           "key": "data80193",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><行会使者/M王城皇宫:0:0:行会使者><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><行会使者/M王城皇宫:0:0:行会使者><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Sứ Giả Bang Hội/M王城皇宫:0:0:行会使者><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80194",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><行政官员/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><行政官员/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Quan Hành Chính/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data8020",
           "occurrence": 1,
           "source": "<寻宝/@@showWin,31><(c0xFF1E90FF)一次获得><(c0xFFFFFF00)强化+5><(c0xFF1E90FF)的><40级套装头盔/@@showWin,8><(c0xFF1E90FF),装备可升级至><(c0xFFFFFF00)60级>",
-          "target": "<寻宝/@@showWin,31><(c0xFF1E90FF)一次获得><(c0xFFFFFF00)强化+5><(c0xFF1E90FF)的><40级套装头盔/@@showWin,8><(c0xFF1E90FF),装备可升级至><(c0xFFFFFF00)60级>"
+          "target": "<Tầm Bảo/@@showWin,31><(c0xFF1E90FF)nhận 1 lần><(c0xFFFFFF00)Cường Hóa +5><(c0xFF1E90FF)của><Mũ Bộ Cấp 40/@@showWin,8><(c0xFF1E90FF),trang bị có thể nâng cấp đến><(c0xFFFFFF00)Cấp 60>"
         },
         {
           "key": "data80203",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><行会使者/M王城皇宫:0:0:行会使者><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><行会使者/M王城皇宫:0:0:行会使者><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Sứ Giả Bang Hội/M王城皇宫:0:0:行会使者><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80204",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><行政官员/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><行政官员/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Quan Hành Chính/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80210",
@@ -25918,61 +25918,61 @@
           "key": "data8050",
           "occurrence": 1,
           "source": "<立即完成/@@showWin,63,0,0>",
-          "target": "<立即完成/@@showWin,63,0,0>"
+          "target": "<Hoàn Thành Ngay/@@showWin,63,0,0>"
         },
         {
           "key": "data80500",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找><玫瑰小姐/M王城:0:0:玫瑰小姐><(c0xFF1E90FF)种植一次玫瑰>",
-          "target": "<(c0xFF1E90FF)找><玫瑰小姐/M王城:0:0:玫瑰小姐><(c0xFF1E90FF)种植一次玫瑰>"
+          "target": "<(c0xFF1E90FF)Tìm><Rose/M王城:0:0:玫瑰小姐><(c0xFF1E90FF)trồng hoa hồng 1 lần>"
         },
         {
           "key": "data80560",
           "occurrence": 1,
           "source": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡一><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>",
-          "target": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡一><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>"
+          "target": "<(c0xFFD2691E)Diệt BOSS bản đồ và quái tinh anh từ cấp 40 để nhận Cờ Triệu Hồn I><(c0xFFFF00FF)Bản Đồ Đề Xuất:><Hang Hỏa Long/M火龙洞:40:102>、<Thuyền Ma/M幽灵船:44:60>、<Man Hoang/M蛮荒:17:85><(c0xFFFF00FF)Mở ><Bảng Hoạt Động/@@showWin,15,4><(c0xFFFF00FF)xem thông tin BOSS>"
         },
         {
           "key": "data80570",
           "occurrence": 1,
           "source": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡二><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>",
-          "target": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡二><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>"
+          "target": "<(c0xFFD2691E)Diệt BOSS bản đồ và quái tinh anh từ cấp 40 để nhận Cờ Triệu Hồn II><(c0xFFFF00FF)Bản Đồ Đề Xuất:><Hang Hỏa Long/M火龙洞:40:102>、<Thuyền Ma/M幽灵船:44:60>、<Man Hoang/M蛮荒:17:85><(c0xFFFF00FF)Mở ><Bảng Hoạt Động/@@showWin,15,4><(c0xFFFF00FF)xem thông tin BOSS>"
         },
         {
           "key": "data80580",
           "occurrence": 1,
           "source": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡三><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>",
-          "target": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡三><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>"
+          "target": "<(c0xFFD2691E)Diệt BOSS bản đồ và quái tinh anh từ cấp 40 để nhận Cờ Triệu Hồn III><(c0xFFFF00FF)Bản Đồ Đề Xuất:><Hang Hỏa Long/M火龙洞:40:102>、<Thuyền Ma/M幽灵船:44:60>、<Man Hoang/M蛮荒:17:85><(c0xFFFF00FF)Mở ><Bảng Hoạt Động/@@showWin,15,4><(c0xFFFF00FF)xem thông tin BOSS>"
         },
         {
           "key": "data80590",
           "occurrence": 1,
           "source": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡四><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>",
-          "target": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡四><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>"
+          "target": "<(c0xFFD2691E)Diệt BOSS bản đồ và quái tinh anh từ cấp 40 để nhận Cờ Triệu Hồn IV><(c0xFFFF00FF)Bản Đồ Đề Xuất:><Hang Hỏa Long/M火龙洞:40:102>、<Thuyền Ma/M幽灵船:44:60>、<Man Hoang/M蛮荒:17:85><(c0xFFFF00FF)Mở ><Bảng Hoạt Động/@@showWin,15,4><(c0xFFFF00FF)xem thông tin BOSS>"
         },
         {
           "key": "data8060",
           "occurrence": 1,
           "source": "<神墓遗迹副本/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>",
-          "target": "<神墓遗迹副本/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
+          "target": "<Phó Bản Di Tích Thần Mộ/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
         },
         {
           "key": "data80600",
           "occurrence": 1,
           "source": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡五><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>",
-          "target": "<(c0xFFD2691E)消灭各地图BOSS和40级以上消灭任意精英怪可获得招魂幡五><(c0xFFFF00FF)推荐地图:><火龙洞/M火龙洞:40:102>、<幽灵船/M幽灵船:44:60>、<蛮荒/M蛮荒:17:85><(c0xFFFF00FF)推荐打开><活动面板/@@showWin,15,4><(c0xFFFF00FF)了解BOSS信息>"
+          "target": "<(c0xFFD2691E)Diệt BOSS bản đồ và quái tinh anh từ cấp 40 để nhận Cờ Triệu Hồn V><(c0xFFFF00FF)Bản Đồ Đề Xuất:><Hang Hỏa Long/M火龙洞:40:102>、<Thuyền Ma/M幽灵船:44:60>、<Man Hoang/M蛮荒:17:85><(c0xFFFF00FF)Mở ><Bảng Hoạt Động/@@showWin,15,4><(c0xFFFF00FF)xem thông tin BOSS>"
         },
         {
           "key": "data80610",
           "occurrence": 1,
           "source": "<(c0xFFD2691E)进入><魔幻星宫十二层/M屠龙城:0:0:星宫护法><(c0xFFD2691E)消灭冥王,得到万兽魔谱><(c0xFFFF00FF)说明:活动每日开启时间18:00-19:00>",
-          "target": "<(c0xFFD2691E)进入><魔幻星宫十二层/M屠龙城:0:0:星宫护法><(c0xFFD2691E)消灭冥王,得到万兽魔谱><(c0xFFFF00FF)说明:活动每日开启时间18:00-19:00>"
+          "target": "<(c0xFFD2691E)Vào><Tầng 12 Tinh Cung Ma Ảo/M屠龙城:0:0:星宫护法><(c0xFFD2691E)diệt Minh Vương, nhận Phổ Ma Vạn Thú><(c0xFFFF00FF)Lưu ý: hoạt động mở mỗi ngày 18:00-19:00>"
         },
         {
           "key": "data80620",
           "occurrence": 1,
           "source": "<(c0xFFD2691E)进入><魔幻星宫十二层/M屠龙城:0:0:星宫护法><(c0xFFD2691E)消灭冥王,得到万兽尊谱><(c0xFFFF00FF)说明:活动每日开启时间18:00-19:00>",
-          "target": "<(c0xFFD2691E)进入><魔幻星宫十二层/M屠龙城:0:0:星宫护法><(c0xFFD2691E)消灭冥王,得到万兽尊谱><(c0xFFFF00FF)说明:活动每日开启时间18:00-19:00>"
+          "target": "<(c0xFFD2691E)Vào><Tầng 12 Tinh Cung Ma Ảo/M屠龙城:0:0:星宫护法><(c0xFFD2691E)diệt Minh Vương, nhận Phổ Tôn Vạn Thú><(c0xFFFF00FF)Lưu ý: hoạt động mở mỗi ngày 18:00-19:00>"
         },
         {
           "key": "data806310",
@@ -25996,7 +25996,7 @@
           "key": "data806313",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><战场指挥官/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><战场指挥官/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chỉ Huy Chiến Trường/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806314",
@@ -26008,13 +26008,13 @@
           "key": "data806315",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><武神/M屠龙城:0:0:武神><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><武神/M屠龙城:0:0:武神><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Võ Thần/M屠龙城:0:0:武神><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806316",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Tiên Nữ Cầu Phúc/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806317",
@@ -26032,13 +26032,13 @@
           "key": "data806319",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Tiên Nữ Cầu Phúc/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806320",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><英雄特使/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><英雄特使/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Đặc Sứ Anh Hùng/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806330",
@@ -26056,25 +26056,25 @@
           "key": "data806342",
           "occurrence": 1,
           "source": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>",
-          "target": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>"
+          "target": "<Đấu Lực Chiến/@@showWin,52,0,0><(c0xFF1E90FF)1 lần>"
         },
         {
           "key": "data806351",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Ghép Hồn Thạch/@@showWin,5,7,0><(c0xFF1E90FF)ghép Hồn Thạch>"
         },
         {
           "key": "data806352",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Khảm Hồn Thạch/@@showWin,1,2,0><(c0xFF1E90FF)khảm Hồn Thạch bất kỳ>"
         },
         {
           "key": "data806353",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面点一次坐骑提升.>",
-          "target": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面点一次坐骑提升.>"
+          "target": "<(c0xFF1E90FF)Mở><Giao Diện Thú Cưỡi/@@showWin,1,1,0><(c0xFF1E90FF)bấm tăng thú cưỡi 1 lần.>"
         },
         {
           "key": "data806354",
@@ -26086,13 +26086,13 @@
           "key": "data806358",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Ghép Hồn Thạch/@@showWin,5,7,0><(c0xFF1E90FF)ghép Hồn Thạch bất kỳ>"
         },
         {
           "key": "data806359",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Khảm Hồn Thạch/@@showWin,1,2,0><(c0xFF1E90FF)khảm Hồn Thạch bất kỳ>"
         },
         {
           "key": "data806360",
@@ -26122,7 +26122,7 @@
           "key": "data80640",
           "occurrence": 1,
           "source": "<世界贡献/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)一次>",
-          "target": "<世界贡献/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)一次>"
+          "target": "<Cống Hiến Thế Giới/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)1 lần>"
         },
         {
           "key": "data80650",
@@ -26146,7 +26146,7 @@
           "key": "data80657",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><行政官员/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><行政官员/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Quan Hành Chính/M王城皇宫:0:0:行政官员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80658",
@@ -26170,67 +26170,67 @@
           "key": "data8090",
           "occurrence": 1,
           "source": "<沙滩大使/M屠龙城:162:131:沙滩大使><(x屠龙城:0:0:沙滩大使)>",
-          "target": "<沙滩大使/M屠龙城:162:131:沙滩大使><(x屠龙城:0:0:沙滩大使)>"
+          "target": "<Đại Sứ Bãi Biển/M屠龙城:162:131:沙滩大使><(x屠龙城:0:0:沙滩大使)>"
         },
         {
           "key": "data8100",
           "occurrence": 1,
           "source": "<立即完成/@@showWin,1010,0,0>",
-          "target": "<立即完成/@@showWin,1010,0,0>"
+          "target": "<Hoàn Thành Ngay/@@showWin,1010,0,0>"
         },
         {
           "key": "data81003",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><老板娘/M伏魔谷:0:0:老板娘><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><老板娘/M伏魔谷:0:0:老板娘><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Bà Chủ/M伏魔谷:0:0:老板娘><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81004",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><城主/M屠龙城:0:0:城主><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><城主/M屠龙城:0:0:城主><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Thành Chủ/M屠龙城:0:0:城主><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81013",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><颜如花/M屠龙城:0:0:颜如花><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><颜如花/M屠龙城:0:0:颜如花><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nhan Như Hoa/M屠龙城:0:0:颜如花><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81014",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><大祭司/M屠龙城:0:0:大祭司><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><大祭司/M屠龙城:0:0:大祭司><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Đại Tế Tư/M屠龙城:0:0:大祭司><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81020",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><城主/M屠龙城:0:0:城主><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><城主/M屠龙城:0:0:城主><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Thành Chủ/M屠龙城:0:0:城主><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81023",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><城主/M屠龙城:0:0:城主><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><城主/M屠龙城:0:0:城主><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Thành Chủ/M屠龙城:0:0:城主><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81024",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><隐士/M屠龙城:0:0:隐士><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><隐士/M屠龙城:0:0:隐士><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Ẩn Sĩ/M屠龙城:0:0:隐士><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81050",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><颜如花/M屠龙城:0:0:颜如花><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><颜如花/M屠龙城:0:0:颜如花><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nhan Như Hoa/M屠龙城:0:0:颜如花><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data81080",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><隐士/M屠龙城:0:0:隐士><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><隐士/M屠龙城:0:0:隐士><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Ẩn Sĩ/M屠龙城:0:0:隐士><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data8120",
@@ -26242,13 +26242,13 @@
           "key": "data8130",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)善谈大使/M圣城:212:136:沙滩大使>",
-          "target": "<(c0xFF1E90FF)善谈大使/M圣城:212:136:沙滩大使>"
+          "target": "<(c0xFF1E90FF)Đại Sứ Bãi Biển/M圣城:212:136:沙滩大使>"
         },
         {
           "key": "data840",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><接引灵使/M王城:0:0:接引灵使><(c0xFF1E90FF)进入妖月峡谷><(x王城:0:0:接引灵使)>",
-          "target": "<(c0xFF1E90FF)找到><接引灵使/M王城:0:0:接引灵使><(c0xFF1E90FF)进入妖月峡谷><(x王城:0:0:接引灵使)>"
+          "target": "<(c0xFF1E90FF)Tìm><Linh Sứ Dẫn Đường/M王城:0:0:接引灵使><(c0xFF1E90FF)vào Hẻm Núi Yêu Nguyệt><(x王城:0:0:接引灵使)>"
         },
         {
           "key": "data841610",
@@ -26272,7 +26272,7 @@
           "key": "data841613",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><战场指挥官/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><战场指挥官/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chỉ Huy Chiến Trường/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data841614",
@@ -26284,7 +26284,7 @@
           "key": "data841615",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><武神/M屠龙城:0:0:武神><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><武神/M屠龙城:0:0:武神><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Võ Thần/M屠龙城:0:0:武神><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data841617",
@@ -26302,13 +26302,13 @@
           "key": "data841619",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Tiên Nữ Cầu Phúc/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data841620",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><英雄特使/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><英雄特使/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Đặc Sứ Anh Hùng/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data841630",
@@ -26326,25 +26326,25 @@
           "key": "data841642",
           "occurrence": 1,
           "source": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>",
-          "target": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>"
+          "target": "<Đấu Lực Chiến/@@showWin,52,0,0><(c0xFF1E90FF)1 lần>"
         },
         {
           "key": "data841651",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Ghép Hồn Thạch/@@showWin,5,7,0><(c0xFF1E90FF)ghép Hồn Thạch>"
         },
         {
           "key": "data841652",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Khảm Hồn Thạch/@@showWin,1,2,0><(c0xFF1E90FF)khảm Hồn Thạch bất kỳ>"
         },
         {
           "key": "data841653",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面点一次坐骑提升.>",
-          "target": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面点一次坐骑提升.>"
+          "target": "<(c0xFF1E90FF)Mở><Giao Diện Thú Cưỡi/@@showWin,1,1,0><(c0xFF1E90FF)bấm tăng thú cưỡi 1 lần.>"
         },
         {
           "key": "data841654",
@@ -26356,13 +26356,13 @@
           "key": "data841658",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Ghép Hồn Thạch/@@showWin,5,7,0><(c0xFF1E90FF)ghép Hồn Thạch bất kỳ>"
         },
         {
           "key": "data841659",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Khảm Hồn Thạch/@@showWin,1,2,0><(c0xFF1E90FF)khảm Hồn Thạch bất kỳ>"
         },
         {
           "key": "data841660",
@@ -26428,7 +26428,7 @@
           "key": "data842113",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><战场指挥官/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><战场指挥官/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chỉ Huy Chiến Trường/M屠龙城:0:0:战场指挥官><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data842114",
@@ -26440,7 +26440,7 @@
           "key": "data842115",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><武神/M屠龙城:0:0:武神><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><武神/M屠龙城:0:0:武神><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Võ Thần/M屠龙城:0:0:武神><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data842117",
@@ -26458,13 +26458,13 @@
           "key": "data842119",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><祈福仙子/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Tiên Nữ Cầu Phúc/M屠龙城:0:0:祈福仙子><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data842120",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><英雄特使/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><英雄特使/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Đặc Sứ Anh Hùng/M屠龙城:0:0:英雄特使><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data842130",
@@ -26482,25 +26482,25 @@
           "key": "data842142",
           "occurrence": 1,
           "source": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>",
-          "target": "<战力竞技/@@showWin,52,0,0><(c0xFF1E90FF)一次>"
+          "target": "<Đấu Lực Chiến/@@showWin,52,0,0><(c0xFF1E90FF)1 lần>"
         },
         {
           "key": "data842151",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Ghép Hồn Thạch/@@showWin,5,7,0><(c0xFF1E90FF)ghép Hồn Thạch>"
         },
         {
           "key": "data842152",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Khảm Hồn Thạch/@@showWin,1,2,0><(c0xFF1E90FF)khảm Hồn Thạch bất kỳ>"
         },
         {
           "key": "data842153",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面点一次坐骑提升.>",
-          "target": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面点一次坐骑提升.>"
+          "target": "<(c0xFF1E90FF)Mở><Giao Diện Thú Cưỡi/@@showWin,1,1,0><(c0xFF1E90FF)bấm tăng thú cưỡi 1 lần.>"
         },
         {
           "key": "data842154",
@@ -26512,13 +26512,13 @@
           "key": "data842158",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石合成/@@showWin,5,7,0><(c0xFF1E90FF)界面合成任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Ghép Hồn Thạch/@@showWin,5,7,0><(c0xFF1E90FF)ghép Hồn Thạch bất kỳ>"
         },
         {
           "key": "data842159",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石镶嵌/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Khảm Hồn Thạch/@@showWin,1,2,0><(c0xFF1E90FF)khảm Hồn Thạch bất kỳ>"
         },
         {
           "key": "data842160",
@@ -26986,7 +26986,7 @@
           "key": "data860",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><接引灵使/M王城:0:0:接引灵使><(c0xFF1E90FF)进入妖月峡谷><(x王城:0:0:接引灵使)>",
-          "target": "<(c0xFF1E90FF)找到><接引灵使/M王城:0:0:接引灵使><(c0xFF1E90FF)进入妖月峡谷><(x王城:0:0:接引灵使)>"
+          "target": "<(c0xFF1E90FF)Tìm><Linh Sứ Dẫn Đường/M王城:0:0:接引灵使><(c0xFF1E90FF)vào Hẻm Núi Yêu Nguyệt><(x王城:0:0:接引灵使)>"
         },
         {
           "key": "data870",
@@ -27004,13 +27004,13 @@
           "key": "datamonster2020",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><战神史册/@@showWin,43,0,0><(c0xFF1E90FF)进入雪域魔宫消灭雪域魔蝎>",
-          "target": "<(c0xFF1E90FF)打开><战神史册/@@showWin,43,0,0><(c0xFF1E90FF)进入雪域魔宫消灭雪域魔蝎>"
+          "target": "<(c0xFF1E90FF)Mở><Chiến Thần Sử/@@showWin,43,0,0><(c0xFF1E90FF)vào Ma Cung Tuyết Vực diệt Bọ Cạp Ma Tuyết>"
         },
         {
           "key": "datamonster2120",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><战神史册/@@showWin,43,0,0><(c0xFF1E90FF)进入雪域魔宫消灭雪域魔蝎>",
-          "target": "<(c0xFF1E90FF)打开><战神史册/@@showWin,43,0,0><(c0xFF1E90FF)进入雪域魔宫消灭雪域魔蝎>"
+          "target": "<(c0xFF1E90FF)Mở><Chiến Thần Sử/@@showWin,43,0,0><(c0xFF1E90FF)vào Ma Cung Tuyết Vực diệt Bọ Cạp Ma Tuyết>"
         },
         {
           "key": "desc0",
