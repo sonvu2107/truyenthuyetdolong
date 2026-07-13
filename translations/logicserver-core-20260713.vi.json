@@ -30262,61 +30262,61 @@
           "key": "desc8019",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:23:30:任务公告板>:城主希望所有行会帮助王国抵挡妖魔的侵略,保护种族的延续.",
-          "target": "<任务公告板/M屠龙城:23:30:任务公告板>:城主希望所有行会帮助王国抵挡妖魔的侵略,保护种族的延续."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:23:30:任务公告板>:Thành Chủ kêu gọi các bang hội giúp Vương Quốc chống yêu ma xâm lược."
         },
         {
           "key": "desc802",
           "occurrence": 1,
           "source": "完成任务后找<贾美拉/M屠龙城:132:95:贾美拉>对话.",
-          "target": "完成任务后找<贾美拉/M屠龙城:132:95:贾美拉>对话."
+          "target": "Hoàn thành nhiệm vụ rồi nói chuyện với <Jameela/M屠龙城:132:95:贾美拉>."
         },
         {
           "key": "desc8020",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:23:30:任务公告板>:亡灵天灾爆发,祈雨神坛被敌人破坏,快去追杀逃逸的亡灵和妖魔.",
-          "target": "<任务公告板/M屠龙城:23:30:任务公告板>:亡灵天灾爆发,祈雨神坛被敌人破坏,快去追杀逃逸的亡灵和妖魔."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:23:30:任务公告板>:Thiên tai Vong Linh bùng phát. Hãy truy sát Vong Linh và yêu ma trốn thoát!"
         },
         {
           "key": "desc8021",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:熔岩妖魔劫持了一队平民进入熔岩森林,事态紧急,快去帮助解救人质.变者人类无需仁慈,拿起武器诛灭它们.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:熔岩妖魔劫持了一队平民进入熔岩森林,事态紧急,快去帮助解救人质.变者人类无需仁慈,拿起武器诛灭它们."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Yêu ma dung nham bắt dân thường vào Rừng Dung Nham. Hãy giải cứu con tin!"
         },
         {
           "key": "desc8022",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:魔界教主欲办万魔来朝.希望有勇士可以去阻止典礼的举行.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:魔界教主欲办万魔来朝.希望有勇士可以去阻止典礼的举行."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Giáo Chủ Ma Giới muốn tổ chức vạn ma triều bái. Hãy ngăn nghi lễ này!"
         },
         {
           "key": "desc8023",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:魔界教主欲办万魔来朝.希望有勇士可以去阻止典礼的举行.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:魔界教主欲办万魔来朝.希望有勇士可以去阻止典礼的举行."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Giáo Chủ Ma Giới muốn tổ chức vạn ma triều bái. Hãy ngăn nghi lễ này!"
         },
         {
           "key": "desc8024",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:凤鸣山遗部携带无尽仇恨对人类联盟发起进攻,复仇之心已经觉醒,战士们开始你们的正义之旅.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:凤鸣山遗部携带无尽仇恨对人类联盟发起进攻,复仇之心已经觉醒,战士们开始你们的正义之旅."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Tàn quân Phượng Minh Sơn tấn công Liên Minh Nhân Loại. Chiến sĩ, hãy bắt đầu hành trình chính nghĩa!"
         },
         {
           "key": "desc8025",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:凤鸣山遗部携带无尽仇恨对人类联盟发起进攻,复仇之心已经觉醒,战士们开始你们的正义之旅.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:凤鸣山遗部携带无尽仇恨对人类联盟发起进攻,复仇之心已经觉醒,战士们开始你们的正义之旅."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Tàn quân Phượng Minh Sơn tấn công Liên Minh Nhân Loại. Chiến sĩ, hãy bắt đầu hành trình chính nghĩa!"
         },
         {
           "key": "desc8026",
           "occurrence": 1,
           "source": "完成随机抽到的任务目标,回到<任务公告板/M屠龙城:36:46:任务公告板>领取奖励.",
-          "target": "完成随机抽到的任务目标,回到<任务公告板/M屠龙城:36:46:任务公告板>领取奖励."
+          "target": "Hoàn thành mục tiêu ngẫu nhiên, về <Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板> nhận thưởng."
         },
         {
           "key": "desc8027",
           "occurrence": 1,
           "source": "完成随机抽到的任务目标,回到<任务公告板/M屠龙城:36:46:任务公告板>领取奖励.",
-          "target": "完成随机抽到的任务目标,回到<任务公告板/M屠龙城:36:46:任务公告板>领取奖励."
+          "target": "Hoàn thành mục tiêu ngẫu nhiên, về <Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板> nhận thưởng."
         },
         {
           "key": "desc8028",
