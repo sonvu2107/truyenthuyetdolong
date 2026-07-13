@@ -56192,49 +56192,49 @@
           "key": "n1441",
           "occurrence": 1,
           "source": "圣诞礼包(废弃)",
-          "target": "圣诞礼包(废弃)"
+          "target": "Gói Giáng Sinh (Bỏ)"
         },
         {
           "key": "i1441",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\冬暮麋鹿碎片×1\\\\背包扩展卷轴×2\\\\苹果×5\\\\爆烈怒气丹×2\\\\神秘彩蛋×5\\\\强效佣兵经验水晶×2\\\\6倍经验卷轴×1",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\冬暮麋鹿碎片×1\\\\背包扩展卷轴×2\\\\苹果×5\\\\爆烈怒气丹×2\\\\神秘彩蛋×5\\\\强效佣兵经验水晶×2\\\\6倍经验卷轴×1"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Mảnh Hươu Đông Mộ ×1\\\\Cuộn Mở Rộng Túi ×2\\\\Táo ×5\\\\Đan Nộ Khí Bạo Liệt ×2\\\\Trứng Bí Ẩn ×5\\\\Tinh Thể KN Lính Đánh Thuê Cường Hiệu ×2\\\\Cuộn KN x6 ×1"
         },
         {
           "key": "n1442",
           "occurrence": 1,
           "source": "元旦礼包(废弃)",
-          "target": "元旦礼包(废弃)"
+          "target": "Gói Năm Mới (Bỏ)"
         },
         {
           "key": "i1442",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\超级佣兵经验水晶×1\\\\花宝令牌×10\\\\苹果×5\\\\40装备升级石×5\\\\马鞭×5\\\\神秘彩蛋×5\\\\8倍经验卷轴(8小时)×1",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\超级佣兵经验水晶×1\\\\花宝令牌×10\\\\苹果×5\\\\40装备升级石×5\\\\马鞭×5\\\\神秘彩蛋×5\\\\8倍经验卷轴(8小时)×1"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Tinh Thể KN Lính Đánh Thuê Siêu Cấp ×1\\\\Lệnh Hoa Bảo ×10\\\\Táo ×5\\\\Đá Nâng Cấp Trang Bị Cấp 40 ×5\\\\Roi Ngựa ×5\\\\Trứng Bí Ẩn ×5\\\\Cuộn KN x8 (8 Giờ) ×1"
         },
         {
           "key": "n1443",
           "occurrence": 1,
           "source": "充值优惠礼包(废弃)",
-          "target": "充值优惠礼包(废弃)"
+          "target": "Gói Ưu Đãi Nạp (Bỏ)"
         },
         {
           "key": "i1443",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\10倍经验卷轴(8小时)×1\\\\超级佣兵经验水晶×3\\\\5倍离线经验玉×5\\\\灵魂水晶×10\\\\清洗药水×10\\\\苹果×20",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\10倍经验卷轴(8小时)×1\\\\超级佣兵经验水晶×3\\\\5倍离线经验玉×5\\\\灵魂水晶×10\\\\清洗药水×10\\\\苹果×20"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Cuộn KN x10 (8 Giờ) ×1\\\\Tinh Thể KN Lính Đánh Thuê Siêu Cấp ×3\\\\Ngọc KN Offline x5 ×5\\\\Pha Lê Linh Hồn ×10\\\\Thuốc Tẩy ×10\\\\Táo ×20"
         },
         {
           "key": "n1444",
           "occurrence": 1,
           "source": "战友复活包(废弃)",
-          "target": "战友复活包(废弃)"
+          "target": "Gói Phục Sinh Chiến Hữu (Bỏ)"
         },
         {
           "key": "i1444",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\5倍经验卷轴(8小时)×1\\\\人参王×4\\\\雪莲王×4\\\\苹果×5\\\\修复药水×10\\\\5倍离线经验玉×18",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\5倍经验卷轴(8小时)×1\\\\人参王×4\\\\雪莲王×4\\\\苹果×5\\\\修复药水×10\\\\5倍离线经验玉×18"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> để nhận:\\\\Cuộn KN x5 (8 Giờ) ×1\\\\Nhân Sâm Vương ×4\\\\Tuyết Liên Vương ×4\\\\Táo ×5\\\\Thuốc Sửa Chữa ×10\\\\Ngọc KN Offline x5 ×18"
         },
         {
           "key": "n1445",
