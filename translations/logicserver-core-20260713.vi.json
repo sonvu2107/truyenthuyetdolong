@@ -48680,157 +48680,157 @@
           "key": "n815",
           "occurrence": 1,
           "source": "副本通行证",
-          "target": "副本通行证"
+          "target": "Vé Phó Bản"
         },
         {
           "key": "i815",
           "occurrence": 1,
           "source": "辅助道具\\\\可让你购买再次进入副本次数的道具\\\\通过与副本NPC对话购买更多的副本次数\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "辅助道具\\\\可让你购买再次进入副本次数的道具\\\\通过与副本NPC对话购买更多的副本次数\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Vật Phẩm Hỗ Trợ\\\\Dùng mua thêm lượt vào lại Phó Bản\\\\Nói chuyện với NPC Phó Bản để mua thêm lượt\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n816",
           "occurrence": 1,
           "source": "宝藏刷新令牌",
-          "target": "宝藏刷新令牌"
+          "target": "Thẻ Làm Mới Kho Báu"
         },
         {
           "key": "i816",
           "occurrence": 1,
           "source": "辅助道具\\\\在护送宝藏中,刷新护送目标档次的道具",
-          "target": "辅助道具\\\\在护送宝藏中,刷新护送目标档次的道具"
+          "target": "Vật Phẩm Hỗ Trợ\\\\Dùng làm mới bậc mục tiêu Hộ Tống Kho Báu"
         },
         {
           "key": "n817",
           "occurrence": 1,
           "source": "活动立即完成令牌",
-          "target": "活动立即完成令牌"
+          "target": "Thẻ Hoàn Thành Ngay"
         },
         {
           "key": "i817",
           "occurrence": 1,
           "source": "可让你<(c0xFF00FF00)立即完成部分活动或副本>的道具\\\\使用活动系统(快捷键:<(c0xFF00FFFF)J>)的<(c0xFF00FFFF)“立即完成”>功能\\\\可以直接完成<(c0xFF00FFFF)过往三天内>部分未参与的活动和副本\\\\<(c0xFFFFFF00)双击物品>可打开秒活动界面",
-          "target": "可让你<(c0xFF00FF00)立即完成部分活动或副本>的道具\\\\使用活动系统(快捷键:<(c0xFF00FFFF)J>)的<(c0xFF00FFFF)“立即完成”>功能\\\\可以直接完成<(c0xFF00FFFF)过往三天内>部分未参与的活动和副本\\\\<(c0xFFFFFF00)双击物品>可打开秒活动界面"
+          "target": "Vật phẩm giúp <(c0xFF00FF00)Hoàn Thành Ngay một số Hoạt Động/Phó Bản>\\\\Dùng chức năng <(c0xFF00FFFF)“Hoàn Thành Ngay”> ở Hoạt Động (phím tắt: <(c0xFF00FFFF)J>)\\\\Hoàn thành trực tiếp một số Hoạt Động/Phó Bản chưa tham gia trong <(c0xFF00FFFF)3 ngày qua>\\\\<(c0xFFFFFF00)Dùng> để mở giao diện Hoàn Thành Nhanh"
         },
         {
           "key": "n818",
           "occurrence": 1,
           "source": "先知礼包(废弃)",
-          "target": "先知礼包(废弃)"
+          "target": "Gói Tiên Tri (Bỏ)"
         },
         {
           "key": "i818",
           "occurrence": 1,
           "source": "每周文采排行榜排行第一名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×20>\\\\<(c0xFFFFFF00)屠龙卷轴×3>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第一名获得>",
-          "target": "每周文采排行榜排行第一名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×20>\\\\<(c0xFFFFFF00)屠龙卷轴×3>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第一名获得>"
+          "target": "Quà hạng 1 BXH Văn Tài tuần\\\\Dùng để nhận:\\\\<(c0xFFFFFF00)Mảnh Ngựa Xương ×20>\\\\<(c0xFFFFFF00)Cuộn Đồ Long ×3>\\\\<(c0xFFFF0000)Cần ít nhất 1000 điểm Văn Tài>\\\\<(c0xFF00FF00)Gợi ý: hạng 1 Đố Trí Tuệ>"
         },
         {
           "key": "n819",
           "occurrence": 1,
           "source": "智者礼包(废弃)",
-          "target": "智者礼包(废弃)"
+          "target": "Gói Hiền Giả (Bỏ)"
         },
         {
           "key": "i819",
           "occurrence": 1,
           "source": "每周文采排行榜排行第二名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×15>\\\\<(c0xFFFFFF00)屠龙卷轴×2>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第二名获得>",
-          "target": "每周文采排行榜排行第二名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×15>\\\\<(c0xFFFFFF00)屠龙卷轴×2>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第二名获得>"
+          "target": "Quà hạng 2 BXH Văn Tài tuần\\\\Dùng để nhận:\\\\<(c0xFFFFFF00)Mảnh Ngựa Xương ×15>\\\\<(c0xFFFFFF00)Cuộn Đồ Long ×2>\\\\<(c0xFFFF0000)Cần ít nhất 1000 điểm Văn Tài>\\\\<(c0xFF00FF00)Gợi ý: hạng 2 Đố Trí Tuệ>"
         },
         {
           "key": "n820",
           "occurrence": 1,
           "source": "学者礼包(废弃)",
-          "target": "学者礼包(废弃)"
+          "target": "Gói Học Giả (Bỏ)"
         },
         {
           "key": "i820",
           "occurrence": 1,
           "source": "每周文采排行榜排行第三名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×10>\\\\<(c0xFFFFFF00)屠龙卷轴×1>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第三名获得>",
-          "target": "每周文采排行榜排行第三名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×10>\\\\<(c0xFFFFFF00)屠龙卷轴×1>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第三名获得>"
+          "target": "Quà hạng 3 BXH Văn Tài tuần\\\\Dùng để nhận:\\\\<(c0xFFFFFF00)Mảnh Ngựa Xương ×10>\\\\<(c0xFFFFFF00)Cuộn Đồ Long ×1>\\\\<(c0xFFFF0000)Cần ít nhất 1000 điểm Văn Tài>\\\\<(c0xFF00FF00)Gợi ý: hạng 3 Đố Trí Tuệ>"
         },
         {
           "key": "n821",
           "occurrence": 1,
           "source": "答题礼包(废弃)",
-          "target": "答题礼包(废弃)"
+          "target": "Gói Đố Trí Tuệ (Bỏ)"
         },
         {
           "key": "i821",
           "occurrence": 1,
           "source": "每周文采排行榜排行第四至八名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×5>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第四至第八名获得>",
-          "target": "每周文采排行榜排行第四至八名的奖励礼包\\\\双击使用即可获得以下丰富奖励:\\\\<(c0xFFFFFF00)骨马碎片×5>\\\\<(c0xFFFF0000)需要文采值至少1000点>\\\\<(c0xFF00FF00)提示:智力答题第四至第八名获得>"
+          "target": "Quà hạng 4–8 BXH Văn Tài tuần\\\\Dùng để nhận:\\\\<(c0xFFFFFF00)Mảnh Ngựa Xương ×5>\\\\<(c0xFFFF0000)Cần ít nhất 1000 điểm Văn Tài>\\\\<(c0xFF00FF00)Gợi ý: hạng 4–8 Đố Trí Tuệ>"
         },
         {
           "key": "n822",
           "occurrence": 1,
           "source": "召集卷轴(绑)",
-          "target": "召集卷轴(绑)"
+          "target": "Cuộn Triệu Tập (Khóa)"
         },
         {
           "key": "i822",
           "occurrence": 1,
           "source": "辅助道具\\\\对单个行会在线成员进行召唤,可令其直接传送到身边\\\\<(c0xFFFFFF00)双击物品>可打开行会界面(快捷键:<(c0xFF00FFFF)G>)进行<(c0xFF00FFFF)召唤>操作\\\\<(c0xFFFF0000)部分场景限制使用>",
-          "target": "辅助道具\\\\对单个行会在线成员进行召唤,可令其直接传送到身边\\\\<(c0xFFFFFF00)双击物品>可打开行会界面(快捷键:<(c0xFF00FFFF)G>)进行<(c0xFF00FFFF)召唤>操作\\\\<(c0xFFFF0000)部分场景限制使用>"
+          "target": "Vật Phẩm Hỗ Trợ\\\\Triệu hồi 1 thành viên Bang Hội online đến bên cạnh\\\\<(c0xFFFFFF00)Dùng> để mở Bang Hội (phím tắt: <(c0xFF00FFFF)G>) và <(c0xFF00FFFF)Triệu Hồi>\\\\<(c0xFFFF0000)Một số bản đồ không dùng được>"
         },
         {
           "key": "n823",
           "occurrence": 1,
           "source": "行会召集卷轴(绑)",
-          "target": "行会召集卷轴(绑)"
+          "target": "Cuộn Triệu Tập Bang Hội (Khóa)"
         },
         {
           "key": "i823",
           "occurrence": 1,
           "source": "双击使用\\\\对所在行会所有在线成员进行召集,可令其直接传送到身边\\\\只能由<(c0xFF00FFFF)首领,副首领>使用\\\\<(c0xFFFF0000)部分场景限制使用>",
-          "target": "双击使用\\\\对所在行会所有在线成员进行召集,可令其直接传送到身边\\\\只能由<(c0xFF00FFFF)首领,副首领>使用\\\\<(c0xFFFF0000)部分场景限制使用>"
+          "target": "Dùng\\\\Triệu tập mọi thành viên Bang Hội online đến bên cạnh\\\\Chỉ <(c0xFF00FFFF)Thủ Lĩnh, Phó Thủ Lĩnh> dùng được\\\\<(c0xFFFF0000)Một số bản đồ không dùng được>"
         },
         {
           "key": "n824",
           "occurrence": 1,
           "source": "赛马冠军大礼包",
-          "target": "赛马冠军大礼包"
+          "target": "Gói Quán Quân Đua Ngựa"
         },
         {
           "key": "i824",
           "occurrence": 1,
           "source": "热血赛马活动中第一名的奖励礼包\\\\双击使用即可获得丰富奖励",
-          "target": "热血赛马活动中第一名的奖励礼包\\\\双击使用即可获得丰富奖励"
+          "target": "Quà hạng 1 Đua Ngựa Nhiệt Huyết\\\\Dùng để nhận quà phong phú"
         },
         {
           "key": "n825",
           "occurrence": 1,
           "source": "赛马亚军大礼包",
-          "target": "赛马亚军大礼包"
+          "target": "Gói Á Quân Đua Ngựa"
         },
         {
           "key": "i825",
           "occurrence": 1,
           "source": "热血赛马活动中第二名的奖励礼包\\\\双击使用即可获得丰富奖励",
-          "target": "热血赛马活动中第二名的奖励礼包\\\\双击使用即可获得丰富奖励"
+          "target": "Quà hạng 2 Đua Ngựa Nhiệt Huyết\\\\Dùng để nhận quà phong phú"
         },
         {
           "key": "n826",
           "occurrence": 1,
           "source": "赛马季军大礼包",
-          "target": "赛马季军大礼包"
+          "target": "Gói Hạng Ba Đua Ngựa"
         },
         {
           "key": "i826",
           "occurrence": 1,
           "source": "热血赛马活动中第三名的奖励礼包\\\\双击使用即可获得丰富奖励",
-          "target": "热血赛马活动中第三名的奖励礼包\\\\双击使用即可获得丰富奖励"
+          "target": "Quà hạng 3 Đua Ngựa Nhiệt Huyết\\\\Dùng để nhận quà phong phú"
         },
         {
           "key": "n827",
           "occurrence": 1,
           "source": "赛马骑士大礼包",
-          "target": "赛马骑士大礼包"
+          "target": "Gói Kỵ Sĩ Đua Ngựa"
         },
         {
           "key": "i827",
           "occurrence": 1,
           "source": "热血赛马活动中第四至十名的奖励礼包\\\\双击使用即可获得丰富奖励",
-          "target": "热血赛马活动中第四至十名的奖励礼包\\\\双击使用即可获得丰富奖励"
+          "target": "Quà hạng 4–10 Đua Ngựa Nhiệt Huyết\\\\Dùng để nhận quà phong phú"
         },
         {
           "key": "n828",
