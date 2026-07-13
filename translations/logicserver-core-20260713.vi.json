@@ -49772,49 +49772,49 @@
           "key": "n906",
           "occurrence": 1,
           "source": "宝石代金券",
-          "target": "宝石代金券"
+          "target": "Phiếu Giảm Giá Đá Quý"
         },
         {
           "key": "i906",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买5级宝石时可以代替729元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买5级宝石时可以代替729元宝进行消费"
+          "target": "Dùng\\\\Mua Đá Quý Cấp 5 bằng phiếu này sẽ thay 729 Nguyên Bảo"
         },
         {
           "key": "n907",
           "occurrence": 1,
           "source": "装备升级材料代金券",
-          "target": "装备升级材料代金券"
+          "target": "Phiếu Giảm Giá Đá Cường Hóa"
         },
         {
           "key": "i907",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买装备升级石升级材料可以代替29元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买装备升级石升级材料可以代替29元宝进行消费"
+          "target": "Dùng\\\\Mua Đá Cường Hóa bằng phiếu này sẽ thay 29 Nguyên Bảo"
         },
         {
           "key": "n908",
           "occurrence": 1,
           "source": "时装代金券",
-          "target": "时装代金券"
+          "target": "Phiếu Giảm Giá Thời Trang"
         },
         {
           "key": "i908",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买指定时装可以代替300元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买指定时装可以代替300元宝进行消费"
+          "target": "Dùng\\\\Mua Thời Trang chỉ định bằng phiếu này sẽ thay 300 Nguyên Bảo"
         },
         {
           "key": "n909",
           "occurrence": 1,
           "source": "玫瑰代金券",
-          "target": "玫瑰代金券"
+          "target": "Phiếu Giảm Giá Hoa Hồng"
         },
         {
           "key": "i909",
           "occurrence": 1,
           "source": "双击使用\\\\使用代金券购买999玫瑰可以代替400元宝进行消费",
-          "target": "双击使用\\\\使用代金券购买999玫瑰可以代替400元宝进行消费"
+          "target": "Dùng\\\\Mua 999 Hoa Hồng bằng phiếu này sẽ thay 400 Nguyên Bảo"
         },
         {
           "key": "n910",
