@@ -46412,91 +46412,91 @@
           "key": "n626",
           "occurrence": 1,
           "source": "3倍经验卷轴",
-          "target": "3倍经验卷轴"
+          "target": "Cuộn KN x3"
         },
         {
           "key": "i626",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)3倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)3倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Nhận buff KN khi diệt quái <(c0xFF00FFFF)x3>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Cuộn cùng hiệu ứng cộng dồn thời gian>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n627",
           "occurrence": 1,
           "source": "3倍经验卷轴(8小时)",
-          "target": "3倍经验卷轴(8小时)"
+          "target": "Cuộn KN x3 (8 Giờ)"
         },
         {
           "key": "i627",
           "occurrence": 1,
           "source": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)3倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\获得杀怪经验<(c0xFF00FFFF)3倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Nhận buff KN khi diệt quái <(c0xFF00FFFF)x3>, kéo dài <(c0xFF00FFFF)8 giờ>\\\\<(c0xFF00FF00)Cuộn cùng hiệu ứng cộng dồn thời gian>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n628",
           "occurrence": 1,
           "source": "5倍经验卷轴",
-          "target": "5倍经验卷轴"
+          "target": "Cuộn KN x5"
         },
         {
           "key": "i628",
           "occurrence": 1,
           "source": "<(c0x00d57140)超值经验道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)5倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "<(c0x00d57140)超值经验道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)5倍>的BUFF,持续<(c0xFF00FFFF)1小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "<(c0x00d57140)Vật phẩm KN siêu hời>\\\\Dùng\\\\Nhận buff KN khi diệt quái <(c0xFF00FFFF)x5>, kéo dài <(c0xFF00FFFF)1 giờ>\\\\<(c0xFF00FF00)Cuộn cùng hiệu ứng cộng dồn thời gian>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n629",
           "occurrence": 1,
           "source": "5倍经验卷轴(8小时)",
-          "target": "5倍经验卷轴(8小时)"
+          "target": "Cuộn KN x5 (8 Giờ)"
         },
         {
           "key": "i629",
           "occurrence": 1,
           "source": "<(c0x00d57140)超值经验道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)5倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "<(c0x00d57140)超值经验道具>\\\\双击使用\\\\获得杀怪经验<(c0xFF00FFFF)5倍>的BUFF,持续<(c0xFF00FFFF)8小时>\\\\<(c0xFF00FF00)相同效果的卷轴时间会叠加>\\\\<(c0xFF00FFFF)不同效果的卷轴会互相抵消>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "<(c0x00d57140)Vật phẩm KN siêu hời>\\\\Dùng\\\\Nhận buff KN khi diệt quái <(c0xFF00FFFF)x5>, kéo dài <(c0xFF00FFFF)8 giờ>\\\\<(c0xFF00FF00)Cuộn cùng hiệu ứng cộng dồn thời gian>\\\\<(c0xFF00FFFF)Cuộn khác hiệu ứng sẽ triệt tiêu nhau>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n630",
           "occurrence": 1,
           "source": "混合药沫",
-          "target": "混合药沫"
+          "target": "Bột Hỗn Hợp"
         },
         {
           "key": "i630",
           "occurrence": 1,
           "source": "双击装备,它是道士必备的工具,也可以使得施毒术同时具有红毒,绿毒两种效果!",
-          "target": "双击装备,它是道士必备的工具,也可以使得施毒术同时具有红毒,绿毒两种效果!"
+          "target": "Dùng để trang bị. Công cụ cần cho Đạo Sĩ, giúp Thi Độc Thuật có cả Độc Đỏ và Độc Xanh!"
         },
         {
           "key": "n631",
           "occurrence": 1,
           "source": "混合毒符(大)",
-          "target": "混合毒符(大)"
+          "target": "Phù Độc Hỗn Hợp (Lớn)"
         },
         {
           "key": "i631",
           "occurrence": 1,
           "source": "双击装备,它是道士必备的工具,也可以使得施毒术同时具有红毒,绿毒两种效果!",
-          "target": "双击装备,它是道士必备的工具,也可以使得施毒术同时具有红毒,绿毒两种效果!"
+          "target": "Dùng để trang bị. Công cụ cần cho Đạo Sĩ, giúp Thi Độc Thuật có cả Độc Đỏ và Độc Xanh!"
         },
         {
           "key": "n632",
           "occurrence": 1,
           "source": "经验水晶",
-          "target": "经验水晶"
+          "target": "Pha Lê KN"
         },
         {
           "key": "i632",
           "occurrence": 1,
           "source": "可以立即获得以下一项经验:\\\\<(c0xFFFFFF00)1000000经验>\\\\<(c0xFFFFFF00)100000经验>\\\\<(c0xFFFFFF00)50000经验>\\\\<(c0xFFFFFF00)30000经验>",
-          "target": "可以立即获得以下一项经验:\\\\<(c0xFFFFFF00)1000000经验>\\\\<(c0xFFFFFF00)100000经验>\\\\<(c0xFFFFFF00)50000经验>\\\\<(c0xFFFFFF00)30000经验>"
+          "target": "Nhận ngay 1 mốc KN:\\\\<(c0xFFFFFF00)1000K KN>\\\\<(c0xFFFFFF00)100K KN>\\\\<(c0xFFFFFF00)50K KN>\\\\<(c0xFFFFFF00)30K KN>"
         },
         {
           "key": "n633",
           "occurrence": 1,
           "source": "矿石包(废弃)",
-          "target": "矿石包(废弃)"
+          "target": "Gói Quặng (Bỏ)"
         },
         {
           "key": "i633",
@@ -46508,103 +46508,103 @@
           "key": "n634",
           "occurrence": 1,
           "source": "欢乐豆票",
-          "target": "欢乐豆票"
+          "target": "Vé Đậu Vui Vẻ"
         },
         {
           "key": "i634",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种欢乐豆:\\\\<(c0xFFFFFF00)100欢乐豆>\\\\<(c0xFFFFFF00)50欢乐豆>\\\\<(c0xFFFFFF00)30欢乐豆>\\\\<(c0xFFFFFF00)15欢乐豆>",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种欢乐豆:\\\\<(c0xFFFFFF00)100欢乐豆>\\\\<(c0xFFFFFF00)50欢乐豆>\\\\<(c0xFFFFFF00)30欢乐豆>\\\\<(c0xFFFFFF00)15欢乐豆>"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 1 loại Đậu Vui Vẻ:\\\\<(c0xFFFFFF00)100 Đậu Vui Vẻ>\\\\<(c0xFFFFFF00)50 Đậu Vui Vẻ>\\\\<(c0xFFFFFF00)30 Đậu Vui Vẻ>\\\\<(c0xFFFFFF00)15 Đậu Vui Vẻ>"
         },
         {
           "key": "n635",
           "occurrence": 1,
           "source": "金币箱",
-          "target": "金币箱"
+          "target": "Rương Vàng"
         },
         {
           "key": "i635",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种金额:\\\\<(c0xFFFFFF00)100000金币>\\\\<(c0xFFFFFF00)50000金币>\\\\<(c0xFFFFFF00)30000金币>\\\\<(c0xFFFFFF00)10000金币>",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种金额:\\\\<(c0xFFFFFF00)100000金币>\\\\<(c0xFFFFFF00)50000金币>\\\\<(c0xFFFFFF00)30000金币>\\\\<(c0xFFFFFF00)10000金币>"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 1 mốc Vàng:\\\\<(c0xFFFFFF00)100K Vàng>\\\\<(c0xFFFFFF00)50K Vàng>\\\\<(c0xFFFFFF00)30K Vàng>\\\\<(c0xFFFFFF00)10K Vàng>"
         },
         {
           "key": "n636",
           "occurrence": 1,
           "source": "50级装备",
-          "target": "50级装备"
+          "target": "Trang Bị Cấp 50"
         },
         {
           "key": "i636",
           "occurrence": 1,
           "source": "可以开出各个职业的<(c0xFF00FFFF)50级装备>!",
-          "target": "可以开出各个职业的<(c0xFF00FFFF)50级装备>!"
+          "target": "Có thể nhận <(c0xFF00FFFF)Trang Bị Cấp 50> của mọi nghề!"
         },
         {
           "key": "n637",
           "occurrence": 1,
           "source": "2转套装",
-          "target": "2转套装"
+          "target": "Bộ CS 2"
         },
         {
           "key": "i637",
           "occurrence": 1,
           "source": "可以开出各个职业的<(c0xFF00FFFF)2转套装备>!",
-          "target": "可以开出各个职业的<(c0xFF00FFFF)2转套装备>!"
+          "target": "Có thể nhận <(c0xFF00FFFF)Bộ Trang Bị CS 2> của mọi nghề!"
         },
         {
           "key": "n638",
           "occurrence": 1,
           "source": "一束红玫瑰",
-          "target": "一束红玫瑰"
+          "target": "Bó Hoa Hồng Đỏ"
         },
         {
           "key": "i638",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种红玫瑰:\\\\<(c0xFFFFFF00)999朵红玫瑰>\\\\<(c0xFFFFFF00)99朵红玫瑰>\\\\<(c0xFFFFFF00)9朵红玫瑰>\\\\<(c0xFFFFFFFF00)1朵红玫瑰>",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种红玫瑰:\\\\<(c0xFFFFFF00)999朵红玫瑰>\\\\<(c0xFFFFFF00)99朵红玫瑰>\\\\<(c0xFFFFFF00)9朵红玫瑰>\\\\<(c0xFFFFFFFF00)1朵红玫瑰>"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 1 loại Hoa Hồng Đỏ:\\\\<(c0xFFFFFF00)999 Bông Hoa Hồng Đỏ>\\\\<(c0xFFFFFF00)99 Bông Hoa Hồng Đỏ>\\\\<(c0xFFFFFF00)9 Bông Hoa Hồng Đỏ>\\\\<(c0xFFFFFFFF00)1 Bông Hoa Hồng Đỏ>"
         },
         {
           "key": "n639",
           "occurrence": 1,
           "source": "一束蓝玫瑰",
-          "target": "一束蓝玫瑰"
+          "target": "Bó Hoa Hồng Xanh"
         },
         {
           "key": "i639",
           "occurrence": 1,
           "source": "可以开出以下一种蓝玫瑰:\\\\<(c0xFFFFFF00)999朵蓝玫瑰>\\\\<(c0xFFFFFF00)99朵蓝玫瑰>\\\\<(c0xFFFFFF00)9朵蓝玫瑰>\\\\<(c0xFFFFFF00)1朵蓝玫瑰>",
-          "target": "可以开出以下一种蓝玫瑰:\\\\<(c0xFFFFFF00)999朵蓝玫瑰>\\\\<(c0xFFFFFF00)99朵蓝玫瑰>\\\\<(c0xFFFFFF00)9朵蓝玫瑰>\\\\<(c0xFFFFFF00)1朵蓝玫瑰>"
+          "target": "Nhận 1 loại Hoa Hồng Xanh:\\\\<(c0xFFFFFF00)999 Bông Hoa Hồng Xanh>\\\\<(c0xFFFFFF00)99 Bông Hoa Hồng Xanh>\\\\<(c0xFFFFFF00)9 Bông Hoa Hồng Xanh>\\\\<(c0xFFFFFF00)1 Bông Hoa Hồng Xanh>"
         },
         {
           "key": "n640",
           "occurrence": 1,
           "source": "元宝票",
-          "target": "元宝票"
+          "target": "Phiếu Nguyên Bảo"
         },
         {
           "key": "i640",
           "occurrence": 1,
           "source": "预留道具.可以开出以下一种元宝票:\\\\<(c0xFFFFFF00)10000元宝票>\\\\<(c0xFFFFFF00)1000元宝票>\\\\<(c0xFFFFFF00)100元宝票>\\\\<(c0xFFFFFF00)10元宝票>",
-          "target": "预留道具.可以开出以下一种元宝票:\\\\<(c0xFFFFFF00)10000元宝票>\\\\<(c0xFFFFFF00)1000元宝票>\\\\<(c0xFFFFFF00)100元宝票>\\\\<(c0xFFFFFF00)10元宝票>"
+          "target": "Vật phẩm dự phòng. Nhận 1 loại Phiếu Nguyên Bảo:\\\\<(c0xFFFFFF00)10K Phiếu Nguyên Bảo>\\\\<(c0xFFFFFF00)1K Phiếu Nguyên Bảo>\\\\<(c0xFFFFFF00)100 Phiếu Nguyên Bảo>\\\\<(c0xFFFFFF00)10 Phiếu Nguyên Bảo>"
         },
         {
           "key": "n641",
           "occurrence": 1,
           "source": "VIP体验卡",
-          "target": "VIP体验卡"
+          "target": "Thẻ Trải Nghiệm VIP"
         },
         {
           "key": "i641",
           "occurrence": 1,
           "source": "双击使用\\\\立即享受<(c0xFF00FFFF)1小时>的<(c0xFFFFFF00)黄金会员>豪华待遇.\\\\打开VIP界面可以查看黄金VIP待遇\\\\可通过商城购买高级VIP",
-          "target": "双击使用\\\\立即享受<(c0xFF00FFFF)1小时>的<(c0xFFFFFF00)黄金会员>豪华待遇.\\\\打开VIP界面可以查看黄金VIP待遇\\\\可通过商城购买高级VIP"
+          "target": "Dùng\\\\Tận hưởng <(c0xFF00FFFF)1 giờ> đặc quyền <(c0xFFFFFF00)VIP Hoàng Kim>.\\\\Mở giao diện VIP để xem đặc quyền VIP Hoàng Kim\\\\Mua VIP Cao Cấp ở Shop"
         },
         {
           "key": "n642",
           "occurrence": 1,
           "source": "荣誉令(废弃)",
-          "target": "荣誉令(废弃)"
+          "target": "Lệnh Danh Dự (Bỏ)"
         },
         {
           "key": "i642",
@@ -46616,7 +46616,7 @@
           "key": "n643",
           "occurrence": 1,
           "source": "VIP每日福利包(废弃)",
-          "target": "VIP每日福利包(废弃)"
+          "target": "Gói Phúc Lợi VIP Ngày (Bỏ)"
         },
         {
           "key": "i643",
@@ -46628,7 +46628,7 @@
           "key": "n644",
           "occurrence": 1,
           "source": "幸运骰子(废弃)",
-          "target": "幸运骰子(废弃)"
+          "target": "Xúc Xắc May Mắn (Bỏ)"
         },
         {
           "key": "i644",
@@ -46640,7 +46640,7 @@
           "key": "n645",
           "occurrence": 1,
           "source": "一阶幸运礼包(废弃)",
-          "target": "一阶幸运礼包(废弃)"
+          "target": "Gói May Mắn Bậc 1 (Bỏ)"
         },
         {
           "key": "i645",
@@ -46652,7 +46652,7 @@
           "key": "n646",
           "occurrence": 1,
           "source": "二阶幸运礼包(废弃)",
-          "target": "二阶幸运礼包(废弃)"
+          "target": "Gói May Mắn Bậc 2 (Bỏ)"
         },
         {
           "key": "i646",
@@ -46664,7 +46664,7 @@
           "key": "n647",
           "occurrence": 1,
           "source": "三阶幸运礼包(废弃)",
-          "target": "三阶幸运礼包(废弃)"
+          "target": "Gói May Mắn Bậc 3 (Bỏ)"
         },
         {
           "key": "i647",
@@ -46676,7 +46676,7 @@
           "key": "n648",
           "occurrence": 1,
           "source": "四阶幸运礼包(废弃)",
-          "target": "四阶幸运礼包(废弃)"
+          "target": "Gói May Mắn Bậc 4 (Bỏ)"
         },
         {
           "key": "i648",
@@ -46688,19 +46688,19 @@
           "key": "n649",
           "occurrence": 1,
           "source": "GM传音喇叭",
-          "target": "GM传音喇叭"
+          "target": "Loa Truyền Âm GM"
         },
         {
           "key": "i649",
           "occurrence": 1,
           "source": "双击使用,将您的话发送到全服务器的玩家都可见",
-          "target": "双击使用,将您的话发送到全服务器的玩家都可见"
+          "target": "Dùng để gửi lời nói của bạn đến toàn bộ người chơi trong máy chủ"
         },
         {
           "key": "n650",
           "occurrence": 1,
           "source": "五阶幸运礼包(废弃)",
-          "target": "五阶幸运礼包(废弃)"
+          "target": "Gói May Mắn Bậc 5 (Bỏ)"
         },
         {
           "key": "i650",
