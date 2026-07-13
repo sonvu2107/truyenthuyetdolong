@@ -24682,61 +24682,61 @@
           "key": "data2530",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:131:158>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:131:158>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:131:158>"
         },
         {
           "key": "data2540",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗堕魔><(x世界要塞:0:0:黑暗堕魔)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:164:67>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗堕魔><(x世界要塞:0:0:黑暗堕魔)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:164:67>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:黑暗堕魔><(x世界要塞:0:0:黑暗堕魔)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:164:67>"
         },
         {
           "key": "data2550",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞二层><任意怪/M世界要塞二层:0:0:死神魔蛇><(x世界要塞二层:0:0:死神魔蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><世界要塞二层/M世界要塞二层:225:99>",
-          "target": "<(c0xFF1E90FF)世界要塞二层><任意怪/M世界要塞二层:0:0:死神魔蛇><(x世界要塞二层:0:0:死神魔蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><世界要塞二层/M世界要塞二层:225:99>"
+          "target": "<(c0xFF1E90FF)Tầng 2 Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞二层:0:0:死神魔蛇><(x世界要塞二层:0:0:死神魔蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Tầng 2 Pháo Đài Thế Giới/M世界要塞二层:225:99>"
         },
         {
           "key": "data2560",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:嗜血甲虫><(x幽暗丛林:0:0:嗜血甲虫)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:144:67>",
-          "target": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:嗜血甲虫><(x幽暗丛林:0:0:嗜血甲虫)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:144:67>"
+          "target": "<(c0xFF1E90FF)Rừng U Ám><Quái Bất Kỳ/M幽暗丛林:0:0:嗜血甲虫><(x幽暗丛林:0:0:嗜血甲虫)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng U Ám/M幽暗丛林:144:67>"
         },
         {
           "key": "data2580",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><埋骨之地/M埋骨之地:117:48>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><埋骨之地/M埋骨之地:117:48>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><Vùng Đất Chôn Xương/M埋骨之地:117:48>"
         },
         {
           "key": "data2590",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:189:120>"
         },
         {
           "key": "data2600",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:131:158>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:131:158>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:131:158>"
         },
         {
           "key": "data2620",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:131:158>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:131:158>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴迦蛇><(x黑暗森林:0:0:狂暴迦蛇)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:131:158>"
         },
         {
           "key": "data2640",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:189:120>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:堕落兽王><(x黑暗教堂:0:0:堕落兽王)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:189:120>"
         },
         {
           "key": "data2650",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:117:48>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:117:48>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅战士><(x埋骨之地:0:0:暗黑骷髅战士)><(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:117:48>"
         },
         {
           "key": "data2710",
