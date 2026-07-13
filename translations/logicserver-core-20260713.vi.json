@@ -61496,121 +61496,121 @@
           "key": "n1883",
           "occurrence": 1,
           "source": "魔法恢复符文",
-          "target": "魔法恢复符文"
+          "target": "Phù Văn Hồi MP"
         },
         {
           "key": "i1883",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1884",
           "occurrence": 1,
           "source": "毒物恢复符文",
-          "target": "毒物恢复符文"
+          "target": "Phù Văn Hồi Độc"
         },
         {
           "key": "i1884",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1885",
           "occurrence": 1,
           "source": "神圣符文",
-          "target": "神圣符文"
+          "target": "Phù Văn Thần Thánh"
         },
         {
           "key": "i1885",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1886",
           "occurrence": 1,
           "source": "攻击速度符文",
-          "target": "攻击速度符文"
+          "target": "Phù Văn Tốc Độ Công Kích"
         },
         {
           "key": "i1886",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1887",
           "occurrence": 1,
           "source": "烈火狂刀符文",
-          "target": "烈火狂刀符文"
+          "target": "Phù Văn Cuồng Đao Liệt Hỏa"
         },
         {
           "key": "i1887",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1888",
           "occurrence": 1,
           "source": "伤害符文",
-          "target": "伤害符文"
+          "target": "Phù Văn Sát Thương"
         },
         {
           "key": "i1888",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1889",
           "occurrence": 1,
           "source": "免伤符文",
-          "target": "免伤符文"
+          "target": "Phù Văn Giảm Sát Thương"
         },
         {
           "key": "i1889",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1890",
           "occurrence": 1,
           "source": "冲锋击退符文",
-          "target": "冲锋击退符文"
+          "target": "Phù Văn Xung Phong Đẩy Lùi"
         },
         {
           "key": "i1890",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1891",
           "occurrence": 1,
           "source": "战士必杀技符文",
-          "target": "战士必杀技符文"
+          "target": "Phù Văn Tuyệt Kỹ Chiến Sĩ"
         },
         {
           "key": "i1891",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1892",
           "occurrence": 1,
           "source": "火墙焚烧符文",
-          "target": "火墙焚烧符文"
+          "target": "Phù Văn Thiêu Đốt Tường Lửa"
         },
         {
           "key": "i1892",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng Cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp cùng phẩm chất\\\\Có thể giám định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n1893",
