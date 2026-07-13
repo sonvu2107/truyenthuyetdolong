@@ -62612,43 +62612,43 @@
           "key": "n1976",
           "occurrence": 1,
           "source": "任务礼包",
-          "target": "任务礼包"
+          "target": "Gói Nhiệm Vụ"
         },
         {
           "key": "i1976",
           "occurrence": 1,
           "source": "礼包内会有相关道具（任务系统）",
-          "target": "礼包内会有相关道具（任务系统）"
+          "target": "Gói có đạo cụ liên quan (Hệ Thống Nhiệm Vụ)"
         },
         {
           "key": "n1977",
           "occurrence": 1,
           "source": "日常礼包",
-          "target": "日常礼包"
+          "target": "Gói Hằng Ngày"
         },
         {
           "key": "i1977",
           "occurrence": 1,
           "source": "礼包内会有相关道具（任务系统）",
-          "target": "礼包内会有相关道具（任务系统）"
+          "target": "Gói có đạo cụ liên quan (Hệ Thống Nhiệm Vụ)"
         },
         {
           "key": "n1978",
           "occurrence": 1,
           "source": "大表情卡",
-          "target": "大表情卡"
+          "target": "Thẻ Biểu Cảm Lớn"
         },
         {
           "key": "i1978",
           "occurrence": 1,
           "source": "使用后获得10次大表情使用权",
-          "target": "使用后获得10次大表情使用权"
+          "target": "Dùng để nhận 10 lượt sử dụng Biểu Cảm Lớn"
         },
         {
           "key": "n1979",
           "occurrence": 1,
           "source": "新手卡",
-          "target": "新手卡"
+          "target": "Thẻ Tân Thủ"
         },
         {
           "key": "i1979",
@@ -62660,7 +62660,7 @@
           "key": "n1980",
           "occurrence": 1,
           "source": "行会卡",
-          "target": "行会卡"
+          "target": "Thẻ Bang Hội"
         },
         {
           "key": "i1980",
@@ -62672,115 +62672,115 @@
           "key": "n1981",
           "occurrence": 1,
           "source": "分享礼包(废弃)",
-          "target": "分享礼包(废弃)"
+          "target": "Gói Chia Sẻ (Đã bỏ)"
         },
         {
           "key": "i1981",
           "occurrence": 1,
           "source": "礼包内会有相关道具（任务系统）",
-          "target": "礼包内会有相关道具（任务系统）"
+          "target": "Gói có đạo cụ liên quan (Hệ Thống Nhiệm Vụ)"
         },
         {
           "key": "n1982",
           "occurrence": 1,
           "source": "沉甸甸的大金砖",
-          "target": "沉甸甸的大金砖"
+          "target": "Thỏi Vàng To Nặng Trĩu"
         },
         {
           "key": "i1982",
           "occurrence": 1,
           "source": "背包金砖功能、使用后可获得一定的金币、欢乐豆",
-          "target": "背包金砖功能、使用后可获得一定的金币、欢乐豆"
+          "target": "Chức năng thỏi vàng trong túi đồ, dùng để nhận một lượng Vàng và Đậu Vui Vẻ"
         },
         {
           "key": "n1983",
           "occurrence": 1,
           "source": "有点沉的大金砖",
-          "target": "有点沉的大金砖"
+          "target": "Thỏi Vàng To Hơi Nặng"
         },
         {
           "key": "i1983",
           "occurrence": 1,
           "source": "背包金砖功能、使用后可获得一定的金币、欢乐豆",
-          "target": "背包金砖功能、使用后可获得一定的金币、欢乐豆"
+          "target": "Chức năng thỏi vàng trong túi đồ, dùng để nhận một lượng Vàng và Đậu Vui Vẻ"
         },
         {
           "key": "n1984",
           "occurrence": 1,
           "source": "一般重的大金砖",
-          "target": "一般重的大金砖"
+          "target": "Thỏi Vàng To Bình Thường"
         },
         {
           "key": "i1984",
           "occurrence": 1,
           "source": "背包金砖功能、使用后可获得一定的金币、欢乐豆",
-          "target": "背包金砖功能、使用后可获得一定的金币、欢乐豆"
+          "target": "Chức năng thỏi vàng trong túi đồ, dùng để nhận một lượng Vàng và Đậu Vui Vẻ"
         },
         {
           "key": "n1985",
           "occurrence": 1,
           "source": "用了一半的大金砖",
-          "target": "用了一半的大金砖"
+          "target": "Thỏi Vàng To Đã Dùng Một Nửa"
         },
         {
           "key": "i1985",
           "occurrence": 1,
           "source": "背包金砖功能、使用后可获得一定的金币、欢乐豆",
-          "target": "背包金砖功能、使用后可获得一定的金币、欢乐豆"
+          "target": "Chức năng thỏi vàng trong túi đồ, dùng để nhận một lượng Vàng và Đậu Vui Vẻ"
         },
         {
           "key": "n1986",
           "occurrence": 1,
           "source": "所剩无几的大金砖",
-          "target": "所剩无几的大金砖"
+          "target": "Thỏi Vàng To Còn Rất Ít"
         },
         {
           "key": "i1986",
           "occurrence": 1,
           "source": "背包金砖功能、使用后可获得一定的金币、欢乐豆",
-          "target": "背包金砖功能、使用后可获得一定的金币、欢乐豆"
+          "target": "Chức năng thỏi vàng trong túi đồ, dùng để nhận một lượng Vàng và Đậu Vui Vẻ"
         },
         {
           "key": "n1987",
           "occurrence": 1,
           "source": "再充礼包(不用的)",
-          "target": "再充礼包(不用的)"
+          "target": "Gói Nạp Lần 2 (Không dùng)"
         },
         {
           "key": "i1987",
           "occurrence": 1,
           "source": "再充、三充、豪充功能",
-          "target": "再充、三充、豪充功能"
+          "target": "Tính năng Nạp Lần 2, Lần 3, Nạp Đại Gia"
         },
         {
           "key": "n1988",
           "occurrence": 1,
           "source": "三充礼包(不用的)",
-          "target": "三充礼包(不用的)"
+          "target": "Gói Nạp Lần 3 (Không dùng)"
         },
         {
           "key": "i1988",
           "occurrence": 1,
           "source": "再充、三充、豪充功能",
-          "target": "再充、三充、豪充功能"
+          "target": "Tính năng Nạp Lần 2, Lần 3, Nạp Đại Gia"
         },
         {
           "key": "n1989",
           "occurrence": 1,
           "source": "豪充礼包(不用的)",
-          "target": "豪充礼包(不用的)"
+          "target": "Gói Nạp Đại Gia (Không dùng)"
         },
         {
           "key": "i1989",
           "occurrence": 1,
           "source": "再充、三充、豪充功能",
-          "target": "再充、三充、豪充功能"
+          "target": "Tính năng Nạp Lần 2, Lần 3, Nạp Đại Gia"
         },
         {
           "key": "n1990",
           "occurrence": 1,
           "source": "祝福笺(废弃)",
-          "target": "祝福笺(废弃)"
+          "target": "Thiệp Chúc Phúc (Đã bỏ)"
         },
         {
           "key": "i1990",
@@ -62792,61 +62792,61 @@
           "key": "n1991",
           "occurrence": 1,
           "source": "连击勋章",
-          "target": "连击勋章"
+          "target": "Huy Chương Liên Kích"
         },
         {
           "key": "i1991",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,所有伤害增加10%",
-          "target": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,所有伤害增加10%"
+          "target": "<(c0x00d57140)Huy Chương cực kỳ hiếm trong game>\\\\Trang bị để tăng 10% toàn bộ sát thương"
         },
         {
           "key": "n1992",
           "occurrence": 1,
           "source": "圣光勋章",
-          "target": "圣光勋章"
+          "target": "Huy Chương Thánh Quang"
         },
         {
           "key": "i1992",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,魔法命中增加10%",
-          "target": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,魔法命中增加10%"
+          "target": "<(c0x00d57140)Huy Chương cực kỳ hiếm trong game>\\\\Trang bị để tăng 10% Chính Xác Ma Pháp"
         },
         {
           "key": "n1993",
           "occurrence": 1,
           "source": "幸运勋章",
-          "target": "幸运勋章"
+          "target": "Huy Chương May Mắn"
         },
         {
           "key": "i1993",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,幸运永久值+2",
-          "target": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,幸运永久值+2"
+          "target": "<(c0x00d57140)Huy Chương cực kỳ hiếm trong game>\\\\Trang bị để tăng vĩnh viễn May Mắn +2"
         },
         {
           "key": "n1994",
           "occurrence": 1,
           "source": "暴击勋章",
-          "target": "暴击勋章"
+          "target": "Huy Chương Bạo Kích"
         },
         {
           "key": "i1994",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,增加暴击",
-          "target": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,增加暴击"
+          "target": "<(c0x00d57140)Huy Chương cực kỳ hiếm trong game>\\\\Trang bị để tăng Bạo Kích"
         },
         {
           "key": "n1995",
           "occurrence": 1,
           "source": "噬火勋章",
-          "target": "噬火勋章"
+          "target": "Huy Chương Nuốt Lửa"
         },
         {
           "key": "i1995",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,抗火率增加",
-          "target": "<(c0x00d57140)游戏内极为珍稀的勋章>\\\\穿戴后,抗火率增加"
+          "target": "<(c0x00d57140)Huy Chương cực kỳ hiếm trong game>\\\\Trang bị để tăng tỷ lệ kháng Lửa"
         },
         {
           "key": "n1996",
