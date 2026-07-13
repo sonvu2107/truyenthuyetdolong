@@ -62156,61 +62156,61 @@
           "key": "n1938",
           "occurrence": 1,
           "source": "日常首充礼包",
-          "target": "日常首充礼包"
+          "target": "Gói Nạp Lần Đầu Hằng Ngày"
         },
         {
           "key": "i1938",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x2\\\\天神精华x1\\\\魔钻灵石x2\\\\5000000绑定金币x2",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x2\\\\天神精华x1\\\\魔钻灵石x2\\\\5000000绑定金币x2"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Tinh Thạch Thần Hồn ×2\\\\Tinh Hoa Thiên Thần ×1\\\\Linh Thạch Ma Toản ×2\\\\5000K Vàng khóa ×2"
         },
         {
           "key": "n1939",
           "occurrence": 1,
           "source": "日常再充礼包",
-          "target": "日常再充礼包"
+          "target": "Gói Nạp Lần 2 Hằng Ngày"
         },
         {
           "key": "i1939",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x5\\\\1级神装增强精华x2\\\\10000点神魂卷x2\\\\10000点星魂卡x1\\\\鉴定锁x5",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x5\\\\1级神装增强精华x2\\\\10000点神魂卷x2\\\\10000点星魂卡x1\\\\鉴定锁x5"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Tinh Thạch Thần Hồn ×5\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 ×2\\\\Cuộn Thần Hồn 10000 Điểm ×2\\\\Thẻ Tinh Hồn 10000 Điểm ×1\\\\Khóa Giám Định ×5"
         },
         {
           "key": "n1940",
           "occurrence": 1,
           "source": "日常三充礼包",
-          "target": "日常三充礼包"
+          "target": "Gói Nạp Lần 3 Hằng Ngày"
         },
         {
           "key": "i1940",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x10\\\\1级神装增强精华x5\\\\10000点神魂卷x3\\\\10000点星魂卡x2\\\\清洗神砂x5",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x10\\\\1级神装增强精华x5\\\\10000点神魂卷x3\\\\10000点星魂卡x2\\\\清洗神砂x5"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Tinh Thạch Thần Hồn ×10\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 ×5\\\\Cuộn Thần Hồn 10000 Điểm ×3\\\\Thẻ Tinh Hồn 10000 Điểm ×2\\\\Thần Sa Tẩy Luyện ×5"
         },
         {
           "key": "n1941",
           "occurrence": 1,
           "source": "日常豪充礼包",
-          "target": "日常豪充礼包"
+          "target": "Gói Nạp Đại Gia Hằng Ngày"
         },
         {
           "key": "i1941",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\天神精华x10\\\\1级神装增强精华x10\\\\符文精炼石x20\\\\10000点星魂卡x5\\\\佣兵突破石x5",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\天神精华x10\\\\1级神装增强精华x10\\\\符文精炼石x20\\\\10000点星魂卡x5\\\\佣兵突破石x5"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Tinh Hoa Thiên Thần ×10\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 ×10\\\\Đá Tinh Luyện Phù Văn ×20\\\\Thẻ Tinh Hồn 10000 Điểm ×5\\\\Đá Đột Phá Lính Đánh Thuê ×5"
         },
         {
           "key": "n1942",
           "occurrence": 1,
           "source": "日常充值大礼包",
-          "target": "日常充值大礼包"
+          "target": "Gói Nạp Lớn Hằng Ngày"
         },
         {
           "key": "i1942",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\天神精华x20\\\\符文精炼石x30\\\\1级神装增强精华x20\\\\10000点星魂卡x5\\\\龙魂之玉x3",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\天神精华x20\\\\符文精炼石x30\\\\1级神装增强精华x20\\\\10000点星魂卡x5\\\\龙魂之玉x3"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Tinh Hoa Thiên Thần ×20\\\\Đá Tinh Luyện Phù Văn ×30\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 ×20\\\\Thẻ Tinh Hồn 10000 Điểm ×5\\\\Ngọc Long Hồn ×3"
         },
         {
           "key": "n1943",
