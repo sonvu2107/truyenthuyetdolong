@@ -55352,19 +55352,19 @@
           "key": "n1371",
           "occurrence": 1,
           "source": "黄金礼票",
-          "target": "黄金礼票"
+          "target": "Vé Quà Vàng"
         },
         {
           "key": "i1371",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)100欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)100欢乐豆>"
+          "target": "Nhấp đúp mở để nhận <(c0xFF00FFFF)100 Đậu Vui Vẻ>"
         },
         {
           "key": "n1372",
           "occurrence": 1,
           "source": "云鬃战马灵魄【3天】(废弃)",
-          "target": "云鬃战马灵魄【3天】(废弃)"
+          "target": "Linh Phách Chiến Mã Vân Tông [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1372",
@@ -55376,7 +55376,7 @@
           "key": "n1373",
           "occurrence": 1,
           "source": "紫电绝影灵魄【3天】(废弃)",
-          "target": "紫电绝影灵魄【3天】(废弃)"
+          "target": "Linh Phách Tử Điện Tuyệt Ảnh [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1373",
@@ -55388,7 +55388,7 @@
           "key": "n1374",
           "occurrence": 1,
           "source": "火曜铁骑灵魄【3天】(废弃)",
-          "target": "火曜铁骑灵魄【3天】(废弃)"
+          "target": "Linh Phách Thiết Kỵ Hỏa Diệu [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1374",
@@ -55400,7 +55400,7 @@
           "key": "n1375",
           "occurrence": 1,
           "source": "幽冥鬼骑灵魄【3天】(废弃)",
-          "target": "幽冥鬼骑灵魄【3天】(废弃)"
+          "target": "Linh Phách Quỷ Kỵ U Minh [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1375",
@@ -55412,7 +55412,7 @@
           "key": "n1376",
           "occurrence": 1,
           "source": "冰原战熊灵魄【3天】(废弃)",
-          "target": "冰原战熊灵魄【3天】(废弃)"
+          "target": "Linh Phách Chiến Hùng Băng Nguyên [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1376",
@@ -55424,7 +55424,7 @@
           "key": "n1377",
           "occurrence": 1,
           "source": "圣魔麒麟灵魄【3天】(废弃)",
-          "target": "圣魔麒麟灵魄【3天】(废弃)"
+          "target": "Linh Phách Kỳ Lân Thánh Ma [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1377",
@@ -55436,7 +55436,7 @@
           "key": "n1378",
           "occurrence": 1,
           "source": "云鬃战马碎片(废弃)",
-          "target": "云鬃战马碎片(废弃)"
+          "target": "Mảnh Chiến Mã Vân Tông (Bỏ)"
         },
         {
           "key": "i1378",
@@ -55448,7 +55448,7 @@
           "key": "n1379",
           "occurrence": 1,
           "source": "紫电绝影碎片(废弃)",
-          "target": "紫电绝影碎片(废弃)"
+          "target": "Mảnh Tử Điện Tuyệt Ảnh (Bỏ)"
         },
         {
           "key": "i1379",
@@ -55460,7 +55460,7 @@
           "key": "n1380",
           "occurrence": 1,
           "source": "火曜铁骑碎片(废弃)",
-          "target": "火曜铁骑碎片(废弃)"
+          "target": "Mảnh Thiết Kỵ Hỏa Diệu (Bỏ)"
         },
         {
           "key": "i1380",
@@ -55472,7 +55472,7 @@
           "key": "n1381",
           "occurrence": 1,
           "source": "幽冥鬼骑碎片(废弃)",
-          "target": "幽冥鬼骑碎片(废弃)"
+          "target": "Mảnh Quỷ Kỵ U Minh (Bỏ)"
         },
         {
           "key": "i1381",
@@ -55484,7 +55484,7 @@
           "key": "n1382",
           "occurrence": 1,
           "source": "冰原战熊碎片(废弃)",
-          "target": "冰原战熊碎片(废弃)"
+          "target": "Mảnh Chiến Hùng Băng Nguyên (Bỏ)"
         },
         {
           "key": "i1382",
@@ -55496,7 +55496,7 @@
           "key": "n1383",
           "occurrence": 1,
           "source": "圣魔麒麟碎片(废弃)",
-          "target": "圣魔麒麟碎片(废弃)"
+          "target": "Mảnh Kỳ Lân Thánh Ma (Bỏ)"
         },
         {
           "key": "i1383",
@@ -55508,7 +55508,7 @@
           "key": "n1384",
           "occurrence": 1,
           "source": "冬暮麋鹿灵魄【3天】(废弃)",
-          "target": "冬暮麋鹿灵魄【3天】(废弃)"
+          "target": "Linh Phách Hươu Đông Mộ [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1384",
@@ -55520,7 +55520,7 @@
           "key": "n1385",
           "occurrence": 1,
           "source": "冬暮麋鹿灵魄【10天】(废弃)",
-          "target": "冬暮麋鹿灵魄【10天】(废弃)"
+          "target": "Linh Phách Hươu Đông Mộ [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1385",
@@ -55532,7 +55532,7 @@
           "key": "n1386",
           "occurrence": 1,
           "source": "冬暮麋鹿碎片(废弃)",
-          "target": "冬暮麋鹿碎片(废弃)"
+          "target": "Mảnh Hươu Đông Mộ (Bỏ)"
         },
         {
           "key": "i1386",
@@ -55544,7 +55544,7 @@
           "key": "n1387",
           "occurrence": 1,
           "source": "至尊金龙灵魄【3天】(废弃)",
-          "target": "至尊金龙灵魄【3天】(废弃)"
+          "target": "Linh Phách Kim Long Chí Tôn [3 Ngày] (Bỏ)"
         },
         {
           "key": "i1387",
@@ -55556,7 +55556,7 @@
           "key": "n1388",
           "occurrence": 1,
           "source": "至尊金龙灵魄【10天】(废弃)",
-          "target": "至尊金龙灵魄【10天】(废弃)"
+          "target": "Linh Phách Kim Long Chí Tôn [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1388",
@@ -55568,7 +55568,7 @@
           "key": "n1389",
           "occurrence": 1,
           "source": "至尊金龙碎片(废弃)",
-          "target": "至尊金龙碎片(废弃)"
+          "target": "Mảnh Kim Long Chí Tôn (Bỏ)"
         },
         {
           "key": "i1389",
