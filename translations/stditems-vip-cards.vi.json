@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "file": "stditems.cbp",
+  "description": "Sửa đúng tên và mô tả ba Thẻ VIP bị gán nhầm sang trang bị Nguyên Anh.",
+  "translations": {
+    "309.desc": {
+      "source": "双击使用\\立即享受<(c0xFF00FFFF)180天>的<(c0xFFFFFF00)至尊会员>豪华待遇.\\<(c0xFFFFFF00)打开VIP界面查看至尊会员特权>\\可立即学会所有技能并提升到3级\\可进专属副本获得神装材料\\增加2页符文背包\\至尊VIP身份的象征\\每天可以额外使用50次经验丹",
+      "target": "Nhấp đúp để dùng\\Nhận ngay <(c0xFF00FFFF)180 ngày> <(c0xFFFFFF00)VIP Chí Tôn>.\\Mở giao diện VIP để xem đặc quyền.\\Tự học toàn bộ kỹ năng và tăng lên cấp 3.\\Được vào phó bản riêng để săn nguyên liệu thần trang.\\Mở thêm 2 trang kho phù văn.\\Mỗi ngày dùng thêm 50 Đan Kinh Nghiệm."
+    },
+    "309.name": {
+      "source": "Nguyên Anh Yêu Đái",
+      "target": "Thẻ VIP Chí Tôn"
+    },
+    "310.desc": {
+      "source": "双击使用\\立即享受<(c0xFF00FFFF)30天>的<(c0xFFFFFF00)黄金会员>豪华待遇.\\<(c0xFFFFFF00)打开VIP界面查看黄金会员特权>\\增加1页符文背包\\每天可以额外使用30次经验丹",
+      "target": "Nhấp đúp để dùng\\Nhận ngay <(c0xFF00FFFF)30 ngày> <(c0xFFFFFF00)VIP Vàng>.\\Mở giao diện VIP để xem đặc quyền.\\Mở thêm 1 trang kho phù văn.\\Mỗi ngày dùng thêm 30 Đan Kinh Nghiệm."
+    },
+    "310.name": {
+      "source": "Nguyên Anh Trường Ngoa",
+      "target": "Thẻ VIP Vàng"
+    },
+    "311.desc": {
+      "source": "双击使用\\立即享受<(c0xFF00FFFF)10天>的<(c0xFFFFFF00)白银会员>豪华待遇.\\<(c0xFFFFFF00)打开VIP界面查看白银会员特权>\\每天可以额外使用10次经验丹",
+      "target": "Nhấp đúp để dùng\\Nhận ngay <(c0xFF00FFFF)10 ngày> <(c0xFFFFFF00)VIP Bạc>.\\Mở giao diện VIP để xem đặc quyền.\\Mỗi ngày dùng thêm 10 Đan Kinh Nghiệm."
+    },
+    "311.name": {
+      "source": "Nguyên Anh Bảo Thạch",
+      "target": "Thẻ VIP Bạc"
+    }
+  }
+}

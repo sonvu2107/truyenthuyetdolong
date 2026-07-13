@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "file": "vipConfig.cbp",
+  "description": "Việt hóa tiêu đề và mô tả các đặc quyền VIP trong vipConfig.cbp.",
+  "translations": {
+    "superVIP.0.privilege.0.desc": {
+      "source": "<(c0xFFFFFF00)每天享有超级VIP1的福利>",
+      "target": "<(c0xFFFFFF00)Mỗi ngày nhận phúc lợi Siêu VIP 1>"
+    },
+    "superVIP.0.privilege.2.desc": {
+      "source": "每天<(c0xFF00FFFF)pragam>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>",
+      "target": "Mỗi ngày có <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)giảm tỉ lệ rơi trang bị khi tử vong>"
+    },
+    "superVIP.0.privilege.3.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.0.privilege.4.desc": {
+      "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级",
+      "target": "<(c0xFFFFFF00)Tự học kỹ năng nghề> không cần bí kíp và tăng thẳng lên <(c0xFF00FFFF)cấp 3>"
+    },
+    "superVIP.0.privilege.5.desc": {
+      "source": "<(c0xFF00FF00)竞技场免费清除挑战冷却时间>",
+      "target": "<(c0xFF00FF00)Miễn phí xóa hồi chiêu khiêu chiến đấu trường>"
+    },
+    "superVIP.0.privilege.6.desc": {
+      "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)pragam>个",
+      "target": "Tặng thêm <(c0xFF00FFFF)pragam> ô <(c0xFF00FFFF)kho>"
+    },
+    "superVIP.0.privilege.7.desc": {
+      "source": "<(c0xFF00FF00)会员一键维修特权>",
+      "target": "<(c0xFF00FF00)Đặc quyền sửa chữa nhanh>"
+    },
+    "superVIP.0.privilege.8.desc": {
+      "source": "<(c0xFF00FF00)社交系统的追踪功能可输入指定名字>",
+      "target": "<(c0xFF00FF00)Theo dõi người chơi theo tên trong hệ thống xã hội>"
+    },
+    "superVIP.0.privilege.9.desc": {
+      "source": "装备的<(c0xFF00FFFF)修理费用>减少<(c0xFF00FFFF)pragam%>",
+      "target": "Giảm <(c0xFF00FFFF)phí sửa trang bị> <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.0.privilege.10.desc": {
+      "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)kinh nghiệm diệt quái ngoài thành> thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.0.privilege.11.desc": {
+      "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)pragam>次",
+      "target": "Tăng thêm <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)hộ tống mỹ nhân> mỗi ngày"
+    },
+    "superVIP.0.privilege.12.desc": {
+      "source": "每天可以<(c0xFF00FFFF)无限>次使用远程仓库",
+      "target": "Được dùng kho từ xa <(c0xFF00FFFF)không giới hạn> mỗi ngày"
+    },
+    "superVIP.0.privilege.14.desc": {
+      "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为绿色>",
+      "target": "<(c0xFF00FF00)Hiện chữ VIP màu lục trước tên nhân vật>"
+    },
+    "superVIP.1.privilege.0.desc": {
+      "source": "<(c0xFFFFFF00)每天享有超级VIP2的福利>",
+      "target": "<(c0xFFFFFF00)Mỗi ngày nhận phúc lợi Siêu VIP 2>"
+    },
+    "superVIP.1.privilege.2.desc": {
+      "source": "每天<(c0xFF00FFFF)pragam>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>",
+      "target": "Mỗi ngày có <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)giảm tỉ lệ rơi trang bị khi tử vong>"
+    },
+    "superVIP.1.privilege.3.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.1.privilege.4.desc": {
+      "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级",
+      "target": "<(c0xFFFFFF00)Tự học kỹ năng nghề> không cần bí kíp và tăng thẳng lên <(c0xFF00FFFF)cấp 3>"
+    },
+    "superVIP.1.privilege.5.desc": {
+      "source": "<(c0xFF00FF00)竞技场免费清除挑战冷却时间>",
+      "target": "<(c0xFF00FF00)Miễn phí xóa hồi chiêu khiêu chiến đấu trường>"
+    },
+    "superVIP.1.privilege.6.desc": {
+      "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)pragam>个",
+      "target": "Tặng thêm <(c0xFF00FFFF)pragam> ô <(c0xFF00FFFF)kho>"
+    },
+    "superVIP.1.privilege.7.desc": {
+      "source": "<(c0xFF00FF00)会员一键维修特权>",
+      "target": "<(c0xFF00FF00)Đặc quyền sửa chữa nhanh>"
+    },
+    "superVIP.1.privilege.8.desc": {
+      "source": "<(c0xFF00FF00)寻找好友、仇人所在特权>",
+      "target": "<(c0xFF00FF00)Tìm vị trí bạn bè hoặc kẻ thù>"
+    },
+    "superVIP.1.privilege.9.desc": {
+      "source": "装备的<(c0xFF00FFFF)修理费用>减少<(c0xFF00FFFF)pragam%>",
+      "target": "Giảm <(c0xFF00FFFF)phí sửa trang bị> <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.1.privilege.10.desc": {
+      "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)kinh nghiệm diệt quái ngoài thành> thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.1.privilege.11.desc": {
+      "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)pragam>次",
+      "target": "Tăng thêm <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)hộ tống mỹ nhân> mỗi ngày"
+    },
+    "superVIP.1.privilege.12.desc": {
+      "source": "每天可以<(c0xFF00FFFF)无限>次使用远程仓库",
+      "target": "Được dùng kho từ xa <(c0xFF00FFFF)không giới hạn> mỗi ngày"
+    },
+    "superVIP.1.privilege.14.desc": {
+      "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为蓝色>",
+      "target": "<(c0xFF00FF00)Hiện chữ VIP màu lam trước tên nhân vật>"
+    },
+    "superVIP.2.privilege.0.desc": {
+      "source": "<(c0xFFFFFF00)每天享有超级VIP3的福利>",
+      "target": "<(c0xFFFFFF00)Mỗi ngày nhận phúc lợi Siêu VIP 3>"
+    },
+    "superVIP.2.privilege.2.desc": {
+      "source": "每天<(c0xFF00FFFF)pragam>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>",
+      "target": "Mỗi ngày có <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)giảm tỉ lệ rơi trang bị khi tử vong>"
+    },
+    "superVIP.2.privilege.3.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.2.privilege.4.desc": {
+      "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级",
+      "target": "<(c0xFFFFFF00)Tự học kỹ năng nghề> không cần bí kíp và tăng thẳng lên <(c0xFF00FFFF)cấp 3>"
+    },
+    "superVIP.2.privilege.5.desc": {
+      "source": "<(c0xFF00FF00)竞技场免费清除挑战冷却时间>",
+      "target": "<(c0xFF00FF00)Miễn phí xóa hồi chiêu khiêu chiến đấu trường>"
+    },
+    "superVIP.2.privilege.6.desc": {
+      "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)pragam>个",
+      "target": "Tặng thêm <(c0xFF00FFFF)pragam> ô <(c0xFF00FFFF)kho>"
+    },
+    "superVIP.2.privilege.7.desc": {
+      "source": "<(c0xFF00FF00)会员一键维修特权>",
+      "target": "<(c0xFF00FF00)Đặc quyền sửa chữa nhanh>"
+    },
+    "superVIP.2.privilege.8.desc": {
+      "source": "<(c0xFF00FF00)寻找玩家所在功能>",
+      "target": "<(c0xFF00FF00)Tìm vị trí người chơi>"
+    },
+    "superVIP.2.privilege.9.desc": {
+      "source": "装备的<(c0xFF00FFFF)修理费用>减少<(c0xFF00FFFF)pragam%>",
+      "target": "Giảm <(c0xFF00FFFF)phí sửa trang bị> <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.2.privilege.10.desc": {
+      "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)kinh nghiệm diệt quái ngoài thành> thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "superVIP.2.privilege.11.desc": {
+      "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)pragam>次",
+      "target": "Tăng thêm <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)hộ tống mỹ nhân> mỗi ngày"
+    },
+    "superVIP.2.privilege.12.desc": {
+      "source": "每天可以<(c0xFF00FFFF)无限>次使用远程仓库",
+      "target": "Được dùng kho từ xa <(c0xFF00FFFF)không giới hạn> mỗi ngày"
+    },
+    "superVIP.2.privilege.14.desc": {
+      "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为紫色>",
+      "target": "<(c0xFF00FF00)Hiện chữ VIP màu tím trước tên nhân vật>"
+    },
+    "title": {
+      "source": "攻击加成,专属装备,每日小飞鞋,专属礼包,专属副本,额外使用经验丹,装备合成时获得强化,每日礼包,降低掉落装备概率,怪物掉宝增加,自动学习技能,清除竞技场冷却,每天免费领取仓库扩充,一键维修,追踪功能,减少修理费,增加打怪经验,增加护送次数,远程使用仓库,坐骑一键提升功能,免费赠送符文仓库",
+      "target": "Tăng công,Trang bị riêng,Giày bay ngày,Gói quà riêng,Phó bản riêng,Thêm lượt Đan KN,Giữ cấp cường hóa,Quà hằng ngày,Giảm rơi khi chết,Tăng rơi đồ,Tự học kỹ năng,Xóa hồi chiêu,Mở rộng kho,Sửa chữa nhanh,Theo dõi,Giảm phí sửa,Tăng KN diệt quái,Thêm lượt hộ tống,Dùng kho từ xa,Tăng bậc tọa kỵ,Tặng kho phù văn"
+    },
+    "normalVIP.0.0.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.0.7.desc": {
+      "source": "<(c0xFFFFFF00)每天享有白银会员特权礼包>",
+      "target": "<(c0xFFFFFF00)Mỗi ngày nhận gói đặc quyền VIP Bạc>"
+    },
+    "normalVIP.0.8.desc": {
+      "source": "每天<(c0xFF00FFFF)pragam>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>",
+      "target": "Mỗi ngày có <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)giảm tỉ lệ rơi trang bị khi tử vong>"
+    },
+    "normalVIP.0.9.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.0.10.desc": {
+      "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级",
+      "target": "<(c0xFFFFFF00)Tự học kỹ năng nghề> không cần bí kíp và tăng thẳng lên <(c0xFF00FFFF)cấp 3>"
+    },
+    "normalVIP.0.11.desc": {
+      "source": "<(c0xFF00FF00)竞技场免费清除挑战冷却时间>",
+      "target": "<(c0xFF00FF00)Miễn phí xóa hồi chiêu khiêu chiến đấu trường>"
+    },
+    "normalVIP.0.12.desc": {
+      "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)pragam>个",
+      "target": "Tặng thêm <(c0xFF00FFFF)pragam> ô <(c0xFF00FFFF)kho>"
+    },
+    "normalVIP.0.13.desc": {
+      "source": "<(c0xFF00FF00)会员一键维修特权>",
+      "target": "<(c0xFF00FF00)Đặc quyền sửa chữa nhanh>"
+    },
+    "normalVIP.0.14.desc": {
+      "source": "<(c0xFF00FF00)社交系统的追踪功能可输入指定名字>",
+      "target": "<(c0xFF00FF00)Theo dõi người chơi theo tên trong hệ thống xã hội>"
+    },
+    "normalVIP.0.15.desc": {
+      "source": "装备的<(c0xFF00FFFF)修理费用>减少<(c0xFF00FFFF)pragam%>",
+      "target": "Giảm <(c0xFF00FFFF)phí sửa trang bị> <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.0.16.desc": {
+      "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)kinh nghiệm diệt quái ngoài thành> thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.0.17.desc": {
+      "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)pragam>次",
+      "target": "Tăng thêm <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)hộ tống mỹ nhân> mỗi ngày"
+    },
+    "normalVIP.0.18.desc": {
+      "source": "每天可以<(c0xFF00FFFF)无限>次使用远程仓库",
+      "target": "Được dùng kho từ xa <(c0xFF00FFFF)không giới hạn> mỗi ngày"
+    },
+    "normalVIP.0.21.desc": {
+      "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为绿色>",
+      "target": "<(c0xFF00FF00)Hiện chữ VIP màu lục trước tên nhân vật>"
+    },
+    "normalVIP.1.0.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.1.7.desc": {
+      "source": "<(c0xFFFFFF00)每天享有黄金会员特权礼包>",
+      "target": "<(c0xFFFFFF00)Mỗi ngày nhận gói đặc quyền VIP Vàng>"
+    },
+    "normalVIP.1.8.desc": {
+      "source": "每天<(c0xFF00FFFF)pragam>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>",
+      "target": "Mỗi ngày có <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)giảm tỉ lệ rơi trang bị khi tử vong>"
+    },
+    "normalVIP.1.9.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.1.10.desc": {
+      "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级",
+      "target": "<(c0xFFFFFF00)Tự học kỹ năng nghề> không cần bí kíp và tăng thẳng lên <(c0xFF00FFFF)cấp 3>"
+    },
+    "normalVIP.1.11.desc": {
+      "source": "<(c0xFF00FF00)竞技场免费清除挑战冷却时间>",
+      "target": "<(c0xFF00FF00)Miễn phí xóa hồi chiêu khiêu chiến đấu trường>"
+    },
+    "normalVIP.1.12.desc": {
+      "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)pragam>个",
+      "target": "Tặng thêm <(c0xFF00FFFF)pragam> ô <(c0xFF00FFFF)kho>"
+    },
+    "normalVIP.1.13.desc": {
+      "source": "<(c0xFF00FF00)会员一键维修特权>",
+      "target": "<(c0xFF00FF00)Đặc quyền sửa chữa nhanh>"
+    },
+    "normalVIP.1.14.desc": {
+      "source": "<(c0xFF00FF00)寻找好友、仇人所在特权>",
+      "target": "<(c0xFF00FF00)Tìm vị trí bạn bè hoặc kẻ thù>"
+    },
+    "normalVIP.1.15.desc": {
+      "source": "装备的<(c0xFF00FFFF)修理费用>减少<(c0xFF00FFFF)pragam%>",
+      "target": "Giảm <(c0xFF00FFFF)phí sửa trang bị> <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.1.16.desc": {
+      "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)kinh nghiệm diệt quái ngoài thành> thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.1.17.desc": {
+      "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)pragam>次",
+      "target": "Tăng thêm <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)hộ tống mỹ nhân> mỗi ngày"
+    },
+    "normalVIP.1.18.desc": {
+      "source": "每天可以<(c0xFF00FFFF)无限>次使用远程仓库",
+      "target": "Được dùng kho từ xa <(c0xFF00FFFF)không giới hạn> mỗi ngày"
+    },
+    "normalVIP.1.21.desc": {
+      "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为蓝色>",
+      "target": "<(c0xFF00FF00)Hiện chữ VIP màu lam trước tên nhân vật>"
+    },
+    "normalVIP.2.0.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.2.7.desc": {
+      "source": "<(c0xFFFFFF00)每天享有至尊会员特权礼包>",
+      "target": "<(c0xFFFFFF00)Mỗi ngày nhận gói đặc quyền VIP Chí Tôn>"
+    },
+    "normalVIP.2.8.desc": {
+      "source": "每天<(c0xFF00FFFF)pragam>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>",
+      "target": "Mỗi ngày có <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)giảm tỉ lệ rơi trang bị khi tử vong>"
+    },
+    "normalVIP.2.9.desc": {
+      "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)tỉ lệ rơi đồ> từ quái ngoài thành thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.2.10.desc": {
+      "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级",
+      "target": "<(c0xFFFFFF00)Tự học kỹ năng nghề> không cần bí kíp và tăng thẳng lên <(c0xFF00FFFF)cấp 3>"
+    },
+    "normalVIP.2.11.desc": {
+      "source": "<(c0xFF00FF00)竞技场免费清除挑战冷却时间>",
+      "target": "<(c0xFF00FF00)Miễn phí xóa hồi chiêu khiêu chiến đấu trường>"
+    },
+    "normalVIP.2.12.desc": {
+      "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)pragam>个",
+      "target": "Tặng thêm <(c0xFF00FFFF)pragam> ô <(c0xFF00FFFF)kho>"
+    },
+    "normalVIP.2.13.desc": {
+      "source": "<(c0xFF00FF00)会员一键维修特权>",
+      "target": "<(c0xFF00FF00)Đặc quyền sửa chữa nhanh>"
+    },
+    "normalVIP.2.14.desc": {
+      "source": "<(c0xFF00FF00)寻找玩家所在功能>",
+      "target": "<(c0xFF00FF00)Tìm vị trí người chơi>"
+    },
+    "normalVIP.2.15.desc": {
+      "source": "装备的<(c0xFF00FFFF)修理费用>减少<(c0xFF00FFFF)pragam%>",
+      "target": "Giảm <(c0xFF00FFFF)phí sửa trang bị> <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.2.16.desc": {
+      "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)pragam%>",
+      "target": "Tăng <(c0xFF00FFFF)kinh nghiệm diệt quái ngoài thành> thêm <(c0xFF00FFFF)pragam%>"
+    },
+    "normalVIP.2.17.desc": {
+      "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)pragam>次",
+      "target": "Tăng thêm <(c0xFF00FFFF)pragam> lượt <(c0xFF00FFFF)hộ tống mỹ nhân> mỗi ngày"
+    },
+    "normalVIP.2.18.desc": {
+      "source": "每天可以<(c0xFF00FFFF)无限>次使用远程仓库",
+      "target": "Được dùng kho từ xa <(c0xFF00FFFF)không giới hạn> mỗi ngày"
+    },
+    "normalVIP.2.21.desc": {
+      "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为紫色>",
+      "target": "<(c0xFF00FF00)Hiện chữ VIP màu tím trước tên nhân vật>"
+    }
+  }
+}

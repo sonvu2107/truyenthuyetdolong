@@ -1,5 +1,5 @@
 {
-  "version": "20260714copyedit1",
+  "version": "20260714questvip1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "4AAEBECFB589431E68C4ECEB7C8BAD6755270D22B77BFFB7EE1E7D24B2B1A7F9"
+      "sha256": "0575ADBC07A5FF73C416CB24D3B32AA24F92B9FD48B7E3BC0A1389DA41D46A4C"
     },
     {
       "source": "assets/ClientLang.txt",
@@ -34,7 +34,7 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "056E2CCA29CF95045A2E7560B10FCEEF666DE22669000099AD1AF42A61118BF9"
+      "sha256": "4B05DAB5F19EEE3683C71876509FD382FC77D8B389EFF035DB738022A9FCAE64"
     },
     {
       "source": "assets/game/GameConfig.php",

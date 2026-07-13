@@ -1,0 +1,442 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Biên tập lại toàn bộ câu chữ chính trong cửa sổ VIP; giữ nguyên placeholder và markup.",
+  "overrides": {
+    "vip[44]": {
+      "source": "<font color = '#00FF00' size='20'>Trình độ VIP hiện tại của bạn:</font>",
+      "target": "<font color = '#00FF00' size='20'>Cấp VIP hiện tại:</font>",
+      "category": "vip"
+    },
+    "vip[45]": {
+      "source": "<font color = '#00FF00' size='20'> tích lũy Nạp Thẻ$num$Nguyên Bảo và ngay lập tức trở thành $type$</font>",
+      "target": "<font color = '#00FF00' size='20'>Tích lũy nạp $num$ Nguyên Bảo để trở thành $type$ ngay.</font>",
+      "category": "vip"
+    },
+    "vip[46]": {
+      "source": "<font color = '#00FF00'> và sau đó là Nạp Thẻ$num$Nguyên Bảo có thể trở thành $type$ và tận hưởng thuộc tính độc quyền </font>",
+      "target": "<font color = '#00FF00'>Nạp thêm $num$ Nguyên Bảo để trở thành $type$ và nhận thuộc tính độc quyền.</font>",
+      "category": "vip"
+    },
+    "vip[47]": {
+      "source": "Sử dụng $item$ trong Hành Trang để tăng thời gian VIP.",
+      "target": "Dùng $item$ trong hành trang để gia hạn VIP.",
+      "category": "vip"
+    },
+    "vip[48]": {
+      "source": "Chi tiêu $money$Nguyên Bảo, mua và sử dụng $item$, đồng thời tăng thời gian VIP.",
+      "target": "Dùng $money$ Nguyên Bảo để mua và sử dụng $item$, đồng thời gia hạn VIP.",
+      "category": "vip"
+    },
+    "vip[49]": {
+      "source": "<font color = '#00FF00' size='20'>Bạn hiện là siêu VIP3</font>",
+      "target": "<font color = '#00FF00' size='20'>Bạn đang là Siêu VIP 3.</font>",
+      "category": "vip"
+    },
+    "vip[50]": {
+      "source": "<font color = '#00FF00'>Xin chúc mừng, bạn đã được hưởng những đặc quyền siêu VIP3! </font>",
+      "target": "<font color = '#00FF00'>Chúc mừng! Bạn đang được hưởng đặc quyền Siêu VIP 3.</font>",
+      "category": "vip"
+    },
+    "vip[51]": {
+      "source": "VIP cực nhanh dọn sạch tên đỏ",
+      "target": "Siêu VIP xóa điểm PK nhanh",
+      "category": "vip"
+    },
+    "vip[52]": {
+      "source": "<font color='#cebc70' size='20'><b> Bạn chưa là VIP, hãy mua ngay VIP để được hưởng đặc quyền VIP </b></font>",
+      "target": "<font color='#cebc70' size='17'><b>Bạn chưa có VIP. Hãy mua VIP để mở khóa các đặc quyền.</b></font>",
+      "category": "vip"
+    },
+    "vip[53]": {
+      "source": "<font color='#cebc70' size='20'><b> Bạn đã là $type$ và có thể tận hưởng nhiều đặc quyền VIP </b></font>",
+      "target": "<font color='#cebc70' size='18'><b>Bạn đang là $type$. Hãy tận hưởng các đặc quyền VIP!</b></font>",
+      "category": "vip"
+    },
+    "vip[54]": {
+      "source": "<font color='#cebc70' size='18'><b>Bạn đã là siêu VIP$num$, hãy tận hưởng 5 đặc quyền siêu VIP</b></font>",
+      "target": "<font color='#cebc70' size='17'><b>Bạn đang là Siêu VIP $num$ và được hưởng 5 đặc quyền riêng.</b></font>",
+      "category": "vip"
+    },
+    "vip[56]": {
+      "source": "Ngay lập tứcNạp Thẻ",
+      "target": "Nạp ngay",
+      "category": "vip"
+    },
+    "vip[57]": {
+      "source": "làm sạch tên đỏ",
+      "target": "Xóa điểm PK",
+      "category": "vip"
+    },
+    "vip[59]": {
+      "source": "VIP bạc, VIP vàng, VIP tối cao",
+      "target": "VIP Bạc,VIP Vàng,VIP Chí Tôn",
+      "category": "vip"
+    },
+    "vip[60]": {
+      "source": "Siêu VIP1, Siêu VIP2, Siêu VIP3",
+      "target": "Siêu VIP 1,Siêu VIP 2,Siêu VIP 3",
+      "category": "vip"
+    },
+    "vip[61]": {
+      "source": "So sánh đặc quyền VIP",
+      "target": "So sánh đặc quyền",
+      "category": "vip"
+    },
+    "vip[63]": {
+      "source": "<font color='#cebc70' size='15'>$type$ Thời gian còn lại: $time$ </font>",
+      "target": "<font color='#cebc70' size='15'>$type$ — Còn lại: $time$</font>",
+      "category": "vip"
+    },
+    "vip[64]": {
+      "source": "Tấn Công tiền thưởng, độc quyền Trang Bị,loại trừ Gói Quà,loại trừ Phó Bản, sử dụng bổ sung Kinh Nghiệm Đan,Trang Bị Hợp Thành thu được khi Cường Hóa,hằng ngày Gói Quà, giảm độ rơi Trang Bị xác suất,Quái Vật Tăng số lượng kho báu, học tập tự động Kỹ Năng, Xóa thời gian hồi chiêu của đấu trường, nhận mở rộng kho miễn phí mỗi ngày, sửa chữa bằng một cú nhấp chuột, chức năng theo dõi, giảm chi phí sửa chữa, tăng khả năng tiêu diệt quái vật Kinh Nghiệm, tăng số lượng người hộ tống, sử dụng nhà kho từ xa,Tọa Kỵ Cải thiện chức năng một cú nhấp chuột, quà tặng miễn phí Phù Văn nhà kho",
+      "target": "Tăng công,Trang bị riêng,Giày bay mỗi ngày,Gói quà riêng,Phó bản riêng,Thêm lượt dùng Đan Kinh Nghiệm,Giữ cường hóa khi hợp thành,Quà hằng ngày,Giảm rơi trang bị,Tăng tỉ lệ rơi,Học kỹ năng tự động,Xóa hồi chiêu đấu trường,Mở rộng kho miễn phí,Sửa chữa nhanh,Theo dõi mục tiêu,Giảm phí sửa chữa,Tăng kinh nghiệm diệt quái,Thêm lượt hộ tống,Dùng kho từ xa,Tăng bậc tọa kỵ nhanh,Tặng kho phù văn",
+      "category": "vip"
+    },
+    "vip[65]": {
+      "source": "Nhận Gói Quà",
+      "target": "Nhận quà",
+      "category": "vip"
+    },
+    "vip[67]": {
+      "source": "không giới hạn",
+      "target": "Không giới hạn",
+      "category": "vip"
+    },
+    "vip[68]": {
+      "source": "một",
+      "target": "lần",
+      "category": "vip"
+    },
+    "vip[69]": {
+      "source": "Đặc quyền Gói Quà",
+      "target": "Gói quà riêng",
+      "category": "vip"
+    },
+    "vip[70]": {
+      "source": "đôi cánh đặc quyền",
+      "target": "Cánh đặc quyền",
+      "category": "vip"
+    },
+    "vip[71]": {
+      "source": "<font color='#cebc70' size='15'><b> phần thưởng thuộc tính duy nhất </b></font>",
+      "target": "<font color='#cebc70' size='15'><b>Thưởng thuộc tính độc quyền</b></font>",
+      "category": "vip"
+    },
+    "vip[72]": {
+      "source": "Vật Công, đánh vần Tấn Công, giới hạn trên của cuộc sống, Pháp Công",
+      "target": "Vật công, Pháp công, Sinh lực tối đa",
+      "category": "vip"
+    },
+    "vip[73]": {
+      "source": "<font color='#00FF00'>[VIP bạc]</font>,<font color='#0080FF'>[VIP VIP]</font>,<font color='#F200C1'>[VIP tối cao]</font>,<font color='#FF6600'>[Siêu VIP1]</font>,<font color='#FF6600'>[Siêu VIP2]</font>,<font color='#FF6600'>[Siêu VIP3]</font>",
+      "target": "<font color='#00FF00'>[VIP Bạc]</font>,<font color='#0080FF'>[VIP Vàng]</font>,<font color='#F200C1'>[VIP Chí Tôn]</font>,<font color='#FF6600'>[Siêu VIP 1]</font>,<font color='#FF6600'>[Siêu VIP 2]</font>,<font color='#FF6600'>[Siêu VIP 3]</font>",
+      "category": "vip"
+    },
+    "vip[76]": {
+      "source": "Gói Quà độc quyền VIP, Gói Quà hàng ngày, Trang Bị độc quyền VIP, săn kho báu VIP, tiền thưởng thuộc tính siêu VIP",
+      "target": "Gói quà VIP,Quà hằng ngày,Trang bị VIP,Phó bản VIP,Thuộc tính Siêu VIP",
+      "category": "vip"
+    },
+    "vip[77]": {
+      "source": "Nhận Phần Thưởng",
+      "target": "Nhận thưởng",
+      "category": "vip"
+    },
+    "vip[78]": {
+      "source": "<font face='宋体'> trở thành <font color='#F200C1'><font size='16'> Supreme </font>VIP</font> <br> có thể nhận <font color='#F200C1'> Supreme VIPGói Quà</font></font>",
+      "target": "<font face='Tahoma'>Trở thành <font color='#F200C1'><font size='16'>VIP Chí Tôn</font></font><br>để nhận <font color='#F200C1'>Gói quà VIP Chí Tôn</font>.</font>",
+      "category": "vip"
+    },
+    "vip[79]": {
+      "source": "Trở thành <font size='16'> siêu </font>VIP$num$<br> để nhận siêu VIP$num$Gói Quà",
+      "target": "Trở thành <font size='16'>Siêu VIP $num$</font><br>để nhận Gói quà Siêu VIP $num$.",
+      "category": "vip"
+    },
+    "vip[80]": {
+      "source": "VIP độc quyền Gói Quà",
+      "target": "Gói quà VIP",
+      "category": "vip"
+    },
+    "vip[81]": {
+      "source": "<font size='16'> Siêu VIP$num$ Độc quyền Trang Bị</font>",
+      "target": "<font size='16'>Trang bị riêng của Siêu VIP $num$</font>",
+      "category": "vip"
+    },
+    "vip[82]": {
+      "source": "VIP độc quyền Trang Bị",
+      "target": "Trang bị VIP",
+      "category": "vip"
+    },
+    "vip[84]": {
+      "source": "<font size='16'> siêu VIP$num$ có thể nhận được </font>",
+      "target": "<font size='16'>Siêu VIP $num$ có thể nhận</font>",
+      "category": "vip"
+    },
+    "vip[85]": {
+      "source": "Quyền lợi siêu VIP",
+      "target": "Đặc quyền Siêu VIP",
+      "category": "vip"
+    },
+    "vip[86]": {
+      "source": "<font face='宋体'> trở thành <font color='#00FF00'><font size='16'> Bạc </font>VIP<br> </font> có thể nhận bạc <font color='#00FF00'> VIPGói Quà</font></font>",
+      "target": "<font face='Tahoma'>Trở thành <font color='#00FF00'><font size='16'>VIP Bạc</font></font><br>để nhận <font color='#00FF00'>Gói quà VIP Bạc</font>.</font>",
+      "category": "vip"
+    },
+    "vip[87]": {
+      "source": "<font face='宋体'> trở thành <font color='#0080FF'><font size='16'> vàng </font>VIP<br> </font> có thể nhận vàng <font color='#0080FF'> VIPGói Quà</font></font>",
+      "target": "<font face='Tahoma'>Trở thành <font color='#0080FF'><font size='16'>VIP Vàng</font></font><br>để nhận <font color='#0080FF'>Gói quà VIP Vàng</font>.</font>",
+      "category": "vip"
+    },
+    "vip[88]": {
+      "source": "<font size='16'> Bạc VIP độc quyền Trang Bị</font>",
+      "target": "<font size='16'>Trang bị riêng của VIP Bạc</font>",
+      "category": "vip"
+    },
+    "vip[89]": {
+      "source": "<font size='16'> Vàng VIP độc quyền Trang Bị</font>",
+      "target": "<font size='16'>Trang bị riêng của VIP Vàng</font>",
+      "category": "vip"
+    },
+    "vip[90]": {
+      "source": "<font size='16'> Extreme VIP độc quyền Trang Bị</font>",
+      "target": "<font size='16'>Trang bị riêng của VIP Chí Tôn</font>",
+      "category": "vip"
+    },
+    "vip[91]": {
+      "source": "VIP độc quyền Phó Bản",
+      "target": "Phó bản VIP",
+      "category": "vip"
+    },
+    "vip[92]": {
+      "source": "Siêu VIP$num$ độc quyền Phó Bản",
+      "target": "Phó bản riêng của Siêu VIP $num$",
+      "category": "vip"
+    },
+    "vip[93]": {
+      "source": "Phó Bản cực độc quyền",
+      "target": "Phó bản VIP Chí Tôn",
+      "category": "vip"
+    },
+    "vip[94]": {
+      "source": "<font size='25'><b> Trở thành VIP và tận hưởng 4 đặc quyền VIP độc quyền </b></font>",
+      "target": "<font size='20'><b>Trở thành VIP để mở khóa 4 đặc quyền riêng.</b></font>",
+      "category": "vip"
+    },
+    "vip[95]": {
+      "source": "<font size='25'><b>Bạn chưa phải là siêu VIP, bạn cần Nạp Thẻ$num$Nguyên Bảo để trở thành siêu VIP</b></font>",
+      "target": "<font size='20'><b>Bạn chưa có Siêu VIP. Nạp $num$ Nguyên Bảo để mở khóa.</b></font>",
+      "category": "vip"
+    },
+    "vip[96]": {
+      "source": "<font size='15'>1, bạn có thể vào BOSS độc quyền mỗi ngày một lần Phó Bản</font>",
+      "target": "<font size='15'>1. Vào phó bản BOSS riêng mỗi ngày một lần.</font>",
+      "category": "vip"
+    },
+    "vip[97]": {
+      "source": "<font size='15'>2, bạn có thể nhận Phần Thưởng mỗi ngày một lần và Gói Quà</font> hào phóng",
+      "target": "<font size='15'>2. Nhận gói quà hậu hĩnh mỗi ngày.</font>",
+      "category": "vip"
+    },
+    "vip[98]": {
+      "source": "<font size='15'>3, bạn có thể nhận được Trang Bị</font> độc quyền với siêu thuộc tính",
+      "target": "<font size='15'>3. Nhận trang bị riêng có thuộc tính mạnh.</font>",
+      "category": "vip"
+    },
+    "vip[99]": {
+      "source": "<font size='15'>4, bạn có thể nhận được phần thưởng thuộc tính độc quyền VIP </font>",
+      "target": "<font size='15'>4. Nhận thưởng thuộc tính độc quyền VIP.</font>",
+      "category": "vip"
+    },
+    "vip[100]": {
+      "source": "<font size='15'>5, bạn có thể nhận được Gói Quà</font> độc quyền giúp cải thiện đáng kể sức mạnh của bạn.",
+      "target": "<font size='15'>5. Nhận gói quà riêng giúp tăng mạnh lực chiến.</font>",
+      "category": "vip"
+    },
+    "vip[101]": {
+      "source": "Tiến trình <font size='15'>Nạp Thẻ: </font>",
+      "target": "<font size='15'>Tiến độ nạp:</font>",
+      "category": "vip"
+    },
+    "vip[102]": {
+      "source": "<font color='#cebc70' size='18'><b> Bạn hiện không phải là siêu VIP. Những siêu VIP có thể nhận <br> và nhận Trang Bị độc quyền và phần thưởng thuộc tính độc nhất của B siêu tuyệt vời </b></font>",
+      "target": "<font color='#cebc70' size='18'><b>Bạn chưa có Siêu VIP.<br>Siêu VIP được nhận trang bị và thuộc tính độc quyền.</b></font>",
+      "category": "vip"
+    },
+    "vip[103]": {
+      "source": "Gói Quà độc quyền VIP, Gói Quà hàng ngày, Trang Bị độc quyền VIP, Phó Bản siêu VIP, phần thưởng thuộc tính VIP",
+      "target": "Gói quà VIP,Quà hằng ngày,Trang bị VIP,Phó bản Siêu VIP,Thuộc tính VIP",
+      "category": "vip"
+    },
+    "vip[104]": {
+      "source": "<font size='25'><b>Bạn hiện là siêu VIP$num$, vẫn cần Nạp Thẻ$num$Nguyên Bảo, bạn có thể trở thành siêu VIP$num$</b></font>",
+      "target": "<font size='20'><b>Bạn đang là Siêu VIP $num$. Nạp thêm $num$ Nguyên Bảo để lên Siêu VIP $num$.</b></font>",
+      "category": "vip"
+    },
+    "vip[105]": {
+      "source": "<font size='25'><b>Bạn hiện là siêu VIP3</b></font>",
+      "target": "<font size='20'><b>Bạn đang là Siêu VIP 3.</b></font>",
+      "category": "vip"
+    },
+    "vip[106]": {
+      "source": "<font size='25'><b>Trở thành siêu VIP và tận hưởng 5 đặc quyền siêu VIP</b></font>",
+      "target": "<font size='20'><b>Trở thành Siêu VIP để mở khóa 5 đặc quyền riêng.</b></font>",
+      "category": "vip"
+    },
+    "vip[108]": {
+      "source": "Trở thành một VIP khác có thể nhận được Gói Quà độc quyền hào phóng. Mỗi loại Gói Quà chỉ có thể được nhận một lần.",
+      "target": "Mỗi cấp VIP được nhận một gói quà riêng; mỗi gói chỉ nhận một lần.",
+      "category": "vip"
+    },
+    "vip[109]": {
+      "source": "VIP có thể nhận Gói Quà mỗi ngày một lần",
+      "target": "VIP được nhận một gói quà mỗi ngày.",
+      "category": "vip"
+    },
+    "vip[110]": {
+      "source": "Trở thành VIP để nhận Cường Hóa+10 quần áo chuyên nghiệp",
+      "target": "Trở thành VIP để nhận trang phục nghề nghiệp cường hóa +10.",
+      "category": "vip"
+    },
+    "vip[111]": {
+      "source": "1. VIP có thể tham gia cảnh săn tìm kho báu trong thời gian giới hạn và làm giàu Phần Thưởng<br> 2. VIP tối cao có thể tham gia Phó Bản độc quyền miễn phí mỗi ngày một lần và có cơ hội đánh rơi 8 chiếc nhẫn thần vĩ đại bằng cách tiêu diệt BOSS độc quyền!",
+      "target": "1. VIP được vào khu săn báu giới hạn thời gian để nhận phần thưởng lớn.<br>2. VIP Chí Tôn được vào phó bản riêng miễn phí mỗi ngày một lần; BOSS có cơ hội rơi Bát Đại Thần Giới.",
+      "category": "vip"
+    },
+    "vip[112]": {
+      "source": "<font size='15'> Trở thành VIP và nhận </font>",
+      "target": "<font size='15'>Trở thành VIP để nhận</font>",
+      "category": "vip"
+    },
+    "vip[113]": {
+      "source": "<font size='15'> có thể được yêu cầu một lần mỗi ngày </font>",
+      "target": "<font size='15'>Nhận một lần mỗi ngày</font>",
+      "category": "vip"
+    },
+    "vip[114]": {
+      "source": "<font size='15'> có thể nhận được quần áo thần kỳ </font>",
+      "target": "<font size='15'>Nhận trang phục thần cấp</font>",
+      "category": "vip"
+    },
+    "vip[115]": {
+      "source": "<font size='15'> có thể vào </font> mỗi ngày một lần",
+      "target": "<font size='15'>Vào phó bản một lần mỗi ngày</font>",
+      "category": "vip"
+    },
+    "vip[116]": {
+      "source": "<font size='15'> Mỗi ngày một lần, bạn có thể đánh rơi 8 chiếc nhẫn thần vĩ đại </font>",
+      "target": "<font size='15'>BOSS có cơ hội rơi Bát Đại Thần Giới</font>",
+      "category": "vip"
+    },
+    "vip[117]": {
+      "source": "Hệ số sát thương 3%, hệ số sát thương 5%, hệ số sát thương 5% <br> Hệ số tránh sát thương 5%",
+      "target": "Tăng sát thương 3% / 5% / 5%<br>Giảm sát thương nhận vào 5%",
+      "category": "vip"
+    },
+    "vip[118]": {
+      "source": "Có sẵn để nhận:\n<font color='#00ff00'>Tấn CôngBảo ThạchGói Quà<font color='#b1986c'>、</font>\n3x cuộn Kinh Nghiệm (8 giờ) <font color='#b1986c'>, </font>\nThuốc nổ Nộ Khí <font color='#b1986c'>, </font> thỏi vàng </font>",
+      "target": "Phần thưởng gồm:\n<font color='#00ff00'>Gói Ngọc Công<font color='#b1986c'>, </font>\n3 Cuộn Kinh Nghiệm (8 giờ)<font color='#b1986c'>, </font>\nĐan Nộ Khí<font color='#b1986c'>, </font>Kim Đĩnh</font>",
+      "category": "vip"
+    },
+    "vip[119]": {
+      "source": "Nhận 1 lần/ngày, bao gồm: <font color='#00ff00'>\nApple <font color='#b1986c'>, </font> Hoa hồng đỏ <font color='#b1986c'>, </font>Đồ Long\nCuộn </font>",
+      "target": "Nhận 1 lần/ngày, gồm:<font color='#00ff00'>\nTáo<font color='#b1986c'>, </font>Hoa Hồng Đỏ<font color='#b1986c'>, </font>\nCuộn Đồ Long</font>",
+      "category": "vip"
+    },
+    "vip[120]": {
+      "source": "VIP vàng có thể nhận được:\n<font color='#00ff00'>50 cấp độ Cường Hóa+10 quần áo </font>\nVIP tối cao có thể nhận được:\n<font color='#ffae00'> trang phục ma thuật Cường Hóa+10 quần áo </font>",
+      "target": "VIP Vàng nhận:\n<font color='#00ff00'>Trang phục cấp 50 cường hóa +10</font>\nVIP Chí Tôn nhận:\n<font color='#ffae00'>Trang phục thần cấp cường hóa +10</font>",
+      "category": "vip"
+    },
+    "vip[121]": {
+      "source": "BOSS độc quyền phải bị loại bỏ\nTrở thành nguyên liệu của tối thượng [<font color='#00ffff'><u><a href='event:0'> trang phục ma thuật </a></u></font>]\nChất liệu <font color='#00ff00'> tinh thể linh hồn </font>, có loại nhỏ hơn\nXác suất đánh rơi <font color='#ffae00'><u><a href='event:1'> Tám chiếc nhẫn thần thánh </a></u></font>!",
+      "target": "Tiêu diệt BOSS riêng để nhận nguyên liệu chế tạo\n[<font color='#00ffff'><u><a href='event:0'>trang bị thần cấp</a></u></font>].\nCó cơ hội rơi <font color='#00ff00'>Tinh Thạch Thần Hồn</font> và\n<font color='#ffae00'><u><a href='event:1'>Bát Đại Thần Giới</a></u></font>!",
+      "category": "vip"
+    },
+    "vip[122]": {
+      "source": "Gói Quà đã được thu thập ngày hôm nay",
+      "target": "Hôm nay bạn đã nhận gói quà này.",
+      "category": "vip"
+    },
+    "vip[124]": {
+      "source": "Không thể thu thập",
+      "target": "Chưa đủ điều kiện nhận",
+      "category": "vip"
+    },
+    "vip[125]": {
+      "source": "Bạn không phải là VIP và không thể vào Phó Bản",
+      "target": "Bạn chưa có VIP nên không thể vào phó bản.",
+      "category": "vip"
+    },
+    "vip[126]": {
+      "source": "Các siêu VIP có thể nhận được các thuộc tính tăng cường sát thương duy nhất cho toàn bộ máy chủ.",
+      "target": "Siêu VIP được nhận thuộc tính tăng sát thương độc quyền toàn máy chủ.",
+      "category": "vip"
+    },
+    "vip[127]": {
+      "source": "<font color='#666666'> không thể thách thức </font>",
+      "target": "<font color='#666666'>Chưa thể khiêu chiến</font>",
+      "category": "vip"
+    },
+    "vip[129]": {
+      "source": "<font color='#666666'> đã thách thức </font> ngày hôm nay",
+      "target": "<font color='#666666'>Hôm nay đã khiêu chiến</font>",
+      "category": "vip"
+    },
+    "vip[130]": {
+      "source": "num%Tấn Công tiền thưởng",
+      "target": "Tăng công num%",
+      "category": "vip"
+    },
+    "vip[132]": {
+      "source": "mua một lần",
+      "target": "Mua một lần",
+      "category": "vip"
+    },
+    "vip[133]": {
+      "source": "VIP bạc có thể nhận được:",
+      "target": "VIP Bạc được nhận:",
+      "category": "vip"
+    },
+    "vip[134]": {
+      "source": "VIP vàng có thể nhận được:",
+      "target": "VIP Vàng được nhận:",
+      "category": "vip"
+    },
+    "vip[135]": {
+      "source": "VIP tối cao có thể nhận được:",
+      "target": "VIP Chí Tôn được nhận:",
+      "category": "vip"
+    },
+    "vip[136]": {
+      "source": "<font color='#ff0000'> Đếm sạch vào lúc 0 giờ hàng ngày </font>",
+      "target": "<font color='#ff0000'>Lượt được đặt lại lúc 0 giờ mỗi ngày.</font>",
+      "category": "vip"
+    },
+    "vip[137]": {
+      "source": "<font color='#ffffff'> số lần còn lại $num$, $num$ số lần còn lại có thể mua được </font>",
+      "target": "<font color='#ffffff'>Còn $num$ lượt; có thể mua thêm $num$ lượt.</font>",
+      "category": "vip"
+    },
+    "vip[138]": {
+      "source": "<font color='#ffffff'> có thể nhận </font>, <font color='#ffffff'> có thể nhận </font>,<font color='#ffffff'> có thể yêu cầu </font>, <font color='#ffffff'> có thể thách thức </font>",
+      "target": "<font color='#ffffff'>Có thể nhận</font>,<font color='#ffffff'>Có thể nhận</font>,<font color='#ffffff'>Có thể nhận</font>,<font color='#ffffff'>Có thể khiêu chiến</font>",
+      "category": "vip"
+    },
+    "vip[139]": {
+      "source": "<font size = '22'color = '#ffde00'><b> Nhận Phần Thưởng</b></font>",
+      "target": "<font size = '20' color = '#ffde00'><b>Nhận thưởng</b></font>",
+      "category": "vip"
+    },
+    "vip[140]": {
+      "source": "<font size = '22'color = '#ffde00'><b> đã nhận được </b></font>",
+      "target": "<font size = '20' color = '#ffde00'><b>Đã nhận</b></font>",
+      "category": "vip"
+    },
+    "vip[141]": {
+      "source": "<font color = '#00ff00'><u> trở thành VIP</u></font> tối cao",
+      "target": "<font color = '#00ff00'><u>Trở thành VIP Chí Tôn</u></font>",
+      "category": "vip"
+    }
+  }
+}

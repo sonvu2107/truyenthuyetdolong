@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "file": "vip.cbp",
+  "description": "Việt hóa mô tả thuộc tính VIP trong vip.cbp.",
+  "translations": {
+    "Vip5PropertyPackAward.0.0": {
+      "source": "攻击20%<br>免伤20%<br>经验加成200%",
+      "target": "Tăng công 20%<br>Giảm sát thương 20%<br>Tăng kinh nghiệm 200%"
+    },
+    "Vip3PropertyPackAward.0.0": {
+      "source": "攻击10%<br>免伤10%<br>经验加成50%",
+      "target": "Tăng công 10%<br>Giảm sát thương 10%<br>Tăng kinh nghiệm 50%"
+    },
+    "Vip4PropertyPackAward.0.0": {
+      "source": "攻击15%<br>免伤15%<br>经验加成100%",
+      "target": "Tăng công 15%<br>Giảm sát thương 15%<br>Tăng kinh nghiệm 100%"
+    }
+  }
+}

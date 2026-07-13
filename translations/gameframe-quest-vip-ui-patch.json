@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Đồng bộ font Tahoma cho nhiệm vụ và VIP; giảm cỡ chữ tại các ô hẹp để tránh tràn giao diện.",
+  "quest_classes": [
+    "view.game.quest.panelComponents.QuestPanelItemRender",
+    "view.game.quest.components.QuestBasePage",
+    "view.game.quest.components.QuestDoingPage"
+  ],
+  "vip_classes": [
+    "view.game.vip.VIPPage1",
+    "view.game.vip.VIPpage2",
+    "view.game.vip.pane.CommonVipPane",
+    "view.game.vip.VIPWin2"
+  ],
+  "font": "Tahoma",
+  "sizes": {
+    "vip_privilege_headers": 11,
+    "vip_detail_text": 12,
+    "vip_card_text": 13,
+    "vip_banner_min": 17,
+    "vip_banner_max": 20
+  },
+  "safety": {
+    "unchanged_critical_classes": [
+      "GameFrame",
+      "view.game.components.panel.WinLoadingPanel"
+    ]
+  }
+}

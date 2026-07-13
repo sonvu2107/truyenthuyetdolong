@@ -1,11 +1,11 @@
 {
   "format": 1,
   "active": true,
-  "description": "Đổi riêng font tên và nội dung bảng theo dõi nhiệm vụ sang Tahoma, không thay font mặc định toàn GameFrame.",
+  "description": "Đổi riêng font thường và font liên kết trong bảng theo dõi nhiệm vụ sang Tahoma, không thay font mặc định toàn GameFrame.",
   "class": "view.game.quest.panelComponents.QuestPanelItemRender",
   "path": "scripts/view/game/quest/panelComponents/QuestPanelItemRender.as",
-  "source": "this._richText.richText = this._richContent = this.formatQuestType(this._data);",
-  "target": "this._richText.richText = this._richContent = \"<font face='Tahoma'>\" + this.formatQuestType(this._data) + \"</font>\";",
+  "source": "this._richText.richText = this._richContent = \"<font face='Tahoma'>\" + this.formatQuestType(this._data) + \"</font>\";",
+  "target": "this._richText.richText = this._richContent = this.applyVietnameseFont(this.formatQuestType(this._data));",
   "expected": 1,
   "safety": {
     "changed_pcode_classes": 1,
