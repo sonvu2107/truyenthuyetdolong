@@ -1,5 +1,7 @@
 {
   "format": 1,
+  "active": true,
+  "status": "Đã đóng gói an toàn bằng cách chỉ tái biên dịch lang.ZH_CN; không tái biên dịch các lớp giao diện toàn cục.",
   "description": "Chuẩn hóa thông báo lỗi, thành công và trạng thái sang tiếng Việt tự nhiên; viết hoa đầu câu và giữ nguyên placeholder/markup.",
   "overrides": {
     "Common_Victory": {
