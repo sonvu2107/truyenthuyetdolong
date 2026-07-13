@@ -41156,121 +41156,121 @@
           "key": "n188",
           "occurrence": 1,
           "source": "灼热腰带",
-          "target": "灼热腰带"
+          "target": "Đai Lưng Liệt Diễm"
         },
         {
           "key": "i188",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热腰带> 可以合成一个 <(c0xFFFF6600)龙牙腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热腰带> 可以合成一个 <(c0xFFFF6600)龙牙腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Lưng Liệt Diễm> có thể hợp thành <(c0xFFFF6600)Đai Lưng Long Nha>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n189",
           "occurrence": 1,
           "source": "灼热战鞋",
-          "target": "灼热战鞋"
+          "target": "Giày Liệt Diễm"
         },
         {
           "key": "i189",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热战鞋> 可以合成一个 <(c0xFFFF6600)龙牙战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热战鞋> 可以合成一个 <(c0xFFFF6600)龙牙战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giày Liệt Diễm> có thể hợp thành <(c0xFFFF6600)Giày Long Nha>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n190",
           "occurrence": 1,
           "source": "灼热宝石",
-          "target": "灼热宝石"
+          "target": "Đá Quý Liệt Diễm"
         },
         {
           "key": "i190",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热宝石> 可以合成一个 <(c0xFFFF6600)龙牙宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热宝石> 可以合成一个 <(c0xFFFF6600)龙牙宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đá Quý Liệt Diễm> có thể hợp thành <(c0xFFFF6600)Đá Quý Long Nha>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n191",
           "occurrence": 1,
           "source": "灼热戒指",
-          "target": "灼热戒指"
+          "target": "Nhẫn Liệt Diễm"
         },
         {
           "key": "i191",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热戒指> 可以合成一个 <(c0xFFFF6600)龙牙戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热戒指> 可以合成一个 <(c0xFFFF6600)龙牙戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Liệt Diễm> có thể hợp thành <(c0xFFFF6600)Nhẫn Long Nha>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n192",
           "occurrence": 1,
           "source": "灼热勋章",
-          "target": "灼热勋章"
+          "target": "Huy Chương Liệt Diễm"
         },
         {
           "key": "i192",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热勋章> 可以合成一个 <(c0xFFFF6600)龙牙勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)灼热勋章> 可以合成一个 <(c0xFFFF6600)龙牙勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Liệt Diễm> có thể hợp thành <(c0xFFFF6600)Huy Chương Long Nha>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n193",
           "occurrence": 1,
           "source": "血煞战刀",
-          "target": "血煞战刀"
+          "target": "Đao Huyết Sát"
         },
         {
           "key": "i193",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)血煞战刀> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级",
-          "target": "<(c0xFFFF6600)血煞战刀> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭战刀>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级"
+          "target": "<(c0xFFFF6600)Đao Huyết Sát> dùng <(c0xFFFF6600)Đá Nâng Cấp Trang Bị> nâng thành <(c0xFFFF6600)Đao Huyết Tế>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Hệ Thống Rèn>"
         },
         {
           "key": "n194",
           "occurrence": 1,
           "source": "血煞战甲(男)",
-          "target": "血煞战甲(男)"
+          "target": "Giáp Huyết Sát (Nam)"
         },
         {
           "key": "i194",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)血煞战甲(男)> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级",
-          "target": "<(c0xFFFF6600)血煞战甲(男)> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭战甲(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级"
+          "target": "<(c0xFFFF6600)Giáp Huyết Sát (Nam)> dùng <(c0xFFFF6600)Đá Nâng Cấp Trang Bị> nâng thành <(c0xFFFF6600)Giáp Huyết Tế (Nam)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Hệ Thống Rèn>"
         },
         {
           "key": "n195",
           "occurrence": 1,
           "source": "血煞战甲(女)",
-          "target": "血煞战甲(女)"
+          "target": "Giáp Huyết Sát (Nữ)"
         },
         {
           "key": "i195",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)血煞战甲(女)> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级",
-          "target": "<(c0xFFFF6600)血煞战甲(女)> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭战甲(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级"
+          "target": "<(c0xFFFF6600)Giáp Huyết Sát (Nữ)> dùng <(c0xFFFF6600)Đá Nâng Cấp Trang Bị> nâng thành <(c0xFFFF6600)Giáp Huyết Tế (Nữ)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Hệ Thống Rèn>"
         },
         {
           "key": "n196",
           "occurrence": 1,
           "source": "血煞头盔",
-          "target": "血煞头盔"
+          "target": "Mũ Huyết Sát"
         },
         {
           "key": "i196",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)血煞头盔> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级",
-          "target": "<(c0xFFFF6600)血煞头盔> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级"
+          "target": "<(c0xFFFF6600)Mũ Huyết Sát> dùng <(c0xFFFF6600)Đá Nâng Cấp Trang Bị> nâng thành <(c0xFFFF6600)Mũ Huyết Tế>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Hệ Thống Rèn>"
         },
         {
           "key": "n197",
           "occurrence": 1,
           "source": "血煞项链",
-          "target": "血煞项链"
+          "target": "Dây Chuyền Huyết Sát"
         },
         {
           "key": "i197",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)血煞项链> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级",
-          "target": "<(c0xFFFF6600)血煞项链> 可使用 <(c0xFFFF6600)装备升级石> 升级为<(c0xFFFF6600)血祭项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造系统>中进行装备升级"
+          "target": "<(c0xFFFF6600)Dây Chuyền Huyết Sát> dùng <(c0xFFFF6600)Đá Nâng Cấp Trang Bị> nâng thành <(c0xFFFF6600)Dây Chuyền Huyết Tế>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Hệ Thống Rèn>"
         },
         {
           "key": "n198",
