@@ -49148,7 +49148,7 @@
           "key": "n854",
           "occurrence": 1,
           "source": "化肥(废弃)",
-          "target": "化肥(废弃)"
+          "target": "Phân Bón (Bỏ)"
         },
         {
           "key": "i854",
@@ -49160,49 +49160,49 @@
           "key": "n855",
           "occurrence": 1,
           "source": "日常礼盒",
-          "target": "日常礼盒"
+          "target": "Hộp Quà Ngày"
         },
         {
           "key": "i855",
           "occurrence": 1,
           "source": "完成日常任务奖励的礼盒\\\\可以随机抽取一份神秘的奖励>",
-          "target": "完成日常任务奖励的礼盒\\\\可以随机抽取一份神秘的奖励>"
+          "target": "Hộp quà khi hoàn thành Nhiệm Vụ Ngày\\\\Nhận ngẫu nhiên 1 phần quà bí ẩn>"
         },
         {
           "key": "n856",
           "occurrence": 1,
           "source": "佣兵技能残页",
-          "target": "佣兵技能残页"
+          "target": "Trang Rách Kỹ Năng Lính Đánh Thuê"
         },
         {
           "key": "i856",
           "occurrence": 1,
           "source": "收集20本后双击使用\\\\可以随机获得一本<(c0xFF00FFFF)佣兵技能书>",
-          "target": "收集20本后双击使用\\\\可以随机获得一本<(c0xFF00FFFF)佣兵技能书>"
+          "target": "Thu 20 trang rồi dùng\\\\Nhận ngẫu nhiên 1 <(c0xFF00FFFF)Sách Kỹ Năng Lính Đánh Thuê>"
         },
         {
           "key": "n857",
           "occurrence": 1,
           "source": "光暗碎片盒(废弃)",
-          "target": "光暗碎片盒(废弃)"
+          "target": "Hộp Mảnh Quang Ám (Bỏ)"
         },
         {
           "key": "i857",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种碎片:\\\\<(c0xFFFFFF00)光灵碎片×30>\\\\<(c0xFFFFFF00)暗灵碎片×10>",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种碎片:\\\\<(c0xFFFFFF00)光灵碎片×30>\\\\<(c0xFFFFFF00)暗灵碎片×10>"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 1 loại Mảnh:\\\\<(c0xFFFFFF00)Mảnh Quang Linh ×30>\\\\<(c0xFFFFFF00)Mảnh Ám Linh ×10>"
         },
         {
           "key": "n858",
           "occurrence": 1,
           "source": "经验卷轴",
-          "target": "经验卷轴"
+          "target": "Cuộn KN"
         },
         {
           "key": "i858",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下一种经验卷轴:\\\\<(c0xFFFFFF00)五倍经验卷轴>\\\\<(c0xFFFFFF00)四倍经验卷轴>\\\\<(c0xFFFFFF00)三倍经验卷轴>",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下一种经验卷轴:\\\\<(c0xFFFFFF00)五倍经验卷轴>\\\\<(c0xFFFFFF00)四倍经验卷轴>\\\\<(c0xFFFFFF00)三倍经验卷轴>"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận 1 Cuộn KN:\\\\<(c0xFFFFFF00)Cuộn KN x5>\\\\<(c0xFFFFFF00)Cuộn KN x4>\\\\<(c0xFFFFFF00)Cuộn KN x3>"
         },
         {
           "key": "n859",
