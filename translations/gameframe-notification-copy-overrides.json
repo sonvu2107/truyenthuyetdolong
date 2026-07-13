@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "description": "Chuẩn hóa thông báo lỗi, thành công và trạng thái sang tiếng Việt tự nhiên; viết hoa đầu câu và giữ nguyên placeholder/markup.",
+  "overrides": {
+    "Common_Victory": {
+      "source": "Chiến Thắng",
+      "target": "Chiến thắng",
+      "category": "status"
+    },
+    "Common_Fall": {
+      "source": "Thất Bại",
+      "target": "Thất bại",
+      "category": "status"
+    },
+    "Common_Again": {
+      "source": "Thử Lại",
+      "target": "Thử lại",
+      "category": "button"
+    },
+    "Common_Collecting": {
+      "source": "Đang Thu Thập",
+      "target": "Đang thu thập",
+      "category": "status"
+    },
+    "Common_CancelState": {
+      "source": "Bạn đang trong trạng thái Ôm Hôn, muốn hủy không?",
+      "target": "Bạn đang ôm người khác. Bạn có muốn hủy không?",
+      "category": "confirm"
+    },
+    "Common_RefreshGame": {
+      "source": "Đã mất kết nối máy chủ, vui lòng chọn Xác Nhận để khởi động lại trò chơi",
+      "target": "Đã mất kết nối máy chủ. Nhấn Xác nhận để khởi động lại trò chơi.",
+      "category": "error"
+    },
+    "Common_Content_Error": {
+      "source": "Kết nối không thành công, vui lòng làm mới trang",
+      "target": "Kết nối thất bại. Vui lòng tải lại trang.",
+      "category": "error"
+    },
+    "Common_ResLoad_WaitText": {
+      "source": "Nếu tải thất bại, nhấn vào đây để tải lại",
+      "target": "Nếu tải thất bại, hãy nhấn vào đây để thử lại.",
+      "category": "error"
+    },
+    "Common_Sure_Close_Game": {
+      "source": "Xác nhận thoát trò chơi? Hãy suy nghĩ kỹ...",
+      "target": "Bạn có chắc muốn thoát trò chơi không?",
+      "category": "confirm"
+    },
+    "Common_Select": {
+      "source": "chọn",
+      "target": "Chọn",
+      "category": "label"
+    },
+    "Common_Show": {
+      "source": "hiển thị",
+      "target": "Hiện",
+      "category": "label"
+    },
+    "Common_Hide": {
+      "source": "trốn",
+      "target": "Ẩn",
+      "category": "label"
+    },
+    "Common_Active": {
+      "source": "kích hoạt",
+      "target": "Kích hoạt",
+      "category": "status"
+    },
+    "Common_ServerTime": {
+      "source": "giờ máy chủ",
+      "target": "Giờ máy chủ",
+      "category": "label"
+    },
+    "Common_UnOpen_Msg": {
+      "source": "Tính năng này chưa được kích hoạt, vui lòng theo dõi",
+      "target": "Tính năng này chưa mở. Vui lòng theo dõi thông báo.",
+      "category": "error"
+    },
+    "Common_Fun_UnOpen": {
+      "source": "Chức năng $fun$, mở ở mức người chơi$level$",
+      "target": "$fun$ mở ở cấp $level$.",
+      "category": "error"
+    },
+    "Common_Join_Scene": {
+      "source": "Cảnh đăng nhập, vui lòng đợi...",
+      "target": "Đang vào bản đồ, vui lòng đợi...",
+      "category": "status"
+    },
+    "Common_Creating": {
+      "source": "Đang tạo vai trò...",
+      "target": "Đang tạo nhân vật...",
+      "category": "status"
+    },
+    "Common_Agree": {
+      "source": "Đồng Ý",
+      "target": "Đồng ý",
+      "category": "button"
+    },
+    "active[124]": {
+      "source": "Điểm Năng Động không đủ, Phần Thưởng không thể thu thập được",
+      "target": "Không đủ điểm năng động để nhận thưởng.",
+      "category": "error"
+    },
+    "bag[28]": {
+      "source": "Đây là Kho VIP, mở VIP mới được dùng",
+      "target": "Đây là Kho VIP. Hãy mở VIP để sử dụng.",
+      "category": "error"
+    },
+    "caiquan[14]": {
+      "source": "<font color='#99CCCC'>của bạn Nguyên Bảo Không đủ, không thể làm mới đối tượng</font><br><font color='#00FF00'>Nạp Thẻ Sau đó Thương Thành chiết xuất từ ​​​​Nguyên Bảo</font>",
+      "target": "<font color='#99CCCC'>Bạn không đủ Nguyên Bảo để làm mới đối thủ.</font><br><font color='#00FF00'>Hãy nạp thêm hoặc mua Nguyên Bảo trong Shop.</font>",
+      "category": "error"
+    },
+    "caiquan[18]": {
+      "source": "Đóng cửa sổ và hệ thống sẽ đấm bạn",
+      "target": "Đóng cửa sổ, hệ thống sẽ tự động chọn thay bạn.",
+      "category": "notice"
+    },
+    "copy[21]": {
+      "source": "Đã đạt đến số lần cho hoạt động này, bây giờ bạn có thể thực hiện các hoạt động khác",
+      "target": "Đã hết lượt tham gia hoạt động này. Bạn có thể chuyển sang hoạt động khác.",
+      "category": "notice"
+    },
+    "diamondGame[16]": {
+      "source": "Đang tiến hành xổ số và thử lại sau!",
+      "target": "Đang quay thưởng. Vui lòng thử lại sau!",
+      "category": "status"
+    },
+    "jewelGame[16]": {
+      "source": "Đang tiến hành xổ số và thử lại sau!",
+      "target": "Đang quay thưởng. Vui lòng thử lại sau!",
+      "category": "status"
+    },
+    "equipBoost[108]": {
+      "source": "Đi Xem Thử",
+      "target": "Xem ngay",
+      "category": "button"
+    },
+    "godequipBoost[13]": {
+      "source": "<font color='#FF0000'> mở máy chủ $day$ Nữ hoàng mở </font>",
+      "target": "<font color='#FF0000'>Mở vào ngày thứ $day$ sau khi khai mở máy chủ.</font>",
+      "category": "error"
+    },
+    "head[10]": {
+      "source": "Ảnh đại diện này đã là mới nhất!",
+      "target": "Đây đã là ảnh đại diện mới nhất.",
+      "category": "notice"
+    },
+    "logic[29]": {
+      "source": "Ở đây không có gì để đào, vui lòng đến bản đồ mỏ hoặc phụ bản đào mỏ",
+      "target": "Không có khoáng sản tại đây. Hãy đến bản đồ mỏ hoặc phó bản đào mỏ.",
+      "category": "error"
+    },
+    "marry[50]": {
+      "source": "bạn chưa có đối tác",
+      "target": "Bạn chưa kết hôn.",
+      "category": "error"
+    },
+    "marry[76]": {
+      "source": "Ảnh kỷ niệm hiện tại có chất lượng cao nhất và không cần thay thế.",
+      "target": "Ảnh kỷ niệm hiện tại đã đạt chất lượng cao nhất.",
+      "category": "notice"
+    },
+    "mount[17]": {
+      "source": "Đã là tọa kỵ bậc thấp nhất",
+      "target": "Tọa kỵ đã ở bậc thấp nhất.",
+      "category": "notice"
+    },
+    "property[87]": {
+      "source": "Đã là cấp độ cao nhất",
+      "target": "Đã đạt cấp cao nhất.",
+      "category": "notice"
+    },
+    "quest[88]": {
+      "source": "<font color='#00ff00'> có tiêu thụ $num$Nguyên Bảo để tạo ngay cấp độ vàng tối Nhiệm Vụ không? <BR> cấp độ vàng tối Nhiệm VụPhần Thưởng số lượng lớn Kinh Nghiệm và Kim Tệ Khóa, cuộn nhận dạng </font>",
+      "target": "<font color='#00ff00'>Dùng $num$ Nguyên Bảo để tạo ngay nhiệm vụ phẩm chất cao nhất?<BR>Nhiệm vụ này thưởng nhiều KN, Xu khóa và Cuộn giám định.</font>",
+      "category": "confirm"
+    },
+    "raids[108]": {
+      "source": "đóng",
+      "target": "Đóng",
+      "category": "button"
+    },
+    "rank[24]": {
+      "source": "<font color='#FFFF00' size = '14'> có tiêu tốn 5Nguyên Bảo để xóa tin nhắn </font> không",
+      "target": "<font color='#FFFF00' size = '14'>Dùng 5 Nguyên Bảo để xóa tin nhắn?</font>",
+      "category": "confirm"
+    },
+    "role[4]": {
+      "source": "Độ dài tên nhân vật không thể vượt quá $max$ ký tự!",
+      "target": "Tên nhân vật không được vượt quá $max$ ký tự.",
+      "category": "error"
+    },
+    "sealedBook[36]": {
+      "source": "Đã nhận nhiệm vụ, không thể làm mới",
+      "target": "Đã nhận nhiệm vụ nên không thể làm mới.",
+      "category": "error"
+    },
+    "sealedBook[38]": {
+      "source": "Đã đạt số sao mục tiêu chỉ định",
+      "target": "Đã đạt số sao yêu cầu.",
+      "category": "notice"
+    },
+    "shop[35]": {
+      "source": "Đại hiệp thân mến, khu vực Săn Sale Trong Hành Trang cũng có vật phẩm này nhé~ Mở Hành trang ra,<BR>mua vật phẩm tại khu Săn Sale sẽ giúp ngài tiết kiệm được rất nhiều Nguyên Bảo đấy!",
+      "target": "Vật phẩm này đã có trong mục Săn Sale của Túi.<BR>Mua tại Săn Sale sẽ tiết kiệm nhiều Nguyên Bảo hơn!",
+      "category": "notice"
+    },
+    "skill[19]": {
+      "source": "Đã học Kỹ năng, nhưng Nộ khí chưa đầy",
+      "target": "Đã học kỹ năng nhưng Nộ khí chưa đầy.",
+      "category": "notice"
+    },
+    "statue[73]": {
+      "source": "Đã đạt bội số Phần thưởng cao nhất",
+      "target": "Đã đạt hệ số thưởng cao nhất.",
+      "category": "notice"
+    },
+    "themeActivity[15]": {
+      "source": "Đã là trang đầu tiên",
+      "target": "Đã ở trang đầu tiên.",
+      "category": "notice"
+    },
+    "themeActivity[16]": {
+      "source": "Đã là trang cuối cùng",
+      "target": "Đã ở trang cuối cùng.",
+      "category": "notice"
+    },
+    "vip[38]": {
+      "source": "Điểm PK của ngài đang là 0, không cần xóa",
+      "target": "Điểm PK đang bằng 0, không cần xóa.",
+      "category": "notice"
+    }
+  }
+}

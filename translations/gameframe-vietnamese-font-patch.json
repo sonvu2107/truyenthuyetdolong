@@ -1,0 +1,602 @@
+{
+  "format": 1,
+  "description": "Thay font SimSun/宋体/黑体 hardcode bằng Tahoma để hỗ trợ tiếng Việt; loại ba lớp Hero không ổn định khi FFDec tái biên dịch.",
+  "excluded_classes": [
+    "scripts/view/game/hero/View2/HeroInfoPanel2.as",
+    "scripts/view/game/hero/View2/cell/HeroCell2.as",
+    "scripts/view/game/hero/cell/HeroGridCell.as"
+  ],
+  "files": [
+    {
+      "path": "scripts/common/RichTextTranslator.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 2
+        },
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/CommonUI/baseUI/label/CustomBigLabel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/CommonUI/Button/Spec/Msg/MsgButton1.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 6,
+          "verify_expected": 6
+        }
+      ]
+    },
+    {
+      "path": "scripts/GameFrame.as",
+      "replacements": [
+        {
+          "source": "SimSun",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/lang/ZH_CN.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 13,
+          "verify_expected": 75
+        },
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 34,
+          "verify_expected": 75
+        }
+      ]
+    },
+    {
+      "path": "scripts/Logic/Text/NameTextFactory.as",
+      "replacements": [
+        {
+          "source": "SimSun",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/backpack/win/BagShopBigWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityInfoPage.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 3,
+          "verify_expected": 4
+        },
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 4
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/city/page/CityOfficialPage.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 4
+        },
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 4
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/label/MultiLinkLabel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/label/SimpleLinkLabel.as",
+      "replacements": [
+        {
+          "source": "SimSun",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/label/TitleLabel4.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/label/TitleLabel6.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/components/panel/WinLoadingPanel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 4,
+          "verify_expected": 4
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/equipBoost/pages/EquipBoostWingMixPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/evaluate/page/BugPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 4,
+          "verify_expected": 4
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/page/GodRingPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/page/MasonryPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/godhallows/page/MedalPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/page/EquipStrongPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 3,
+          "verify_expected": 3
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/page/EquipUpLevelPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/win/heroSkillxxWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/hero/win/MagicDiamondWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 4,
+          "verify_expected": 4
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/hundredserver/page/HundredServerRebatePage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/itemrecycling/ItemRecyclingWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 3,
+          "verify_expected": 3
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/itemrecycling/ItemRecyclingWinI.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/itemrecycling/ItemRecyclingWinII.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/marry/MarrySendCandyWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/marry/page/MarryTitlePage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/marry/panel/PartnerPanel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureBossPanel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureGoldPanel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureHaloPanel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/monsterTreasure/panel/MonsterTreasureWelfarePanel.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/mysteryShop/MysteryShopItemCell.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/mysteryShop/mysteryShopWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/npc/components/FuncListItemRender.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/npc/NPCTalkWin.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 6,
+          "verify_expected": 6
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/openServiceActivity/pane/RechargeIntegral.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/Raids/RaidsFailWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/Raids/RaidsSuccessWin.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/shop/componentsII/ShopItemCell.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/slg/components/SlgRankPanel.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/superGift/SuperGiftWin.as",
+      "replacements": [
+        {
+          "source": "Simsun",
+          "target": "Tahoma",
+          "expected": 4,
+          "verify_expected": 7
+        },
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 3,
+          "verify_expected": 7
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/vip/VIPPage1.as",
+      "replacements": [
+        {
+          "source": "Simsun",
+          "target": "Tahoma",
+          "expected": 2,
+          "verify_expected": 2
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/vip/VIPpage2.as",
+      "replacements": [
+        {
+          "source": "宋体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WelFareLevelUpPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 3,
+          "verify_expected": 3
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WelFareNoticePage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WelFareSurprisePage1.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 8,
+          "verify_expected": 8
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/welfare/page/WellFareLandingRewardPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    },
+    {
+      "path": "scripts/view/game/yxhd/page/YXSurpriseGiftPage.as",
+      "replacements": [
+        {
+          "source": "黑体",
+          "target": "Tahoma",
+          "expected": 1,
+          "verify_expected": 1
+        }
+      ]
+    }
+  ]
+}

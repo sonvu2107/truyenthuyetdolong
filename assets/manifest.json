@@ -1,5 +1,5 @@
 {
-  "version": "20260713pointerfix1",
+  "version": "20260713notifyfont1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "A3B93713C31975434EB6A811628003DECFCD6BA9EF6E35A47AE51E9EFBBA95C5"
+      "sha256": "53CD51312326044A13261F7F4C3138D11B76C41DF92EFF54D1A275BD29706170"
     },
     {
       "source": "assets/ClientLang.txt",
