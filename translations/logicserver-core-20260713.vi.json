@@ -37600,61 +37600,61 @@
           "key": "promTlk5021",
           "occurrence": 1,
           "source": "你既然来了,能帮我个忙不？那帮暗黑骑士据说要进攻罗格营地,决不能让它们通过!\\\\",
-          "target": "你既然来了,能帮我个忙不？那帮暗黑骑士据说要进攻罗格营地,决不能让它们通过!\\\\"
+      "target": "Ngươi đã đến, giúp ta một việc nhé? Kỵ Sĩ Hắc Ám sắp tấn công Trại Rogue, không thể để chúng qua!\\\\"
         },
         {
           "key": "promTlk5031",
           "occurrence": 1,
           "source": "那些巨大恶魔当年都很厉害的,地狱级别的基本几刀杀一个玩家!前方的梅杰夫很怕它们呢!\\\\",
-          "target": "那些巨大恶魔当年都很厉害的,地狱级别的基本几刀杀一个玩家!前方的梅杰夫很怕它们呢!\\\\"
+      "target": "Đại Ác Ma năm xưa rất mạnh, ở cấp Địa Ngục có thể hạ người chơi trong vài đòn. Mejev phía trước rất sợ chúng!\\\\"
         },
         {
           "key": "promTlk5041",
           "occurrence": 1,
           "source": "前面有邪恶之母,消灭它们就能阻止邪恶之子的滋生!\\\\",
-          "target": "前面有邪恶之母,消灭它们就能阻止邪恶之子的滋生!\\\\"
+      "target": "Phía trước có Mẹ Tà Ác. Diệt chúng sẽ ngăn Con Tà Ác sinh sôi!\\\\"
         },
         {
           "key": "promTlk5051",
           "occurrence": 1,
           "source": "我的家乡哈洛加斯被恶魔攻陷了,我亲眼目睹族人被害的场面,我心里有了阴影.\\\\",
-          "target": "我的家乡哈洛加斯被恶魔攻陷了,我亲眼目睹族人被害的场面,我心里有了阴影.\\\\"
+      "target": "Quê hương Harrogath bị ác ma chiếm, ta tận mắt thấy tộc nhân bị hại. Nỗi ám ảnh ấy vẫn còn.\\\\"
         },
         {
           "key": "promTlk5061",
           "occurrence": 1,
           "source": "前面有暗黑遗留的骷髅变异的怪物!它们很强大,你能帮我消灭它们吗?\\\\",
-          "target": "前面有暗黑遗留的骷髅变异的怪物!它们很强大,你能帮我消灭它们吗?\\\\"
+      "target": "Phía trước có quái Khô Lâu Biến Dị do bóng tối để lại, chúng rất mạnh. Ngươi giúp diệt chúng được chứ?\\\\"
         },
         {
           "key": "promTlk5071",
           "occurrence": 1,
           "source": "之前我看到阿卡拉往石块荒野去了,她好像是要去调查魔法石柱的事情.\\\\",
-          "target": "之前我看到阿卡拉往石块荒野去了,她好像是要去调查魔法石柱的事情.\\\\"
+      "target": "Ta thấy Akara đến Hoang Dã Đá, hình như bà ấy điều tra Trụ Đá Ma Pháp.\\\\"
         },
         {
           "key": "promTlk5081",
           "occurrence": 1,
           "source": "这魔法石柱充溢的能量能够创建一个传送门通往一个神秘的地方.\\\\",
-          "target": "这魔法石柱充溢的能量能够创建一个传送门通往一个神秘的地方.\\\\"
+      "target": "Năng lượng Trụ Đá Ma Pháp có thể mở Cổng Dịch Chuyển đến nơi bí ẩn.\\\\"
         },
         {
           "key": "promTlk5091",
           "occurrence": 1,
           "source": "前面不远处出现空间裂缝,有传说中的地狱奶牛出现,更具体的情况我也不清楚,你敢不敢前去探查下.\\\\",
-          "target": "前面不远处出现空间裂缝,有传说中的地狱奶牛出现,更具体的情况我也不清楚,你敢不敢前去探查下.\\\\"
+      "target": "Phía trước có Khe Nứt Không Gian, Bò Địa Ngục trong truyền thuyết đã xuất hiện. Ngươi dám đến điều tra chứ?\\\\"
         },
         {
           "key": "promTlk51",
           "occurrence": 1,
           "source": "前方有一个魔洞散发邪恶的气息,想劳烦英雄你前去探查一下可好?\\\\",
-          "target": "前方有一个魔洞散发邪恶的气息,想劳烦英雄你前去探查一下可好?\\\\"
+      "target": "Phía trước có Ma Động tỏa tà khí. Dũng sĩ có thể đến điều tra không?\\\\"
         },
         {
           "key": "promTlk5101",
           "occurrence": 1,
           "source": "要进奶牛关,必须要有怀特的假腿去合成才行的!\\\\",
-          "target": "要进奶牛关,必须要有怀特的假腿去合成才行的!\\\\"
+      "target": "Muốn vào Cửa Ải Bò phải dùng Chân Giả Wirt để hợp thành!\\\\"
         },
         {
           "key": "promTlk511",
