@@ -57764,43 +57764,43 @@
           "key": "n1572",
           "occurrence": 1,
           "source": "至尊金龙灵魄碎片(废弃)",
-          "target": "至尊金龙灵魄碎片(废弃)"
+          "target": "Mảnh Linh Phách Kim Long Chí Tôn (Bỏ)"
         },
         {
           "key": "i1572",
           "occurrence": 1,
           "source": "收集齐<(c0xFF00FFFF)10>个碎片<(c0xFFFFFF00)双击使用>可获得<(c0xFFFF6600)至尊金龙灵魄(7天)>\\\\<(c0xFFFFFF00)至尊金龙灵魄(7天)>可获得<(c0xFFFF6600)至尊金龙>时效坐骑\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　最大物理攻击><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　最大魔法攻击><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　最大道术攻击><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+50>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+50>\\\\<(c0xFFFFFF00)　幸运值><(c0xFF00FF00)+1>\\\\有效期:<(c0xFFFF0000)7天>",
-          "target": "收集齐<(c0xFF00FFFF)10>个碎片<(c0xFFFFFF00)双击使用>可获得<(c0xFFFF6600)至尊金龙灵魄(7天)>\\\\<(c0xFFFFFF00)至尊金龙灵魄(7天)>可获得<(c0xFFFF6600)至尊金龙>时效坐骑\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　最大物理攻击><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　最大魔法攻击><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　最大道术攻击><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+50>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+50>\\\\<(c0xFFFFFF00)　幸运值><(c0xFF00FF00)+1>\\\\有效期:<(c0xFFFF0000)7天>"
+          "target": "Thu thập đủ <(c0xFF00FFFF)10> mảnh, <(c0xFFFFFF00)nhấp đúp để dùng> nhận <(c0xFFFF6600)Linh Phách Kim Long Chí Tôn [7 Ngày]>\\\\<(c0xFFFFFF00)Linh Phách Kim Long Chí Tôn [7 Ngày]> nhận Thú Cưỡi thời hạn <(c0xFFFF6600)Kim Long Chí Tôn>\\\\Đồng thời nhận <(c0xFFCC6600)Thuộc Tính cộng thêm>:\\\\<(c0xFFFFFF00)　Công Kích Vật Lý Tối Đa><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　Công Kích Pháp Thuật Tối Đa><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　Công Kích Đạo Thuật Tối Đa><(c0xFF00FF00)+150>\\\\<(c0xFFFFFF00)　Phòng Thủ Vật Lý Tối Đa><(c0xFF00FF00)+50>\\\\<(c0xFFFFFF00)　Phòng Thủ Pháp Thuật Tối Đa><(c0xFF00FF00)+50>\\\\<(c0xFFFFFF00)　May Mắn><(c0xFF00FF00)+1>\\\\Thời hạn: <(c0xFFFF0000)7 Ngày>"
         },
         {
           "key": "n1573",
           "occurrence": 1,
           "source": "188欢乐豆",
-          "target": "188欢乐豆"
+          "target": "188 Đậu Vui Vẻ"
         },
         {
           "key": "i1573",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)188欢乐豆>",
-          "target": "双击可获得<(c0xFF00FFFF)188欢乐豆>"
+          "target": "Nhấp đúp nhận <(c0xFF00FFFF)188 Đậu Vui Vẻ>"
         },
         {
           "key": "n1574",
           "occurrence": 1,
           "source": "1888欢乐豆",
-          "target": "1888欢乐豆"
+          "target": "1888 Đậu Vui Vẻ"
         },
         {
           "key": "i1574",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)1888欢乐豆>",
-          "target": "双击可获得<(c0xFF00FFFF)1888欢乐豆>"
+          "target": "Nhấp đúp nhận <(c0xFF00FFFF)1888 Đậu Vui Vẻ>"
         },
         {
           "key": "n1575",
           "occurrence": 1,
           "source": "斗战胜佛(女)(废弃)",
-          "target": "斗战胜佛(女)(废弃)"
+          "target": "Đấu Chiến Thắng Phật (Nữ) (Bỏ)"
         },
         {
           "key": "i1575",
@@ -57812,79 +57812,79 @@
           "key": "n1576",
           "occurrence": 1,
           "source": "388欢乐豆",
-          "target": "388欢乐豆"
+          "target": "388 Đậu Vui Vẻ"
         },
         {
           "key": "i1576",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)388欢乐豆>",
-          "target": "双击可获得<(c0xFF00FFFF)388欢乐豆>"
+          "target": "Nhấp đúp nhận <(c0xFF00FFFF)388 Đậu Vui Vẻ>"
         },
         {
           "key": "n1577",
           "occurrence": 1,
           "source": "888欢乐豆",
-          "target": "888欢乐豆"
+          "target": "888 Đậu Vui Vẻ"
         },
         {
           "key": "i1577",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)888欢乐豆>",
-          "target": "双击可获得<(c0xFF00FFFF)888欢乐豆>"
+          "target": "Nhấp đúp nhận <(c0xFF00FFFF)888 Đậu Vui Vẻ>"
         },
         {
           "key": "n1578",
           "occurrence": 1,
           "source": "大天使之翼(11档)",
-          "target": "大天使之翼(11档)"
+          "target": "Đại Thiên Sứ Chi Dực (Bậc 11)"
         },
         {
           "key": "i1578",
           "occurrence": 1,
           "source": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)大天使之翼(11档)>",
-          "target": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)大天使之翼(11档)>"
+          "target": "Nhấp đúp để dùng: Nâng hệ thống Cánh thành <(c0xFFFFFAF0)Đại Thiên Sứ Chi Dực (Bậc 11)>"
         },
         {
           "key": "n1579",
           "occurrence": 1,
           "source": "魔神之佑(10档)",
-          "target": "魔神之佑(10档)"
+          "target": "Che Chở Ma Thần (Bậc 10)"
         },
         {
           "key": "i1579",
           "occurrence": 1,
           "source": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)魔神之佑(10档)>",
-          "target": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)魔神之佑(10档)>"
+          "target": "Nhấp đúp để dùng: Nâng hệ thống Cánh thành <(c0xFFFFFAF0)Che Chở Ma Thần (Bậc 10)>"
         },
         {
           "key": "n1580",
           "occurrence": 1,
           "source": "蝶仙之翼(12档)",
-          "target": "蝶仙之翼(12档)"
+          "target": "Cánh Tiên Điệp (Bậc 12)"
         },
         {
           "key": "i1580",
           "occurrence": 1,
           "source": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)蝶仙之翼(12档)>",
-          "target": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)蝶仙之翼(12档)>"
+          "target": "Nhấp đúp để dùng: Nâng hệ thống Cánh thành <(c0xFFFFFAF0)Cánh Tiên Điệp (Bậc 12)>"
         },
         {
           "key": "n1581",
           "occurrence": 1,
           "source": "魔王之翼(13档)",
-          "target": "魔王之翼(13档)"
+          "target": "Cánh Ma Vương (Bậc 13)"
         },
         {
           "key": "i1581",
           "occurrence": 1,
           "source": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)魔王之翼(13档)>",
-          "target": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)魔王之翼(13档)>"
+          "target": "Nhấp đúp để dùng: Nâng hệ thống Cánh thành <(c0xFFFFFAF0)Cánh Ma Vương (Bậc 13)>"
         },
         {
           "key": "n1582",
           "occurrence": 1,
           "source": "炼狱麻痹戒指(废弃)",
-          "target": "炼狱麻痹戒指(废弃)"
+          "target": "Nhẫn Tê Liệt Luyện Ngục (Bỏ)"
         },
         {
           "key": "i1582",
@@ -57896,7 +57896,7 @@
           "key": "n1583",
           "occurrence": 1,
           "source": "辉煌护体戒指(废弃)",
-          "target": "辉煌护体戒指(废弃)"
+          "target": "Nhẫn Hộ Thể Huy Hoàng (Bỏ)"
         },
         {
           "key": "i1583",
@@ -57908,7 +57908,7 @@
           "key": "n1584",
           "occurrence": 1,
           "source": "碧海复活戒指(废弃)",
-          "target": "碧海复活戒指(废弃)"
+          "target": "Nhẫn Phục Sinh Bích Hải (Bỏ)"
         },
         {
           "key": "i1584",
