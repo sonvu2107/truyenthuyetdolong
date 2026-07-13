@@ -29116,43 +29116,43 @@
           "key": "desc413",
           "occurrence": 1,
           "source": "突破龙龟的封锁,<逆龙将/M王城:0:0:逆龙将>让你去找<龟丞相/M王城:0:0:龟丞相>.",
-          "target": "突破龙龟的封锁,<逆龙将/M王城:0:0:逆龙将>让你去找<龟丞相/M王城:0:0:龟丞相>."
+          "target": "Phá vây Long Quy, <Tướng Nghịch Long/M王城:0:0:逆龙将> bảo ngươi tìm <Tể Tướng Rùa/M王城:0:0:龟丞相>."
         },
         {
           "key": "desc414",
           "occurrence": 1,
           "source": "帮助<龟丞相/M王城:0:0:龟丞相>完成指定的任务.",
-          "target": "帮助<龟丞相/M王城:0:0:龟丞相>完成指定的任务."
+          "target": "Giúp <Tể Tướng Rùa/M王城:0:0:龟丞相> hoàn thành nhiệm vụ được giao."
         },
         {
           "key": "desc415",
           "occurrence": 1,
           "source": "将等级提升到67级",
-          "target": "将等级提升到67级"
+          "target": "Đạt cấp 67"
         },
         {
           "key": "desc416",
           "occurrence": 1,
           "source": "帮助<龟丞相/M海底世界二层:0:0:龟丞相>赶走前来偷袭的水鬼..",
-          "target": "帮助<龟丞相/M海底世界二层:0:0:龟丞相>赶走前来偷袭的水鬼.."
+          "target": "Giúp <Tể Tướng Rùa/M海底世界二层:0:0:龟丞相> đuổi Thủy Quỷ tập kích."
         },
         {
           "key": "desc417",
           "occurrence": 1,
           "source": "龙兽来袭,保护<龟丞相/M海底世界二层:0:0:龟丞相>的安全.",
-          "target": "龙兽来袭,保护<龟丞相/M海底世界二层:0:0:龟丞相>的安全."
+          "target": "Long Thú tập kích, hãy bảo vệ <Tể Tướng Rùa/M海底世界二层:0:0:龟丞相>."
         },
         {
           "key": "desc418",
           "occurrence": 1,
           "source": "<龟丞相/M海底世界二层:0:0:龟丞相>让你采集侏儒草带给受伤的<逆龙将/M海底世界二层:0:0:逆龙将>.",
-          "target": "<龟丞相/M海底世界二层:0:0:龟丞相>让你采集侏儒草带给受伤的<逆龙将/M海底世界二层:0:0:逆龙将>."
+          "target": "<Tể Tướng Rùa/M海底世界二层:0:0:龟丞相> bảo ngươi hái Cỏ Lùn cho <Tướng Nghịch Long/M海底世界二层:0:0:逆龙将> bị thương."
         },
         {
           "key": "desc419",
           "occurrence": 1,
           "source": "<逆龙将/M海底世界二层:0:0:逆龙将>伤势未愈,帮他完成指定的任务.",
-          "target": "<逆龙将/M海底世界二层:0:0:逆龙将>伤势未愈,帮他完成指定的任务."
+          "target": "<Tướng Nghịch Long/M海底世界二层:0:0:逆龙将> chưa lành thương, hãy giúp hoàn thành nhiệm vụ."
         },
         {
           "key": "desc42",
@@ -29164,19 +29164,19 @@
           "key": "desc420",
           "occurrence": 1,
           "source": "<逆龙将/M海底世界二层:0:0:逆龙将>指引你去三层去找<海皇弟子/M海底世界三层:0:0:海皇弟子>.",
-          "target": "<逆龙将/M海底世界二层:0:0:逆龙将>指引你去三层去找<海皇弟子/M海底世界三层:0:0:海皇弟子>."
+          "target": "<Tướng Nghịch Long/M海底世界二层:0:0:逆龙将> chỉ ngươi lên tầng 3 tìm <Đệ Tử Hải Hoàng/M海底世界三层:0:0:海皇弟子>."
         },
         {
           "key": "desc421",
           "occurrence": 1,
           "source": "打败守卫,向<海皇弟子/M海底世界三层:0:0:海皇弟子>证明自己的实力.",
-          "target": "打败守卫,向<海皇弟子/M海底世界三层:0:0:海皇弟子>证明自己的实力."
+          "target": "Đánh bại lính canh, chứng minh thực lực với <Đệ Tử Hải Hoàng/M海底世界三层:0:0:海皇弟子>."
         },
         {
           "key": "desc422",
           "occurrence": 1,
           "source": "将等级提升到68级.",
-          "target": "将等级提升到68级."
+          "target": "Đạt cấp 68."
         },
         {
           "key": "desc423",
