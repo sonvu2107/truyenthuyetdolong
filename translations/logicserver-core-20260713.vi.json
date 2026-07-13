@@ -49700,55 +49700,55 @@
           "key": "n900",
           "occurrence": 1,
           "source": "物防宝石碎片(废弃)",
-          "target": "物防宝石碎片(废弃)"
+          "target": "Mảnh Đá Phòng Thủ Vật Lý (Bỏ)"
         },
         {
           "key": "i900",
           "occurrence": 1,
           "source": "双击使用,3个物防宝石碎片合成1个1级物防宝石",
-          "target": "双击使用,3个物防宝石碎片合成1个1级物防宝石"
+          "target": "Dùng 3 Mảnh Đá Phòng Thủ Vật Lý hợp thành 1 Đá Phòng Thủ Vật Lý Cấp 1"
         },
         {
           "key": "n901",
           "occurrence": 1,
           "source": "魔防宝石碎片(废弃)",
-          "target": "魔防宝石碎片(废弃)"
+          "target": "Mảnh Đá Phòng Thủ Phép (Bỏ)"
         },
         {
           "key": "i901",
           "occurrence": 1,
           "source": "双击使用,3个魔防宝石碎片合成1个1级魔防宝石",
-          "target": "双击使用,3个魔防宝石碎片合成1个1级魔防宝石"
+          "target": "Dùng 3 Mảnh Đá Phòng Thủ Phép hợp thành 1 Đá Phòng Thủ Phép Cấp 1"
         },
         {
           "key": "n902",
           "occurrence": 1,
           "source": "生命宝石碎片(废弃)",
-          "target": "生命宝石碎片(废弃)"
+          "target": "Mảnh Đá Sinh Lực (Bỏ)"
         },
         {
           "key": "i902",
           "occurrence": 1,
           "source": "双击使用,3个生命宝石碎片合成1个1级生命宝石",
-          "target": "双击使用,3个生命宝石碎片合成1个1级生命宝石"
+          "target": "Dùng 3 Mảnh Đá Sinh Lực hợp thành 1 Đá Sinh Lực Cấp 1"
         },
         {
           "key": "n903",
           "occurrence": 1,
           "source": "魔法宝石碎片(废弃)",
-          "target": "魔法宝石碎片(废弃)"
+          "target": "Mảnh Đá Ma Pháp (Bỏ)"
         },
         {
           "key": "i903",
           "occurrence": 1,
           "source": "双击使用,3个魔法宝石碎片合成1个1级魔法宝石",
-          "target": "双击使用,3个魔法宝石碎片合成1个1级魔法宝石"
+          "target": "Dùng 3 Mảnh Đá Ma Pháp hợp thành 1 Đá Ma Pháp Cấp 1"
         },
         {
           "key": "n904",
           "occurrence": 1,
           "source": "太虚珍珠(废弃)",
-          "target": "太虚珍珠(废弃)"
+          "target": "Trân Châu Thái Hư (Bỏ)"
         },
         {
           "key": "i904",
@@ -49760,7 +49760,7 @@
           "key": "n905",
           "occurrence": 1,
           "source": "屠龙之刃(废弃)",
-          "target": "屠龙之刃(废弃)"
+          "target": "Lưỡi Đồ Long (Bỏ)"
         },
         {
           "key": "i905",
