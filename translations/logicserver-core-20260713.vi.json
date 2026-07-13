@@ -56708,7 +56708,7 @@
           "key": "n1484",
           "occurrence": 1,
           "source": "1星(废弃)",
-          "target": "1星(废弃)"
+          "target": "Sao 1 (Bỏ)"
         },
         {
           "key": "i1484",
@@ -56720,7 +56720,7 @@
           "key": "n1485",
           "occurrence": 1,
           "source": "2星(废弃)",
-          "target": "2星(废弃)"
+          "target": "Sao 2 (Bỏ)"
         },
         {
           "key": "i1485",
@@ -56732,7 +56732,7 @@
           "key": "n1486",
           "occurrence": 1,
           "source": "3星(废弃)",
-          "target": "3星(废弃)"
+          "target": "Sao 3 (Bỏ)"
         },
         {
           "key": "i1486",
@@ -56744,7 +56744,7 @@
           "key": "n1487",
           "occurrence": 1,
           "source": "4星(废弃)",
-          "target": "4星(废弃)"
+          "target": "Sao 4 (Bỏ)"
         },
         {
           "key": "i1487",
@@ -56756,7 +56756,7 @@
           "key": "n1488",
           "occurrence": 1,
           "source": "5星(废弃)",
-          "target": "5星(废弃)"
+          "target": "Sao 5 (Bỏ)"
         },
         {
           "key": "i1488",
@@ -56768,7 +56768,7 @@
           "key": "n1489",
           "occurrence": 1,
           "source": "6星(废弃)",
-          "target": "6星(废弃)"
+          "target": "Sao 6 (Bỏ)"
         },
         {
           "key": "i1489",
@@ -56780,7 +56780,7 @@
           "key": "n1490",
           "occurrence": 1,
           "source": "7星(废弃)",
-          "target": "7星(废弃)"
+          "target": "Sao 7 (Bỏ)"
         },
         {
           "key": "i1490",
@@ -56792,7 +56792,7 @@
           "key": "n1491",
           "occurrence": 1,
           "source": "8星(废弃)",
-          "target": "8星(废弃)"
+          "target": "Sao 8 (Bỏ)"
         },
         {
           "key": "i1491",
@@ -56804,7 +56804,7 @@
           "key": "n1492",
           "occurrence": 1,
           "source": "9星(废弃)",
-          "target": "9星(废弃)"
+          "target": "Sao 9 (Bỏ)"
         },
         {
           "key": "i1492",
@@ -56816,31 +56816,31 @@
           "key": "n1493",
           "occurrence": 1,
           "source": "高富帅(废弃)",
-          "target": "高富帅(废弃)"
+          "target": "Cao Phú Soái (Bỏ)"
         },
         {
           "key": "i1493",
           "occurrence": 1,
           "source": "现代型男三标准：\\\\<(c0xFF00FF00)高>！<(c0xFFFFFF00)富>！<(c0xFF00FFFF)帅>！\\\\双击使用，即可获得型男专属身份头衔。\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>\\\\<(c0xFF00FF00)有效期：10天>",
-          "target": "现代型男三标准：\\\\<(c0xFF00FF00)高>！<(c0xFFFFFF00)富>！<(c0xFF00FFFF)帅>！\\\\双击使用，即可获得型男专属身份头衔。\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>\\\\<(c0xFF00FF00)有效期：10天>"
+          "target": "Ba tiêu chuẩn đàn ông hiện đại:\\\\<(c0xFF00FF00)Cao>! <(c0xFFFFFF00)Giàu>! <(c0xFF00FFFF)Đẹp Trai>!\\\\Nhấp đúp để dùng, nhận Danh Hiệu thân phận độc quyền cho nam.\\\\Đồng thời nhận <(c0xFFCC6600)Thuộc Tính cộng thêm>:\\\\<(c0xFFFFFF00)　HP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　MP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　Phòng Thủ Vật Lý Tối Đa><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　Phòng Thủ Pháp Thuật Tối Đa><(c0xFF00FF00)+20>\\\\<(c0xFF00FF00)Thời hạn: 10 Ngày>"
         },
         {
           "key": "n1494",
           "occurrence": 1,
           "source": "白富美(废弃)",
-          "target": "白富美(废弃)"
+          "target": "Bạch Phú Mỹ (Bỏ)"
         },
         {
           "key": "i1494",
           "occurrence": 1,
           "source": "现代靓女三面观：\\\\白～<(c0xFFFFFF00)富>～<(c0xFFFFD7EA)美>！\\\\双击使用，即可获得靓女专属身份头衔。\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>\\\\<(c0xFF00FF00)有效期：10天>",
-          "target": "现代靓女三面观：\\\\白～<(c0xFFFFFF00)富>～<(c0xFFFFD7EA)美>！\\\\双击使用，即可获得靓女专属身份头衔。\\\\同时获得<(c0xFFCC6600)附加属性>:\\\\<(c0xFFFFFF00)　生命值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　魔法值上限><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　最大物理防御><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　最大魔法防御><(c0xFF00FF00)+20>\\\\<(c0xFF00FF00)有效期：10天>"
+          "target": "Ba tiêu chuẩn mỹ nữ hiện đại:\\\\Trắng ~<(c0xFFFFFF00)Giàu>~<(c0xFFFFD7EA)Đẹp>!\\\\Nhấp đúp để dùng, nhận Danh Hiệu thân phận độc quyền cho nữ.\\\\Đồng thời nhận <(c0xFFCC6600)Thuộc Tính cộng thêm>:\\\\<(c0xFFFFFF00)　HP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　MP Tối Đa><(c0xFF00FF00)+5%>\\\\<(c0xFFFFFF00)　Phòng Thủ Vật Lý Tối Đa><(c0xFF00FF00)+20>\\\\<(c0xFFFFFF00)　Phòng Thủ Pháp Thuật Tối Đa><(c0xFF00FF00)+20>\\\\<(c0xFF00FF00)Thời hạn: 10 Ngày>"
         },
         {
           "key": "n1495",
           "occurrence": 1,
           "source": "中级神圣戒指(废弃)",
-          "target": "中级神圣戒指(废弃)"
+          "target": "Nhẫn Thần Thánh Trung Cấp (Bỏ)"
         },
         {
           "key": "i1495",
@@ -56852,7 +56852,7 @@
           "key": "n1496",
           "occurrence": 1,
           "source": "高级神圣戒指(废弃)",
-          "target": "高级神圣戒指(废弃)"
+          "target": "Nhẫn Thần Thánh Cao Cấp (Bỏ)"
         },
         {
           "key": "i1496",
@@ -56864,7 +56864,7 @@
           "key": "n1497",
           "occurrence": 1,
           "source": "超级神圣戒指(废弃)",
-          "target": "超级神圣戒指(废弃)"
+          "target": "Nhẫn Thần Thánh Siêu Cấp (Bỏ)"
         },
         {
           "key": "i1497",
@@ -56876,7 +56876,7 @@
           "key": "n1498",
           "occurrence": 1,
           "source": "终极神圣戒指(废弃)",
-          "target": "终极神圣戒指(废弃)"
+          "target": "Nhẫn Thần Thánh Chung Cực (Bỏ)"
         },
         {
           "key": "i1498",
@@ -56888,7 +56888,7 @@
           "key": "n1499",
           "occurrence": 1,
           "source": "究极神圣戒指(废弃)",
-          "target": "究极神圣戒指(废弃)"
+          "target": "Nhẫn Thần Thánh Tối Cực (Bỏ)"
         },
         {
           "key": "i1499",
