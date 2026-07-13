@@ -70916,7 +70916,7 @@
           "key": "n2668",
           "occurrence": 1,
           "source": "8435374经验大礼包(废弃)",
-          "target": "8435374经验大礼包(废弃)"
+          "target": "Gói KN 8435374 (Đã bỏ)"
         },
         {
           "key": "i2668",
@@ -70928,85 +70928,85 @@
           "key": "n2669",
           "occurrence": 1,
           "source": "装备提升包",
-          "target": "装备提升包"
+          "target": "Gói Tăng Cấp Trang Bị"
         },
         {
           "key": "i2669",
           "occurrence": 1,
           "source": "双击打开,消耗<(c0xFFFFFF00)1276元宝>，获得以下物品:\\\\50装备升级石x8\\\\金条x1\\\\3级攻击宝石x2\\\\战力提升包x1",
-          "target": "双击打开,消耗<(c0xFFFFFF00)1276元宝>，获得以下物品:\\\\50装备升级石x8\\\\金条x1\\\\3级攻击宝石x2\\\\战力提升包x1"
+          "target": "Nhấp đúp để mở, tiêu hao <(c0xFFFFFF00)1276 Nguyên Bảo>, nhận các vật phẩm sau:\\\\Đá Nâng Cấp Trang Bị Cấp 50x8\\\\Thỏi Vàngx1\\\\Đá Quý Tấn Công Cấp 3x2\\\\Gói Tăng CSx1"
         },
         {
           "key": "n2670",
           "occurrence": 1,
           "source": "战力提升包",
-          "target": "战力提升包"
+          "target": "Gói Tăng CS"
         },
         {
           "key": "i2670",
           "occurrence": 1,
           "source": "双击打开,消耗<(c0xFFFFFF00)2188元宝>，获得以下物品:\\\\勋章灵石x3\\\\10级完美强化卡x1\\\\50装备升级石x8\\\\未辨识符文x5\\\\超级辨识符x3\\\\王者提升包x1",
-          "target": "双击打开,消耗<(c0xFFFFFF00)2188元宝>，获得以下物品:\\\\勋章灵石x3\\\\10级完美强化卡x1\\\\50装备升级石x8\\\\未辨识符文x5\\\\超级辨识符x3\\\\王者提升包x1"
+          "target": "Nhấp đúp để mở, tiêu hao <(c0xFFFFFF00)2188 Nguyên Bảo>, nhận các vật phẩm sau:\\\\Linh Thạch Huy Chươngx3\\\\Thẻ Cường Hóa Hoàn Mỹ Cấp 10x1\\\\Đá Nâng Cấp Trang Bị Cấp 50x8\\\\Phù Văn Chưa Giám Địnhx5\\\\Bùa Giám Định Siêu Cấpx3\\\\Gói Tăng Cường Vương Giảx1"
         },
         {
           "key": "n2671",
           "occurrence": 1,
           "source": "王者提升包",
-          "target": "王者提升包"
+          "target": "Gói Tăng Cường Vương Giả"
         },
         {
           "key": "i2671",
           "occurrence": 1,
           "source": "双击打开,消耗<(c0xFFFFFF00)4888元宝>，获得以下物品:\\\\神魂晶石x3\\\\5级物防宝石x1\\\\5级魔防宝石x1\\\\15级完美强化卡x1\\\\装备淘宝令牌x1\\\\金条x2",
-          "target": "双击打开,消耗<(c0xFFFFFF00)4888元宝>，获得以下物品:\\\\神魂晶石x3\\\\5级物防宝石x1\\\\5级魔防宝石x1\\\\15级完美强化卡x1\\\\装备淘宝令牌x1\\\\金条x2"
+          "target": "Nhấp đúp để mở, tiêu hao <(c0xFFFFFF00)4888 Nguyên Bảo>, nhận các vật phẩm sau:\\\\Tinh Thạch Thần Hồnx3\\\\Đá Quý Phòng Thủ Vật Lý Cấp 5x1\\\\Đá Quý Phòng Thủ Ma Pháp Cấp 5x1\\\\Thẻ Cường Hóa Hoàn Mỹ Cấp 15x1\\\\Lệnh Săn Báu Trang Bịx1\\\\Thỏi Vàngx2"
         },
         {
           "key": "n2672",
           "occurrence": 1,
           "source": "蝙蝠侠(男)",
-          "target": "蝙蝠侠(男)"
+          "target": "Batman (Nam)"
         },
         {
           "key": "i2672",
           "occurrence": 1,
           "source": "隐藏于黑暗中的魔影!\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>",
-          "target": "隐藏于黑暗中的魔影!\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>"
+          "target": "Bóng ma ẩn trong bóng tối!\\\\Có thể tăng thuộc tính thời trang qua <(c0xFF00FF00)Nâng Cấp Trang Bị> trong hệ thống Rèn\\\\<(c0xFF00FF00)Mẹo: có thể mua tại Cửa Hàng hoặc nhận từ Đồ Long>"
         },
         {
           "key": "n2673",
           "occurrence": 1,
           "source": "地狱男爵(男)",
-          "target": "地狱男爵(男)"
+          "target": "Nam Tước Địa Ngục (Nam)"
         },
         {
           "key": "i2673",
           "occurrence": 1,
           "source": "威破蓝宇，欺天传说!\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>",
-          "target": "威破蓝宇，欺天传说!\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>"
+          "target": "Uy chấn trời xanh, truyền thuyết ngạo thiên!\\\\Có thể tăng thuộc tính thời trang qua <(c0xFF00FF00)Nâng Cấp Trang Bị> trong hệ thống Rèn\\\\<(c0xFF00FF00)Mẹo: có thể mua tại Cửa Hàng hoặc nhận từ Đồ Long>"
         },
         {
           "key": "n2674",
           "occurrence": 1,
           "source": "奎托斯(男)",
-          "target": "奎托斯(男)"
+          "target": "Kratos (Nam)"
         },
         {
           "key": "i2674",
           "occurrence": 1,
           "source": "由深渊之石炼制而成!\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>",
-          "target": "由深渊之石炼制而成!\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>"
+          "target": "Được luyện từ Đá Vực Sâu!\\\\Có thể tăng thuộc tính thời trang qua <(c0xFF00FF00)Nâng Cấp Trang Bị> trong hệ thống Rèn\\\\<(c0xFF00FF00)Mẹo: có thể mua tại Cửa Hàng hoặc nhận từ Đồ Long>"
         },
         {
           "key": "n2675",
           "occurrence": 1,
           "source": "奎托斯(女)",
-          "target": "奎托斯(女)"
+          "target": "Kratos (Nữ)"
         },
         {
           "key": "i2675",
           "occurrence": 1,
           "source": "由深渊之石炼制而成\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>",
-          "target": "由深渊之石炼制而成\\\\可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>"
+          "target": "Được luyện từ Đá Vực Sâu\\\\Có thể tăng thuộc tính thời trang qua <(c0xFF00FF00)Nâng Cấp Trang Bị> trong hệ thống Rèn\\\\<(c0xFF00FF00)Mẹo: có thể mua tại Cửa Hàng hoặc nhận từ Đồ Long>"
         },
         {
           "key": "n2676",
