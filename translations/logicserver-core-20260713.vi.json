@@ -24406,7 +24406,7 @@
           "key": "data1210",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data1250",
@@ -24418,7 +24418,7 @@
           "key": "data1260",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data1290",
@@ -24448,55 +24448,55 @@
           "key": "data1400",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data1490",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data1560",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><赤月勇士/M王城:0:0:赤月勇士><(c0xFF1E90FF)进入赤月峡谷><(x王城:0:0:赤月勇士)>",
-          "target": "<(c0xFF1E90FF)找到><赤月勇士/M王城:0:0:赤月勇士><(c0xFF1E90FF)进入赤月峡谷><(x王城:0:0:赤月勇士)>"
+          "target": "<(c0xFF1E90FF)Tìm><Dũng Sĩ Xích Nguyệt/M王城:0:0:赤月勇士><(c0xFF1E90FF)vào Hẻm Núi Xích Nguyệt><(x王城:0:0:赤月勇士)>"
         },
         {
           "key": "data1650",
           "occurrence": 1,
           "source": "<膜拜/M王城:0:0:城主雕像><(c0xFF1E90FF)一次>",
-          "target": "<膜拜/M王城:0:0:城主雕像><(c0xFF1E90FF)一次>"
+          "target": "<Cúng Bái/M王城:0:0:城主雕像><(c0xFF1E90FF)1 lần>"
         },
         {
           "key": "data1660",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><赤月勇士/M王城:0:0:赤月勇士><(c0xFF1E90FF)进入赤月峡谷><(x王城:0:0:赤月勇士)>",
-          "target": "<(c0xFF1E90FF)找到><赤月勇士/M王城:0:0:赤月勇士><(c0xFF1E90FF)进入赤月峡谷><(x王城:0:0:赤月勇士)>"
+          "target": "<(c0xFF1E90FF)Tìm><Dũng Sĩ Xích Nguyệt/M王城:0:0:赤月勇士><(c0xFF1E90FF)vào Hẻm Núi Xích Nguyệt><(x王城:0:0:赤月勇士)>"
         },
         {
           "key": "data1700",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:巨大蚊子><(x幽暗丛林:0:0:巨大蚊子)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:189:119>",
-          "target": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:巨大蚊子><(x幽暗丛林:0:0:巨大蚊子)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:189:119>"
+          "target": "<(c0xFF1E90FF)Rừng U Ám><Quái Bất Kỳ/M幽暗丛林:0:0:巨大蚊子><(x幽暗丛林:0:0:巨大蚊子)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng U Ám/M幽暗丛林:189:119>"
         },
         {
           "key": "data1710",
           "occurrence": 1,
           "source": "<快速升级可通过做/@@showWin,1009,0,0>",
-          "target": "<快速升级可通过做/@@showWin,1009,0,0>"
+          "target": "<Tăng cấp nhanh bằng cách làm/@@showWin,1009,0,0>"
         },
         {
           "key": "data1760",
           "occurrence": 1,
           "source": "<请做狩猎任务/@@showWin,63>",
-          "target": "<请做狩猎任务/@@showWin,63>"
+          "target": "<Hãy làm nhiệm vụ săn quái/@@showWin,63>"
         },
         {
           "key": "data1770",
           "occurrence": 1,
           "source": "<接取狩猎任务/@@showWin,63>",
-          "target": "<接取狩猎任务/@@showWin,63>"
+          "target": "<Nhận nhiệm vụ săn quái/@@showWin,63>"
         },
         {
           "key": "data180",
