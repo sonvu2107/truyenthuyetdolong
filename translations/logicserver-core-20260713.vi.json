@@ -61844,109 +61844,109 @@
           "key": "n1912",
           "occurrence": 1,
           "source": "木材(普通)",
-          "target": "木材(普通)"
+          "target": "Gỗ (Thường)"
         },
         {
           "key": "i1912",
           "occurrence": 1,
           "source": "将它投入屠龙城篝火堆，可以获得微量火种，增加火焰等级",
-          "target": "将它投入屠龙城篝火堆，可以获得微量火种，增加火焰等级"
+          "target": "Đưa vào đống lửa trại Thành Đồ Long, nhận lượng rất nhỏ Hỏa Chủng, tăng cấp Lửa"
         },
         {
           "key": "n1913",
           "occurrence": 1,
           "source": "木材(高级)",
-          "target": "木材(高级)"
+          "target": "Gỗ (Cao Cấp)"
         },
         {
           "key": "i1913",
           "occurrence": 1,
           "source": "将它投入屠龙城篝火堆，可以获得一些火种，增加火焰等级",
-          "target": "将它投入屠龙城篝火堆，可以获得一些火种，增加火焰等级"
+          "target": "Đưa vào đống lửa trại Thành Đồ Long, nhận một ít Hỏa Chủng, tăng cấp Lửa"
         },
         {
           "key": "n1914",
           "occurrence": 1,
           "source": "木材(完美)",
-          "target": "木材(完美)"
+          "target": "Gỗ (Hoàn Mỹ)"
         },
         {
           "key": "i1914",
           "occurrence": 1,
           "source": "将它投入屠龙城篝火堆，可以获得少量火种，增加火焰等级",
-          "target": "将它投入屠龙城篝火堆，可以获得少量火种，增加火焰等级"
+          "target": "Đưa vào đống lửa trại Thành Đồ Long, nhận ít Hỏa Chủng, tăng cấp Lửa"
         },
         {
           "key": "n1915",
           "occurrence": 1,
           "source": "木材(极品)",
-          "target": "木材(极品)"
+          "target": "Gỗ (Cực Phẩm)"
         },
         {
           "key": "i1915",
           "occurrence": 1,
           "source": "将它投入屠龙城篝火堆，可以获得很多火种，增加火焰等级",
-          "target": "将它投入屠龙城篝火堆，可以获得很多火种，增加火焰等级"
+          "target": "Đưa vào đống lửa trại Thành Đồ Long, nhận nhiều Hỏa Chủng, tăng cấp Lửa"
         },
         {
           "key": "n1916",
           "occurrence": 1,
           "source": "木材(传说)",
-          "target": "木材(传说)"
+          "target": "Gỗ (Truyền Thuyết)"
         },
         {
           "key": "i1916",
           "occurrence": 1,
           "source": "将它投入屠龙城篝火堆，可以获得大量火种，增加火焰等级",
-          "target": "将它投入屠龙城篝火堆，可以获得大量火种，增加火焰等级"
+          "target": "Đưa vào đống lửa trại Thành Đồ Long, nhận lượng lớn Hỏa Chủng, tăng cấp Lửa"
         },
         {
           "key": "n1917",
           "occurrence": 1,
           "source": "烤肉",
-          "target": "烤肉"
+          "target": "Thịt Nướng"
         },
         {
           "key": "i1917",
           "occurrence": 1,
           "source": "这是一块香喷喷的烤肉，双击使用后可获得经验奖励",
-          "target": "这是一块香喷喷的烤肉，双击使用后可获得经验奖励"
+          "target": "Miếng thịt nướng thơm phức, nhấp đúp để dùng nhận thưởng KN"
         },
         {
           "key": "n1918",
           "occurrence": 1,
           "source": "羊肉",
-          "target": "羊肉"
+          "target": "Thịt Cừu"
         },
         {
           "key": "i1918",
           "occurrence": 1,
           "source": "这是一块香喷喷的羊肉，双击使用后可获得经验奖励",
-          "target": "这是一块香喷喷的羊肉，双击使用后可获得经验奖励"
+          "target": "Miếng thịt cừu thơm phức, nhấp đúp để dùng nhận thưởng KN"
         },
         {
           "key": "n1919",
           "occurrence": 1,
           "source": "羊腿",
-          "target": "羊腿"
+          "target": "Đùi Cừu"
         },
         {
           "key": "i1919",
           "occurrence": 1,
           "source": "这是一块香喷喷的羊腿，双击使用后可获得经验奖励",
-          "target": "这是一块香喷喷的羊腿，双击使用后可获得经验奖励"
+          "target": "Chiếc đùi cừu thơm phức, nhấp đúp để dùng nhận thưởng KN"
         },
         {
           "key": "n1920",
           "occurrence": 1,
           "source": "羊排",
-          "target": "羊排"
+          "target": "Sườn Cừu"
         },
         {
           "key": "i1920",
           "occurrence": 1,
           "source": "这是一块香喷喷的羊排，双击使用后可获得经验奖励",
-          "target": "这是一块香喷喷的羊排，双击使用后可获得经验奖励"
+          "target": "Miếng sườn cừu thơm phức, nhấp đúp để dùng nhận thưởng KN"
         },
         {
           "key": "n1921",
