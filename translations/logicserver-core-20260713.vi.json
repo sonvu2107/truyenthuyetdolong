@@ -29320,55 +29320,55 @@
           "key": "desc451",
           "occurrence": 1,
           "source": "<仙姬/M美女村:0:0:仙姬>让你去找<赵飞燕/M美女村:0:0:赵飞燕>.",
-          "target": "<仙姬/M美女村:0:0:仙姬>让你去找<赵飞燕/M美女村:0:0:赵飞燕>."
+          "target": "<Tiên Cơ/M美女村:0:0:仙姬> bảo ngươi tìm <Triệu Phi Yến/M美女村:0:0:赵飞燕>."
         },
         {
           "key": "desc452",
           "occurrence": 1,
           "source": "<西施/M美女村:0:0:西施>指引你去找<蝶儿/M边界村:0:0:蝶儿>",
-          "target": "<西施/M美女村:0:0:西施>指引你去找<蝶儿/M边界村:0:0:蝶儿>"
+          "target": "<Tây Thi/M美女村:0:0:西施> chỉ ngươi tìm <Điệp Nhi/M边界村:0:0:蝶儿>"
         },
         {
           "key": "desc453",
           "occurrence": 1,
           "source": "与<拜月圣女/M仙侠村:0:0:拜月圣女>对话.",
-          "target": "与<拜月圣女/M仙侠村:0:0:拜月圣女>对话."
+          "target": "Nói chuyện với <Thánh Nữ Bái Nguyệt/M仙侠村:0:0:拜月圣女>."
         },
         {
           "key": "desc454",
           "occurrence": 1,
           "source": "<拜月圣女/M仙侠村:0:0:拜月圣女>让你去找<赵灵儿/M仙侠村:0:0:赵灵儿>.",
-          "target": "<拜月圣女/M仙侠村:0:0:拜月圣女>让你去找<赵灵儿/M仙侠村:0:0:赵灵儿>."
+          "target": "<Thánh Nữ Bái Nguyệt/M仙侠村:0:0:拜月圣女> bảo ngươi tìm <Triệu Linh Nhi/M仙侠村:0:0:赵灵儿>."
         },
         {
           "key": "desc455",
           "occurrence": 1,
           "source": "<酒剑仙/M仙侠村:0:0:酒剑仙>让你前往红尘寻找故人之子<蝶儿/M边界村:0:0:蝶儿>.",
-          "target": "<酒剑仙/M仙侠村:0:0:酒剑仙>让你前往红尘寻找故人之子<蝶儿/M边界村:0:0:蝶儿>."
+          "target": "<Tửu Kiếm Tiên/M仙侠村:0:0:酒剑仙> bảo ngươi đến Hồng Trần tìm <Điệp Nhi/M边界村:0:0:蝶儿>, con của cố nhân."
         },
         {
           "key": "desc456",
           "occurrence": 1,
           "source": "<赵飞燕/M美女村:0:0:赵飞燕>指引你去找<西施/M美女村:0:0:西施>",
-          "target": "<赵飞燕/M美女村:0:0:赵飞燕>指引你去找<西施/M美女村:0:0:西施>"
+          "target": "<Triệu Phi Yến/M美女村:0:0:赵飞燕> chỉ ngươi tìm <Tây Thi/M美女村:0:0:西施>"
         },
         {
           "key": "desc457",
           "occurrence": 1,
           "source": "<赵灵儿/M仙侠村:0:0:赵灵儿>让你去拜访<酒剑仙/M仙侠村:0:0:酒剑仙>前辈.",
-          "target": "<赵灵儿/M仙侠村:0:0:赵灵儿>让你去拜访<酒剑仙/M仙侠村:0:0:酒剑仙>前辈."
+          "target": "<Triệu Linh Nhi/M仙侠村:0:0:赵灵儿> bảo ngươi bái kiến <Tửu Kiếm Tiên/M仙侠村:0:0:酒剑仙> tiền bối."
         },
         {
           "key": "desc458",
           "occurrence": 1,
           "source": "来到云烟水村,找到负责迎接的<云烟水村长/M云烟水村:0:0:云烟水村长>.",
-          "target": "来到云烟水村,找到负责迎接的<云烟水村长/M云烟水村:0:0:云烟水村长>."
+          "target": "Đến Vân Yên Thủy Thôn, gặp <Trưởng Thôn Vân Yên/M云烟水村:0:0:云烟水村长> đón tiếp."
         },
         {
           "key": "desc459",
           "occurrence": 1,
           "source": "村内最近闹妖怪,<云烟水村长/M云烟水村:0:0:云烟水村长>请你去找<灭魔道士/M云烟水村:0:0:灭魔道士>.",
-          "target": "村内最近闹妖怪,<云烟水村长/M云烟水村:0:0:云烟水村长>请你去找<灭魔道士/M云烟水村:0:0:灭魔道士>."
+          "target": "Vân Yên Thủy Thôn có yêu quái, <Trưởng Thôn Vân Yên/M云烟水村:0:0:云烟水村长> nhờ ngươi tìm <Đạo Sĩ Diệt Ma/M云烟水村:0:0:灭魔道士>."
         },
         {
           "key": "desc46",
@@ -29380,7 +29380,7 @@
           "key": "desc460",
           "occurrence": 1,
           "source": "<灭魔道士/M云烟水村:0:0:灭魔道士>想请你去找<水生/M云烟水村:0:0:水生>要赏金.",
-          "target": "<灭魔道士/M云烟水村:0:0:灭魔道士>想请你去找<水生/M云烟水村:0:0:水生>要赏金."
+          "target": "<Đạo Sĩ Diệt Ma/M云烟水村:0:0:灭魔道士> bảo ngươi gặp <Thủy Sinh/M云烟水村:0:0:水生> nhận thưởng."
         },
         {
           "key": "desc461",
