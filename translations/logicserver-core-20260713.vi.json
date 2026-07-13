@@ -37540,61 +37540,61 @@
           "key": "promTlk4931",
           "occurrence": 1,
           "source": "勇者大陆收到魔物的侵袭,如今连城外的幼龙都在跑到城内大肆破坏,你去消灭它们吧!\\\\",
-          "target": "勇者大陆收到魔物的侵袭,如今连城外的幼龙都在跑到城内大肆破坏,你去消灭它们吧!\\\\"
+      "target": "Đại Lục Dũng Sĩ bị ma vật xâm lược, cả Ấu Long ngoài thành cũng vào phá hoại. Hãy diệt chúng!\\\\"
         },
         {
           "key": "promTlk4941",
           "occurrence": 1,
           "source": "群魔堡垒有地狱熔炉之称,我委托了罗格佣兵帮我寻找炼狱之火,不知情况如何,你前去看看情况.\\\\",
-          "target": "群魔堡垒有地狱熔炉之称,我委托了罗格佣兵帮我寻找炼狱之火,不知情况如何,你前去看看情况.\\\\"
+      "target": "Pháo Đài Quần Ma còn gọi là Lò Rèn Địa Ngục. Ta nhờ Lính Đánh Thuê Rogue tìm Lửa Luyện Ngục, hãy đi xem tình hình.\\\\"
         },
         {
           "key": "promTlk4951",
           "occurrence": 1,
           "source": "要采集地狱之火,必须去到平原尽头,如今前路都被指尖法师堵住,必须清除它们才能前往.\\\\",
-          "target": "要采集地狱之火,必须去到平原尽头,如今前路都被指尖法师堵住,必须清除它们才能前往.\\\\"
+      "target": "Muốn thu thập Lửa Địa Ngục phải đến cuối đồng bằng. Pháp Sư Chỉ Tiêm chặn đường, hãy dọn chúng trước.\\\\"
         },
         {
           "key": "promTlk4961",
           "occurrence": 1,
           "source": "地狱之火有着恶魔的力量,会吸引强大的邪恶守护,要想顺利采集必须要消灭守护者遗忘骑士,那边会有雷山德接应你!\\\\",
-          "target": "地狱之火有着恶魔的力量,会吸引强大的邪恶守护,要想顺利采集必须要消灭守护者遗忘骑士,那边会有雷山德接应你!\\\\"
+      "target": "Lửa Địa Ngục thu hút tà ác mạnh. Muốn thu thập, hãy diệt Kỵ Sĩ Lãng Quên; Reisande sẽ đón ngươi ở đó!\\\\"
         },
         {
           "key": "promTlk4971",
           "occurrence": 1,
           "source": "那边的区域有很多邪恶魔子恶魔在守护着，要进入火焰之河就要消灭它们!\\\\",
-          "target": "那边的区域有很多邪恶魔子恶魔在守护着，要进入火焰之河就要消灭它们!\\\\"
+      "target": "Khu đó có nhiều Ma Tử Tà Ác canh giữ. Muốn vào Sông Lửa phải diệt chúng!\\\\"
         },
         {
           "key": "promTlk4981",
           "occurrence": 1,
           "source": "这是你的功劳,,我还要留在这里观察一阵子,总觉得会有什么大事发生.你去前方找到雷山德帮他一下.\\\\",
-          "target": "这是你的功劳,,我还要留在这里观察一阵子,总觉得会有什么大事发生.你去前方找到雷山德帮他一下.\\\\"
+      "target": "Đây là công của ngươi. Ta sẽ ở lại quan sát, cảm thấy sắp có chuyện lớn. Hãy tìm Reisande phía trước và giúp anh ấy.\\\\"
         },
         {
           "key": "promTlk4991",
           "occurrence": 1,
           "source": "骷髅恶魔滋生,嗜血残忍,你替我前去消灭它们!\\\\",
-          "target": "骷髅恶魔滋生,嗜血残忍,你替我前去消灭它们!\\\\"
+      "target": "Ác Ma Khô Lâu sinh sôi, khát máu tàn nhẫn. Hãy đi diệt chúng giúp ta!\\\\"
         },
         {
           "key": "promTlk5001",
           "occurrence": 1,
           "source": "现在可以进入火焰之河了,里面有我的好友,你过去他就知道你了.\\\\",
-          "target": "现在可以进入火焰之河了,里面有我的好友,你过去他就知道你了.\\\\"
+      "target": "Giờ có thể vào Sông Lửa. Bạn ta ở trong đó, ngươi đến là anh ấy sẽ nhận ra.\\\\"
         },
         {
           "key": "promTlk501",
           "occurrence": 1,
           "source": "你见过卓格南那个老头没有?据说挺神秘的呢,有很多技能书卖,你去拜访下他吧!\\\\",
-          "target": "你见过卓格南那个老头没有?据说挺神秘的呢,有很多技能书卖,你去拜访下他吧!\\\\"
+      "target": "Ngươi đã gặp lão Drognan chưa? Ông ấy khá bí ẩn, bán nhiều Sách Kỹ Năng. Hãy đến gặp ông ấy!\\\\"
         },
         {
           "key": "promTlk5011",
           "occurrence": 1,
           "source": "前方有一批恶魔弓手集结,你可以帮我去消灭它们吗?\\\\",
-          "target": "前方有一批恶魔弓手集结,你可以帮我去消灭它们吗?\\\\"
+      "target": "Phía trước có một đội Cung Thủ Ác Ma tập kết. Ngươi giúp ta diệt chúng được chứ?\\\\"
         },
         {
           "key": "promTlk5021",
