@@ -37840,61 +37840,61 @@
           "key": "promTlk5381",
           "occurrence": 1,
           "source": "自从血鸟背叛了萝格,卡夏就是营地的首领了,你初到营地去见一下卡夏吧.\\\\",
-          "target": "自从血鸟背叛了萝格,卡夏就是营地的首领了,你初到营地去见一下卡夏吧.\\\\"
+      "target": "Từ khi Huyết Điểu phản bội Rogue, Kashya trở thành thủ lĩnh doanh trại. Hãy đến gặp cô ấy.\\\\"
         },
         {
           "key": "promTlk5391",
           "occurrence": 1,
           "source": "营地现在遇见前所未有的危机,血鸟的背叛让我们蒙羞.\\\\",
-          "target": "营地现在遇见前所未有的危机,血鸟的背叛让我们蒙羞.\\\\"
+      "target": "Doanh trại đang gặp nguy cơ chưa từng có, Huyết Điểu phản bội khiến chúng ta nhục nhã.\\\\"
         },
         {
           "key": "promTlk5401",
           "occurrence": 1,
           "source": "佣兵们最近遇到了麻烦,长钉恶魔突然增多,围墙都是它们袭击后留下的尖刺,我想请你前去帮忙消灭一批,让我看看你实力.\\\\",
-          "target": "佣兵们最近遇到了麻烦,长钉恶魔突然增多,围墙都是它们袭击后留下的尖刺,我想请你前去帮忙消灭一批,让我看看你实力.\\\\"
+      "target": "Lính đánh thuê gặp rắc rối: Ác Ma Trường Đinh tăng nhiều, tường đầy gai chúng để lại. Hãy diệt chúng, cho ta xem thực lực!\\\\"
         },
         {
           "key": "promTlk541",
           "occurrence": 1,
           "source": "月亮代表我的心,我以后不会再冲动了,我要让丘比特见证我的爱情!\\\\",
-          "target": "月亮代表我的心,我以后不会再冲动了,我要让丘比特见证我的爱情!\\\\"
+      "target": "Trăng là lòng ta. Sau này ta sẽ không bốc đồng nữa, để Cupid chứng giám tình yêu của ta!\\\\"
         },
         {
           "key": "promTlk5411",
           "occurrence": 1,
           "source": "血鸟堕落了,沉沦魔成为了进攻营地的帮凶,它们狡猾敏捷,佣兵只能坚守,我希望你能前去消灭它们.\\\\",
-          "target": "血鸟堕落了,沉沦魔成为了进攻营地的帮凶,它们狡猾敏捷,佣兵只能坚守,我希望你能前去消灭它们.\\\\"
+      "target": "Huyết Điểu sa ngã, Trầm Luân Ma giúp tấn công doanh trại. Chúng nhanh nhẹn, hãy đến diệt chúng!\\\\"
         },
         {
           "key": "promTlk5421",
           "occurrence": 1,
           "source": "沉沦魔被消灭只是暂时的,它们的巫师拥有召唤重生的能力,要除掉沉沦魔巫师才能彻底的消灭它们.\\\\",
-          "target": "沉沦魔被消灭只是暂时的,它们的巫师拥有召唤重生的能力,要除掉沉沦魔巫师才能彻底的消灭它们.\\\\"
+      "target": "Diệt Trầm Luân Ma chỉ là tạm thời. Pháp Sư của chúng có thể triệu hồi hồi sinh; hãy diệt Pháp Sư Trầm Luân Ma trước.\\\\"
         },
         {
           "key": "promTlk5431",
           "occurrence": 1,
           "source": "为了感谢你,等你到达一定的等级,我给你雇佣兵的权利,现在你应该去找恰西谈谈.\\\\",
-          "target": "为了感谢你,等你到达一定的等级,我给你雇佣兵的权利,现在你应该去找恰西谈谈.\\\\"
+      "target": "Để cảm ơn, khi ngươi đủ cấp ta sẽ cho quyền thuê Lính Đánh Thuê. Giờ hãy đến nói chuyện với Charsi.\\\\"
         },
         {
           "key": "promTlk5441",
           "occurrence": 1,
           "source": "我的魔法铁锤遗失在了营地外被骷髅怪占据,如果你能找回来我赠送你一把强力的暗黑水晶剑,小心,骷髅怪很强的.\\\\",
-          "target": "我的魔法铁锤遗失在了营地外被骷髅怪占据,如果你能找回来我赠送你一把强力的暗黑水晶剑,小心,骷髅怪很强的.\\\\"
+      "target": "Búa Ma Pháp của ta mất ở ngoài doanh trại, nơi Quái Khô Lâu chiếm giữ. Tìm lại được, ta tặng ngươi Kiếm Pha Lê Hắc Ám mạnh.\\\\"
         },
         {
           "key": "promTlk5451",
           "occurrence": 1,
           "source": "群魔堡垒有地狱熔炉之称,我委托了萝格佣兵帮我寻找炼狱之火,不知情况如何,你前去看看情况.\\\\",
-          "target": "群魔堡垒有地狱熔炉之称,我委托了萝格佣兵帮我寻找炼狱之火,不知情况如何,你前去看看情况.\\\\"
+      "target": "Pháo Đài Quần Ma còn gọi là Lò Rèn Địa Ngục. Ta nhờ Lính Đánh Thuê Rogue tìm Lửa Luyện Ngục, hãy đi xem tình hình.\\\\"
         },
         {
           "key": "promTlk5461",
           "occurrence": 1,
           "source": "要采集地狱之火,必须去到平原尽头,如今前路都被指尖法师堵住,必须清除它们才能前往,你骑上攻城兽杀过去吧.\\\\",
-          "target": "要采集地狱之火,必须去到平原尽头,如今前路都被指尖法师堵住,必须清除它们才能前往,你骑上攻城兽杀过去吧.\\\\"
+      "target": "Muốn thu thập Lửa Địa Ngục phải đến cuối đồng bằng. Pháp Sư Chỉ Tiêm chặn đường, cưỡi Thú Công Thành diệt chúng đi!\\\\"
         },
         {
           "key": "promTlk5471",
