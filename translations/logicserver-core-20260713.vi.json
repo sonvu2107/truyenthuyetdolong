@@ -37420,61 +37420,61 @@
           "key": "promTlk4751",
           "occurrence": 1,
           "source": "你的到来让我们看到希望，消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "你的到来让我们看到希望，消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng. Diệt quái trong Rừng Hắc Ám, đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk4761",
           "occurrence": 1,
           "source": "你的到来让我们看到希望!你变得越发强大了.\\\\",
-          "target": "你的到来让我们看到希望!你变得越发强大了.\\\\"
+      "target": "Sự xuất hiện của ngươi cho chúng ta hy vọng! Ngươi ngày càng mạnh hơn.\\\\"
         },
         {
           "key": "promTlk4771",
           "occurrence": 1,
           "source": "森林四处都是邪恶的羊怪,你能帮我消灭它们吗!\\\\",
-          "target": "森林四处都是邪恶的羊怪,你能帮我消灭它们吗!\\\\"
+      "target": "Rừng đầy Dương Quỷ Tà Ác, ngươi giúp ta diệt chúng được chứ?\\\\"
         },
         {
           "key": "promTlk4781",
           "occurrence": 1,
           "source": "我们的活动副本很好玩的,接下来你可以参加<(c0xFF00FF00)经验阁>、<(c0xFF00FF00)奶牛关>和<(c0xFF00FF00)狩猎任务>等活动副本获得大量经验和奖励,以及参加<(c0xFF00FF00)耀灵阁>、<(c0xFF00FF00)装备淘宝>等活动获取套装神装.\\\\",
-          "target": "我们的活动副本很好玩的,接下来你可以参加<(c0xFF00FF00)经验阁>、<(c0xFF00FF00)奶牛关>和<(c0xFF00FF00)狩猎任务>等活动副本获得大量经验和奖励,以及参加<(c0xFF00FF00)耀灵阁>、<(c0xFF00FF00)装备淘宝>等活动获取套装神装.\\\\"
+      "target": "Tham gia <(c0xFF00FF00)Các KN>、<(c0xFF00FF00)Cửa Ải Bò>、<(c0xFF00FF00)Nhiệm Vụ Săn Bắn> để nhận nhiều KN và quà; <(c0xFF00FF00)Các Diệu Linh>、<(c0xFF00FF00)Săn Trang Bị> để lấy Thần Trang.\\\\"
         },
         {
           "key": "promTlk4791",
           "occurrence": 1,
           "source": "接下来可通过<(c0xFF00FF00)活动>来获得装备与经验，每天还可以完成15次狩猎任务获得经验.\\\\",
-          "target": "接下来可通过<(c0xFF00FF00)活动>来获得装备与经验，每天还可以完成15次狩猎任务获得经验.\\\\"
+      "target": "Tham gia <(c0xFF00FF00)Hoạt Động> để nhận trang bị và KN; mỗi ngày làm 15 Nhiệm Vụ Săn Bắn nhận KN.\\\\"
         },
         {
           "key": "promTlk4801",
           "occurrence": 1,
           "source": "下载并使用登陆器.\\\\",
-          "target": "下载并使用登陆器.\\\\"
+      "target": "Tải và dùng Launcher.\\\\"
         },
         {
           "key": "promTlk481",
           "occurrence": 1,
           "source": "当年的哈洛加斯如今已经不存在了,完全被毁灭之王摧毁了,我跟随仅剩的族人逃离到这来以卖杂货为生.\\\\",
-          "target": "当年的哈洛加斯如今已经不存在了,完全被毁灭之王摧毁了,我跟随仅剩的族人逃离到这来以卖杂货为生.\\\\"
+      "target": "Harrogath đã bị Vua Hủy Diệt phá hủy. Ta cùng tộc nhân sống sót chạy đến đây bán tạp hóa mưu sinh.\\\\"
         },
         {
           "key": "promTlk4811",
           "occurrence": 1,
           "source": "我来这里是为了获得灵泉诞生的珍宝,它能有效对抗魔族的邪气,你下池帮我采集它们沐浴圣洁之力吧!\\\\",
-          "target": "我来这里是为了获得灵泉诞生的珍宝,它能有效对抗魔族的邪气,你下池帮我采集它们沐浴圣洁之力吧!\\\\"
+      "target": "Ta đến tìm báu vật từ Linh Tuyền, chống tà khí Ma Tộc. Hãy xuống hồ thu thập chúng để nhận Thánh Lực!\\\\"
         },
         {
           "key": "promTlk4821",
           "occurrence": 1,
           "source": "现在的你已经百邪不侵,可以进入前方的魔洞冒险了.\\\\",
-          "target": "现在的你已经百邪不侵,可以进入前方的魔洞冒险了.\\\\"
+      "target": "Ngươi đã bách tà bất xâm, có thể vào Ma Động phía trước phiêu lưu.\\\\"
         },
         {
           "key": "promTlk4831",
           "occurrence": 1,
           "source": "恭喜您到达70级满足转生条件，现在去找大天使吧!\\\\",
-          "target": "恭喜您到达70级满足转生条件，现在去找大天使吧!\\\\"
+      "target": "Chúc mừng đạt cấp 70, đủ điều kiện Chuyển Sinh. Hãy tìm Đại Thiên Sứ!\\\\"
         },
         {
           "key": "promTlk4841",
