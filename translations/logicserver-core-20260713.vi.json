@@ -8160,169 +8160,169 @@
           "key": "m319",
           "occurrence": 1,
           "source": "玫瑰花种(优)",
-          "target": "Hạt Hoa Hồng (Tốt)"
+          "target": "Hạt Hoa Hồng (Cao Cấp)"
         },
         {
           "key": "m320",
           "occurrence": 1,
           "source": "玫瑰花苗(优)",
-          "target": "Mầm Hoa Hồng (Tốt)"
+          "target": "Mầm Hoa Hồng (Cao Cấp)"
         },
         {
           "key": "m321",
           "occurrence": 1,
           "source": "成熟的红玫瑰(优)",
-          "target": "Hoa Hồng Đỏ Trưởng Thành (Tốt)"
+          "target": "Hoa Hồng Đỏ Trưởng Thành (Cao Cấp)"
         },
         {
           "key": "m322",
           "occurrence": 1,
           "source": "凋零的红玫瑰(优)",
-          "target": "凋零的红玫瑰(优)"
+          "target": "Hoa Hồng Đỏ Héo (Cao Cấp)"
         },
         {
           "key": "m323",
           "occurrence": 1,
           "source": "玫瑰花种(普)1",
-          "target": "玫瑰花种(普)1"
+          "target": "Hạt Hoa Hồng (Thường) 1"
         },
         {
           "key": "m324",
           "occurrence": 1,
           "source": "玫瑰花苗(普)1",
-          "target": "玫瑰花苗(普)1"
+          "target": "Mầm Hoa Hồng (Thường) 1"
         },
         {
           "key": "m325",
           "occurrence": 1,
           "source": "成熟的红玫瑰(普)1",
-          "target": "成熟的红玫瑰(普)1"
+          "target": "Hoa Hồng Đỏ Trưởng Thành (Thường) 1"
         },
         {
           "key": "m326",
           "occurrence": 1,
           "source": "玫瑰花种(良)1",
-          "target": "玫瑰花种(良)1"
+          "target": "Hạt Hoa Hồng (Tốt) 1"
         },
         {
           "key": "m327",
           "occurrence": 1,
           "source": "玫瑰花苗(良)1",
-          "target": "玫瑰花苗(良)1"
+          "target": "Mầm Hoa Hồng (Tốt) 1"
         },
         {
           "key": "m328",
           "occurrence": 1,
           "source": "成熟的红玫瑰(良)1",
-          "target": "成熟的红玫瑰(良)1"
+          "target": "Hoa Hồng Đỏ Trưởng Thành (Tốt) 1"
         },
         {
           "key": "m329",
           "occurrence": 1,
           "source": "玫瑰花种(优)1",
-          "target": "玫瑰花种(优)1"
+          "target": "Hạt Hoa Hồng (Cao Cấp) 1"
         },
         {
           "key": "m330",
           "occurrence": 1,
           "source": "玫瑰花苗(优)1",
-          "target": "玫瑰花苗(优)1"
+          "target": "Mầm Hoa Hồng (Cao Cấp) 1"
         },
         {
           "key": "m331",
           "occurrence": 1,
           "source": "成熟的红玫瑰(优)1",
-          "target": "成熟的红玫瑰(优)1"
+          "target": "Hoa Hồng Đỏ Trưởng Thành (Cao Cấp) 1"
         },
         {
           "key": "m332",
           "occurrence": 1,
           "source": "南方封印魔魂",
-          "target": "南方封印魔魂"
+          "target": "Ma Hồn Phong Ấn Phía Nam"
         },
         {
           "key": "m333",
           "occurrence": 1,
           "source": "东方封印魔魂",
-          "target": "东方封印魔魂"
+          "target": "Ma Hồn Phong Ấn Phía Đông"
         },
         {
           "key": "m334",
           "occurrence": 1,
           "source": "北方封印魔魂",
-          "target": "北方封印魔魂"
+          "target": "Ma Hồn Phong Ấn Phía Bắc"
         },
         {
           "key": "m335",
           "occurrence": 1,
           "source": "西方封印魔魂",
-          "target": "西方封印魔魂"
+          "target": "Ma Hồn Phong Ấn Phía Tây"
         },
         {
           "key": "m336",
           "occurrence": 1,
           "source": "封印守护",
-          "target": "封印守护"
+          "target": "Hộ Vệ Phong Ấn"
         },
         {
           "key": "m337",
           "occurrence": 1,
           "source": "朽心怪",
-          "target": "朽心怪"
+          "target": "Quái Hủ Tâm"
         },
         {
           "key": "m338",
           "occurrence": 1,
           "source": "恶念",
-          "target": "恶念"
+          "target": "Ác Niệm"
         },
         {
           "key": "m339",
           "occurrence": 1,
           "source": "邪念",
-          "target": "邪念"
+          "target": "Tà Niệm"
         },
         {
           "key": "m340",
           "occurrence": 1,
           "source": "魔念",
-          "target": "魔念"
+          "target": "Ma Niệm"
         },
         {
           "key": "m341",
           "occurrence": 1,
           "source": "炼狱暴君",
-          "target": "炼狱暴君"
+          "target": "Bạo Quân Luyện Ngục"
         },
         {
           "key": "m342",
           "occurrence": 1,
           "source": "水琉璃",
-          "target": "水琉璃"
+          "target": "Thủy Lưu Ly"
         },
         {
           "key": "m343",
           "occurrence": 1,
           "source": "清雅妃",
-          "target": "清雅妃"
+          "target": "Thanh Nhã Phi"
         },
         {
           "key": "m344",
           "occurrence": 1,
           "source": "梦瑶姬",
-          "target": "梦瑶姬"
+          "target": "Mộng Dao Cơ"
         },
         {
           "key": "m345",
           "occurrence": 1,
           "source": "霓裳公主",
-          "target": "霓裳公主"
+          "target": "Công Chúa Nghê Thường"
         },
         {
           "key": "m346",
           "occurrence": 1,
           "source": "金翼艳后",
-          "target": "金翼艳后"
+          "target": "Kim Dực Diễm Hậu"
         },
         {
           "key": "m347",
