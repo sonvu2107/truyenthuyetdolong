@@ -25054,7 +25054,7 @@
           "key": "data3410",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)处购买任意药品>",
-          "target": "<(c0xFF1E90FF)到><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)处购买任意药品>"
+          "target": "<(c0xFF1E90FF)Đến><Chủ Tiệm Thuốc/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)mua thuốc bất kỳ>"
         },
         {
           "key": "data3420",
@@ -25180,7 +25180,7 @@
           "key": "data3640",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面使用快马鞭给坐骑升星.>",
-          "target": "<(c0xFF1E90FF)打开><坐骑界面/@@showWin,1,1,0><(c0xFF1E90FF)界面使用快马鞭给坐骑升星.>"
+          "target": "<(c0xFF1E90FF)Mở><Giao Diện Thú Cưỡi/@@showWin,1,1,0><(c0xFF1E90FF)dùng Roi Ngựa để tăng sao thú cưỡi.>"
         },
         {
           "key": "data3650",
@@ -25282,25 +25282,25 @@
           "key": "data3810",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><锻铸/@@showWin,5,7,0><(c0xFF1E90FF)合成二级魂石>",
-          "target": "<(c0xFF1E90FF)打开><锻铸/@@showWin,5,7,0><(c0xFF1E90FF)合成二级魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Rèn Đúc/@@showWin,5,7,0><(c0xFF1E90FF)ghép Hồn Thạch cấp 2>"
         },
         {
           "key": "data3820",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><魂石/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>",
-          "target": "<(c0xFF1E90FF)打开><魂石/@@showWin,1,2,0><(c0xFF1E90FF)界面镶嵌任意魂石>"
+          "target": "<(c0xFF1E90FF)Mở><Hồn Thạch/@@showWin,1,2,0><(c0xFF1E90FF)khảm Hồn Thạch bất kỳ>"
         },
         {
           "key": "data3830",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><社交/@@showWin,24,1,0><(c0xFF1E90FF)添加好友>",
-          "target": "<(c0xFF1E90FF)打开><社交/@@showWin,24,1,0><(c0xFF1E90FF)添加好友>"
+          "target": "<(c0xFF1E90FF)Mở><Xã Giao/@@showWin,24,1,0><(c0xFF1E90FF)thêm bạn>"
         },
         {
           "key": "data3840",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)打开><荣誉/@@showWin,28,1,0><(c0xFF1E90FF)开启祝福>",
-          "target": "<(c0xFF1E90FF)打开><荣誉/@@showWin,28,1,0><(c0xFF1E90FF)开启祝福>"
+          "target": "<(c0xFF1E90FF)Mở><Vinh Dự/@@showWin,28,1,0><(c0xFF1E90FF)mở Chúc Phúc>"
         },
         {
           "key": "data3950",
@@ -25312,7 +25312,7 @@
           "key": "data4000",
           "occurrence": 1,
           "source": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>",
-          "target": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
+          "target": "<Sứ Giả Phó Bản/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
         },
         {
           "key": "data4020",
@@ -25324,7 +25324,7 @@
           "key": "data4030",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><药店掌柜/M王城:0:0:药店掌柜><(c0xFF1E90FF)处购买药品>",
-          "target": "<(c0xFF1E90FF)到><药店掌柜/M王城:0:0:药店掌柜><(c0xFF1E90FF)处购买药品>"
+          "target": "<(c0xFF1E90FF)Đến><Chủ Tiệm Thuốc/M王城:0:0:药店掌柜><(c0xFF1E90FF)mua thuốc>"
         },
         {
           "key": "data4050",
@@ -25342,25 +25342,25 @@
           "key": "data4080",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><地狱使者/M王城:0:0:地狱使者><(c0xFF1E90FF)进入万年古墓><(x王城:0:0:地狱使者)>",
-          "target": "<(c0xFF1E90FF)找到><地狱使者/M王城:0:0:地狱使者><(c0xFF1E90FF)进入万年古墓><(x王城:0:0:地狱使者)>"
+          "target": "<(c0xFF1E90FF)Tìm><Sứ Giả Địa Ngục/M王城:0:0:地狱使者><(c0xFF1E90FF)vào Cổ Mộ Vạn Năm><(x王城:0:0:地狱使者)>"
         },
         {
           "key": "data4090",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><地狱使者/M王城:0:0:地狱使者><(c0xFF1E90FF)进入地狱结界><(x王城:0:0:地狱使者)>",
-          "target": "<(c0xFF1E90FF)找到><地狱使者/M王城:0:0:地狱使者><(c0xFF1E90FF)进入地狱结界><(x王城:0:0:地狱使者)>"
+          "target": "<(c0xFF1E90FF)Tìm><Sứ Giả Địa Ngục/M王城:0:0:地狱使者><(c0xFF1E90FF)vào Kết Giới Địa Ngục><(x王城:0:0:地狱使者)>"
         },
         {
           "key": "data4100",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><地狱使者/M王城:0:0:地狱使者><(c0xFF1E90FF)进入万年古墓><(x王城:0:0:地狱使者)>",
-          "target": "<(c0xFF1E90FF)找到><地狱使者/M王城:0:0:地狱使者><(c0xFF1E90FF)进入万年古墓><(x王城:0:0:地狱使者)>"
+          "target": "<(c0xFF1E90FF)Tìm><Sứ Giả Địa Ngục/M王城:0:0:地狱使者><(c0xFF1E90FF)vào Cổ Mộ Vạn Năm><(x王城:0:0:地狱使者)>"
         },
         {
           "key": "data4110",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到矿洞收集5块赤铜矿>",
-          "target": "<(c0xFF1E90FF)到矿洞收集5块赤铜矿>"
+          "target": "<(c0xFF1E90FF)Đến Mỏ thu thập 5 Quặng Đồng Đỏ>"
         },
         {
           "key": "data4750",
@@ -25378,97 +25378,97 @@
           "key": "data4770",
           "occurrence": 1,
           "source": "<神墓遗迹/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>",
-          "target": "<神墓遗迹/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
+          "target": "<Di Tích Thần Mộ/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
         },
         {
           "key": "data4800",
           "occurrence": 1,
           "source": "<点击下载/@@showRightAreaClientLogonWin>",
-          "target": "<点击下载/@@showRightAreaClientLogonWin>"
+          "target": "<Bấm tải/@@showRightAreaClientLogonWin>"
         },
         {
           "key": "data5050",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)找到><牛魔王/M五指山:0:0:牛魔王><(c0xFF1E90FF)进入掌中佛狱>",
-          "target": "<(c0xFF1E90FF)找到><牛魔王/M五指山:0:0:牛魔王><(c0xFF1E90FF)进入掌中佛狱>"
+          "target": "<(c0xFF1E90FF)Tìm><Ngưu Ma Vương/M五指山:0:0:牛魔王><(c0xFF1E90FF)vào Phật Ngục Chưởng Trung>"
         },
         {
           "key": "data8000",
           "occurrence": 1,
           "source": "<下载并使用登录器/@@RightAreaClientLogonWin,800><(c0xFFFF00FF)说明:成功下载后,奖励自动发放>",
-          "target": "<下载并使用登录器/@@RightAreaClientLogonWin,800><(c0xFFFF00FF)说明:成功下载后,奖励自动发放>"
+          "target": "<Tải và dùng launcher/@@RightAreaClientLogonWin,800><(c0xFFFF00FF)Lưu ý: tải thành công, quà tự gửi>"
         },
         {
           "key": "data80033",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><首饰店掌柜/M屠龙城:0:0:首饰店掌柜><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><首饰店掌柜/M屠龙城:0:0:首饰店掌柜><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chủ Tiệm Trang Sức/M屠龙城:0:0:首饰店掌柜><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80034",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><服装店掌柜/M屠龙城:0:0:服装店掌柜><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><服装店掌柜/M屠龙城:0:0:服装店掌柜><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chủ Tiệm Thời Trang/M屠龙城:0:0:服装店掌柜><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80035",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><铁匠/M屠龙城:0:0:铁匠><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><铁匠/M屠龙城:0:0:铁匠><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Thợ Rèn/M屠龙城:0:0:铁匠><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80036",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><仓库管理员/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><仓库管理员/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Quản Lý Kho/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80037",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chủ Tiệm Thuốc/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80038",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><仓库管理员/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><仓库管理员/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Quản Lý Kho/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80039",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chủ Tiệm Thuốc/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80045",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Thương Nhân Tạp Hóa/M屠龙城:0:0:杂货商><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80046",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><剑翁/M屠龙城:0:0:剑翁><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><剑翁/M屠龙城:0:0:剑翁><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Lão Kiếm/M屠龙城:0:0:剑翁><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80047",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><万事通/M屠龙城:0:0:万事通><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><万事通/M屠龙城:0:0:万事通><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Vạn Sự Thông/M屠龙城:0:0:万事通><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80048",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)处购买任意药品>",
-          "target": "<(c0xFF1E90FF)到><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)处购买任意药品>"
+          "target": "<(c0xFF1E90FF)Đến><Chủ Tiệm Thuốc/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)mua thuốc bất kỳ>"
         },
         {
           "key": "data80049",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><雷泽传送师/M屠龙城:0:0:雷泽传送师><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><雷泽传送师/M屠龙城:0:0:雷泽传送师><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Dịch Chuyển Sư Lôi Trạch/M屠龙城:0:0:雷泽传送师><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80073",
@@ -25480,13 +25480,13 @@
           "key": "data80083",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Bà Mối/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80084",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nguyệt Lão/M天宫:0:0:月老><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80085",
@@ -25510,13 +25510,13 @@
           "key": "data80103",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Linh Mục/M教堂:0:0:神父><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80104",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><前台接待员/M海滩:0:0:前台接待员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><前台接待员/M海滩:0:0:前台接待员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Lễ Tân/M海滩:0:0:前台接待员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80105",
@@ -25570,25 +25570,25 @@
           "key": "data80157",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data80158",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nguyệt Lão/M天宫:0:0:月老><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80159",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><药店掌柜/M伏魔谷:0:0:药店掌柜><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><药店掌柜/M伏魔谷:0:0:药店掌柜><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chủ Tiệm Thuốc/M伏魔谷:0:0:药店掌柜><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data801610",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Linh Mục/M教堂:0:0:神父><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data801611",
@@ -25612,13 +25612,13 @@
           "key": "data80168",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data80169",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)处购买一个回城卷>",
-          "target": "<(c0xFF1E90FF)到><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)处购买一个回城卷>"
+          "target": "<(c0xFF1E90FF)Đến><Thương Nhân Tạp Hóa/M屠龙城:0:0:杂货商><(c0xFF1E90FF)mua 1 Cuộn Về Thành>"
         },
         {
           "key": "data801710",
@@ -25630,13 +25630,13 @@
           "key": "data80175",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chủ Tiệm Thuốc/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80176",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><仓库管理员/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><仓库管理员/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Quản Lý Kho/M屠龙城:0:0:仓库管理员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80177",
@@ -25660,13 +25660,13 @@
           "key": "data80185",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data80187",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)处购买药品>",
-          "target": "<(c0xFF1E90FF)到><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)处购买药品>"
+          "target": "<(c0xFF1E90FF)Đến><Chủ Tiệm Thuốc/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)mua thuốc>"
         },
         {
           "key": "data80188",
@@ -25726,13 +25726,13 @@
           "key": "data80212",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data80214",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nguyệt Lão/M天宫:0:0:月老><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80220",
@@ -25750,25 +25750,25 @@
           "key": "data80222",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data80224",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Linh Mục/M教堂:0:0:神父><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80230",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Bà Mối/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80231",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><前台接待员/M海滩:0:0:前台接待员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><前台接待员/M海滩:0:0:前台接待员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Lễ Tân/M海滩:0:0:前台接待员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data80232",
@@ -25798,7 +25798,7 @@
           "key": "data80250",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><药店掌柜/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Chủ Tiệm Thuốc/M屠龙城:0:0:药店掌柜><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data802610",
@@ -26002,7 +26002,7 @@
           "key": "data806314",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Linh Mục/M教堂:0:0:神父><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806315",
@@ -26020,13 +26020,13 @@
           "key": "data806317",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nguyệt Lão/M天宫:0:0:月老><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806318",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Bà Mối/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data806319",
@@ -26050,7 +26050,7 @@
           "key": "data806334",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data806342",
@@ -26098,13 +26098,13 @@
           "key": "data806360",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data806367",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data80638",
@@ -26140,7 +26140,7 @@
           "key": "data80655",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data80657",
@@ -26152,19 +26152,19 @@
           "key": "data80658",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><前台接待员/M海滩:0:0:前台接待员><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><前台接待员/M海滩:0:0:前台接待员><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Lễ Tân/M海滩:0:0:前台接待员><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data8070",
           "occurrence": 1,
           "source": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>",
-          "target": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
+          "target": "<Sứ Giả Phó Bản/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
         },
         {
           "key": "data8080",
           "occurrence": 1,
           "source": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>",
-          "target": "<副本使者/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
+          "target": "<Sứ Giả Phó Bản/M屠龙城:143:141:副本使者><(x屠龙城:0:0:副本使者)>"
         },
         {
           "key": "data8090",
@@ -26278,7 +26278,7 @@
           "key": "data841614",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Linh Mục/M教堂:0:0:神父><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data841615",
@@ -26290,13 +26290,13 @@
           "key": "data841617",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nguyệt Lão/M天宫:0:0:月老><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data841618",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Bà Mối/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data841619",
@@ -26320,7 +26320,7 @@
           "key": "data841634",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data841642",
@@ -26368,13 +26368,13 @@
           "key": "data841660",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data841667",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data84170",
@@ -26434,7 +26434,7 @@
           "key": "data842114",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><神父/M教堂:0:0:神父><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Linh Mục/M教堂:0:0:神父><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data842115",
@@ -26446,13 +26446,13 @@
           "key": "data842117",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><月老/M天宫:0:0:月老><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Nguyệt Lão/M天宫:0:0:月老><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data842118",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>",
-          "target": "<(c0xFF1E90FF)与><红娘/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)对话一次>"
+          "target": "<(c0xFF1E90FF)Gặp><Bà Mối/M鸳鸯祠:0:0:红娘><(c0xFF1E90FF)nói chuyện 1 lần>"
         },
         {
           "key": "data842119",
@@ -26476,7 +26476,7 @@
           "key": "data842134",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data842142",
@@ -26524,13 +26524,13 @@
           "key": "data842160",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data842167",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>",
-          "target": "<(c0xFF1E90FF)到><诛魔将军/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)处投放一件装备>"
+          "target": "<(c0xFF1E90FF)Đến><Tru Ma Tướng Quân/M屠龙城:0:0:诛魔将军><(c0xFF1E90FF)giao 1 trang bị>"
         },
         {
           "key": "data84250",
@@ -26992,13 +26992,13 @@
           "key": "data870",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)处购买一个回城卷>",
-          "target": "<(c0xFF1E90FF)到><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)处购买一个回城卷>"
+          "target": "<(c0xFF1E90FF)Đến><Thương Nhân Tạp Hóa/M屠龙城:0:0:杂货商><(c0xFF1E90FF)mua 1 Cuộn Về Thành>"
         },
         {
           "key": "data900",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)到><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)处购买一个回城卷>",
-          "target": "<(c0xFF1E90FF)到><杂货商/M屠龙城:0:0:杂货商><(c0xFF1E90FF)处购买一个回城卷>"
+          "target": "<(c0xFF1E90FF)Đến><Thương Nhân Tạp Hóa/M屠龙城:0:0:杂货商><(c0xFF1E90FF)mua 1 Cuộn Về Thành>"
         },
         {
           "key": "datamonster2020",
