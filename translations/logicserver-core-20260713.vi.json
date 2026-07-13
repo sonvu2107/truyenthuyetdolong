@@ -72164,97 +72164,97 @@
           "key": "n2772",
           "occurrence": 1,
           "source": "40星宝箱",
-          "target": "40星宝箱"
+          "target": "Rương 40 Sao"
         },
         {
           "key": "i2772",
           "occurrence": 1,
           "source": "英雄史册累计星级奖励\\\\双击即可获得\\\\<(c0xFF66CCFF)神魂晶石>×4\\\\<(c0xFF66CCFF)装备升级石>×7\\\\<(c0xFF66CCFF)1级神装增强精华>×2\\\\<(c0xFF66CCFF)星魂卡>×5\\\\<(c0xFF66CCFF)魔钻灵石>×1",
-          "target": "英雄史册累计星级奖励\\\\双击即可获得\\\\<(c0xFF66CCFF)神魂晶石>×4\\\\<(c0xFF66CCFF)装备升级石>×7\\\\<(c0xFF66CCFF)1级神装增强精华>×2\\\\<(c0xFF66CCFF)星魂卡>×5\\\\<(c0xFF66CCFF)魔钻灵石>×1"
+          "target": "Thưởng Sao tích lũy Sử Thi Anh Hùng\\\\Nhấp đúp để nhận\\\\<(c0xFF66CCFF)Tinh Thạch Thần Hồn>×4\\\\<(c0xFF66CCFF)Đá Nâng Cấp Trang Bị>×7\\\\<(c0xFF66CCFF)Tinh Hoa Tăng Cường Thần Trang Cấp 1>×2\\\\<(c0xFF66CCFF)Thẻ Hồn Tinh>×5\\\\<(c0xFF66CCFF)Linh Thạch Ma Toản>×1"
         },
         {
           "key": "n2773",
           "occurrence": 1,
           "source": "50星宝箱",
-          "target": "50星宝箱"
+          "target": "Rương 50 Sao"
         },
         {
           "key": "i2773",
           "occurrence": 1,
           "source": "英雄史册累计星级奖励\\\\双击即可获得\\\\<(c0xFF66CCFF)神魂晶石>×5\\\\<(c0xFF66CCFF)装备升级石>×9\\\\<(c0xFF66CCFF)1级神装增强精华>×3\\\\<(c0xFF66CCFF)星魂卡>×7\\\\<(c0xFF66CCFF)魔钻灵石>×2\\\\<(c0xFF66CCFF)符文精炼石>×1",
-          "target": "英雄史册累计星级奖励\\\\双击即可获得\\\\<(c0xFF66CCFF)神魂晶石>×5\\\\<(c0xFF66CCFF)装备升级石>×9\\\\<(c0xFF66CCFF)1级神装增强精华>×3\\\\<(c0xFF66CCFF)星魂卡>×7\\\\<(c0xFF66CCFF)魔钻灵石>×2\\\\<(c0xFF66CCFF)符文精炼石>×1"
+          "target": "Thưởng Sao tích lũy Sử Thi Anh Hùng\\\\Nhấp đúp để nhận\\\\<(c0xFF66CCFF)Tinh Thạch Thần Hồn>×5\\\\<(c0xFF66CCFF)Đá Nâng Cấp Trang Bị>×9\\\\<(c0xFF66CCFF)Tinh Hoa Tăng Cường Thần Trang Cấp 1>×3\\\\<(c0xFF66CCFF)Thẻ Hồn Tinh>×7\\\\<(c0xFF66CCFF)Linh Thạch Ma Toản>×2\\\\<(c0xFF66CCFF)Đá Tinh Luyện Phù Văn>×1"
         },
         {
           "key": "n2774",
           "occurrence": 1,
           "source": "神魂包",
-          "target": "神魂包"
+          "target": "Gói Thần Hồn"
         },
         {
           "key": "i2774",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)神魂值100点>\\\\可以到屠龙城找装备兑换使者进行神装与套装兑换",
-          "target": "双击即可获得<(c0xFF66CCFF)神魂值100点>\\\\可以到屠龙城找装备兑换使者进行神装与套装兑换"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)100 Điểm Thần Hồn>\\\\Đến Đồ Long Thành gặp Sứ Giả Đổi Trang Bị để đổi Thần Trang và Bộ Trang Bị"
         },
         {
           "key": "n2775",
           "occurrence": 1,
           "source": "战魂包",
-          "target": "战魂包"
+          "target": "Gói Chiến Hồn"
         },
         {
           "key": "i2775",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)战魂值100点>\\\\可以到屠龙城找装备兑换使者进行神戒指,钻石,勋章兑换",
-          "target": "双击即可获得<(c0xFF66CCFF)战魂值100点>\\\\可以到屠龙城找装备兑换使者进行神戒指,钻石,勋章兑换"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)100 Điểm Chiến Hồn>\\\\Đến Đồ Long Thành gặp Sứ Giả Đổi Trang Bị để đổi Nhẫn Thần, Ma Toản, Huy Chương"
         },
         {
           "key": "n2776",
           "occurrence": 1,
           "source": "首关通关奖励包",
-          "target": "首关通关奖励包"
+          "target": "Gói Thưởng Qua Ải 1"
         },
         {
           "key": "i2776",
           "occurrence": 1,
           "source": "英雄史册首关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)1颗1级生命宝石和1颗1级魔法宝石>",
-          "target": "英雄史册首关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)1颗1级生命宝石和1颗1级魔法宝石>"
+          "target": "Gói thưởng lần đầu qua Ải 1 Sử Thi Anh Hùng\\\\Nhấp đúp để nhận <(c0xFF66CCFF)1 Đá Quý HP Cấp 1 và 1 Đá Quý MP Cấp 1>"
         },
         {
           "key": "n2777",
           "occurrence": 1,
           "source": "第二关通关奖励包",
-          "target": "第二关通关奖励包"
+          "target": "Gói Thưởng Qua Ải 2"
         },
         {
           "key": "i2777",
           "occurrence": 1,
           "source": "英雄史册第二关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)1颗1级物防宝石和1颗1级魔防宝石>",
-          "target": "英雄史册第二关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)1颗1级物防宝石和1颗1级魔防宝石>"
+          "target": "Gói thưởng lần đầu qua Ải 2 Sử Thi Anh Hùng\\\\Nhấp đúp để nhận <(c0xFF66CCFF)1 Đá Quý Phòng Thủ Vật Lý Cấp 1 và 1 Đá Quý Phòng Thủ Ma Pháp Cấp 1>"
         },
         {
           "key": "n2778",
           "occurrence": 1,
           "source": "第三关通关奖励包",
-          "target": "第三关通关奖励包"
+          "target": "Gói Thưởng Qua Ải 3"
         },
         {
           "key": "i2778",
           "occurrence": 1,
           "source": "英雄史册第三关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)2颗1级生命宝石和2颗1级魔法宝石>",
-          "target": "英雄史册第三关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)2颗1级生命宝石和2颗1级魔法宝石>"
+          "target": "Gói thưởng lần đầu qua Ải 3 Sử Thi Anh Hùng\\\\Nhấp đúp để nhận <(c0xFF66CCFF)2 Đá Quý HP Cấp 1 và 2 Đá Quý MP Cấp 1>"
         },
         {
           "key": "n2779",
           "occurrence": 1,
           "source": "第四关通关奖励包",
-          "target": "第四关通关奖励包"
+          "target": "Gói Thưởng Qua Ải 4"
         },
         {
           "key": "i2779",
           "occurrence": 1,
           "source": "英雄史册第四关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)2颗1级物防宝石和2颗1级魔防宝石>",
-          "target": "英雄史册第四关首次通关奖励的礼包\\\\双击打开即获得<(c0xFF66CCFF)2颗1级物防宝石和2颗1级魔防宝石>"
+          "target": "Gói thưởng lần đầu qua Ải 4 Sử Thi Anh Hùng\\\\Nhấp đúp để nhận <(c0xFF66CCFF)2 Đá Quý Phòng Thủ Vật Lý Cấp 1 và 2 Đá Quý Phòng Thủ Ma Pháp Cấp 1>"
         },
         {
           "key": "n2780",
