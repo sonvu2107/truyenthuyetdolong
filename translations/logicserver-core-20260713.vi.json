@@ -40676,121 +40676,121 @@
           "key": "n148",
           "occurrence": 1,
           "source": "嗜血勋章",
-          "target": "嗜血勋章"
+          "target": "Huy Chương Khát Máu"
         },
         {
           "key": "i148",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血勋章> 可以合成一个 <(c0xFFFF6600)混乱勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血勋章> 可以合成一个 <(c0xFFFF6600)混乱勋章>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Khát Máu> có thể hợp thành <(c0xFFFF6600)Huy Chương Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n149",
           "occurrence": 1,
           "source": "奔雷之剑",
-          "target": "奔雷之剑"
+          "target": "Kiếm Bôn Lôi"
         },
         {
           "key": "i149",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷之剑> 可以合成一个 <(c0xFFFF6600)灼热之剑>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷之剑> 可以合成一个 <(c0xFFFF6600)灼热之剑>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Kiếm Bôn Lôi> có thể hợp thành <(c0xFFFF6600)Kiếm Liệt Diễm>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n150",
           "occurrence": 1,
           "source": "奔雷战衣(男)",
-          "target": "奔雷战衣(男)"
+          "target": "Giáp Bôn Lôi (Nam)"
         },
         {
           "key": "i150",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷战衣(男)> 可以合成一个 <(c0xFFFF6600)灼热战衣(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷战衣(男)> 可以合成一个 <(c0xFFFF6600)灼热战衣(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Bôn Lôi (Nam)> có thể hợp thành <(c0xFFFF6600)Giáp Liệt Diễm (Nam)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n151",
           "occurrence": 1,
           "source": "奔雷战衣(女)",
-          "target": "奔雷战衣(女)"
+          "target": "Giáp Bôn Lôi (Nữ)"
         },
         {
           "key": "i151",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷战衣(女)> 可以合成一个 <(c0xFFFF6600)灼热战衣(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷战衣(女)> 可以合成一个 <(c0xFFFF6600)灼热战衣(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giáp Bôn Lôi (Nữ)> có thể hợp thành <(c0xFFFF6600)Giáp Liệt Diễm (Nữ)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n152",
           "occurrence": 1,
           "source": "奔雷头盔",
-          "target": "奔雷头盔"
+          "target": "Mũ Bôn Lôi"
         },
         {
           "key": "i152",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷头盔> 可以合成一个 <(c0xFFFF6600)灼热头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷头盔> 可以合成一个 <(c0xFFFF6600)灼热头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Bôn Lôi> có thể hợp thành <(c0xFFFF6600)Mũ Liệt Diễm>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n153",
           "occurrence": 1,
           "source": "奔雷项链",
-          "target": "奔雷项链"
+          "target": "Dây Chuyền Bôn Lôi"
         },
         {
           "key": "i153",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷项链> 可以合成一个 <(c0xFFFF6600)灼热项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷项链> 可以合成一个 <(c0xFFFF6600)灼热项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Bôn Lôi> có thể hợp thành <(c0xFFFF6600)Dây Chuyền Liệt Diễm>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n154",
           "occurrence": 1,
           "source": "奔雷手镯",
-          "target": "奔雷手镯"
+          "target": "Vòng Tay Bôn Lôi"
         },
         {
           "key": "i154",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷手镯> 可以合成一个 <(c0xFFFF6600)灼热手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷手镯> 可以合成一个 <(c0xFFFF6600)灼热手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Bôn Lôi> có thể hợp thành <(c0xFFFF6600)Vòng Tay Liệt Diễm>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n155",
           "occurrence": 1,
           "source": "奔雷腰带",
-          "target": "奔雷腰带"
+          "target": "Đai Lưng Bôn Lôi"
         },
         {
           "key": "i155",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷腰带> 可以合成一个 <(c0xFFFF6600)灼热腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷腰带> 可以合成一个 <(c0xFFFF6600)灼热腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Lưng Bôn Lôi> có thể hợp thành <(c0xFFFF6600)Đai Lưng Liệt Diễm>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n156",
           "occurrence": 1,
           "source": "奔雷战鞋",
-          "target": "奔雷战鞋"
+          "target": "Giày Bôn Lôi"
         },
         {
           "key": "i156",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷战鞋> 可以合成一个 <(c0xFFFF6600)灼热战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷战鞋> 可以合成一个 <(c0xFFFF6600)灼热战鞋>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Giày Bôn Lôi> có thể hợp thành <(c0xFFFF6600)Giày Liệt Diễm>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n157",
           "occurrence": 1,
           "source": "奔雷宝石",
-          "target": "奔雷宝石"
+          "target": "Đá Quý Bôn Lôi"
         },
         {
           "key": "i157",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷宝石> 可以合成一个 <(c0xFFFF6600)灼热宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)奔雷宝石> 可以合成一个 <(c0xFFFF6600)灼热宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đá Quý Bôn Lôi> có thể hợp thành <(c0xFFFF6600)Đá Quý Liệt Diễm>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n158",
