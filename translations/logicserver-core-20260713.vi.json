@@ -47120,7 +47120,7 @@
           "key": "n685",
           "occurrence": 1,
           "source": "钢铁侠(废弃)",
-          "target": "钢铁侠(废弃)"
+          "target": "Người Sắt (Bỏ)"
         },
         {
           "key": "i685",
@@ -47132,7 +47132,7 @@
           "key": "n686",
           "occurrence": 1,
           "source": "宫廷男礼服(废弃)",
-          "target": "宫廷男礼服(废弃)"
+          "target": "Lễ Phục Cung Đình Nam (Bỏ)"
         },
         {
           "key": "i686",
@@ -47144,7 +47144,7 @@
           "key": "n687",
           "occurrence": 1,
           "source": "宫廷女礼服(废弃)",
-          "target": "宫廷女礼服(废弃)"
+          "target": "Lễ Phục Cung Đình Nữ (Bỏ)"
         },
         {
           "key": "i687",
@@ -47156,31 +47156,31 @@
           "key": "n688",
           "occurrence": 1,
           "source": "夜行衣(男)(1阶)",
-          "target": "夜行衣(男)(1阶)"
+          "target": "Dạ Hành Y (Nam) (Bậc 1)"
         },
         {
           "key": "i688",
           "occurrence": 1,
           "source": "月黑风高,影踪难辨\\\\属于<(c0xFF00FF00)1阶时装>,可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>",
-          "target": "月黑风高,影踪难辨\\\\属于<(c0xFF00FF00)1阶时装>,可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>"
+          "target": "Đêm tối gió cao, bóng dáng khó phân\\\\Thuộc <(c0xFF00FF00)Thời Trang Bậc 1>, dùng <(c0xFF00FF00)Nâng Cấp Trang Bị> trong Hệ Thống Rèn để tăng thuộc tính\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop, Đồ Long>"
         },
         {
           "key": "n689",
           "occurrence": 1,
           "source": "夜行衣(女)(1阶)",
-          "target": "夜行衣(女)(1阶)"
+          "target": "Dạ Hành Y (Nữ) (Bậc 1)"
         },
         {
           "key": "i689",
           "occurrence": 1,
           "source": "月黑风高,影踪难辨\\\\属于<(c0xFF00FF00)1阶时装>,可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>",
-          "target": "月黑风高,影踪难辨\\\\属于<(c0xFF00FF00)1阶时装>,可以通过锻造系统中的<(c0xFF00FF00)装备升级功能>提高时装的属性\\\\<(c0xFF00FF00)提示:可通过商城购买、屠龙获得>"
+          "target": "Đêm tối gió cao, bóng dáng khó phân\\\\Thuộc <(c0xFF00FF00)Thời Trang Bậc 1>, dùng <(c0xFF00FF00)Nâng Cấp Trang Bị> trong Hệ Thống Rèn để tăng thuộc tính\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop, Đồ Long>"
         },
         {
           "key": "n690",
           "occurrence": 1,
           "source": "比基尼(废弃)",
-          "target": "比基尼(废弃)"
+          "target": "Bikini (Bỏ)"
         },
         {
           "key": "i690",
@@ -47192,7 +47192,7 @@
           "key": "n691",
           "occurrence": 1,
           "source": "燕尾服(废弃)",
-          "target": "燕尾服(废弃)"
+          "target": "Lễ Phục Đuôi Tôm (Bỏ)"
         },
         {
           "key": "i691",
@@ -47204,7 +47204,7 @@
           "key": "n692",
           "occurrence": 1,
           "source": "陨铁勋章(1级)(废弃)",
-          "target": "陨铁勋章(1级)(废弃)"
+          "target": "Huy Chương Vẫn Thiết (Cấp 1) (Bỏ)"
         },
         {
           "key": "i692",
@@ -47216,67 +47216,67 @@
           "key": "n693",
           "occurrence": 1,
           "source": "巨龙勋章",
-          "target": "巨龙勋章"
+          "target": "Huy Chương Cự Long"
         },
         {
           "key": "i693",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石1阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)3%>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)巨龙勋章> 可以合成一个 <(c0xFFFF6600)帝王勋章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成",
-          "target": "<(c0x00ff0066)顶级钻石1阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)3%>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)巨龙勋章> 可以合成一个 <(c0xFFFF6600)帝王勋章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成"
+          "target": "<(c0x00ff0066)Kim Cương Đỉnh Cấp Bậc 1>\\\\Đeo vào tăng <(c0x00ff0066)3%> sát thương\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Cự Long> hợp thành <(c0xFFFF6600)Huy Chương Đế Vương>, CS tăng mạnh\\\\Hợp thành Huy Chương tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n694",
           "occurrence": 1,
           "source": "帝王勋章",
-          "target": "帝王勋章"
+          "target": "Huy Chương Đế Vương"
         },
         {
           "key": "i694",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石2阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)6%>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)帝王勋章> 可以合成一个 <(c0xFFFF6600)神域勋章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成",
-          "target": "<(c0x00ff0066)顶级钻石2阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)6%>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)帝王勋章> 可以合成一个 <(c0xFFFF6600)神域勋章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成"
+          "target": "<(c0x00ff0066)Kim Cương Đỉnh Cấp Bậc 2>\\\\Đeo vào tăng <(c0x00ff0066)6%> sát thương\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Đế Vương> hợp thành <(c0xFFFF6600)Huy Chương Thần Vực>, CS tăng mạnh\\\\Hợp thành Huy Chương tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n695",
           "occurrence": 1,
           "source": "神域勋章",
-          "target": "神域勋章"
+          "target": "Huy Chương Thần Vực"
         },
         {
           "key": "i695",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石3阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)9%>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)神域勋章> 可以合成一个 <(c0xFFFF6600)天神战章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成",
-          "target": "<(c0x00ff0066)顶级钻石3阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)9%>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)神域勋章> 可以合成一个 <(c0xFFFF6600)天神战章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成"
+          "target": "<(c0x00ff0066)Kim Cương Đỉnh Cấp Bậc 3>\\\\Đeo vào tăng <(c0x00ff0066)9%> sát thương\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Thần Vực> hợp thành <(c0xFFFF6600)Huy Chương Chiến Thần>, CS tăng mạnh\\\\Hợp thành Huy Chương tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n696",
           "occurrence": 1,
           "source": "天神战章",
-          "target": "天神战章"
+          "target": "Huy Chương Chiến Thần"
         },
         {
           "key": "i696",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石4阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)10%>,幸运增加 <(c0x00ff0066)1>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)天神战章> 可以合成一个 <(c0xFFFF6600)诸神圣章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成",
-          "target": "<(c0x00ff0066)顶级钻石4阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)10%>,幸运增加 <(c0x00ff0066)1>\\\\<(c0xFFFF6600)3> 个 <(c0xFFFF6600)天神战章> 可以合成一个 <(c0xFFFF6600)诸神圣章>,战力倍增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行勋章合成"
+          "target": "<(c0x00ff0066)Kim Cương Đỉnh Cấp Bậc 4>\\\\Đeo vào tăng <(c0x00ff0066)10%> sát thương, <(c0x00ff0066)1> May Mắn\\\\<(c0xFFFF6600)3> <(c0xFFFF6600)Huy Chương Chiến Thần> hợp thành <(c0xFFFF6600)Thánh Chương Chư Thần>, CS tăng mạnh\\\\Hợp thành Huy Chương tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)"
         },
         {
           "key": "n697",
           "occurrence": 1,
           "source": "诸神圣章",
-          "target": "诸神圣章"
+          "target": "Thánh Chương Chư Thần"
         },
         {
           "key": "i697",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级钻石5阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)10%>,幸运增加 <(c0x00ff0066)2>,麻痹增加 <(c0x00ff0066)1>",
-          "target": "<(c0x00ff0066)顶级钻石5阶>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)10%>,幸运增加 <(c0x00ff0066)2>,麻痹增加 <(c0x00ff0066)1>"
+          "target": "<(c0x00ff0066)Kim Cương Đỉnh Cấp Bậc 5>\\\\Đeo vào tăng <(c0x00ff0066)10%> sát thương, <(c0x00ff0066)2> May Mắn, <(c0x00ff0066)1> Tê Liệt"
         },
         {
           "key": "n698",
           "occurrence": 1,
           "source": "1234(废弃)",
-          "target": "1234(废弃)"
+          "target": "1234 (Bỏ)"
         },
         {
           "key": "i698",
@@ -47288,7 +47288,7 @@
           "key": "n699",
           "occurrence": 1,
           "source": "1235(废弃)",
-          "target": "1235(废弃)"
+          "target": "1235 (Bỏ)"
         },
         {
           "key": "i699",
@@ -47300,7 +47300,7 @@
           "key": "n700",
           "occurrence": 1,
           "source": "1236(废弃)",
-          "target": "1236(废弃)"
+          "target": "1236 (Bỏ)"
         },
         {
           "key": "i700",
@@ -47312,7 +47312,7 @@
           "key": "n701",
           "occurrence": 1,
           "source": "1237(废弃)",
-          "target": "1237(废弃)"
+          "target": "1237 (Bỏ)"
         },
         {
           "key": "i701",
@@ -47324,43 +47324,43 @@
           "key": "n702",
           "occurrence": 1,
           "source": "怒气丹",
-          "target": "怒气丹"
+          "target": "Đan Nộ Khí"
         },
         {
           "key": "i702",
           "occurrence": 1,
           "source": "<(c0x00d57140)秒怪利器>\\\\每秒增加怒气值<(c0xFF00FFFF)1%>,持续<(c0xFF00FFFF)10>秒\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "<(c0x00d57140)秒怪利器>\\\\每秒增加怒气值<(c0xFF00FFFF)1%>,持续<(c0xFF00FFFF)10>秒\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "<(c0x00d57140)Vật phẩm diệt quái>\\\\Mỗi giây tăng <(c0xFF00FFFF)1%> Nộ Khí, kéo dài <(c0xFF00FFFF)10> giây\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n703",
           "occurrence": 1,
           "source": "强效怒气丹",
-          "target": "强效怒气丹"
+          "target": "Đan Nộ Khí Mạnh"
         },
         {
           "key": "i703",
           "occurrence": 1,
           "source": "<(c0x00d57140)秒怪利器>\\\\双击使用\\\\每秒增加怒气值<(c0xFF00FFFF)3%>,持续<(c0xFF00FFFF)17>秒\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "<(c0x00d57140)秒怪利器>\\\\双击使用\\\\每秒增加怒气值<(c0xFF00FFFF)3%>,持续<(c0xFF00FFFF)17>秒\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "<(c0x00d57140)Vật phẩm diệt quái>\\\\Dùng\\\\Mỗi giây tăng <(c0xFF00FFFF)3%> Nộ Khí, kéo dài <(c0xFF00FFFF)17> giây\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n704",
           "occurrence": 1,
           "source": "爆烈怒气丹",
-          "target": "爆烈怒气丹"
+          "target": "Đan Nộ Khí Bạo Liệt"
         },
         {
           "key": "i704",
           "occurrence": 1,
           "source": "<(c0x00d57140)秒怪利器>\\\\双击使用\\\\每秒增加怒气值<(c0xFF00FFFF)5%>,持续<(c0xFF00FFFF)20>秒\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "<(c0x00d57140)秒怪利器>\\\\双击使用\\\\每秒增加怒气值<(c0xFF00FFFF)5%>,持续<(c0xFF00FFFF)20>秒\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "<(c0x00d57140)Vật phẩm diệt quái>\\\\Dùng\\\\Mỗi giây tăng <(c0xFF00FFFF)5%> Nộ Khí, kéo dài <(c0xFF00FFFF)20> giây\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n705",
           "occurrence": 1,
           "source": "战士必杀技能书(1级)(废弃)",
-          "target": "战士必杀技能书(1级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Chiến Sĩ (Cấp 1) (Bỏ)"
         },
         {
           "key": "i705",
@@ -47372,7 +47372,7 @@
           "key": "n706",
           "occurrence": 1,
           "source": "战士必杀技能书(2级)(废弃)",
-          "target": "战士必杀技能书(2级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Chiến Sĩ (Cấp 2) (Bỏ)"
         },
         {
           "key": "i706",
@@ -47384,7 +47384,7 @@
           "key": "n707",
           "occurrence": 1,
           "source": "战士必杀技能书(3级)(废弃)",
-          "target": "战士必杀技能书(3级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Chiến Sĩ (Cấp 3) (Bỏ)"
         },
         {
           "key": "i707",
@@ -47396,7 +47396,7 @@
           "key": "n708",
           "occurrence": 1,
           "source": "战士必杀技能书(4级)(废弃)",
-          "target": "战士必杀技能书(4级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Chiến Sĩ (Cấp 4) (Bỏ)"
         },
         {
           "key": "i708",
@@ -47408,7 +47408,7 @@
           "key": "n709",
           "occurrence": 1,
           "source": "战士必杀技能书(5级)(废弃)",
-          "target": "战士必杀技能书(5级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Chiến Sĩ (Cấp 5) (Bỏ)"
         },
         {
           "key": "i709",
@@ -47420,7 +47420,7 @@
           "key": "n710",
           "occurrence": 1,
           "source": "法师必杀技能书(1级)(废弃)",
-          "target": "法师必杀技能书(1级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Pháp Sư (Cấp 1) (Bỏ)"
         },
         {
           "key": "i710",
@@ -47432,7 +47432,7 @@
           "key": "n711",
           "occurrence": 1,
           "source": "法师必杀技能书(2级)(废弃)",
-          "target": "法师必杀技能书(2级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Pháp Sư (Cấp 2) (Bỏ)"
         },
         {
           "key": "i711",
@@ -47444,7 +47444,7 @@
           "key": "n712",
           "occurrence": 1,
           "source": "法师必杀技能书(3级)(废弃)",
-          "target": "法师必杀技能书(3级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Pháp Sư (Cấp 3) (Bỏ)"
         },
         {
           "key": "i712",
@@ -47456,7 +47456,7 @@
           "key": "n713",
           "occurrence": 1,
           "source": "法师必杀技能书(4级)(废弃)",
-          "target": "法师必杀技能书(4级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Pháp Sư (Cấp 4) (Bỏ)"
         },
         {
           "key": "i713",
@@ -47468,7 +47468,7 @@
           "key": "n714",
           "occurrence": 1,
           "source": "法师必杀技能书(5级)(废弃)",
-          "target": "法师必杀技能书(5级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Pháp Sư (Cấp 5) (Bỏ)"
         },
         {
           "key": "i714",
@@ -47480,7 +47480,7 @@
           "key": "n715",
           "occurrence": 1,
           "source": "道士必杀技能书(1级)(废弃)",
-          "target": "道士必杀技能书(1级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Đạo Sĩ (Cấp 1) (Bỏ)"
         },
         {
           "key": "i715",
@@ -47492,7 +47492,7 @@
           "key": "n716",
           "occurrence": 1,
           "source": "道士必杀技能书(2级)(废弃)",
-          "target": "道士必杀技能书(2级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Đạo Sĩ (Cấp 2) (Bỏ)"
         },
         {
           "key": "i716",
@@ -47504,7 +47504,7 @@
           "key": "n717",
           "occurrence": 1,
           "source": "道士必杀技能书(3级)(废弃)",
-          "target": "道士必杀技能书(3级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Đạo Sĩ (Cấp 3) (Bỏ)"
         },
         {
           "key": "i717",
@@ -47516,7 +47516,7 @@
           "key": "n718",
           "occurrence": 1,
           "source": "道士必杀技能书(4级)(废弃)",
-          "target": "道士必杀技能书(4级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Đạo Sĩ (Cấp 4) (Bỏ)"
         },
         {
           "key": "i718",
@@ -47528,7 +47528,7 @@
           "key": "n719",
           "occurrence": 1,
           "source": "道士必杀技能书(5级)(废弃)",
-          "target": "道士必杀技能书(5级)(废弃)"
+          "target": "Sách Kỹ Năng Tất Sát Đạo Sĩ (Cấp 5) (Bỏ)"
         },
         {
           "key": "i719",
