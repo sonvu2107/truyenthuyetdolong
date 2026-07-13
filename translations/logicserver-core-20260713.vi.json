@@ -35440,61 +35440,61 @@
           "key": "promTlk171",
           "occurrence": 1,
           "source": "现在多了个人帮忙,我信心满满啊,前方的红蛇太猖獗了,到处寻觅血食,必须出手消灭这帮祸害.\\\\",
-          "target": "现在多了个人帮忙,我信心满满啊,前方的红蛇太猖獗了,到处寻觅血食,必须出手消灭这帮祸害.\\\\"
+          "target": "Có thêm ngươi giúp, ta tràn đầy tự tin! Hồng Xà phía trước quá hoành hành, khắp nơi tìm máu ăn; phải diệt lũ tai họa này.\\\\"
         },
         {
           "key": "promTlk1711",
           "occurrence": 1,
           "source": "现在请你把等级升到59级后在来找我!",
-          "target": "现在请你把等级升到59级后在来找我!"
+          "target": "Hãy lên cấp 59 rồi quay lại gặp ta!"
         },
         {
           "key": "promTlk1721",
           "occurrence": 1,
           "source": "幽暗丛林传来了灵魂之石的波动,前去查探一下.\\\\",
-          "target": "幽暗丛林传来了灵魂之石的波动,前去查探一下.\\\\"
+          "target": "Rừng U Ám truyền đến dao động Hồn Thạch, hãy đi điều tra.\\\\"
         },
         {
           "key": "promTlk1731",
           "occurrence": 1,
           "source": "你来啦,森林传出灵魂之石的波动,很多恶魔都苏醒了,丛林内巨大蚊子太多,出行造成麻烦,你前去消灭它们吧.\\\\",
-          "target": "你来啦,森林传出灵魂之石的波动,很多恶魔都苏醒了,丛林内巨大蚊子太多,出行造成麻烦,你前去消灭它们吧.\\\\"
+          "target": "Ngươi đến rồi. Dao động Hồn Thạch trong rừng đánh thức nhiều Ác Ma; Muỗi Khổng Lồ quá nhiều gây trở ngại, hãy diệt chúng.\\\\"
         },
         {
           "key": "promTlk1741",
           "occurrence": 1,
           "source": "在我前方不远处就是恶名昭彰的尖刺丛林王,它们残忍弑杀,夺去了很多无辜的生命,你能帮我消灭它们吗?\\\\",
-          "target": "在我前方不远处就是恶名昭彰的尖刺丛林王,它们残忍弑杀,夺去了很多无辜的生命,你能帮我消灭它们吗?\\\\"
+          "target": "Không xa phía trước là Vua Rừng Gai khét tiếng. Chúng tàn sát, cướp đi nhiều sinh mạng vô tội. Ngươi giúp ta diệt chúng được không?\\\\"
         },
         {
           "key": "promTlk1751",
           "occurrence": 1,
           "source": "还记得鲁高因当年利爪神殿的蛇怪吗?它们出现了,就在这片森林中,不过它们的头领牙皮就不在那里!\\\\",
-          "target": "还记得鲁高因当年利爪神殿的蛇怪吗?它们出现了,就在这片森林中,不过它们的头领牙皮就不在那里!\\\\"
+          "target": "Còn nhớ Xà Quái Thần Điện Vuốt ở Lỗ Cao Nhân không? Chúng xuất hiện trong rừng này, nhưng thủ lĩnh Fangskin không ở đó!\\\\"
         },
         {
           "key": "promTlk1761",
           "occurrence": 1,
           "source": "现在你需要快速提升等级.等你等级达到<(c0xFFFF0000)70级>后在来找到佣兵特使,你可以通过狩猎任务和经验副本可快速升级!\\\\",
-          "target": "现在你需要快速提升等级.等你等级达到<(c0xFFFF0000)70级>后在来找到佣兵特使,你可以通过狩猎任务和经验副本可快速升级!\\\\"
+          "target": "Giờ ngươi cần tăng cấp nhanh. Đạt <(c0xFFFF0000)Cấp 70> rồi gặp Sứ Giả Lính Đánh Thuê; Nhiệm Vụ Săn và Phó Bản KN giúp lên cấp nhanh!\\\\"
         },
         {
           "key": "promTlk1771",
           "occurrence": 1,
           "source": "狩猎任务经验多多!完成一次狩猎任务,在右侧任务面板接取!\\\\",
-          "target": "狩猎任务经验多多!完成一次狩猎任务,在右侧任务面板接取!\\\\"
+          "target": "Nhiệm Vụ Săn cho nhiều KN! Hoàn thành một lần rồi nhận tiếp ở bảng nhiệm vụ bên phải!\\\\"
         },
         {
           "key": "promTlk1781",
           "occurrence": 1,
           "source": "做得好!以后的冒险日子要多照顾佣兵伙伴,他强大起来也能帮你不少忙呢!现在你去找赫拉铁力吧,她有要事找你!\\\\",
-          "target": "做得好!以后的冒险日子要多照顾佣兵伙伴,他强大起来也能帮你不少忙呢!现在你去找赫拉铁力吧,她有要事找你!\\\\"
+          "target": "Làm tốt! Sau này hãy chăm sóc đồng đội lính đánh thuê, mạnh lên họ sẽ giúp ngươi nhiều. Giờ đi tìm Hratli, cô ấy có việc gấp!\\\\"
         },
         {
           "key": "promTlk1791",
           "occurrence": 1,
           "source": "说起嗜血夺魂,血腥红魔也是厉害的角色,你对付它们要多小心.\\\\",
-          "target": "说起嗜血夺魂,血腥红魔也是厉害的角色,你对付它们要多小心.\\\\"
+          "target": "Về khả năng hút máu đoạt hồn, Hồng Ma Đẫm Máu cũng rất lợi hại. Hãy cẩn thận khi đối phó.\\\\"
         },
         {
           "key": "promTlk1801",
