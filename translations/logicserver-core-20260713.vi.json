@@ -36940,61 +36940,61 @@
           "key": "promTlk3961",
           "occurrence": 1,
           "source": "随她吧,她的身上有海皇的力量,性命无忧.让她在外面吃点苦头也不错,雏鹰只有离开父母的羽翼才能真正翱翔九天.\\\\",
-          "target": "随她吧,她的身上有海皇的力量,性命无忧.让她在外面吃点苦头也不错,雏鹰只有离开父母的羽翼才能真正翱翔九天.\\\\"
+      "target": "Cứ để cô ấy đi. Cô có sức mạnh Hải Hoàng, không lo tính mạng. Chim non phải rời cánh cha mẹ mới thật sự bay cao.\\\\"
         },
         {
           "key": "promTlk3971",
           "occurrence": 1,
           "source": "斥候虽然身法了得,但实力却是有些不济,如今被死灵渊阻挡在门外,无法深入探查,实在是无能为力.\\\\",
-          "target": "斥候虽然身法了得,但实力却是有些不济,如今被死灵渊阻挡在门外,无法深入探查,实在是无能为力.\\\\"
+      "target": "Trinh Sát thân pháp tốt nhưng thực lực yếu, bị Vực Tử Linh chặn ngoài cửa nên không thể vào sâu dò xét.\\\\"
         },
         {
           "key": "promTlk3981",
           "occurrence": 1,
           "source": "我已经与二层的龟丞相取得了联系,他是我海底世界的知名人物,你破开夜叉族的封锁便可见到二层的入口.\\\\",
-          "target": "我已经与二层的龟丞相取得了联系,他是我海底世界的知名人物,你破开夜叉族的封锁便可见到二层的入口.\\\\"
+      "target": "Ta đã liên lạc với Thừa Tướng Rùa tầng 2. Phá phong tỏa Dạ Xoa rồi ngươi sẽ thấy lối vào tầng 2.\\\\"
         },
         {
           "key": "promTlk3991",
           "occurrence": 1,
           "source": "等级提升到【65】级,再来找我.\\\\",
-          "target": "等级提升到【65】级,再来找我.\\\\"
+      "target": "Đạt cấp 【65】 rồi hãy quay lại gặp ta.\\\\"
         },
         {
           "key": "promTlk4001",
           "occurrence": 1,
           "source": "你应该还没好好的玩过副本吧,接下来请你去参加我们好玩的副本吧,慢慢升级,等级达到1转50级后再来找我吧!\\\\",
-          "target": "你应该还没好好的玩过副本吧,接下来请你去参加我们好玩的副本吧,慢慢升级,等级达到1转50级后再来找我吧!\\\\"
+      "target": "Chắc ngươi chưa trải nghiệm Phó Bản. Hãy tham gia, luyện lên CS 1 cấp 50 rồi quay lại gặp ta!\\\\"
         },
         {
           "key": "promTlk401",
           "occurrence": 1,
           "source": "圣城作为对抗黑暗邪恶势力的大本营,有很多地方需要你去熟悉和了解,你初来咋到,先去找当地治安官了解城内情况.\\\\",
-          "target": "圣城作为对抗黑暗邪恶势力的大本营,有很多地方需要你去熟悉和了解,你初来咋到,先去找当地治安官了解城内情况.\\\\"
+      "target": "Thánh Thành là đại bản doanh chống thế lực hắc ám. Ngươi mới đến, hãy tìm Quan Trị An để biết tình hình trong thành.\\\\"
         },
         {
           "key": "promTlk4011",
           "occurrence": 1,
           "source": "干燥高地的督军传来消息,需要一位勇士前去帮忙,你能帮我吗?哈尼~\\\\",
-          "target": "干燥高地的督军传来消息,需要一位勇士前去帮忙,你能帮我吗?哈尼~\\\\"
+      "target": "Đốc Quân ở Cao Nguyên Khô Cằn cần một dũng sĩ trợ giúp. Ngươi giúp ta được không nào~\\\\"
         },
         {
           "key": "promTlk4021",
           "occurrence": 1,
           "source": "高地有太多的恶魔,你能帮我去消灭它们吗?\\\\",
-          "target": "高地有太多的恶魔,你能帮我去消灭它们吗?\\\\"
+      "target": "Cao Nguyên có quá nhiều ác ma. Ngươi giúp ta diệt chúng được chứ?\\\\"
         },
         {
           "key": "promTlk4031",
           "occurrence": 1,
           "source": "我这里有一批战争物质,需要麻烦你帮我护送到野蛮人首领那边,他在冥河魔洞一层.\\\\",
-          "target": "我这里有一批战争物质,需要麻烦你帮我护送到野蛮人首领那边,他在冥河魔洞一层.\\\\"
+      "target": "Ta có một lô vật tư chiến tranh, cần ngươi hộ tống đến Thủ Lĩnh Man Tộc ở tầng 1 Hang Ma Minh Hà.\\\\"
         },
         {
           "key": "promTlk4041",
           "occurrence": 1,
           "source": "战争来袭,我们的物质消耗得很严重,现在很多药品都稀缺了,你能帮我采集一些草药我要保存起来,以备不时之需.\\\\",
-          "target": "战争来袭,我们的物质消耗得很严重,现在很多药品都稀缺了,你能帮我采集一些草药我要保存起来,以备不时之需.\\\\"
+      "target": "Chiến tranh đến, vật tư và thuốc men đều khan hiếm. Hãy hái thảo dược cho ta dự trữ.\\\\"
         },
         {
           "key": "promTlk4051",
