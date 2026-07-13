@@ -56492,61 +56492,61 @@
           "key": "n1466",
           "occurrence": 1,
           "source": "极品属性清洗卷轴",
-          "target": "极品属性清洗卷轴"
+          "target": "Cuộn Xóa Thuộc Tính Cực Phẩm"
         },
         {
           "key": "i1466",
           "occurrence": 1,
           "source": "双击使用,可将任意一件装备的<(c0xFF00FF00)极品属性清除为空>",
-          "target": "双击使用,可将任意一件装备的<(c0xFF00FF00)极品属性清除为空>"
+          "target": "Nhấp đúp để dùng, xóa sạch <(c0xFF00FF00)Thuộc Tính Cực Phẩm của bất kỳ trang bị nào>"
         },
         {
           "key": "n1467",
           "occurrence": 1,
           "source": "极品属性转移卷轴",
-          "target": "极品属性转移卷轴"
+          "target": "Cuộn Chuyển Thuộc Tính Cực Phẩm"
         },
         {
           "key": "i1467",
           "occurrence": 1,
           "source": "让装备获得另外一件相同部位装备的极品属性的道具\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)极品属性转移>操作",
-          "target": "让装备获得另外一件相同部位装备的极品属性的道具\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)极品属性转移>操作"
+          "target": "Vật phẩm giúp trang bị nhận Thuộc Tính Cực Phẩm của một trang bị khác cùng vị trí\\\\<(c0xFFFFFF00)Nhấp đúp vật phẩm> để mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) và thực hiện <(c0xFF00FFFF)Chuyển Thuộc Tính Cực Phẩm>"
         },
         {
           "key": "n1468",
           "occurrence": 1,
           "source": "55级新手包",
-          "target": "55级新手包"
+          "target": "Gói Tân Thủ Cấp 55"
         },
         {
           "key": "i1468",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)55级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)55级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 55> có thể nhận\\\\<(c0xFF00FF00)Gợi ý: nhận ở giao diện Gói Thăng Cấp trong hệ thống Phúc Lợi>"
         },
         {
           "key": "n1469",
           "occurrence": 1,
           "source": "60级新手包",
-          "target": "60级新手包"
+          "target": "Gói Tân Thủ Cấp 60"
         },
         {
           "key": "i1469",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)60级>即可领取60级等级礼包",
-          "target": "到达<(c0xFF00FFFF)60级>即可领取60级等级礼包"
+          "target": "Đạt <(c0xFF00FFFF)Cấp 60> có thể nhận Gói Cấp 60"
         },
         {
           "key": "n1470",
           "occurrence": 1,
           "source": "60级套装武器礼包(废弃)",
-          "target": "60级套装武器礼包(废弃)"
+          "target": "Gói Vũ Khí Bộ Cấp 60 (Bỏ)"
         },
         {
           "key": "i1470",
           "occurrence": 1,
           "source": "双击可获得一件55级套装武器",
-          "target": "双击可获得一件55级套装武器"
+          "target": "Nhấp đúp nhận một vũ khí bộ cấp 55"
         },
         {
           "key": "n1471",
