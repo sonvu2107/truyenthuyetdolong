@@ -48836,61 +48836,61 @@
           "key": "n828",
           "occurrence": 1,
           "source": "佣兵经验水晶(小)",
-          "target": "佣兵经验水晶(小)"
+          "target": "Pha Lê KN Lính Đánh Thuê (Nhỏ)"
         },
         {
           "key": "i828",
           "occurrence": 1,
           "source": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)40万>",
-          "target": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)40万>"
+          "target": "Dùng\\\\Tăng <(c0xFF00FFFF)400K KN> cho Lính Đánh Thuê đang ra trận"
         },
         {
           "key": "n829",
           "occurrence": 1,
           "source": "佣兵经验水晶(中)",
-          "target": "佣兵经验水晶(中)"
+          "target": "Pha Lê KN Lính Đánh Thuê (Trung)"
         },
         {
           "key": "i829",
           "occurrence": 1,
           "source": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)200万>",
-          "target": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)200万>"
+          "target": "Dùng\\\\Tăng <(c0xFF00FFFF)2000K KN> cho Lính Đánh Thuê đang ra trận"
         },
         {
           "key": "n830",
           "occurrence": 1,
           "source": "佣兵经验水晶(大)",
-          "target": "佣兵经验水晶(大)"
+          "target": "Pha Lê KN Lính Đánh Thuê (Lớn)"
         },
         {
           "key": "i830",
           "occurrence": 1,
           "source": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)400万>",
-          "target": "双击使用\\\\增加当前出战佣兵的经验<(c0xFF00FFFF)400万>"
+          "target": "Dùng\\\\Tăng <(c0xFF00FFFF)4000K KN> cho Lính Đánh Thuê đang ra trận"
         },
         {
           "key": "n831",
           "occurrence": 1,
           "source": "佣兵转生石",
-          "target": "佣兵转生石"
+          "target": "Đá Chuyển Sinh Lính Đánh Thuê"
         },
         {
           "key": "i831",
           "occurrence": 1,
           "source": "在佣兵转生时候必备的道具\\\\<(c0xFFFFFF00)双击物品>可打开佣兵界面(快捷键:<(c0xFF00FFFF)C>)",
-          "target": "在佣兵转生时候必备的道具\\\\<(c0xFFFFFF00)双击物品>可打开佣兵界面(快捷键:<(c0xFF00FFFF)C>)"
+          "target": "Vật phẩm cần khi CS Lính Đánh Thuê\\\\<(c0xFFFFFF00)Dùng> để mở giao diện Lính Đánh Thuê (phím tắt: <(c0xFF00FFFF)C>)"
         },
         {
           "key": "n832",
           "occurrence": 1,
           "source": "佣兵技能熟练卷轴",
-          "target": "佣兵技能熟练卷轴"
+          "target": "Cuộn Thành Thạo Kỹ Năng Lính Đánh Thuê"
         },
         {
           "key": "i832",
           "occurrence": 1,
           "source": "佣兵技能熟练卷轴\\\\可以增加佣兵指定技能的熟练度50000点\\\\<(c0xFFFFFF00)双击物品>可打开佣兵界面(快捷键:<(c0xFF00FFFF)C>)",
-          "target": "佣兵技能熟练卷轴\\\\可以增加佣兵指定技能的熟练度50000点\\\\<(c0xFFFFFF00)双击物品>可打开佣兵界面(快捷键:<(c0xFF00FFFF)C>)"
+          "target": "Cuộn Thành Thạo Kỹ Năng Lính Đánh Thuê\\\\Tăng 50K điểm thành thạo cho 1 kỹ năng chỉ định\\\\<(c0xFFFFFF00)Dùng> để mở giao diện Lính Đánh Thuê (phím tắt: <(c0xFF00FFFF)C>)"
         },
         {
           "key": "n833",
