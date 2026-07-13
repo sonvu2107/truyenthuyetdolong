@@ -24862,193 +24862,193 @@
           "key": "data3020",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3040",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:狂刀统领><(x干燥的高地:0:0:狂刀统领)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:100:121>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:狂刀统领><(x干燥的高地:0:0:狂刀统领)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:100:121>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:狂刀统领><(x干燥的高地:0:0:狂刀统领)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:100:121>"
         },
         {
           "key": "data3050",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:利爪蛇怪><(x幽暗丛林:0:0:利爪蛇怪)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:124:101>",
-          "target": "<(c0xFF1E90FF)幽暗丛林><任意怪/M幽暗丛林:0:0:利爪蛇怪><(x幽暗丛林:0:0:利爪蛇怪)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><幽暗丛林/M幽暗丛林:124:101>"
+          "target": "<(c0xFF1E90FF)Rừng U Ám><Quái Bất Kỳ/M幽暗丛林:0:0:利爪蛇怪><(x幽暗丛林:0:0:利爪蛇怪)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng U Ám/M幽暗丛林:124:101>"
         },
         {
           "key": "data3080",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3090",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:106:57>"
         },
         {
           "key": "data3100",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:80:101>"
         },
         {
           "key": "data3110",
           "occurrence": 1,
           "source": "<如何获得经验/@@showWin,1078>",
-          "target": "<如何获得经验/@@showWin,1078>"
+          "target": "<Cách nhận KN/@@showWin,1078>"
         },
         {
           "key": "data3130",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:134:81>"
         },
         {
           "key": "data3140",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:106:57>"
         },
         {
           "key": "data3150",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3160",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:50:114>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:50:114>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:50:114>"
         },
         {
           "key": "data3170",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3180",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:102:76>"
         },
         {
           "key": "data3190",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:134:81>"
         },
         {
           "key": "data3220",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:134:81>"
         },
         {
           "key": "data3230",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:102:76>"
         },
         {
           "key": "data3240",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3250",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:50:114>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:50:114>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:50:114>"
         },
         {
           "key": "data3260",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3270",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:134:81>"
         },
         {
           "key": "data3280",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:134:81>"
         },
         {
           "key": "data3290",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:102:76>"
         },
         {
           "key": "data3300",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3310",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:50:114>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:50:114>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:恶魔统领><(x干燥的高地:0:0:恶魔统领)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:50:114>"
         },
         {
           "key": "data3330",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data3340",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:102:76>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:102:76>"
         },
         {
           "key": "data3350",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:134:81>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:狂暴丛林兽><(x黑暗森林:0:0:狂暴丛林兽)><(c0xFF00FFFF)$count$/180><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:134:81>"
         },
         {
           "key": "data3360",
           "occurrence": 1,
           "source": "<如何获得经验/@@showWin,1078>",
-          "target": "<如何获得经验/@@showWin,1078>"
+          "target": "<Cách nhận KN/@@showWin,1078>"
         },
         {
           "key": "data3370",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3380",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3390",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3400",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:23:70>"
         },
         {
           "key": "data3410",
@@ -25060,121 +25060,121 @@
           "key": "data3420",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3430",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3440",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3450",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3470",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3480",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3490",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:23:70>"
         },
         {
           "key": "data3500",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3510",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3520",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3530",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3540",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3550",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3560",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:23:70>"
         },
         {
           "key": "data3570",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3580",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3590",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3600",
           "occurrence": 1,
           "source": "<如何获得经验/@@showWin,1078>",
-          "target": "<如何获得经验/@@showWin,1078>"
+          "target": "<Cách nhận KN/@@showWin,1078>"
         },
         {
           "key": "data3620",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3630",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3640",
@@ -25186,97 +25186,97 @@
           "key": "data3650",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3660",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:23:70>"
         },
         {
           "key": "data3670",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3680",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3690",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3700",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3710",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3720",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3730",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3740",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3750",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data3760",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3770",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3780",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:23:70>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:地狱力士><(x干燥的高地:0:0:地狱力士)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:23:70>"
         },
         {
           "key": "data3790",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:142:64>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:血鸟护卫><(x埋骨之地:0:0:血鸟护卫)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:142:64>"
         },
         {
           "key": "data3800",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:74:87>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:嗜血王)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:74:87>"
         },
         {
           "key": "data3810",
@@ -25318,7 +25318,7 @@
           "key": "data4020",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:攻城龙兽><(x干燥的高地:0:0:攻城龙兽)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:104:115>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:攻城龙兽><(x干燥的高地:0:0:攻城龙兽)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:104:115>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:攻城龙兽><(x干燥的高地:0:0:攻城龙兽)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:104:115>"
         },
         {
           "key": "data4030",
@@ -25330,13 +25330,13 @@
           "key": "data4050",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)冥河魔洞一层><任意怪/M冥河魔洞一层:0:0:龟甲魔蛇><(x冥河魔洞一层:0:0:龟甲魔蛇)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><冥河魔洞一层/M冥河魔洞一层:229:112>",
-          "target": "<(c0xFF1E90FF)冥河魔洞一层><任意怪/M冥河魔洞一层:0:0:龟甲魔蛇><(x冥河魔洞一层:0:0:龟甲魔蛇)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><冥河魔洞一层/M冥河魔洞一层:229:112>"
+          "target": "<(c0xFF1E90FF)冥河魔洞一层><Quái Bất Kỳ/M冥河魔洞一层:0:0:龟甲魔蛇><(x冥河魔洞一层:0:0:龟甲魔蛇)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><冥河魔洞一层/M冥河魔洞一层:229:112>"
         },
         {
           "key": "data4070",
           "occurrence": 1,
           "source": "<如何获得经验/@@showWin,1015>",
-          "target": "<如何获得经验/@@showWin,1015>"
+          "target": "<Cách nhận KN/@@showWin,1015>"
         },
         {
           "key": "data4080",
@@ -25366,13 +25366,13 @@
           "key": "data4750",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:43:74>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:罗格巨人><(x黑暗森林:0:0:罗格巨人)><(c0xFF00FFFF)$count$/200><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:43:74>"
         },
         {
           "key": "data4760",
           "occurrence": 1,
           "source": "<如何获得经验/@@showWin,1015>",
-          "target": "<如何获得经验/@@showWin,1015>"
+          "target": "<Cách nhận KN/@@showWin,1015>"
         },
         {
           "key": "data4770",
@@ -25474,7 +25474,7 @@
           "key": "data80073",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭火龙洞三层><任意怪/M火龙洞三层:0:0:死灵蚁><(x火龙洞三层:0:0:死灵蚁)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)有效地图:><火龙洞三层/M火龙洞三层:52:138>",
-          "target": "<(c0xFF1E90FF)消灭火龙洞三层><任意怪/M火龙洞三层:0:0:死灵蚁><(x火龙洞三层:0:0:死灵蚁)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)有效地图:><火龙洞三层/M火龙洞三层:52:138>"
+          "target": "<(c0xFF1E90FF)消灭火龙洞三层><Quái Bất Kỳ/M火龙洞三层:0:0:死灵蚁><(x火龙洞三层:0:0:死灵蚁)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><火龙洞三层/M火龙洞三层:52:138>"
         },
         {
           "key": "data80083",
@@ -25492,19 +25492,19 @@
           "key": "data80085",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭火龙洞二层><任意怪/M火龙洞二层:0:0:熔岩巨人><(x火龙洞二层:0:0:熔岩巨人)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)有效地图:><火龙洞二层/M火龙洞二层:41:184>",
-          "target": "<(c0xFF1E90FF)消灭火龙洞二层><任意怪/M火龙洞二层:0:0:熔岩巨人><(x火龙洞二层:0:0:熔岩巨人)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)有效地图:><火龙洞二层/M火龙洞二层:41:184>"
+          "target": "<(c0xFF1E90FF)消灭火龙洞二层><Quái Bất Kỳ/M火龙洞二层:0:0:熔岩巨人><(x火龙洞二层:0:0:熔岩巨人)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><火龙洞二层/M火龙洞二层:41:184>"
         },
         {
           "key": "data80093",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭幽灵船三层><任意怪/M幽灵船三层:0:0:暴风牛魔><(x幽灵船三层:0:0:暴风牛魔)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><幽灵船三层/M幽灵船三层:42:42>",
-          "target": "<(c0xFF1E90FF)消灭幽灵船三层><任意怪/M幽灵船三层:0:0:暴风牛魔><(x幽灵船三层:0:0:暴风牛魔)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><幽灵船三层/M幽灵船三层:42:42>"
+          "target": "<(c0xFF1E90FF)消灭幽灵船三层><Quái Bất Kỳ/M幽灵船三层:0:0:暴风牛魔><(x幽灵船三层:0:0:暴风牛魔)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><幽灵船三层/M幽灵船三层:42:42>"
         },
         {
           "key": "data8010",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞二层><任意怪/M世界要塞二层:0:0:诅咒将军><(x世界要塞二层:0:0:诅咒将军)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><世界要塞二层/M世界要塞二层:129:160>  ",
-          "target": "<(c0xFF1E90FF)世界要塞二层><任意怪/M世界要塞二层:0:0:诅咒将军><(x世界要塞二层:0:0:诅咒将军)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><世界要塞二层/M世界要塞二层:129:160>  "
+          "target": "<(c0xFF1E90FF)Tầng 2 Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞二层:0:0:诅咒将军><(x世界要塞二层:0:0:诅咒将军)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)Bản Đồ Săn Quái:><Tầng 2 Pháo Đài Thế Giới/M世界要塞二层:129:160>  "
         },
         {
           "key": "data80103",
@@ -25522,37 +25522,37 @@
           "key": "data80105",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭幽灵船二层><任意怪/M幽灵船二层:0:0:毒魔蜘蛛><(x幽灵船二层:0:0:毒魔蜘蛛)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><幽灵船二层/M幽灵船二层:133:88>",
-          "target": "<(c0xFF1E90FF)消灭幽灵船二层><任意怪/M幽灵船二层:0:0:毒魔蜘蛛><(x幽灵船二层:0:0:毒魔蜘蛛)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><幽灵船二层/M幽灵船二层:133:88>"
+          "target": "<(c0xFF1E90FF)消灭幽灵船二层><Quái Bất Kỳ/M幽灵船二层:0:0:毒魔蜘蛛><(x幽灵船二层:0:0:毒魔蜘蛛)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><幽灵船二层/M幽灵船二层:133:88>"
         },
         {
           "key": "data80113",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭蛮荒三层><任意怪/M蛮荒三层:0:0:魔仙猪><(x蛮荒三层:0:0:魔仙猪)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒三层/M蛮荒三层:12:24>",
-          "target": "<(c0xFF1E90FF)消灭蛮荒三层><任意怪/M蛮荒三层:0:0:魔仙猪><(x蛮荒三层:0:0:魔仙猪)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒三层/M蛮荒三层:12:24>"
+          "target": "<(c0xFF1E90FF)消灭蛮荒三层><Quái Bất Kỳ/M蛮荒三层:0:0:魔仙猪><(x蛮荒三层:0:0:魔仙猪)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><蛮荒三层/M蛮荒三层:12:24>"
         },
         {
           "key": "data80123",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭蛮荒二层><任意怪/M蛮荒二层:0:0:牛魔护卫><(x蛮荒二层:0:0:牛魔护卫)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒二层/M蛮荒二层:31:42>",
-          "target": "<(c0xFF1E90FF)消灭蛮荒二层><任意怪/M蛮荒二层:0:0:牛魔护卫><(x蛮荒二层:0:0:牛魔护卫)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒二层/M蛮荒二层:31:42>"
+          "target": "<(c0xFF1E90FF)消灭蛮荒二层><Quái Bất Kỳ/M蛮荒二层:0:0:牛魔护卫><(x蛮荒二层:0:0:牛魔护卫)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><蛮荒二层/M蛮荒二层:31:42>"
         },
         {
           "key": "data80133",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭蛮荒三层><任意怪/M蛮荒三层:0:0:牛魔勇士><(x蛮荒三层:0:0:牛魔勇士)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒三层/M蛮荒三层:200:24>",
-          "target": "<(c0xFF1E90FF)消灭蛮荒三层><任意怪/M蛮荒三层:0:0:牛魔勇士><(x蛮荒三层:0:0:牛魔勇士)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒三层/M蛮荒三层:200:24>"
+          "target": "<(c0xFF1E90FF)消灭蛮荒三层><Quái Bất Kỳ/M蛮荒三层:0:0:牛魔勇士><(x蛮荒三层:0:0:牛魔勇士)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><蛮荒三层/M蛮荒三层:200:24>"
         },
         {
           "key": "data80143",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭蛮荒二层><任意怪/M蛮荒二层:0:0:蛮荒流放者><(x蛮荒二层:0:0:蛮荒流放者)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒二层/M蛮荒二层:114:75>",
-          "target": "<(c0xFF1E90FF)消灭蛮荒二层><任意怪/M蛮荒二层:0:0:蛮荒流放者><(x蛮荒二层:0:0:蛮荒流放者)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒二层/M蛮荒二层:114:75>"
+          "target": "<(c0xFF1E90FF)消灭蛮荒二层><Quái Bất Kỳ/M蛮荒二层:0:0:蛮荒流放者><(x蛮荒二层:0:0:蛮荒流放者)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><蛮荒二层/M蛮荒二层:114:75>"
         },
         {
           "key": "data801510",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭火龙洞一层><任意怪/M火龙洞:0:0:烈火猪妖><(x火龙洞:0:0:烈火猪妖)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)有效地图:><火龙洞一层/M火龙洞:82:237>",
-          "target": "<(c0xFF1E90FF)消灭火龙洞一层><任意怪/M火龙洞:0:0:烈火猪妖><(x火龙洞:0:0:烈火猪妖)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)有效地图:><火龙洞一层/M火龙洞:82:237>"
+          "target": "<(c0xFF1E90FF)消灭火龙洞一层><Quái Bất Kỳ/M火龙洞:0:0:烈火猪妖><(x火龙洞:0:0:烈火猪妖)> <(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><火龙洞一层/M火龙洞:82:237>"
         },
         {
           "key": "data80155",
@@ -25594,7 +25594,7 @@
           "key": "data801611",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭幽灵船一层><任意怪/M幽灵船:0:0:钢牙蜘蛛><(x幽灵船:0:0:钢牙蜘蛛)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><幽灵船一层/M幽灵船:43:61>",
-          "target": "<(c0xFF1E90FF)消灭幽灵船一层><任意怪/M幽灵船:0:0:钢牙蜘蛛><(x幽灵船:0:0:钢牙蜘蛛)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><幽灵船一层/M幽灵船:43:61>"
+          "target": "<(c0xFF1E90FF)消灭幽灵船一层><Quái Bất Kỳ/M幽灵船:0:0:钢牙蜘蛛><(x幽灵船:0:0:钢牙蜘蛛)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><幽灵船一层/M幽灵船:43:61>"
         },
         {
           "key": "data80166",
@@ -25624,7 +25624,7 @@
           "key": "data801710",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭蛮荒一层><任意怪/M蛮荒:0:0:七鳞蜘蛛><(x蛮荒:0:0:七鳞蜘蛛)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒一层/M蛮荒:23:91>",
-          "target": "<(c0xFF1E90FF)消灭蛮荒一层><任意怪/M蛮荒:0:0:七鳞蜘蛛><(x蛮荒:0:0:七鳞蜘蛛)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒一层/M蛮荒:23:91>"
+          "target": "<(c0xFF1E90FF)消灭蛮荒一层><Quái Bất Kỳ/M蛮荒:0:0:七鳞蜘蛛><(x蛮荒:0:0:七鳞蜘蛛)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><蛮荒一层/M蛮荒:23:91>"
         },
         {
           "key": "data80175",
@@ -25654,7 +25654,7 @@
           "key": "data801810",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭蛮荒一层><任意怪/M蛮荒:0:0:七鳞蜘蛛><(x蛮荒:0:0:七鳞蜘蛛)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒一层/M蛮荒:23:91>",
-          "target": "<(c0xFF1E90FF)消灭蛮荒一层><任意怪/M蛮荒:0:0:七鳞蜘蛛><(x蛮荒:0:0:七鳞蜘蛛)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><蛮荒一层/M蛮荒:23:91>"
+          "target": "<(c0xFF1E90FF)消灭蛮荒一层><Quái Bất Kỳ/M蛮荒:0:0:七鳞蜘蛛><(x蛮荒:0:0:七鳞蜘蛛)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><蛮荒一层/M蛮荒:23:91>"
         },
         {
           "key": "data80185",
@@ -25804,7 +25804,7 @@
           "key": "data802610",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭海底世界一层><任意怪/M海底世界:0:0:深海冤魂><(x海底世界:0:0:深海冤魂)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界一层/M海底世界:66:129>",
-          "target": "<(c0xFF1E90FF)消灭海底世界一层><任意怪/M海底世界:0:0:深海冤魂><(x海底世界:0:0:深海冤魂)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界一层/M海底世界:66:129>"
+          "target": "<(c0xFF1E90FF)消灭海底世界一层><Quái Bất Kỳ/M海底世界:0:0:深海冤魂><(x海底世界:0:0:深海冤魂)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><海底世界一层/M海底世界:66:129>"
         },
         {
           "key": "data80268",
@@ -25822,7 +25822,7 @@
           "key": "data802710",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭海底世界一层><任意怪/M海底世界:0:0:深海冤魂><(x海底世界:0:0:深海冤魂)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界一层/M海底世界:66:129>",
-          "target": "<(c0xFF1E90FF)消灭海底世界一层><任意怪/M海底世界:0:0:深海冤魂><(x海底世界:0:0:深海冤魂)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界一层/M海底世界:66:129>"
+          "target": "<(c0xFF1E90FF)消灭海底世界一层><Quái Bất Kỳ/M海底世界:0:0:深海冤魂><(x海底世界:0:0:深海冤魂)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><海底世界一层/M海底世界:66:129>"
         },
         {
           "key": "data80278",
@@ -25840,13 +25840,13 @@
           "key": "data80286",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭海底世界二层><任意怪/M海底世界二层:0:0:勾魂水鬼><(x海底世界二层:0:0:勾魂水鬼)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界二层/M海底世界二层:117:230>",
-          "target": "<(c0xFF1E90FF)消灭海底世界二层><任意怪/M海底世界二层:0:0:勾魂水鬼><(x海底世界二层:0:0:勾魂水鬼)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界二层/M海底世界二层:117:230>"
+          "target": "<(c0xFF1E90FF)消灭海底世界二层><Quái Bất Kỳ/M海底世界二层:0:0:勾魂水鬼><(x海底世界二层:0:0:勾魂水鬼)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><海底世界二层/M海底世界二层:117:230>"
         },
         {
           "key": "data80296",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭海底世界二层><任意怪/M海底世界二层:0:0:腐尸暴龙><(x海底世界二层:0:0:腐尸暴龙)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界二层/M海底世界二层:116:129>",
-          "target": "<(c0xFF1E90FF)消灭海底世界二层><任意怪/M海底世界二层:0:0:腐尸暴龙><(x海底世界二层:0:0:腐尸暴龙)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)有效地图:><海底世界二层/M海底世界二层:116:129>"
+          "target": "<(c0xFF1E90FF)消灭海底世界二层><Quái Bất Kỳ/M海底世界二层:0:0:腐尸暴龙><(x海底世界二层:0:0:腐尸暴龙)> <(c0xFF00FFFF)$count$/120><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><海底世界二层/M海底世界二层:116:129>"
         },
         {
           "key": "data80305",
@@ -25864,7 +25864,7 @@
           "key": "data80307",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭海底世界三层><任意怪/M海底世界三层:0:0:龙鳄守卫><(x海底世界三层:0:0:龙鳄守卫)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><海底世界三层/M海底世界三层:40:160>",
-          "target": "<(c0xFF1E90FF)消灭海底世界三层><任意怪/M海底世界三层:0:0:龙鳄守卫><(x海底世界三层:0:0:龙鳄守卫)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><海底世界三层/M海底世界三层:40:160>"
+          "target": "<(c0xFF1E90FF)消灭海底世界三层><Quái Bất Kỳ/M海底世界三层:0:0:龙鳄守卫><(x海底世界三层:0:0:龙鳄守卫)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><海底世界三层/M海底世界三层:40:160>"
         },
         {
           "key": "data80315",
@@ -25882,7 +25882,7 @@
           "key": "data80317",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)消灭海底世界三层><任意怪/M海底世界三层:0:0:龙鳄守卫><(x海底世界三层:0:0:龙鳄守卫)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><海底世界三层/M海底世界三层:40:160>",
-          "target": "<(c0xFF1E90FF)消灭海底世界三层><任意怪/M海底世界三层:0:0:龙鳄守卫><(x海底世界三层:0:0:龙鳄守卫)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)有效地图:><海底世界三层/M海底世界三层:40:160>"
+          "target": "<(c0xFF1E90FF)消灭海底世界三层><Quái Bất Kỳ/M海底世界三层:0:0:龙鳄守卫><(x海底世界三层:0:0:龙鳄守卫)> <(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Hiệu Lực:><海底世界三层/M海底世界三层:40:160>"
         },
         {
           "key": "data80330",
@@ -25912,7 +25912,7 @@
           "key": "data8040",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿><任意怪/M黑暗神殿:0:0:邪恶战士><(x黑暗神殿:0:0:邪恶战士)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><黑暗神殿/M黑暗神殿:103:97>",
-          "target": "<(c0xFF1E90FF)黑暗神殿><任意怪/M黑暗神殿:0:0:邪恶战士><(x黑暗神殿:0:0:邪恶战士)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><黑暗神殿/M黑暗神殿:103:97>"
+          "target": "<(c0xFF1E90FF)黑暗神殿><Quái Bất Kỳ/M黑暗神殿:0:0:邪恶战士><(x黑暗神殿:0:0:邪恶战士)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿/M黑暗神殿:103:97>"
         },
         {
           "key": "data8050",
@@ -26236,7 +26236,7 @@
           "key": "data8120",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:黑暗教堂)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:105:55>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:黑暗教堂)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:105:55>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:嗜血王><(x黑暗教堂:0:0:黑暗教堂)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:105:55>"
         },
         {
           "key": "data8130",
@@ -26380,31 +26380,31 @@
           "key": "data84170",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:117:148>"
         },
         {
           "key": "data84171",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:54:192>"
         },
         {
           "key": "data84172",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:181:134>"
         },
         {
           "key": "data84173",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:69:91>"
         },
         {
           "key": "data84174",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:191:96>"
         },
         {
           "key": "data842110",
@@ -26536,451 +26536,451 @@
           "key": "data84250",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:191:96>"
         },
         {
           "key": "data84251",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:117:148>"
         },
         {
           "key": "data84252",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:54:192>"
         },
         {
           "key": "data84253",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:181:134>"
         },
         {
           "key": "data84254",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:69:91>"
         },
         {
           "key": "data84260",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:181:134>"
         },
         {
           "key": "data84261",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:191:96>"
         },
         {
           "key": "data84262",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:117:148>"
         },
         {
           "key": "data84263",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:54:192>"
         },
         {
           "key": "data84264",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:54:192>"
         },
         {
           "key": "data84270",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:69:91>"
         },
         {
           "key": "data84271",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:181:134>"
         },
         {
           "key": "data84272",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:191:96>"
         },
         {
           "key": "data84273",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:117:148>"
         },
         {
           "key": "data84274",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:54:192>"
         },
         {
           "key": "data84280",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:54:192>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:魔化的兽族><(x幽冥魔洞:0:0:魔化的兽族)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:54:192>"
         },
         {
           "key": "data84281",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:69:91>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:圣甲虫王><(x幽冥魔洞:0:0:圣甲虫王)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:69:91>"
         },
         {
           "key": "data84282",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:181:134>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:长斧牛怪><(x幽冥魔洞:0:0:长斧牛怪)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:181:134>"
         },
         {
           "key": "data84283",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:191:96>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:邪恶刀手><(x幽冥魔洞:0:0:邪恶刀手)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:191:96>"
         },
         {
           "key": "data84284",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>",
-          "target": "<(c0xFF1E90FF)幽冥魔洞><任意怪/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><幽冥魔洞/M幽冥魔洞:117:148>"
+          "target": "<(c0xFF1E90FF)幽冥魔洞><Quái Bất Kỳ/M幽冥魔洞:0:0:恐怖狼牙猪><(x幽冥魔洞:0:0:恐怖狼牙猪)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><幽冥魔洞/M幽冥魔洞:117:148>"
         },
         {
           "key": "data84290",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:75:112>"
         },
         {
           "key": "data84291",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:79:29>"
         },
         {
           "key": "data84292",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:51:47>"
         },
         {
           "key": "data84293",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:135:104>"
         },
         {
           "key": "data84294",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:114:146>"
         },
         {
           "key": "data84300",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:114:146>"
         },
         {
           "key": "data84301",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:75:112>"
         },
         {
           "key": "data84302",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:79:29>"
         },
         {
           "key": "data84303",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:51:47>"
         },
         {
           "key": "data84304",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:135:104>"
         },
         {
           "key": "data84310",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/50><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M黑埋骨之地:129:160>"
         },
         {
           "key": "data84311",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/60><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/60><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/60><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M黑埋骨之地:129:160>"
         },
         {
           "key": "data84312",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/70><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/70><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/70><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M黑埋骨之地:129:160>"
         },
         {
           "key": "data84313",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/80><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M黑埋骨之地:129:160>"
         },
         {
           "key": "data84314",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)杀怪地图:><埋骨之地/M黑埋骨之地:129:160>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:暗黑骷髅射手><(x埋骨之地:0:0:邪暗黑骷髅射手)><(c0xFF00FFFF)$count$/100><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M黑埋骨之地:129:160>"
         },
         {
           "key": "data84350",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:51:47>"
         },
         {
           "key": "data84351",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:114:146>"
         },
         {
           "key": "data84352",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:75:112>"
         },
         {
           "key": "data84353",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:79:29>"
         },
         {
           "key": "data84354",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:79:29>"
         },
         {
           "key": "data84360",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:135:104>"
         },
         {
           "key": "data84361",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:51:47>"
         },
         {
           "key": "data84362",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:114:146>"
         },
         {
           "key": "data84363",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:75:112>"
         },
         {
           "key": "data84364",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:79:29>"
         },
         {
           "key": "data84370",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:79:29>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血骑士><(x黑暗神殿二层:0:0:嗜血骑士)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:79:29>"
         },
         {
           "key": "data84371",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:135:104>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:杀戮恶魔><(x黑暗神殿二层:0:0:杀戮恶魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:135:104>"
         },
         {
           "key": "data84372",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:51:47>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:嗜血食人魔><(x黑暗神殿二层:0:0:嗜血食人魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:51:47>"
         },
         {
           "key": "data84373",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:114:146>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:崔凡克议员><(x黑暗神殿二层:0:0:崔凡克议员)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:114:146>"
         },
         {
           "key": "data84374",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>",
-          "target": "<(c0xFF1E90FF)黑暗神殿二层><任意怪/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><黑暗神殿二层/M黑暗神殿二层:75:112>"
+          "target": "<(c0xFF1E90FF)黑暗神殿二层><Quái Bất Kỳ/M黑暗神殿二层:0:0:邪恶小巫师><(x黑暗神殿二层:0:0:邪恶小巫师)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><黑暗神殿二层/M黑暗神殿二层:75:112>"
         },
         {
           "key": "data84380",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:145:251>"
         },
         {
           "key": "data84381",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:84:76>"
         },
         {
           "key": "data84382",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:77:171>"
         },
         {
           "key": "data84383",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:47:117>"
         },
         {
           "key": "data84384",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:207:260>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:207:260>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:207:260>"
         },
         {
           "key": "data84390",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:204:272>"
         },
         {
           "key": "data84391",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:145:251>"
         },
         {
           "key": "data84392",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:84:76>"
         },
         {
           "key": "data84393",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:77:171>"
         },
         {
           "key": "data84394",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:47:117>"
         },
         {
           "key": "data84400",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:77:171>"
         },
         {
           "key": "data84401",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:204:272>"
         },
         {
           "key": "data84402",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:145:251>"
         },
         {
           "key": "data84403",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:47:117>"
         },
         {
           "key": "data84404",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:47:117>"
         },
         {
           "key": "data84410",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:47:117>"
         },
         {
           "key": "data84411",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:77:171>"
         },
         {
           "key": "data84412",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:204:272>"
         },
         {
           "key": "data84413",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:145:251>"
         },
         {
           "key": "data84414",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:84:76>"
         },
         {
           "key": "data84420",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:84:76>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:暴兽><(x世界要塞:0:0:暴兽)><(c0xFF00FFFF)$count$/5><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:84:76>"
         },
         {
           "key": "data84421",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:47:117>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:沉沦祭司长><(x世界要塞:0:0:沉沦祭司长)><(c0xFF00FFFF)$count$/10><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:47:117>"
         },
         {
           "key": "data84422",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:77:171>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:黑暗狼人><(x世界要塞:0:0:黑暗狼人)><(c0xFF00FFFF)$count$/15><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:77:171>"
         },
         {
           "key": "data84423",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:204:272>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:萨兰卡邪士><(x世界要塞:0:0:萨兰卡邪士)><(c0xFF00FFFF)$count$/20><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:204:272>"
         },
         {
           "key": "data84424",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>",
-          "target": "<(c0xFF1E90FF)世界要塞><任意怪/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)杀怪地图:><世界要塞/M世界要塞:145:251>"
+          "target": "<(c0xFF1E90FF)Pháo Đài Thế Giới><Quái Bất Kỳ/M世界要塞:0:0:噬魂恶魔><(x世界要塞:0:0:噬魂恶魔)><(c0xFF00FFFF)$count$/25><(c0xFF1E90FF)Bản Đồ Săn Quái:><Pháo Đài Thế Giới/M世界要塞:145:251>"
         },
         {
           "key": "data860",
