@@ -29050,43 +29050,43 @@
           "key": "desc403",
           "occurrence": 1,
           "source": "护送战争物质去冥河魔洞一层交到野蛮人首领手里.",
-          "target": "护送战争物质去冥河魔洞一层交到野蛮人首领手里."
+          "target": "Áp tải quân nhu đến Tầng 1 Ma Động Minh Hà giao cho Thủ Lĩnh Man Tộc."
         },
         {
           "key": "desc404",
           "occurrence": 1,
           "source": "帮野蛮人首领收集草药.",
-          "target": "帮野蛮人首领收集草药."
+          "target": "Giúp Thủ Lĩnh Man Tộc thu thập thảo dược."
         },
         {
           "key": "desc405",
           "occurrence": 1,
           "source": "消灭冥河魔洞一层内的任意怪物.",
-          "target": "消灭冥河魔洞一层内的任意怪物."
+          "target": "Diệt bất kỳ quái nào ở Tầng 1 Ma Động Minh Hà."
         },
         {
           "key": "desc406",
           "occurrence": 1,
           "source": "回去屠龙城找到美女小佳.",
-          "target": "回去屠龙城找到美女小佳."
+          "target": "Về Đồ Long Thành gặp Tiểu Giai."
         },
         {
           "key": "desc407",
           "occurrence": 1,
           "source": "将等级提升到一转60级.",
-          "target": "将等级提升到一转60级."
+          "target": "Đạt CS 1 cấp 60."
         },
         {
           "key": "desc408",
           "occurrence": 1,
           "source": "<逆龙将/M海底世界二层:0:0:逆龙将>让你去找王城<杂货商/M王城:0:0:杂货商>.",
-          "target": "<逆龙将/M海底世界二层:0:0:逆龙将>让你去找王城<杂货商/M王城:0:0:杂货商>."
+          "target": "<Tướng Nghịch Long/M海底世界二层:0:0:逆龙将> bảo ngươi đến Vương Thành gặp <Thương Nhân Tạp Hóa/M王城:0:0:杂货商>."
         },
         {
           "key": "desc409",
           "occurrence": 1,
           "source": "<杂货商/M王城:0:0:杂货商>指引你进入地狱结界.",
-          "target": "<杂货商/M王城:0:0:杂货商>指引你进入地狱结界."
+          "target": "<Thương Nhân Tạp Hóa/M王城:0:0:杂货商> chỉ ngươi vào Kết Giới Địa Ngục."
         },
         {
           "key": "desc41",
@@ -29098,19 +29098,19 @@
           "key": "desc410",
           "occurrence": 1,
           "source": "<杂货商/M王城:0:0:杂货商>送你回到<逆龙将/M王城:0:0:逆龙将>所在的地方.",
-          "target": "<杂货商/M王城:0:0:杂货商>送你回到<逆龙将/M王城:0:0:逆龙将>所在的地方."
+          "target": "<Thương Nhân Tạp Hóa/M王城:0:0:杂货商> đưa ngươi về chỗ <Tướng Nghịch Long/M王城:0:0:逆龙将>."
         },
         {
           "key": "desc411",
           "occurrence": 1,
           "source": "帮助<逆龙将/M王城:0:0:逆龙将>消灭附近的怪物.",
-          "target": "帮助<逆龙将/M王城:0:0:逆龙将>消灭附近的怪物."
+          "target": "Giúp <Tướng Nghịch Long/M王城:0:0:逆龙将> diệt quái gần đó."
         },
         {
           "key": "desc412",
           "occurrence": 1,
           "source": "强横的龙兽出现,帮<逆龙将/M王城:0:0:逆龙将>对付他们.",
-          "target": "强横的龙兽出现,帮<逆龙将/M王城:0:0:逆龙将>对付他们."
+          "target": "Long Thú cường hãn xuất hiện, giúp <Tướng Nghịch Long/M王城:0:0:逆龙将> đối phó chúng."
         },
         {
           "key": "desc413",
