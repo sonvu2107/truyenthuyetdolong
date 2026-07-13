@@ -73604,97 +73604,97 @@
           "key": "n2892",
           "occurrence": 1,
           "source": "星魂卡",
-          "target": "星魂卡"
+          "target": "Thẻ Tinh Hồn"
         },
         {
           "key": "i2892",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)星魂值 500 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>",
-          "target": "双击即可获得<(c0xFF66CCFF)星魂值 500 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)500 Điểm Tinh Hồn>\\\\<(c0xFF00ff00)Dùng phím tắt (ctrl+2) mở hệ thống Tinh Hồn để kích hoạt Điểm Sao>"
         },
         {
           "key": "n2893",
           "occurrence": 1,
           "source": "1转等级礼包",
-          "target": "1转等级礼包"
+          "target": "Gói Cấp Chuyển Sinh 1"
         },
         {
           "key": "i2893",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)1转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)1转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Chuyển Sinh 1 Cấp 40> là có thể nhận\\\\<(c0xFF00FF00)Gợi ý: nhận tại giao diện Gói Nâng Cấp trong Hệ Thống Phúc Lợi>"
         },
         {
           "key": "n2894",
           "occurrence": 1,
           "source": "2转等级礼包",
-          "target": "2转等级礼包"
+          "target": "Gói Cấp Chuyển Sinh 2"
         },
         {
           "key": "i2894",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)2转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)2转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Chuyển Sinh 2 Cấp 40> là có thể nhận\\\\<(c0xFF00FF00)Gợi ý: nhận tại giao diện Gói Nâng Cấp trong Hệ Thống Phúc Lợi>"
         },
         {
           "key": "n2895",
           "occurrence": 1,
           "source": "3转等级礼包",
-          "target": "3转等级礼包"
+          "target": "Gói Cấp Chuyển Sinh 3"
         },
         {
           "key": "i2895",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)3转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)3转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Chuyển Sinh 3 Cấp 40> là có thể nhận\\\\<(c0xFF00FF00)Gợi ý: nhận tại giao diện Gói Nâng Cấp trong Hệ Thống Phúc Lợi>"
         },
         {
           "key": "n2896",
           "occurrence": 1,
           "source": "4转等级礼包",
-          "target": "4转等级礼包"
+          "target": "Gói Cấp Chuyển Sinh 4"
         },
         {
           "key": "i2896",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)4转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)4转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Chuyển Sinh 4 Cấp 40> là có thể nhận\\\\<(c0xFF00FF00)Gợi ý: nhận tại giao diện Gói Nâng Cấp trong Hệ Thống Phúc Lợi>"
         },
         {
           "key": "n2897",
           "occurrence": 1,
           "source": "5转等级礼包",
-          "target": "5转等级礼包"
+          "target": "Gói Cấp Chuyển Sinh 5"
         },
         {
           "key": "i2897",
           "occurrence": 1,
           "source": "到达<(c0xFF00FFFF)5转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>",
-          "target": "到达<(c0xFF00FFFF)5转40级>即可领取\\\\<(c0xFF00FF00)提示:在福利系统的升级礼包界面领取>"
+          "target": "Đạt <(c0xFF00FFFF)Chuyển Sinh 5 Cấp 40> là có thể nhận\\\\<(c0xFF00FF00)Gợi ý: nhận tại giao diện Gói Nâng Cấp trong Hệ Thống Phúc Lợi>"
         },
         {
           "key": "n2898",
           "occurrence": 1,
           "source": "神•血祭勋章",
-          "target": "神•血祭勋章"
+          "target": "Thần • Huyết Tế Huy Chương"
         },
         {
           "key": "i2898",
           "occurrence": 1,
           "source": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造",
-          "target": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造"
+          "target": "Có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> để rèn Thần Trang 5 Chuyển Sinh tại <(c0xFFFF6600)Thánh Khí Chư Thần>"
         },
         {
           "key": "n2899",
           "occurrence": 1,
           "source": "神•烈日勋章",
-          "target": "神•烈日勋章"
+          "target": "Thần • Liệt Nhật Huy Chương"
         },
         {
           "key": "i2899",
           "occurrence": 1,
           "source": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造",
-          "target": "可通过 <(c0xFFFF6600)神魂晶石> 在 <(c0xFFFF6600)诸神圣器面板> 中进行5转神装锻造"
+          "target": "Có thể dùng <(c0xFFFF6600)Tinh Thạch Thần Hồn> để rèn Thần Trang 5 Chuyển Sinh tại <(c0xFFFF6600)Thánh Khí Chư Thần>"
         },
         {
           "key": "n2900",
