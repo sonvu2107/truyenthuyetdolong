@@ -37000,61 +37000,61 @@
           "key": "promTlk4051",
           "occurrence": 1,
           "source": "这冥河魔洞是通往地狱的路径之一,洞内大量的高等恶魔盘踞,我们战士为了对付它们损失很多人手,你能帮我们出手削弱它们吗?\\\\",
-          "target": "这冥河魔洞是通往地狱的路径之一,洞内大量的高等恶魔盘踞,我们战士为了对付它们损失很多人手,你能帮我们出手削弱它们吗?\\\\"
+      "target": "Hang Ma Minh Hà là một lối vào Địa Ngục, đầy ác ma cấp cao. Chiến sĩ của ta tổn thất nhiều, ngươi giúp chúng ta làm suy yếu chúng được chứ?\\\\"
         },
         {
           "key": "promTlk4061",
           "occurrence": 1,
           "source": "我这边没什么事情了,多谢你的帮助,接下来你回去屠龙城吧!\\\\",
-          "target": "我这边没什么事情了,多谢你的帮助,接下来你回去屠龙城吧!\\\\"
+      "target": "Chỗ ta không còn việc gì, cảm ơn ngươi. Hãy trở về Đồ Long Thành!\\\\"
         },
         {
           "key": "promTlk4071",
           "occurrence": 1,
           "source": "强者之路向来艰辛,有多少付出就有多少收获,想要获得强大的力量必须要付出比别人多,接下来你的等级提升到【一转60】级,再来找我吧.\\\\",
-          "target": "强者之路向来艰辛,有多少付出就有多少收获,想要获得强大的力量必须要付出比别人多,接下来你的等级提升到【一转60】级,再来找我吧.\\\\"
+      "target": "Đường cường giả luôn gian khổ, bỏ ra bao nhiêu sẽ nhận lại bấy nhiêu. Đạt 【CS 1 cấp 60】 rồi hãy quay lại gặp ta.\\\\"
         },
         {
           "key": "promTlk4081",
           "occurrence": 1,
           "source": "咳!虽然兄弟我也是龙族但却无皇族血脉,不谈这个尴尬的话题.对了听说大陆上地狱结界封印松动,不如去围观?\\\\",
-          "target": "咳!虽然兄弟我也是龙族但却无皇族血脉,不谈这个尴尬的话题.对了听说大陆上地狱结界封印松动,不如去围观?\\\\"
+      "target": "Khụ! Ta cũng là Long Tộc nhưng không có huyết mạch hoàng tộc. Nghe nói phong ấn Kết Giới Địa Ngục lỏng rồi, đi xem không?\\\\"
         },
         {
           "key": "promTlk4091",
           "occurrence": 1,
           "source": "呐呐,我说你不是专程来找我的吧,原来是想去地狱结界.那里凶险异常,纵然身怀绝技也要万分小心,最好找一些队友.\\\\",
-          "target": "呐呐,我说你不是专程来找我的吧,原来是想去地狱结界.那里凶险异常,纵然身怀绝技也要万分小心,最好找一些队友.\\\\"
+      "target": "Ngươi không phải chỉ đến tìm ta, mà muốn vào Kết Giới Địa Ngục? Nơi đó cực nguy hiểm, tốt nhất hãy tìm đồng đội.\\\\"
         },
         {
           "key": "promTlk41",
           "occurrence": 1,
           "source": "前方的稻草魔人太猖獗了,我们女儿之家是敌不过的,你能帮我消灭她们吗?\\\\",
-          "target": "前方的稻草魔人太猖獗了,我们女儿之家是敌不过的,你能帮我消灭她们吗?\\\\"
+      "target": "Bù Nhìn Ma phía trước quá hung hăng, bọn ta không địch nổi. Ngươi giúp diệt chúng được chứ?\\\\"
         },
         {
           "key": "promTlk4101",
           "occurrence": 1,
           "source": "你真的是人吗?呼呼,我这小心肝都被你吓出来了,勇士快回海底吧,要不我送你一程吧,希望您去了就别回来了,吓人哪!\\\\",
-          "target": "你真的是人吗?呼呼,我这小心肝都被你吓出来了,勇士快回海底吧,要不我送你一程吧,希望您去了就别回来了,吓人哪!\\\\"
+      "target": "Ngươi thật là người sao? Tim ta sắp rớt ra rồi! Dũng sĩ mau về đáy biển đi, để ta tiễn ngươi; đi rồi đừng quay lại, đáng sợ quá!\\\\"
         },
         {
           "key": "promTlk411",
           "occurrence": 1,
           "source": "圣城四周都是嗜血好杀的血钉恶魔游荡,时常袭击来往平民,你替我前去讨伐它们.\\\\",
-          "target": "圣城四周都是嗜血好杀的血钉恶魔游荡,时常袭击来往平民,你替我前去讨伐它们.\\\\"
+      "target": "Quanh Thánh Thành đầy Huyết Đinh Ác Ma khát máu, thường tấn công dân thường. Hãy đến thảo phạt chúng.\\\\"
         },
         {
           "key": "promTlk4111",
           "occurrence": 1,
           "source": "我已经派小的们搜集信息,估摸着要不了多久便会有消息传来,勇士不如先在我这里住下,没事杀杀怪多爽啊.\\\\",
-          "target": "我已经派小的们搜集信息,估摸着要不了多久便会有消息传来,勇士不如先在我这里住下,没事杀杀怪多爽啊.\\\\"
+      "target": "Ta đã sai người thu thập tin, sắp có kết quả. Dũng sĩ cứ ở đây, rảnh thì săn quái cho vui.\\\\"
         },
         {
           "key": "promTlk4121",
           "occurrence": 1,
           "source": "开玩笑而已,这次我探知到脊背龙的栖息地,那是比我们逆龙还要强横的龙兽,你敢和我一起杀过去吗?\\\\",
-          "target": "开玩笑而已,这次我探知到脊背龙的栖息地,那是比我们逆龙还要强横的龙兽,你敢和我一起杀过去吗?\\\\"
+      "target": "Đùa thôi. Ta tìm ra hang ổ Cự Long Gai Lưng, mạnh hơn cả Nghịch Long. Ngươi dám cùng ta diệt chúng không?\\\\"
         },
         {
           "key": "promTlk4131",
