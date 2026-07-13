@@ -30442,55 +30442,55 @@
           "key": "desc8060",
           "occurrence": 1,
           "source": "从<任务公告板/M王城:0:0:任务公告板>领取任务,到40级以上地图,击杀精英怪获得招魂幡五.",
-          "target": "从<任务公告板/M王城:0:0:任务公告板>领取任务,到40级以上地图,击杀精英怪获得招魂幡五."
+          "target": "Nhận nhiệm vụ tại <Bảng Nhiệm Vụ/M王城:0:0:任务公告板>, diệt quái Tinh Anh ở map cấp 40+ nhận Chiêu Hồn Phan V."
         },
         {
           "key": "desc8061",
           "occurrence": 1,
           "source": "从<任务公告板/M王城:0:0:任务公告板>领取任务,进入魔幻星宫十二层消灭冥王,得到万兽魔谱.",
-          "target": "从<任务公告板/M王城:0:0:任务公告板>领取任务,进入魔幻星宫十二层消灭冥王,得到万兽魔谱."
+          "target": "Nhận nhiệm vụ tại <Bảng Nhiệm Vụ/M王城:0:0:任务公告板>, vào tầng 12 Tinh Cung Ma Huyễn diệt Minh Vương nhận Vạn Thú Ma Phổ."
         },
         {
           "key": "desc8062",
           "occurrence": 1,
           "source": "从<任务公告板/M王城:0:0:任务公告板>领取任务,进入魔幻星宫十二层消灭冥王,得到万兽尊谱.",
-          "target": "从<任务公告板/M王城:0:0:任务公告板>领取任务,进入魔幻星宫十二层消灭冥王,得到万兽尊谱."
+          "target": "Nhận nhiệm vụ tại <Bảng Nhiệm Vụ/M王城:0:0:任务公告板>, vào tầng 12 Tinh Cung Ma Huyễn diệt Minh Vương nhận Vạn Thú Tôn Phổ."
         },
         {
           "key": "desc8063",
           "occurrence": 1,
           "source": "领取天书任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦.",
-          "target": "领取天书任务,可通过刷新获得丰厚奖励,记得完成任务后可以领取多倍奖励哦."
+          "target": "Nhận nhiệm vụ Thiên Thư; làm mới để nhận quà tốt, hoàn thành rồi nhận thưởng bội số."
         },
         {
           "key": "desc8064",
           "occurrence": 1,
           "source": "找<祈福仙子/M屠龙城:0:0:祈福仙子>贡献一次.",
-          "target": "找<祈福仙子/M屠龙城:0:0:祈福仙子>贡献一次."
+          "target": "Gặp <Tiên Tử Cầu Phúc/M屠龙城:0:0:祈福仙子> cống hiến một lần."
         },
         {
           "key": "desc8065",
           "occurrence": 1,
           "source": "完成财神提出的条件,取得财神的好感,会让你得到意想不到的好处.",
-          "target": "完成财神提出的条件,取得财神的好感,会让你得到意想不到的好处."
+          "target": "Hoàn thành điều kiện của Thần Tài để nhận lợi ích bất ngờ."
         },
         {
           "key": "desc807",
           "occurrence": 1,
           "source": "完成任务后找<阿卡拉/M屠龙城:189:138:阿卡拉>对话.",
-          "target": "完成任务后找<阿卡拉/M屠龙城:189:138:阿卡拉>对话."
+          "target": "Hoàn thành nhiệm vụ rồi nói chuyện với <Akara/M屠龙城:189:138:阿卡拉>."
         },
         {
           "key": "desc808",
           "occurrence": 1,
           "source": "找<副本使者/M屠龙城:143:141:副本使者>进入耀灵阁副本,然后找<基德/M屠龙城:145:103:基德>对话",
-          "target": "找<副本使者/M屠龙城:143:141:副本使者>进入耀灵阁副本,然后找<基德/M屠龙城:145:103:基德>对话"
+          "target": "Gặp <Sứ Giả Phụ Bản/M屠龙城:143:141:副本使者> vào phụ bản Diệu Linh Các, rồi nói chuyện với <Gheed/M屠龙城:145:103:基德>"
         },
         {
           "key": "desc809",
           "occurrence": 1,
           "source": "找<沙滩大使/M屠龙城:162:131:沙滩大使>进入阳光沙滩,然后和<仓库管理员/M屠龙城:132:167:仓库管理员>对话",
-          "target": "找<沙滩大使/M屠龙城:162:131:沙滩大使>进入阳光沙滩,然后和<仓库管理员/M屠龙城:132:167:仓库管理员>对话"
+          "target": "Gặp <Đại Sứ Bãi Biển/M屠龙城:162:131:沙滩大使> vào Bãi Biển Nắng, rồi nói chuyện với <Quản Lý Kho/M屠龙城:132:167:仓库管理员>"
         },
         {
           "key": "desc81",
@@ -30502,7 +30502,7 @@
           "key": "desc810",
           "occurrence": 1,
           "source": "去找<马拉/M屠龙城:167:124:马拉>对话.",
-          "target": "去找<马拉/M屠龙城:167:124:马拉>对话."
+          "target": "Gặp <Mara/M屠龙城:167:124:马拉> nói chuyện."
         },
         {
           "key": "desc8100",
