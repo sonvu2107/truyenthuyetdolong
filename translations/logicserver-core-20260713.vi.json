@@ -28912,43 +28912,43 @@
           "key": "desc383",
           "occurrence": 1,
           "source": "<大贤者/M海底世界一层:0:0:大贤者>担心<海鱼儿/M海底世界一层:0:0:海鱼儿>的安危,去暗中保护她.",
-          "target": "<大贤者/M海底世界一层:0:0:大贤者>担心<海鱼儿/M海底世界一层:0:0:海鱼儿>的安危,去暗中保护她."
+          "target": "<Đại Hiền Giả/M海底世界一层:0:0:大贤者> lo cho <Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿>; hãy âm thầm bảo vệ cô ấy."
         },
         {
           "key": "desc384",
           "occurrence": 1,
           "source": "生气的<海鱼儿/M海底世界一层:0:0:海鱼儿>让你把周围的怪物清理掉.",
-          "target": "生气的<海鱼儿/M海底世界一层:0:0:海鱼儿>让你把周围的怪物清理掉."
+          "target": "<Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> tức giận, bảo ngươi dọn quái xung quanh."
         },
         {
           "key": "desc385",
           "occurrence": 1,
           "source": "古灵精怪的<海鱼儿/M海底世界一层:0:0:海鱼儿>让你去击杀冤魂.",
-          "target": "古灵精怪的<海鱼儿/M海底世界一层:0:0:海鱼儿>让你去击杀冤魂."
+          "target": "<Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> tinh quái bảo ngươi diệt Oan Hồn."
         },
         {
           "key": "desc386",
           "occurrence": 1,
           "source": "将等级提升到63级,去找<海鱼儿/M海底世界一层:0:0:海鱼儿>.",
-          "target": "将等级提升到63级,去找<海鱼儿/M海底世界一层:0:0:海鱼儿>."
+          "target": "Đạt cấp 63 rồi tìm <Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿>."
         },
         {
           "key": "desc387",
           "occurrence": 1,
           "source": "刁蛮的<海鱼儿/M海底世界一层:0:0:海鱼儿>把你赶回<大贤者/M海底世界一层:0:0:大贤者>那里.",
-          "target": "刁蛮的<海鱼儿/M海底世界一层:0:0:海鱼儿>把你赶回<大贤者/M海底世界一层:0:0:大贤者>那里."
+          "target": "<Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> bướng bỉnh đuổi ngươi về gặp <Đại Hiền Giả/M海底世界一层:0:0:大贤者>."
         },
         {
           "key": "desc388",
           "occurrence": 1,
           "source": "<大贤者/M海底世界一层:0:0:大贤者>有任务给你,完成他的指定任务.",
-          "target": "<大贤者/M海底世界一层:0:0:大贤者>有任务给你,完成他的指定任务."
+          "target": "<Đại Hiền Giả/M海底世界一层:0:0:大贤者> giao nhiệm vụ, hãy hoàn thành yêu cầu."
         },
         {
           "key": "desc389",
           "occurrence": 1,
           "source": "帮助<大贤者/M海底世界一层:0:0:大贤者>清理海底叛徒.",
-          "target": "帮助<大贤者/M海底世界一层:0:0:大贤者>清理海底叛徒."
+          "target": "Giúp <Đại Hiền Giả/M海底世界一层:0:0:大贤者> dọn phản đồ dưới biển."
         },
         {
           "key": "desc39",
@@ -28960,19 +28960,19 @@
           "key": "desc390",
           "occurrence": 1,
           "source": "教训海怪后,帮<大贤者/M海底世界一层:0:0:大贤者>去保护身世神秘的<海鱼儿/M海底世界一层:0:0:海鱼儿>.",
-          "target": "教训海怪后,帮<大贤者/M海底世界一层:0:0:大贤者>去保护身世神秘的<海鱼儿/M海底世界一层:0:0:海鱼儿>."
+          "target": "Dạy quái biển một bài học rồi giúp <Đại Hiền Giả/M海底世界一层:0:0:大贤者> bảo vệ <Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> bí ẩn."
         },
         {
           "key": "desc391",
           "occurrence": 1,
           "source": "拿出点保护行动来,把<海鱼儿/M海底世界一层:0:0:海鱼儿>周围的蝎子清理掉.",
-          "target": "拿出点保护行动来,把<海鱼儿/M海底世界一层:0:0:海鱼儿>周围的蝎子清理掉."
+          "target": "Hãy bảo vệ <Hải Ngư Nhi/M海底世界一层:0:0:海鱼儿> bằng cách dọn bọ cạp xung quanh."
         },
         {
           "key": "desc392",
           "occurrence": 1,
           "source": "将等级提升到64级",
-          "target": "将等级提升到64级"
+          "target": "Đạt cấp 64"
         },
         {
           "key": "desc393",
