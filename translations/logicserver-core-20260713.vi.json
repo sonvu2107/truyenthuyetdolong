@@ -56900,7 +56900,7 @@
           "key": "n1500",
           "occurrence": 1,
           "source": "圣诞装束(男)【10天】(废弃)",
-          "target": "圣诞装束(男)【10天】(废弃)"
+          "target": "Trang Phục Giáng Sinh (Nam) [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1500",
@@ -56912,7 +56912,7 @@
           "key": "n1501",
           "occurrence": 1,
           "source": "圣诞装束(女)【10天】(废弃)",
-          "target": "圣诞装束(女)【10天】(废弃)"
+          "target": "Trang Phục Giáng Sinh (Nữ) [10 Ngày] (Bỏ)"
         },
         {
           "key": "i1501",
@@ -56924,19 +56924,19 @@
           "key": "n1502",
           "occurrence": 1,
           "source": "高级技能残页(废弃)",
-          "target": "高级技能残页(废弃)"
+          "target": "Mảnh Sách Kỹ Năng Cao Cấp (Bỏ)"
         },
         {
           "key": "i1502",
           "occurrence": 1,
           "source": "收集20本后双击使用\\\\可以随机获得一本<(c0xFF00FFFF)高级技能书>",
-          "target": "收集20本后双击使用\\\\可以随机获得一本<(c0xFF00FFFF)高级技能书>"
+          "target": "Thu thập 20, nhấp đúp để dùng\\\\Có thể nhận ngẫu nhiên một <(c0xFF00FFFF)Sách Kỹ Năng Cao Cấp>"
         },
         {
           "key": "n1503",
           "occurrence": 1,
           "source": "1级魔晶石(废弃)",
-          "target": "1级魔晶石(废弃)"
+          "target": "Đá Ma Tinh Cấp 1 (Bỏ)"
         },
         {
           "key": "i1503",
@@ -56948,7 +56948,7 @@
           "key": "n1504",
           "occurrence": 1,
           "source": "2级魔晶石(废弃)",
-          "target": "2级魔晶石(废弃)"
+          "target": "Đá Ma Tinh Cấp 2 (Bỏ)"
         },
         {
           "key": "i1504",
@@ -56960,7 +56960,7 @@
           "key": "n1505",
           "occurrence": 1,
           "source": "3级魔晶石(废弃)",
-          "target": "3级魔晶石(废弃)"
+          "target": "Đá Ma Tinh Cấp 3 (Bỏ)"
         },
         {
           "key": "i1505",
@@ -56972,7 +56972,7 @@
           "key": "n1506",
           "occurrence": 1,
           "source": "4级魔晶石(废弃)",
-          "target": "4级魔晶石(废弃)"
+          "target": "Đá Ma Tinh Cấp 4 (Bỏ)"
         },
         {
           "key": "i1506",
@@ -56984,7 +56984,7 @@
           "key": "n1507",
           "occurrence": 1,
           "source": "5级魔晶石(废弃)",
-          "target": "5级魔晶石(废弃)"
+          "target": "Đá Ma Tinh Cấp 5 (Bỏ)"
         },
         {
           "key": "i1507",
@@ -56996,7 +56996,7 @@
           "key": "n1508",
           "occurrence": 1,
           "source": "6级魔晶石(废弃)",
-          "target": "6级魔晶石(废弃)"
+          "target": "Đá Ma Tinh Cấp 6 (Bỏ)"
         },
         {
           "key": "i1508",
@@ -57008,7 +57008,7 @@
           "key": "n1509",
           "occurrence": 1,
           "source": "云鬃战马灵魄【7天】(废弃)",
-          "target": "云鬃战马灵魄【7天】(废弃)"
+          "target": "Linh Phách Chiến Mã Vân Tông [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1509",
@@ -57020,7 +57020,7 @@
           "key": "n1510",
           "occurrence": 1,
           "source": "紫电绝影灵魄【7天】(废弃)",
-          "target": "紫电绝影灵魄【7天】(废弃)"
+          "target": "Linh Phách Tử Điện Tuyệt Ảnh [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1510",
@@ -57032,7 +57032,7 @@
           "key": "n1511",
           "occurrence": 1,
           "source": "火曜铁骑灵魄【7天】(废弃)",
-          "target": "火曜铁骑灵魄【7天】(废弃)"
+          "target": "Linh Phách Thiết Kỵ Hỏa Diệu [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1511",
@@ -57044,7 +57044,7 @@
           "key": "n1512",
           "occurrence": 1,
           "source": "幽冥鬼骑灵魄【7天】(废弃)",
-          "target": "幽冥鬼骑灵魄【7天】(废弃)"
+          "target": "Linh Phách Quỷ Kỵ U Minh [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1512",
@@ -57056,7 +57056,7 @@
           "key": "n1513",
           "occurrence": 1,
           "source": "冰原战熊灵魄【7天】(废弃)",
-          "target": "冰原战熊灵魄【7天】(废弃)"
+          "target": "Linh Phách Chiến Hùng Băng Nguyên [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1513",
@@ -57068,7 +57068,7 @@
           "key": "n1514",
           "occurrence": 1,
           "source": "圣魔麒麟灵魄【7天】(废弃)",
-          "target": "圣魔麒麟灵魄【7天】(废弃)"
+          "target": "Linh Phách Kỳ Lân Thánh Ma [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1514",
@@ -57080,7 +57080,7 @@
           "key": "n1515",
           "occurrence": 1,
           "source": "雪原云驹灵魄【7天】(废弃)",
-          "target": "雪原云驹灵魄【7天】(废弃)"
+          "target": "Linh Phách Vân Câu Tuyết Nguyên [7 Ngày] (Bỏ)"
         },
         {
           "key": "i1515",
