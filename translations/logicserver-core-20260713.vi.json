@@ -52712,31 +52712,31 @@
           "key": "n1151",
           "occurrence": 1,
           "source": "12级完美强化卡",
-          "target": "12级完美强化卡"
+          "target": "Thẻ Cường Hóa Hoàn Mỹ Cấp 12"
         },
         {
           "key": "i1151",
           "occurrence": 1,
           "source": "双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+12>\\\\增加了<(c0xFF00FF00)最大攻击>",
-          "target": "双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+12>\\\\增加了<(c0xFF00FF00)最大攻击>"
+          "target": "Dùng, cường hóa ngay 1 trang bị bất kỳ lên <(c0xFF00FF00)+12>\\\\Tăng <(c0xFF00FF00)Công Tối Đa>"
         },
         {
           "key": "n1152",
           "occurrence": 1,
           "source": "9级完美强化卡",
-          "target": "9级完美强化卡"
+          "target": "Thẻ Cường Hóa Hoàn Mỹ Cấp 9"
         },
         {
           "key": "i1152",
           "occurrence": 1,
           "source": "双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+9>\\\\增加了<(c0xFF00FF00)最大攻击>",
-          "target": "双击使用,可将任意一件装备<(c0xFF00FF00)直接强化到+9>\\\\增加了<(c0xFF00FF00)最大攻击>"
+          "target": "Dùng, cường hóa ngay 1 trang bị bất kỳ lên <(c0xFF00FF00)+9>\\\\Tăng <(c0xFF00FF00)Công Tối Đa>"
         },
         {
           "key": "n1153",
           "occurrence": 1,
           "source": "天枢神韵(废弃)",
-          "target": "天枢神韵(废弃)"
+          "target": "Thần Vận Thiên Xu (Bỏ)"
         },
         {
           "key": "i1153",
@@ -52748,7 +52748,7 @@
           "key": "n1154",
           "occurrence": 1,
           "source": "天璇神韵(废弃)",
-          "target": "天璇神韵(废弃)"
+          "target": "Thần Vận Thiên Toàn (Bỏ)"
         },
         {
           "key": "i1154",
@@ -52760,7 +52760,7 @@
           "key": "n1155",
           "occurrence": 1,
           "source": "天玑神韵(废弃)",
-          "target": "天玑神韵(废弃)"
+          "target": "Thần Vận Thiên Cơ (Bỏ)"
         },
         {
           "key": "i1155",
@@ -52772,7 +52772,7 @@
           "key": "n1156",
           "occurrence": 1,
           "source": "天权神韵(废弃)",
-          "target": "天权神韵(废弃)"
+          "target": "Thần Vận Thiên Quyền (Bỏ)"
         },
         {
           "key": "i1156",
@@ -52784,7 +52784,7 @@
           "key": "n1157",
           "occurrence": 1,
           "source": "玉衡神韵(废弃)",
-          "target": "玉衡神韵(废弃)"
+          "target": "Thần Vận Ngọc Hành (Bỏ)"
         },
         {
           "key": "i1157",
@@ -52796,7 +52796,7 @@
           "key": "n1158",
           "occurrence": 1,
           "source": "开阳神韵(废弃)",
-          "target": "开阳神韵(废弃)"
+          "target": "Thần Vận Khai Dương (Bỏ)"
         },
         {
           "key": "i1158",
@@ -52808,7 +52808,7 @@
           "key": "n1159",
           "occurrence": 1,
           "source": "摇光神韵(废弃)",
-          "target": "摇光神韵(废弃)"
+          "target": "Thần Vận Dao Quang (Bỏ)"
         },
         {
           "key": "i1159",
@@ -52820,7 +52820,7 @@
           "key": "n1160",
           "occurrence": 1,
           "source": "闪灵神韵(废弃)",
-          "target": "闪灵神韵(废弃)"
+          "target": "Thần Vận Linh Thiểm (Bỏ)"
         },
         {
           "key": "i1160",
@@ -52832,7 +52832,7 @@
           "key": "n1161",
           "occurrence": 1,
           "source": "血灵神韵(废弃)",
-          "target": "血灵神韵(废弃)"
+          "target": "Thần Vận Huyết Linh (Bỏ)"
         },
         {
           "key": "i1161",
@@ -52844,7 +52844,7 @@
           "key": "n1162",
           "occurrence": 1,
           "source": "剑灵神韵(废弃)",
-          "target": "剑灵神韵(废弃)"
+          "target": "Thần Vận Kiếm Linh (Bỏ)"
         },
         {
           "key": "i1162",
@@ -52856,7 +52856,7 @@
           "key": "n1163",
           "occurrence": 1,
           "source": "魔灵神韵(废弃)",
-          "target": "魔灵神韵(废弃)"
+          "target": "Thần Vận Ma Linh (Bỏ)"
         },
         {
           "key": "i1163",
@@ -52868,7 +52868,7 @@
           "key": "n1164",
           "occurrence": 1,
           "source": "变灵神韵(废弃)",
-          "target": "变灵神韵(废弃)"
+          "target": "Thần Vận Biến Linh (Bỏ)"
         },
         {
           "key": "i1164",
@@ -52880,7 +52880,7 @@
           "key": "n1165",
           "occurrence": 1,
           "source": "动灵神韵(废弃)",
-          "target": "动灵神韵(废弃)"
+          "target": "Thần Vận Động Linh (Bỏ)"
         },
         {
           "key": "i1165",
@@ -52892,7 +52892,7 @@
           "key": "n1166",
           "occurrence": 1,
           "source": "东方持国天王神韵(废弃)",
-          "target": "东方持国天王神韵(废弃)"
+          "target": "Thần Vận Trì Quốc Thiên Vương (Bỏ)"
         },
         {
           "key": "i1166",
@@ -52904,7 +52904,7 @@
           "key": "n1167",
           "occurrence": 1,
           "source": "南方增长天王神韵(废弃)",
-          "target": "南方增长天王神韵(废弃)"
+          "target": "Thần Vận Tăng Trưởng Thiên Vương (Bỏ)"
         },
         {
           "key": "i1167",
@@ -52916,7 +52916,7 @@
           "key": "n1168",
           "occurrence": 1,
           "source": "西方广目天王神韵(废弃)",
-          "target": "西方广目天王神韵(废弃)"
+          "target": "Thần Vận Quảng Mục Thiên Vương (Bỏ)"
         },
         {
           "key": "i1168",
@@ -52928,7 +52928,7 @@
           "key": "n1169",
           "occurrence": 1,
           "source": "北方多闻天王神韵(废弃)",
-          "target": "北方多闻天王神韵(废弃)"
+          "target": "Thần Vận Đa Văn Thiên Vương (Bỏ)"
         },
         {
           "key": "i1169",
@@ -52940,7 +52940,7 @@
           "key": "n1170",
           "occurrence": 1,
           "source": "飞天卷轴(废弃)",
-          "target": "飞天卷轴(废弃)"
+          "target": "Cuộn Phi Thiên (Bỏ)"
         },
         {
           "key": "i1170",
