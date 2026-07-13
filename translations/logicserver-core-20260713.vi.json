@@ -50360,211 +50360,211 @@
           "key": "n955",
           "occurrence": 1,
           "source": "一日VIP卡",
-          "target": "一日VIP卡"
+          "target": "Thẻ VIP 1 Ngày"
         },
         {
           "key": "i955",
           "occurrence": 1,
           "source": "双击使用\\\\立即享受<(c0xFF00FFFF)1天>的<(c0xFFFFFF00)白银会员>豪华待遇.\\\\打开VIP界面可以查看白银VIP待遇\\\\在商城可以购买高级VIP",
-          "target": "双击使用\\\\立即享受<(c0xFF00FFFF)1天>的<(c0xFFFFFF00)白银会员>豪华待遇.\\\\打开VIP界面可以查看白银VIP待遇\\\\在商城可以购买高级VIP"
+          "target": "Dùng\\\\Nhận ngay đãi ngộ <(c0xFF00FFFF)1 Ngày> của <(c0xFFFFFF00)Hội Viên Bạc>.\\\\Mở giao diện VIP để xem đãi ngộ VIP Bạc\\\\Mua VIP cao cấp trong Cửa Hàng"
         },
         {
           "key": "n956",
           "occurrence": 1,
           "source": "职业转换神鉴",
-          "target": "职业转换神鉴"
+          "target": "Thần Kính Chuyển Nghề"
         },
         {
           "key": "i956",
           "occurrence": 1,
           "source": "转换职业所需道具\\\\在<(c0xFFFFFF00)咒泉乡>场景NPC御清风处使用,可实现职业转换\\\\<(c0xFF00FFFF)开服第二天>开始，已进行<(c0xFF00FFFF)转生>的玩家可进行<(c0xFFFFFF00)职业转换>\\\\另外在合服后,要到<(c0xFF00FFFF)第六天>才能使用",
-          "target": "转换职业所需道具\\\\在<(c0xFFFFFF00)咒泉乡>场景NPC御清风处使用,可实现职业转换\\\\<(c0xFF00FFFF)开服第二天>开始，已进行<(c0xFF00FFFF)转生>的玩家可进行<(c0xFFFFFF00)职业转换>\\\\另外在合服后,要到<(c0xFF00FFFF)第六天>才能使用"
+          "target": "Vật phẩm cần để Chuyển Nghề\\\\Dùng tại NPC Ngự Thanh Phong ở <(c0xFFFFFF00)Trấn Chú Tuyền> để đổi nghề\\\\Từ <(c0xFF00FFFF)Ngày 2 mở server>, người đã <(c0xFF00FFFF)Chuyển Sinh> có thể <(c0xFFFFFF00)Chuyển Nghề>\\\\Sau gộp server, chỉ dùng từ <(c0xFF00FFFF)Ngày 6>"
         },
         {
           "key": "n957",
           "occurrence": 1,
           "source": "性别转换药剂",
-          "target": "性别转换药剂"
+          "target": "Thuốc Đổi Giới Tính"
         },
         {
           "key": "i957",
           "occurrence": 1,
           "source": "转换性别所需道具\\\\在<(c0xFFFFFF00)咒泉乡>场景NPC荷花仙子处使用,可实现性别转换\\\\玩家<(c0xFF00FFFF)65>级后可进行<(c0xFFFFFF00)性别转换>\\\\另外在合服后,要到<(c0xFF00FFFF)第六天>才能使用",
-          "target": "转换性别所需道具\\\\在<(c0xFFFFFF00)咒泉乡>场景NPC荷花仙子处使用,可实现性别转换\\\\玩家<(c0xFF00FFFF)65>级后可进行<(c0xFFFFFF00)性别转换>\\\\另外在合服后,要到<(c0xFF00FFFF)第六天>才能使用"
+          "target": "Vật phẩm cần để Đổi Giới Tính\\\\Dùng tại NPC Tiên Tử Hoa Sen ở <(c0xFFFFFF00)Trấn Chú Tuyền> để đổi giới tính\\\\Sau Cấp <(c0xFF00FFFF)65> có thể <(c0xFFFFFF00)Đổi Giới Tính>\\\\Sau gộp server, chỉ dùng từ <(c0xFF00FFFF)Ngày 6>"
         },
         {
           "key": "n958",
           "occurrence": 1,
           "source": "时装抢购券(废弃)",
-          "target": "时装抢购券(废弃)"
+          "target": "Phiếu Săn Thời Trang (Bỏ)"
         },
         {
           "key": "i958",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>\\\\在商城购买指定时装可以代替298元宝进行消费\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)110><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0xFFFFFF00)双击使用>\\\\在商城购买指定时装可以代替298元宝进行消费\\\\<(c0xFF00FF00)抢购折上折：>比起商城直接购买<(c0xFFFFFF00)再省><(c0xFF00FF00)110><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0xFFFFFF00)Dùng>\\\\Mua thời trang chỉ định trong Cửa Hàng thay 298 Nguyên Bảo\\\\<(c0xFF00FF00)Ưu Đãi Chồng Ưu Đãi:> mua rẻ hơn <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)110><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n959",
           "occurrence": 1,
           "source": "黄金飞马【1天】",
-          "target": "黄金飞马【1天】"
+          "target": "Phi Mã Hoàng Kim [1 Ngày]"
         },
         {
           "key": "i959",
           "occurrence": 1,
           "source": "马年春节时效坐骑\\\\骑上事事必定马到成功\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大道术攻击力+120",
-          "target": "马年春节时效坐骑\\\\骑上事事必定马到成功\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大道术攻击力+120"
+          "target": "Thú Cưỡi Tết Năm Ngựa có thời hạn\\\\Cưỡi lên mọi việc thành công\\\\Dùng\\\\Nhận thuộc tính\\\\Công Vật Lý Tối Đa +120\\\\Công Phép Tối Đa +120\\\\Công Đạo Tối Đa +120"
         },
         {
           "key": "n960",
           "occurrence": 1,
           "source": "神•黄金勋章（废弃）",
-          "target": "神•黄金勋章（废弃）"
+          "target": "Huy Chương Hoàng Kim Thần (Bỏ)"
         },
         {
           "key": "i960",
           "occurrence": 1,
           "source": "融有天神血的勋章，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> ",
-          "target": "融有天神血的勋章，拥有屠灭魔神的力量\\\\<(c0xFF00FF00)提示:\\\\可在诸神圣器系统，用“神魂晶石”与50\\\\级套装作材料，将50级套装提升至50级神装>\\\\<(c0xFF00FFFF)超级VIP、元宝提取礼包可获得神魂晶石\\\\VIP专属副本可获得神魂晶石> "
+          "target": "Huy chương pha máu thần, có sức mạnh diệt Ma Thần\\\\<(c0xFF00FF00)Gợi Ý:\\\\Dùng Hệ Thống Thánh Khí Chư Thần, lấy “Pha Lê Thần Hồn” và bộ Cấp 50\\\\làm nguyên liệu, nâng bộ Cấp 50 thành Thần Trang Cấp 50>\\\\<(c0xFF00FFFF)VIP Cao Cấp, Gói Nạp Nguyên Bảo nhận Pha Lê Thần Hồn\\\\Phó Bản Riêng VIP nhận Pha Lê Thần Hồn> "
         },
         {
           "key": "n961",
           "occurrence": 1,
           "source": "药水大礼包",
-          "target": "药水大礼包"
+          "target": "Gói Thuốc Lớn"
         },
         {
           "key": "i961",
           "occurrence": 1,
           "source": "双击使用,即可获得以下物品:\\\\攻击药水(中)×3\\\\防御药水(中)×1\\\\生命药水(中)×1\\\\魔法药水(中)×1",
-          "target": "双击使用,即可获得以下物品:\\\\攻击药水(中)×3\\\\防御药水(中)×1\\\\生命药水(中)×1\\\\魔法药水(中)×1"
+          "target": "Dùng để nhận:\\\\Thuốc Công Kích (Trung) ×3\\\\Thuốc Phòng Thủ (Trung) ×1\\\\Thuốc HP (Trung) ×1\\\\Thuốc MP (Trung) ×1"
         },
         {
           "key": "n962",
           "occurrence": 1,
           "source": "坐骑跃升大礼包",
-          "target": "坐骑跃升大礼包"
+          "target": "Gói Nhảy Bậc Thú Cưỡi"
         },
         {
           "key": "i962",
           "occurrence": 1,
           "source": "双击使用即可获得以下物品:\\\\马鞭×10",
-          "target": "双击使用即可获得以下物品:\\\\马鞭×10"
+          "target": "Dùng để nhận:\\\\Roi Ngựa ×10"
         },
         {
           "key": "n963",
           "occurrence": 1,
           "source": "代金券大礼包",
-          "target": "代金券大礼包"
+          "target": "Gói Thẻ Đổi"
         },
         {
           "key": "i963",
           "occurrence": 1,
           "source": "双击使用即可获得以下物品:\\\\装备升级石代金卡×5\\\\宝石代金卡×3",
-          "target": "双击使用即可获得以下物品:\\\\装备升级石代金卡×5\\\\宝石代金卡×3"
+          "target": "Dùng để nhận:\\\\Thẻ Đá Nâng Cấp Trang Bị ×5\\\\Thẻ Đá Quý ×3"
         },
         {
           "key": "n964",
           "occurrence": 1,
           "source": "20欢乐豆",
-          "target": "20欢乐豆"
+          "target": "20 Đậu Vui"
         },
         {
           "key": "i964",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)20欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)20欢乐豆>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)20 Đậu Vui>"
         },
         {
           "key": "n965",
           "occurrence": 1,
           "source": "40欢乐豆",
-          "target": "40欢乐豆"
+          "target": "40 Đậu Vui"
         },
         {
           "key": "i965",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)40欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)40欢乐豆>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)40 Đậu Vui>"
         },
         {
           "key": "n966",
           "occurrence": 1,
           "source": "60欢乐豆",
-          "target": "60欢乐豆"
+          "target": "60 Đậu Vui"
         },
         {
           "key": "i966",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)60欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)60欢乐豆>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)60 Đậu Vui>"
         },
         {
           "key": "n967",
           "occurrence": 1,
           "source": "80欢乐豆",
-          "target": "80欢乐豆"
+          "target": "80 Đậu Vui"
         },
         {
           "key": "i967",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)80欢乐豆>",
-          "target": "双击打开获得<(c0xFF00FFFF)80欢乐豆>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)80 Đậu Vui>"
         },
         {
           "key": "n968",
           "occurrence": 1,
           "source": "宝石玉盒",
-          "target": "宝石玉盒"
+          "target": "Hộp Ngọc Đá Quý"
         },
         {
           "key": "i968",
           "occurrence": 1,
           "source": "双击打开获得<(c0xFF00FFFF)9颗>相应职业的<(c0xFF00FFFF)2级攻击宝石>.",
-          "target": "双击打开获得<(c0xFF00FFFF)9颗>相应职业的<(c0xFF00FFFF)2级攻击宝石>."
+          "target": "Dùng để nhận <(c0xFF00FFFF)9> <(c0xFF00FFFF)Đá Công Cấp 2> theo nghề."
         },
         {
           "key": "n969",
           "occurrence": 1,
           "source": "5级宝石大礼包",
-          "target": "5级宝石大礼包"
+          "target": "Gói Đá Quý Cấp 5"
         },
         {
           "key": "i969",
           "occurrence": 1,
           "source": "<(c0x00d57140)可增强个人战斗力的强大礼包！>\\\\双击使用即可获得以下物品:\\\\五级生命宝石×1\\\\五级魔法宝石×1",
-          "target": "<(c0x00d57140)可增强个人战斗力的强大礼包！>\\\\双击使用即可获得以下物品:\\\\五级生命宝石×1\\\\五级魔法宝石×1"
+          "target": "<(c0x00d57140)Gói mạnh tăng CS!>\\\\Dùng để nhận:\\\\Đá Sinh Lực Cấp 5 ×1\\\\Đá Ma Pháp Cấp 5 ×1"
         },
         {
           "key": "n970",
           "occurrence": 1,
           "source": "装备升级石大礼包",
-          "target": "装备升级石大礼包"
+          "target": "Gói Đá Nâng Cấp Trang Bị"
         },
         {
           "key": "i970",
           "occurrence": 1,
           "source": "双击使用即可获得以下物品:\\\\装备升级石×8",
-          "target": "双击使用即可获得以下物品:\\\\装备升级石×8"
+          "target": "Dùng để nhận:\\\\Đá Nâng Cấp Trang Bị ×8"
         },
         {
           "key": "n971",
           "occurrence": 1,
           "source": "坐骑升一星",
-          "target": "坐骑升一星"
+          "target": "Thú Cưỡi Lên 1 Sao"
         },
         {
           "key": "i971",
           "occurrence": 1,
           "source": "双击使用\\\\使用后让你的坐骑即提升1星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)　　 等级越高,使用的效果越佳.>",
-          "target": "双击使用\\\\使用后让你的坐骑即提升1星\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00)　　 等级越高,使用的效果越佳.>"
+          "target": "Dùng\\\\Thú Cưỡi lên ngay 1 Sao\\\\<(c0xFF00FF00)Gợi Ý: đừng dùng quá sớm!>\\\\<(c0xFF00FF00)Cấp càng cao, hiệu quả càng tốt.>"
         },
         {
           "key": "n972",
           "occurrence": 1,
           "source": "请柬(废弃)",
-          "target": "请柬(废弃)"
+          "target": "Thiệp Mời (Bỏ)"
         },
         {
           "key": "i972",
