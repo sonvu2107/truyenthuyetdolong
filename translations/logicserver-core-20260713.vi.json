@@ -29518,55 +29518,55 @@
           "key": "desc481",
           "occurrence": 1,
           "source": "采集珍珠后回复<灵泉仙子/M边界村:39:43:灵泉仙子>",
-          "target": "采集珍珠后回复<灵泉仙子/M边界村:39:43:灵泉仙子>"
+          "target": "Thu thập Trân Châu rồi báo cáo với <Tiên Tử Linh Tuyền/M边界村:39:43:灵泉仙子>"
         },
         {
           "key": "desc482",
           "occurrence": 1,
           "source": "进入骷髅洞.",
-          "target": "进入骷髅洞."
+          "target": "Vào Hang Cốt Lâu."
         },
         {
           "key": "desc483",
           "occurrence": 1,
           "source": "到达70级满足转生条件去找<大天使/M圣城:223:140:大天使>了解情况.",
-          "target": "到达70级满足转生条件去找<大天使/M圣城:223:140:大天使>了解情况."
+          "target": "Đạt cấp 70, đủ điều kiện CS; gặp <Đại Thiên Sứ/M圣城:223:140:大天使> để tìm hiểu."
         },
         {
           "key": "desc484",
           "occurrence": 1,
           "source": "找到恰西.",
-          "target": "找到恰西."
+          "target": "Tìm Charsi."
         },
         {
           "key": "desc485",
           "occurrence": 1,
           "source": "猎杀血鹰后与营地守卫对话.",
-          "target": "猎杀血鹰后与营地守卫对话."
+          "target": "Săn Huyết Ưng rồi nói chuyện với Vệ Binh Trại."
         },
         {
           "key": "desc486",
           "occurrence": 1,
           "source": "猎杀营地外围的长钉恶魔后找到刺客娜塔亚.",
-          "target": "猎杀营地外围的长钉恶魔后找到刺客娜塔亚."
+          "target": "Diệt Ác Ma Gai ngoài trại rồi tìm Sát Thủ Natalya."
         },
         {
           "key": "desc487",
           "occurrence": 1,
           "source": "拜访凯恩.",
-          "target": "拜访凯恩."
+          "target": "Gặp Hiền Giả Cain."
         },
         {
           "key": "desc488",
           "occurrence": 1,
           "source": "拜访营地首领卡夏.",
-          "target": "拜访营地首领卡夏."
+          "target": "Gặp Thủ Lĩnh Trại Kashya."
         },
         {
           "key": "desc489",
           "occurrence": 1,
           "source": "拜访前面的女巫阿卡拉.",
-          "target": "拜访前面的女巫阿卡拉."
+          "target": "Gặp Nữ Phù Thủy Akara phía trước."
         },
         {
           "key": "desc49",
@@ -29578,7 +29578,7 @@
           "key": "desc490",
           "occurrence": 1,
           "source": "去营地外消灭沉沦恶魔后找到法师艾希.",
-          "target": "去营地外消灭沉沦恶魔后找到法师艾希."
+          "target": "Ra ngoài trại diệt Ác Ma Sa Ngã rồi tìm Pháp Sư Ashe."
         },
         {
           "key": "desc491",
