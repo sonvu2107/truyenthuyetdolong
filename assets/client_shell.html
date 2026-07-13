@@ -134,23 +134,19 @@ body.game-mode #fullscreenButton {
 		var frame = document.getElementById("gamePortal");
 		var width = document.documentElement.clientWidth || document.body.clientWidth || 1000;
 		var height = document.documentElement.clientHeight || document.body.clientHeight || 600;
-		var scale = Math.min(width / GAME_BASE_WIDTH, height / GAME_BASE_HEIGHT);
-		if (!isFinite(scale) || scale <= 0) {
-			scale = 1;
-		}
-		var logicalWidth = Math.ceil(width / scale);
-		var logicalHeight = Math.ceil(height / scale);
 		document.body.className = "game-mode";
 		frame.style.left = "0";
 		frame.style.top = "0";
-		frame.style.width = logicalWidth + "px";
-		frame.style.height = logicalHeight + "px";
-		frame.style.transform = "scale(" + scale + ")";
-		frame.style.msTransform = "scale(" + scale + ")";
+		frame.style.width = width + "px";
+		frame.style.height = height + "px";
+		// Khong scale iframe chua Flash bang CSS: plugin se ve theo kich thuoc
+		// da scale nhung van nhan toa do chuot goc, lam click bi lech tren web.
+		frame.style.transform = "none";
+		frame.style.msTransform = "none";
 		traceLayout(
 			"viewport=" + width + "x" + height +
-			"|logical=" + logicalWidth + "x" + logicalHeight +
-			"|scale=" + scale.toFixed(3)
+			"|logical=" + width + "x" + height +
+			"|scale=1.000|mode=native"
 		);
 	}
 

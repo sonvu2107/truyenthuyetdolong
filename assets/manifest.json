@@ -1,15 +1,15 @@
 {
-  "version": "20260713flashdetect1",
+  "version": "20260713pointerfix1",
   "files": [
     {
       "source": "assets/client_login.php",
       "target": "client_login.php",
-      "sha256": "67C92156B3849DC44FA91C4DD40A3BBB1A34B9229170624720CC2375A3E106CB"
+      "sha256": "C4F6268EEE91569E754FB0C362995475564D0D657B1FD8FC9E1C9EF1F41B0334"
     },
     {
       "source": "assets/client_shell.html",
       "target": "client_shell.html",
-      "sha256": "5A391EBC976ACBA383D73452A1EE9251DD34EDD3A5DAD72A4F1D4F9B7D8873D4"
+      "sha256": "6C867711D9E9E0DB6FF0C0C066FD6A81465E14ABC996C3CD2B0E518CBA3E34C8"
     },
     {
       "source": "assets/client_frame.png",
