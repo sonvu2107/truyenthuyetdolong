@@ -57920,43 +57920,43 @@
           "key": "n1585",
           "occurrence": 1,
           "source": "恭喜发财大礼包(废弃)",
-          "target": "恭喜发财大礼包(废弃)"
+          "target": "Gói Cung Hỷ Phát Tài (Bỏ)"
         },
         {
           "key": "i1585",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)财神闯关>一阶奖励礼包\\\\只要通过<(c0xFF00FF00)第一关：恭喜发财>则可获得丰富的随机物品\\\\有一定概率抽出<(c0xFFFFFF00)5级生命宝石>",
-          "target": "<(c0xFF00FF00)财神闯关>一阶奖励礼包\\\\只要通过<(c0xFF00FF00)第一关：恭喜发财>则可获得丰富的随机物品\\\\有一定概率抽出<(c0xFFFFFF00)5级生命宝石>"
+          "target": "<(c0xFF00FF00)Thử Thách Thần Tài> Gói thưởng Bậc 1\\\\Chỉ cần vượt <(c0xFF00FF00)Ải 1: Cung Hỷ Phát Tài> sẽ nhận vật phẩm ngẫu nhiên giá trị\\\\Có xác suất nhận <(c0xFFFFFF00)Đá Sinh Lực Cấp 5>"
         },
         {
           "key": "n1586",
           "occurrence": 1,
           "source": "财运亨通大礼包(废弃)",
-          "target": "财运亨通大礼包(废弃)"
+          "target": "Gói Tài Vận Hanh Thông (Bỏ)"
         },
         {
           "key": "i1586",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)财神闯关>二阶奖励礼包\\\\只要通过<(c0xFF00FF00)第二关：财运亨通>则可获得丰富的随机物品\\\\有一定概率抽出<(c0xFFFFFF00)5级攻击宝石>",
-          "target": "<(c0xFF00FF00)财神闯关>二阶奖励礼包\\\\只要通过<(c0xFF00FF00)第二关：财运亨通>则可获得丰富的随机物品\\\\有一定概率抽出<(c0xFFFFFF00)5级攻击宝石>"
+          "target": "<(c0xFF00FF00)Thử Thách Thần Tài> Gói thưởng Bậc 2\\\\Chỉ cần vượt <(c0xFF00FF00)Ải 2: Tài Vận Hanh Thông> sẽ nhận vật phẩm ngẫu nhiên giá trị\\\\Có xác suất nhận <(c0xFFFFFF00)Đá Công Kích Cấp 5>"
         },
         {
           "key": "n1587",
           "occurrence": 1,
           "source": "财源滚滚大礼包(废弃)",
-          "target": "财源滚滚大礼包(废弃)"
+          "target": "Gói Tài Nguyên Cuồn Cuộn (Bỏ)"
         },
         {
           "key": "i1587",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)财神闯关>三阶奖励礼包\\\\只要通过<(c0xFF00FF00)第三关：财源滚滚>则可获得丰富的随机物品\\\\有一定概率抽出<(c0xFFFFFF00)大马鞭>或<(c0xFFFFFF00)装备转生精华>",
-          "target": "<(c0xFF00FF00)财神闯关>三阶奖励礼包\\\\只要通过<(c0xFF00FF00)第三关：财源滚滚>则可获得丰富的随机物品\\\\有一定概率抽出<(c0xFFFFFF00)大马鞭>或<(c0xFFFFFF00)装备转生精华>"
+          "target": "<(c0xFF00FF00)Thử Thách Thần Tài> Gói thưởng Bậc 3\\\\Chỉ cần vượt <(c0xFF00FF00)Ải 3: Tài Nguyên Cuồn Cuộn> sẽ nhận vật phẩm ngẫu nhiên giá trị\\\\Có xác suất nhận <(c0xFFFFFF00)Roi Ngựa Lớn> hoặc <(c0xFFFFFF00)Tinh Hoa Chuyển Sinh Trang Bị>"
         },
         {
           "key": "n1588",
           "occurrence": 1,
           "source": "幻武1(1级)(废弃)",
-          "target": "幻武1(1级)(废弃)"
+          "target": "Huyễn Vũ 1 (Cấp 1) (Bỏ)"
         },
         {
           "key": "i1588",
@@ -57968,7 +57968,7 @@
           "key": "n1589",
           "occurrence": 1,
           "source": "幻武1(2级)(废弃)",
-          "target": "幻武1(2级)(废弃)"
+          "target": "Huyễn Vũ 1 (Cấp 2) (Bỏ)"
         },
         {
           "key": "i1589",
@@ -57980,7 +57980,7 @@
           "key": "n1590",
           "occurrence": 1,
           "source": "幻武2(1级)(废弃)",
-          "target": "幻武2(1级)(废弃)"
+          "target": "Huyễn Vũ 2 (Cấp 1) (Bỏ)"
         },
         {
           "key": "i1590",
@@ -57992,7 +57992,7 @@
           "key": "n1591",
           "occurrence": 1,
           "source": "幻武2(2级)(废弃)",
-          "target": "幻武2(2级)(废弃)"
+          "target": "Huyễn Vũ 2 (Cấp 2) (Bỏ)"
         },
         {
           "key": "i1591",
@@ -58004,7 +58004,7 @@
           "key": "n1592",
           "occurrence": 1,
           "source": "幻武5(废弃)",
-          "target": "幻武5(废弃)"
+          "target": "Huyễn Vũ 5 (Bỏ)"
         },
         {
           "key": "i1592",
