@@ -48980,61 +48980,61 @@
           "key": "n840",
           "occurrence": 1,
           "source": "雷电轰杀",
-          "target": "雷电轰杀"
+          "target": "Lôi Điện Oanh Sát"
         },
         {
           "key": "i840",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\攻击佣兵身边8X8的所有可攻击目标\\\\造成50%的魔法攻击并且使得目标的最大魔法攻击下降60点\\\\持续5秒,冷却时间:30秒",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\攻击佣兵身边8X8的所有可攻击目标\\\\造成50%的魔法攻击并且使得目标的最大魔法攻击下降60点\\\\持续5秒,冷却时间:30秒"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 35> có thể học\\\\Tấn công mọi mục tiêu trong vùng 8×8 quanh Lính Đánh Thuê\\\\Gây 50% Công Phép, giảm 60 Công Phép Tối Đa\\\\Kéo dài 5 giây, hồi chiêu: 30 giây"
         },
         {
           "key": "n841",
           "occurrence": 1,
           "source": "佣兵火符",
-          "target": "佣兵火符"
+          "target": "Hỏa Phù Lính Đánh Thuê"
         },
         {
           "key": "i841",
           "occurrence": 1,
           "source": "佣兵专用技能,佣兵创建时候自动学得\\\\通过驱使护身符来攻击敌人.对目标造成80%道术攻击加上25~50点的伤害",
-          "target": "佣兵专用技能,佣兵创建时候自动学得\\\\通过驱使护身符来攻击敌人.对目标造成80%道术攻击加上25~50点的伤害"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, tự học khi tạo\\\\Điều khiển Phù tấn công địch, gây 80% Công Đạo + 25~50 sát thương"
         },
         {
           "key": "n842",
           "occurrence": 1,
           "source": "佣兵治愈",
-          "target": "佣兵治愈"
+          "target": "Trị Liệu Lính Đánh Thuê"
         },
         {
           "key": "i842",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\恢复自己或者他人的生命值.道术攻击越高,治愈术的持续时间越长",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\恢复自己或者他人的生命值.道术攻击越高,治愈术的持续时间越长"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 30> có thể học\\\\Hồi HP cho bản thân hoặc đồng đội. Công Đạo càng cao, thời gian Trị Liệu càng lâu"
         },
         {
           "key": "n843",
           "occurrence": 1,
           "source": "佣兵幽灵战甲",
-          "target": "佣兵幽灵战甲"
+          "target": "Giáp U Linh Lính Đánh Thuê"
         },
         {
           "key": "i843",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\能够提高目标的魔法防御与物理防御.",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\能够提高目标的魔法防御与物理防御."
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 35> có thể học\\\\Tăng Phòng Thủ Phép và Phòng Thủ Vật Lý cho mục tiêu"
         },
         {
           "key": "n844",
           "occurrence": 1,
           "source": "猛毒轰杀",
-          "target": "猛毒轰杀"
+          "target": "Oanh Sát Mãnh Độc"
         },
         {
           "key": "i844",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\攻击佣兵身边8X8的所有可攻击目标\\\\造成50%的道术攻击并且使得目标的最大道术攻击下降60点\\\\持续5秒,冷却时间:30秒",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)35级>或以上的佣兵可以学习\\\\攻击佣兵身边8X8的所有可攻击目标\\\\造成50%的道术攻击并且使得目标的最大道术攻击下降60点\\\\持续5秒,冷却时间:30秒"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 35> có thể học\\\\Tấn công mọi mục tiêu trong vùng 8×8 quanh Lính Đánh Thuê\\\\Gây 50% Công Đạo, giảm 60 Công Đạo Tối Đa\\\\Kéo dài 5 giây, hồi chiêu: 30 giây"
         },
         {
           "key": "n845",
