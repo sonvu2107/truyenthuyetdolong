@@ -62852,241 +62852,241 @@
           "key": "n1996",
           "occurrence": 1,
           "source": "斥力魔钻",
-          "target": "斥力魔钻"
+          "target": "Ma Toản Lực Đẩy"
         },
         {
           "key": "i1996",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,所有伤害减免10%",
-          "target": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,所有伤害减免10%"
+          "target": "<(c0x00d57140)Đá Ma đặc biệt đỉnh cấp trong game>\\\\Trang bị để giảm 10% toàn bộ sát thương nhận vào"
         },
         {
           "key": "n1997",
           "occurrence": 1,
           "source": "圣体魔钻",
-          "target": "圣体魔钻"
+          "target": "Ma Toản Thánh Thể"
         },
         {
           "key": "i1997",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,魔法闪避增加10%",
-          "target": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,魔法闪避增加10%"
+          "target": "<(c0x00d57140)Đá Ma đặc biệt đỉnh cấp trong game>\\\\Trang bị để tăng 10% Né Tránh Ma Pháp"
         },
         {
           "key": "n1998",
           "occurrence": 1,
           "source": "狂战魔钻",
-          "target": "狂战魔钻"
+          "target": "Ma Toản Cuồng Chiến"
         },
         {
           "key": "i1998",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,底力值+500",
-          "target": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,底力值+500"
+          "target": "<(c0x00d57140)Đá Ma đặc biệt đỉnh cấp trong game>\\\\Trang bị để tăng Điểm Thể Lực +500"
         },
         {
           "key": "n1999",
           "occurrence": 1,
           "source": "护心魔钻",
-          "target": "护心魔钻"
+          "target": "Ma Toản Hộ Tâm"
         },
         {
           "key": "i1999",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,增加韧劲",
-          "target": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,增加韧劲"
+          "target": "<(c0x00d57140)Đá Ma đặc biệt đỉnh cấp trong game>\\\\Trang bị để tăng Độ Dẻo Dai"
         },
         {
           "key": "n2000",
           "occurrence": 1,
           "source": "灵尸魔钻",
-          "target": "灵尸魔钻"
+          "target": "Ma Toản Linh Thi"
         },
         {
           "key": "i2000",
           "occurrence": 1,
           "source": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,减少玩家死亡爆装备几率",
-          "target": "<(c0x00d57140)游戏内的顶级特殊钻石>\\\\穿戴后,减少玩家死亡爆装备几率"
+          "target": "<(c0x00d57140)Đá Ma đặc biệt đỉnh cấp trong game>\\\\Giảm tỷ lệ rơi trang bị khi người chơi tử vong"
         },
         {
           "key": "n2001",
           "occurrence": 1,
           "source": "赫拉迪克魔法锤子",
-          "target": "赫拉迪克魔法锤子"
+          "target": "Búa Ma Pháp Horadric"
         },
         {
           "key": "i2001",
           "occurrence": 1,
           "source": "怪物掉落的一个任务道具，拾取放入包裹<(c0xFF00FF00)提示:任务道具>",
-          "target": "怪物掉落的一个任务道具，拾取放入包裹<(c0xFF00FF00)提示:任务道具>"
+          "target": "Đạo cụ nhiệm vụ rơi từ quái, nhặt vào túi đồ<(c0xFF00FF00)Gợi ý: Đạo cụ nhiệm vụ>"
         },
         {
           "key": "n2002",
           "occurrence": 1,
           "source": "暗黑之石",
-          "target": "暗黑之石"
+          "target": "Đá Hắc Ám"
         },
         {
           "key": "i2002",
           "occurrence": 1,
           "source": "怪物掉落的一个任务道具，拾取放入包裹<(c0xFF00FF00)提示:任务道具>",
-          "target": "怪物掉落的一个任务道具，拾取放入包裹<(c0xFF00FF00)提示:任务道具>"
+          "target": "Đạo cụ nhiệm vụ rơi từ quái, nhặt vào túi đồ<(c0xFF00FF00)Gợi ý: Đạo cụ nhiệm vụ>"
         },
         {
           "key": "n2003",
           "occurrence": 1,
           "source": "净化药剂",
-          "target": "净化药剂"
+          "target": "Thuốc Thanh Tẩy"
         },
         {
           "key": "i2003",
           "occurrence": 1,
           "source": "靠近某个特定任务坐标，会显示出此图标点击读条<(c0xFF00FF00)提示:任务道具>",
-          "target": "靠近某个特定任务坐标，会显示出此图标点击读条<(c0xFF00FF00)提示:任务道具>"
+          "target": "Đến gần tọa độ nhiệm vụ cụ thể sẽ hiện biểu tượng này, nhấp để đọc thanh tiến trình<(c0xFF00FF00)Gợi ý: Đạo cụ nhiệm vụ>"
         },
         {
           "key": "n2004",
           "occurrence": 1,
           "source": "夺命弦月符文",
-          "target": "夺命弦月符文"
+          "target": "Phù Văn Trăng Khuyết Đoạt Mệnh"
         },
         {
           "key": "i2004",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp, cùng phẩm chất\\\\Có thể dùng Giám Định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n2005",
           "occurrence": 1,
           "source": "迅影雷光符文",
-          "target": "迅影雷光符文"
+          "target": "Phù Văn Lôi Quang Ảnh Nhanh"
         },
         {
           "key": "i2005",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp, cùng phẩm chất\\\\Có thể dùng Giám Định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n2006",
           "occurrence": 1,
           "source": "灵魂火咒符文",
-          "target": "灵魂火咒符文"
+          "target": "Phù Văn Hỏa Chú Linh Hồn"
         },
         {
           "key": "i2006",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp, cùng phẩm chất\\\\Có thể dùng Giám Định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n2007",
           "occurrence": 1,
           "source": "法师必杀技符文",
-          "target": "法师必杀技符文"
+          "target": "Phù Văn Tuyệt Kỹ Pháp Sư"
         },
         {
           "key": "i2007",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp, cùng phẩm chất\\\\Có thể dùng Giám Định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n2008",
           "occurrence": 1,
           "source": "道士必杀技符文",
-          "target": "道士必杀技符文"
+          "target": "Phù Văn Tuyệt Kỹ Đạo Sĩ"
         },
         {
           "key": "i2008",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp, cùng phẩm chất\\\\Có thể dùng Giám Định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n2009",
           "occurrence": 1,
           "source": "经验加成符文",
-          "target": "经验加成符文"
+          "target": "Phù Văn Tăng KN"
         },
         {
           "key": "i2009",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值",
-          "target": "<(c0xFFFF6600)升级> 需要 <(c0xFFFF6600)3> 个同等级,同品质符文\\\\可通过符文鉴定来改变属性类型与值"
+          "target": "<(c0xFFFF6600)Nâng cấp> cần <(c0xFFFF6600)3> Phù Văn cùng cấp, cùng phẩm chất\\\\Có thể dùng Giám Định Phù Văn để thay đổi loại và giá trị thuộc tính"
         },
         {
           "key": "n2010",
           "occurrence": 1,
           "source": "未辨识符文",
-          "target": "未辨识符文"
+          "target": "Phù Văn Chưa Giám Định"
         },
         {
           "key": "i2010",
           "occurrence": 1,
           "source": "符文还未进行辨识，辨识后可获得 <(c0xFFFF6600)随机属性>\\\\在 <(c0xFFFF6600)商城> 购买 <(c0xFFFF6600)普通> 或<(c0xFFFF6600)超级> 辨识卷轴进行 <(c0xFFFF6600)属性辨识> ",
-          "target": "符文还未进行辨识，辨识后可获得 <(c0xFFFF6600)随机属性>\\\\在 <(c0xFFFF6600)商城> 购买 <(c0xFFFF6600)普通> 或<(c0xFFFF6600)超级> 辨识卷轴进行 <(c0xFFFF6600)属性辨识> "
+          "target": "Phù Văn chưa được Giám Định, sau khi Giám Định sẽ nhận <(c0xFFFF6600)thuộc tính ngẫu nhiên>\\\\Tại <(c0xFFFF6600)Cửa Hàng> mua Cuộn Giám Định <(c0xFFFF6600)Thường> hoặc <(c0xFFFF6600)Siêu Cấp> để <(c0xFFFF6600)Giám Định Thuộc Tính> "
         },
         {
           "key": "n2011",
           "occurrence": 1,
           "source": "佣兵洗练丹(废弃)",
-          "target": "佣兵洗练丹(废弃)"
+          "target": "Đan Tẩy Luyện Lính Đánh Thuê (Đã bỏ)"
         },
         {
           "key": "i2011",
           "occurrence": 1,
           "source": "佣兵系统洗练功能的专用药水。",
-          "target": "佣兵系统洗练功能的专用药水。"
+          "target": "Thuốc chuyên dụng cho tính năng Tẩy Luyện của hệ thống Lính Đánh Thuê."
         },
         {
           "key": "n2012",
           "occurrence": 1,
           "source": "黑暗积分券(20)",
-          "target": "黑暗积分券(20)"
+          "target": "Phiếu Điểm Hắc Ám (20)"
         },
         {
           "key": "i2012",
           "occurrence": 1,
           "source": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>",
-          "target": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>"
+          "target": "Chỉ có thể 【nhấp đúp dùng】 trong bản đồ sự kiện\\\\Điểm càng cao, phần thưởng càng phong phú; sau sự kiện gửi qua thư\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận tại Chiến Trường Hắc Ám>"
         },
         {
           "key": "n2013",
           "occurrence": 1,
           "source": "黑暗积分券(40)",
-          "target": "黑暗积分券(40)"
+          "target": "Phiếu Điểm Hắc Ám (40)"
         },
         {
           "key": "i2013",
           "occurrence": 1,
           "source": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>",
-          "target": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>"
+          "target": "Chỉ có thể 【nhấp đúp dùng】 trong bản đồ sự kiện\\\\Điểm càng cao, phần thưởng càng phong phú; sau sự kiện gửi qua thư\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận tại Chiến Trường Hắc Ám>"
         },
         {
           "key": "n2014",
           "occurrence": 1,
           "source": "黑暗积分券(60)",
-          "target": "黑暗积分券(60)"
+          "target": "Phiếu Điểm Hắc Ám (60)"
         },
         {
           "key": "i2014",
           "occurrence": 1,
           "source": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>",
-          "target": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>"
+          "target": "Chỉ có thể 【nhấp đúp dùng】 trong bản đồ sự kiện\\\\Điểm càng cao, phần thưởng càng phong phú; sau sự kiện gửi qua thư\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận tại Chiến Trường Hắc Ám>"
         },
         {
           "key": "n2015",
           "occurrence": 1,
           "source": "黑暗积分券(100)",
-          "target": "黑暗积分券(100)"
+          "target": "Phiếu Điểm Hắc Ám (100)"
         },
         {
           "key": "i2015",
           "occurrence": 1,
           "source": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>",
-          "target": "只能在活动地图内【双击使用】\\\\积分越高奖励越丰富,活动结束后邮件发放\\\\<(c0xFF00FF00)提示:可在黑暗战场获得>"
+          "target": "Chỉ có thể 【nhấp đúp dùng】 trong bản đồ sự kiện\\\\Điểm càng cao, phần thưởng càng phong phú; sau sự kiện gửi qua thư\\\\<(c0xFF00FF00)Gợi ý: Có thể nhận tại Chiến Trường Hắc Ám>"
         },
         {
           "key": "n2016",
