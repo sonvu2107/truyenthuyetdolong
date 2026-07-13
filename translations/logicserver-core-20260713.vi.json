@@ -36880,61 +36880,61 @@
           "key": "promTlk3871",
           "occurrence": 1,
           "source": "哼,你敢说我刁蛮?本姑娘为什么要对你温柔,你以为你是什么人,走开,本姑娘又不想让你保护了.\\\\",
-          "target": "哼,你敢说我刁蛮?本姑娘为什么要对你温柔,你以为你是什么人,走开,本姑娘又不想让你保护了.\\\\"
+      "target": "Hừ, ngươi dám nói ta đanh đá? Sao cô nương phải dịu dàng với ngươi? Cút đi, ta không cần ngươi bảo vệ nữa.\\\\"
         },
         {
           "key": "promTlk3881",
           "occurrence": 1,
           "source": "其实我是海族大祭司,而小鱼则是海皇的直系子嗣,是为了拯救海底无数生灵而降生的神,勇士请容我安静一会.\\\\",
-          "target": "其实我是海族大祭司,而小鱼则是海皇的直系子嗣,是为了拯救海底无数生灵而降生的神,勇士请容我安静一会.\\\\"
+      "target": "Ta là Đại Tế Tư Hải Tộc, còn Tiểu Ngư là hậu duệ trực hệ Hải Hoàng, sinh ra để cứu sinh linh đáy biển. Dũng sĩ, hãy để ta yên tĩnh một lát.\\\\"
         },
         {
           "key": "promTlk3891",
           "occurrence": 1,
           "source": "不好,老朽隐身的地方暴露了,那些该死的夜叉竟然找到了这里,勇士,你帮我消灭这些海皇的叛徒吧.\\\\",
-          "target": "不好,老朽隐身的地方暴露了,那些该死的夜叉竟然找到了这里,勇士,你帮我消灭这些海皇的叛徒吧.\\\\"
+      "target": "Không hay, chỗ ta ẩn thân lộ rồi. Dạ Xoa chết tiệt đã tìm tới, Dũng sĩ hãy diệt lũ phản đồ Hải Hoàng.\\\\"
         },
         {
           "key": "promTlk3901",
           "occurrence": 1,
           "source": "我们对夜叉的恨早已深入骨髓,即便我族复国,也要把夜叉一族赶尽杀绝,勇士你可以尽情用他们的鲜血洗涤自己的神兵.\\\\",
-          "target": "我们对夜叉的恨早已深入骨髓,即便我族复国,也要把夜叉一族赶尽杀绝,勇士你可以尽情用他们的鲜血洗涤自己的神兵.\\\\"
+      "target": "Ta căm thù Dạ Xoa thấu xương. Dù Hải Tộc phục quốc, chúng vẫn phải bị diệt sạch. Dũng sĩ, hãy dùng máu chúng tẩy luyện Thần Binh.\\\\"
         },
         {
           "key": "promTlk391",
           "occurrence": 1,
           "source": "三大暗黑魔神都破封而出,准备再次发动末世之战,人类即将进入浩劫,我们在寻找能够承受灵魂之石力量的人,代表光明的力量!\\\\",
-          "target": "三大暗黑魔神都破封而出,准备再次发动末世之战,人类即将进入浩劫,我们在寻找能够承受灵魂之石力量的人,代表光明的力量!\\\\"
+      "target": "Ba Ma Thần Hắc Ám phá phong ấn, chuẩn bị đại chiến tận thế. Nhân loại sắp gặp đại kiếp, chúng ta cần người chịu được sức mạnh Hồn Thạch để đại diện ánh sáng!\\\\"
         },
         {
           "key": "promTlk3911",
           "occurrence": 1,
           "source": "我回去跟那老糊涂理论,你不是来保护我的吗?还不帮本姑娘把那边一堆恶心的蝎子给清理掉.\\\\",
-          "target": "我回去跟那老糊涂理论,你不是来保护我的吗?还不帮本姑娘把那边一堆恶心的蝎子给清理掉.\\\\"
+      "target": "Ta phải về nói chuyện với lão hồ đồ. Ngươi chẳng phải đến bảo vệ ta sao? Mau dọn bầy bọ cạp ghê tởm kia.\\\\"
         },
         {
           "key": "promTlk3921",
           "occurrence": 1,
           "source": "等级提升到【64】级,再来找我.\\\\",
-          "target": "等级提升到【64】级,再来找我.\\\\"
+      "target": "Đạt cấp 【64】 rồi hãy quay lại gặp ta.\\\\"
         },
         {
           "key": "promTlk3931",
           "occurrence": 1,
           "source": "哎哎,呜呜,才说这几句你就生气了,别走啊,呜呜别把我一人丢这啊,我怕.再走,你再走我真哭了!\\\\",
-          "target": "哎哎,呜呜,才说这几句你就生气了,别走啊,呜呜别把我一人丢这啊,我怕.再走,你再走我真哭了!\\\\"
+      "target": "Ơ, mới nói mấy câu đã giận rồi? Đừng đi, đừng bỏ ta một mình, ta sợ. Còn đi là ta khóc thật đấy!\\\\"
         },
         {
           "key": "promTlk3941",
           "occurrence": 1,
           "source": "你别管我了,我会去找师傅的.我知道我是海族圣女,我的肩上不可推卸的责任,你帮我扫清回家的道路吧.\\\\",
-          "target": "你别管我了,我会去找师傅的.我知道我是海族圣女,我的肩上不可推卸的责任,你帮我扫清回家的道路吧.\\\\"
+      "target": "Đừng lo cho ta, ta sẽ tìm sư phụ. Ta là Thánh Nữ Hải Tộc, có trách nhiệm không thể trốn tránh. Hãy dọn đường về nhà giúp ta.\\\\"
         },
         {
           "key": "promTlk3951",
           "occurrence": 1,
           "source": "勇敢的人类强者,我决定了,去海底其他地方历练,我不能永远在师傅的羽翼庇护下,替我跟他老人家说声抱歉.\\\\",
-          "target": "勇敢的人类强者,我决定了,去海底其他地方历练,我不能永远在师傅的羽翼庇护下,替我跟他老人家说声抱歉.\\\\"
+      "target": "Cường giả Nhân Tộc, ta quyết đến nơi khác dưới đáy biển tu luyện. Ta không thể mãi nấp sau sư phụ, hãy nhắn ông ấy ta xin lỗi.\\\\"
         },
         {
           "key": "promTlk3961",
