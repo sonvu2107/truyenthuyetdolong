@@ -1,5 +1,5 @@
 {
-  "version": "20260714fontsafe1",
+  "version": "20260714welfare3",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "E6F3DF1B7766F2A404954302ABB6831DFC063C351B14E300816C94E3B00664AC"
+      "sha256": "4F8629BCD58F4CF68636089D59FB5709702F22AC9764DDD44446D972CA1818AF"
     },
     {
       "source": "assets/ClientLang.txt",
@@ -34,7 +34,7 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "BFF7D3BEAB1256F2F08C165569BF34D359EB3C6791D4B61733BF15329EF87EED"
+      "sha256": "014B238FBC3538026F6B9857C384DBE3C804439728B82256985E2FE94D11C8C7"
     },
     {
       "source": "assets/game/GameConfig.php",

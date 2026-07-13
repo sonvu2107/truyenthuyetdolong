@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Vá trực tiếp đúng 7 method body để tránh FFDec tái biên dịch toàn lớp Phúc Lợi.",
+  "methods": [
+    {"class": "view.game.welfare.page.WelFareLineLookPage1", "method": "discrepancy", "body_index": 9776},
+    {"class": "view.game.welfare.page.WelFareLineLookPage1", "method": "nextNoAchieve", "body_index": 9777},
+    {"class": "view.game.welfare.page.WelFareSurprisePage1", "method": "setInfo", "body_index": 9783},
+    {"class": "view.game.welfare.page.WelFareSurprisePage1", "method": "discrepancy", "body_index": 9796},
+    {"class": "view.game.welfare.page.WelFareSurprisePage1", "method": "formatTxtFunc", "body_index": 9801},
+    {"class": "view.game.LandingReward.cell.LandingRewardCell1", "method": "data/set", "body_index": 27718},
+    {"class": "view.game.LandingReward.cell.LandingRewardCell1", "method": "onDarwBtnHandler", "body_index": 27720}
+  ],
+  "verification": {
+    "method_body_count_before": 28143,
+    "method_body_count_after": 28143,
+    "changed_body_indices": [9776, 9777, 9783, 9796, 9801, 27718, 27720],
+    "unrelated_method_bodies_changed": 0,
+    "actionscript_signatures_restored": true,
+    "landing_reward_activation_traits_restored": true
+  }
+}

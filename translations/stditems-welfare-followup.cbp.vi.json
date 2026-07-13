@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "file": "stditems.cbp",
+  "description": "Chuẩn hóa tên gói Quà Nạp theo bậc, ngắn gọn để không tràn giao diện.",
+  "translations": {
+    "487.name": {"source": "Quà CS 1", "target": "Quà Bậc 1"},
+    "488.name": {"source": "Quà CS 2", "target": "Quà Bậc 2"},
+    "489.name": {"source": "Quà CS 3", "target": "Quà Bậc 3"},
+    "490.name": {"source": "Quà CS 4", "target": "Quà Bậc 4"},
+    "491.name": {"source": "Quà CS 5", "target": "Quà Bậc 5"},
+    "492.name": {"source": "Quà CS 6", "target": "Quà Bậc 6"},
+    "493.name": {"source": "Quà CS 7", "target": "Quà Bậc 7"},
+    "494.name": {"source": "Quà CS 8", "target": "Quà Bậc 8"},
+    "495.name": {"source": "Quà CS 9", "target": "Quà Bậc 9"},
+    "496.name": {"source": "Quà CS 10", "target": "Quà Bậc 10"},
+    "2638.name": {"source": "Lễ Bao Bậc 11", "target": "Quà Bậc 11"},
+    "2639.name": {"source": "Lễ Bao Bậc 12", "target": "Quà Bậc 12"}
+  }
+}

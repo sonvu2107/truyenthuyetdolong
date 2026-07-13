@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Thông báo đầy túi khi nhận quà Phúc Lợi.",
+  "files": {
+    "language/Zh-CN/ScriptTips.txt": {
+      "entries": [
+        {
+          "key": "mt00001",
+          "occurrence": 1,
+          "source": "您的背包空间不足,请至少空余%d个背包空格!",
+          "target": "Túi đồ không đủ chỗ. Hãy để trống ít nhất %d ô!"
+        }
+      ]
+    }
+  }
+}

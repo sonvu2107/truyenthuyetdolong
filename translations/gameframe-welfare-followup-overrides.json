@@ -1,0 +1,27 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Biên tập câu chữ phần Quà Nạp theo ảnh kiểm tra ngày 2026-07-14.",
+  "overrides": {
+    "openService[84]": {
+      "source": "Lần sạc đầu tiên Gói Quà, lần sạc thứ hai Gói Quà, lần sạc thứ ba Gói Quà, lần sạc cao Gói Quà",
+      "target": "Quà nạp lần 1,Quà nạp lần 2,Quà nạp lần 3,Quà nạp cao cấp",
+      "category": "tab"
+    },
+    "openService[95]": {
+      "source": "<font color = '#ffcc00' size = '17' ><b> đã được tính phí thành <font color = '#00C957'>$num$</font>Nguyên Bảo, sự khác biệt vẫn là <font color = '#00C957'>$num$</font>Nguyên Bảo và bạn có thể nhận được </b></font>",
+      "target": "<font color='#ffcc00' size='16'><b>Đã nạp <font color='#00C957'>$num$</font> Nguyên Bảo, cần thêm <font color='#00C957'>$num$</font> Nguyên Bảo để nhận quà.</b></font>",
+      "category": "progress"
+    },
+    "openService[99]": {
+      "source": "<font size = '17' >Nạp ThẻBất kỳ số lượng nào cũng có thể nhận được </font>, <font size = '17' > sáng +10 hiện vật, đôi cánh tuyệt đẹp </font>",
+      "target": "<font size='16'>Nạp bất kỳ số Nguyên Bảo nào để nhận trang bị +10 và cánh thời trang.</font>",
+      "category": "description"
+    },
+    "openService[107]": {
+      "source": "<font size = '17' >Thêm một ít tiền và tận hưởng cảm giác phấn khích</font>",
+      "target": "<font size='16'>Nạp thêm để mở khóa phần thưởng hấp dẫn.</font>",
+      "category": "description"
+    }
+  }
+}
