@@ -45896,7 +45896,7 @@
           "key": "n583",
           "occurrence": 1,
           "source": "生铁腰带",
-          "target": "生铁腰带"
+          "target": "Đai Sắt Thô"
         },
         {
           "key": "i583",
@@ -45908,7 +45908,7 @@
           "key": "n584",
           "occurrence": 1,
           "source": "生铁战靴",
-          "target": "生铁战靴"
+          "target": "Giày Chiến Sắt Thô"
         },
         {
           "key": "i584",
@@ -45920,7 +45920,7 @@
           "key": "n585",
           "occurrence": 1,
           "source": "命运战靴(废弃)",
-          "target": "命运战靴(废弃)"
+          "target": "Giày Chiến Vận Mệnh (Bỏ)"
         },
         {
           "key": "i585",
@@ -45932,7 +45932,7 @@
           "key": "n586",
           "occurrence": 1,
           "source": "天神法履(废弃)",
-          "target": "天神法履(废弃)"
+          "target": "Giày Pháp Thiên Thần (Bỏ)"
         },
         {
           "key": "i586",
@@ -45944,7 +45944,7 @@
           "key": "n587",
           "occurrence": 1,
           "source": "虹魔道鞋(废弃)",
-          "target": "虹魔道鞋(废弃)"
+          "target": "Giày Đạo Hồng Ma (Bỏ)"
         },
         {
           "key": "i587",
@@ -45956,7 +45956,7 @@
           "key": "n588",
           "occurrence": 1,
           "source": "命运项链(废弃)",
-          "target": "命运项链(废弃)"
+          "target": "Dây Chuyền Vận Mệnh (Bỏ)"
         },
         {
           "key": "i588",
@@ -45968,7 +45968,7 @@
           "key": "n589",
           "occurrence": 1,
           "source": "天神项链(废弃)",
-          "target": "天神项链(废弃)"
+          "target": "Dây Chuyền Thiên Thần (Bỏ)"
         },
         {
           "key": "i589",
@@ -45980,7 +45980,7 @@
           "key": "n590",
           "occurrence": 1,
           "source": "虹魔项链(废弃)",
-          "target": "虹魔项链(废弃)"
+          "target": "Dây Chuyền Hồng Ma (Bỏ)"
         },
         {
           "key": "i590",
@@ -45992,7 +45992,7 @@
           "key": "n591",
           "occurrence": 1,
           "source": "命运腰带(废弃)",
-          "target": "命运腰带(废弃)"
+          "target": "Đai Vận Mệnh (Bỏ)"
         },
         {
           "key": "i591",
@@ -46004,7 +46004,7 @@
           "key": "n592",
           "occurrence": 1,
           "source": "天神腰带(废弃)",
-          "target": "天神腰带(废弃)"
+          "target": "Đai Thiên Thần (Bỏ)"
         },
         {
           "key": "i592",
@@ -46016,7 +46016,7 @@
           "key": "n593",
           "occurrence": 1,
           "source": "虹魔腰带(废弃)",
-          "target": "虹魔腰带(废弃)"
+          "target": "Đai Hồng Ma (Bỏ)"
         },
         {
           "key": "i593",
@@ -46028,7 +46028,7 @@
           "key": "n594",
           "occurrence": 1,
           "source": "玄铁宝石(废弃)",
-          "target": "玄铁宝石(废弃)"
+          "target": "Đá Quý Huyền Thiết (Bỏ)"
         },
         {
           "key": "i594",
@@ -46040,7 +46040,7 @@
           "key": "n595",
           "occurrence": 1,
           "source": "星光宝石(废弃)",
-          "target": "星光宝石(废弃)"
+          "target": "Đá Quý Tinh Quang (Bỏ)"
         },
         {
           "key": "i595",
@@ -46052,7 +46052,7 @@
           "key": "n596",
           "occurrence": 1,
           "source": "两仪宝石(废弃)",
-          "target": "两仪宝石(废弃)"
+          "target": "Đá Quý Lưỡng Nghi (Bỏ)"
         },
         {
           "key": "i596",
@@ -46064,7 +46064,7 @@
           "key": "n597",
           "occurrence": 1,
           "source": "玄铁手镯(废弃)",
-          "target": "玄铁手镯(废弃)"
+          "target": "Vòng Tay Huyền Thiết (Bỏ)"
         },
         {
           "key": "i597",
@@ -46076,7 +46076,7 @@
           "key": "n598",
           "occurrence": 1,
           "source": "星光手镯(废弃)",
-          "target": "星光手镯(废弃)"
+          "target": "Vòng Tay Tinh Quang (Bỏ)"
         },
         {
           "key": "i598",
@@ -46088,7 +46088,7 @@
           "key": "n599",
           "occurrence": 1,
           "source": "两仪手镯(废弃)",
-          "target": "两仪手镯(废弃)"
+          "target": "Vòng Tay Lưỡng Nghi (Bỏ)"
         },
         {
           "key": "i599",
@@ -46100,7 +46100,7 @@
           "key": "n600",
           "occurrence": 1,
           "source": "玄铁项链(废弃)",
-          "target": "玄铁项链(废弃)"
+          "target": "Dây Chuyền Huyền Thiết (Bỏ)"
         },
         {
           "key": "i600",
@@ -46112,7 +46112,7 @@
           "key": "n601",
           "occurrence": 1,
           "source": "星光项链(废弃)",
-          "target": "星光项链(废弃)"
+          "target": "Dây Chuyền Tinh Quang (Bỏ)"
         },
         {
           "key": "i601",
@@ -46124,7 +46124,7 @@
           "key": "n602",
           "occurrence": 1,
           "source": "两仪项链(废弃)",
-          "target": "两仪项链(废弃)"
+          "target": "Dây Chuyền Lưỡng Nghi (Bỏ)"
         },
         {
           "key": "i602",
@@ -46136,7 +46136,7 @@
           "key": "n603",
           "occurrence": 1,
           "source": "雷霆腰带(废弃)",
-          "target": "雷霆腰带(废弃)"
+          "target": "Đai Lôi Đình (Bỏ)"
         },
         {
           "key": "i603",
@@ -46148,7 +46148,7 @@
           "key": "n604",
           "occurrence": 1,
           "source": "星灿腰带(废弃)",
-          "target": "星灿腰带(废弃)"
+          "target": "Đai Tinh Xán (Bỏ)"
         },
         {
           "key": "i604",
@@ -46160,7 +46160,7 @@
           "key": "n605",
           "occurrence": 1,
           "source": "玄灵腰带(废弃)",
-          "target": "玄灵腰带(废弃)"
+          "target": "Đai Huyền Linh (Bỏ)"
         },
         {
           "key": "i605",
@@ -46172,7 +46172,7 @@
           "key": "n606",
           "occurrence": 1,
           "source": "雷霆战靴(废弃)",
-          "target": "雷霆战靴(废弃)"
+          "target": "Giày Chiến Lôi Đình (Bỏ)"
         },
         {
           "key": "i606",
@@ -46184,7 +46184,7 @@
           "key": "n607",
           "occurrence": 1,
           "source": "星灿法履(废弃)",
-          "target": "星灿法履(废弃)"
+          "target": "Giày Pháp Tinh Xán (Bỏ)"
         },
         {
           "key": "i607",
@@ -46196,7 +46196,7 @@
           "key": "n608",
           "occurrence": 1,
           "source": "玄灵道鞋(废弃)",
-          "target": "玄灵道鞋(废弃)"
+          "target": "Giày Đạo Huyền Linh (Bỏ)"
         },
         {
           "key": "i608",
@@ -46208,7 +46208,7 @@
           "key": "n609",
           "occurrence": 1,
           "source": "雷霆戒指(废弃)",
-          "target": "雷霆戒指(废弃)"
+          "target": "Nhẫn Lôi Đình (Bỏ)"
         },
         {
           "key": "i609",
@@ -46220,7 +46220,7 @@
           "key": "n610",
           "occurrence": 1,
           "source": "星灿戒指(废弃)",
-          "target": "星灿戒指(废弃)"
+          "target": "Nhẫn Tinh Xán (Bỏ)"
         },
         {
           "key": "i610",
@@ -46232,7 +46232,7 @@
           "key": "n611",
           "occurrence": 1,
           "source": "玄灵戒指(废弃)",
-          "target": "玄灵戒指(废弃)"
+          "target": "Nhẫn Huyền Linh (Bỏ)"
         },
         {
           "key": "i611",
@@ -46244,7 +46244,7 @@
           "key": "n612",
           "occurrence": 1,
           "source": "命运头盔(废弃)",
-          "target": "命运头盔(废弃)"
+          "target": "Mũ Vận Mệnh (Bỏ)"
         },
         {
           "key": "i612",
@@ -46256,7 +46256,7 @@
           "key": "n613",
           "occurrence": 1,
           "source": "天神头盔(废弃)",
-          "target": "天神头盔(废弃)"
+          "target": "Mũ Thiên Thần (Bỏ)"
         },
         {
           "key": "i613",
@@ -46268,7 +46268,7 @@
           "key": "n614",
           "occurrence": 1,
           "source": "虹魔头盔(废弃)",
-          "target": "虹魔头盔(废弃)"
+          "target": "Mũ Hồng Ma (Bỏ)"
         },
         {
           "key": "i614",
@@ -46280,7 +46280,7 @@
           "key": "n615",
           "occurrence": 1,
           "source": "雷霆头盔(废弃)",
-          "target": "雷霆头盔(废弃)"
+          "target": "Mũ Lôi Đình (Bỏ)"
         },
         {
           "key": "i615",
@@ -46292,7 +46292,7 @@
           "key": "n616",
           "occurrence": 1,
           "source": "星灿头盔(废弃)",
-          "target": "星灿头盔(废弃)"
+          "target": "Mũ Tinh Xán (Bỏ)"
         },
         {
           "key": "i616",
@@ -46304,7 +46304,7 @@
           "key": "n617",
           "occurrence": 1,
           "source": "玄灵头盔(废弃)",
-          "target": "玄灵头盔(废弃)"
+          "target": "Mũ Huyền Linh (Bỏ)"
         },
         {
           "key": "i617",
@@ -46316,19 +46316,19 @@
           "key": "n618",
           "occurrence": 1,
           "source": "金条",
-          "target": "金条"
+          "target": "Thỏi Vàng"
         },
         {
           "key": "i618",
           "occurrence": 1,
           "source": "双击使用获得<(c0xFF00FFFF)10万金币>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用获得<(c0xFF00FFFF)10万金币>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng nhận <(c0xFF00FFFF)100K Vàng>\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n619",
           "occurrence": 1,
           "source": "测试包(废弃)",
-          "target": "测试包(废弃)"
+          "target": "Gói Test (Bỏ)"
         },
         {
           "key": "i619",
@@ -46340,73 +46340,73 @@
           "key": "n620",
           "occurrence": 1,
           "source": "40级装备包(废弃)",
-          "target": "40级装备包(废弃)"
+          "target": "Gói Trang Bị Cấp 40 (Bỏ)"
         },
         {
           "key": "i620",
           "occurrence": 1,
           "source": "内部道具.获得相应职业的40级装备",
-          "target": "内部道具.获得相应职业的40级装备"
+          "target": "Vật phẩm nội bộ. Nhận Trang Bị cấp 40 theo nghề"
         },
         {
           "key": "n621",
           "occurrence": 1,
           "source": "45级装备包(废弃)",
-          "target": "45级装备包(废弃)"
+          "target": "Gói Trang Bị Cấp 45 (Bỏ)"
         },
         {
           "key": "i621",
           "occurrence": 1,
           "source": "内部道具.获得相应职业的45级装备",
-          "target": "内部道具.获得相应职业的45级装备"
+          "target": "Vật phẩm nội bộ. Nhận Trang Bị cấp 45 theo nghề"
         },
         {
           "key": "n622",
           "occurrence": 1,
           "source": "50级装备包(废弃)",
-          "target": "50级装备包(废弃)"
+          "target": "Gói Trang Bị Cấp 50 (Bỏ)"
         },
         {
           "key": "i622",
           "occurrence": 1,
           "source": "内部道具.获得相应职业的50级装备",
-          "target": "内部道具.获得相应职业的50级装备"
+          "target": "Vật phẩm nội bộ. Nhận Trang Bị cấp 50 theo nghề"
         },
         {
           "key": "n623",
           "occurrence": 1,
           "source": "55级装备包(废弃)",
-          "target": "55级装备包(废弃)"
+          "target": "Gói Trang Bị Cấp 55 (Bỏ)"
         },
         {
           "key": "i623",
           "occurrence": 1,
           "source": "内部道具.获得相应职业的55级装备",
-          "target": "内部道具.获得相应职业的55级装备"
+          "target": "Vật phẩm nội bộ. Nhận Trang Bị cấp 55 theo nghề"
         },
         {
           "key": "n624",
           "occurrence": 1,
           "source": "60级装备包(废弃)",
-          "target": "60级装备包(废弃)"
+          "target": "Gói Trang Bị Cấp 60 (Bỏ)"
         },
         {
           "key": "i624",
           "occurrence": 1,
           "source": "内部道具.获得相应职业的60级装备",
-          "target": "内部道具.获得相应职业的60级装备"
+          "target": "Vật phẩm nội bộ. Nhận Trang Bị cấp 60 theo nghề"
         },
         {
           "key": "n625",
           "occurrence": 1,
           "source": "65级装备包(废弃)",
-          "target": "65级装备包(废弃)"
+          "target": "Gói Trang Bị Cấp 65 (Bỏ)"
         },
         {
           "key": "i625",
           "occurrence": 1,
           "source": "内部道具.获得相应职业的65级装备",
-          "target": "内部道具.获得相应职业的65级装备"
+          "target": "Vật phẩm nội bộ. Nhận Trang Bị cấp 65 theo nghề"
         },
         {
           "key": "n626",
