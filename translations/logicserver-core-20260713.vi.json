@@ -40556,121 +40556,121 @@
           "key": "n138",
           "occurrence": 1,
           "source": "嗜血法杖",
-          "target": "嗜血法杖"
+          "target": "Trượng Khát Máu"
         },
         {
           "key": "i138",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血法杖> 可以合成一个 <(c0xFFFF6600)混乱法杖>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血法杖> 可以合成一个 <(c0xFFFF6600)混乱法杖>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Trượng Khát Máu> có thể hợp thành <(c0xFFFF6600)Trượng Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n139",
           "occurrence": 1,
           "source": "嗜血法袍(男)",
-          "target": "嗜血法袍(男)"
+          "target": "Pháp Bào Khát Máu (Nam)"
         },
         {
           "key": "i139",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血法袍(男)> 可以合成一个 <(c0xFFFF6600)混乱法袍(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血法袍(男)> 可以合成一个 <(c0xFFFF6600)混乱法袍(男)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Pháp Bào Khát Máu (Nam)> có thể hợp thành <(c0xFFFF6600)Pháp Bào Hỗn Loạn (Nam)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n140",
           "occurrence": 1,
           "source": "嗜血法袍(女)",
-          "target": "嗜血法袍(女)"
+          "target": "Pháp Bào Khát Máu (Nữ)"
         },
         {
           "key": "i140",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血法袍(女)> 可以合成一个 <(c0xFFFF6600)混乱法袍(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血法袍(女)> 可以合成一个 <(c0xFFFF6600)混乱法袍(女)>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Pháp Bào Khát Máu (Nữ)> có thể hợp thành <(c0xFFFF6600)Pháp Bào Hỗn Loạn (Nữ)>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n141",
           "occurrence": 1,
           "source": "嗜血头盔",
-          "target": "嗜血头盔"
+          "target": "Mũ Khát Máu"
         },
         {
           "key": "i141",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血头盔> 可以合成一个 <(c0xFFFF6600)混乱头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血头盔> 可以合成一个 <(c0xFFFF6600)混乱头盔>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Mũ Khát Máu> có thể hợp thành <(c0xFFFF6600)Mũ Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n142",
           "occurrence": 1,
           "source": "嗜血项链",
-          "target": "嗜血项链"
+          "target": "Dây Chuyền Khát Máu"
         },
         {
           "key": "i142",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血项链> 可以合成一个 <(c0xFFFF6600)混乱项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血项链> 可以合成一个 <(c0xFFFF6600)混乱项链>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Dây Chuyền Khát Máu> có thể hợp thành <(c0xFFFF6600)Dây Chuyền Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n143",
           "occurrence": 1,
           "source": "嗜血手镯",
-          "target": "嗜血手镯"
+          "target": "Vòng Tay Khát Máu"
         },
         {
           "key": "i143",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血手镯> 可以合成一个 <(c0xFFFF6600)混乱手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血手镯> 可以合成一个 <(c0xFFFF6600)混乱手镯>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Vòng Tay Khát Máu> có thể hợp thành <(c0xFFFF6600)Vòng Tay Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n144",
           "occurrence": 1,
           "source": "嗜血腰带",
-          "target": "嗜血腰带"
+          "target": "Đai Lưng Khát Máu"
         },
         {
           "key": "i144",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血腰带> 可以合成一个 <(c0xFFFF6600)混乱腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血腰带> 可以合成一个 <(c0xFFFF6600)混乱腰带>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đai Lưng Khát Máu> có thể hợp thành <(c0xFFFF6600)Đai Lưng Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n145",
           "occurrence": 1,
           "source": "嗜血长靴",
-          "target": "嗜血长靴"
+          "target": "Ủng Khát Máu"
         },
         {
           "key": "i145",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血长靴> 可以合成一个 <(c0xFFFF6600)混乱长靴>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血长靴> 可以合成一个 <(c0xFFFF6600)混乱长靴>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Ủng Khát Máu> có thể hợp thành <(c0xFFFF6600)Ủng Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n146",
           "occurrence": 1,
           "source": "嗜血宝石",
-          "target": "嗜血宝石"
+          "target": "Đá Quý Khát Máu"
         },
         {
           "key": "i146",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血宝石> 可以合成一个 <(c0xFFFF6600)混乱宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血宝石> 可以合成一个 <(c0xFFFF6600)混乱宝石>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Đá Quý Khát Máu> có thể hợp thành <(c0xFFFF6600)Đá Quý Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n147",
           "occurrence": 1,
           "source": "嗜血戒指",
-          "target": "嗜血戒指"
+          "target": "Nhẫn Khát Máu"
         },
         {
           "key": "i147",
           "occurrence": 1,
           "source": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血戒指> 可以合成一个 <(c0xFFFF6600)混乱戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级",
-          "target": "<(c0xFFFF6600)3> 个 <(c0xFFFF6600)嗜血戒指> 可以合成一个 <(c0xFFFF6600)混乱戒指>,战力大增\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行升级"
+          "target": "<(c0xFFFF6600)3> <(c0xFFFF6600)Nhẫn Khát Máu> có thể hợp thành <(c0xFFFF6600)Nhẫn Hỗn Loạn>, tăng mạnh lực chiến\\\\Nâng cấp tại <(c0xFFFF6600)Bảng Rèn>(Phím tắt:<(c0xFFFF6600)x>)"
         },
         {
           "key": "n148",
