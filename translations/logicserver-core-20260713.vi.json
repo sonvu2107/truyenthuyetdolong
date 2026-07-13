@@ -24802,61 +24802,61 @@
           "key": "data2850",
           "occurrence": 1,
           "source": "<如何获得经验/@@showWin,1078>",
-          "target": "<如何获得经验/@@showWin,1078>"
+          "target": "<Cách nhận KN/@@showWin,1078>"
         },
         {
           "key": "data2860",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:80:101>"
         },
         {
           "key": "data2870",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:106:57>"
         },
         {
           "key": "data2890",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:狂刀统领><(x干燥的高地:0:0:狂刀统领)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:100:121>",
-          "target": "<(c0xFF1E90FF)干燥的高地><任意怪/M干燥的高地:0:0:狂刀统领><(x干燥的高地:0:0:狂刀统领)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><干燥的高地/M干燥的高地:100:121>"
+          "target": "<(c0xFF1E90FF)Cao Nguyên Khô Cằn><Quái Bất Kỳ/M干燥的高地:0:0:狂刀统领><(x干燥的高地:0:0:狂刀统领)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Cao Nguyên Khô Cằn/M干燥的高地:100:121>"
         },
         {
           "key": "data2910",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>",
-          "target": "<(c0xFF1E90FF)埋骨之地><任意怪/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><埋骨之地/M埋骨之地:187:102>"
+          "target": "<(c0xFF1E90FF)Vùng Đất Chôn Xương><Quái Bất Kỳ/M埋骨之地:0:0:爆裂魔兽><(x埋骨之地:0:0:爆裂魔兽)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Vùng Đất Chôn Xương/M埋骨之地:187:102>"
         },
         {
           "key": "data2920",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:106:57>"
         },
         {
           "key": "data2930",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:80:101>"
         },
         {
           "key": "data2950",
           "occurrence": 1,
           "source": "<如何获得经验/@@showWin,1078>",
-          "target": "<如何获得经验/@@showWin,1078>"
+          "target": "<Cách nhận KN/@@showWin,1078>"
         },
         {
           "key": "data3000",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>",
-          "target": "<(c0xFF1E90FF)黑暗森林><任意怪/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗森林/M黑暗森林:80:101>"
+          "target": "<(c0xFF1E90FF)Rừng Hắc Ám><Quái Bất Kỳ/M黑暗森林:0:0:八歧魔蛇><(x黑暗森林:0:0:八歧魔蛇)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Rừng Hắc Ám/M黑暗森林:80:101>"
         },
         {
           "key": "data3010",
           "occurrence": 1,
           "source": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>",
-          "target": "<(c0xFF1E90FF)黑暗教堂><任意怪/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)杀怪地图:><黑暗教堂/M黑暗教堂:106:57>"
+          "target": "<(c0xFF1E90FF)Giáo Đường Hắc Ám><Quái Bất Kỳ/M黑暗教堂:0:0:大红魔王><(x黑暗教堂:0:0:大红魔王)><(c0xFF00FFFF)$count$/150><(c0xFF1E90FF)Bản Đồ Săn Quái:><Giáo Đường Hắc Ám/M黑暗教堂:106:57>"
         },
         {
           "key": "data3020",
