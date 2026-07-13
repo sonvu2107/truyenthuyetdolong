@@ -51446,31 +51446,31 @@
           "key": "i1045",
           "occurrence": 1,
           "source": "翅膀系统升级所需材料\\\\需要在翅膀界面中使用\\\\提升翅膀即绚丽又加人物属性\\\\<(c0x00ff0066)首充可获得25个羽毛,提升到1档翅膀>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "翅膀系统升级所需材料\\\\需要在翅膀界面中使用\\\\提升翅膀即绚丽又加人物属性\\\\<(c0x00ff0066)首充可获得25个羽毛,提升到1档翅膀>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Nguyên liệu nâng Cánh\\\\Dùng trong giao diện Cánh\\\\Nâng Cánh đẹp hơn và tăng thuộc tính\\\\<(c0x00ff0066)Nạp Đầu nhận 25 Lông Vũ, nâng lên Cánh Bậc 1>\\\\<(c0xFF00FF00)Gợi Ý: mua trong Cửa Hàng>"
         },
         {
           "key": "n1046",
           "occurrence": 1,
           "source": "幸运药水",
-          "target": "幸运药水"
+          "target": "Thuốc May Mắn"
         },
         {
           "key": "i1046",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,幸运<(c0xFF00FFFF)+1>\\\\<(c0xFF00FF00)相同的幸运药水时间会刷新>\\\\<(c0xFF00FF00)不同的幸运药水会互相抵消>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,幸运<(c0xFF00FFFF)+1>\\\\<(c0xFF00FF00)相同的幸运药水时间会刷新>\\\\<(c0xFF00FF00)不同的幸运药水会互相抵消>"
+          "target": "Dùng\\\\Trong <(c0xFF00FFFF)10 Phút>, May Mắn <(c0xFF00FFFF)+1>\\\\<(c0xFF00FF00)Cùng loại sẽ làm mới thời gian>\\\\<(c0xFF00FF00)Khác loại sẽ triệt tiêu lẫn nhau>"
         },
         {
           "key": "n1047",
           "occurrence": 1,
           "source": "大幸运药水",
-          "target": "大幸运药水"
+          "target": "Thuốc May Mắn Lớn"
         },
         {
           "key": "i1047",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,幸运<(c0xFF00FFFF)+2>\\\\<(c0xFF00FF00)相同的幸运药水时间会刷新>\\\\<(c0xFF00FF00)不同的幸运药水会互相抵消>",
-          "target": "双击使用\\\\<(c0xFF00FFFF)10分钟>内,幸运<(c0xFF00FFFF)+2>\\\\<(c0xFF00FF00)相同的幸运药水时间会刷新>\\\\<(c0xFF00FF00)不同的幸运药水会互相抵消>"
+          "target": "Dùng\\\\Trong <(c0xFF00FFFF)10 Phút>, May Mắn <(c0xFF00FFFF)+2>\\\\<(c0xFF00FF00)Cùng loại sẽ làm mới thời gian>\\\\<(c0xFF00FF00)Khác loại sẽ triệt tiêu lẫn nhau>"
         },
         {
           "key": "n1048",
