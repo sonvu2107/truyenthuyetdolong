@@ -37960,61 +37960,61 @@
           "key": "promTlk621",
           "occurrence": 1,
           "source": "前方似乎有人受伤了,你速去营救他!附近的食尸虫很麻烦,你要提前出手消灭它们!\\\\",
-          "target": "前方似乎有人受伤了,你速去营救他!附近的食尸虫很麻烦,你要提前出手消灭它们!\\\\"
+      "target": "Phía trước có người bị thương, mau đến cứu! Trùng Ăn Xác quanh đó rất phiền, hãy diệt chúng trước!\\\\"
         },
         {
           "key": "promTlk631",
           "occurrence": 1,
           "source": "我伤口的血引来那些青火恶魔,它们狡诈无比,你能帮我对付它们吗?完事后你找到我前方的大哥,大家都叫他刀疤周!\\\\",
-          "target": "我伤口的血引来那些青火恶魔,它们狡诈无比,你能帮我对付它们吗?完事后你找到我前方的大哥,大家都叫他刀疤周!\\\\"
+      "target": "Máu vết thương của ta dẫn Thanh Hỏa Ác Ma đến, chúng rất xảo quyệt. Diệt xong hãy gặp đại ca ta phía trước, mọi người gọi anh ấy là Sẹo Chu!\\\\"
         },
         {
           "key": "promTlk641",
           "occurrence": 1,
           "source": "我奉命来崔凡克调查沉沦大祭司.深处就是它的巢穴.\\\\",
-          "target": "我奉命来崔凡克调查沉沦大祭司.深处就是它的巢穴.\\\\"
+      "target": "Ta được lệnh đến Travincal điều tra Đại Tế Tư Trầm Luân. Hang ổ của nó ở sâu bên trong.\\\\"
         },
         {
           "key": "promTlk651",
           "occurrence": 1,
           "source": "现在世界的魔王太多,我们地图级别的BOSS是一小时刷新一次,世界BOSS是两小时.\\\\",
-          "target": "现在世界的魔王太多,我们地图级别的BOSS是一小时刷新一次,世界BOSS是两小时.\\\\"
+      "target": "Ma Vương khắp thế giới rất nhiều. BOSS bản đồ hồi sau 1 giờ, BOSS thế giới hồi sau 2 giờ.\\\\"
         },
         {
           "key": "promTlk661",
           "occurrence": 1,
           "source": "我在这段时间发现那个邪恶祭司不断召唤出新的恶魔,前方有位神秘刺客专门猎杀恶魔!你猎杀它们后顺路过去能找到她!\\\\",
-          "target": "我在这段时间发现那个邪恶祭司不断召唤出新的恶魔,前方有位神秘刺客专门猎杀恶魔!你猎杀它们后顺路过去能找到她!\\\\"
+      "target": "Tế Tư Tà Ác liên tục triệu hồi ác ma mới. Có Nữ Thích Khách bí ẩn phía trước chuyên săn ác ma, hãy đến gặp cô ấy sau khi diệt chúng!\\\\"
         },
         {
           "key": "promTlk671",
           "occurrence": 1,
           "source": "你知道祖玛教主吗?自从人魔大战以来,祖玛教主率众一路上屠杀民众无数,现在它的一个魂力躲在囚牢密室内这里,你去消灭它!\\\\",
-          "target": "你知道祖玛教主吗?自从人魔大战以来,祖玛教主率众一路上屠杀民众无数,现在它的一个魂力躲在囚牢密室内这里,你去消灭它!\\\\"
+      "target": "Biết Giáo Chủ Zuma chứ? Từ Đại Chiến Nhân Ma, nó đã tàn sát vô số dân. Một Hồn Lực đang ẩn trong Mật Thất Ngục Lao, hãy diệt nó!\\\\"
         },
         {
           "key": "promTlk681",
           "occurrence": 1,
           "source": "前面的嗜血蝙蝠吸了我好多血啊!都害我贫血了,你能帮我报仇吗?\\\\",
-          "target": "前面的嗜血蝙蝠吸了我好多血啊!都害我贫血了,你能帮我报仇吗?\\\\"
+      "target": "Dơi Khát Máu phía trước hút quá nhiều máu của ta, hại ta thiếu máu! Ngươi giúp ta báo thù được chứ?\\\\"
         },
         {
           "key": "promTlk691",
           "occurrence": 1,
           "source": "安达利尔害怕灵魂石的力量.我们圣堂代表光明驱除黑暗,也因此成为恶魔的眼中钉.\\\\",
-          "target": "安达利尔害怕灵魂石的力量.我们圣堂代表光明驱除黑暗,也因此成为恶魔的眼中钉.\\\\"
+      "target": "Andariel sợ sức mạnh Hồn Thạch. Thánh Đường đại diện ánh sáng xua bóng tối, nên trở thành cái gai trong mắt ác ma.\\\\"
         },
         {
           "key": "promTlk701",
           "occurrence": 1,
           "source": "帮我采集前面的止血草,然后送去给文冰！\\\\",
-          "target": "帮我采集前面的止血草,然后送去给文冰！\\\\"
+      "target": "Hãy hái Cỏ Cầm Máu phía trước rồi giao cho Văn Băng!\\\\"
         },
         {
           "key": "promTlk71",
           "occurrence": 1,
           "source": "你!你的武功究竟从何处学来的?那是正统三龙卫的绝学!前方有一名昔日的龙卫,你去拜访他吧!\\\\",
-          "target": "你!你的武功究竟从何处学来的?那是正统三龙卫的绝学!前方有一名昔日的龙卫,你去拜访他吧!\\\\"
+      "target": "Ngươi học võ công từ đâu? Đó là tuyệt học Tam Long Vệ chính thống! Có một Long Vệ năm xưa phía trước, hãy đến gặp ông ấy!\\\\"
         },
         {
           "key": "promTlk711",
