@@ -70148,97 +70148,97 @@
           "key": "n2604",
           "occurrence": 1,
           "source": "装备升级石",
-          "target": "装备升级石"
+          "target": "Đá Nâng Cấp Trang Bị"
         },
         {
           "key": "i2604",
           "occurrence": 1,
           "source": "用于<(c0xFF00FFFF)套装升级功能>升级的材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备升级>操作\\\\<(c0xFF00FF00)提示:可以通过消灭野外BOSS或在商城购买\\\\黑暗战场、全面战争活动获得>",
-          "target": "用于<(c0xFF00FFFF)套装升级功能>升级的材料\\\\<(c0xFFFFFF00)双击物品>可打开锻造界面(快捷键:<(c0xFF00FFFF)X>)进行<(c0xFF00FFFF)装备升级>操作\\\\<(c0xFF00FF00)提示:可以通过消灭野外BOSS或在商城购买\\\\黑暗战场、全面战争活动获得>"
+          "target": "Nguyên liệu dùng để <(c0xFF00FFFF)Nâng Cấp Bộ Trang Bị>\\\\<(c0xFFFFFF00)Nhấp đúp vật phẩm> để mở giao diện Rèn (phím tắt: <(c0xFF00FFFF)X>) và <(c0xFF00FFFF)Nâng Cấp Trang Bị>\\\\<(c0xFF00FF00)Mẹo: nhận khi hạ BOSS ngoài hoang dã, mua tại Cửa Hàng\\\\hoặc từ hoạt động Chiến Trường Bóng Tối, Đại Chiến Toàn Diện>"
         },
         {
           "key": "n2605",
           "occurrence": 1,
           "source": "佣兵药水(小)",
-          "target": "佣兵药水(小)"
+          "target": "Bình Thuốc Lính Đánh Thuê (Nhỏ)"
         },
         {
           "key": "i2605",
           "occurrence": 1,
           "source": "充满活力的药剂，让人振奋（佣兵专用）!\\\\<(c0xFF00FF00)提示:可在阿卡拉处购买>",
-          "target": "充满活力的药剂，让人振奋（佣兵专用）!\\\\<(c0xFF00FF00)提示:可在阿卡拉处购买>"
+          "target": "Dược phẩm tràn sức sống, tiếp thêm tinh thần (chỉ dùng cho Lính Đánh Thuê)!\\\\<(c0xFF00FF00)Mẹo: có thể mua tại Akara>"
         },
         {
           "key": "n2606",
           "occurrence": 1,
           "source": "佣兵药水(大)",
-          "target": "佣兵药水(大)"
+          "target": "Bình Thuốc Lính Đánh Thuê (Lớn)"
         },
         {
           "key": "i2606",
           "occurrence": 1,
           "source": "立即恢复佣兵一定的生命值!（佣兵专用）\\\\<(c0xFF00FF00)提示:马拉处有售>",
-          "target": "立即恢复佣兵一定的生命值!（佣兵专用）\\\\<(c0xFF00FF00)提示:马拉处有售>"
+          "target": "Lập tức hồi một lượng HP cho Lính Đánh Thuê! (chỉ dùng cho Lính Đánh Thuê)\\\\<(c0xFF00FF00)Mẹo: có bán tại Mara>"
         },
         {
           "key": "n2607",
           "occurrence": 1,
           "source": "佣兵雪莲",
-          "target": "佣兵雪莲"
+          "target": "Tuyết Liên Lính Đánh Thuê"
         },
         {
           "key": "i2607",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复出战佣兵<(c0xFF00FFFF)675点>魔法值,持续<(c0xFF00FFFF)10分钟>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>（佣兵专用）\\\\<(c0xFF00FF00)提示:通过商城可购买>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复出战佣兵<(c0xFF00FFFF)675点>魔法值,持续<(c0xFF00FFFF)10分钟>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>（佣兵专用）\\\\<(c0xFF00FF00)提示:通过商城可购买>"
+          "target": "Nhấp đúp để dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)675 MP> cho Lính Đánh Thuê đang xuất chiến, kéo dài <(c0xFF00FFFF)10 phút>\\\\<(c0xFF00FF00)Thời gian hiệu lực của thuốc cùng lượng hồi sẽ cộng dồn>\\\\<(c0xFF00FF00)Thuốc có lượng hồi khác nhau sẽ triệt tiêu lẫn nhau> (chỉ dùng cho Lính Đánh Thuê)\\\\<(c0xFF00FF00)Mẹo: có thể mua tại Cửa Hàng>"
         },
         {
           "key": "n2608",
           "occurrence": 1,
           "source": "佣兵人参",
-          "target": "佣兵人参"
+          "target": "Nhân Sâm Lính Đánh Thuê"
         },
         {
           "key": "i2608",
           "occurrence": 1,
           "source": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复出战佣兵<(c0xFF00FFFF)550点>生命值,持续<(c0xFF00FFFF)10分钟>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>（佣兵专用）\\\\<(c0xFF00FF00)提示:通过商城可购买>",
-          "target": "双击使用\\\\每<(c0xFF00FFFF)5秒>恢复出战佣兵<(c0xFF00FFFF)550点>生命值,持续<(c0xFF00FFFF)10分钟>\\\\<(c0xFF00FF00)相同单位回复量的药品时间会叠加>\\\\<(c0xFF00FF00)不同单位回复量的药品会互相抵消>（佣兵专用）\\\\<(c0xFF00FF00)提示:通过商城可购买>"
+          "target": "Nhấp đúp để dùng\\\\Mỗi <(c0xFF00FFFF)5 giây> hồi <(c0xFF00FFFF)550 HP> cho Lính Đánh Thuê đang xuất chiến, kéo dài <(c0xFF00FFFF)10 phút>\\\\<(c0xFF00FF00)Thời gian hiệu lực của thuốc cùng lượng hồi sẽ cộng dồn>\\\\<(c0xFF00FF00)Thuốc có lượng hồi khác nhau sẽ triệt tiêu lẫn nhau> (chỉ dùng cho Lính Đánh Thuê)\\\\<(c0xFF00FF00)Mẹo: có thể mua tại Cửa Hàng>"
         },
         {
           "key": "n2609",
           "occurrence": 1,
           "source": "千万经验包",
-          "target": "千万经验包"
+          "target": "Gói KN 10000K"
         },
         {
           "key": "i2609",
           "occurrence": 1,
           "source": "双击打开,获得以下物品:\\\\50级100万经验包×1\\\\55级200万经验包×1\\\\60级300万经验包×1\\\\65级400万经验包×1",
-          "target": "双击打开,获得以下物品:\\\\50级100万经验包×1\\\\55级200万经验包×1\\\\60级300万经验包×1\\\\65级400万经验包×1"
+          "target": "Nhấp đúp để mở, nhận các vật phẩm sau:\\\\Gói KN 1000K Cấp 50×1\\\\Gói KN 2000K Cấp 55×1\\\\Gói KN 3000K Cấp 60×1\\\\Gói KN 4000K Cấp 65×1"
         },
         {
           "key": "n2610",
           "occurrence": 1,
           "source": "土豪金",
-          "target": "土豪金"
+          "target": "Vàng Đại Gia"
         },
         {
           "key": "i2610",
           "occurrence": 1,
           "source": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>\\\\双击打开,获得5W金币！",
-          "target": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>\\\\双击打开,获得5W金币！"
+          "target": "Năm nay lễ tết không nhận quà, chỉ nhận Vàng Đại Gia!\\\\<(c0x00d57140)Sở hữu Vàng Đại Gia sẽ nhận kho báu khổng lồ, trở thành Đại Gia!>\\\\Nhấp đúp để mở, nhận 50K Vàng!"
         },
         {
           "key": "n2611",
           "occurrence": 1,
           "source": "50级土豪金",
-          "target": "50级土豪金"
+          "target": "Vàng Đại Gia Cấp 50"
         },
         {
           "key": "i2611",
           "occurrence": 1,
           "source": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>双击打开,获得以下物品:\\\\5万金币\\\\60级土豪金×1",
-          "target": "今年过节不收礼，收礼只收土豪金！\\\\<(c0x00d57140)现在拥有土豪金即可获得海量财富，让你晋身土豪！>双击打开,获得以下物品:\\\\5万金币\\\\60级土豪金×1"
+          "target": "Năm nay lễ tết không nhận quà, chỉ nhận Vàng Đại Gia!\\\\<(c0x00d57140)Sở hữu Vàng Đại Gia sẽ nhận kho báu khổng lồ, trở thành Đại Gia!>Nhấp đúp để mở, nhận các vật phẩm sau:\\\\50K Vàng\\\\Vàng Đại Gia Cấp 60×1"
         },
         {
           "key": "n2612",
