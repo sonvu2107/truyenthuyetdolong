@@ -49634,13 +49634,13 @@
           "key": "i894",
           "occurrence": 1,
           "source": "双击使用,3个强化卷轴残页合成1个强化卷轴\\\\<(c0xFF00FF00)提示:日常任务可获得>",
-          "target": "双击使用,3个强化卷轴残页合成1个强化卷轴\\\\<(c0xFF00FF00)提示:日常任务可获得>"
+          "target": "Dùng 3 Trang Rách Cuộn Cường Hóa hợp thành 1 Cuộn Cường Hóa\\\\<(c0xFF00FF00)Gợi ý: nhận từ Nhiệm Vụ Ngày>"
         },
         {
           "key": "n895",
           "occurrence": 1,
           "source": "绿宝石碎片(废弃)",
-          "target": "绿宝石碎片(废弃)"
+          "target": "Mảnh Lục Bảo Thạch (Bỏ)"
         },
         {
           "key": "i895",
@@ -49652,49 +49652,49 @@
           "key": "n896",
           "occurrence": 1,
           "source": "强化石碎片(废弃)",
-          "target": "强化石碎片(废弃)"
+          "target": "Mảnh Đá Cường Hóa (Bỏ)"
         },
         {
           "key": "i896",
           "occurrence": 1,
           "source": "双击使用,3个强化石碎片合成1个强化石\\\\<(c0xFF00FF00)提示:日常任务可获得>",
-          "target": "双击使用,3个强化石碎片合成1个强化石\\\\<(c0xFF00FF00)提示:日常任务可获得>"
+          "target": "Dùng 3 Mảnh Đá Cường Hóa hợp thành 1 Đá Cường Hóa\\\\<(c0xFF00FF00)Gợi ý: nhận từ Nhiệm Vụ Ngày>"
         },
         {
           "key": "n897",
           "occurrence": 1,
           "source": "物攻宝石碎片(废弃)",
-          "target": "物攻宝石碎片(废弃)"
+          "target": "Mảnh Đá Công Vật Lý (Bỏ)"
         },
         {
           "key": "i897",
           "occurrence": 1,
           "source": "双击使用,3个物攻宝石碎片合成1个1级物攻宝石",
-          "target": "双击使用,3个物攻宝石碎片合成1个1级物攻宝石"
+          "target": "Dùng 3 Mảnh Đá Công Vật Lý hợp thành 1 Đá Công Vật Lý Cấp 1"
         },
         {
           "key": "n898",
           "occurrence": 1,
           "source": "魔攻宝石碎片(废弃)",
-          "target": "魔攻宝石碎片(废弃)"
+          "target": "Mảnh Đá Công Phép (Bỏ)"
         },
         {
           "key": "i898",
           "occurrence": 1,
           "source": "双击使用,3个魔攻宝石碎片合成1个1级魔攻宝石",
-          "target": "双击使用,3个魔攻宝石碎片合成1个1级魔攻宝石"
+          "target": "Dùng 3 Mảnh Đá Công Phép hợp thành 1 Đá Công Phép Cấp 1"
         },
         {
           "key": "n899",
           "occurrence": 1,
           "source": "道攻宝石碎片(废弃)",
-          "target": "道攻宝石碎片(废弃)"
+          "target": "Mảnh Đá Công Đạo (Bỏ)"
         },
         {
           "key": "i899",
           "occurrence": 1,
           "source": "双击使用,3个道攻宝石碎片合成1个1级道攻宝石",
-          "target": "双击使用,3个道攻宝石碎片合成1个1级道攻宝石"
+          "target": "Dùng 3 Mảnh Đá Công Đạo hợp thành 1 Đá Công Đạo Cấp 1"
         },
         {
           "key": "n900",
