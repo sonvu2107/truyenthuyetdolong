@@ -66116,85 +66116,85 @@
           "key": "n2268",
           "occurrence": 1,
           "source": "神•屠龙刀(珍品)",
-          "target": "神•屠龙刀(珍品)"
+          "target": "Thần • Đao Đồ Long (Trân Phẩm)"
         },
         {
           "key": "i2268",
           "occurrence": 1,
           "source": "<(c0x00ff6600)开服珍品,值得收藏>\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 物品合成页面中,特殊装备合成处进行升级。",
-          "target": "<(c0x00ff6600)开服珍品,值得收藏>\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 物品合成页面中,特殊装备合成处进行升级。"
+          "target": "<(c0x00ff6600)Trân phẩm khai server, đáng sưu tầm>\\\\Có thể nâng cấp tại mục Trang Bị Đặc Biệt trong trang Hợp Thành Vật Phẩm của <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n2269",
           "occurrence": 1,
           "source": "装备淘宝令牌",
-          "target": "装备淘宝令牌"
+          "target": "Lệnh Tầm Bảo Trang Bị"
         },
         {
           "key": "i2269",
           "occurrence": 1,
           "source": "辅助道具\\\\持有该令牌可从<(c0xFFFFFF00)淘宝商人>处进入装备淘宝活动\\\\在该活动中玩家可获得<(c0xFF00FF00)高阶装备和材料>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "辅助道具\\\\持有该令牌可从<(c0xFFFFFF00)淘宝商人>处进入装备淘宝活动\\\\在该活动中玩家可获得<(c0xFF00FF00)高阶装备和材料>\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Đạo cụ hỗ trợ\\\\Sở hữu lệnh này có thể vào hoạt động Tầm Bảo Trang Bị từ <(c0xFFFFFF00)Thương Nhân Tầm Bảo>\\\\Trong hoạt động này, người chơi có thể nhận <(c0xFF00FF00)Trang Bị và Nguyên Liệu Cao Cấp>\\\\<(c0xFF00FF00)Gợi ý: Có thể mua tại Cửa Hàng>"
         },
         {
           "key": "n2270",
           "occurrence": 1,
           "source": "3级攻击宝石礼包",
-          "target": "3级攻击宝石礼包"
+          "target": "Gói Đá Quý Tấn Công Cấp 3"
         },
         {
           "key": "i2270",
           "occurrence": 1,
           "source": "活跃奖励礼盒\\\\双击可以获得当前职业的3级攻击宝石",
-          "target": "活跃奖励礼盒\\\\双击可以获得当前职业的3级攻击宝石"
+          "target": "Hộp quà Hoạt Động\\\\Nhấp đúp nhận Đá Quý Tấn Công Cấp 3 của nghề hiện tại"
         },
         {
           "key": "n2271",
           "occurrence": 1,
           "source": "5级攻击宝石礼包",
-          "target": "5级攻击宝石礼包"
+          "target": "Gói Đá Quý Tấn Công Cấp 5"
         },
         {
           "key": "i2271",
           "occurrence": 1,
           "source": "活跃奖励礼盒\\\\双击可以获得当前职业的5级攻击宝石",
-          "target": "活跃奖励礼盒\\\\双击可以获得当前职业的5级攻击宝石"
+          "target": "Hộp quà Hoạt Động\\\\Nhấp đúp nhận Đá Quý Tấn Công Cấp 5 của nghề hiện tại"
         },
         {
           "key": "n2272",
           "occurrence": 1,
           "source": "神魂晶石",
-          "target": "神魂晶石"
+          "target": "Tinh Thạch Thần Hồn"
         },
         {
           "key": "i2272",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级>装备<(c0x00ff0066)神装>锻造材料\\\\可在 <(c0xFFFF6600)诸神圣器面板> 中进行装备锻造\\\\拥有神装必<(c0x00ff0066)称霸本服>！\\\\可在VIP专属副本以及击杀BOSS获得",
-          "target": "<(c0x00ff0066)顶级>装备<(c0x00ff0066)神装>锻造材料\\\\可在 <(c0xFFFF6600)诸神圣器面板> 中进行装备锻造\\\\拥有神装必<(c0x00ff0066)称霸本服>！\\\\可在VIP专属副本以及击杀BOSS获得"
+          "target": "Nguyên liệu rèn <(c0x00ff0066)Trang Bị <(c0x00ff0066)Thần Trang> bậc cao\\\\Có thể rèn trang bị tại <(c0xFFFF6600)Bảng Thánh Khí Chư Thần>\\\\Sở hữu Thần Trang chắc chắn <(c0x00ff0066)Xưng Bá Server>!\\\\Nhận tại phụ bản riêng VIP và khi diệt BOSS"
         },
         {
           "key": "n2273",
           "occurrence": 1,
           "source": "1级神装增强精华",
-          "target": "1级神装增强精华"
+          "target": "Tinh Hoa Cường Hóa Thần Trang Cấp 1"
         },
         {
           "key": "i2273",
           "occurrence": 1,
           "source": "用于1-2转最顶级神装增强\\\\增强后可大幅度提升属性\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行增强\\\\两个1级神装增强精华可以合成一个2级神装增强精华",
-          "target": "用于1-2转最顶级神装增强\\\\增强后可大幅度提升属性\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行增强\\\\两个1级神装增强精华可以合成一个2级神装增强精华"
+          "target": "Dùng cường hóa Thần Trang cao cấp nhất Chuyển Sinh 1-2\\\\Sau cường hóa, thuộc tính tăng mạnh\\\\Có thể cường hóa tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)\\\\2 Tinh Hoa Cường Hóa Thần Trang Cấp 1 có thể hợp thành 1 Tinh Hoa Cường Hóa Thần Trang Cấp 2"
         },
         {
           "key": "n2274",
           "occurrence": 1,
           "source": "2级神装增强精华",
-          "target": "2级神装增强精华"
+          "target": "Tinh Hoa Cường Hóa Thần Trang Cấp 2"
         },
         {
           "key": "i2274",
           "occurrence": 1,
           "source": "用于3-4转最顶级神装增强\\\\增强后可大幅度提升属性\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行增强\\\\两个2级神装增强精华可以合成一个3级神装增强精华",
-          "target": "用于3-4转最顶级神装增强\\\\增强后可大幅度提升属性\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 中进行增强\\\\两个2级神装增强精华可以合成一个3级神装增强精华"
+          "target": "Dùng cường hóa Thần Trang cao cấp nhất Chuyển Sinh 3-4\\\\Sau cường hóa, thuộc tính tăng mạnh\\\\Có thể cường hóa tại <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)\\\\2 Tinh Hoa Cường Hóa Thần Trang Cấp 2 có thể hợp thành 1 Tinh Hoa Cường Hóa Thần Trang Cấp 3"
         },
         {
           "key": "n2275",
