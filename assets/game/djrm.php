@@ -45,7 +45,7 @@ body, div{font-family:Arial, sans-serif; font-size:12px; color:#fff;}
 #navBar{text-align:right; padding:2px;}
 #down_flash{margin-top:100px;}
 </style>
-<script type="text/javascript" src="static/common.js"></script>
+<script type="text/javascript" src="static/common.js?v=20260713flashdetect1"></script>
 <script type="text/javascript" src="static/swfobject.js"></script>
 <script type="text/javascript" src="static/rightClick.js"></script>
 <script type="text/javascript">
