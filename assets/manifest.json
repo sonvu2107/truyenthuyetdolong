@@ -1,5 +1,5 @@
 {
-  "version": "20260714questfont1",
+  "version": "20260714copyedit1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "F9C598A11388048EC28A6824579245558835E834C2D2BE5F98A114266706D52F"
+      "sha256": "4AAEBECFB589431E68C4ECEB7C8BAD6755270D22B77BFFB7EE1E7D24B2B1A7F9"
     },
     {
       "source": "assets/ClientLang.txt",

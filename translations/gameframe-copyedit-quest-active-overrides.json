@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Biên tập lại các câu dịch máy thô trong nhiệm vụ, điểm năng động, chiến trường và thông báo thưởng; giữ nguyên placeholder và markup.",
+  "overrides": {
+    "MsgBtn_Types[57]": {
+      "source": "Có thể nhận được mức độ hoạt động Phần Thưởng",
+      "target": "Có thưởng điểm năng động để nhận",
+      "category": "notice"
+    },
+    "MsgBtn_Types[58]": {
+      "source": "Có thể thu thập ngoại tuyến Kinh NghiệmPhần Thưởng",
+      "target": "Có kinh nghiệm treo máy để nhận",
+      "category": "notice"
+    },
+    "MsgBtn_Types[59]": {
+      "source": "Có thể nhận đăng nhập Phần Thưởng",
+      "target": "Có thưởng đăng nhập để nhận",
+      "category": "notice"
+    },
+    "quest[30]": {
+      "source": "<FONT COLOR='#FF0000'>Do không tìm thấy nhiệm vụ này thứ </FONT>",
+      "target": "<FONT COLOR='#FF0000'>Không tìm thấy nhiệm vụ này.</FONT>",
+      "category": "error"
+    },
+    "quest[36]": {
+      "source": "<FONT COLOR='#FF0000'>Do không tìm thấy dữ liệu cảnh NPC trả nhiệm vụ, không thể đi ngay tới NPC</FONT>",
+      "target": "<FONT COLOR='#FF0000'>Không tìm thấy bản đồ của NPC trả nhiệm vụ nên không thể tự động di chuyển.</FONT>",
+      "category": "error"
+    },
+    "quest[53]": {
+      "source": "<font size=\"12\" color=\"#cccc99\"> Mỗi khi hoàn thành 20 dòng chính hoặc dòng nhánh Nhiệm Vụ, tức là <br>, bạn có thể nhận thêm thuộc tính Phần Thưởng</font>",
+      "target": "<font size=\"12\" color=\"#cccc99\">Mỗi khi hoàn thành 20 nhiệm vụ chính tuyến hoặc phụ tuyến,<br>bạn sẽ nhận thêm thưởng thuộc tính.</font>",
+      "category": "help"
+    },
+    "quest[56]": {
+      "source": "Tiền thưởng Nhiệm Vụ",
+      "target": "Thưởng nhiệm vụ",
+      "category": "label"
+    },
+    "quest[61]": {
+      "source": "Vận may Phần Thưởng",
+      "target": "Thưởng may mắn",
+      "category": "label"
+    },
+    "quest[63]": {
+      "source": "Nhận <BR>Phần Thưởng",
+      "target": "Nhận<BR>thưởng",
+      "category": "button"
+    },
+    "quest[64]": {
+      "source": "<font size = '15' color = '#b29a6c'> Rương kho báu Nhiệm Vụ hiện tại: <font size = '18' color = '#cc00cc'>$value$</font></font>",
+      "target": "<font size = '15' color = '#b29a6c'>Rương nhiệm vụ hiện tại: <font size = '18' color = '#cc00cc'>$value$</font></font>",
+      "category": "label"
+    },
+    "quest[65]": {
+      "source": "Có nên chi <font color = '#65ff32'>$value$Nguyên Bảo</font> và tăng số lượng Nhiệm Vụ hay không",
+      "target": "Dùng <font color = '#65ff32'>$value$ Nguyên Bảo</font> để tăng số lượt nhiệm vụ?",
+      "category": "confirm"
+    },
+    "quest[76]": {
+      "source": "Hãy nhận rương báu hàng đầu Phần Thưởng",
+      "target": "Hãy nhận phần thưởng từ rương cao cấp.",
+      "category": "notice"
+    },
+    "quest[85]": {
+      "source": "Thời gian rảnh Nhiệm Vụ hàng ngày của bạn đã được sử dụng hết <br>. Bạn có muốn sử dụng $num$Nguyên Bảo để tiếp tục nhận nó không?",
+      "target": "Bạn đã dùng hết lượt nhiệm vụ hằng ngày miễn phí.<br>Dùng $num$ Nguyên Bảo để nhận thêm?",
+      "category": "confirm"
+    },
+    "quest[86]": {
+      "source": "Bạn có chắc chắn muốn từ bỏ Nhiệm Vụ không?",
+      "target": "Bạn có chắc muốn từ bỏ nhiệm vụ không?",
+      "category": "confirm"
+    },
+    "quest[87]": {
+      "source": "Bạn có muốn sử dụng $num$Nguyên Bảo để hoàn thành Nhiệm Vụ ngay lập tức không?",
+      "target": "Dùng $num$ Nguyên Bảo để hoàn thành nhiệm vụ ngay?",
+      "category": "confirm"
+    },
+    "quest[110]": {
+      "source": "<font color='0xFFFFFF'><b> Hàng ngày Nhiệm Vụ</b></font>",
+      "target": "<font color='0xFFFFFF'><b>Nhiệm vụ hằng ngày</b></font>",
+      "category": "label"
+    },
+    "questTip[6]": {
+      "source": "<font color='#ff3333'> [Chưa mở] </font><BR> có thể nhận được sau khi hoàn thành &attr&<BR> Mỗi khi bạn hoàn thành 20 Nhiệm Vụ, bạn sẽ có thuộc tính Phần Thưởng",
+      "target": "<font color='#ff3333'>[Chưa mở]</font><BR>Hoàn thành &attr& để mở.<BR>Cứ hoàn thành 20 nhiệm vụ sẽ nhận thêm thưởng thuộc tính.",
+      "category": "help"
+    },
+    "questTip[7]": {
+      "source": "<font color='#00cc33'>[Đang tiến hành] </font><BR> cần hoàn thành &num& hơn nữa Nhiệm Vụ để nhận được <BR>&attr&",
+      "target": "<font color='#00cc33'>[Đang tiến hành]</font><BR>Cần hoàn thành thêm &num& nhiệm vụ để nhận:<BR>&attr&",
+      "category": "help"
+    },
+    "questTip[8]": {
+      "source": "<font color='#ffff66'> [Đã hoàn thành] </font><BR>&attr&<BR> Mỗi khi hoàn thành 20 Nhiệm Vụ, bạn sẽ có thuộc tính Phần Thưởng",
+      "target": "<font color='#ffff66'>[Đã hoàn thành]</font><BR>&attr&<BR>Cứ hoàn thành 20 nhiệm vụ sẽ nhận thêm thưởng thuộc tính.",
+      "category": "help"
+    },
+    "questTip[11]": {
+      "source": "Nhận Nhiệm Vụ và hoàn thành Phần Thưởng",
+      "target": "Nhận và hoàn thành nhiệm vụ để nhận thưởng.",
+      "category": "help"
+    },
+    "questTip[12]": {
+      "source": "Nhận thật nhiều Kinh NghiệmPhần Thưởng",
+      "target": "Nhận nhiều kinh nghiệm.",
+      "category": "help"
+    },
+    "questTip[13]": {
+      "source": "Nhấp để hoàn thành Nhiệm Vụ ngay lập tức",
+      "target": "Hoàn thành ngay nhiệm vụ.",
+      "category": "help"
+    },
+    "questTip[14]": {
+      "source": "Bấm để mở giao diện săn Nhiệm Vụ <br>Nhiệm VụPhần Thưởng số lượng lớn Kinh Nghiệm",
+      "target": "Mở giao diện Nhiệm vụ săn thưởng.<br>Hoàn thành để nhận nhiều kinh nghiệm.",
+      "category": "help"
+    },
+    "questTip[15]": {
+      "source": "Nhận thật nhiều Kim Tệ KhóaPhần Thưởng",
+      "target": "Nhận nhiều Xu khóa.",
+      "category": "help"
+    },
+    "questTip[16]": {
+      "source": "Nhấp để hoàn thành Nhiệm Vụ ngay lập tức",
+      "target": "Hoàn thành ngay nhiệm vụ.",
+      "category": "help"
+    },
+    "questTip[17]": {
+      "source": "Nhấp để mở giao diện tiền thưởng Nhiệm Vụ <br>Nhiệm VụPhần Thưởng Một số lượng lớn Kim Tệ Khóa",
+      "target": "Mở giao diện Nhiệm vụ thưởng.<br>Hoàn thành để nhận nhiều Xu khóa.",
+      "category": "help"
+    },
+    "questTip[18]": {
+      "source": "Thứ bạn đang nhận bây giờ là rương kho báu chính <font color='#00cc33'> Nhiệm Vụ</font><font color='#ff3333'> (cấp độ rương kho báu càng cao, bạn sẽ nhận được càng nhiều Kim Tệ Khóa. Nhiều, cấp hộp kho báu <br> có thể được làm mới và được nâng cấp với Kim Tệ Khóa hoặc Nguyên Bảo) </font>, bạn có chắc chắn muốn nhận Nhiệm Vụ không?",
+      "target": "Bạn sắp nhận nhiệm vụ từ rương chính <font color='#00cc33'>Nhiệm vụ</font><font color='#ff3333'> (rương cấp càng cao thì thưởng Xu khóa càng nhiều.<br>Có thể làm mới và nâng cấp rương bằng Xu khóa hoặc Nguyên Bảo.)</font> Bạn có chắc muốn nhận nhiệm vụ?",
+      "category": "confirm"
+    },
+    "questTip[19]": {
+      "source": "Việc hoàn thành ngay lập tức yêu cầu $num$Nguyên Bảo<font color = '#66ccff'> (có thể sử dụng cuộn hoàn thành ngay lập tức Nhiệm Vụ) </font>",
+      "target": "Hoàn thành ngay cần $num$ Nguyên Bảo.<font color = '#66ccff'> (Có thể dùng Cuộn hoàn thành nhanh.)</font>",
+      "category": "confirm"
+    },
+    "friend[102]": {
+      "source": "Người học việc được thăng cấp lên $num$ Người học việc Phần Thưởng$num$",
+      "target": "Đồ đệ đã đạt cấp $num$. Đồ đệ nhận thưởng $num$.",
+      "category": "notice"
+    },
+    "friend[103]": {
+      "source": "Người học việc được thăng cấp lên $num$ Master Phần Thưởng$num$",
+      "target": "Đồ đệ đã đạt cấp $num$. Sư phụ nhận thưởng $num$.",
+      "category": "notice"
+    },
+    "active[84]": {
+      "source": "Chuyển ngay sang Nhiệm VụNPC",
+      "target": "Đi đến NPC nhiệm vụ",
+      "category": "button"
+    },
+    "active[87]": {
+      "source": "Nội dung Phần Thưởng tích lũy:",
+      "target": "Phần thưởng tích lũy:",
+      "category": "label"
+    },
+    "active[89]": {
+      "source": "Máy chủ hiện tại đang mở<font color='#00cc33'>$num1</font>hạng hai Chuyển Sinh<BR>Hoàn thành Nhiệm Vụ Chính Tuyến lấy Kinh Nghiệm phép cộng<font color='#00cc33'>$num3</font><BR>hằng ngày Nhiệm Vụ lấy Kinh Nghiệm phép cộng<font color='#00cc33'>$num4</font>",
+      "target": "Máy chủ hiện đã mở đến Chuyển Sinh bậc <font color='#00cc33'>$num1</font>.<BR>Hoàn thành nhiệm vụ chính tuyến được cộng <font color='#00cc33'>$num3</font> kinh nghiệm.<BR>Nhiệm vụ hằng ngày được cộng <font color='#00cc33'>$num4</font> kinh nghiệm.",
+      "category": "help"
+    },
+    "active[93]": {
+      "source": "Sau <font size='16'>%time%, Phần Thưởng sẽ được gửi trực tiếp đến địa chỉ email </font>",
+      "target": "Sau <font size='16'>%time%, phần thưởng sẽ được gửi qua thư.</font>",
+      "category": "notice"
+    },
+    "active[94]": {
+      "source": "Bạn hiện có điểm chiến trường: %ZCJF%<br>, bạn có thể nhận được %JLM%, v.v. Phần Thưởng",
+      "target": "Bạn hiện có %ZCJF% điểm chiến trường.<br>Phần thưởng có thể nhận: %JLM%.",
+      "category": "notice"
+    },
+    "active[95]": {
+      "source": "Bạn nhận được khoảng cách%NJLM%Chờ đợi Phần Thưởng Không đủ tốt%NZCJF%Điểm chiến trường điểm<br>%NJLM%Chờ đợi Phần Thưởng có sẵn",
+      "target": "Cần thêm %NZCJF% điểm chiến trường để nhận %NJLM%.<br>Phần thưởng đang có thể nhận: %NJLM%.",
+      "category": "notice"
+    },
+    "active[119]": {
+      "source": "Số lượng Nhiệm Vụ chưa hoàn thành: $val$",
+      "target": "Số nhiệm vụ chưa hoàn thành: $val$",
+      "category": "label"
+    },
+    "active[129]": {
+      "source": "Để nhận được Phần Thưởng cấp cao hơn, bạn cần tiêu thụ $value$Nguyên Bảo. Bạn có chắc chắn về hoạt động tiêu thụ này?",
+      "target": "Để nhận phần thưởng cấp cao hơn, cần dùng $value$ Nguyên Bảo. Bạn có chắc muốn tiếp tục?",
+      "category": "confirm"
+    }
+  }
+}
