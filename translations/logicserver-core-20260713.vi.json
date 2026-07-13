@@ -28382,45 +28382,45 @@
         },
         {
           "key": "desc303",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc304",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc305",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc306",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>.",
-          "target": "消灭怪物后回复<大天使泰瑞尔/M圣城:223:140:大天使泰瑞尔>."
+          "target": "Diệt quái rồi báo <Đại Thiên Sứ Tyrael/M圣城:223:140:大天使泰瑞尔>."
         },
         {
           "key": "desc307",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话.",
-          "target": "找<灭魔元帅/M神秘避难所:154:87:灭魔元帅>对话."
+          "target": "Nói chuyện với <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc308",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<灭魔元帅/M神秘避难所:154:87:灭魔元帅>.",
-          "target": "消灭怪物后回复<灭魔元帅/M神秘避难所:154:87:灭魔元帅>."
+          "target": "Diệt quái rồi báo <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc309",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<灭魔元帅/M神秘避难所:154:87:灭魔元帅>.",
-          "target": "消灭怪物后回复<灭魔元帅/M神秘避难所:154:87:灭魔元帅>."
+          "target": "Diệt quái rồi báo <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc31",
@@ -28430,21 +28430,21 @@
         },
         {
           "key": "desc310",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "消灭怪物后回复<灭魔元帅/M神秘避难所:154:87:灭魔元帅>.",
-          "target": "消灭怪物后回复<灭魔元帅/M神秘避难所:154:87:灭魔元帅>."
+          "target": "Diệt quái rồi báo <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc311",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "等级达到65级后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>.",
-          "target": "等级达到65级后找到<灭魔元帅/M神秘避难所:154:87:灭魔元帅>."
+          "target": "Đạt cấp 65 rồi tìm <Nguyên Soái Diệt Ma/M神秘避难所:154:87:灭魔元帅>."
         },
         {
           "key": "desc312",
-          "occurrence": 1,
+         "occurrence": 1,
           "source": "拜访屠龙城<卓格南/M屠龙城:208:92:卓格南>.",
-          "target": "拜访屠龙城<卓格南/M屠龙城:208:92:卓格南>."
+          "target": "Ghé <Drognan/M屠龙城:208:92:卓格南> tại Đồ Long Thành."
         },
         {
           "key": "desc313",
