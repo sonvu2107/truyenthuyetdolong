@@ -36160,61 +36160,61 @@
           "key": "promTlk2791",
           "occurrence": 1,
           "source": "等你等级达到66级后,找到幽暗丛林的恶魔杀手,他是一位很厉害的人物.\\\\",
-          "target": "等你等级达到66级后,找到幽暗丛林的恶魔杀手,他是一位很厉害的人物.\\\\"
+      "target": "Đạt cấp 66 rồi hãy tìm Sát Thủ Ác Ma ở Rừng U Ám. Ông ấy là một nhân vật rất mạnh.\\\\"
         },
         {
           "key": "promTlk2801",
           "occurrence": 1,
           "source": "你现在战力澎湃,血腥红魔遍布幽暗丛林,你前往消灭它们吧!\\\\",
-          "target": "你现在战力澎湃,血腥红魔遍布幽暗丛林,你前往消灭它们吧!\\\\"
+      "target": "Lực Chiến của ngươi đang dâng trào. Hồng Ma Đẫm Máu đầy Rừng U Ám, hãy đến diệt chúng!\\\\"
         },
         {
           "key": "promTlk281",
           "occurrence": 1,
           "source": "想不到边界村的安全隐患既然都被你无意中解决了,也算是大功一件了,对了,去消灭前方的蜘蛛后,老兵有重要的事情找你.\\\\",
-          "target": "想不到边界村的安全隐患既然都被你无意中解决了,也算是大功一件了,对了,去消灭前方的蜘蛛后,老兵有重要的事情找你.\\\\"
+      "target": "Không ngờ ngươi đã giải quyết hết hiểm họa ở Biên Giới Thôn, công lớn lắm. Diệt nhện phía trước rồi gặp Lão Binh, ông ấy có việc quan trọng.\\\\"
         },
         {
           "key": "promTlk2811",
           "occurrence": 1,
           "source": "等你等级达到68级后,去避难所找到灭魔元帅.他会给你非常巨大的奖励!\\\\",
-          "target": "等你等级达到68级后,去避难所找到灭魔元帅.他会给你非常巨大的奖励!\\\\"
+      "target": "Đạt cấp 68 rồi đến Nơi Tị Nạn gặp Nguyên Soái Diệt Ma. Ông ấy sẽ thưởng lớn cho ngươi!\\\\"
         },
         {
           "key": "promTlk2821",
           "occurrence": 1,
           "source": "你等级快要达到70级了!马上就能转生了!为了让你积累经验,我觉得让你去猎杀埋骨之地的怪物!\\\\",
-          "target": "你等级快要达到70级了!马上就能转生了!为了让你积累经验,我觉得让你去猎杀埋骨之地的怪物!\\\\"
+      "target": "Ngươi sắp đạt cấp 70, sắp Chuyển Sinh! Hãy săn quái ở Vùng Đất Chôn Xương để tích KN.\\\\"
         },
         {
           "key": "promTlk2831",
           "occurrence": 1,
           "source": "现在在让你最后一次去消灭黑暗教堂内的任意怪物吧.达到数量要求后直接去找凯恩吧!\\\\",
-          "target": "现在在让你最后一次去消灭黑暗教堂内的任意怪物吧.达到数量要求后直接去找凯恩吧!\\\\"
+      "target": "Lần cuối, hãy diệt quái trong Giáo Đường Hắc Ám. Đủ số lượng rồi tìm Cain ngay!\\\\"
         },
         {
           "key": "promTlk2841",
           "occurrence": 1,
           "source": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗森林内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Rừng Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk2851",
           "occurrence": 1,
           "source": "等级达到61级后在来找我.\\\\",
-          "target": "等级达到61级后在来找我.\\\\"
+      "target": "Đạt cấp 61 rồi hãy quay lại gặp ta.\\\\"
         },
         {
           "key": "promTlk2861",
           "occurrence": 1,
           "source": "消灭黑暗森林内的任意怪物.达到数量要求后回来找圣城凯恩交付.\\\\",
-          "target": "消灭黑暗森林内的任意怪物.达到数量要求后回来找圣城凯恩交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Rừng Hắc Ám. Đủ số lượng rồi về gặp Cain ở Thánh Thành giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk2871",
           "occurrence": 1,
           "source": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\",
-          "target": "消灭黑暗教堂内的任意怪物.达到数量要求后回来交付.\\\\"
+      "target": "Diệt bất kỳ quái nào trong Giáo Đường Hắc Ám. Đủ số lượng rồi về giao nhiệm vụ.\\\\"
         },
         {
           "key": "promTlk2881",
