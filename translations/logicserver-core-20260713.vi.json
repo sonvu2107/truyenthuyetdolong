@@ -30202,61 +30202,61 @@
           "key": "desc801",
           "occurrence": 1,
           "source": "完成任务后去找<阿卡拉/M屠龙城:189:138:阿卡拉>对话.",
-          "target": "完成任务后去找<阿卡拉/M屠龙城:189:138:阿卡拉>对话."
+          "target": "Hoàn thành nhiệm vụ rồi nói chuyện với <Akara/M屠龙城:189:138:阿卡拉>."
         },
         {
           "key": "desc8010",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:一直游走在伏魔谷的外围,偷袭人类,喜生食之,致伏魔谷成为一座孤立无援的城池.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:一直游走在伏魔谷的外围,偷袭人类,喜生食之,致伏魔谷成为一座孤立无援的城池."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Quái vật rình quanh Phục Ma Cốc, tập kích và ăn thịt người. Hãy tiêu diệt chúng!"
         },
         {
           "key": "desc8011",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:人魔交战,金刚的身影如一座大山,让很多战士无功而返,谁能撼动这被神诅咒的种族?",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:人魔交战,金刚的身影如一座大山,让很多战士无功而返,谁能撼动这被神诅咒的种族?"
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Kim Cang như núi lớn, khiến nhiều chiến sĩ thất bại. Ai có thể hạ tộc bị nguyền rủa này?"
         },
         {
           "key": "desc8012",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:巨人又袭击了一座小城池,数万人无一生还.这些该死的刽子手,肆无忌惮的袭击人类.终结者,神已经赐予灭亡.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:巨人又袭击了一座小城池,数万人无一生还.这些该死的刽子手,肆无忌惮的袭击人类.终结者,神已经赐予灭亡."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Người Khổng Lồ đã tàn sát một thị trấn. Hãy trừng phạt lũ đồ tể này!"
         },
         {
           "key": "desc8013",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:远古便居住在大陆之上,却甘投魔族阵营,觊觎人类丰饶的土地,对于叛变者人类无需仁慈,拿起武器诛灭它们.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:远古便居住在大陆之上,却甘投魔族阵营,觊觎人类丰饶的土地,对于叛变者人类无需仁慈,拿起武器诛灭它们."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Kẻ phản bội đã đầu quân cho Ma tộc, thèm khát đất đai loài người. Hãy tiêu diệt chúng!"
         },
         {
           "key": "desc8014",
           "occurrence": 1,
           "source": "<任务公告板/M屠龙城:36:46:任务公告板>:占据空中优势,经常落入谷中吃人,这等残忍畜生是所有人类的敌人.不用吝啬勇气,让怒雷咆哮在你的光芒中走向死亡吧.",
-          "target": "<任务公告板/M屠龙城:36:46:任务公告板>:占据空中优势,经常落入谷中吃人,这等残忍畜生是所有人类的敌人.不用吝啬勇气,让怒雷咆哮在你的光芒中走向死亡吧."
+          "target": "<Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>:Quái thú bay thường lao xuống thung lũng ăn thịt người. Hãy cho chúng biết sức mạnh của ngươi!"
         },
         {
           "key": "desc8015",
           "occurrence": 1,
           "source": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务.",
-          "target": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务."
+          "target": "Theo thông tin từ <Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>, hoàn thành nhiệm vụ được giao."
         },
         {
           "key": "desc8016",
           "occurrence": 1,
           "source": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务.",
-          "target": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务."
+          "target": "Theo thông tin từ <Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>, hoàn thành nhiệm vụ được giao."
         },
         {
           "key": "desc8017",
           "occurrence": 1,
           "source": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务.",
-          "target": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务."
+          "target": "Theo thông tin từ <Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>, hoàn thành nhiệm vụ được giao."
         },
         {
           "key": "desc8018",
           "occurrence": 1,
           "source": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务.",
-          "target": "按<任务公告板/M屠龙城:36:46:任务公告板>提供的信息,完成指定的任务."
+          "target": "Theo thông tin từ <Bảng Nhiệm Vụ/M屠龙城:36:46:任务公告板>, hoàn thành nhiệm vụ được giao."
         },
         {
           "key": "desc8019",
