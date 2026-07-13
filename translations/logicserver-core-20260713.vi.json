@@ -29788,55 +29788,55 @@
           "key": "desc521",
           "occurrence": 1,
           "source": "找到在圣城的<奥斯玛/M王城:84:66:奥斯玛>.",
-          "target": "找到在圣城的<奥斯玛/M王城:84:66:奥斯玛>."
+          "target": "Tìm <Osma/M王城:84:66:奥斯玛> ở Thánh Thành."
         },
         {
           "key": "desc522",
           "occurrence": 1,
           "source": "保护<唐玄奘/M五指山:0:0:唐玄奘>的安全,击退袭来的妖怪.",
-          "target": "保护<唐玄奘/M五指山:0:0:唐玄奘>的安全,击退袭来的妖怪."
+          "target": "Bảo vệ <Đường Huyền Trang/M五指山:0:0:唐玄奘>, đánh lui yêu quái tập kích."
         },
         {
           "key": "desc523",
           "occurrence": 1,
           "source": "跟<暗黑奶牛/M石块荒野:26:150:暗黑奶牛>对话.",
-          "target": "跟<暗黑奶牛/M石块荒野:26:150:暗黑奶牛>对话."
+          "target": "Nói chuyện với <Bò Hắc Ám/M石块荒野:26:150:暗黑奶牛>."
         },
         {
           "key": "desc524",
           "occurrence": 1,
           "source": "去邪恶洞穴内找到<暗黑法师/M邪恶的洞穴:105:112:暗黑法师>.",
-          "target": "去邪恶洞穴内找到<暗黑法师/M邪恶的洞穴:105:112:暗黑法师>."
+          "target": "Vào Hang Tà Ác tìm <Pháp Sư Hắc Ám/M邪恶的洞穴:105:112:暗黑法师>."
         },
         {
           "key": "desc525",
           "occurrence": 1,
           "source": "消灭沉沦祭司后回复<德鲁伊/M邪恶的洞穴:118:87:德鲁伊>.",
-          "target": "消灭沉沦祭司后回复<德鲁伊/M邪恶的洞穴:118:87:德鲁伊>."
+          "target": "Diệt Tế Tư Sa Ngã rồi báo cáo với <Druid/M邪恶的洞穴:118:87:德鲁伊>."
         },
         {
           "key": "desc526",
           "occurrence": 1,
           "source": "消灭骷髅怪后回复<威娜/M邪恶的洞穴:113:44:威娜>.",
-          "target": "消灭骷髅怪后回复<威娜/M邪恶的洞穴:113:44:威娜>."
+          "target": "Diệt Quái Cốt Lâu rồi báo cáo với <Vina/M邪恶的洞穴:113:44:威娜>."
         },
         {
           "key": "desc527",
           "occurrence": 1,
           "source": "消灭禽兽恶魔后回复<野蛮战士/M邪恶的洞穴:59:109:野蛮战士>.",
-          "target": "消灭禽兽恶魔后回复<野蛮战士/M邪恶的洞穴:59:109:野蛮战士>."
+          "target": "Diệt Ác Ma Thú rồi báo cáo với <Chiến Binh Man Tộc/M邪恶的洞穴:59:109:野蛮战士>."
         },
         {
           "key": "desc528",
           "occurrence": 1,
           "source": "消灭堕落罗格卫兵后回复<野蛮战士/M邪恶的洞穴:59:109:野蛮战士>.",
-          "target": "消灭堕落罗格卫兵后回复<野蛮战士/M邪恶的洞穴:59:109:野蛮战士>."
+          "target": "Diệt Vệ Binh Rogue Sa Ngã rồi báo cáo với <Chiến Binh Man Tộc/M邪恶的洞穴:59:109:野蛮战士>."
         },
         {
           "key": "desc529",
           "occurrence": 1,
           "source": "找到圣城外的<玫瑰露娜/M圣城:363:42:玫瑰露娜>.",
-          "target": "找到圣城外的<玫瑰露娜/M圣城:363:42:玫瑰露娜>."
+          "target": "Tìm <Rose Luna/M圣城:363:42:玫瑰露娜> ngoài Thánh Thành."
         },
         {
           "key": "desc53",
@@ -29848,7 +29848,7 @@
           "key": "desc530",
           "occurrence": 1,
           "source": "消灭利爪爬怪后找到<流浪刺客/M邪恶的洞穴:83:71:流浪刺客>.",
-          "target": "消灭利爪爬怪后找到<流浪刺客/M邪恶的洞穴:83:71:流浪刺客>."
+          "target": "Diệt Quái Bò Móng Vuốt rồi gặp <Sát Thủ Lang Thang/M邪恶的洞穴:83:71:流浪刺客>."
         },
         {
           "key": "desc531",
