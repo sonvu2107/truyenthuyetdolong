@@ -49040,43 +49040,43 @@
           "key": "n845",
           "occurrence": 1,
           "source": "强健体魄",
-          "target": "强健体魄"
+          "target": "Thể Phách Cường Tráng"
         },
         {
           "key": "i845",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\可以被动增加<(c0xFF00FFFF)人物与佣兵>的<(c0xFF00FFFF)生命值与魔法值上限>",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\可以被动增加<(c0xFF00FFFF)人物与佣兵>的<(c0xFF00FFFF)生命值与魔法值上限>"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 30> có thể học\\\\Tăng bị động <(c0xFF00FFFF)HP và MP tối đa> của <(c0xFF00FFFF)Nhân vật và Lính Đánh Thuê>"
         },
         {
           "key": "n846",
           "occurrence": 1,
           "source": "无敌戏法",
-          "target": "无敌戏法"
+          "target": "Bí Kỹ Vô Địch"
         },
         {
           "key": "i846",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\可以被动增加<(c0xFF00FFFF)人物与佣兵>的<(c0xFF00FFFF)所有最大攻击>",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\可以被动增加<(c0xFF00FFFF)人物与佣兵>的<(c0xFF00FFFF)所有最大攻击>"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 30> có thể học\\\\Tăng bị động <(c0xFF00FFFF)Toàn Bộ Công Tối Đa> của <(c0xFF00FFFF)Nhân vật và Lính Đánh Thuê>"
         },
         {
           "key": "n847",
           "occurrence": 1,
           "source": "天罡正气",
-          "target": "天罡正气"
+          "target": "Chính Khí Thiên Cang"
         },
         {
           "key": "i847",
           "occurrence": 1,
           "source": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\可以通过消灭<(c0xFF00FFFF)46级或以上>的野外怪物获得\\\\可以被动增加<(c0xFF00FFFF)人物与佣兵>的<(c0xFF00FFFF)所有最大防御>",
-          "target": "佣兵专用技能,<(c0xFF00FFFF)30级>或以上的佣兵可以学习\\\\可以通过消灭<(c0xFF00FFFF)46级或以上>的野外怪物获得\\\\可以被动增加<(c0xFF00FFFF)人物与佣兵>的<(c0xFF00FFFF)所有最大防御>"
+          "target": "Kỹ năng riêng Lính Đánh Thuê, từ <(c0xFF00FFFF)Cấp 30> có thể học\\\\Nhận khi hạ <(c0xFF00FFFF)quái ngoài trời Cấp 46+>\\\\Tăng bị động <(c0xFF00FFFF)Toàn Bộ Phòng Thủ Tối Đa> của <(c0xFF00FFFF)Nhân vật và Lính Đánh Thuê>"
         },
         {
           "key": "n848",
           "occurrence": 1,
           "source": "(双人)玫瑰种子(普)(废弃)",
-          "target": "(双人)玫瑰种子(普)(废弃)"
+          "target": "(Đôi) Hạt Giống Hoa Hồng (Thường) (Bỏ)"
         },
         {
           "key": "i848",
@@ -49088,7 +49088,7 @@
           "key": "n849",
           "occurrence": 1,
           "source": "(双人)玫瑰种子(良)(废弃)",
-          "target": "(双人)玫瑰种子(良)(废弃)"
+          "target": "(Đôi) Hạt Giống Hoa Hồng (Khá) (Bỏ)"
         },
         {
           "key": "i849",
@@ -49100,7 +49100,7 @@
           "key": "n850",
           "occurrence": 1,
           "source": "(双人)玫瑰种子(优)(废弃)",
-          "target": "(双人)玫瑰种子(优)(废弃)"
+          "target": "(Đôi) Hạt Giống Hoa Hồng (Tốt) (Bỏ)"
         },
         {
           "key": "i850",
@@ -49112,7 +49112,7 @@
           "key": "n851",
           "occurrence": 1,
           "source": "(单人)玫瑰种子(普)(废弃)",
-          "target": "(单人)玫瑰种子(普)(废弃)"
+          "target": "(Đơn) Hạt Giống Hoa Hồng (Thường) (Bỏ)"
         },
         {
           "key": "i851",
@@ -49124,7 +49124,7 @@
           "key": "n852",
           "occurrence": 1,
           "source": "(单人)玫瑰种子(良)(废弃)",
-          "target": "(单人)玫瑰种子(良)(废弃)"
+          "target": "(Đơn) Hạt Giống Hoa Hồng (Khá) (Bỏ)"
         },
         {
           "key": "i852",
@@ -49136,7 +49136,7 @@
           "key": "n853",
           "occurrence": 1,
           "source": "(单人)玫瑰种子(优)(废弃)",
-          "target": "(单人)玫瑰种子(优)(废弃)"
+          "target": "(Đơn) Hạt Giống Hoa Hồng (Tốt) (Bỏ)"
         },
         {
           "key": "i853",
