@@ -61616,55 +61616,55 @@
           "key": "n1893",
           "occurrence": 1,
           "source": "仓库开启卷轴",
-          "target": "仓库开启卷轴"
+          "target": "Cuộn Mở Kho"
         },
         {
           "key": "i1893",
           "occurrence": 1,
           "source": "辅助道具\\\\可以用来扩展仓库格子的神奇卷轴\\\\打开仓库界面,点击未开启的格子即可使用\\\\<(c0xFF00FF00)提示:可以在VIP日常礼包获得>",
-          "target": "辅助道具\\\\可以用来扩展仓库格子的神奇卷轴\\\\打开仓库界面,点击未开启的格子即可使用\\\\<(c0xFF00FF00)提示:可以在VIP日常礼包获得>"
+          "target": "Vật Phẩm Hỗ Trợ\\\\Cuộn thần kỳ dùng mở rộng ô Kho\\\\Mở giao diện Kho, nhấp ô chưa mở để dùng\\\\<(c0xFF00FF00)Gợi ý: nhận từ Gói VIP Hằng Ngày>"
         },
         {
           "key": "n1894",
           "occurrence": 1,
           "source": "兽魂丹",
-          "target": "兽魂丹"
+          "target": "Đan Hồn Thú"
         },
         {
           "key": "i1894",
           "occurrence": 1,
           "source": "双击使用\\\\增加1000点坐骑兽魂值\\\\坐骑1阶开启兽魂系统",
-          "target": "双击使用\\\\增加1000点坐骑兽魂值\\\\坐骑1阶开启兽魂系统"
+          "target": "Nhấp đúp để dùng\\\\Tăng 1000 điểm Hồn Thú Thú Cưỡi\\\\Thú Cưỡi Bậc 1 mở Hệ Thống Hồn Thú"
         },
         {
           "key": "n1895",
           "occurrence": 1,
           "source": "可回收的弃置物(废弃)",
-          "target": "可回收的弃置物(废弃)"
+          "target": "Rác Bỏ Có Thể Tái Chế (Bỏ)"
         },
         {
           "key": "i1895",
           "occurrence": 1,
           "source": "海滩上随处可见可回收的弃置物！保护环境，垃圾分类！将其捡起来扔到对应的垃圾桶能获得经验与沙滩人气值奖励",
-          "target": "海滩上随处可见可回收的弃置物！保护环境，垃圾分类！将其捡起来扔到对应的垃圾桶能获得经验与沙滩人气值奖励"
+          "target": "Rác bỏ có thể tái chế thấy khắp bãi biển! Bảo vệ môi trường, phân loại rác! Nhặt lên và bỏ vào thùng rác tương ứng nhận thưởng KN và điểm nổi tiếng Bãi Biển"
         },
         {
           "key": "n1896",
           "occurrence": 1,
           "source": "不可回收的弃置物(废弃)",
-          "target": "不可回收的弃置物(废弃)"
+          "target": "Rác Bỏ Không Thể Tái Chế (Bỏ)"
         },
         {
           "key": "i1896",
           "occurrence": 1,
           "source": "海滩上随处可见不可回收的弃置物！保护环境，垃圾分类！将其捡起来扔到对应的垃圾桶能获得经验与沙滩人气值奖励",
-          "target": "海滩上随处可见不可回收的弃置物！保护环境，垃圾分类！将其捡起来扔到对应的垃圾桶能获得经验与沙滩人气值奖励"
+          "target": "Rác bỏ không thể tái chế thấy khắp bãi biển! Bảo vệ môi trường, phân loại rác! Nhặt lên và bỏ vào thùng rác tương ứng nhận thưởng KN và điểm nổi tiếng Bãi Biển"
         },
         {
           "key": "n1897",
           "occurrence": 1,
           "source": "弃置的塑料袋(废弃)",
-          "target": "弃置的塑料袋(废弃)"
+          "target": "Túi Nhựa Bỏ Đi (Bỏ)"
         },
         {
           "key": "i1897",
@@ -61676,7 +61676,7 @@
           "key": "n1898",
           "occurrence": 1,
           "source": "弃置的易拉罐(废弃)",
-          "target": "弃置的易拉罐(废弃)"
+          "target": "Lon Nước Bỏ Đi (Bỏ)"
         },
         {
           "key": "i1898",
@@ -61688,7 +61688,7 @@
           "key": "n1899",
           "occurrence": 1,
           "source": "弃置的电池(废弃)",
-          "target": "弃置的电池(废弃)"
+          "target": "Pin Bỏ Đi (Bỏ)"
         },
         {
           "key": "i1899",
@@ -61700,7 +61700,7 @@
           "key": "n1900",
           "occurrence": 1,
           "source": "弃置的烟头(废弃)",
-          "target": "弃置的烟头(废弃)"
+          "target": "Mẩu Thuốc Lá Bỏ Đi (Bỏ)"
         },
         {
           "key": "i1900",
@@ -61712,7 +61712,7 @@
           "key": "n1901",
           "occurrence": 1,
           "source": "弃置的药品(废弃)",
-          "target": "弃置的药品(废弃)"
+          "target": "Thuốc Bỏ Đi (Bỏ)"
         },
         {
           "key": "i1901",
@@ -61724,7 +61724,7 @@
           "key": "n1902",
           "occurrence": 1,
           "source": "弃置的化妆品(废弃)",
-          "target": "弃置的化妆品(废弃)"
+          "target": "Mỹ Phẩm Bỏ Đi (Bỏ)"
         },
         {
           "key": "i1902",
@@ -61736,7 +61736,7 @@
           "key": "n1903",
           "occurrence": 1,
           "source": "弃置的玻璃瓶(废弃)",
-          "target": "弃置的玻璃瓶(废弃)"
+          "target": "Chai Thủy Tinh Bỏ Đi (Bỏ)"
         },
         {
           "key": "i1903",
