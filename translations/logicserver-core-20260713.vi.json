@@ -72548,97 +72548,97 @@
           "key": "n2804",
           "occurrence": 1,
           "source": "3000点战魂卷",
-          "target": "3000点战魂卷"
+          "target": "Cuộn Chiến Hồn 3000 Điểm"
         },
         {
           "key": "i2804",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)战魂值 3000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>",
-          "target": "双击即可获得<(c0xFF66CCFF)战魂值 3000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)3000 Điểm Chiến Hồn>\\\\<(c0xFF00ff00)Đến Đồ Long Thành gặp Sứ Giả Đổi Trang Bị để đổi Thần Giới, Kim Cương, Huy Chương>"
         },
         {
           "key": "n2805",
           "occurrence": 1,
           "source": "5000点战魂卷",
-          "target": "5000点战魂卷"
+          "target": "Cuộn Chiến Hồn 5000 Điểm"
         },
         {
           "key": "i2805",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)战魂值 5000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>",
-          "target": "双击即可获得<(c0xFF66CCFF)战魂值 5000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)5000 Điểm Chiến Hồn>\\\\<(c0xFF00ff00)Đến Đồ Long Thành gặp Sứ Giả Đổi Trang Bị để đổi Thần Giới, Kim Cương, Huy Chương>"
         },
         {
           "key": "n2806",
           "occurrence": 1,
           "source": "8000点战魂卷",
-          "target": "8000点战魂卷"
+          "target": "Cuộn Chiến Hồn 8000 Điểm"
         },
         {
           "key": "i2806",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)战魂值 8000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>",
-          "target": "双击即可获得<(c0xFF66CCFF)战魂值 8000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)8000 Điểm Chiến Hồn>\\\\<(c0xFF00ff00)Đến Đồ Long Thành gặp Sứ Giả Đổi Trang Bị để đổi Thần Giới, Kim Cương, Huy Chương>"
         },
         {
           "key": "n2807",
           "occurrence": 1,
           "source": "10000点战魂卷",
-          "target": "10000点战魂卷"
+          "target": "Cuộn Chiến Hồn 10000 Điểm"
         },
         {
           "key": "i2807",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)战魂值 10000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>",
-          "target": "双击即可获得<(c0xFF66CCFF)战魂值 10000 点>\\\\<(c0xFF00ff00)可以到屠龙城找装备兑换使者进行神戒,钻石,勋章兑换>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)10000 Điểm Chiến Hồn>\\\\<(c0xFF00ff00)Đến Đồ Long Thành gặp Sứ Giả Đổi Trang Bị để đổi Thần Giới, Kim Cương, Huy Chương>"
         },
         {
           "key": "n2808",
           "occurrence": 1,
           "source": "100点星魂卡",
-          "target": "100点星魂卡"
+          "target": "Thẻ Tinh Hồn 100 Điểm"
         },
         {
           "key": "i2808",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)星魂值 100 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>",
-          "target": "双击即可获得<(c0xFF66CCFF)星魂值 100 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)100 Điểm Tinh Hồn>\\\\<(c0xFF00ff00)Dùng phím tắt (ctrl+2) mở hệ thống Tinh Hồn để kích hoạt Điểm Sao>"
         },
         {
           "key": "n2809",
           "occurrence": 1,
           "source": "一阶宝石梦幻礼包",
-          "target": "一阶宝石梦幻礼包"
+          "target": "Gói Đá Quý Huyền Ảo Bậc 1"
         },
         {
           "key": "i2809",
           "occurrence": 1,
           "source": "开启礼包可随机获得一个 2级宝石",
-          "target": "开启礼包可随机获得一个 2级宝石"
+          "target": "Mở gói nhận ngẫu nhiên 1 Đá Quý Cấp 2"
         },
         {
           "key": "n2810",
           "occurrence": 1,
           "source": "二阶宝石梦幻礼包",
-          "target": "二阶宝石梦幻礼包"
+          "target": "Gói Đá Quý Huyền Ảo Bậc 2"
         },
         {
           "key": "i2810",
           "occurrence": 1,
           "source": "开启礼包可随机获得一个 2-3级的宝石",
-          "target": "开启礼包可随机获得一个 2-3级的宝石"
+          "target": "Mở gói nhận ngẫu nhiên 1 Đá Quý Cấp 2–3"
         },
         {
           "key": "n2811",
           "occurrence": 1,
           "source": "三阶宝石梦幻礼包",
-          "target": "三阶宝石梦幻礼包"
+          "target": "Gói Đá Quý Huyền Ảo Bậc 3"
         },
         {
           "key": "i2811",
           "occurrence": 1,
           "source": "开启礼包可随机获得一个 2-4级的宝石",
-          "target": "开启礼包可随机获得一个 2-4级的宝石"
+          "target": "Mở gói nhận ngẫu nhiên 1 Đá Quý Cấp 2–4"
         },
         {
           "key": "n2812",
