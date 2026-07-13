@@ -44654,25 +44654,25 @@
           "key": "i479",
           "occurrence": 1,
           "source": "辅助道具\\\\可用于<(c0xFF00FFFF)三倍>的离线经验找回<(c0xFFFFFF00)双击物品>可打开福利界面\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "辅助道具\\\\可用于<(c0xFF00FFFF)三倍>的离线经验找回<(c0xFFFFFF00)双击物品>可打开福利界面\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Vật phẩm hỗ trợ\\\\Dùng nhận lại KN Offline <(c0xFF00FFFF)x3><(c0xFFFFFF00)Nhấp đúp vật phẩm> mở giao diện Phúc Lợi\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n480",
           "occurrence": 1,
           "source": "5倍离线经验玉",
-          "target": "5倍离线经验玉"
+          "target": "Ngọc KN Offline x5"
         },
         {
           "key": "i480",
           "occurrence": 1,
           "source": "辅助道具\\\\可用于<(c0xFF00FFFF)五倍>的离线经验找回<(c0xFFFFFF00)双击物品>可打开福利界面\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "辅助道具\\\\可用于<(c0xFF00FFFF)五倍>的离线经验找回<(c0xFFFFFF00)双击物品>可打开福利界面\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Vật phẩm hỗ trợ\\\\Dùng nhận lại KN Offline <(c0xFF00FFFF)x5><(c0xFFFFFF00)Nhấp đúp vật phẩm> mở giao diện Phúc Lợi\\\\<(c0xFF00FF00)Mẹo: Mua tại Cửa Hàng>"
         },
         {
           "key": "n481",
           "occurrence": 1,
           "source": "排名奖励包(废弃)",
-          "target": "排名奖励包(废弃)"
+          "target": "Gói Thưởng Xếp Hạng (Bỏ)"
         },
         {
           "key": "i481",
@@ -44684,7 +44684,7 @@
           "key": "n482",
           "occurrence": 1,
           "source": "冲级奖励包(废弃)",
-          "target": "冲级奖励包(废弃)"
+          "target": "Gói Thưởng Đua Cấp (Bỏ)"
         },
         {
           "key": "i482",
@@ -44696,7 +44696,7 @@
           "key": "n483",
           "occurrence": 1,
           "source": "天下第一礼包(废弃)",
-          "target": "天下第一礼包(废弃)"
+          "target": "Gói Đệ Nhất Thiên Hạ (Bỏ)"
         },
         {
           "key": "i483",
@@ -44708,7 +44708,7 @@
           "key": "n484",
           "occurrence": 1,
           "source": "首冲礼包(废弃)",
-          "target": "首冲礼包(废弃)"
+          "target": "Gói Nạp Đầu (Bỏ)"
         },
         {
           "key": "i484",
@@ -44720,7 +44720,7 @@
           "key": "n485",
           "occurrence": 1,
           "source": "行会掌门包(废弃)",
-          "target": "行会掌门包(废弃)"
+          "target": "Gói Bang Chủ (Bỏ)"
         },
         {
           "key": "i485",
@@ -44732,7 +44732,7 @@
           "key": "n486",
           "occurrence": 1,
           "source": "活动礼包(废弃)",
-          "target": "活动礼包(废弃)"
+          "target": "Gói Sự Kiện (Bỏ)"
         },
         {
           "key": "i486",
@@ -44744,7 +44744,7 @@
           "key": "n487",
           "occurrence": 1,
           "source": "1阶礼包",
-          "target": "1阶礼包"
+          "target": "Gói Bậc 1"
         },
         {
           "key": "i487",
