@@ -25,6 +25,7 @@ $files = @(
 	@{ Source = 'client_shell.html'; Target = 'client_shell.html' },
 	@{ Source = 'client_frame.png'; Target = 'client_frame.png' },
 	@{ Source = 'game\GameConfig.php'; Target = 'game\GameConfig.php' },
+	@{ Source = 'game\static\common.js'; Target = 'game\static\common.js' },
     @{ Source = 'GameFrame.swf'; Target = 'GameFrame.swf' },
     @{ Source = 'ClientLang.txt'; Target = 'data\commonasset\ClientLang.txt' },
     @{ Source = 'lang\zh-cn\clientlang.cbp'; Target = 'data\lang\zh-cn\clientlang.cbp' },

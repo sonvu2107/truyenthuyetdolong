@@ -1,5 +1,5 @@
 {
-  "version": "20260711adminvi2",
+  "version": "20260713flashdetect1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -40,6 +40,11 @@
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
       "sha256": "08BD4A3BE3574D8DEE244BF5726F3FA54382642D174A8B3297830FFE26B4BA82"
+    },
+    {
+      "source": "assets/game/static/common.js",
+      "target": "game/static/common.js",
+      "sha256": "6737ADFB6CE36BC5AC1AD2AEDA38F942E3621C2B947C84DF27196F31BBE5997B"
     },
     {
       "source": "assets/game/djrm.php",
