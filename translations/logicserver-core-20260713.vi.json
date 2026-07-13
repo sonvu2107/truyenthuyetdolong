@@ -49850,7 +49850,7 @@
           "key": "i912",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下对应职业的物品:\\\\战士:苍狼战刀×1、苍狼战甲×1\\\\法师:先驱法杖×1、先驱法袍×1\\\\道士:撕裂之剑×1、撕裂战衣×1\\\\<(c0xFF00FF00)抢购大优惠：>不再辛苦打怪赚装备,直接<(c0xFF00FF00)2.4><(c0xFFFFFF00)折>入手！\\\\<(c0xFF00FF00)提示:限时抢购可获得>",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下对应职业的物品:\\\\战士:苍狼战刀×1、苍狼战甲×1\\\\法师:先驱法杖×1、先驱法袍×1\\\\道士:撕裂之剑×1、撕裂战衣×1\\\\<(c0xFF00FF00)抢购大优惠：>不再辛苦打怪赚装备,直接<(c0xFF00FF00)2.4><(c0xFFFFFF00)折>入手！\\\\<(c0xFF00FF00)提示:限时抢购可获得>"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận theo nghề:\\\\Chiến Sĩ: Đao Chiến Thương Lang ×1, Giáp Chiến Thương Lang ×1\\\\Pháp Sư: Trượng Tiên Phong ×1, Áo Pháp Tiên Phong ×1\\\\Đạo Sĩ: Kiếm Xé Rách ×1, Giáp Xé Rách ×1\\\\<(c0xFF00FF00)Ưu Đãi Sốc:> Không cần cày quái kiếm trang bị, giá chỉ <(c0xFF00FF00)2.4><(c0xFFFFFF00)phần mười>!\\\\<(c0xFF00FF00)Gợi Ý: nhận từ ưu đãi giới hạn>"
         },
         {
           "key": "n913",
@@ -49892,31 +49892,31 @@
           "key": "n916",
           "occurrence": 1,
           "source": "装备鉴定大礼包",
-          "target": "装备鉴定大礼包"
+          "target": "Gói Giám Định Trang Bị"
         },
         {
           "key": "i916",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\鉴定卷轴×99\\\\清洗药水×18\\\\鉴定锁×9",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\鉴定卷轴×99\\\\清洗药水×18\\\\鉴定锁×9"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Cuộn Giám Định ×99\\\\Thuốc Tẩy ×18\\\\Khóa Giám Định ×9"
         },
         {
           "key": "n917",
           "occurrence": 1,
           "source": "佣兵技能大礼包",
-          "target": "佣兵技能大礼包"
+          "target": "Gói Kỹ Năng Lính Đánh Thuê"
         },
         {
           "key": "i917",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>\\\\即可根据玩家职业，获得以下对应的物品:\\\\战士:佣兵半月×1、佣兵烈火×1、烈焰轰杀×1\\\\法师:佣兵冰咆哮×1、佣兵魔法盾×1、雷电轰杀×1\\\\道士:佣兵治愈×1、佣兵幽灵战甲×1、猛毒轰杀×1",
-          "target": "<(c0xFFFFFF00)双击使用>\\\\即可根据玩家职业，获得以下对应的物品:\\\\战士:佣兵半月×1、佣兵烈火×1、烈焰轰杀×1\\\\法师:佣兵冰咆哮×1、佣兵魔法盾×1、雷电轰杀×1\\\\道士:佣兵治愈×1、佣兵幽灵战甲×1、猛毒轰杀×1"
+          "target": "<(c0xFFFFFF00)Dùng>\\\\Nhận theo nghề:\\\\Chiến Sĩ: Bán Nguyệt Lính Đánh Thuê ×1, Liệt Hỏa Lính Đánh Thuê ×1, Oanh Sát Liệt Viêm ×1\\\\Pháp Sư: Băng Khiếu Lính Đánh Thuê ×1, Khiên Phép Lính Đánh Thuê ×1, Oanh Sát Lôi Điện ×1\\\\Đạo Sĩ: Trị Liệu Lính Đánh Thuê ×1, Giáp U Linh Lính Đánh Thuê ×1, Oanh Sát Mãnh Độc ×1"
         },
         {
           "key": "n918",
           "occurrence": 1,
           "source": "荣誉徽印(废弃)",
-          "target": "荣誉徽印(废弃)"
+          "target": "Ấn Danh Dự (Bỏ)"
         },
         {
           "key": "i918",
@@ -49928,25 +49928,25 @@
           "key": "n919",
           "occurrence": 1,
           "source": "佣兵升级大礼包",
-          "target": "佣兵升级大礼包"
+          "target": "Gói Nâng Cấp Lính Đánh Thuê"
         },
         {
           "key": "i919",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\佣兵经验水晶(大)×1\\\\佣兵经验水晶(中)×3\\\\佣兵经验水晶(小)×9",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\佣兵经验水晶(大)×1\\\\佣兵经验水晶(中)×3\\\\佣兵经验水晶(小)×9"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\Pha Lê KN Lính Đánh Thuê (Lớn) ×1\\\\Pha Lê KN Lính Đánh Thuê (Trung) ×3\\\\Pha Lê KN Lính Đánh Thuê (Nhỏ) ×9"
         },
         {
           "key": "n920",
           "occurrence": 1,
           "source": "佣兵升一级",
-          "target": "佣兵升一级"
+          "target": "Lính Đánh Thuê Lên 1 Cấp"
         },
         {
           "key": "i920",
           "occurrence": 1,
           "source": "<(c0x00d57140)佣兵的顶级升级道具>\\\\双击使用\\\\你目前召出的佣兵立即提升1级\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00) 等级越高,使用的效果越佳.>",
-          "target": "<(c0x00d57140)佣兵的顶级升级道具>\\\\双击使用\\\\你目前召出的佣兵立即提升1级\\\\<(c0xFF00FF00)建议:不要太早使用!>\\\\<(c0xFF00FF00) 等级越高,使用的效果越佳.>"
+          "target": "<(c0x00d57140)Vật phẩm lên cấp cực phẩm cho Lính Đánh Thuê>\\\\Dùng\\\\Lính Đánh Thuê đang triệu hồi lên ngay 1 cấp\\\\<(c0xFF00FF00)Gợi Ý: đừng dùng quá sớm!>\\\\<(c0xFF00FF00)Cấp càng cao, hiệu quả càng tốt.>"
         },
         {
           "key": "n921",
