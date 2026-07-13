@@ -46712,103 +46712,103 @@
           "key": "n651",
           "occurrence": 1,
           "source": "3万经验",
-          "target": "3万经验"
+          "target": "30K KN"
         },
         {
           "key": "i651",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)3万经验>",
-          "target": "双击可获得<(c0xFF00FFFF)3万经验>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)30K KN>"
         },
         {
           "key": "n652",
           "occurrence": 1,
           "source": "5万经验",
-          "target": "5万经验"
+          "target": "50K KN"
         },
         {
           "key": "i652",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)5万经验>",
-          "target": "双击可获得<(c0xFF00FFFF)5万经验>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)50K KN>"
         },
         {
           "key": "n653",
           "occurrence": 1,
           "source": "10万经验",
-          "target": "10万经验"
+          "target": "100K KN"
         },
         {
           "key": "i653",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)10万经验>",
-          "target": "双击可获得<(c0xFF00FFFF)10万经验>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)100K KN>"
         },
         {
           "key": "n654",
           "occurrence": 1,
           "source": "100万经验",
-          "target": "100万经验"
+          "target": "1000K KN"
         },
         {
           "key": "i654",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)100万经验>",
-          "target": "双击可获得<(c0xFF00FFFF)100万经验>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)1000K KN>"
         },
         {
           "key": "n655",
           "occurrence": 1,
           "source": "10000金币(废弃)",
-          "target": "10000金币(废弃)"
+          "target": "10K Vàng (Bỏ)"
         },
         {
           "key": "i655",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)10000金币>",
-          "target": "双击可获得<(c0xFF00FFFF)10000金币>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)10K Vàng>"
         },
         {
           "key": "n656",
           "occurrence": 1,
           "source": "30000金币(废弃)",
-          "target": "30000金币(废弃)"
+          "target": "30K Vàng (Bỏ)"
         },
         {
           "key": "i656",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)30000金币>",
-          "target": "双击可获得<(c0xFF00FFFF)30000金币>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)30K Vàng>"
         },
         {
           "key": "n657",
           "occurrence": 1,
           "source": "50000金币(废弃)",
-          "target": "50000金币(废弃)"
+          "target": "50K Vàng (Bỏ)"
         },
         {
           "key": "i657",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)5万金币>",
-          "target": "双击可获得<(c0xFF00FFFF)5万金币>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)50K Vàng>"
         },
         {
           "key": "n658",
           "occurrence": 1,
           "source": "100000金币(废弃)",
-          "target": "100000金币(废弃)"
+          "target": "100K Vàng (Bỏ)"
         },
         {
           "key": "i658",
           "occurrence": 1,
           "source": "双击可获得<(c0xFF00FFFF)100000金币>",
-          "target": "双击可获得<(c0xFF00FFFF)100000金币>"
+          "target": "Dùng để nhận <(c0xFF00FFFF)100K Vàng>"
         },
         {
           "key": "n659",
           "occurrence": 1,
           "source": "1000荣誉(废弃)",
-          "target": "1000荣誉(废弃)"
+          "target": "1K Danh Dự (Bỏ)"
         },
         {
           "key": "i659",
@@ -46820,7 +46820,7 @@
           "key": "n660",
           "occurrence": 1,
           "source": "3000荣誉(废弃)",
-          "target": "3000荣誉(废弃)"
+          "target": "3K Danh Dự (Bỏ)"
         },
         {
           "key": "i660",
@@ -46832,7 +46832,7 @@
           "key": "n661",
           "occurrence": 1,
           "source": "5000荣誉(废弃)",
-          "target": "5000荣誉(废弃)"
+          "target": "5K Danh Dự (Bỏ)"
         },
         {
           "key": "i661",
@@ -46844,7 +46844,7 @@
           "key": "n662",
           "occurrence": 1,
           "source": "10000荣誉(废弃)",
-          "target": "10000荣誉(废弃)"
+          "target": "10K Danh Dự (Bỏ)"
         },
         {
           "key": "i662",
@@ -46856,55 +46856,55 @@
           "key": "n663",
           "occurrence": 1,
           "source": "金砖",
-          "target": "金砖"
+          "target": "Gạch Vàng"
         },
         {
           "key": "i663",
           "occurrence": 1,
           "source": "双击使用\\\\获得50万金币\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\获得50万金币\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Nhận 500K Vàng\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n664",
           "occurrence": 1,
           "source": "金盒",
-          "target": "金盒"
+          "target": "Hộp Vàng"
         },
         {
           "key": "i664",
           "occurrence": 1,
           "source": "双击使用\\\\获得100万金币\\\\<(c0xFF00FF00)提示:可通过商城购买获得>",
-          "target": "双击使用\\\\获得100万金币\\\\<(c0xFF00FF00)提示:可通过商城购买获得>"
+          "target": "Dùng\\\\Nhận 1000K Vàng\\\\<(c0xFF00FF00)Gợi ý: mua ở Shop>"
         },
         {
           "key": "n665",
           "occurrence": 1,
           "source": "屠龙卷轴",
-          "target": "屠龙卷轴"
+          "target": "Cuộn Đồ Long"
         },
         {
           "key": "i665",
           "occurrence": 1,
           "source": "用于免费屠龙的道具!\\\\想要各种珍稀极品道具就来屠龙吧\\\\<(c0xFFFFFF00)双击物品>可打开屠龙界面进行<(c0xFF00FFFF)屠龙>操作",
-          "target": "用于免费屠龙的道具!\\\\想要各种珍稀极品道具就来屠龙吧\\\\<(c0xFFFFFF00)双击物品>可打开屠龙界面进行<(c0xFF00FFFF)屠龙>操作"
+          "target": "Vật phẩm dùng Đồ Long miễn phí!\\\\Muốn nhận vật phẩm hiếm cực phẩm, hãy Đồ Long!\\\\<(c0xFFFFFF00)Dùng> để mở giao diện Đồ Long và thao tác <(c0xFF00FFFF)Đồ Long>"
         },
         {
           "key": "n666",
           "occurrence": 1,
           "source": "装备升级材料盒",
-          "target": "装备升级材料盒"
+          "target": "Hộp Đá Nâng Cấp Trang Bị"
         },
         {
           "key": "i666",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得:\\\\<(c0xFFFFFF00)装备升级石>x4",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得:\\\\<(c0xFFFFFF00)装备升级石>x4"
+          "target": "<(c0xFFFFFF00)Dùng> để nhận:\\\\<(c0xFFFFFF00)Đá Nâng Cấp Trang Bị>x4"
         },
         {
           "key": "n667",
           "occurrence": 1,
           "source": "3转神•战镯123(废弃)",
-          "target": "3转神•战镯123(废弃)"
+          "target": "Thần • Vòng Chiến CS 3 123 (Bỏ)"
         },
         {
           "key": "i667",
@@ -46916,13 +46916,13 @@
           "key": "n668",
           "occurrence": 1,
           "source": "恶魔之力(9档)",
-          "target": "恶魔之力(9档)"
+          "target": "Sức Mạnh Ma Quỷ (Bậc 9)"
         },
         {
           "key": "i668",
           "occurrence": 1,
           "source": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)恶魔之力(9档)>",
-          "target": "双击使用：可把翅膀系统升级为<(c0xFFFFFAF0)恶魔之力(9档)>"
+          "target": "Dùng: nâng Cánh thành <(c0xFFFFFAF0)Sức Mạnh Ma Quỷ (Bậc 9)>"
         },
         {
           "key": "n669",
