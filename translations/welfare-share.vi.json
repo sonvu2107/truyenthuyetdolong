@@ -1,0 +1,487 @@
+{
+  "format": 1,
+  "file": "welFare.cbp",
+  "description": "Việt hóa nội dung chia sẻ Phúc lợi và loại bỏ thương hiệu, liên kết 91wan đã cũ.",
+  "translations": {
+    "CourseShare.ShareBase.0.InfoByPT.spid91w.0": {
+      "source": "“墙裂”推荐91wan《暗黑屠龙》！大家都来了，你还在等什么呢！",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spid91w.1": {
+      "source": "“墙裂”推荐91wan《暗黑屠龙》！大家都来了，你还在等什么呢！",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spid91w.2": {
+      "source": "“墙裂”推荐91wan《暗黑屠龙》！大家都来了，你还在等什么呢！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spid91w.3": {
+      "source": "“墙裂”推荐91wan《暗黑屠龙》！大家都来了，你还在等什么呢！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spid937.0": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spid937.1": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spid937.2": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spid937.3": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidxyl.0": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidxyl.1": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidxyl.2": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidxyl.3": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidvst.0": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidvst.1": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidvst.2": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.InfoByPT.spidvst.3": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.0.Info": {
+      "source": "我正在玩暗黑屠龙,跟我一起来抢BOSS,刷极品装备吧!",
+      "target": "Cùng mình săn BOSS và kiếm trang bị hiếm trong Âm Hắc Đồ Long OL!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidxyl.0": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidxyl.1": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidxyl.2": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidxyl.3": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid91w.0": {
+      "source": "从今天起，我不玩游戏，玩只玩91wan《暗黑屠龙》，天天登录游戏，千万经验、金币大放送，谁也阻止不了我升级！",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid91w.1": {
+      "source": "从今天起，我不玩游戏，玩只玩91wan《暗黑屠龙》，天天登录游戏，千万经验、金币大放送，谁也阻止不了我升级！",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid91w.2": {
+      "source": "从今天起，我不玩游戏，玩只玩91wan《暗黑屠龙》，天天登录游戏，千万经验、金币大放送，谁也阻止不了我升级！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid91w.3": {
+      "source": "从今天起，我不玩游戏，玩只玩91wan《暗黑屠龙》，天天登录游戏，千万经验、金币大放送，谁也阻止不了我升级！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid937.0": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid937.1": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid937.2": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spid937.3": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidvst.0": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidvst.1": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidvst.2": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.InfoByPT.spidvst.3": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.1.Info": {
+      "source": "我正在玩暗黑屠龙,天天登陆游戏,领取丰厚全勤奖励!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Đăng nhập mỗi ngày để nhận quà chuyên cần!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidxyl.0": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidxyl.1": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidxyl.2": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidxyl.3": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid91w.0": {
+      "source": "想玩就玩，想上就上，91wan《暗黑屠龙》小秘书教你抢宝石升宝石，别说我没告诉你！",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid91w.1": {
+      "source": "想玩就玩，想上就上，91wan《暗黑屠龙》小秘书教你抢宝石升宝石，别说我没告诉你！",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid91w.2": {
+      "source": "想玩就玩，想上就上，91wan《暗黑屠龙》小秘书教你抢宝石升宝石，别说我没告诉你！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid91w.3": {
+      "source": "想玩就玩，想上就上，91wan《暗黑屠龙》小秘书教你抢宝石升宝石，别说我没告诉你！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid937.0": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid937.1": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid937.2": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spid937.3": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidvst.0": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidvst.1": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidvst.2": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.InfoByPT.spidvst.3": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.2.Info": {
+      "source": "我正在玩暗黑屠龙,拉风炫丽的宝石特效晃瞎你的眼!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Hiệu ứng ngọc rực rỡ, lực chiến tăng vọt!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidxyl.0": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidxyl.1": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidxyl.2": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidxyl.3": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid91w.0": {
+      "source": "哎呀妈呀，这一溜烟的功夫升了几十级，必须高富帅的节奏啊！果断加入91wan《暗黑屠龙》，体验飙车升级速度！",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid91w.1": {
+      "source": "哎呀妈呀，这一溜烟的功夫升了几十级，必须高富帅的节奏啊！果断加入91wan《暗黑屠龙》，体验飙车升级速度！",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid91w.2": {
+      "source": "哎呀妈呀，这一溜烟的功夫升了几十级，必须高富帅的节奏啊！果断加入91wan《暗黑屠龙》，体验飙车升级速度！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid91w.3": {
+      "source": "哎呀妈呀，这一溜烟的功夫升了几十级，必须高富帅的节奏啊！果断加入91wan《暗黑屠龙》，体验飙车升级速度！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid937.0": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid937.1": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid937.2": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spid937.3": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidvst.0": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidvst.1": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidvst.2": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.InfoByPT.spidvst.3": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.3.Info": {
+      "source": "我正在玩暗黑屠龙,等级又升了一级,更加强力了!",
+      "target": "Mình vừa tăng cấp trong Âm Hắc Đồ Long OL. Sức mạnh lại tiến thêm một bậc!"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidxyl.0": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidxyl.1": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidxyl.2": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidxyl.3": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid91w.0": {
+      "source": "没有法拉利？没关系！没有劳斯莱斯？没关系！来91wan《暗黑屠龙》，绝版“高大上”坐骑等你骑！你才是它真正的主人！",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid91w.1": {
+      "source": "没有法拉利？没关系！没有劳斯莱斯？没关系！来91wan《暗黑屠龙》，绝版“高大上”坐骑等你骑！你才是它真正的主人！",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid91w.2": {
+      "source": "没有法拉利？没关系！没有劳斯莱斯？没关系！来91wan《暗黑屠龙》，绝版“高大上”坐骑等你骑！你才是它真正的主人！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid91w.3": {
+      "source": "没有法拉利？没关系！没有劳斯莱斯？没关系！来91wan《暗黑屠龙》，绝版“高大上”坐骑等你骑！你才是它真正的主人！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid937.0": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid937.1": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid937.2": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spid937.3": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidvst.0": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidvst.1": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidvst.2": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.InfoByPT.spidvst.3": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.4.Info": {
+      "source": "我正在玩暗黑屠龙,霸气四射的坐骑,谁能挡我?",
+      "target": "Tọa kỵ cực ngầu trong Âm Hắc Đồ Long OL, ai dám cản đường?"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidxyl.0": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidxyl.1": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidxyl.2": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidxyl.3": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid91w.0": {
+      "source": "做！爱做的事！上91wan《暗黑屠龙》来PK！符文在身，圆你一颗土豪心！",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid91w.1": {
+      "source": "做！爱做的事！上91wan《暗黑屠龙》来PK！符文在身，圆你一颗土豪心！",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid91w.2": {
+      "source": "做！爱做的事！上91wan《暗黑屠龙》来PK！符文在身，圆你一颗土豪心！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid91w.3": {
+      "source": "做！爱做的事！上91wan《暗黑屠龙》来PK！符文在身，圆你一颗土豪心！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid937.0": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid937.1": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid937.2": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spid937.3": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidvst.0": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidvst.1": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidvst.2": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.InfoByPT.spidvst.3": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.5.Info": {
+      "source": "我正在玩暗黑屠龙,符文,一切皆有可能!",
+      "target": "Mình đang chơi Âm Hắc Đồ Long OL. Phù văn mạnh, chiến lực bứt phá!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidxyl.0": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidxyl.1": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidxyl.2": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidxyl.3": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid91w.0": {
+      "source": "不在沉默中爆发，就在沉默中死亡！来91wan《暗黑屠龙》，和兄弟一起刷装备抢装备，唤醒你心中的暗黑力量，成为新一代英雄！",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid91w.1": {
+      "source": "不在沉默中爆发，就在沉默中死亡！来91wan《暗黑屠龙》，和兄弟一起刷装备抢装备，唤醒你心中的暗黑力量，成为新一代英雄！",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid91w.2": {
+      "source": "不在沉默中爆发，就在沉默中死亡！来91wan《暗黑屠龙》，和兄弟一起刷装备抢装备，唤醒你心中的暗黑力量，成为新一代英雄！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid91w.3": {
+      "source": "不在沉默中爆发，就在沉默中死亡！来91wan《暗黑屠龙》，和兄弟一起刷装备抢装备，唤醒你心中的暗黑力量，成为新一代英雄！http://ahtl.91wan.com/，91wan《暗黑屠龙》是一款暗黑魔幻风格的大型多人在线对战ARPG网页游戏。拥有丰富多样的PVE活动副本和紧张刺激的PVP对抗内容，独特攻击方式的怪物和暗黑大菠萝等史诗级BOSS等你来挑战，同时特有的霸炫装备、酷炫坐骑、超炫翅膀以及万人攻城让你体验死亡圣战的激情。",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid937.0": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid937.1": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid937.2": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spid937.3": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidvst.0": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidvst.1": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidvst.2": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.InfoByPT.spidvst.3": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    },
+    "CourseShare.ShareBase.6.Info": {
+      "source": "我正在玩暗黑屠龙,装备发光啦!",
+      "target": "Trang bị của mình trong Âm Hắc Đồ Long OL đã phát sáng rồi!"
+    }
+  },
+  "metadata": {
+    "visible_han_entries": 119,
+    "unique_source_values": 21
+  }
+}

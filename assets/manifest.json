@@ -1,5 +1,5 @@
 {
-  "version": "20260714questvip1",
+  "version": "20260714npcwelfare1",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -19,7 +19,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "0575ADBC07A5FF73C416CB24D3B32AA24F92B9FD48B7E3BC0A1389DA41D46A4C"
+      "sha256": "97BC9DCD35B0201748D4D2469E2D116932F56C20625EABD45E298EB30FA2D770"
     },
     {
       "source": "assets/ClientLang.txt",
@@ -34,7 +34,7 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "4B05DAB5F19EEE3683C71876509FD382FC77D8B389EFF035DB738022A9FCAE64"
+      "sha256": "BFF7D3BEAB1256F2F08C165569BF34D359EB3C6791D4B61733BF15329EF87EED"
     },
     {
       "source": "assets/game/GameConfig.php",

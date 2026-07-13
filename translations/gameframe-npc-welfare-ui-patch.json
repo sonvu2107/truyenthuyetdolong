@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Chuẩn hóa font tiếng Việt và giảm cỡ chữ cho giao diện NPC + Phúc lợi.",
+  "classes": {
+    "view.game.components.label.SimpleLinkLabel": {
+      "font": "Tahoma",
+      "size": "dynamic"
+    },
+    "view.game.npc.components.FuncListItemRender": {
+      "font": "Tahoma",
+      "size": 12
+    },
+    "view.game.npc.NPCTalkWin": {
+      "font": "Tahoma",
+      "size": "preserve"
+    },
+    "view.game.welfare.page.WelFareLevelUpPage": {
+      "font": "Tahoma",
+      "size_changes": [
+        "24->20",
+        "18->16"
+      ]
+    },
+    "view.game.welfare.page.WelFareNoticePage": {
+      "font": "Tahoma",
+      "size_changes": [
+        "18->16"
+      ]
+    },
+    "view.game.welfare.page.WelFareSurprisePage1": {
+      "font": "Tahoma",
+      "size_changes": [
+        "18->16"
+      ]
+    },
+    "view.game.welfare.page.WellFareLandingRewardPage": {
+      "font": "Tahoma",
+      "size_changes": [
+        "24->20"
+      ]
+    }
+  }
+}

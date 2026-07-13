@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "active": true,
+  "description": "Biên tập câu chữ NPC và Phúc lợi, giữ nguyên placeholder và markup.",
+  "overrides": {
+    "npc[7]": {
+      "source": "Đạo cụ bán ra",
+      "target": "Vật phẩm đang bán",
+      "category": "npc"
+    },
+    "npc[11]": {
+      "source": "Ngươi muốn dùng <font color = '#00FF00'>$money$</font> $type$ để chuộc lại <font color = '#00FF00'>$item$</font> không?",
+      "target": "Bạn có muốn dùng <font color = '#00FF00'>$money$</font> $type$ để chuộc lại <font color = '#00FF00'>$item$</font> không?",
+      "category": "npc"
+    },
+    "npc[23]": {
+      "source": "\t\t\t\tNgươi chắc chắn muốn sửa chữa ",
+      "target": "\t\t\t\tBạn có chắc muốn sửa chữa ",
+      "category": "npc"
+    },
+    "npc[25]": {
+      "source": "\t\t\t\tNgươi chắc chắn muốn sửa tất cả trang bị trong hành trang không?<BR>",
+      "target": "\t\t\t\tBạn có chắc muốn sửa toàn bộ trang bị trong hành trang không?<BR>",
+      "category": "npc"
+    },
+    "npc[26]": {
+      "source": "\t\t\t\tNgươi chắc chắn muốn sửa tất cả trang bị trên người không?<BR>",
+      "target": "\t\t\t\tBạn có chắc muốn sửa toàn bộ trang bị đang mặc không?<BR>",
+      "category": "npc"
+    },
+    "npc[32]": {
+      "source": "$MoneyType$ của ngươi không đủ để mua vật phẩm này",
+      "target": "$MoneyType$ của bạn không đủ để mua vật phẩm này.",
+      "category": "npc"
+    },
+    "npc[35]": {
+      "source": "Mỗi lần chỉ có thể mua một loại hàng hóa, giới hạn mua một cái",
+      "target": "Mỗi lần chỉ được mua một loại hàng, số lượng tối đa là 1.",
+      "category": "npc"
+    },
+    "welfare[107]": {
+      "source": "Nạp Thẻ đứng thứ nhất, Nạp Thẻ đứng thứ hai, Nạp Thẻ đứng thứ ba",
+      "target": "Hạng 1 nạp thẻ,Hạng 2 nạp thẻ,Hạng 3 nạp thẻ",
+      "category": "welfare"
+    },
+    "welfare[108]": {
+      "source": "<font color='#ffd800' size='15'><b> đổi lấy </b></font>",
+      "target": "<font color='#ffd800' size='14'><b>Đổi thưởng</b></font>",
+      "category": "welfare"
+    },
+    "welfare[109]": {
+      "source": "<font color='#ffd800' size='15'><b>Nạp Đầu Gộp</b></font>",
+      "target": "<font color='#ffd800' size='14'><b>Nạp đầu sau gộp máy chủ</b></font>",
+      "category": "welfare"
+    },
+    "welfare[110]": {
+      "source": "<font color='#ffd800' size='15'><b>Chúa tể Shachen đầu tiên</b></font>",
+      "target": "<font color='#ffd800' size='14'><b>Thành chủ Sa Thành đầu tiên</b></font>",
+      "category": "welfare"
+    },
+    "welfare[111]": {
+      "source": "<font color='#ffd800' size='15'><b> Liên tục bảo vệ Chúa thành phố cát </b></font>",
+      "target": "<font color='#ffd800' size='14'><b>Liên tiếp giữ ngôi Thành chủ Sa Thành</b></font>",
+      "category": "welfare"
+    },
+    "welfare[112]": {
+      "source": "<font size = '22'color = '#ffde00'><b> Chuyển ngay tới </b></font>",
+      "target": "<font size='18' color='#ffde00'><b>Đến ngay</b></font>",
+      "category": "welfare"
+    },
+    "welfare[113]": {
+      "source": "Vị trí đầu tiên Chiến Sĩ, vị trí đầu tiên Pháp Sư, vị trí đầu tiên Đạo Sĩ",
+      "target": "Chiến Sĩ hạng nhất,Pháp Sư hạng nhất,Đạo Sĩ hạng nhất",
+      "category": "welfare"
+    },
+    "welfare[114]": {
+      "source": "<font color='#ffffff' size='13'><b>Hiện tại có điểm quy đổi:</b></font><font color='#ffd800' size='13'><b>$num$</b></font>",
+      "target": "<font color='#ffffff' size='13'><b>Điểm quy đổi hiện có: </b></font><font color='#ffd800' size='13'><b>$num$</b></font>",
+      "category": "welfare"
+    },
+    "welfare[115]": {
+      "source": "Danh sách vẫn chưa được lập",
+      "target": "Chưa có dữ liệu xếp hạng",
+      "category": "welfare"
+    },
+    "welfare[116]": {
+      "source": "Điểm $num$ có thể được đổi",
+      "target": "Có thể đổi bằng $num$ điểm",
+      "category": "welfare"
+    },
+    "welfare[117]": {
+      "source": "Không đủ điểm không thể đổi được",
+      "target": "Không đủ điểm để đổi",
+      "category": "welfare"
+    },
+    "welfare[118]": {
+      "source": "Gộp:<font color='#cc9966' size='15'> </font><font color='#ffd800' size='15'><b>$num$</b></font>",
+      "target": "Số lần gộp:<font color='#cc9966' size='15'> </font><font color='#ffd800' size='15'><b>$num$</b></font>",
+      "category": "welfare"
+    },
+    "welfare[119]": {
+      "source": "Số máy chủ <font color='#cc9966' size='15'>: </font><font color='#ffd800' size='15'><b>$num$ ngày </b></font>",
+      "target": "Máy chủ đã mở<font color='#cc9966' size='15'>: </font><font color='#ffd800' size='15'><b>$num$ ngày</b></font>",
+      "category": "welfare"
+    },
+    "welfare[122]": {
+      "source": "<font color='#0ae8ad' size='18'><b>Chúa thành phố đầu tiên Phần Thưởng：</b></font><br><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><br><font color='#0ae8ad' size='18'><b>Phó lãnh đạo TP.Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><font color='#0ae8ad' size='18'><b>Các thành viên khác của thành phố Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font>",
+      "target": "<font color='#0ae8ad' size='16'><b>Thưởng Thành chủ đầu tiên:</b></font><br><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><br><font color='#0ae8ad' size='16'><b>Thưởng Phó thành chủ:</b></font><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><font color='#0ae8ad' size='16'><b>Thưởng thành viên khác:</b></font><br><br><font color='#ffff00' size='15'>         $num$</font>",
+      "category": "welfare"
+    },
+    "welfare[123]": {
+      "source": "<font color='#0ae8ad' size='18'><b>Chúa thành phố Phần Thưởng：</b></font><br><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><br><font color='#0ae8ad' size='18'><b>Phó lãnh đạo TP.Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><font color='#0ae8ad' size='18'><b>Các thành viên khác của thành phố Phần Thưởng：</b></font><br><br><font color='#ffff00' size='15'>         $num$</font>",
+      "target": "<font color='#0ae8ad' size='16'><b>Thưởng Thành chủ:</b></font><br><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><br><font color='#0ae8ad' size='16'><b>Thưởng Phó thành chủ:</b></font><br><br><font color='#ffff00' size='15'>         $num$</font><br><br><font color='#0ae8ad' size='16'><b>Thưởng thành viên khác:</b></font><br><br><font color='#ffff00' size='15'>         $num$</font>",
+      "category": "welfare"
+    },
+    "welfare[124]": {
+      "source": "<font color='#0ae8ad' size='13'>Chủ sở hữu thành phố đầu tiên Trang Bị hiển thị </font>",
+      "target": "<font color='#0ae8ad' size='13'>Trưng bày trang bị của Thành chủ đầu tiên</font>",
+      "category": "welfare"
+    },
+    "welfare[125]": {
+      "source": "<font color='#0ae8ad' size='13'> thay đổi quyền sở hữu đầu tiên Trang Bị màn hình </font>",
+      "target": "<font color='#0ae8ad' size='13'>Trưng bày trang bị khi đổi Thành chủ</font>",
+      "category": "welfare"
+    },
+    "welfare[126]": {
+      "source": "Sau sự kiện <font color='#ffffff' size='13'>, Phần Thưởng sẽ được phân phối tới người chơi</font> qua [email]",
+      "target": "Sau sự kiện, <font color='#ffffff' size='13'>phần thưởng sẽ được gửi cho người chơi</font> qua thư.",
+      "category": "welfare"
+    },
+    "welfare[127]": {
+      "source": "<font color='#ffffff' size='13'>Xem xếp hạng sức mạnh chiến đấu </font>",
+      "target": "<font color='#ffffff' size='13'>Xem bảng xếp hạng lực chiến</font>",
+      "category": "welfare"
+    }
+  }
+}
