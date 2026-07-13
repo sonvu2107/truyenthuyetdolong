@@ -49412,61 +49412,61 @@
           "key": "n876",
           "occurrence": 1,
           "source": "花篮(废弃)",
-          "target": "花篮(废弃)"
+          "target": "Giỏ Hoa (Bỏ)"
         },
         {
           "key": "i876",
           "occurrence": 1,
           "source": "双击使用,会在原地刷出花篮,持续1个小时\\\\只能在鸳鸯祠、教堂和天宫中使用",
-          "target": "双击使用,会在原地刷出花篮,持续1个小时\\\\只能在鸳鸯祠、教堂和天宫中使用"
+          "target": "Dùng tạo Giỏ Hoa tại chỗ, tồn tại 1 giờ\\\\Chỉ dùng ở Từ Đường Uyên Ương, Nhà Thờ và Thiên Cung"
         },
         {
           "key": "n877",
           "occurrence": 1,
           "source": "行会花篮(废弃)",
-          "target": "行会花篮(废弃)"
+          "target": "Giỏ Hoa Bang Hội (Bỏ)"
         },
         {
           "key": "i877",
           "occurrence": 1,
           "source": "双击使用,会在原地刷出行会花篮,持续1个小时\\\\只能在鸳鸯祠、教堂和天宫中使用",
-          "target": "双击使用,会在原地刷出行会花篮,持续1个小时\\\\只能在鸳鸯祠、教堂和天宫中使用"
+          "target": "Dùng tạo Giỏ Hoa Bang Hội tại chỗ, tồn tại 1 giờ\\\\Chỉ dùng ở Từ Đường Uyên Ương, Nhà Thờ và Thiên Cung"
         },
         {
           "key": "n878",
           "occurrence": 1,
           "source": "喜糖(废弃)",
-          "target": "喜糖(废弃)"
+          "target": "Kẹo Cưới (Bỏ)"
         },
         {
           "key": "i878",
           "occurrence": 1,
           "source": "双击使用给予加经验BUFF",
-          "target": "双击使用给予加经验BUFF"
+          "target": "Dùng để nhận buff KN"
         },
         {
           "key": "n879",
           "occurrence": 1,
           "source": "喜酒(废弃)",
-          "target": "喜酒(废弃)"
+          "target": "Rượu Cưới (Bỏ)"
         },
         {
           "key": "i879",
           "occurrence": 1,
           "source": "双击使用给予加经验BUFF",
-          "target": "双击使用给予加经验BUFF"
+          "target": "Dùng để nhận buff KN"
         },
         {
           "key": "n880",
           "occurrence": 1,
           "source": "永恒钻戒(废弃)",
-          "target": "永恒钻戒(废弃)"
+          "target": "Nhẫn Kim Cương Vĩnh Hằng (Bỏ)"
         },
         {
           "key": "i880",
           "occurrence": 1,
           "source": "晶透莹光爱耀眼,钻戒恒久心相牵\\\\无畏异地爱恋,晶钻永恒相牵\\\\<(c0xFF00FF00)3>个<(c0xFF00FF00)永恒钻戒>可以升级成一个<(c0xFF00FF00)高级永恒钻戒>！",
-          "target": "晶透莹光爱耀眼,钻戒恒久心相牵\\\\无畏异地爱恋,晶钻永恒相牵\\\\<(c0xFF00FF00)3>个<(c0xFF00FF00)永恒钻戒>可以升级成一个<(c0xFF00FF00)高级永恒钻戒>！"
+          "target": "Ánh kim cương trong trẻo, tình yêu bền lâu\\\\Dù xa cách, trái tim vẫn gắn kết\\\\<(c0xFF00FF00)3> <(c0xFF00FF00)Nhẫn Vĩnh Hằng> nâng thành <(c0xFF00FF00)Nhẫn Vĩnh Hằng Cao Cấp>!"
         },
         {
           "key": "n881",
