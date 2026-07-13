@@ -44870,61 +44870,61 @@
           "key": "i497",
           "occurrence": 1,
           "source": "双击使用\\\\<(c0xFF00FFFF)100%>增加当前武器<(c0xFF00FFFF)1点>幸运值\\\\最多可以将武器的附加幸运强化到<(c0xFF00FFFF)+7>\\\\当人物的幸运值达到<(c0xFF00FFFF)9或以上>时,每次攻击都能造成<(c0xFF00FFFF)最大>伤害",
-          "target": "双击使用\\\\<(c0xFF00FFFF)100%>增加当前武器<(c0xFF00FFFF)1点>幸运值\\\\最多可以将武器的附加幸运强化到<(c0xFF00FFFF)+7>\\\\当人物的幸运值达到<(c0xFF00FFFF)9或以上>时,每次攻击都能造成<(c0xFF00FFFF)最大>伤害"
+          "target": "Nhấp đúp dùng\\\\<(c0xFF00FFFF)100%> tăng <(c0xFF00FFFF)1 điểm> May Mắn cho vũ khí hiện tại\\\\Tăng May Mắn cộng thêm của vũ khí tối đa đến <(c0xFF00FFFF)+7>\\\\Khi May Mắn đạt <(c0xFF00FFFF)9 trở lên>, mỗi đòn đánh gây <(c0xFF00FFFF)Sát Thương Tối Đa>"
         },
         {
           "key": "n498",
           "occurrence": 1,
           "source": "护身符",
-          "target": "护身符"
+          "target": "Phù Hộ Thân"
         },
         {
           "key": "i498",
           "occurrence": 1,
           "source": "双击装备\\\\它是道士必备的工具,道士的一些技能需要装备护身符才能使用\\\\例如蚀骨施毒等\\\\<(c0xFF00FF00)可在马拉NPC处购买>",
-          "target": "双击装备\\\\它是道士必备的工具,道士的一些技能需要装备护身符才能使用\\\\例如蚀骨施毒等\\\\<(c0xFF00FF00)可在马拉NPC处购买>"
+          "target": "Nhấp đúp trang bị\\\\Công cụ bắt buộc của Đạo Sĩ; một số kỹ năng cần trang bị Phù để dùng\\\\Ví dụ Thuật Độc Thực Cốt\\\\<(c0xFF00FF00)Mua tại NPC Mala>"
         },
         {
           "key": "n499",
           "occurrence": 1,
           "source": "黄色药沫",
-          "target": "黄色药沫"
+          "target": "Bột Thuốc Vàng"
         },
         {
           "key": "i499",
           "occurrence": 1,
           "source": "双击装备\\\\可以削减敌人抵抗力的神奇药粉\\\\道士技能毒术的效果为<(c0xFFFF0000)减少目标的物理与魔法防御.>\\\\<(c0xFF00FF00)可在马拉NPC处购买>",
-          "target": "双击装备\\\\可以削减敌人抵抗力的神奇药粉\\\\道士技能毒术的效果为<(c0xFFFF0000)减少目标的物理与魔法防御.>\\\\<(c0xFF00FF00)可在马拉NPC处购买>"
+          "target": "Nhấp đúp trang bị\\\\Bột thuốc kỳ diệu làm suy yếu kháng tính địch\\\\Thuật Độc của Đạo Sĩ: <(c0xFFFF0000)Giảm P.Thủ và M.Thủ mục tiêu.>\\\\<(c0xFF00FF00)Mua tại NPC Mala>"
         },
         {
           "key": "n500",
           "occurrence": 1,
           "source": "灰色药沫",
-          "target": "灰色药沫"
+          "target": "Bột Thuốc Xám"
         },
         {
           "key": "i500",
           "occurrence": 1,
           "source": "双击装备\\\\可以消耗敌人生命力的神奇药粉\\\\道士技能毒术的效果为<(c0xFFFF0000)减少目标生命值.>\\\\<(c0xFF00FF00)可在马拉NPC处购买>",
-          "target": "双击装备\\\\可以消耗敌人生命力的神奇药粉\\\\道士技能毒术的效果为<(c0xFFFF0000)减少目标生命值.>\\\\<(c0xFF00FF00)可在马拉NPC处购买>"
+          "target": "Nhấp đúp trang bị\\\\Bột thuốc kỳ diệu bào mòn sinh lực địch\\\\Thuật Độc của Đạo Sĩ: <(c0xFFFF0000)Giảm HP mục tiêu.>\\\\<(c0xFF00FF00)Mua tại NPC Mala>"
         },
         {
           "key": "n501",
           "occurrence": 1,
           "source": "水晶盒",
-          "target": "水晶盒"
+          "target": "Hộp Pha Lê"
         },
         {
           "key": "i501",
           "occurrence": 1,
           "source": "双击使用\\\\可以获得一份神秘奖励\\\\<(c0xFFFF0000)仅城战堡垒的城主与官员可领取>\\\\<(c0xFF00FF00)提示:城池官职奖励>",
-          "target": "双击使用\\\\可以获得一份神秘奖励\\\\<(c0xFFFF0000)仅城战堡垒的城主与官员可领取>\\\\<(c0xFF00FF00)提示:城池官职奖励>"
+          "target": "Nhấp đúp dùng\\\\Nhận một phần thưởng bí ẩn\\\\<(c0xFFFF0000)Chỉ Thành Chủ và quan viên Pháo Đài Thành Chiến được nhận>\\\\<(c0xFF00FF00)Mẹo: Thưởng chức quan thành>"
         },
         {
           "key": "n502",
           "occurrence": 1,
           "source": "星宫卡(废弃)",
-          "target": "星宫卡(废弃)"
+          "target": "Thẻ Tinh Cung (Bỏ)"
         },
         {
           "key": "i502",
