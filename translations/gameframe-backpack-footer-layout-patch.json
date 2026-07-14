@@ -1,0 +1,35 @@
+{
+  "format": 1,
+  "active": true,
+  "version": "20260714bagui5",
+  "description": "Chuẩn hóa tên tiền tệ và căn lại phần chân Hành Trang.",
+  "changes": {
+    "currency_labels": {
+      "Kim Tệ": "Xu",
+      "Kim Tệ Khóa": "Xu Khóa",
+      "kept": [
+        "Nguyên Bảo",
+        "Đậu Vui Vẻ"
+      ]
+    },
+    "money_panel_x": {
+      "before": 45,
+      "after": 75,
+      "reason": "Tránh icon tiền đè lên nhãn Nguyên Bảo."
+    },
+    "footer_button": {
+      "before": "Kho Tầm Bảo",
+      "after": "Tầm Bảo",
+      "reason": "Giữ nút nằm gọn trong panel."
+    }
+  },
+  "safety": {
+    "method_body_changes": 1,
+    "changed_method": "view.game.backpack.BackPackWin constructor",
+    "code_length_unchanged": true,
+    "method_info_unchanged": true,
+    "method_metadata_unchanged": true,
+    "shop_item_cell_unchanged_from_bagui4": true,
+    "patch_method": "Thay chuỗi constant pool và một toán hạng pushbyte cùng độ dài."
+  }
+}
