@@ -11,6 +11,7 @@ include('SPDef.php');
 $v=$_SESSION['FLVars'];
 $sn=$_SESSION['GameServerName'];
 $pay_url=$_SESSION['PayURL'];
+$gameFrameURL=GAMEAPPURL.(strpos(GAMEAPPURL, '?') === false ? '?' : '&').'ahtlcache=20260714itemcache3n';
 $plainFlashVars=array();
 if (!empty($_SESSION['FLVarsPlain']))
 {
@@ -109,7 +110,7 @@ function loaded(){
 		name:"gameSwf",
 		menu:"false"
 	};
-	swfobject.embedSWF("<?=GAMEAPPURL?>", "flashContent", "100%", "100%", "10.0.0", false, flashvars, params, attributes, function(e){
+	swfobject.embedSWF("<?=$gameFrameURL?>", "flashContent", "100%", "100%", "10.0.0", false, flashvars, params, attributes, function(e){
 		traceClient("djrm_embed_callback", "success="+e.success+"|id="+e.id+"|ref="+(e.ref ? "yes" : "no"));
 	});
 	RightClick.init();
