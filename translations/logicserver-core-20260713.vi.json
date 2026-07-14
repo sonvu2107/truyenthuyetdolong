@@ -78032,97 +78032,97 @@
           "key": "n3260",
           "occurrence": 1,
           "source": "龙魂之力（8阶）",
-          "target": "龙魂之力（8阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 8)"
         },
         {
           "key": "i3260",
           "occurrence": 1,
           "source": "用513个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(8阶)>升级为<(c0xFFFF6600)龙魂之力(8阶)>",
-          "target": "用513个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(8阶)>升级为<(c0xFFFF6600)龙魂之力(8阶)>"
+          "target": "Dùng 513 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 8)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 8)>"
         },
         {
           "key": "n3261",
           "occurrence": 1,
           "source": "龙魂之力（9阶）",
-          "target": "龙魂之力（9阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 9)"
         },
         {
           "key": "i3261",
           "occurrence": 1,
           "source": "用769个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(9阶)>升级为<(c0xFFFF6600)龙魂之力(9阶)>",
-          "target": "用769个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(9阶)>升级为<(c0xFFFF6600)龙魂之力(9阶)>"
+          "target": "Dùng 769 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 9)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 9)>"
         },
         {
           "key": "n3262",
           "occurrence": 1,
           "source": "龙魂之力（10阶）",
-          "target": "龙魂之力（10阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 10)"
         },
         {
           "key": "i3262",
           "occurrence": 1,
           "source": "用1153个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(10阶)>升级为<(c0xFFFF6600)龙魂之力(10阶)>",
-          "target": "用1153个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(10阶)>升级为<(c0xFFFF6600)龙魂之力(10阶)>"
+          "target": "Dùng 1153 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 10)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 10)>"
         },
         {
           "key": "n3263",
           "occurrence": 1,
           "source": "至尊•屠龙刀(珍品)",
-          "target": "至尊•屠龙刀(珍品)"
+          "target": "Chí Tôn • Đao Đồ Long (Trân Phẩm)"
         },
         {
           "key": "i3263",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级武器>\\\\屠龙在手，天下我有！",
-          "target": "<(c0x00ff0066)顶级武器>\\\\屠龙在手，天下我有！"
+          "target": "<(c0x00ff0066)Vũ khí đỉnh cấp>\\\\Đồ Long trong tay, thiên hạ trong tay!"
         },
         {
           "key": "n3264",
           "occurrence": 1,
           "source": "龙魂之玉",
-          "target": "龙魂之玉"
+          "target": "Ngọc Long Hồn"
         },
         {
           "key": "i3264",
           "occurrence": 1,
           "source": "合成龙魂之力顶级装备材料，可在物品合成系统中使用\\\\注:可通过<(c0xFFFF6600)世界BOSS、百服活动、开服豪礼、屠龙>中获得",
-          "target": "合成龙魂之力顶级装备材料，可在物品合成系统中使用\\\\注:可通过<(c0xFFFF6600)世界BOSS、百服活动、开服豪礼、屠龙>中获得"
+          "target": "Nguyên liệu ghép trang bị đỉnh cấp Sức Mạnh Long Hồn, có thể dùng trong hệ thống Ghép Vật Phẩm\\\\Gợi ý: nhận từ <(c0xFFFF6600)Boss Thế Giới, Sự Kiện Trăm Server, Hào Lễ Mở Server, Đồ Long>"
         },
         {
           "key": "n3265",
           "occurrence": 1,
           "source": "套装大礼包",
-          "target": "套装大礼包"
+          "target": "Túi Quà Bộ"
         },
         {
           "key": "i3265",
           "occurrence": 1,
           "source": "开启后随机获得70-2转套装一件",
-          "target": "开启后随机获得70-2转套装一件"
+          "target": "Mở ra nhận ngẫu nhiên 1 Trang Bị Bộ Cấp 70–2 Chuyển Sinh"
         },
         {
           "key": "n3266",
           "occurrence": 1,
           "source": "神装大礼包",
-          "target": "神装大礼包"
+          "target": "Túi Quà Thần Trang"
         },
         {
           "key": "i3266",
           "occurrence": 1,
           "source": "开启后随机获得2-4转神装一件",
-          "target": "开启后随机获得2-4转神装一件"
+          "target": "Mở ra nhận ngẫu nhiên 1 Thần Trang 2–4 Chuyển Sinh"
         },
         {
           "key": "n3267",
           "occurrence": 1,
           "source": "材料箱",
-          "target": "材料箱"
+          "target": "Rương Nguyên Liệu"
         },
         {
           "key": "i3267",
           "occurrence": 1,
           "source": "双击打开盒子\\\\可随机获得以下材料\\\\天神精华x1\\\\神魂晶石x5\\\\装备升级石x5\\\\勋章灵石x5\\\\魔钻灵石x5",
-          "target": "双击打开盒子\\\\可随机获得以下材料\\\\天神精华x1\\\\神魂晶石x5\\\\装备升级石x5\\\\勋章灵石x5\\\\魔钻灵石x5"
+          "target": "Nhấp đúp mở rương\\\\Có thể nhận ngẫu nhiên các nguyên liệu sau\\\\Tinh Hoa Thiên Thần x1\\\\Tinh Thạch Thần Hồn x5\\\\Đá Nâng Cấp Trang Bị x5\\\\Linh Thạch Huy Chương x5\\\\Linh Thạch Ma Toản x5"
         },
         {
           "key": "n3268",
