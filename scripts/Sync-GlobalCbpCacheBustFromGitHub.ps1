@@ -58,6 +58,31 @@ $djrm = Join-Path $WebRoot 'game\djrm.php'
 $httpdConf = Join-Path $ApacheRoot 'conf\httpd.conf'
 $httpd = Join-Path $ApacheRoot 'bin\httpd.exe'
 
+function Restart-AhtlApache {
+    param([string]$HttpdPath, [string]$ConfigPath)
+    $processes = @(Get-CimInstance Win32_Process | Where-Object {
+        $_.Name -eq 'httpd.exe' -and $_.ExecutablePath -eq $HttpdPath
+    })
+    if ($processes.Count -eq 0) {
+        throw 'Khong tim thay process Apache cua GPHweb de khoi dong lai.'
+    }
+    foreach ($process in $processes | Sort-Object ProcessId -Descending) {
+        Stop-Process -Id $process.ProcessId -Force -ErrorAction SilentlyContinue
+    }
+    Start-Sleep -Seconds 1
+    Start-Process -FilePath $HttpdPath -ArgumentList @('-f', $ConfigPath) -WorkingDirectory (Split-Path -Parent $HttpdPath) -WindowStyle Hidden
+    $deadline = (Get-Date).AddSeconds(10)
+    do {
+        Start-Sleep -Milliseconds 500
+        $running = @(Get-CimInstance Win32_Process | Where-Object {
+            $_.Name -eq 'httpd.exe' -and $_.ExecutablePath -eq $HttpdPath
+        })
+    } while ($running.Count -eq 0 -and (Get-Date) -lt $deadline)
+    if ($running.Count -eq 0) {
+        throw 'Apache khong khoi dong lai sau khi dung process cu.'
+    }
+}
+
 try {
     foreach ($path in @($gameConfig, $djrm, $httpdConf, $httpd, (Join-Path $ApacheRoot 'modules\mod_headers.so'))) {
         if (-not (Test-Path -LiteralPath $path)) { throw "Khong tim thay file bat buoc: $path" }
@@ -107,14 +132,13 @@ try {
 
         & $httpd -t -f $httpdConf
         if ($LASTEXITCODE -ne 0) { throw 'Apache config test that bai.' }
-        & $httpd -k restart -f $httpdConf
-        if ($LASTEXITCODE -ne 0) { throw 'Apache restart that bai.' }
+        Restart-AhtlApache -HttpdPath $httpd -ConfigPath $httpdConf
     }
     catch {
         Copy-Item -LiteralPath (Join-Path $backupRoot 'GameConfig.php') -Destination $gameConfig -Force
         Copy-Item -LiteralPath (Join-Path $backupRoot 'djrm.php') -Destination $djrm -Force
         Copy-Item -LiteralPath (Join-Path $backupRoot 'httpd.conf') -Destination $httpdConf -Force
-        & $httpd -k restart -f $httpdConf *> $null
+        Restart-AhtlApache -HttpdPath $httpd -ConfigPath $httpdConf
         throw
     }
 
