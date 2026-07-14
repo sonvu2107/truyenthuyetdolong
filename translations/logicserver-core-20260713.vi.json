@@ -76484,97 +76484,97 @@
           "key": "n3132",
           "occurrence": 1,
           "source": "怒涛战机【3天】",
-          "target": "怒涛战机【3天】"
+          "target": "Chiến Cơ Nộ Đào 【3 Ngày】"
         },
         {
           "key": "i3132",
           "occurrence": 1,
           "source": "<(c0xFF00FF00)如愤怒的波涛一样覆灭敌人>\\\\加2%伤害倍率\\\\提示：<(c0xFF00FF00)屠龙庆典活动中用纪念章兑换获得>",
-          "target": "<(c0xFF00FF00)如愤怒的波涛一样覆灭敌人>\\\\加2%伤害倍率\\\\提示：<(c0xFF00FF00)屠龙庆典活动中用纪念章兑换获得>"
+          "target": "<(c0xFF00FF00)Hủy diệt kẻ địch như sóng dữ cuồng nộ>\\\\Tăng 2% Hệ Số Sát Thương\\\\Gợi ý: <(c0xFF00FF00)Đổi bằng Huy Chương Kỷ Niệm trong Lễ Hội Đồ Long>"
         },
         {
           "key": "n3133",
           "occurrence": 1,
           "source": "百万豪礼大礼包",
-          "target": "百万豪礼大礼包"
+          "target": "Túi Quà Hào Lễ 1000K"
         },
         {
           "key": "i3133",
           "occurrence": 1,
           "source": "在豪礼乐不停活动中累积充值百万元宝获得\\\\双击使用可获得\\\\天神精华x8\\\\神魂晶石x10\\\\勋章灵石x10\\\\马鞭x10\\\\10000000经验x10",
-          "target": "在豪礼乐不停活动中累积充值百万元宝获得\\\\双击使用可获得\\\\天神精华x8\\\\神魂晶石x10\\\\勋章灵石x10\\\\马鞭x10\\\\10000000经验x10"
+          "target": "Nhận khi nạp tích lũy 1000K Nguyên Bảo trong sự kiện Hào Lễ Không Ngừng\\\\Nhấp đúp nhận\\\\Tinh Hoa Thiên Thần x8\\\\Tinh Thạch Thần Hồn x10\\\\Linh Thạch Huy Chương x10\\\\Roi Ngựa x10\\\\10000K KN x10"
         },
         {
           "key": "n3134",
           "occurrence": 1,
           "source": "三百万豪礼大礼包",
-          "target": "三百万豪礼大礼包"
+          "target": "Túi Quà Hào Lễ 3000K"
         },
         {
           "key": "i3134",
           "occurrence": 1,
           "source": "在豪礼乐不停活动中累积充值三百万元宝获得\\\\双击使用可获得\\\\天神精华x30\\\\神魂晶石x30\\\\魔钻灵石x10\\\\羽毛x20\\\\100000000经验x10",
-          "target": "在豪礼乐不停活动中累积充值三百万元宝获得\\\\双击使用可获得\\\\天神精华x30\\\\神魂晶石x30\\\\魔钻灵石x10\\\\羽毛x20\\\\100000000经验x10"
+          "target": "Nhận khi nạp tích lũy 3000K Nguyên Bảo trong sự kiện Hào Lễ Không Ngừng\\\\Nhấp đúp nhận\\\\Tinh Hoa Thiên Thần x30\\\\Tinh Thạch Thần Hồn x30\\\\Linh Thạch Ma Toản x10\\\\Lông Vũ x20\\\\100000K KN x10"
         },
         {
           "key": "n3135",
           "occurrence": 1,
           "source": "千万豪礼大礼包",
-          "target": "千万豪礼大礼包"
+          "target": "Túi Quà Hào Lễ 10000K"
         },
         {
           "key": "i3135",
           "occurrence": 1,
           "source": "在豪礼乐不停活动中累积充值千万元宝获得\\\\双击使用可获得\\\\2阶天神臂章x1\\\\神魂晶石x50\\\\装备升级石x50\\\\1级神装增强精华x20\\\\100000000经验x30",
-          "target": "在豪礼乐不停活动中累积充值千万元宝获得\\\\双击使用可获得\\\\2阶天神臂章x1\\\\神魂晶石x50\\\\装备升级石x50\\\\1级神装增强精华x20\\\\100000000经验x30"
+          "target": "Nhận khi nạp tích lũy 10000K Nguyên Bảo trong sự kiện Hào Lễ Không Ngừng\\\\Nhấp đúp nhận\\\\Hộ Phù Thiên Thần (Bậc 2) x1\\\\Tinh Thạch Thần Hồn x50\\\\Đá Nâng Cấp Trang Bị x50\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 x20\\\\100000K KN x30"
         },
         {
           "key": "n3136",
           "occurrence": 1,
           "source": "灵魂之翼【10天】",
-          "target": "灵魂之翼【10天】"
+          "target": "Cánh Linh Hồn 【10 Ngày】"
         },
         {
           "key": "i3136",
           "occurrence": 1,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+200\\\\最大魔法攻击力+200\\\\最大道术攻击力+200",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+200\\\\最大魔法攻击力+200\\\\最大道术攻击力+200"
+          "target": "Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +200\\\\Tấn Công Ma Pháp tối đa +200\\\\Tấn Công Đạo Thuật tối đa +200"
         },
         {
           "key": "n3137",
           "occurrence": 1,
           "source": "黑暗破坏神骑术【10天】",
-          "target": "黑暗破坏神骑术【10天】"
+          "target": "Kỹ Năng Cưỡi Hắc Ám Phá Hoại Thần 【10 Ngày】"
         },
         {
           "key": "i3137",
           "occurrence": 1,
           "source": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大道术攻击力+80",
-          "target": "上古猛兽,凶猛异常\\\\双击使用\\\\可获得属性\\\\最大物理攻击力+80\\\\最大魔法攻击力+80\\\\最大道术攻击力+80"
+          "target": "Mãnh thú thượng cổ, hung mãnh dị thường\\\\Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +80\\\\Tấn Công Ma Pháp tối đa +80\\\\Tấn Công Đạo Thuật tối đa +80"
         },
         {
           "key": "n3138",
           "occurrence": 1,
           "source": "豪礼升级石礼包",
-          "target": "豪礼升级石礼包"
+          "target": "Túi Đá Nâng Cấp Hào Lễ"
         },
         {
           "key": "i3138",
           "occurrence": 1,
           "source": "在豪礼乐不停活动中每日限购中获得\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\装备升级石x30",
-          "target": "在豪礼乐不停活动中每日限购中获得\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\装备升级石x30"
+          "target": "Nhận từ mục mua giới hạn hằng ngày của sự kiện Hào Lễ Không Ngừng\\\\<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Đá Nâng Cấp Trang Bị x30"
         },
         {
           "key": "n3139",
           "occurrence": 1,
           "source": "豪礼神魂晶石礼包",
-          "target": "豪礼神魂晶石礼包"
+          "target": "Túi Tinh Thạch Thần Hồn Hào Lễ"
         },
         {
           "key": "i3139",
           "occurrence": 1,
           "source": "在豪礼乐不停活动中每日限购中获得\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x10",
-          "target": "在豪礼乐不停活动中每日限购中获得\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\神魂晶石x10"
+          "target": "Nhận từ mục mua giới hạn hằng ngày của sự kiện Hào Lễ Không Ngừng\\\\<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Tinh Thạch Thần Hồn x10"
         },
         {
           "key": "n3140",
