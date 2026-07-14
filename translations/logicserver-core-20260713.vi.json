@@ -3555,22 +3555,22 @@
     "EntityName.txt": {
       "entries": [
         {
-          "key": "n00000",
-          "occurrence": 1,
-          "source": "全服第一行会",
-          "target": "Bang Hội Top 1"
+         "key": "n00000",
+         "occurrence": 1,
+         "source": "全服第一行会",
+          "target": "Bang Top 1"
         },
         {
-          "key": "n00001",
-          "occurrence": 1,
-          "source": "全服第二行会",
-          "target": "Bang Hội Top 2"
+         "key": "n00001",
+         "occurrence": 1,
+         "source": "全服第二行会",
+          "target": "Bang Top 2"
         },
         {
-          "key": "n00002",
-          "occurrence": 1,
-          "source": "全服第三行会",
-          "target": "Bang Hội Top 3"
+         "key": "n00002",
+         "occurrence": 1,
+         "source": "全服第三行会",
+          "target": "Bang Top 3"
         },
         {
           "key": "n00003",
@@ -3591,10 +3591,10 @@
           "target": "Trưởng Làng Mỹ Nhân"
         },
         {
-          "key": "n00006",
-          "occurrence": 1,
-          "source": "装备兑换使者",
-          "target": "Sứ Giả Đổi Trang Bị"
+         "key": "n00006",
+         "occurrence": 1,
+         "source": "装备兑换使者",
+          "target": "Sứ Đổi Trang Bị"
         },
         {
           "key": "n00007",
@@ -3615,16 +3615,16 @@
           "target": "Thợ Rèn"
         },
         {
-          "key": "n00010",
-          "occurrence": 1,
-          "source": "服装店老板",
-          "target": "Chủ Tiệm Trang Phục"
+         "key": "n00010",
+         "occurrence": 1,
+         "source": "服装店老板",
+          "target": "Trang Phục"
         },
         {
-          "key": "n00011",
-          "occurrence": 1,
-          "source": "首饰店老板",
-          "target": "Chủ Tiệm Trang Sức"
+         "key": "n00011",
+         "occurrence": 1,
+         "source": "首饰店老板",
+          "target": "Trang Sức"
         },
         {
           "key": "n00012",
@@ -3777,10 +3777,10 @@
           "target": "Hắc Pháp Sư"
         },
         {
-          "key": "n00037",
-          "occurrence": 1,
-          "source": "城战堡垒药店老板",
-          "target": "Chủ Tiệm Thuốc Pháo Đài Thành Chiến"
+         "key": "n00037",
+         "occurrence": 1,
+         "source": "城战堡垒药店老板",
+          "target": "Thuốc Pháo Đài"
         },
         {
           "key": "n00038",
@@ -3807,10 +3807,10 @@
           "target": "Tiên Phong"
         },
         {
-          "key": "n00042",
-          "occurrence": 1,
-          "source": "药店掌柜",
-          "target": "Chủ Tiệm Thuốc"
+         "key": "n00042",
+         "occurrence": 1,
+         "source": "药店掌柜",
+          "target": "Thuốc"
         },
         {
           "key": "n00043",
@@ -3885,10 +3885,10 @@
           "target": "Võ Thần"
         },
         {
-          "key": "n00055",
-          "occurrence": 1,
-          "source": "战场管理员·人",
-          "target": "Quản Lý Chiến Trường · Nhân Tộc"
+         "key": "n00055",
+         "occurrence": 1,
+         "source": "战场管理员·人",
+          "target": "QL Chiến Nhân"
         },
         {
           "key": "n00056",
@@ -4131,10 +4131,10 @@
           "target": "Nhà Giả Kim"
         },
         {
-          "key": "n00099",
-          "occurrence": 1,
-          "source": "战场管理员·魔",
-          "target": "Quản Lý Chiến Trường · Ma Tộc"
+         "key": "n00099",
+         "occurrence": 1,
+         "source": "战场管理员·魔",
+          "target": "QL Chiến Ma"
         },
         {
           "key": "n00100",
@@ -4173,10 +4173,10 @@
           "target": "Đồ Tể Trương"
         },
         {
-          "key": "n00106",
-          "occurrence": 1,
-          "source": "神装兑换使",
-          "target": "Sứ Giả Đổi Thần Trang"
+         "key": "n00106",
+         "occurrence": 1,
+         "source": "神装兑换使",
+          "target": "Sứ Thần Trang"
         },
         {
           "key": "n00107",
@@ -4233,10 +4233,10 @@
           "target": "Tiểu Giai Mỹ Nhân"
         },
         {
-          "key": "n00116",
-          "occurrence": 1,
-          "source": "接引者",
-          "target": "Người Dẫn"
+         "key": "n00116",
+         "occurrence": 1,
+         "source": "接引者",
+          "target": "Dẫn Đường"
         },
         {
           "key": "n00117",
@@ -4257,10 +4257,10 @@
           "target": "Vu Thi"
         },
         {
-          "key": "n00120",
-          "occurrence": 1,
-          "source": "打捆商人",
-          "target": "Thương Nhân Bó Gói"
+         "key": "n00120",
+         "occurrence": 1,
+         "source": "打捆商人",
+          "target": "Thương Bó Gói"
         },
         {
           "key": "n00121",
@@ -4311,22 +4311,22 @@
           "target": "Mục Sư Thánh Đường"
         },
         {
-          "key": "n00129",
-          "occurrence": 1,
-          "source": "打宝商人",
-          "target": "Thương Nhân Săn Báu"
+         "key": "n00129",
+         "occurrence": 1,
+         "source": "打宝商人",
+          "target": "Thương Săn Báu"
         },
         {
-          "key": "n00130",
-          "occurrence": 1,
-          "source": "药品商人",
-          "target": "Thương Nhân Dược Phẩm"
+         "key": "n00130",
+         "occurrence": 1,
+         "source": "药品商人",
+          "target": "Thương Dược"
         },
         {
-          "key": "n00131",
-          "occurrence": 1,
-          "source": "活动接引人",
-          "target": "Người Dẫn Sự Kiện"
+         "key": "n00131",
+         "occurrence": 1,
+         "source": "活动接引人",
+          "target": "Dẫn Sự Kiện"
         },
         {
           "key": "n00132",
@@ -4473,10 +4473,10 @@
           "target": "Thiên Sứ Linh Tuyền"
         },
         {
-          "key": "n00156",
-          "occurrence": 1,
-          "source": "副本接引人",
-          "target": "Người Dẫn Phó Bản"
+         "key": "n00156",
+         "occurrence": 1,
+         "source": "副本接引人",
+          "target": "Dẫn Phó Bản"
         },
         {
           "key": "n00157",
@@ -4557,16 +4557,16 @@
           "target": "Thợ Rèn Người Lùn"
         },
         {
-          "key": "n00170",
-          "occurrence": 1,
-          "source": "个人副本使者",
-          "target": "Sứ Giả Phó Bản Cá Nhân"
+         "key": "n00170",
+         "occurrence": 1,
+         "source": "个人副本使者",
+          "target": "Sứ Giả PB Riêng"
         },
         {
-          "key": "n00171",
-          "occurrence": 1,
-          "source": "副本使者",
-          "target": "Sứ Giả Phó Bản"
+         "key": "n00171",
+         "occurrence": 1,
+         "source": "副本使者",
+          "target": "Sứ Giả PB"
         },
         {
           "key": "n00172",
@@ -4599,10 +4599,10 @@
           "target": "Nữ Phù Thủy Akara"
         },
         {
-          "key": "n00177",
-          "occurrence": 1,
-          "source": "福利大使",
-          "target": "Sứ Giả Phúc Lợi"
+         "key": "n00177",
+         "occurrence": 1,
+         "source": "福利大使",
+          "target": "Sứ Phúc Lợi"
         },
         {
           "key": "n00178",
@@ -4839,10 +4839,10 @@
           "target": "Sứ Giả Sự Kiện"
         },
         {
-          "key": "n00217",
-          "occurrence": 1,
-          "source": "跨服传送石",
-          "target": "Đá Dịch Chuyển Liên Server"
+         "key": "n00217",
+         "occurrence": 1,
+         "source": "跨服传送石",
+          "target": "Đá Liên Server"
         },
         {
           "key": "n00218",
@@ -4857,10 +4857,10 @@
           "target": "Hướng Dẫn Boss Liên Server"
         },
         {
-          "key": "n00220",
-          "occurrence": 1,
-          "source": "跨服城战堡垒传送石",
-          "target": "Đá Dịch Chuyển Pháo Đài Liên Server"
+         "key": "n00220",
+         "occurrence": 1,
+         "source": "跨服城战堡垒传送石",
+          "target": "Đá Pháo Đài"
         },
         {
           "key": "n00221",
@@ -4983,10 +4983,10 @@
           "target": "Quản Lý Chuồng Ngựa"
         },
         {
-          "key": "n00241",
-          "occurrence": 1,
-          "source": "降魔副本接引人",
-          "target": "Người Dẫn Phó Bản Diệt Ma"
+         "key": "n00241",
+         "occurrence": 1,
+         "source": "降魔副本接引人",
+          "target": "Dẫn PB Diệt Ma"
         },
         {
           "key": "n00242",
@@ -5385,16 +5385,16 @@
           "target": "Man Tộc"
         },
         {
-          "key": "n00308",
-          "occurrence": 1,
-          "source": "红方管理员",
-          "target": "Quản Lý Phe Đỏ"
+         "key": "n00308",
+         "occurrence": 1,
+         "source": "红方管理员",
+          "target": "QL Phe Đỏ"
         },
         {
-          "key": "n00309",
-          "occurrence": 1,
-          "source": "蓝方管理员",
-          "target": "Quản Lý Phe Xanh"
+         "key": "n00309",
+         "occurrence": 1,
+         "source": "蓝方管理员",
+          "target": "QL Phe Xanh"
         },
         {
           "key": "n00310",
@@ -5577,16 +5577,16 @@
           "target": "Xác Thối Rữa"
         },
         {
-          "key": "n00517",
-          "occurrence": 1,
-          "source": "天使星门传送",
-          "target": "Cổng Dịch Chuyển Thiên Giới"
+         "key": "n00517",
+         "occurrence": 1,
+         "source": "天使星门传送",
+          "target": "Cổng Thiên Giới"
         },
         {
-          "key": "n00518",
-          "occurrence": 1,
-          "source": "地狱星门传送",
-          "target": "Cổng Dịch Chuyển Địa Ngục"
+         "key": "n00518",
+         "occurrence": 1,
+         "source": "地狱星门传送",
+          "target": "Cổng Địa Ngục"
         },
         {
           "key": "n00519",
@@ -5619,28 +5619,28 @@
           "target": "Người Dẫn Phó Bản Các KN"
         },
         {
-          "key": "n00524",
-          "occurrence": 1,
-          "source": "战场管理员_西",
-          "target": "Quản Lý Chiến Trường Tây"
+         "key": "n00524",
+         "occurrence": 1,
+         "source": "战场管理员_西",
+          "target": "QL Tây"
         },
         {
-          "key": "n00525",
-          "occurrence": 1,
-          "source": "战场管理员_北",
-          "target": "Quản Lý Chiến Trường Bắc"
+         "key": "n00525",
+         "occurrence": 1,
+         "source": "战场管理员_北",
+          "target": "QL Bắc"
         },
         {
-          "key": "n00526",
-          "occurrence": 1,
-          "source": "战场管理员_南",
-          "target": "Quản Lý Chiến Trường Nam"
+         "key": "n00526",
+         "occurrence": 1,
+         "source": "战场管理员_南",
+          "target": "QL Nam"
         },
         {
-          "key": "n00527",
-          "occurrence": 1,
-          "source": "战场管理员_东",
-          "target": "Quản Lý Chiến Trường Đông"
+         "key": "n00527",
+         "occurrence": 1,
+         "source": "战场管理员_东",
+          "target": "QL Đông"
         },
         {
           "key": "n00528",
@@ -6063,10 +6063,10 @@
           "target": "Tiên Phong Kháng Ma"
         },
         {
-          "key": "n00618",
-          "occurrence": 1,
-          "source": "淘宝商人",
-          "target": "Thương Nhân Đào Bảo"
+         "key": "n00618",
+         "occurrence": 1,
+         "source": "淘宝商人",
+          "target": "Thương Đào Bảo"
         },
         {
           "key": "n00619",
@@ -6207,34 +6207,34 @@
           "target": "Bàn Tiệc 8"
         },
         {
-          "key": "n00691",
-          "occurrence": 2,
-          "source": "决斗裁决者一",
-          "target": "Trọng Tài Quyết Đấu I"
+         "key": "n00691",
+         "occurrence": 2,
+         "source": "决斗裁决者一",
+          "target": "TT1"
         },
         {
-          "key": "n00692",
-          "occurrence": 1,
-          "source": "决斗裁决者二",
-          "target": "Trọng Tài Quyết Đấu II"
+         "key": "n00692",
+         "occurrence": 1,
+         "source": "决斗裁决者二",
+          "target": "TT2"
         },
         {
-          "key": "n00693",
-          "occurrence": 1,
-          "source": "决斗裁决者三",
-          "target": "Trọng Tài Quyết Đấu III"
+         "key": "n00693",
+         "occurrence": 1,
+         "source": "决斗裁决者三",
+          "target": "TT3"
         },
         {
-          "key": "n00694",
-          "occurrence": 1,
-          "source": "决斗裁决者四",
-          "target": "Trọng Tài Quyết Đấu IV"
+         "key": "n00694",
+         "occurrence": 1,
+         "source": "决斗裁决者四",
+          "target": "TT4"
         },
         {
-          "key": "n00695",
-          "occurrence": 1,
-          "source": "决斗裁决者五",
-          "target": "Trọng Tài Quyết Đấu V"
+         "key": "n00695",
+         "occurrence": 1,
+         "source": "决斗裁决者五",
+          "target": "TT5"
         },
         {
           "key": "n00696",
