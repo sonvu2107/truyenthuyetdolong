@@ -78128,97 +78128,97 @@
           "key": "n3268",
           "occurrence": 1,
           "source": "超值盒子",
-          "target": "超值盒子"
+          "target": "Hộp Siêu Giá Trị"
         },
         {
           "key": "i3268",
           "occurrence": 1,
           "source": "消耗888元宝可以获得超值奖励，物超所值，机不可失，失不再来。",
-          "target": "消耗888元宝可以获得超值奖励，物超所值，机不可失，失不再来。"
+          "target": "Dùng 888 Nguyên Bảo nhận thưởng siêu giá trị, cực kỳ đáng tiền, cơ hội không đến lần hai."
         },
         {
           "key": "n3269",
           "occurrence": 1,
           "source": "战士3级宝石套包",
-          "target": "战士3级宝石套包"
+          "target": "Túi Đá Bộ Cấp 3 Chiến Sĩ"
         },
         {
           "key": "i3269",
           "occurrence": 1,
           "source": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)3级物攻宝石>\\\\1颗<(c0xFF00FFFF)3级物防宝石>\\\\1颗<(c0xFF00FFFF)3级魔防宝石>\\\\1颗<(c0xFF00FFFF)3级生命宝石>\\\\1颗<(c0xFF00FFFF)3级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)3级物攻宝石>\\\\1颗<(c0xFF00FFFF)3级物防宝石>\\\\1颗<(c0xFF00FFFF)3级魔防宝石>\\\\1颗<(c0xFF00FFFF)3级生命宝石>\\\\1颗<(c0xFF00FFFF)3级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0x00d57140)Vật phẩm siêu giá trị, tăng Lực Chiến hiệu quả>\\\\Có thể mở:\\\\1 <(c0xFF00FFFF)Đá Tấn Công Vật Lý Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Vật Lý Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Ma Pháp Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Sinh Mệnh Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Ma Pháp Cấp 3>\\\\<(c0xFF00FF00)Ưu đãi mua trực tiếp:> so với mua lẻ tại Cửa Hàng <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)243><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n3270",
           "occurrence": 1,
           "source": "法师3级宝石套包",
-          "target": "法师3级宝石套包"
+          "target": "Túi Đá Bộ Cấp 3 Pháp Sư"
         },
         {
           "key": "i3270",
           "occurrence": 1,
           "source": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)3级魔攻宝石>\\\\1颗<(c0xFF00FFFF)3级物防宝石>\\\\1颗<(c0xFF00FFFF)3级魔防宝石>\\\\1颗<(c0xFF00FFFF)3级生命宝石>\\\\1颗<(c0xFF00FFFF)3级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)3级魔攻宝石>\\\\1颗<(c0xFF00FFFF)3级物防宝石>\\\\1颗<(c0xFF00FFFF)3级魔防宝石>\\\\1颗<(c0xFF00FFFF)3级生命宝石>\\\\1颗<(c0xFF00FFFF)3级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0x00d57140)Vật phẩm siêu giá trị, tăng Lực Chiến hiệu quả>\\\\Có thể mở:\\\\1 <(c0xFF00FFFF)Đá Tấn Công Ma Pháp Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Vật Lý Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Ma Pháp Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Sinh Mệnh Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Ma Pháp Cấp 3>\\\\<(c0xFF00FF00)Ưu đãi mua trực tiếp:> so với mua lẻ tại Cửa Hàng <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)243><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n3271",
           "occurrence": 1,
           "source": "道士3级宝石套包",
-          "target": "道士3级宝石套包"
+          "target": "Túi Đá Bộ Cấp 3 Đạo Sĩ"
         },
         {
           "key": "i3271",
           "occurrence": 1,
           "source": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)3级道攻宝石>\\\\1颗<(c0xFF00FFFF)3级物防宝石>\\\\1颗<(c0xFF00FFFF)3级魔防宝石>\\\\1颗<(c0xFF00FFFF)3级生命宝石>\\\\1颗<(c0xFF00FFFF)3级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！",
-          "target": "<(c0x00d57140)可有效增加战力的超值道具>\\\\可以开出:\\\\1颗<(c0xFF00FFFF)3级道攻宝石>\\\\1颗<(c0xFF00FFFF)3级物防宝石>\\\\1颗<(c0xFF00FFFF)3级魔防宝石>\\\\1颗<(c0xFF00FFFF)3级生命宝石>\\\\1颗<(c0xFF00FFFF)3级魔法宝石>\\\\<(c0xFF00FF00)直购折上折：>比起商城分散购买<(c0xFFFFFF00)再省><(c0xFF00FF00)243><(c0xFFFFFF00)元宝>！"
+          "target": "<(c0x00d57140)Vật phẩm siêu giá trị, tăng Lực Chiến hiệu quả>\\\\Có thể mở:\\\\1 <(c0xFF00FFFF)Đá Tấn Công Đạo Thuật Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Vật Lý Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Phòng Thủ Ma Pháp Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Sinh Mệnh Cấp 3>\\\\1 <(c0xFF00FFFF)Đá Ma Pháp Cấp 3>\\\\<(c0xFF00FF00)Ưu đãi mua trực tiếp:> so với mua lẻ tại Cửa Hàng <(c0xFFFFFF00)tiết kiệm thêm><(c0xFF00FF00)243><(c0xFFFFFF00)Nguyên Bảo>!"
         },
         {
           "key": "n3272",
           "occurrence": 1,
           "source": "佣兵装备碎片大礼包",
-          "target": "佣兵装备碎片大礼包"
+          "target": "Túi Quà Mảnh Trang Bị Lính Đánh Thuê"
         },
         {
           "key": "i3272",
           "occurrence": 1,
           "source": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\佣兵装备碎片×30",
-          "target": "<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\佣兵装备碎片×30"
+          "target": "<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Mảnh Trang Bị Lính Đánh Thuê x30"
         },
         {
           "key": "t1",
           "occurrence": 1,
           "source": "碎骨",
-          "target": "碎骨"
+          "target": "Toái Cốt"
         },
         {
           "key": "t2",
           "occurrence": 1,
           "source": "苍狼",
-          "target": "苍狼"
+          "target": "Thương Lang"
         },
         {
           "key": "t3",
           "occurrence": 1,
           "source": "黄金",
-          "target": "黄金"
+          "target": "Hoàng Kim"
         },
         {
           "key": "t4",
           "occurrence": 1,
           "source": "卓越",
-          "target": "卓越"
+          "target": "Trác Việt"
         },
         {
           "key": "t5",
           "occurrence": 1,
           "source": "王者",
-          "target": "王者"
+          "target": "Vương Giả"
         },
         {
           "key": "t6",
           "occurrence": 1,
           "source": "辉煌",
-          "target": "辉煌"
+          "target": "Huy Hoàng"
         },
         {
           "key": "t7",
