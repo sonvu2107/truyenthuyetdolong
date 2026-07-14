@@ -1,0 +1,18 @@
+{
+  "version": "20260714runtimevi1",
+  "catalog": "translations/logicserver-runtime-messages-20260714.vi.json",
+  "files": [
+    {
+      "source": "assets/logicserver-language/Zh-CN/Skill.txt",
+      "target": "LogicServer/data/language/Zh-CN/Skill.txt",
+      "source_sha256": "ED31201DB1C1FC13F4277EC9FCCC20FDAA498987B05335F737ED2B744FF59157",
+      "sha256": "386E237556C4EB793FA9B9B6AC59232556EE5E8A369F148842B9D1E816676810"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/ScriptTips.txt",
+      "target": "LogicServer/data/language/Zh-CN/ScriptTips.txt",
+      "source_sha256": "C88A94B61564A2DCA9536130872E8D52F4CA4BEA6E3753614A5270B35328FB47",
+      "sha256": "E42D2170D763D038E302E20180D834278C771091B2DD1CFC7C79A35116F3E6BF"
+    }
+  ]
+}
