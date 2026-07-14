@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "file": "bagQuickConfig.cbp",
+  "description": "Việt hóa menu thao tác vật phẩm trong Hành Trang",
+  "translations": {
+    "ItemMenu.0": { "source": " 使    用 ", "target": "Sử dụng" },
+    "ItemMenu.1": { "source": " 出    售 ", "target": "Bán" },
+    "ItemMenu.2": { "source": " 拆    分 ", "target": "Tách" },
+    "ItemMenu.3": { "source": " 展    示 ", "target": "Hiển thị" },
+    "ItemMenu.4": { "source": " 销    毁 ", "target": "Hủy" },
+    "ItemMenu.5": { "source": "批量使用", "target": "Dùng nhiều" },
+    "ItemMenu.6": { "source": " 回    收 ", "target": "Tái chế" },
+    "ItemMenu.7": { "source": " 存    仓 ", "target": "Cất kho" }
+  }
+}

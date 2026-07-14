@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "description": "Đồng bộ tên tiền tệ tại đáy Hành Trang",
+  "overrides": {
+    "bag[103]": {
+      "source": "<font letterspacing='0'>Đậu Hạnh Phúc</font>",
+      "target": "<font letterspacing='0'>Đậu Vui Vẻ</font>",
+      "category": "backpack-currency"
+    }
+  }
+}

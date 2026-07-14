@@ -1,0 +1,31 @@
+{
+  "version": "20260714bagui1",
+  "files": [
+    {
+      "source": "assets/GameFrame.swf",
+      "target": "GameFrame.swf",
+      "sha256": "3DF0B2E8A476217DA92F808E12CD73275DEC2117F0EBA1D0BFE51D69FAE01BD8"
+    },
+    {
+      "source": "assets/lang/zh-cn/cbp.zip",
+      "target": "data/lang/zh-cn/cbp.zip",
+      "sha256": "AD678881D64A15B7AAD7F029C1B44C6F068673A9D96750F3D19010C6B35120D5"
+    },
+    {
+      "source": "assets/game/GameConfig.php",
+      "target": "game/GameConfig.php",
+      "sha256": "7A724160D669EA55089ACF1959832ABD498E4056B942E7C828918D0254C43815"
+    },
+    {
+      "source": "assets/game/djrm.php",
+      "target": "game/djrm.php",
+      "sha256": "2E1EC4B0ACEB4F0E2E130DDC34FF960FC0B55E606F549E650D3D42984FFBA1E8"
+    }
+  ],
+  "entries": [
+    {
+      "name": "bagQuickConfig.cbp",
+      "sha256": "216818DB85CEE55B6D4A1D38A70D52FD209B4D3CC9F0C55FF94FD52BA1BF1140"
+    }
+  ]
+}
