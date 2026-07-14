@@ -47,7 +47,7 @@ try {
         if (-not $allowed.ContainsKey($source) -or $allowed[$source] -ne $targetRelative) {
             throw "Manifest target is outside the allowed runtime language scope: $targetRelative"
         }
-        $target = Join-Path $ServerRoot ($targetRelative -replace '/', '\')
+        $target = Join-Path $ServerRoot $targetRelative.Replace('/', [IO.Path]::DirectorySeparatorChar)
         if ((Get-Sha256 -Path $target) -ne ([string]$entry.source_sha256).ToUpperInvariant()) {
             throw "Live source SHA-256 mismatch: $targetRelative. Files were not changed."
         }
