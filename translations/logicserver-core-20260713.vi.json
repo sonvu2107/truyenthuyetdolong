@@ -76100,97 +76100,97 @@
           "key": "n3100",
           "occurrence": 1,
           "source": "各种巨额金币的道具",
-          "target": "各种巨额金币的道具"
+          "target": "Vật Phẩm Vàng Số Lượng Lớn"
         },
         {
           "key": "i3100",
           "occurrence": 1,
           "source": "有机率获得各种巨额金币的道具,或者其他珍贵道具",
-          "target": "有机率获得各种巨额金币的道具,或者其他珍贵道具"
+          "target": "Có cơ hội nhận Vật Phẩm Vàng Số Lượng Lớn hoặc vật phẩm quý khác"
         },
         {
           "key": "n3101",
           "occurrence": 1,
           "source": "随机数量的屠龙卷轴",
-          "target": "随机数量的屠龙卷轴"
+          "target": "Cuộn Đồ Long Ngẫu Nhiên"
         },
         {
           "key": "i3101",
           "occurrence": 1,
           "source": "有机率获得大量屠龙卷轴,或者其他珍贵道具",
-          "target": "有机率获得大量屠龙卷轴,或者其他珍贵道具"
+          "target": "Có cơ hội nhận nhiều Cuộn Đồ Long hoặc vật phẩm quý khác"
         },
         {
           "key": "n3102",
           "occurrence": 1,
           "source": "光速提升坐骑道具",
-          "target": "光速提升坐骑道具"
+          "target": "Vật Phẩm Tăng Thú Cưỡi Siêu Tốc"
         },
         {
           "key": "i3102",
           "occurrence": 1,
           "source": "有机率获得大量提升坐骑道具,或者其他珍贵道具",
-          "target": "有机率获得大量提升坐骑道具,或者其他珍贵道具"
+          "target": "Có cơ hội nhận nhiều vật phẩm tăng Thú Cưỡi hoặc vật phẩm quý khác"
         },
         {
           "key": "n3103",
           "occurrence": 1,
           "source": "增强符文道具",
-          "target": "增强符文道具"
+          "target": "Vật Phẩm Cường Hóa Phù Văn"
         },
         {
           "key": "i3103",
           "occurrence": 1,
           "source": "有机率获得大量超级辨识符,或者其他珍贵道具",
-          "target": "有机率获得大量超级辨识符,或者其他珍贵道具"
+          "target": "Có cơ hội nhận nhiều Phù Giám Định Siêu Cấp hoặc vật phẩm quý khác"
         },
         {
           "key": "n3104",
           "occurrence": 1,
           "source": "光速提升星魂道具",
-          "target": "光速提升星魂道具"
+          "target": "Vật Phẩm Tăng Tinh Hồn Siêu Tốc"
         },
         {
           "key": "i3104",
           "occurrence": 1,
           "source": "有机率获得大量高面额的星魂卡,或者其他珍贵道具",
-          "target": "有机率获得大量高面额的星魂卡,或者其他珍贵道具"
+          "target": "Có cơ hội nhận nhiều Thẻ Tinh Hồn mệnh giá cao hoặc vật phẩm quý khác"
         },
         {
           "key": "n3105",
           "occurrence": 1,
           "source": "光速提升翅膀道具",
-          "target": "光速提升翅膀道具"
+          "target": "Vật Phẩm Tăng Cánh Siêu Tốc"
         },
         {
           "key": "i3105",
           "occurrence": 1,
           "source": "有机率获得大量提升翅膀等级道具,或者其他珍贵道具",
-          "target": "有机率获得大量提升翅膀等级道具,或者其他珍贵道具"
+          "target": "Có cơ hội nhận nhiều vật phẩm tăng cấp Cánh hoặc vật phẩm quý khác"
         },
         {
           "key": "n3106",
           "occurrence": 1,
           "source": "顶级神戒",
-          "target": "顶级神戒"
+          "target": "Nhẫn Thần Đỉnh Cấp"
         },
         {
           "key": "i3106",
           "occurrence": 1,
           "source": "有机率获得诸神圣器中的八大神戒,或者其他珍贵道具",
-          "target": "有机率获得诸神圣器中的八大神戒,或者其他珍贵道具"
+          "target": "Có cơ hội nhận một trong 8 Nhẫn Thần của Thánh Khí Chư Thần hoặc vật phẩm quý khác"
         },
         {
           "key": "n3107",
           "occurrence": 1,
           "source": "各种增强佣兵道具",
-          "target": "各种增强佣兵道具"
+          "target": "Vật Phẩm Cường Hóa Lính Đánh Thuê"
         },
         {
           "key": "i3107",
           "occurrence": 1,
           "source": "有机率获得佣兵系统中的增强道具,或者其他珍贵道具",
-          "target": "有机率获得佣兵系统中的增强道具,或者其他珍贵道具"
+          "target": "Có cơ hội nhận vật phẩm cường hóa trong hệ thống Lính Đánh Thuê hoặc vật phẩm quý khác"
         },
         {
           "key": "n3108",
