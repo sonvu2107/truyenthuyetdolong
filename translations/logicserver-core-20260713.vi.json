@@ -77540,97 +77540,97 @@
           "key": "n3220",
           "occurrence": 1,
           "source": "佣兵黄金参",
-          "target": "佣兵黄金参"
+          "target": "Nhân Sâm Hoàng Kim Lính Đánh Thuê"
         },
         {
           "key": "i3220",
           "occurrence": 1,
           "source": "双击使用\\\\能大幅且快速回复佣兵生命值的神奇物品\\\\开服<(c0xFFFF6600)2天>后才可使用",
-          "target": "双击使用\\\\能大幅且快速回复佣兵生命值的神奇物品\\\\开服<(c0xFFFF6600)2天>后才可使用"
+          "target": "Nhấp đúp để dùng\\\\Vật phẩm thần kỳ hồi nhiều HP Lính Đánh Thuê cực nhanh\\\\Chỉ dùng được sau <(c0xFFFF6600)2 Ngày> mở server"
         },
         {
           "key": "n3221",
           "occurrence": 1,
           "source": "百服庆典礼包",
-          "target": "百服庆典礼包"
+          "target": "Túi Quà Kỷ Niệm Trăm Server"
         },
         {
           "key": "i3221",
           "occurrence": 1,
           "source": "百服活动拥有的超值大礼包\\\\包内拥有<(c0xFFFFFF00)经验、高级材料、坐骑、翅膀、绑金、宝石、3-5转神装>\\\\每个类型可以随机开出大量道具和高级道具\\\\惊喜多多，快试试你的手气吧",
-          "target": "百服活动拥有的超值大礼包\\\\包内拥有<(c0xFFFFFF00)经验、高级材料、坐骑、翅膀、绑金、宝石、3-5转神装>\\\\每个类型可以随机开出大量道具和高级道具\\\\惊喜多多，快试试你的手气吧"
+          "target": "Siêu túi quà của sự kiện Trăm Server\\\\Bao gồm <(c0xFFFFFF00)KN, Nguyên Liệu cao cấp, Thú Cưỡi, Cánh, Vàng Khóa, Đá Quý, Thần Trang 3–5 Chuyển Sinh>\\\\Mỗi loại có thể mở ngẫu nhiên nhiều vật phẩm và vật phẩm cao cấp\\\\Nhiều bất ngờ, thử vận may ngay!"
         },
         {
           "key": "n3222",
           "occurrence": 1,
           "source": "材料盒子",
-          "target": "材料盒子"
+          "target": "Hộp Nguyên Liệu"
         },
         {
           "key": "i3222",
           "occurrence": 1,
           "source": "双击打开盒子\\\\可随机获得以下材料\\\\装备升级石x20\\\\天神精华x5\\\\神魂晶石x10\\\\10000点星魂卡x1\\\\10000点神魂卷x1\\\\鉴定锁x5\\\\清洗神砂x5",
-          "target": "双击打开盒子\\\\可随机获得以下材料\\\\装备升级石x20\\\\天神精华x5\\\\神魂晶石x10\\\\10000点星魂卡x1\\\\10000点神魂卷x1\\\\鉴定锁x5\\\\清洗神砂x5"
+          "target": "Nhấp đúp mở hộp\\\\Có thể nhận ngẫu nhiên các nguyên liệu sau\\\\Đá Nâng Cấp Trang Bị x20\\\\Tinh Hoa Thiên Thần x5\\\\Tinh Thạch Thần Hồn x10\\\\Thẻ Tinh Hồn 10000 Điểm x1\\\\Cuộn Thần Hồn 10000 Điểm x1\\\\Khóa Giám Định x5\\\\Thần Sa Tẩy Luyện x5"
         },
         {
           "key": "n3223",
           "occurrence": 1,
           "source": "坐骑盒子",
-          "target": "坐骑盒子"
+          "target": "Hộp Thú Cưỡi"
         },
         {
           "key": "i3223",
           "occurrence": 1,
           "source": "双击打开盒子\\\\可随机获得10-100个之间的马鞭\\\\还有机率获得坐骑升1星\\\\快试试你的手气吧",
-          "target": "双击打开盒子\\\\可随机获得10-100个之间的马鞭\\\\还有机率获得坐骑升1星\\\\快试试你的手气吧"
+          "target": "Nhấp đúp mở hộp\\\\Có thể nhận ngẫu nhiên 10–100 Roi Ngựa\\\\Có cơ hội nhận Thú Cưỡi Tăng 1 Sao\\\\Thử vận may ngay!"
         },
         {
           "key": "n3224",
           "occurrence": 1,
           "source": "翅膀盒子",
-          "target": "翅膀盒子"
+          "target": "Hộp Cánh"
         },
         {
           "key": "i3224",
           "occurrence": 1,
           "source": "双击打开盒子\\\\可随机获得10-100个之间的羽毛\\\\还有机率获得【夺天之翼】永久翅膀\\\\快试试手气吧",
-          "target": "双击打开盒子\\\\可随机获得10-100个之间的羽毛\\\\还有机率获得【夺天之翼】永久翅膀\\\\快试试手气吧"
+          "target": "Nhấp đúp mở hộp\\\\Có thể nhận ngẫu nhiên 10–100 Lông Vũ\\\\Có cơ hội nhận 【Cánh Đoạt Thiên】 vĩnh viễn\\\\Thử vận may ngay!"
         },
         {
           "key": "n3225",
           "occurrence": 1,
           "source": "绑金盒子",
-          "target": "绑金盒子"
+          "target": "Hộp Vàng Khóa"
         },
         {
           "key": "i3225",
           "occurrence": 1,
           "source": "刷机打开盒子\\\\可随机获得1000万到1亿绑定金币\\\\快试试手气吧",
-          "target": "刷机打开盒子\\\\可随机获得1000万到1亿绑定金币\\\\快试试手气吧"
+          "target": "Nhấp đúp mở hộp\\\\Có thể nhận ngẫu nhiên 10000K–100000K Vàng Khóa\\\\Thử vận may ngay!"
         },
         {
           "key": "n3226",
           "occurrence": 1,
           "source": "宝石盒子",
-          "target": "宝石盒子"
+          "target": "Hộp Đá Quý"
         },
         {
           "key": "i3226",
           "occurrence": 1,
           "source": "双击打开盒子\\\\可随机获得2级到5级任意宝石1个\\\\快试试手气吧",
-          "target": "双击打开盒子\\\\可随机获得2级到5级任意宝石1个\\\\快试试手气吧"
+          "target": "Nhấp đúp mở hộp\\\\Có thể nhận ngẫu nhiên 1 Đá Quý bất kỳ Cấp 2–5\\\\Thử vận may ngay!"
         },
         {
           "key": "n3227",
           "occurrence": 1,
           "source": "神装盒子",
-          "target": "神装盒子"
+          "target": "Hộp Thần Trang"
         },
         {
           "key": "i3227",
           "occurrence": 1,
           "source": "双击打开盒子\\\\可随机获得3转到5转本职业的神装或套装，任意部位的1件装备\\\\快试试手气吧",
-          "target": "双击打开盒子\\\\可随机获得3转到5转本职业的神装或套装，任意部位的1件装备\\\\快试试手气吧"
+          "target": "Nhấp đúp mở hộp\\\\Có thể nhận ngẫu nhiên 1 Trang Bị Thần hoặc Trang Bị Bộ bất kỳ vị trí, phù hợp nghề, 3–5 Chuyển Sinh\\\\Thử vận may ngay!"
         },
         {
           "key": "n3228",
