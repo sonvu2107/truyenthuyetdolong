@@ -103,9 +103,10 @@ try {
         Copy-Item -LiteralPath $downloadedGameConfig -Destination $gameConfig -Force
 
         if (-not (Test-AsciiToken -Path $djrm -Token "AHTL_GLOBAL_CBP_CACHE_$Version")) {
-            Replace-AsciiOnce -Path $djrm -Needle 'session_start();' -Replacement "session_start();`r`nheader('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');`r`nheader('Pragma: no-cache');`r`nheader('Expires: Thu, 01 Jan 1970 00:00:00 GMT');"
-            $flashOverride = "// AHTL_GLOBAL_CBP_CACHE_$Version`r`nif (count(`$plainFlashVars) > 0)`r`n{`r`n    `$plainFlashVars['cbppack'] = '1';`r`n    `$plainFlashVars['ver'] = '$Version';`r`n    `$plainFlashVars['nocache'] = '1';`r`n}`r`n`r`nif (!`$v || !`$sn)`r`n{"
-            Replace-AsciiOnce -Path $djrm -Needle "if (!`$v || !`$sn)`r`n{" -Replacement $flashOverride
+            $lineEnding = if (Test-AsciiToken -Path $djrm -Token "`r`n") { "`r`n" } else { "`n" }
+            Replace-AsciiOnce -Path $djrm -Needle 'session_start();' -Replacement ("session_start();" + $lineEnding + "header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');" + $lineEnding + "header('Pragma: no-cache');" + $lineEnding + "header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');")
+            $flashOverride = "// AHTL_GLOBAL_CBP_CACHE_$Version" + $lineEnding + "if (count(`$plainFlashVars) > 0)" + $lineEnding + "{" + $lineEnding + "    `$plainFlashVars['cbppack'] = '1';" + $lineEnding + "    `$plainFlashVars['ver'] = '$Version';" + $lineEnding + "    `$plainFlashVars['nocache'] = '1';" + $lineEnding + "}" + $lineEnding + $lineEnding + "if (!`$v || !`$sn)" + $lineEnding + "{"
+            Replace-AsciiOnce -Path $djrm -Needle ("if (!`$v || !`$sn)" + $lineEnding + "{") -Replacement $flashOverride
         }
 
         if (-not (Test-AsciiToken -Path $httpdConf -Token "AHTL_GLOBAL_CBP_CACHE_$Version")) {
