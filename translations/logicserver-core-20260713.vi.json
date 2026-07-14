@@ -79064,97 +79064,97 @@
           "key": "godSpecialAttr9",
           "occurrence": 1,
           "source": "穿戴后,所有伤害减免10%,毒物闪避增加10%",
-          "target": "穿戴后,所有伤害减免10%,毒物闪避增加10%"
+          "target": "Sau trang bị, giảm toàn bộ sát thương 10%, Né Độc tăng 10%"
         },
         {
           "key": "godSpecialAttr10",
           "occurrence": 1,
           "source": "穿戴后,所有伤害减免10%,毒物闪避增加15%",
-          "target": "穿戴后,所有伤害减免10%,毒物闪避增加15%"
+          "target": "Sau trang bị, giảm toàn bộ sát thương 10%, Né Độc tăng 15%"
         },
         {
           "key": "godSpecialAttr11",
           "occurrence": 1,
           "source": "伤害输出+10%,麻痹+4,幸运增加2",
-          "target": "伤害输出+10%,麻痹+4,幸运增加2"
+          "target": "Sát thương gây ra +10%, Tê Liệt +4, May Mắn tăng 2"
         },
         {
           "key": "godSpecialAttr12",
           "occurrence": 1,
           "source": "穿戴后,所有伤害减免10%,毒物闪避增加30%",
-          "target": "穿戴后,所有伤害减免10%,毒物闪避增加30%"
+          "target": "Sau trang bị, giảm toàn bộ sát thương 10%, Né Độc tăng 30%"
         },
         {
           "key": "godItemSource1",
           "occurrence": 1,
           "source": "收集15个勋章灵石,可合成巨龙勋章",
-          "target": "收集15个勋章灵石,可合成巨龙勋章"
+          "target": "Thu thập 15 Linh Thạch Huy Chương để ghép Huy Chương Cự Long"
         },
         {
           "key": "godItemSource2",
           "occurrence": 1,
           "source": "3个巨龙勋章,可合成帝王勋章",
-          "target": "3个巨龙勋章,可合成帝王勋章"
+          "target": "3 Huy Chương Cự Long có thể ghép Huy Chương Đế Vương"
         },
         {
           "key": "godItemSource3",
           "occurrence": 1,
           "source": "3个帝王勋章,可合成神域勋章",
-          "target": "3个帝王勋章,可合成神域勋章"
+          "target": "3 Huy Chương Đế Vương có thể ghép Huy Chương Thần Vực"
         },
         {
           "key": "godItemSource4",
           "occurrence": 1,
           "source": "3个神域勋章,可合成天神勋章",
-          "target": "3个神域勋章,可合成天神勋章"
+          "target": "3 Huy Chương Thần Vực có thể ghép Huy Chương Thiên Thần"
         },
         {
           "key": "godItemSource5",
           "occurrence": 1,
           "source": "3个天神勋章,可合成诸神勋章",
-          "target": "3个天神勋章,可合成诸神勋章"
+          "target": "3 Huy Chương Thiên Thần có thể ghép Huy Chương Chư Thần"
         },
         {
           "key": "godItemSource6",
           "occurrence": 1,
           "source": "收集15个魔钻灵石,可合成苍穹魔钻",
-          "target": "收集15个魔钻灵石,可合成苍穹魔钻"
+          "target": "Thu thập 15 Linh Thạch Ma Toản để ghép Ma Toản Thương Khung"
         },
         {
           "key": "godItemSource7",
           "occurrence": 1,
           "source": "3个苍穹魔钻,可合成幽灵魔钻",
-          "target": "3个苍穹魔钻,可合成幽灵魔钻"
+          "target": "3 Ma Toản Thương Khung có thể ghép Ma Toản U Linh"
         },
         {
           "key": "godItemSource8",
           "occurrence": 1,
           "source": "3个幽灵魔钻,可合成封魔魔钻",
-          "target": "3个幽灵魔钻,可合成封魔魔钻"
+          "target": "3 Ma Toản U Linh có thể ghép Ma Toản Phong Ma"
         },
         {
           "key": "godItemSource9",
           "occurrence": 1,
           "source": "3个封魔魔钻,可合成深渊魔钻",
-          "target": "3个封魔魔钻,可合成深渊魔钻"
+          "target": "3 Ma Toản Phong Ma có thể ghép Ma Toản Thâm Uyên"
         },
         {
           "key": "godItemSource10",
           "occurrence": 1,
           "source": "3个深渊魔钻,可合成镇狱魔钻",
-          "target": "3个深渊魔钻,可合成镇狱魔钻"
+          "target": "3 Ma Toản Thâm Uyên có thể ghép Ma Toản Trấn Ngục"
         },
         {
           "key": "godItemSource11",
           "occurrence": 1,
           "source": "3个诸神圣章,可合成封天战章",
-          "target": "3个诸神圣章,可合成封天战章"
+          "target": "3 Thánh Chương Chư Thần có thể ghép Chiến Chương Phong Thiên"
         },
         {
           "key": "godItemSource12",
           "occurrence": 1,
           "source": "3个镇狱魔钻,可合成地狱魔钻",
-          "target": "3个镇狱魔钻,可合成地狱魔钻"
+          "target": "3 Ma Toản Trấn Ngục có thể ghép Ma Toản Địa Ngục"
         }
       ]
     }
