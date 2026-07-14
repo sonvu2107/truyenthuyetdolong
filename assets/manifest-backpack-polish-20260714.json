@@ -1,10 +1,10 @@
 {
-  "version": "20260714bagui2",
+  "version": "20260714bagui3",
   "files": [
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "DC74793FC45D37137A03A346617F8D24FB44D20F0193E6A096F3EDD584EDED52"
+      "sha256": "7DF876AD86FCF9A8EF897E4CD6672DCE09C0134D91DA95A981C025DCECC82623"
     },
     {
       "source": "assets/lang/zh-cn/cbp.zip",
@@ -14,12 +14,12 @@
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "DA36F661194165A0FF9CCEA02E2E21142F8908B134911C7D939B2453CDD70713"
+      "sha256": "C9FEF7B9E24B3B8D68B60AC4A6BAFB14EEF42B0B40E28DF82500F9762F2F74D1"
     },
     {
       "source": "assets/game/djrm.php",
       "target": "game/djrm.php",
-      "sha256": "71B8F3A06CC66D3826E77A71C63A3066A1B3D394C894AB30A8F7D610314D067B"
+      "sha256": "33187667A786D0E665A24B8F15201F53C4C0CCAC175EFA9AD214A557153DE432"
     }
   ],
   "entries": [
