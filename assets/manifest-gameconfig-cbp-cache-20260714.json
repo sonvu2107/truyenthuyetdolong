@@ -1,0 +1,10 @@
+{
+  "version": "20260714itemcache1",
+  "files": [
+    {
+      "source": "assets/game/GameConfig.php",
+      "target": "game/GameConfig.php",
+      "sha256": "C2EF9ACD611B31C6D51AE683646163D09AF7C8E255E66F4458AC522178AF3956"
+    }
+  ]
+}
