@@ -77636,109 +77636,109 @@
           "key": "n3228",
           "occurrence": 1,
           "source": "圣•麻痹戒指",
-          "target": "圣•麻痹戒指"
+          "target": "Thánh • Nhẫn Tê Liệt"
         },
         {
           "key": "i3228",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\麻痹几率<(c0xFFFF6600)加9>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,物理伤害有几率 <(c0xFFFF6600)麻痹5秒>\\\\麻痹几率<(c0xFFFF6600)加9>\\\\多个麻痹效果可进行叠加,升阶可增加麻痹机率"
+          "target": "<(c0x00ff0066)Một trong các Nhẫn Thần đỉnh cấp nhất>\\\\ Trang bị xong, sát thương vật lý có cơ hội <(c0xFFFF6600)Tê Liệt 5 giây>\\\\Tỷ lệ Tê Liệt <(c0xFFFF6600)+9>\\\\Nhiều hiệu ứng Tê Liệt có thể cộng dồn, tăng bậc sẽ tăng tỷ lệ Tê Liệt"
         },
         {
           "key": "n3229",
           "occurrence": 1,
           "source": "圣•护体戒指",
-          "target": "圣•护体戒指"
+          "target": "Thánh • Nhẫn Hộ Thể"
         },
         {
           "key": "i3229",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,受到伤害时将会 <(c0xFFFF6600)百分之百魔法值抵消伤害>\\\\减免伤害<(c0xFFFF6600)加5%>\\\\多个护体效果可进行叠加,升阶增加护体比率",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,受到伤害时将会 <(c0xFFFF6600)百分之百魔法值抵消伤害>\\\\减免伤害<(c0xFFFF6600)加5%>\\\\多个护体效果可进行叠加,升阶增加护体比率"
+          "target": "<(c0x00ff0066)Một trong các Nhẫn Thần đỉnh cấp nhất>\\\\ Khi chịu sát thương, <(c0xFFFF6600)100% MP dùng để triệt tiêu sát thương>\\\\Giảm Sát Thương <(c0xFFFF6600)+5%>\\\\Nhiều hiệu ứng Hộ Thể có thể cộng dồn, tăng bậc tăng tỷ lệ Hộ Thể"
         },
         {
           "key": "n3230",
           "occurrence": 1,
           "source": "圣•复活戒指",
-          "target": "圣•复活戒指"
+          "target": "Thánh • Nhẫn Phục Sinh"
         },
         {
           "key": "i3230",
           "occurrence": 1,
           "source": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\攻击伤害<(c0xFFFF6600)加5%>\\\\多个回血比率效果可进行叠加,升阶增加回血比率",
-          "target": "<(c0x00ff0066)最顶级神戒之一>\\\\ 穿戴后,死亡可以 <(c0xFFFF6600)立即复活> CD时间60秒\\\\攻击伤害<(c0xFFFF6600)加5%>\\\\多个回血比率效果可进行叠加,升阶增加回血比率"
+          "target": "<(c0x00ff0066)Một trong các Nhẫn Thần đỉnh cấp nhất>\\\\ Khi chết có thể <(c0xFFFF6600)Phục Sinh ngay> CD 60 giây\\\\Sát thương tấn công <(c0xFFFF6600)+5%>\\\\Nhiều hiệu ứng tỷ lệ hồi HP có thể cộng dồn, tăng bậc tăng tỷ lệ hồi HP"
         },
         {
           "key": "n3231",
           "occurrence": 1,
           "source": "夺天之翼【永久】",
-          "target": "夺天之翼【永久】"
+          "target": "Cánh Đoạt Thiên 【Vĩnh Viễn】"
         },
         {
           "key": "i3231",
           "occurrence": 1,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+100\\\\最大魔法攻击力+100\\\\最大道术攻击力+100",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+100\\\\最大魔法攻击力+100\\\\最大道术攻击力+100"
+          "target": "Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +100\\\\Tấn Công Ma Pháp tối đa +100\\\\Tấn Công Đạo Thuật tối đa +100"
         },
         {
           "key": "n3231",
           "occurrence": 2,
           "source": "夺天之翼【永久】",
-          "target": "夺天之翼【永久】"
+          "target": "Cánh Đoạt Thiên 【Vĩnh Viễn】"
         },
         {
           "key": "i3231",
           "occurrence": 2,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+100\\\\最大魔法攻击力+100\\\\最大道术攻击力+100",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+100\\\\最大魔法攻击力+100\\\\最大道术攻击力+100"
+          "target": "Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +100\\\\Tấn Công Ma Pháp tối đa +100\\\\Tấn Công Đạo Thuật tối đa +100"
         },
         {
           "key": "n3232",
           "occurrence": 1,
           "source": "爆裂刺杀(4级)",
-          "target": "爆裂刺杀(4级)"
+          "target": "Ám Sát Bạo Liệt (Cấp 4)"
         },
         {
           "key": "i3232",
           "occurrence": 1,
           "source": "双击使用后,学会爆裂刺杀(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "双击使用后,学会爆裂刺杀(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhấp đúp để học Ám Sát Bạo Liệt (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3233",
           "occurrence": 1,
           "source": "烈火狂刀(4级)",
-          "target": "烈火狂刀(4级)"
+          "target": "Cuồng Đao Liệt Hỏa (Cấp 4)"
         },
         {
           "key": "i3233",
           "occurrence": 1,
           "source": "双击使用后,学会烈火狂刀(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "双击使用后,学会烈火狂刀(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhấp đúp để học Cuồng Đao Liệt Hỏa (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3234",
           "occurrence": 1,
           "source": "冲锋(4级)",
-          "target": "冲锋(4级)"
+          "target": "Xung Phong (Cấp 4)"
         },
         {
           "key": "i3234",
           "occurrence": 1,
           "source": "人物三转后双击使用后,学会冲锋(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物三转后双击使用后,学会冲锋(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Sau khi nhân vật 3 Chuyển Sinh, nhấp đúp để học Xung Phong (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3235",
           "occurrence": 1,
           "source": "火墙焚烧(4级)",
-          "target": "火墙焚烧(4级)"
+          "target": "Thiêu Đốt Tường Lửa (Cấp 4)"
         },
         {
           "key": "i3235",
           "occurrence": 1,
           "source": "双击使用后,学会火墙焚烧(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "双击使用后,学会火墙焚烧(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhấp đúp để học Thiêu Đốt Tường Lửa (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3236",
