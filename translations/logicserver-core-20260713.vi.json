@@ -78896,73 +78896,73 @@
           "key": "t119",
           "occurrence": 1,
           "source": "开服神装套装2阶",
-          "target": "开服神装套装2阶"
+          "target": "Bộ Thần Trang Mở Server Bậc 2"
         },
         {
           "key": "t120",
           "occurrence": 1,
           "source": "开服神戒指2阶",
-          "target": "开服神戒指2阶"
+          "target": "Nhẫn Thần Mở Server Bậc 2"
         },
         {
           "key": "t121",
           "occurrence": 1,
           "source": "开服神装套装3阶",
-          "target": "开服神装套装3阶"
+          "target": "Bộ Thần Trang Mở Server Bậc 3"
         },
         {
           "key": "t122",
           "occurrence": 1,
           "source": "开服神戒指3阶",
-          "target": "开服神戒指3阶"
+          "target": "Nhẫn Thần Mở Server Bậc 3"
         },
         {
           "key": "godDesc1",
           "occurrence": 1,
           "source": "佩带后物理伤害有一定几率使得目标麻痹5秒.麻痹戒指的效果可以互相叠加",
-          "target": "佩带后物理伤害有一定几率使得目标麻痹5秒.麻痹戒指的效果可以互相叠加"
+          "target": "Sau khi trang bị, sát thương Vật Lý có xác suất khiến mục tiêu Tê Liệt 5 giây. Hiệu ứng Nhẫn Tê Liệt có thể cộng dồn"
         },
         {
           "key": "godDesc2",
           "occurrence": 1,
           "source": "佩带后可获得瞬间传送术（戒），使用技能后瞬间传送至鼠标所在位置，冷却时间120秒",
-          "target": "佩带后可获得瞬间传送术（戒），使用技能后瞬间传送至鼠标所在位置，冷却时间120秒"
+          "target": "Sau khi trang bị nhận kỹ năng Dịch Chuyển Tức Thời (Nhẫn), dùng kỹ năng để dịch chuyển tức thời đến vị trí con trỏ chuột, CD 120 giây"
         },
         {
           "key": "godDesc3",
           "occurrence": 1,
           "source": "佩带后可获得神戒技能-隐身术，使用技能后使玩家和怪物无法察觉自己的存在，持续20秒，冷却时间120秒",
-          "target": "佩带后可获得神戒技能-隐身术，使用技能后使玩家和怪物无法察觉自己的存在，持续20秒，冷却时间120秒"
+          "target": "Sau khi trang bị nhận kỹ năng Nhẫn Thần - Ẩn Thân, dùng kỹ năng khiến người chơi và quái vật không thể phát hiện bản thân, kéo dài 20 giây, CD 120 giây"
         },
         {
           "key": "godDesc4",
           "occurrence": 1,
           "source": "佩带后所有伤害减免10%",
-          "target": "佩带后所有伤害减免10%"
+          "target": "Sau khi trang bị, giảm toàn bộ sát thương 10%"
         },
         {
           "key": "godDesc5",
           "occurrence": 1,
           "source": "佩带后死亡可以以一定比例的血量马上复活，该效果每60秒只会触发一次。复活戒指的效果可以互相叠加，但是复活后的血量比例最高为100%",
-          "target": "佩带后死亡可以以一定比例的血量马上复活，该效果每60秒只会触发一次。复活戒指的效果可以互相叠加，但是复活后的血量比例最高为100%"
+          "target": "Sau khi trang bị, khi chết có thể Phục Sinh ngay với tỷ lệ HP nhất định; hiệu ứng chỉ kích hoạt một lần mỗi 60 giây. Hiệu ứng Nhẫn Phục Sinh có thể cộng dồn, nhưng tỷ lệ HP sau Phục Sinh tối đa là 100%"
         },
         {
           "key": "godDesc6",
           "occurrence": 1,
           "source": "佩带后受到伤害时,一定比例的伤害将会由魔法值抵消。护体戒指的效果可以互相叠加，但是抵消比例最高为100%",
-          "target": "佩带后受到伤害时,一定比例的伤害将会由魔法值抵消。护体戒指的效果可以互相叠加，但是抵消比例最高为100%"
+          "target": "Sau khi trang bị, khi chịu sát thương, một tỷ lệ sát thương nhất định sẽ được MP triệt tiêu. Hiệu ứng Nhẫn Hộ Thể có thể cộng dồn, nhưng tỷ lệ triệt tiêu tối đa là 100%"
         },
         {
           "key": "godDesc7",
           "occurrence": 1,
           "source": "佩带后可获得神戒技能-大陨石术,使用技能后可对目标及其范围内的敌人造成自身最大攻击力的130%的伤害，冷却时间30秒",
-          "target": "佩带后可获得神戒技能-大陨石术,使用技能后可对目标及其范围内的敌人造成自身最大攻击力的130%的伤害，冷却时间30秒"
+          "target": "Sau khi trang bị nhận kỹ năng Nhẫn Thần - Đại Vẫn Thạch, dùng kỹ năng gây 130% Tấn Công tối đa lên mục tiêu và địch trong phạm vi, CD 30 giây"
         },
         {
           "key": "godDesc8",
           "occurrence": 1,
           "source": "佩带后所有伤害增加10%",
-          "target": "佩带后所有伤害增加10%"
+          "target": "Sau khi trang bị, tăng toàn bộ sát thương 10%"
         },
         {
           "key": "godSource1",
