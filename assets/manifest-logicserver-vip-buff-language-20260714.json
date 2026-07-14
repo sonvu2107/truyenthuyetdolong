@@ -1,0 +1,12 @@
+{
+  "version": "20260714vipbuffvi1",
+  "catalog": "translations/logicserver-misc-vip-buffs.vi.json",
+  "files": [
+    {
+      "source": "assets/logicserver-language/Zh-CN/Misc.txt",
+      "target": "LogicServer/data/language/Zh-CN/Misc.txt",
+      "source_sha256": "8DB31BDF790E892C7FC009D3366F389CB784CD1BAFD1171C634D756BD208985C",
+      "sha256": "E753096E42DA5340898B31F86513556C64E7A161980908EC854618A08D33D439"
+    }
+  ]
+}
