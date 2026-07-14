@@ -2,7 +2,7 @@
 param(
     [string]$ServerRoot = 'C:\GPHANTL\server',
     [string]$RawBase = 'https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/main',
-    [string]$ExpectedVersion = '20260712logicvi1'
+    [string]$ExpectedVersion = '20260714logicvi2'
 )
 
 $ErrorActionPreference = 'Stop'
@@ -29,7 +29,7 @@ $tempRoot = Join-Path $env:TEMP ('ahtl-logiclang-' + [guid]::NewGuid().ToString(
 New-Item -ItemType Directory -Path $tempRoot -Force | Out-Null
 try {
     $manifestPath = Join-Path $tempRoot 'manifest.json'
-    Get-RemoteFile -Url ($RawBase.TrimEnd('/') + '/assets/manifest-logicserver-language-20260712.json') -Destination $manifestPath
+    Get-RemoteFile -Url ($RawBase.TrimEnd('/') + '/assets/manifest-logicserver-language-20260714.json') -Destination $manifestPath
     $manifest = Get-Content -LiteralPath $manifestPath -Raw -Encoding UTF8 | ConvertFrom-Json
     if ($manifest.version -ne $ExpectedVersion) {
         throw "Unexpected manifest version: $($manifest.version)"
