@@ -1,5 +1,5 @@
 {
-  "version": "20260714itemcache4",
+  "version": "20260715newguidevi3",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -34,7 +34,7 @@
     {
       "source": "assets/lang/zh-cn/cbp.zip",
       "target": "data/lang/zh-cn/cbp.zip",
-      "sha256": "014B238FBC3538026F6B9857C384DBE3C804439728B82256985E2FE94D11C8C7"
+      "sha256": "07E470EACE216EF13CB645038396349649F7C94A68C6FBDD9A1C33FA2142F92C"
     },
     {
       "source": "assets/game/GameConfig.php",
