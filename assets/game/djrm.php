@@ -1,6 +1,10 @@
 <?php
 ob_start();
 session_start();
+// AHTL_GLOBAL_CBP_CACHE_20260714itemcache2
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+header('Pragma: no-cache');
+header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');
 
 include('SPDef.php');
 
@@ -21,6 +25,14 @@ if (!empty($_SESSION['FLVarsPlain']))
 			$plainFlashVars[$key]=$value;
 		}
 	}
+}
+
+// Luôn ưu tiên gói CBP đã Việt hóa và phiên bản mới, kể cả với phiên đăng nhập cũ.
+if (count($plainFlashVars) > 0)
+{
+	$plainFlashVars['cbppack']='1';
+	$plainFlashVars['ver']='20260714itemcache2';
+	$plainFlashVars['nocache']='1';
 }
 
 if (!$v || !$sn)
@@ -86,7 +98,7 @@ function loaded(){
 	}
 ?>
 	};
-	traceClient("djrm_flashvars_mode", "plain=<?=count($plainFlashVars)?>|gpLen=<?=strlen($v)?>");
+	traceClient("djrm_flashvars_mode", "plain=<?=count($plainFlashVars)?>|gpLen=<?=strlen($v)?>|cbppack=<?=isset($plainFlashVars['cbppack']) ? $plainFlashVars['cbppack'] : 'none'?>|ver=<?=isset($plainFlashVars['ver']) ? $plainFlashVars['ver'] : 'none'?>");
 	var params={
 		allowScriptAccess:"always",
 		allowFullScreen:"true",
