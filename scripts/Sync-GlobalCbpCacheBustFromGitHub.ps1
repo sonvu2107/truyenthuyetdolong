@@ -2,7 +2,8 @@
 param(
     [Parameter(Mandatory = $true)][string]$Revision,
     [string]$WebRoot = 'C:\GPHANTL\server\GPHweb\wwwroot',
-    [string]$ApacheRoot = 'C:\GPHANTL\server\GPHweb\Apache2'
+    [string]$ApacheRoot = 'C:\GPHANTL\server\GPHweb\Apache2',
+    [switch]$DynamicOnly
 )
 
 $ErrorActionPreference = 'Stop'
@@ -90,7 +91,11 @@ function Restart-AhtlApache {
 }
 
 try {
-    foreach ($path in @($gameConfig, $djrm, $httpdConf, $httpd, (Join-Path $ApacheRoot 'modules\mod_headers.so'))) {
+    $requiredPaths = @($gameConfig, $djrm)
+    if (-not $DynamicOnly) {
+        $requiredPaths += @($httpdConf, $httpd, (Join-Path $ApacheRoot 'modules\mod_headers.so'))
+    }
+    foreach ($path in $requiredPaths) {
         if (-not (Test-Path -LiteralPath $path)) { throw "Khong tim thay file bat buoc: $path" }
     }
 
@@ -103,7 +108,9 @@ try {
     New-Item -ItemType Directory -Path $backupRoot -Force | Out-Null
     Copy-Item -LiteralPath $gameConfig -Destination (Join-Path $backupRoot 'GameConfig.php') -Force
     Copy-Item -LiteralPath $djrm -Destination (Join-Path $backupRoot 'djrm.php') -Force
-    Copy-Item -LiteralPath $httpdConf -Destination (Join-Path $backupRoot 'httpd.conf') -Force
+    if (-not $DynamicOnly) {
+        Copy-Item -LiteralPath $httpdConf -Destination (Join-Path $backupRoot 'httpd.conf') -Force
+    }
 
     try {
         Copy-Item -LiteralPath $downloadedGameConfig -Destination $gameConfig -Force
@@ -115,14 +122,15 @@ try {
             Replace-AsciiOnce -Path $djrm -Needle ("if (!`$v || !`$sn)" + $lineEnding + "{") -Replacement $flashOverride
         }
 
-        if (-not (Test-AsciiToken -Path $httpdConf -Token "AHTL_GLOBAL_CBP_CACHE_$Version")) {
-            if (Test-AsciiToken -Path $httpdConf -Token '#LoadModule headers_module modules/mod_headers.so') {
-                Replace-AsciiOnce -Path $httpdConf -Needle '#LoadModule headers_module modules/mod_headers.so' -Replacement 'LoadModule headers_module modules/mod_headers.so'
-            }
-            elseif (-not (Test-AsciiToken -Path $httpdConf -Token 'LoadModule headers_module modules/mod_headers.so')) {
-                throw 'Khong the bat mod_headers: khong tim thay dong LoadModule du kien.'
-            }
-            $apacheRules = (@'
+        if (-not $DynamicOnly) {
+            if (-not (Test-AsciiToken -Path $httpdConf -Token "AHTL_GLOBAL_CBP_CACHE_$Version")) {
+                if (Test-AsciiToken -Path $httpdConf -Token '#LoadModule headers_module modules/mod_headers.so') {
+                    Replace-AsciiOnce -Path $httpdConf -Needle '#LoadModule headers_module modules/mod_headers.so' -Replacement 'LoadModule headers_module modules/mod_headers.so'
+                }
+                elseif (-not (Test-AsciiToken -Path $httpdConf -Token 'LoadModule headers_module modules/mod_headers.so')) {
+                    throw 'Khong the bat mod_headers: khong tim thay dong LoadModule du kien.'
+                }
+                $apacheRules = (@'
 
 # AHTL_GLOBAL_CBP_CACHE___VERSION__ begin
 <IfModule headers_module>
@@ -134,22 +142,26 @@ try {
 </IfModule>
 # AHTL_GLOBAL_CBP_CACHE___VERSION__ end
 '@ -replace '__VERSION__', [string]$Version)
-            [IO.File]::AppendAllText($httpdConf, $apacheRules, [Text.Encoding]::ASCII)
-        }
+                [IO.File]::AppendAllText($httpdConf, $apacheRules, [Text.Encoding]::ASCII)
+            }
 
-        & $httpd -t -f $httpdConf
-        if ($LASTEXITCODE -ne 0) { throw 'Apache config test that bai.' }
-        Restart-AhtlApache -HttpdPath $httpd -ConfigPath $httpdConf
+            & $httpd -t -f $httpdConf
+            if ($LASTEXITCODE -ne 0) { throw 'Apache config test that bai.' }
+            Restart-AhtlApache -HttpdPath $httpd -ConfigPath $httpdConf
+        }
     }
     catch {
         Copy-Item -LiteralPath (Join-Path $backupRoot 'GameConfig.php') -Destination $gameConfig -Force
         Copy-Item -LiteralPath (Join-Path $backupRoot 'djrm.php') -Destination $djrm -Force
-        Copy-Item -LiteralPath (Join-Path $backupRoot 'httpd.conf') -Destination $httpdConf -Force
-        Restart-AhtlApache -HttpdPath $httpd -ConfigPath $httpdConf
+        if (-not $DynamicOnly) {
+            Copy-Item -LiteralPath (Join-Path $backupRoot 'httpd.conf') -Destination $httpdConf -Force
+            Restart-AhtlApache -HttpdPath $httpd -ConfigPath $httpdConf
+        }
         throw
     }
 
-    Write-Output "Da ap cache bust toan cuc $Version; backup: $backupRoot"
+    $scope = if ($DynamicOnly) { 'dong (khong restart Apache)' } else { 'toan cuc' }
+    Write-Output "Da ap cache bust $scope $Version; backup: $backupRoot"
 }
 finally {
     Remove-Item -LiteralPath $workRoot -Recurse -Force -ErrorAction SilentlyContinue
