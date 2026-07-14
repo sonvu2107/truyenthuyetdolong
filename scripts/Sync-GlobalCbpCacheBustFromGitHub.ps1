@@ -61,7 +61,10 @@ $httpd = Join-Path $ApacheRoot 'bin\httpd.exe'
 function Restart-AhtlApache {
     param([string]$HttpdPath, [string]$ConfigPath)
     $processes = @(Get-CimInstance Win32_Process | Where-Object {
-        $_.Name -eq 'httpd.exe' -and $_.ExecutablePath -eq $HttpdPath
+        $_.Name -eq 'httpd.exe' -and (
+            $_.ExecutablePath -like '*\GPHweb\Apache2\bin\httpd.exe' -or
+            $_.CommandLine -like '*GPHweb\Apache2\conf\httpd.conf*'
+        )
     })
     if ($processes.Count -eq 0) {
         throw 'Khong tim thay process Apache cua GPHweb de khoi dong lai.'
@@ -75,7 +78,10 @@ function Restart-AhtlApache {
     do {
         Start-Sleep -Milliseconds 500
         $running = @(Get-CimInstance Win32_Process | Where-Object {
-            $_.Name -eq 'httpd.exe' -and $_.ExecutablePath -eq $HttpdPath
+            $_.Name -eq 'httpd.exe' -and (
+                $_.ExecutablePath -like '*\GPHweb\Apache2\bin\httpd.exe' -or
+                $_.CommandLine -like '*GPHweb\Apache2\conf\httpd.conf*'
+            )
         })
     } while ($running.Count -eq 0 -and (Get-Date) -lt $deadline)
     if ($running.Count -eq 0) {
