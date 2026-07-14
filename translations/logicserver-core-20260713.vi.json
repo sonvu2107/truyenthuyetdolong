@@ -75908,97 +75908,97 @@
           "key": "n3084",
           "occurrence": 1,
           "source": "天•屠龙刀(珍品)",
-          "target": "天•屠龙刀(珍品)"
+          "target": "Thiên • Đao Đồ Long (Trân Phẩm)"
         },
         {
           "key": "i3084",
           "occurrence": 1,
           "source": "<(c0x00ff6600)开服珍品,值得收藏>\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 物品合成页面中,特殊装备合成处进行升级。",
-          "target": "<(c0x00ff6600)开服珍品,值得收藏>\\\\可在 <(c0xFFFF6600)锻造面板>(快捷键:<(c0xFFFF6600)x>) 物品合成页面中,特殊装备合成处进行升级。"
+          "target": "<(c0x00ff6600)Trân Phẩm mở server, đáng sưu tầm>\\\\Có thể nâng cấp tại mục Ghép Trang Bị Đặc Biệt trong trang Ghép Vật Phẩm của <(c0xFFFF6600)Bảng Rèn> (phím tắt: <(c0xFFFF6600)x>)."
         },
         {
           "key": "n3085",
           "occurrence": 1,
           "source": "1000点星魂卡",
-          "target": "1000点星魂卡"
+          "target": "Thẻ Tinh Hồn 1000 Điểm"
         },
         {
           "key": "i3085",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)星魂值 1000 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>",
-          "target": "双击即可获得<(c0xFF66CCFF)星魂值 1000 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)1000 Điểm Tinh Hồn>\\\\<(c0xFF00ff00)Dùng phím tắt (ctrl+2) mở hệ thống Tinh Hồn để kích hoạt Điểm Sao>"
         },
         {
           "key": "n3086",
           "occurrence": 1,
           "source": "5000点星魂卡",
-          "target": "5000点星魂卡"
+          "target": "Thẻ Tinh Hồn 5000 Điểm"
         },
         {
           "key": "i3086",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)星魂值 5000 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>",
-          "target": "双击即可获得<(c0xFF66CCFF)星魂值 5000 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)5000 Điểm Tinh Hồn>\\\\<(c0xFF00ff00)Dùng phím tắt (ctrl+2) mở hệ thống Tinh Hồn để kích hoạt Điểm Sao>"
         },
         {
           "key": "n3087",
           "occurrence": 1,
           "source": "10000点星魂卡",
-          "target": "10000点星魂卡"
+          "target": "Thẻ Tinh Hồn 10000 Điểm"
         },
         {
           "key": "i3087",
           "occurrence": 1,
           "source": "双击即可获得<(c0xFF66CCFF)星魂值 10000 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>",
-          "target": "双击即可获得<(c0xFF66CCFF)星魂值 10000 点>\\\\<(c0xFF00ff00)使用快捷键(ctrl+2)打开星魂系统激活星点>"
+          "target": "Nhấp đúp nhận <(c0xFF66CCFF)10000 Điểm Tinh Hồn>\\\\<(c0xFF00ff00)Dùng phím tắt (ctrl+2) mở hệ thống Tinh Hồn để kích hoạt Điểm Sao>"
         },
         {
           "key": "n3088",
           "occurrence": 1,
           "source": "500倍返利礼包",
-          "target": "500倍返利礼包"
+          "target": "Túi Quà Hoàn Lợi 500 Lần"
         },
         {
           "key": "i3088",
           "occurrence": 1,
           "source": "1元宝可开启,（血祭宝石、烈日宝石、龙吟宝石）按职业给予一个\\\\星魂卡*10,一阶绑金箱*2,100000经验*2",
-          "target": "1元宝可开启,（血祭宝石、烈日宝石、龙吟宝石）按职业给予一个\\\\星魂卡*10,一阶绑金箱*2,100000经验*2"
+          "target": "Mở bằng 1 Nguyên Bảo, nhận 1 trong Đá Huyết Tế, Đá Liệt Nhật, Đá Long Ngâm theo nghề\\\\Thẻ Tinh Hồn x10, Rương Vàng Khóa Bậc 1 x2, 100K KN x2"
         },
         {
           "key": "n3089",
           "occurrence": 1,
           "source": "机械陆行鸟【3天】",
-          "target": "机械陆行鸟【3天】"
+          "target": "Đà Điểu Cơ Giới 【3 Ngày】"
         },
         {
           "key": "i3089",
           "occurrence": 1,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大道术攻击力+120",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大道术攻击力+120"
+          "target": "Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +120\\\\Tấn Công Ma Pháp tối đa +120\\\\Tấn Công Đạo Thuật tối đa +120"
         },
         {
           "key": "n3090",
           "occurrence": 1,
           "source": "鲨鱼火箭【3天】",
-          "target": "鲨鱼火箭【3天】"
+          "target": "Tên Lửa Cá Mập 【3 Ngày】"
         },
         {
           "key": "i3090",
           "occurrence": 1,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大道术攻击力+120",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+120\\\\最大魔法攻击力+120\\\\最大道术攻击力+120"
+          "target": "Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +120\\\\Tấn Công Ma Pháp tối đa +120\\\\Tấn Công Đạo Thuật tối đa +120"
         },
         {
           "key": "n3091",
           "occurrence": 1,
           "source": "梦幻之翼【3天】",
-          "target": "梦幻之翼【3天】"
+          "target": "Cánh Mộng Ảo 【3 Ngày】"
         },
         {
           "key": "i3091",
           "occurrence": 1,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+50\\\\最大魔法攻击力+50\\\\最大道术攻击力+50",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+50\\\\最大魔法攻击力+50\\\\最大道术攻击力+50"
+          "target": "Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +50\\\\Tấn Công Ma Pháp tối đa +50\\\\Tấn Công Đạo Thuật tối đa +50"
         },
         {
           "key": "n3092",
