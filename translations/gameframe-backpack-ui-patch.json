@@ -4,13 +4,7 @@
   "description": "Rút gọn số tiền và bộ đếm thời gian trong Hành Trang.",
   "classes": {
     "view.game.components.icons.MoneyIcon": {
-      "change": "Thêm định dạng K/M/B, tối đa một chữ số thập phân và không làm thay đổi giá trị gốc."
-    },
-    "view.game.components.icons.MoneyPanel": {
-      "change": "Cho phép bật định dạng rút gọn theo từng bảng tiền."
-    },
-    "view.game.backpack.BackPackWin": {
-      "change": "Chỉ bật định dạng K/M/B cho bảng tiền ở đáy Hành Trang."
+      "change": "Thêm định dạng K/M/B tối đa một chữ số thập phân; chỉ kích hoạt khi cây cha chứa BackPackWin và không làm thay đổi giá trị gốc."
     },
     "view.game.backpack.page.BackPackPanicBuyPage": {
       "change": "Bộ đếm cỡ 15, chỉ hiện giờ và phút; nhãn Còn cỡ 16."
@@ -25,7 +19,8 @@
   },
   "safety": {
     "server_values_unchanged": true,
-    "compact_money_scope": "BackPackWin",
+    "compact_money_scope": "MoneyIcon nằm trong cây hiển thị BackPackWin",
+    "backpack_class_recompiled": false,
     "countdown_rounding": "ceil-to-minute"
   }
 }
