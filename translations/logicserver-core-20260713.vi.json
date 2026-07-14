@@ -76772,7 +76772,7 @@
           "key": "n3156",
           "occurrence": 1,
           "source": "神•祛毒",
-          "target": "Thần • Kháng Độc"
+          "target": "Thần • Giải Độc"
         },
         {
           "key": "i3156",
@@ -76784,7 +76784,7 @@
           "key": "n3157",
           "occurrence": 1,
           "source": "魂•祛毒",
-          "target": "Hồn • Kháng Độc"
+          "target": "Hồn • Giải Độc"
         },
         {
           "key": "i3157",
@@ -76796,7 +76796,7 @@
           "key": "n3158",
           "occurrence": 1,
           "source": "武•祛毒",
-          "target": "Võ • Kháng Độc"
+          "target": "Võ • Giải Độc"
         },
         {
           "key": "i3158",
@@ -76808,7 +76808,7 @@
           "key": "n3159",
           "occurrence": 1,
           "source": "圣•祛毒",
-          "target": "Thánh • Kháng Độc"
+          "target": "Thánh • Giải Độc"
         },
         {
           "key": "i3159",
@@ -77060,97 +77060,97 @@
           "key": "n3180",
           "occurrence": 1,
           "source": "神•精准",
-          "target": "神•精准"
+          "target": "Thần • Tinh Chuẩn"
         },
         {
           "key": "i3180",
           "occurrence": 1,
           "source": "<(c0xffFAAC58)橙色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xffFAAC58)橙色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xffFAAC58)Võ Hồn Cam>\\\\Tăng Trúng Đích Ma Pháp\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3181",
           "occurrence": 1,
           "source": "魂•精准",
-          "target": "魂•精准"
+          "target": "Hồn • Tinh Chuẩn"
         },
         {
           "key": "i3181",
           "occurrence": 1,
           "source": "<(c0xff2E9AFE)蓝色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xff2E9AFE)蓝色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\\\Tăng Trúng Đích Ma Pháp\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3182",
           "occurrence": 1,
           "source": "武•精准",
-          "target": "武•精准"
+          "target": "Võ • Tinh Chuẩn"
         },
         {
           "key": "i3182",
           "occurrence": 1,
           "source": "<(c0xff81F79F)绿色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xff81F79F)绿色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xff81F79F)Võ Hồn Lục>\\\\Tăng Trúng Đích Ma Pháp\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3183",
           "occurrence": 1,
           "source": "圣•精准",
-          "target": "圣•精准"
+          "target": "Thánh • Tinh Chuẩn"
         },
         {
           "key": "i3183",
           "occurrence": 1,
           "source": "<(c0xffB404AE)紫色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xffB404AE)紫色武魂>\\\\增加魔法命中\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xffB404AE)Võ Hồn Tím>\\\\Tăng Trúng Đích Ma Pháp\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3184",
           "occurrence": 1,
           "source": "神•抗毒",
-          "target": "神•抗毒"
+          "target": "Thần • Kháng Độc"
         },
         {
           "key": "i3184",
           "occurrence": 1,
           "source": "<(c0xffFAAC58)橙色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xffFAAC58)橙色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xffFAAC58)Võ Hồn Cam>\\\\Tăng Né Độc\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3185",
           "occurrence": 1,
           "source": "魂•抗毒",
-          "target": "魂•抗毒"
+          "target": "Hồn • Kháng Độc"
         },
         {
           "key": "i3185",
           "occurrence": 1,
           "source": "<(c0xff2E9AFE)蓝色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xff2E9AFE)蓝色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\\\Tăng Né Độc\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3186",
           "occurrence": 1,
           "source": "武•抗毒",
-          "target": "武•抗毒"
+          "target": "Võ • Kháng Độc"
         },
         {
           "key": "i3186",
           "occurrence": 1,
           "source": "<(c0xff81F79F)绿色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xff81F79F)绿色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xff81F79F)Võ Hồn Lục>\\\\Tăng Né Độc\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3187",
           "occurrence": 1,
           "source": "圣•抗毒",
-          "target": "圣•抗毒"
+          "target": "Thánh • Kháng Độc"
         },
         {
           "key": "i3187",
           "occurrence": 1,
           "source": "<(c0xffB404AE)紫色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xffB404AE)紫色武魂>\\\\增加毒物闪避\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xffB404AE)Võ Hồn Tím>\\\\Tăng Né Độc\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3188",
