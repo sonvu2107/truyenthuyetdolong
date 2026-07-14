@@ -52,7 +52,7 @@ try {
             throw "Live source SHA-256 mismatch: $targetRelative. Files were not changed."
         }
         $download = Join-Path $tempRoot (Split-Path -Path $source -Leaf)
-        Get-RemoteFile -Url ($RawBase.TrimEnd('/') + '/' + ($source -replace '\\', '/')) -Destination $download
+        Get-RemoteFile -Url ($RawBase.TrimEnd('/') + '/' + $source) -Destination $download
         if ((Get-Sha256 -Path $download) -ne ([string]$entry.sha256).ToUpperInvariant()) {
             throw "Downloaded SHA-256 mismatch: $source"
         }
