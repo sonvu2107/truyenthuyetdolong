@@ -1,5 +1,5 @@
 {
-  "version": "20260714welfare4",
+  "version": "20260714itemcache4",
   "files": [
     {
       "source": "assets/client_login.php",
@@ -39,7 +39,7 @@
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "08BD4A3BE3574D8DEE244BF5726F3FA54382642D174A8B3297830FFE26B4BA82"
+      "sha256": "1DEA8A31AE10B554EB657FA719AE92CDB6579A06BE2AE8DA596B8A558D02F711"
     },
     {
       "source": "assets/game/static/common.js",
@@ -49,7 +49,7 @@
     {
       "source": "assets/game/djrm.php",
       "target": "game/djrm.php",
-      "sha256": "9809B30AD6F88CD8D92E2C53D3B1810EDFD7F20B33C81C52251CA987FE17C2ED"
+      "sha256": "927E35AEE30647C671BA8EC1DE029C3C14AECF8C697FB21AA024E4346B339D61"
     },
     {
       "source": "launcher/AHTL_Launcher_Fixed.exe",

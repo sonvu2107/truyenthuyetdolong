@@ -46,7 +46,7 @@ $_payUrl=str_replace('&', ';', $PayURL);
 
 $gameName = GAMENAME;
 $key='differofzjcqha';
-$flash_vars="srvaddr=".$_srvAddr."&srvport=".$_srvPort."&srvid=".$_srvId."&spid=".$SPID."&ressite=".$_resSite."&rankurl=".$_rankServer."&payurl=".$_payUrl."&user=".$LoginUser."&spverify=".$LoginVerify."&gameName=".$gameName."&lang=".LANGUAGE."&repus=".$RepUS."&frameRate=48&cbppack=1&ver=20260714itemcache2&nocache=1&homeURL=".HOMEURL."&forumURL=".BBSURL.'&client='.$_SESSION['client'].'&clienURL='.CLIENT_DOWN_URL;
+$flash_vars="srvaddr=".$_srvAddr."&srvport=".$_srvPort."&srvid=".$_srvId."&spid=".$SPID."&ressite=".$_resSite."&rankurl=".$_rankServer."&payurl=".$_payUrl."&user=".$LoginUser."&spverify=".$LoginVerify."&gameName=".$gameName."&lang=".LANGUAGE."&repus=".$RepUS."&frameRate=48&cbppack=1&ver=20260714itemcache4&nocache=1&homeURL=".HOMEURL."&forumURL=".BBSURL.'&client='.$_SESSION['client'].'&clienURL='.CLIENT_DOWN_URL;
 $_SESSION['FLVarsPlain']=$flash_vars;
 //针对参数进行xor简单加密,FLASH中需要做对应的解密,这样避免查看源文件得到这些敏感信息,如不需要加密则屏蔽下面这行
 //解密时,先base64_decode再与 $key 做异或运算

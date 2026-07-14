@@ -7,7 +7,7 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
-$Version = '20260714itemcache2'
+$Version = '20260714itemcache4'
 $repoBase = "https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/$Revision"
 $workRoot = Join-Path $env:TEMP ('ahtl-global-cbp-cache-' + [Guid]::NewGuid().ToString('N'))
 $backupRoot = Join-Path $WebRoot ('_deploy_backups\global_cbp_cache_' + (Get-Date -Format 'yyyyMMdd_HHmmss'))
@@ -61,7 +61,7 @@ $httpd = Join-Path $ApacheRoot 'bin\httpd.exe'
 
 function Restart-AhtlApache {
     param([string]$HttpdPath, [string]$ConfigPath)
-    $processes = @(Get-CimInstance Win32_Process | Where-Object {
+    $processes = @(Get-WmiObject Win32_Process | Where-Object {
         $_.Name -eq 'httpd.exe' -and (
             $_.ExecutablePath -like '*\GPHweb\Apache2\bin\httpd.exe' -or
             $_.CommandLine -like '*GPHweb\Apache2\conf\httpd.conf*'
@@ -74,18 +74,24 @@ function Restart-AhtlApache {
         Stop-Process -Id $process.ProcessId -Force -ErrorAction SilentlyContinue
     }
     Start-Sleep -Seconds 1
-    Start-Process -FilePath $HttpdPath -ArgumentList @('-f', $ConfigPath) -WorkingDirectory (Split-Path -Parent $HttpdPath) -WindowStyle Hidden
+    $apacheRoot = Split-Path -Parent (Split-Path -Parent $HttpdPath)
+    $commandLine = '"' + $HttpdPath + '" -d "' + $apacheRoot + '" -f "' + $ConfigPath + '"'
+    $created = ([wmiclass]'Win32_Process').Create($commandLine)
+    if ($created.ReturnValue -ne 0) {
+        throw "Khong tao duoc process Apache, ma WMI: $($created.ReturnValue)."
+    }
     $deadline = (Get-Date).AddSeconds(10)
     do {
         Start-Sleep -Milliseconds 500
-        $running = @(Get-CimInstance Win32_Process | Where-Object {
+        $running = @(Get-WmiObject Win32_Process | Where-Object {
             $_.Name -eq 'httpd.exe' -and (
                 $_.ExecutablePath -like '*\GPHweb\Apache2\bin\httpd.exe' -or
                 $_.CommandLine -like '*GPHweb\Apache2\conf\httpd.conf*'
             )
         })
-    } while ($running.Count -eq 0 -and (Get-Date) -lt $deadline)
-    if ($running.Count -eq 0) {
+        $listening = (netstat -ano | Select-String ':81\s+.*LISTENING').Count -gt 0
+    } while (($running.Count -lt 2 -or -not $listening) -and (Get-Date) -lt $deadline)
+    if ($running.Count -lt 2 -or -not $listening) {
         throw 'Apache khong khoi dong lai sau khi dung process cu.'
     }
 }
@@ -100,9 +106,15 @@ try {
     }
 
     $downloadedGameConfig = Join-Path $workRoot 'GameConfig.php'
+    $downloadedDjrm = Join-Path $workRoot 'djrm.php'
     Get-GitHubFile -RelativePath 'assets/game/GameConfig.php' -Destination $downloadedGameConfig
+    Get-GitHubFile -RelativePath 'assets/game/djrm.php' -Destination $downloadedDjrm
     if (-not (Test-AsciiToken -Path $downloadedGameConfig -Token "cbppack=1&ver=$Version&nocache=1")) {
         throw 'GameConfig tu GitHub khong co cache key du kien.'
+    }
+    if (-not (Test-AsciiToken -Path $downloadedDjrm -Token "AHTL_GLOBAL_CBP_CACHE_$Version") -or
+        -not (Test-AsciiToken -Path $downloadedDjrm -Token "ahtlcache=${Version}gf")) {
+        throw 'djrm.php tu GitHub khong co cache key du kien.'
     }
 
     New-Item -ItemType Directory -Path $backupRoot -Force | Out-Null
@@ -114,13 +126,7 @@ try {
 
     try {
         Copy-Item -LiteralPath $downloadedGameConfig -Destination $gameConfig -Force
-
-        if (-not (Test-AsciiToken -Path $djrm -Token "AHTL_GLOBAL_CBP_CACHE_$Version")) {
-            $lineEnding = if (Test-AsciiToken -Path $djrm -Token "`r`n") { "`r`n" } else { "`n" }
-            Replace-AsciiOnce -Path $djrm -Needle 'session_start();' -Replacement ("session_start();" + $lineEnding + "header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');" + $lineEnding + "header('Pragma: no-cache');" + $lineEnding + "header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');")
-            $flashOverride = "// AHTL_GLOBAL_CBP_CACHE_$Version" + $lineEnding + "if (count(`$plainFlashVars) > 0)" + $lineEnding + "{" + $lineEnding + "    `$plainFlashVars['cbppack'] = '1';" + $lineEnding + "    `$plainFlashVars['ver'] = '$Version';" + $lineEnding + "    `$plainFlashVars['nocache'] = '1';" + $lineEnding + "}" + $lineEnding + $lineEnding + "if (!`$v || !`$sn)" + $lineEnding + "{"
-            Replace-AsciiOnce -Path $djrm -Needle ("if (!`$v || !`$sn)" + $lineEnding + "{") -Replacement $flashOverride
-        }
+        Copy-Item -LiteralPath $downloadedDjrm -Destination $djrm -Force
 
         if (-not $DynamicOnly) {
             if (-not (Test-AsciiToken -Path $httpdConf -Token "AHTL_GLOBAL_CBP_CACHE_$Version")) {
@@ -134,7 +140,7 @@ try {
 
 # AHTL_GLOBAL_CBP_CACHE___VERSION__ begin
 <IfModule headers_module>
-    <LocationMatch "^/(?:client_shell\.html|GameFrame\.swf|GPH\.html|GPH\.php|data/lang/zh-cn/(?:[^/]+\.cbp|cbp\.zip))$">
+    <LocationMatch "(?i)^/(?:client_shell\.html|GameFrame\.swf|GPH\.html|GPH\.php|data/lang/zh-cn/(?:[^/]+\.cbp|cbp\.zip))$">
         Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
         Header set Pragma "no-cache"
         Header set Expires "Thu, 01 Jan 1970 00:00:00 GMT"
