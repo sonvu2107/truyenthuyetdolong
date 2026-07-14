@@ -76580,97 +76580,97 @@
           "key": "n3140",
           "occurrence": 1,
           "source": "豪礼羽毛礼包",
-          "target": "豪礼羽毛礼包"
+          "target": "Túi Lông Vũ Hào Lễ"
         },
         {
           "key": "i3140",
           "occurrence": 1,
           "source": "在豪礼乐不停活动中每日限购中获得\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\羽毛x50",
-          "target": "在豪礼乐不停活动中每日限购中获得\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\羽毛x50"
+          "target": "Nhận từ mục mua giới hạn hằng ngày của sự kiện Hào Lễ Không Ngừng\\\\<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Lông Vũ x50"
         },
         {
           "key": "n3141",
           "occurrence": 1,
           "source": "豪礼限购大礼包",
-          "target": "豪礼限购大礼包"
+          "target": "Túi Quà Mua Giới Hạn Hào Lễ"
         },
         {
           "key": "i3141",
           "occurrence": 1,
           "source": "在豪礼乐不停的限购活动中购买\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\装备升级石x20\\\\神魂晶石x20\\\\1级神装增强精华x20\\\\1000点星魂卡x5",
-          "target": "在豪礼乐不停的限购活动中购买\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\装备升级石x20\\\\神魂晶石x20\\\\1级神装增强精华x20\\\\1000点星魂卡x5"
+          "target": "Mua trong sự kiện mua giới hạn Hào Lễ Không Ngừng\\\\<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Đá Nâng Cấp Trang Bị x20\\\\Tinh Thạch Thần Hồn x20\\\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 x20\\\\Thẻ Tinh Hồn 1000 Điểm x5"
         },
         {
           "key": "n3142",
           "occurrence": 1,
           "source": "豪礼限购珍品大礼包",
-          "target": "豪礼限购珍品大礼包"
+          "target": "Túi Quà Trân Phẩm Mua Giới Hạn Hào Lễ"
         },
         {
           "key": "i3142",
           "occurrence": 1,
           "source": "在豪礼乐不停的限购活动中购买\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\天神精华x10\\\\转生灵魄x2\\\\黑暗破坏神骑术【10天】x1\\\\灵魂之翼【10天】x1\\\\苹果x5",
-          "target": "在豪礼乐不停的限购活动中购买\\\\<(c0xFFFFFF00)双击使用>即可获得以下物品:\\\\天神精华x10\\\\转生灵魄x2\\\\黑暗破坏神骑术【10天】x1\\\\灵魂之翼【10天】x1\\\\苹果x5"
+          "target": "Mua trong sự kiện mua giới hạn Hào Lễ Không Ngừng\\\\<(c0xFFFFFF00)Nhấp đúp để dùng> nhận:\\\\Tinh Hoa Thiên Thần x10\\\\Linh Phách Chuyển Sinh x2\\\\Kỹ Năng Cưỡi Hắc Ám Phá Hoại Thần 【10 Ngày】 x1\\\\Cánh Linh Hồn 【10 Ngày】 x1\\\\Táo x5"
         },
         {
           "key": "n3143",
           "occurrence": 1,
           "source": "冲锋",
-          "target": "冲锋"
+          "target": "Xung Phong"
         },
         {
           "key": "i3143",
           "occurrence": 1,
           "source": "人物三转后双击使用后,学会冲锋\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物三转后双击使用后,学会冲锋\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Sau khi nhân vật 3 Chuyển Sinh, nhấp đúp để học Xung Phong\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3144",
           "occurrence": 1,
           "source": "冲锋(2级)",
-          "target": "冲锋(2级)"
+          "target": "Xung Phong (Cấp 2)"
         },
         {
           "key": "i3144",
           "occurrence": 1,
           "source": "人物三转后双击使用后,学会冲锋(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物三转后双击使用后,学会冲锋(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Sau khi nhân vật 3 Chuyển Sinh, nhấp đúp để học Xung Phong (Cấp 2)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3145",
           "occurrence": 1,
           "source": "冲锋(3级)",
-          "target": "冲锋(3级)"
+          "target": "Xung Phong (Cấp 3)"
         },
         {
           "key": "i3145",
           "occurrence": 1,
           "source": "人物三转后双击使用后,学会冲锋(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物三转后双击使用后,学会冲锋(3级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Sau khi nhân vật 3 Chuyển Sinh, nhấp đúp để học Xung Phong (Cấp 3)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3146",
           "occurrence": 1,
           "source": "解毒术",
-          "target": "解毒术"
+          "target": "Giải Độc Thuật"
         },
         {
           "key": "i3146",
           "occurrence": 1,
           "source": "人物三转后双击使用后,学会解毒术\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物三转后双击使用后,学会解毒术\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Sau khi nhân vật 3 Chuyển Sinh, nhấp đúp để học Giải Độc Thuật\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3147",
           "occurrence": 1,
           "source": "解毒术(2级)",
-          "target": "解毒术(2级)"
+          "target": "Giải Độc Thuật (Cấp 2)"
         },
         {
           "key": "i3147",
           "occurrence": 1,
           "source": "人物三转后双击使用后,学会解毒术(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物三转后双击使用后,学会解毒术(2级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Sau khi nhân vật 3 Chuyển Sinh, nhấp đúp để học Giải Độc Thuật (Cấp 2)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3148",
