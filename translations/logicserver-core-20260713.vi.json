@@ -76004,97 +76004,97 @@
           "key": "n3092",
           "occurrence": 1,
           "source": "勇者之心",
-          "target": "勇者之心"
+          "target": "Trái Tim Dũng Sĩ"
         },
         {
           "key": "i3092",
           "occurrence": 1,
           "source": "双击使用后,学会勇者之心\\\\可获得属性\\\\最大物理攻击力+1000\\\\最大魔法攻击力+1000\\\\最大道术攻击力+1000",
-          "target": "双击使用后,学会勇者之心\\\\可获得属性\\\\最大物理攻击力+1000\\\\最大魔法攻击力+1000\\\\最大道术攻击力+1000"
+          "target": "Nhấp đúp để dùng, học Trái Tim Dũng Sĩ\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +1000\\\\Tấn Công Ma Pháp tối đa +1000\\\\Tấn Công Đạo Thuật tối đa +1000"
         },
         {
           "key": "n3093",
           "occurrence": 1,
           "source": "夺天之翼【3天】",
-          "target": "夺天之翼【3天】"
+          "target": "Cánh Đoạt Thiên 【3 Ngày】"
         },
         {
           "key": "i3093",
           "occurrence": 1,
           "source": "双击使用\\\\可获得属性\\\\最大物理攻击力+50\\\\最大魔法攻击力+50\\\\最大道术攻击力+50",
-          "target": "双击使用\\\\可获得属性\\\\最大物理攻击力+50\\\\最大魔法攻击力+50\\\\最大道术攻击力+50"
+          "target": "Nhấp đúp để dùng\\\\Nhận thuộc tính\\\\Tấn Công Vật Lý tối đa +50\\\\Tấn Công Ma Pháp tối đa +50\\\\Tấn Công Đạo Thuật tối đa +50"
         },
         {
           "key": "n3094",
           "occurrence": 1,
           "source": "首届城主礼包",
-          "target": "首届城主礼包"
+          "target": "Túi Quà Thành Chủ Đầu Tiên"
         },
         {
           "key": "i3094",
           "occurrence": 1,
           "source": "城主可领取奖励：\\\\2转神装衣服x1\\\\15000元宝",
-          "target": "城主可领取奖励：\\\\2转神装衣服x1\\\\15000元宝"
+          "target": "Thành Chủ nhận thưởng:\\\\Áo Thần Trang 2 Chuyển Sinh x1\\\\15K Nguyên Bảo"
         },
         {
           "key": "n3095",
           "occurrence": 1,
           "source": "首届副城主礼包",
-          "target": "首届副城主礼包"
+          "target": "Túi Quà Phó Thành Chủ Đầu Tiên"
         },
         {
           "key": "i3095",
           "occurrence": 1,
           "source": "副城主可领取奖励：\\\\10000元宝",
-          "target": "副城主可领取奖励：\\\\10000元宝"
+          "target": "Phó Thành Chủ nhận thưởng:\\\\10K Nguyên Bảo"
         },
         {
           "key": "n3096",
           "occurrence": 1,
           "source": "首届城池成员礼包",
-          "target": "首届城池成员礼包"
+          "target": "Túi Quà Thành Viên Thành Đầu Tiên"
         },
         {
           "key": "i3096",
           "occurrence": 1,
           "source": "行会成员双击可领取奖励：\\\\10000000经验x1",
-          "target": "行会成员双击可领取奖励：\\\\10000000经验x1"
+          "target": "Thành viên Bang Hội nhấp đúp nhận thưởng:\\\\10000K KN x1"
         },
         {
           "key": "n3097",
           "occurrence": 1,
           "source": "装备升级材料",
-          "target": "装备升级材料"
+          "target": "Nguyên Liệu Nâng Cấp Trang Bị"
         },
         {
           "key": "i3097",
           "occurrence": 1,
           "source": "有机率获得高级装备升级材料,或者其他珍贵道具",
-          "target": "有机率获得高级装备升级材料,或者其他珍贵道具"
+          "target": "Có cơ hội nhận Nguyên Liệu Nâng Cấp Trang Bị cao cấp hoặc vật phẩm quý khác"
         },
         {
           "key": "n3098",
           "occurrence": 1,
           "source": "3-7级宝石",
-          "target": "3-7级宝石"
+          "target": "Đá Quý Cấp 3–7"
         },
         {
           "key": "i3098",
           "occurrence": 1,
           "source": "有机率获得种3-7级的宝石,或者其他珍贵道具",
-          "target": "有机率获得种3-7级的宝石,或者其他珍贵道具"
+          "target": "Có cơ hội nhận Đá Quý Cấp 3–7 hoặc vật phẩm quý khác"
         },
         {
           "key": "n3099",
           "occurrence": 1,
           "source": "光速升级的经验道具",
-          "target": "光速升级的经验道具"
+          "target": "Vật Phẩm KN Tăng Cấp Siêu Tốc"
         },
         {
           "key": "i3099",
           "occurrence": 1,
           "source": "有机率获得光速升级的经验道具,或者其他珍贵道具",
-          "target": "有机率获得光速升级的经验道具,或者其他珍贵道具"
+          "target": "Có cơ hội nhận Vật Phẩm KN Tăng Cấp Siêu Tốc hoặc vật phẩm quý khác"
         },
         {
           "key": "n3100",
