@@ -7,7 +7,7 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
-$Version = '20260714itemcache4'
+$Version = '20260714itemcache5'
 $repoBase = "https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/$Revision"
 $workRoot = Join-Path $env:TEMP ('ahtl-global-cbp-cache-' + [Guid]::NewGuid().ToString('N'))
 $backupRoot = Join-Path $WebRoot ('_deploy_backups\global_cbp_cache_' + (Get-Date -Format 'yyyyMMdd_HHmmss'))

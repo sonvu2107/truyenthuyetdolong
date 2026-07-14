@@ -53,6 +53,8 @@ Shell hiện tại giữ Flash ở chiều cao logic 750 px, tự tính chiều 
 
 `tools/cbp_localizer.py` chỉ thay node chuỗi, tính lại độ dài UTF-8 và header CBP, đồng thời kiểm câu gốc trước khi ghi. Catalog kỹ năng hiện tại nằm tại `translations/skillconfig.vi.json`; không dùng lại cách giải nén toàn bộ payload thành văn bản rồi thay chuỗi.
 
+Riêng vật phẩm production dùng `items.cbp`: `ResourceLoader.isVal = true` làm client bỏ qua `stditems.cbp`, rồi giải nén AMF3 bằng `readObject()` và gán lại toàn bộ `stdItemProvider`. Vì vậy phải chạy `tools/amf3_items_localizer.py` với `translations/items-runtime.vi.json` và `translations/items-runtime-overrides.vi.json`. Công cụ giữ nguyên class alias/trait AMF3, kiểm đúng câu nguồn và giải mã lại đầu ra. Cài phụ thuộc build bằng `pip install -r tools/requirements-amf3.txt`.
+
 `tools/swf_lang_localizer.py` đọc `ClientLang.txt` cùng các catalog bổ sung, kiểm hình dạng mảng và chỉ ghép theo đúng tên biến/chỉ số. `tools/translate_gameframe_hardcoded.py` lập catalog cho chuỗi nằm ngoài `lang.ZH_CN`; hai script audit kiểm placeholder, HTML/route kỹ thuật, chuỗi còn Hán tự và đối chiếu lại bytecode đã biên dịch. Ba lớp không thể tái biên dịch ổn định được ghi rõ trong `translations/gameframe-hardcoded-compile-exclusions.json` và giữ nguyên bytecode gốc.
 
 Lệnh `patch-bool-zip` sửa boolean có kiểm tra giá trị gốc. Bản hiện tại dùng lệnh này cho `stdquest.cbp:1.autoRun`, đồng thời xác nhận node `1.id` là nhiệm vụ 485 trước khi đóng gói.

@@ -1,0 +1,32 @@
+{
+  "version": "20260714itemcache5",
+  "files": [
+    {
+      "source": "assets/lang/zh-cn/cbp.zip",
+      "target": "data/lang/zh-cn/cbp.zip",
+      "sha256": "FBE05B090A10E64E040ED372876488495B68CD597F2998146B82E845C4D0B7CA"
+    },
+    {
+      "source": "assets/game/GameConfig.php",
+      "target": "game/GameConfig.php",
+      "sha256": "A57E723CA25600E149168F71CC0DA0F11BC6CF069B0C1183D14089D64DDE862B"
+    },
+    {
+      "source": "assets/game/djrm.php",
+      "target": "game/djrm.php",
+      "sha256": "E27C55B04DC8A2D81A2DAF059B01FD5F5A71CF8C99B521A66AFB99BBA21CD2DD"
+    }
+  ],
+  "entries": [
+    {
+      "name": "items.cbp",
+      "target": "data/lang/zh-cn/items.cbp",
+      "sha256": "F183B83C440E135F84AC31684B7D5736677AC7D5146E02921C8E2CC66E4BB979"
+    },
+    {
+      "name": "stditems.cbp",
+      "target": "data/lang/zh-cn/stditems.cbp",
+      "sha256": "C5B8D293964992A1F6CFF1BD144C46BCB6C7E703B0C2A7C92407FA9BD87DB3E4"
+    }
+  ]
+}

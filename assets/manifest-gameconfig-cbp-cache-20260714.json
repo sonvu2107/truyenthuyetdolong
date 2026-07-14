@@ -1,15 +1,15 @@
 {
-  "version": "20260714itemcache4",
+  "version": "20260714itemcache5",
   "files": [
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "1C95CEC64E1EA5F56BCEAB039A80CB2EFF331536DFC9A5A4A0A1A8CEDE08108B"
+      "sha256": "A57E723CA25600E149168F71CC0DA0F11BC6CF069B0C1183D14089D64DDE862B"
     },
     {
       "source": "assets/game/djrm.php",
       "target": "game/djrm.php",
-      "sha256": "927E35AEE30647C671BA8EC1DE029C3C14AECF8C697FB21AA024E4346B339D61"
+      "sha256": "E27C55B04DC8A2D81A2DAF059B01FD5F5A71CF8C99B521A66AFB99BBA21CD2DD"
     }
   ]
 }

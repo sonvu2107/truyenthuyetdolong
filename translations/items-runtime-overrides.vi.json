@@ -1,0 +1,413 @@
+{
+  "format": 1,
+  "file": "items.cbp",
+  "description": "Override có kiểm chứng cho các chuỗi AMF3 lệch bản LogicServer và vật phẩm thử nghiệm",
+  "translations": {
+    "0.desc": {
+      "source": "物品描述（说明）文字，可使用HTML语法",
+      "target": "Mô tả vật phẩm, có thể dùng cú pháp HTML"
+    },
+    "1000.desc": {
+      "source": "测试武魂",
+      "target": "Võ Hồn Thử Nghiệm"
+    },
+    "1000.name": {
+      "source": "测试武魂",
+      "target": "Võ Hồn Thử Nghiệm"
+    },
+    "1001.desc": {
+      "source": "测试经验武魂",
+      "target": "Võ Hồn Kinh Nghiệm Thử Nghiệm"
+    },
+    "1001.name": {
+      "source": "测试经验武魂",
+      "target": "Võ Hồn Kinh Nghiệm Thử Nghiệm"
+    },
+    "2901.desc": {
+      "source": "【城池争霸】系统中，城主可领取的官职奖励：\\<(c0xFFFF6600)金币x50000\\天神精华x2\\神魂晶石x10\\10000点神魂卷x2\\10000点战魂卷x2\\10000点星魂卡x5\\符文精炼石x5\\10000000经验x10\\马鞭x10\\羽毛x10>",
+      "target": "Trong hệ thống 【Tranh Bá Thành Trì】, phần thưởng chức vị Thành Chủ có thể nhận:\\<(c0xFFFF6600)Vàng x50000\\Tinh Hoa Thiên Thần x2\\Tinh Thạch Thần Hồn x10\\Cuộn Thần Hồn 10000 Điểm x2\\Cuộn Chiến Hồn 10000 Điểm x2\\Thẻ Tinh Hồn 10000 Điểm x5\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 x10\\Đá Tinh Luyện Phù Văn x5\\10000K KN x10\\Roi Ngựa x10\\Lông Vũ x10>"
+    },
+    "2902.desc": {
+      "source": "【城池争霸】系统中，副城主可领取的官职奖励：\\<(c0xFFFF6600)金币x30000\\天神精华x1\\神魂晶石x5\\10000点神魂卷x2\\10000点战魂卷x2\\10000点星魂卡x3\\符文精炼石x5\\10000000经验x5\\马鞭x10\\羽毛x10>",
+      "target": "Trong hệ thống 【Tranh Bá Thành Trì】, phần thưởng chức vị Phó Thành Chủ có thể nhận:\\<(c0xFFFF6600)Vàng x30000\\Tinh Hoa Thiên Thần x1\\Tinh Thạch Thần Hồn x5\\Cuộn Thần Hồn 10000 Điểm x2\\Cuộn Chiến Hồn 10000 Điểm x2\\Thẻ Tinh Hồn 10000 Điểm x3\\Tinh Hoa Cường Hóa Thần Trang Cấp 1 x5\\Đá Tinh Luyện Phù Văn x5\\10000K KN x5\\Roi Ngựa x10\\Lông Vũ x10>"
+    },
+    "3152.desc": {
+      "source": "橙色武魂\\增加道术攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Tấn Công Đạo Thuật\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3153.desc": {
+      "source": "蓝色武魂\\增加道术攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Tấn Công Đạo Thuật\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3154.desc": {
+      "source": "绿色武魂\\增加道术攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Tấn Công Đạo Thuật\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3155.desc": {
+      "source": "紫色武魂\\增加道术攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Tấn Công Đạo Thuật\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3156.desc": {
+      "source": "橙色武魂\\增加毒物恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Hồi Phục Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3157.desc": {
+      "source": "蓝色武魂\\增加毒物恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Hồi Phục Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3158.desc": {
+      "source": "绿色武魂\\增加毒物恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Hồi Phục Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3159.desc": {
+      "source": "紫色武魂\\增加毒物恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Hồi Phục Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3160.desc": {
+      "source": "橙色武魂\\增加法力上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng MP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3161.desc": {
+      "source": "蓝色武魂\\增加法力上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng MP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3162.desc": {
+      "source": "绿色武魂\\增加法力上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng MP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3163.desc": {
+      "source": "紫色武魂\\增加法力上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng MP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3164.desc": {
+      "source": "橙色武魂\\增加物理攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Tấn Công Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3165.desc": {
+      "source": "蓝色武魂\\增加物理攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Tấn Công Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3166.desc": {
+      "source": "绿色武魂\\增加物理攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Tấn Công Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3167.desc": {
+      "source": "紫色武魂\\增加物理攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Tấn Công Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3168.desc": {
+      "source": "橙色武魂\\增加武魂经验\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng KN Võ Hồn\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3171.desc": {
+      "source": "武魂\\增加紫色武魂经验\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "Võ Hồn\\Tăng KN Võ Hồn\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3172.desc": {
+      "source": "橙色武魂\\增加魔法恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Hồi MP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3173.desc": {
+      "source": "蓝色武魂\\增加魔法恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Hồi MP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3174.desc": {
+      "source": "绿色武魂\\增加魔法恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Hồi MP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3175.desc": {
+      "source": "紫色武魂\\增加魔法恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Hồi MP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3176.desc": {
+      "source": "橙色武魂\\增加准确\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Chính Xác\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3177.desc": {
+      "source": "蓝色武魂\\增加准确\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Chính Xác\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3178.desc": {
+      "source": "绿色武魂\\增加准确\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Chính Xác\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3179.desc": {
+      "source": "紫色武魂\\增加准确\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Chính Xác\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3180.desc": {
+      "source": "橙色武魂\\增加魔法命中\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Trúng Đích Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3181.desc": {
+      "source": "蓝色武魂\\增加魔法命中\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Trúng Đích Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3182.desc": {
+      "source": "绿色武魂\\增加魔法命中\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Trúng Đích Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3183.desc": {
+      "source": "紫色武魂\\增加魔法命中\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Trúng Đích Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3184.desc": {
+      "source": "橙色武魂\\增加毒物闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Né Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3185.desc": {
+      "source": "蓝色武魂\\增加毒物闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Né Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3186.desc": {
+      "source": "绿色武魂\\增加毒物闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Né Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3187.desc": {
+      "source": "紫色武魂\\增加毒物闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Né Độc\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3188.desc": {
+      "source": "橙色武魂\\增加魔法闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Né Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3189.desc": {
+      "source": "蓝色武魂\\增加魔法闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Né Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3190.desc": {
+      "source": "绿色武魂\\增加魔法闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Né Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3191.desc": {
+      "source": "紫色武魂\\增加魔法闪避\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Né Ma Pháp\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3192.desc": {
+      "source": "橙色武魂\\增加敏捷\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Nhanh Nhẹn\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3193.desc": {
+      "source": "蓝色武魂\\增加敏捷\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Nhanh Nhẹn\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3194.desc": {
+      "source": "绿色武魂\\增加敏捷\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Nhanh Nhẹn\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3195.desc": {
+      "source": "紫色武魂\\增加敏捷\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Nhanh Nhẹn\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3196.desc": {
+      "source": "橙色武魂\\增加魔法防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Phòng Thủ Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3197.desc": {
+      "source": "蓝色武魂\\增加魔法防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Phòng Thủ Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3198.desc": {
+      "source": "绿色武魂\\增加魔法防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Phòng Thủ Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3199.desc": {
+      "source": "紫色武魂\\增加魔法防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Phòng Thủ Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3200.desc": {
+      "source": "橙色武魂\\增加魔法攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Tấn Công Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3201.desc": {
+      "source": "蓝色武魂\\增加魔法攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Tấn Công Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3202.desc": {
+      "source": "绿色武魂\\增加魔法攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Tấn Công Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3203.desc": {
+      "source": "紫色武魂\\增加魔法攻击\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Tấn Công Ma Pháp\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3204.desc": {
+      "source": "橙色武魂\\增加神圣\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Thần Thánh\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3205.desc": {
+      "source": "蓝色武魂\\增加神圣\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Thần Thánh\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3206.desc": {
+      "source": "绿色武魂\\增加神圣\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Thần Thánh\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3207.desc": {
+      "source": "紫色武魂\\增加神圣\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Thần Thánh\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3208.desc": {
+      "source": "橙色武魂\\增加生命恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Hồi HP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3209.desc": {
+      "source": "蓝色武魂\\增加生命恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Hồi HP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3210.desc": {
+      "source": "绿色武魂\\增加生命恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Hồi HP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3211.desc": {
+      "source": "紫色武魂\\增加生命恢复\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Hồi HP\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
+    },
+    "3212.desc": {
+      "source": "橙色武魂\\增加生命上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng HP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3213.desc": {
+      "source": "蓝色武魂\\增加生命上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng HP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3214.desc": {
+      "source": "绿色武魂\\增加生命上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng HP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3215.desc": {
+      "source": "紫色武魂\\增加生命上限\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng HP tối đa\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3216.desc": {
+      "source": "橙色武魂\\增加物理防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffFAAC58)Võ Hồn Cam>\\Tăng Phòng Thủ Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3217.desc": {
+      "source": "蓝色武魂\\增加物理防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\Tăng Phòng Thủ Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3218.desc": {
+      "source": "绿色武魂\\增加物理防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xff81F79F)Võ Hồn Lục>\\Tăng Phòng Thủ Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3219.desc": {
+      "source": "紫色武魂\\增加物理防御\\<(c0xFF00FFFF)非本职业属性不增加战力>",
+      "target": "<(c0xffB404AE)Võ Hồn Tím>\\Tăng Phòng Thủ Vật Lý\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
+    },
+    "3244.desc": {
+      "source": "弑神\\一把来自地狱的魔剑，长年汲取地狱\\深处的邪恶气息，被誉为魔族的十大\\魔剑之一，传闻拥有此剑将会获得斩\\杀天神的力量！\\<(c0x00ff0066)可在幻武界面内购买",
+      "target": "Phá Hồn\\Thần kiếm tế luyện bằng vô số oan hồn chết uất, từ khi sinh ra\\đã bị khí tức tà ác bao quanh, được Thiên Đường coi là\\một trong những vũ khí nguy hiểm nhất!\\<(c0x00ff0066)Đăng nhập game 7 ngày có thể nhận tại giao diện Huyễn Vũ>"
+    },
+    "3259.desc": {
+      "source": "用30个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(1阶)>升级为<(c0xFFFF6600)龙魂之力(1阶)>",
+      "target": "Dùng 342 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 7)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 7)>"
+    },
+    "3260.desc": {
+      "source": "用30个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(1阶)>升级为<(c0xFFFF6600)龙魂之力(1阶)>",
+      "target": "Dùng 513 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 8)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 8)>"
+    },
+    "3261.desc": {
+      "source": "用30个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(1阶)>升级为<(c0xFFFF6600)龙魂之力(1阶)>",
+      "target": "Dùng 769 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 9)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 9)>"
+    },
+    "3262.desc": {
+      "source": "用30个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(1阶)>升级为<(c0xFFFF6600)龙魂之力(1阶)>",
+      "target": "Dùng 1153 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 10)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 10)>"
+    },
+    "3264.desc": {
+      "source": "合成龙魂之力顶级装备材料，可在物品合成系统中使用\\注:可在<(c0xFFFF6600)百服活动、充值豪礼、日常充值礼包>中获得",
+      "target": "Nguyên liệu ghép trang bị đỉnh cấp Sức Mạnh Long Hồn, có thể dùng trong hệ thống Ghép Vật Phẩm\\Gợi ý: nhận từ <(c0xFFFF6600)Boss Thế Giới, Sự Kiện Trăm Server, Hào Lễ Mở Server, Đồ Long>"
+    }
+  },
+  "metadata": {
+    "matched_and_changed": 79,
+    "reviewed_source_mismatch_paths": [
+      "1000.desc",
+      "1000.name",
+      "1001.desc",
+      "1001.name",
+      "2901.desc",
+      "2902.desc",
+      "3152.desc",
+      "3153.desc",
+      "3154.desc",
+      "3155.desc",
+      "3156.desc",
+      "3157.desc",
+      "3158.desc",
+      "3159.desc",
+      "3160.desc",
+      "3161.desc",
+      "3162.desc",
+      "3163.desc",
+      "3164.desc",
+      "3165.desc",
+      "3166.desc",
+      "3167.desc",
+      "3168.desc",
+      "3171.desc",
+      "3172.desc",
+      "3173.desc",
+      "3174.desc",
+      "3175.desc",
+      "3176.desc",
+      "3177.desc",
+      "3178.desc",
+      "3179.desc",
+      "3180.desc",
+      "3181.desc",
+      "3182.desc",
+      "3183.desc",
+      "3184.desc",
+      "3185.desc",
+      "3186.desc",
+      "3187.desc",
+      "3188.desc",
+      "3189.desc",
+      "3190.desc",
+      "3191.desc",
+      "3192.desc",
+      "3193.desc",
+      "3194.desc",
+      "3195.desc",
+      "3196.desc",
+      "3197.desc",
+      "3198.desc",
+      "3199.desc",
+      "3200.desc",
+      "3201.desc",
+      "3202.desc",
+      "3203.desc",
+      "3204.desc",
+      "3205.desc",
+      "3206.desc",
+      "3207.desc",
+      "3208.desc",
+      "3209.desc",
+      "3210.desc",
+      "3211.desc",
+      "3212.desc",
+      "3213.desc",
+      "3214.desc",
+      "3215.desc",
+      "3216.desc",
+      "3217.desc",
+      "3218.desc",
+      "3219.desc",
+      "3244.desc",
+      "3259.desc",
+      "3260.desc",
+      "3261.desc",
+      "3262.desc",
+      "3264.desc"
+    ],
+    "manual_paths": [
+      "0.desc",
+      "1000.name",
+      "1000.desc",
+      "1001.name",
+      "1001.desc"
+    ]
+  }
+}

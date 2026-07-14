@@ -1,7 +1,7 @@
 <?php
 ob_start();
 session_start();
-// AHTL_GLOBAL_CBP_CACHE_20260714itemcache4
+// AHTL_GLOBAL_CBP_CACHE_20260714itemcache5
 header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
 header('Pragma: no-cache');
 header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');
@@ -11,7 +11,7 @@ include('SPDef.php');
 $v=$_SESSION['FLVars'];
 $sn=$_SESSION['GameServerName'];
 $pay_url=$_SESSION['PayURL'];
-$gameFrameURL=GAMEAPPURL.(strpos(GAMEAPPURL, '?') === false ? '?' : '&').'ahtlcache=20260714itemcache4gf';
+$gameFrameURL=GAMEAPPURL.(strpos(GAMEAPPURL, '?') === false ? '?' : '&').'ahtlcache=20260714itemcache5gf';
 $plainFlashVars=array();
 if (!empty($_SESSION['FLVarsPlain']))
 {
@@ -32,7 +32,7 @@ if (!empty($_SESSION['FLVarsPlain']))
 if (count($plainFlashVars) > 0)
 {
 	$plainFlashVars['cbppack']='1';
-	$plainFlashVars['ver']='20260714itemcache4';
+	$plainFlashVars['ver']='20260714itemcache5';
 	$plainFlashVars['nocache']='1';
 }
 
