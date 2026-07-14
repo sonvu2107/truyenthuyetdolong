@@ -77744,97 +77744,97 @@
           "key": "n3236",
           "occurrence": 1,
           "source": "冰尖柱(4级)",
-          "target": "冰尖柱(4级)"
+          "target": "Băng Trụ Nhọn (Cấp 4)"
         },
         {
           "key": "i3236",
           "occurrence": 1,
           "source": "双击使用后,学会冰尖柱(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "双击使用后,学会冰尖柱(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhấp đúp để học Băng Trụ Nhọn (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3237",
           "occurrence": 1,
           "source": "流星火雨(4级)",
-          "target": "流星火雨(4级)"
+          "target": "Mưa Lửa Sao Băng (Cấp 4)"
         },
         {
           "key": "i3237",
           "occurrence": 1,
           "source": "人物三转后双击使用后,学会流星火雨(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "人物三转后双击使用后,学会流星火雨(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Sau khi nhân vật 3 Chuyển Sinh, nhấp đúp để học Mưa Lửa Sao Băng (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3238",
           "occurrence": 1,
           "source": "治愈术(4级)",
-          "target": "治愈术(4级)"
+          "target": "Trị Liệu Thuật (Cấp 4)"
         },
         {
           "key": "i3238",
           "occurrence": 1,
           "source": "双击使用后,学会治愈术(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "双击使用后,学会治愈术(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhấp đúp để học Trị Liệu Thuật (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3239",
           "occurrence": 1,
           "source": "念力战法(4级)",
-          "target": "念力战法(4级)"
+          "target": "Niệm Lực Chiến Pháp (Cấp 4)"
         },
         {
           "key": "i3239",
           "occurrence": 1,
           "source": "双击使用后,学会念力战法(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "双击使用后,学会念力战法(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhấp đúp để học Niệm Lực Chiến Pháp (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3240",
           "occurrence": 1,
           "source": "炼气战甲术(4级)",
-          "target": "炼气战甲术(4级)"
+          "target": "Luyện Khí Chiến Giáp Thuật (Cấp 4)"
         },
         {
           "key": "i3240",
           "occurrence": 1,
           "source": "双击使用后,学会炼气战甲术(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>",
-          "target": "双击使用后,学会炼气战甲术(4级)\\\\<(c0xFF00FFFF)本技能书通过商城购买>"
+          "target": "Nhấp đúp để học Luyện Khí Chiến Giáp Thuật (Cấp 4)\\\\<(c0xFF00FFFF)Sách kỹ năng này mua tại Cửa Hàng>"
         },
         {
           "key": "n3241",
           "occurrence": 1,
           "source": "100转生灵魄",
-          "target": "100转生灵魄"
+          "target": "Linh Phách Chuyển Sinh 100 Điểm"
         },
         {
           "key": "i3241",
           "occurrence": 1,
           "source": "双击使用可获得<(c0xFF00FFFF)100>点转生灵魄",
-          "target": "双击使用可获得<(c0xFF00FFFF)100>点转生灵魄"
+          "target": "Nhấp đúp để nhận <(c0xFF00FFFF)100> Điểm Linh Phách Chuyển Sinh"
         },
         {
           "key": "n3242",
           "occurrence": 1,
           "source": "怒斩",
-          "target": "怒斩"
+          "target": "Nộ Trảm"
         },
         {
           "key": "i3242",
           "occurrence": 1,
           "source": "怒斩\\\\十二地狱骑士之首的愤怒骑士所拥有\\\\的魔剑，拥有此剑的人将会被无尽的\\\\愤怒所包围，最终沦为一件杀人兵器！\\\\<(c0x00ff0066)登录游戏2天可在幻武界面内领取>",
-          "target": "怒斩\\\\十二地狱骑士之首的愤怒骑士所拥有\\\\的魔剑，拥有此剑的人将会被无尽的\\\\愤怒所包围，最终沦为一件杀人兵器！\\\\<(c0x00ff0066)登录游戏2天可在幻武界面内领取>"
+          "target": "Nộ Trảm\\\\Ma kiếm của Kỵ Sĩ Phẫn Nộ, thủ lĩnh Mười Hai Kỵ Sĩ Địa Ngục\\\\Người sở hữu bị bao quanh bởi cơn phẫn nộ vô tận\\\\Cuối cùng trở thành một binh khí giết chóc!\\\\<(c0x00ff0066)Đăng nhập game 2 ngày có thể nhận tại giao diện Huyễn Vũ>"
         },
         {
           "key": "n3243",
           "occurrence": 1,
           "source": "命运",
-          "target": "命运"
+          "target": "Vận Mệnh"
         },
         {
           "key": "i3243",
           "occurrence": 1,
           "source": "命运\\\\命运女神所持之剑，据说拥有斩断命\\\\运的神力，原罪之战后，命运之剑也\\\\遗落在了人界。\\\\<(c0x00ff0066)登录游戏4天可在幻武界面内领取>",
-          "target": "命运\\\\命运女神所持之剑，据说拥有斩断命\\\\运的神力，原罪之战后，命运之剑也\\\\遗落在了人界。\\\\<(c0x00ff0066)登录游戏4天可在幻武界面内领取>"
+          "target": "Vận Mệnh\\\\Kiếm của Nữ Thần Vận Mệnh, tương truyền có thần lực chém đứt vận\\\\mệnh. Sau trận chiến Nguyên Tội, Kiếm Vận Mệnh cũng\\\\thất lạc tại Nhân Giới.\\\\<(c0x00ff0066)Đăng nhập game 4 ngày có thể nhận tại giao diện Huyễn Vũ>"
         },
         {
           "key": "n3244",
