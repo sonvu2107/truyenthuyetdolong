@@ -39,7 +39,7 @@
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "1DEA8A31AE10B554EB657FA719AE92CDB6579A06BE2AE8DA596B8A558D02F711"
+      "sha256": "1C95CEC64E1EA5F56BCEAB039A80CB2EFF331536DFC9A5A4A0A1A8CEDE08108B"
     },
     {
       "source": "assets/game/static/common.js",
