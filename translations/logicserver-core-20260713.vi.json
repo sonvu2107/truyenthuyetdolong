@@ -77348,97 +77348,97 @@
           "key": "n3204",
           "occurrence": 1,
           "source": "神•神圣",
-          "target": "神•神圣"
+          "target": "Thần • Thần Thánh"
         },
         {
           "key": "i3204",
           "occurrence": 1,
           "source": "<(c0xffFAAC58)橙色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xffFAAC58)橙色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xffFAAC58)Võ Hồn Cam>\\\\Tăng Thần Thánh\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3205",
           "occurrence": 1,
           "source": "魂•神圣",
-          "target": "魂•神圣"
+          "target": "Hồn • Thần Thánh"
         },
         {
           "key": "i3205",
           "occurrence": 1,
           "source": "<(c0xff2E9AFE)蓝色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xff2E9AFE)蓝色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\\\Tăng Thần Thánh\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3206",
           "occurrence": 1,
           "source": "武•神圣",
-          "target": "武•神圣"
+          "target": "Võ • Thần Thánh"
         },
         {
           "key": "i3206",
           "occurrence": 1,
           "source": "<(c0xff81F79F)绿色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xff81F79F)绿色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xff81F79F)Võ Hồn Lục>\\\\Tăng Thần Thánh\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3207",
           "occurrence": 1,
           "source": "圣•神圣",
-          "target": "圣•神圣"
+          "target": "Thánh • Thần Thánh"
         },
         {
           "key": "i3207",
           "occurrence": 1,
           "source": "<(c0xffB404AE)紫色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xffB404AE)紫色武魂>\\\\增加神圣\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xffB404AE)Võ Hồn Tím>\\\\Tăng Thần Thánh\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3208",
           "occurrence": 1,
           "source": "神•生存",
-          "target": "神•生存"
+          "target": "Thần • Sinh Tồn"
         },
         {
           "key": "i3208",
           "occurrence": 1,
           "source": "<(c0xffFAAC58)橙色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xffFAAC58)橙色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xffFAAC58)Võ Hồn Cam>\\\\Tăng Hồi HP\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3209",
           "occurrence": 1,
           "source": "魂•生存",
-          "target": "魂•生存"
+          "target": "Hồn • Sinh Tồn"
         },
         {
           "key": "i3209",
           "occurrence": 1,
           "source": "<(c0xff2E9AFE)蓝色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xff2E9AFE)蓝色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\\\Tăng Hồi HP\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3210",
           "occurrence": 1,
           "source": "武•生存",
-          "target": "武•生存"
+          "target": "Võ • Sinh Tồn"
         },
         {
           "key": "i3210",
           "occurrence": 1,
           "source": "<(c0xff81F79F)绿色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xff81F79F)绿色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xff81F79F)Võ Hồn Lục>\\\\Tăng Hồi HP\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3211",
           "occurrence": 1,
           "source": "圣•生存",
-          "target": "圣•生存"
+          "target": "Thánh • Sinh Tồn"
         },
         {
           "key": "i3211",
           "occurrence": 1,
           "source": "<(c0xffB404AE)紫色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>",
-          "target": "<(c0xffB404AE)紫色武魂>\\\\增加生命恢复\\\\<(c0x00ff0066)注:该属性增加战力较少>"
+          "target": "<(c0xffB404AE)Võ Hồn Tím>\\\\Tăng Hồi HP\\\\<(c0x00ff0066)Lưu ý: thuộc tính này tăng ít Lực Chiến>"
         },
         {
           "key": "n3212",
