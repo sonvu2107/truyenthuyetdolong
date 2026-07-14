@@ -96,6 +96,24 @@ function Restart-AhtlApache {
     }
 }
 
+function Test-AhtlApacheConfig {
+    param([string]$HttpdPath, [string]$ConfigPath)
+    $apacheRoot = Split-Path -Parent (Split-Path -Parent $HttpdPath)
+    $startInfo = New-Object Diagnostics.ProcessStartInfo
+    $startInfo.FileName = $HttpdPath
+    $startInfo.Arguments = '-t -d "' + $apacheRoot + '" -f "' + $ConfigPath + '"'
+    $startInfo.UseShellExecute = $false
+    $startInfo.RedirectStandardOutput = $true
+    $startInfo.RedirectStandardError = $true
+    $startInfo.CreateNoWindow = $true
+    $process = [Diagnostics.Process]::Start($startInfo)
+    $process.WaitForExit()
+    $output = $process.StandardOutput.ReadToEnd() + $process.StandardError.ReadToEnd()
+    if ($process.ExitCode -ne 0) {
+        throw "Apache config test that bai: $output"
+    }
+}
+
 try {
     $requiredPaths = @($gameConfig, $djrm)
     if (-not $DynamicOnly) {
@@ -151,8 +169,7 @@ try {
                 [IO.File]::AppendAllText($httpdConf, $apacheRules, [Text.Encoding]::ASCII)
             }
 
-            & $httpd -t -f $httpdConf
-            if ($LASTEXITCODE -ne 0) { throw 'Apache config test that bai.' }
+            Test-AhtlApacheConfig -HttpdPath $httpd -ConfigPath $httpdConf
             Restart-AhtlApache -HttpdPath $httpd -ConfigPath $httpdConf
         }
     }
