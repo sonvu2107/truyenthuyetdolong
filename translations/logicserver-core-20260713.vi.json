@@ -77936,97 +77936,97 @@
           "key": "n3252",
           "occurrence": 1,
           "source": "封天战章",
-          "target": "封天战章"
+          "target": "Chiến Chương Phong Thiên"
         },
         {
           "key": "i3252",
           "occurrence": 1,
           "source": "<(c0x00ff0066)顶级勋章>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)10%>,幸运增加 <(c0x00ff0066)2>,麻痹增加 <(c0x00ff0066)4>",
-          "target": "<(c0x00ff0066)顶级勋章>\\\\ 穿戴后,伤害增加 <(c0x00ff0066)10%>,幸运增加 <(c0x00ff0066)2>,麻痹增加 <(c0x00ff0066)4>"
+          "target": "<(c0x00ff0066)Huy Chương đỉnh cấp>\\\\ Trang bị: Sát thương tăng <(c0x00ff0066)10%>, May Mắn tăng <(c0x00ff0066)2>, Tê Liệt tăng <(c0x00ff0066)4>"
         },
         {
           "key": "n3253",
           "occurrence": 1,
           "source": "龙魂之力（1阶）",
-          "target": "龙魂之力（1阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 1)"
         },
         {
           "key": "i3253",
           "occurrence": 1,
           "source": "用30个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(1阶)>升级为<(c0xFFFF6600)龙魂之力(1阶)>",
-          "target": "用30个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(1阶)>升级为<(c0xFFFF6600)龙魂之力(1阶)>"
+          "target": "Dùng 30 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 1)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 1)>"
         },
         {
           "key": "n3254",
           "occurrence": 1,
           "source": "龙魂之力（2阶）",
-          "target": "龙魂之力（2阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 2)"
         },
         {
           "key": "i3254",
           "occurrence": 1,
           "source": "用45个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(2阶)>升级为<(c0xFFFF6600)龙魂之力(2阶)>",
-          "target": "用45个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(2阶)>升级为<(c0xFFFF6600)龙魂之力(2阶)>"
+          "target": "Dùng 45 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 2)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 2)>"
         },
         {
           "key": "n3255",
           "occurrence": 1,
           "source": "龙魂之力（3阶）",
-          "target": "龙魂之力（3阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 3)"
         },
         {
           "key": "i3255",
           "occurrence": 1,
           "source": "用68个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(3阶)>升级为<(c0xFFFF6600)龙魂之力(3阶)>",
-          "target": "用68个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(3阶)>升级为<(c0xFFFF6600)龙魂之力(3阶)>"
+          "target": "Dùng 68 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 3)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 3)>"
         },
         {
           "key": "n3256",
           "occurrence": 1,
           "source": "龙魂之力（4阶）",
-          "target": "龙魂之力（4阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 4)"
         },
         {
           "key": "i3256",
           "occurrence": 1,
           "source": "用101个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(4阶)>升级为<(c0xFFFF6600)龙魂之力(4阶)>",
-          "target": "用101个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(4阶)>升级为<(c0xFFFF6600)龙魂之力(4阶)>"
+          "target": "Dùng 101 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 4)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 4)>"
         },
         {
           "key": "n3257",
           "occurrence": 1,
           "source": "龙魂之力（5阶）",
-          "target": "龙魂之力（5阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 5)"
         },
         {
           "key": "i3257",
           "occurrence": 1,
           "source": "用152个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(5阶)>升级为<(c0xFFFF6600)龙魂之力(6阶)>",
-          "target": "用152个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(5阶)>升级为<(c0xFFFF6600)龙魂之力(6阶)>"
+          "target": "Dùng 152 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 5)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 6)>"
         },
         {
           "key": "n3258",
           "occurrence": 1,
           "source": "龙魂之力（6阶）",
-          "target": "龙魂之力（6阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 6)"
         },
         {
           "key": "i3258",
           "occurrence": 1,
           "source": "用228个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(6阶)>升级为<(c0xFFFF6600)龙魂之力(6阶)>",
-          "target": "用228个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(6阶)>升级为<(c0xFFFF6600)龙魂之力(6阶)>"
+          "target": "Dùng 228 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 6)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 6)>"
         },
         {
           "key": "n3259",
           "occurrence": 1,
           "source": "龙魂之力（7阶）",
-          "target": "龙魂之力（7阶）"
+          "target": "Sức Mạnh Long Hồn (Bậc 7)"
         },
         {
           "key": "i3259",
           "occurrence": 1,
           "source": "用342个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(7阶)>升级为<(c0xFFFF6600)龙魂之力(7阶)>",
-          "target": "用342个<(c0xFFFF6600)龙魂之玉> 可将<(c0xFFFF6600)战神之力(7阶)>升级为<(c0xFFFF6600)龙魂之力(7阶)>"
+          "target": "Dùng 342 <(c0xFFFF6600)Ngọc Long Hồn> để nâng <(c0xFFFF6600)Sức Mạnh Chiến Thần (Bậc 7)> thành <(c0xFFFF6600)Sức Mạnh Long Hồn (Bậc 7)>"
         },
         {
           "key": "n3260",
