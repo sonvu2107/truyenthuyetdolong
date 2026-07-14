@@ -77444,97 +77444,97 @@
           "key": "n3212",
           "occurrence": 1,
           "source": "神•生命",
-          "target": "神•生命"
+          "target": "Thần • Sinh Mệnh"
         },
         {
           "key": "i3212",
           "occurrence": 1,
           "source": "<(c0xffFAAC58)橙色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xffFAAC58)橙色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xffFAAC58)Võ Hồn Cam>\\\\Tăng HP tối đa\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3213",
           "occurrence": 1,
           "source": "魂•生命",
-          "target": "魂•生命"
+          "target": "Hồn • Sinh Mệnh"
         },
         {
           "key": "i3213",
           "occurrence": 1,
           "source": "<(c0xff2E9AFE)蓝色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xff2E9AFE)蓝色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\\\Tăng HP tối đa\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3214",
           "occurrence": 1,
           "source": "武•生命",
-          "target": "武•生命"
+          "target": "Võ • Sinh Mệnh"
         },
         {
           "key": "i3214",
           "occurrence": 1,
           "source": "<(c0xff81F79F)绿色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xff81F79F)绿色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xff81F79F)Võ Hồn Lục>\\\\Tăng HP tối đa\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3215",
           "occurrence": 1,
           "source": "圣•生命",
-          "target": "圣•生命"
+          "target": "Thánh • Sinh Mệnh"
         },
         {
           "key": "i3215",
           "occurrence": 1,
           "source": "<(c0xffB404AE)紫色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xffB404AE)紫色武魂>\\\\增加生命上限\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xffB404AE)Võ Hồn Tím>\\\\Tăng HP tối đa\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3216",
           "occurrence": 1,
           "source": "神•物防",
-          "target": "神•物防"
+          "target": "Thần • Vật Phòng"
         },
         {
           "key": "i3216",
           "occurrence": 1,
           "source": "<(c0xffFAAC58)橙色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xffFAAC58)橙色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xffFAAC58)Võ Hồn Cam>\\\\Tăng Phòng Thủ Vật Lý\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3217",
           "occurrence": 1,
           "source": "魂•物防",
-          "target": "魂•物防"
+          "target": "Hồn • Vật Phòng"
         },
         {
           "key": "i3217",
           "occurrence": 1,
           "source": "<(c0xff2E9AFE)蓝色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xff2E9AFE)蓝色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xff2E9AFE)Võ Hồn Lam>\\\\Tăng Phòng Thủ Vật Lý\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3218",
           "occurrence": 1,
           "source": "武•物防",
-          "target": "武•物防"
+          "target": "Võ • Vật Phòng"
         },
         {
           "key": "i3218",
           "occurrence": 1,
           "source": "<(c0xff81F79F)绿色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xff81F79F)绿色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xff81F79F)Võ Hồn Lục>\\\\Tăng Phòng Thủ Vật Lý\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3219",
           "occurrence": 1,
           "source": "圣•物防",
-          "target": "圣•物防"
+          "target": "Thánh • Vật Phòng"
         },
         {
           "key": "i3219",
           "occurrence": 1,
           "source": "<(c0xffB404AE)紫色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>",
-          "target": "<(c0xffB404AE)紫色武魂>\\\\增加物理防御\\\\<(c0xFF00FFFF)非本职业属性不增加战力>"
+          "target": "<(c0xffB404AE)Võ Hồn Tím>\\\\Tăng Phòng Thủ Vật Lý\\\\<(c0xFF00FFFF)Thuộc tính không thuộc nghề không tăng Lực Chiến>"
         },
         {
           "key": "n3220",
