@@ -1,0 +1,16 @@
+{
+  "version": "20260714directitem1",
+  "archive": {
+    "source": "assets/lang/zh-cn/cbp.zip",
+    "sha256": "014B238FBC3538026F6B9857C384DBE3C804439728B82256985E2FE94D11C8C7"
+  },
+  "entry": {
+    "name": "stditems.cbp",
+    "sha256": "C5B8D293964992A1F6CFF1BD144C46BCB6C7E703B0C2A7C92407FA9BD87DB3E4",
+    "target": "data/lang/zh-cn/stditems.cbp"
+  },
+  "legacy_loaders": [
+    "GPH.php",
+    "GPH.html"
+  ]
+}
