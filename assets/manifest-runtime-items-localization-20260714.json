@@ -9,7 +9,7 @@
     {
       "source": "assets/game/GameConfig.php",
       "target": "game/GameConfig.php",
-      "sha256": "A57E723CA25600E149168F71CC0DA0F11BC6CF069B0C1183D14089D64DDE862B"
+      "sha256": "7BE7DD2B3B9746BFADBBCB8C0121F1CB716AE98638DFA3D9B6D9FC1A76980FE3"
     },
     {
       "source": "assets/game/djrm.php",
