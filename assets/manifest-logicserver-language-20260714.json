@@ -1,6 +1,7 @@
 {
   "version": "20260714logicvi2",
-  "blocked": false,
+  "blocked": true,
+  "block_reason": "2026-07-14: Deploy toàn bộ catalog làm EntityName.txt tạo tên NPC trùng trong scene, khiến LogicServer báo Error loading Scene. VPS đã rollback về snapshot; không deploy lại gói này nguyên trạng.",
   "source_snapshot": "20260713",
   "catalog": "translations/logicserver-core-20260713.vi.json",
   "files": [
