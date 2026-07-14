@@ -1,0 +1,28 @@
+{
+  "format": 1,
+  "description": "Việt hóa tên hiệu ứng buff VIP do LogicServer gửi trực tiếp xuống client.",
+  "files": {
+    "Misc.txt": {
+      "entries": [
+        {
+          "key": "m000415",
+          "occurrence": 1,
+          "source": "至尊会员",
+          "target": "VIP Chí Tôn"
+        },
+        {
+          "key": "m000416",
+          "occurrence": 1,
+          "source": "黄金会员",
+          "target": "VIP Hoàng Kim"
+        },
+        {
+          "key": "m000417",
+          "occurrence": 1,
+          "source": "白银会员",
+          "target": "VIP Bạch Ngân"
+        }
+      ]
+    }
+  }
+}
