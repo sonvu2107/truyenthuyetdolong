@@ -1,0 +1,32 @@
+{
+  "version": "20260714logicvi3",
+  "blocked": false,
+  "source_snapshot": "20260713",
+  "catalog": "translations/logicserver-core-20260713.vi.json",
+  "files": [
+    {
+      "source": "assets/logicserver-language/Zh-CN/NormalTalk.txt",
+      "target": "LogicServer/data/language/Zh-CN/NormalTalk.txt",
+      "source_sha256": "F877BA17082703E375BC9B977FF6E33A8E5E4A35A162B7BBE9DB366C37DD9F98",
+      "sha256": "87A61B928BEEBD8F3A21EB23C1DCDFD202B602E82D70BED804415C22D4490406"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/EntityName.txt",
+      "target": "LogicServer/data/language/Zh-CN/EntityName.txt",
+      "source_sha256": "AE29C33CFBF2CC3D8F083F70404799C2529E68519006B81285AE98DEA998D195",
+      "sha256": "E10A84B10EA9F020A6FF769CC60CAEC60CEA36D6F19FC66FB7BBF4D5B05B337E"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/Quest.txt",
+      "target": "LogicServer/data/language/Zh-CN/Quest.txt",
+      "source_sha256": "E9A7CFF368A1085E357C84760593505E0EEFAA3A7A737CF0A99BB046E01D47E1",
+      "sha256": "4C0B332C6FC6A072C3DE29F0F2E75B0D7098D35F691C057ED3D5711AE3933467"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/Item.txt",
+      "target": "LogicServer/data/language/Zh-CN/Item.txt",
+      "source_sha256": "A3CEA3F36C1C41E4CEF8A4549BF8B815DDC3BEAD286DD2EDB11494DB96CC71E1",
+      "sha256": "9DC8ECADE4855536F8CD7FAFB5C003AFB404B4A236BFE72B1127CDF574E9FB72"
+    }
+  ]
+}
