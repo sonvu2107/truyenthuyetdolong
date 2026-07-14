@@ -1,0 +1,21 @@
+{
+  "version": "20260714activitymiscvi1",
+  "catalogs": [
+    "translations/logicserver-activity-runtime-20260714.vi.json",
+    "translations/logicserver-misc-runtime-20260714.vi.json"
+  ],
+  "files": [
+    {
+      "source": "assets/logicserver-language/Zh-CN/Activity.txt",
+      "target": "LogicServer/data/language/Zh-CN/Activity.txt",
+      "source_sha256": "8A18D0E156B7C4D588176A6DB5BA0B4B633153086A5F11A4DDF3FFC8643BA8C1",
+      "sha256": "8B4C12B7D792BE4B76662D09355CCD3DE0FF0A0152D555E30E0294E1B18DC9AB"
+    },
+    {
+      "source": "assets/logicserver-language/Zh-CN/Misc.txt",
+      "target": "LogicServer/data/language/Zh-CN/Misc.txt",
+      "source_sha256": "E753096E42DA5340898B31F86513556C64E7A161980908EC854618A08D33D439",
+      "sha256": "047030B411AF2B98387B70B9AD23553BE665F3C7BE74DBC6D2D9AAB70AB61C23"
+    }
+  ]
+}

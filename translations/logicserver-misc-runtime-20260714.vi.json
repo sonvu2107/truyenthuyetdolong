@@ -1,0 +1,964 @@
+{
+  "format": 1,
+  "description": "Bản dịch trạng thái và thông báo phụ runtime từ snapshot VPS 2026-07-14",
+  "files": {
+    "Misc.txt": {
+      "entries": [
+        {
+          "key": "level0001",
+          "occurrence": 1,
+          "source": "%d级",
+          "target": "%d cấp"
+        },
+        {
+          "key": "level0002",
+          "occurrence": 1,
+          "source": "%d转",
+          "target": "%d chuyển"
+        },
+        {
+          "key": "level0003",
+          "occurrence": 1,
+          "source": "%d转%d级",
+          "target": "%d chuyển %d cấp"
+        },
+        {
+          "key": "level0004",
+          "occurrence": 1,
+          "source": "需要等级达",
+          "target": "Cần đạt cấp"
+        },
+        {
+          "key": "m000160",
+          "occurrence": 1,
+          "source": "一百连斩",
+          "target": "Một trăm liên trảm"
+        },
+        {
+          "key": "m000161",
+          "occurrence": 1,
+          "source": "二百连斩",
+          "target": "Hai trăm liên trảm"
+        },
+        {
+          "key": "m000162",
+          "occurrence": 1,
+          "source": "三百连斩",
+          "target": "Ba trăm liên trảm"
+        },
+        {
+          "key": "m000163",
+          "occurrence": 1,
+          "source": "四百连斩",
+          "target": "Bốn trăm liên trảm"
+        },
+        {
+          "key": "m000164",
+          "occurrence": 1,
+          "source": "五百连斩",
+          "target": "Năm trăm liên trảm"
+        },
+        {
+          "key": "m000165",
+          "occurrence": 1,
+          "source": "六百连斩",
+          "target": "Sáu trăm liên trảm"
+        },
+        {
+          "key": "m000166",
+          "occurrence": 1,
+          "source": "七百连斩",
+          "target": "Bảy trăm liên trảm"
+        },
+        {
+          "key": "m000167",
+          "occurrence": 1,
+          "source": "八百连斩",
+          "target": "Tám trăm liên trảm"
+        },
+        {
+          "key": "m000168",
+          "occurrence": 1,
+          "source": "九百连斩",
+          "target": "Chín trăm liên trảm"
+        },
+        {
+          "key": "m000169",
+          "occurrence": 1,
+          "source": "一千连斩",
+          "target": "Một ngàn liên trảm"
+        },
+        {
+          "key": "m000176",
+          "occurrence": 1,
+          "source": "十连斩",
+          "target": "Mười liên trảm"
+        },
+        {
+          "key": "m000177",
+          "occurrence": 1,
+          "source": "五十连斩",
+          "target": "Năm mươi liên trảm"
+        },
+        {
+          "key": "m000200",
+          "occurrence": 1,
+          "source": "每天<(c0xFF00FFFF)pragam>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>",
+          "target": "Mỗi ngày <(c0xFF00FFFF)pragam> lần, khi chết <(c0xFF00FFFF)tỷ lệ rơi trang bị giảm xuống>"
+        },
+        {
+          "key": "m000201",
+          "occurrence": 1,
+          "source": "每天<(c0xFF00FFFF)pragam>次免费使用飞天鞋",
+          "target": "Mỗi ngày <(c0xFF00FFFF)pragam> lần miễn phí dùng Giày Bay"
+        },
+        {
+          "key": "m000202",
+          "occurrence": 1,
+          "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)pragam%>",
+          "target": "Tiêu diệt quái vật dã ngoại <(c0xFF00FFFF)nhận kinh nghiệm> được cộng thêm <(c0xFF00FFFF)pragam%>"
+        },
+        {
+          "key": "m000203",
+          "occurrence": 1,
+          "source": "装备的<(c0xFF00FFFF)修理费用>减少<(c0xFF00FFFF)pragam%>",
+          "target": "<(c0xFF00FFFF)Chi phí sửa chữa> trang bị giảm <(c0xFF00FFFF)pragam%>"
+        },
+        {
+          "key": "m000204",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有至尊会员特权礼包>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng gói đặc quyền Chí Tôn>"
+        },
+        {
+          "key": "m000205",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有黄金会员特权礼包>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng gói đặc quyền Hoàng Kim>"
+        },
+        {
+          "key": "m000206",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有白银会员特权礼包>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng gói đặc quyền Bạch Ngân>"
+        },
+        {
+          "key": "m000207",
+          "occurrence": 1,
+          "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)pragam>个",
+          "target": "<(c0xFF00FFFF)Kho> được tặng thêm <(c0xFF00FFFF)pragam> ô"
+        },
+        {
+          "key": "m000208",
+          "occurrence": 1,
+          "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)pragam%>",
+          "target": "<(c0xFF00FFFF)Tỷ lệ rơi bảo vật> của quái dã ngoại tăng <(c0xFF00FFFF)pragam%>"
+        },
+        {
+          "key": "m000209",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)行会任务>次数增加<(c0xFF00FFFF)pragam>次",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ bang hội> mỗi ngày tăng <(c0xFF00FFFF)pragam> lần"
+        },
+        {
+          "key": "m000210",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)荣誉任务>次数增加<(c0xFF00FFFF)pragam>次",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ vinh dự> mỗi ngày tăng <(c0xFF00FFFF)pragam> lần"
+        },
+        {
+          "key": "m000211",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)pragam>次",
+          "target": "Số lần <(c0xFF00FFFF)hộ tống mỹ nữ> mỗi ngày tăng <(c0xFF00FFFF)pragam> lần"
+        },
+        {
+          "key": "m000212",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)会员一键维修特权>",
+          "target": "<(c0xFF00FF00)Đặc quyền hội viên sửa chữa nhanh>"
+        },
+        {
+          "key": "m000213",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级",
+          "target": "<(c0xFFFFFF00)Tự động học không cần bí kịch> kỹ năng nghề nghiệp, đồng thời <(c0xFFFFFF00)trực tiếp thăng cấp> kỹ năng lên cấp <(c0xFF00FFFF)3>"
+        },
+        {
+          "key": "m000214",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)寻找玩家所在功能>",
+          "target": "<(c0xFF00FF00)Chức năng tìm kiếm vị trí người chơi>"
+        },
+        {
+          "key": "m000215",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)竞技场免费清除挑战冷却时间>",
+          "target": "<(c0xFF00FF00)Miễn phí xóa thời gian chờ khiêu chiến Đấu Trường>"
+        },
+        {
+          "key": "m000216",
+          "occurrence": 1,
+          "source": "佣兵装备宝石免费获取<(c0xFF00FFFF)pragam>次",
+          "target": "Miễn phí nhận đá quý trang bị lính đánh thuê <(c0xFF00FFFF)pragam> lần"
+        },
+        {
+          "key": "m000217",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)社交系统的追踪功能可输入指定名字>",
+          "target": "<(c0xFF00FF00)Chức năng theo dõi của hệ thống xã hội có thể nhập tên chỉ định>"
+        },
+        {
+          "key": "m000218",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)远程商店的使用>",
+          "target": "<(c0xFF00FF00)Sử dụng cửa hàng từ xa>"
+        },
+        {
+          "key": "m000220",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为绿色>",
+          "target": "<(c0xFF00FF00)Trước tên người chơi VIP hiển thị chữ VIP in hoa, màu chữ là xanh lá>"
+        },
+        {
+          "key": "m000221",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为蓝色>",
+          "target": "<(c0xFF00FF00)Trước tên người chơi VIP hiển thị chữ VIP in hoa, màu chữ là xanh lam>"
+        },
+        {
+          "key": "m000222",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)VIP玩家名字前显示大写VIP文字，文字颜色为紫色>",
+          "target": "<(c0xFF00FF00)Trước tên người chơi VIP hiển thị chữ VIP in hoa, màu chữ là tím>"
+        },
+        {
+          "key": "m000223",
+          "occurrence": 1,
+          "source": "每天可以<(c0xFF00FFFF)无限>次使用远程仓库",
+          "target": "Mỗi ngày có thể dùng kho từ xa <(c0xFF00FFFF)vô hạn> lần"
+        },
+        {
+          "key": "m000224",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)赏金任务>次数增加<(c0xFF00FFFF)pragam>次",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ tiền thưởng> mỗi ngày tăng <(c0xFF00FFFF)pragam> lần"
+        },
+        {
+          "key": "m000225",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)狩猎任务>次数增加<(c0xFF00FFFF)pragam>次",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ săn bắn> mỗi ngày tăng <(c0xFF00FFFF)pragam> lần"
+        },
+        {
+          "key": "m000226",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)寻找好友、仇人所在特权>",
+          "target": "<(c0xFF00FF00)Đặc quyền tìm kiếm vị trí hảo hữu, kẻ thù>"
+        },
+        {
+          "key": "m000227",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有超级VIP1的福利>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng phúc lợi Siêu VIP1>"
+        },
+        {
+          "key": "m000228",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有超级VIP2的福利>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng phúc lợi Siêu VIP2>"
+        },
+        {
+          "key": "m000229",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有超级VIP3的福利>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng phúc lợi Siêu VIP3>"
+        },
+        {
+          "key": "m000230",
+          "occurrence": 1,
+          "source": "升级星点时减少<(c0xFF00FFFF)pragam%>星魂值消耗",
+          "target": "Khi thăng cấp tinh điểm giảm <(c0xFF00FFFF)pragam%> tiêu hao Tinh Hồn"
+        },
+        {
+          "key": "m000231",
+          "occurrence": 1,
+          "source": "每日免费领取<(c0xFF00FFFF)pragam>个<(c0xFF00FFFF)立即完成卷轴>",
+          "target": "Mỗi ngày miễn phí nhận <(c0xFF00FFFF)pragam> <(c0xFF00FFFF)Cuộn Lập Tức Hoàn Thành>"
+        },
+        {
+          "key": "m000232",
+          "occurrence": 1,
+          "source": "每日免费领取<(c0xFF00FFFF)pragam>个<(c0xFF00FFFF)背包扩展卷轴>",
+          "target": "Mỗi ngày miễn phí nhận <(c0xFF00FFFF)pragam> <(c0xFF00FFFF)Cuộn Mở Rộng Túi>"
+        },
+        {
+          "key": "m000233",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)增加坐骑一键提升功能>",
+          "target": "<(c0xFF00FF00)Thêm chức năng tăng cấp thú cưỡi nhanh>"
+        },
+        {
+          "key": "m000380",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有至尊会员的福利.>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng phúc lợi Hội viên Chí Tôn.>"
+        },
+        {
+          "key": "m000381",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有黄金会员的福利.>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng phúc lợi Hội viên Hoàng Kim.>"
+        },
+        {
+          "key": "m000382",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)每天享有白银会员的福利.>",
+          "target": "<(c0xFFFFFF00)Mỗi ngày hưởng phúc lợi Hội viên Bạch Ngân.>"
+        },
+        {
+          "key": "m000383",
+          "occurrence": 1,
+          "source": "每天<(c0xFF00FFFF)3>次,死亡时<(c0xFF00FFFF)装备的掉落率降低>.",
+          "target": "Mỗi ngày <(c0xFF00FFFF)3> lần, khi chết <(c0xFF00FFFF)tỷ lệ rơi trang bị giảm xuống>."
+        },
+        {
+          "key": "m000384",
+          "occurrence": 1,
+          "source": "每天<(c0xFF00FFFF)无限次>次免费使用飞天鞋.",
+          "target": "Mỗi ngày <(c0xFF00FFFF)vô số> lần miễn phí dùng Giày Bay."
+        },
+        {
+          "key": "m000385",
+          "occurrence": 1,
+          "source": "每天<(c0xFF00FFFF)30>次免费使用飞天鞋.",
+          "target": "Mỗi ngày <(c0xFF00FFFF)30> lần miễn phí dùng Giày Bay."
+        },
+        {
+          "key": "m000386",
+          "occurrence": 1,
+          "source": "每天<(c0xFF00FFFF)10>次免费使用飞天鞋.",
+          "target": "Mỗi ngày <(c0xFF00FFFF)10> lần miễn phí dùng Giày Bay."
+        },
+        {
+          "key": "m000387",
+          "occurrence": 1,
+          "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)20%>.",
+          "target": "Tiêu diệt quái vật dã ngoại <(c0xFF00FFFF)nhận kinh nghiệm> được cộng thêm <(c0xFF00FFFF)20%>."
+        },
+        {
+          "key": "m000388",
+          "occurrence": 1,
+          "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)15%>.",
+          "target": "Tiêu diệt quái vật dã ngoại <(c0xFF00FFFF)nhận kinh nghiệm> được cộng thêm <(c0xFF00FFFF)15%>."
+        },
+        {
+          "key": "m000389",
+          "occurrence": 1,
+          "source": "消灭野外怪物<(c0xFF00FFFF)获得经验>额外加成<(c0xFF00FFFF)10%>.",
+          "target": "Tiêu diệt quái vật dã ngoại <(c0xFF00FFFF)nhận kinh nghiệm> được cộng thêm <(c0xFF00FFFF)10%>."
+        },
+        {
+          "key": "m000390",
+          "occurrence": 1,
+          "source": "装备的<(c0xFF00FFFF)修理价格>减少<(c0xFF00FFFF)10%>.",
+          "target": "<(c0xFF00FFFF)Giá sửa chữa> trang bị giảm <(c0xFF00FFFF)10%>."
+        },
+        {
+          "key": "m000391",
+          "occurrence": 1,
+          "source": "<(c0xFF00FFFF)普通修理>的价格减少<(c0xFF00FFFF)10%>.",
+          "target": "Giá <(c0xFF00FFFF)sửa chữa thường> giảm <(c0xFF00FFFF)10%>."
+        },
+        {
+          "key": "m000392",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)会员一键维修特权.>",
+          "target": "<(c0xFF00FF00)Đặc quyền hội viên sửa chữa nhanh.>"
+        },
+        {
+          "key": "m000393",
+          "occurrence": 1,
+          "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)3>页.",
+          "target": "<(c0xFF00FFFF)Kho> được tặng thêm <(c0xFF00FFFF)3> trang."
+        },
+        {
+          "key": "m000394",
+          "occurrence": 1,
+          "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)2>页.",
+          "target": "<(c0xFF00FFFF)Kho> được tặng thêm <(c0xFF00FFFF)2> trang."
+        },
+        {
+          "key": "m000395",
+          "occurrence": 1,
+          "source": "<(c0xFF00FFFF)仓库>额外赠送<(c0xFF00FFFF)1>页.",
+          "target": "<(c0xFF00FFFF)Kho> được tặng thêm <(c0xFF00FFFF)1> trang."
+        },
+        {
+          "key": "m000396",
+          "occurrence": 1,
+          "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)3%>.",
+          "target": "<(c0xFF00FFFF)Tỷ lệ rơi bảo vật> của quái dã ngoại tăng <(c0xFF00FFFF)3%>."
+        },
+        {
+          "key": "m000397",
+          "occurrence": 1,
+          "source": "野外怪物<(c0xFF00FFFF)掉宝率>提高<(c0xFF00FFFF)1%>.",
+          "target": "<(c0xFF00FFFF)Tỷ lệ rơi bảo vật> của quái dã ngoại tăng <(c0xFF00FFFF)1%>."
+        },
+        {
+          "key": "m000398",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)社交系统的追踪功能可输入指定名字.>",
+          "target": "<(c0xFF00FF00)Chức năng theo dõi của hệ thống xã hội có thể nhập tên chỉ định.>"
+        },
+        {
+          "key": "m000399",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)社交系统的追踪功能可输入指定名字.>",
+          "target": "<(c0xFF00FF00)Chức năng theo dõi của hệ thống xã hội có thể nhập tên chỉ định.>"
+        },
+        {
+          "key": "m000400",
+          "occurrence": 1,
+          "source": "<(c0xFFFFFF00)无须秘籍自动学习>职业技能,并且让技能<(c0xFFFFFF00)直接提升>至<(c0xFF00FFFF)3>级.",
+          "target": "<(c0xFFFFFF00)Tự động học không cần bí kịch> kỹ năng nghề nghiệp, đồng thời <(c0xFFFFFF00)trực tiếp thăng cấp> kỹ năng lên cấp <(c0xFF00FFFF)3>."
+        },
+        {
+          "key": "m000401",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)行会任务>次数增加<(c0xFF00FFFF)3>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ bang hội> mỗi ngày tăng <(c0xFF00FFFF)3> lần."
+        },
+        {
+          "key": "m000402",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)行会任务>次数增加<(c0xFF00FFFF)2>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ bang hội> mỗi ngày tăng <(c0xFF00FFFF)2> lần."
+        },
+        {
+          "key": "m000403",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)行会任务>次数增加<(c0xFF00FFFF)1>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ bang hội> mỗi ngày tăng <(c0xFF00FFFF)1> lần."
+        },
+        {
+          "key": "m000404",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)荣誉任务>次数增加<(c0xFF00FFFF)3>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ vinh dự> mỗi ngày tăng <(c0xFF00FFFF)3> lần."
+        },
+        {
+          "key": "m000405",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)荣誉任务>次数增加<(c0xFF00FFFF)2>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ vinh dự> mỗi ngày tăng <(c0xFF00FFFF)2> lần."
+        },
+        {
+          "key": "m000406",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)荣誉任务>次数增加<(c0xFF00FFFF)1>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ vinh dự> mỗi ngày tăng <(c0xFF00FFFF)1> lần."
+        },
+        {
+          "key": "m000407",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)金币任务>次数增加<(c0xFF00FFFF)3>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ vàng> mỗi ngày tăng <(c0xFF00FFFF)3> lần."
+        },
+        {
+          "key": "m000408",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)金币任务>次数增加<(c0xFF00FFFF)2>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ vàng> mỗi ngày tăng <(c0xFF00FFFF)2> lần."
+        },
+        {
+          "key": "m000409",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)金币任务>次数增加<(c0xFF00FFFF)1>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ vàng> mỗi ngày tăng <(c0xFF00FFFF)1> lần."
+        },
+        {
+          "key": "m000410",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)经验任务>次数增加<(c0xFF00FFFF)3>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ kinh nghiệm> mỗi ngày tăng <(c0xFF00FFFF)3> lần."
+        },
+        {
+          "key": "m000411",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)经验任务>次数增加<(c0xFF00FFFF)2>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ kinh nghiệm> mỗi ngày tăng <(c0xFF00FFFF)2> lần."
+        },
+        {
+          "key": "m000412",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)经验任务>次数增加<(c0xFF00FFFF)1>次.",
+          "target": "Số lần <(c0xFF00FFFF)nhiệm vụ kinh nghiệm> mỗi ngày tăng <(c0xFF00FFFF)1> lần."
+        },
+        {
+          "key": "m000413",
+          "occurrence": 1,
+          "source": "每日<(c0xFF00FFFF)护送美女>次数增加<(c0xFF00FFFF)1>次.",
+          "target": "Số lần <(c0xFF00FFFF)hộ tống mỹ nữ> mỗi ngày tăng <(c0xFF00FFFF)1> lần."
+        },
+        {
+          "key": "m000414",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)竞技场系统免费清除挑战冷却时间.>",
+          "target": "<(c0xFF00FF00)Hệ thống đấu trường miễn phí xóa thời gian chờ khiêu chiến.>"
+        },
+        {
+          "key": "m000415",
+          "occurrence": 1,
+          "source": "VIP Chí Tôn",
+          "target": "Hội viên Chí Tôn"
+        },
+        {
+          "key": "m000416",
+          "occurrence": 1,
+          "source": "VIP Hoàng Kim",
+          "target": "Hội viên Hoàng Kim"
+        },
+        {
+          "key": "m000417",
+          "occurrence": 1,
+          "source": "VIP Bạch Ngân",
+          "target": "Hội viên Bạch Ngân"
+        },
+        {
+          "key": "m000418",
+          "occurrence": 1,
+          "source": "坐骑系统可以使用<(c0xFFFFFF00)一键提升>功能,并获得<(c0xFFFFFF00)额外坐骑经验奖励>",
+          "target": "Hệ thống thú cưỡi có thể dùng chức năng <(c0xFFFFFF00)tăng nhanh>, và nhận <(c0xFFFFFF00)thưởng thêm kinh nghiệm thú cưỡi>"
+        },
+        {
+          "key": "m000419",
+          "occurrence": 1,
+          "source": "<(c0xFF00FF00)VIP界面>可以使用<(c0xFFFF0000)红名清洗>功能",
+          "target": "<(c0xFF00FF00)Giao diện VIP> có thể dùng chức năng <(c0xFFFF0000)rửa tên đỏ>"
+        },
+        {
+          "key": "m000421",
+          "occurrence": 1,
+          "source": "登陆器奖励",
+          "target": "Thưởng Launcher"
+        },
+        {
+          "key": "m000422",
+          "occurrence": 1,
+          "source": "成功下载登陆器即可领取奖励",
+          "target": "Tải thành công Launcher có thể nhận thưởng"
+        },
+        {
+          "key": "m000423",
+          "occurrence": 1,
+          "source": "您身上已经有更高一级的VIP效果,无法用低级VIP替换",
+          "target": "Bạn đang có hiệu ứng VIP cấp cao hơn, không thể thay thế bằng VIP cấp thấp"
+        },
+        {
+          "key": "m000424",
+          "occurrence": 1,
+          "source": "半年VIP玩家可兑换经验的战魂上限是非VIP的<(c0xFF00FF00)1.5>倍",
+          "target": "Giới hạn Chiến Hồn đổi kinh nghiệm của VIP nửa năm gấp <(c0xFF00FF00)1.5> lần người không phải VIP"
+        },
+        {
+          "key": "m000425",
+          "occurrence": 1,
+          "source": "打坐经验增加<(c0xFF00FF00)50%>",
+          "target": "Kinh nghiệm ngồi thiền tăng <(c0xFF00FF00)50%>"
+        },
+        {
+          "key": "m000426",
+          "occurrence": 1,
+          "source": "打坐经验增加<(c0xFF00FF00)100%>",
+          "target": "Kinh nghiệm ngồi thiền tăng <(c0xFF00FF00)100%>"
+        },
+        {
+          "key": "m000427",
+          "occurrence": 1,
+          "source": "装备强化成功率增加<(c0xFF00FF00)1%>",
+          "target": "Tỷ lệ cường hóa trang bị thành công tăng <(c0xFF00FF00)1%>"
+        },
+        {
+          "key": "m000428",
+          "occurrence": 1,
+          "source": "<(c0xFFF200C1)装备强化成功率增加3%>",
+          "target": "<(c0xFFF200C1)Tỷ lệ cường hóa trang bị thành công tăng 3%>"
+        },
+        {
+          "key": "m000429",
+          "occurrence": 1,
+          "source": "玩家每天增加<(c0xFF00FF00)1次>帮派运镖机会",
+          "target": "Người chơi mỗi ngày được thêm <(c0xFF00FF00)1 lần> vận tiêu bang hội"
+        },
+        {
+          "key": "m000430",
+          "occurrence": 1,
+          "source": "获取卡号",
+          "target": "Lấy mã thẻ"
+        },
+        {
+          "key": "m000431",
+          "occurrence": 1,
+          "source": "输入序列号，领取礼包",
+          "target": "Nhập số seri, nhận gói quà"
+        },
+        {
+          "key": "m000432",
+          "occurrence": 1,
+          "source": "立刻充值",
+          "target": "Nạp tiền ngay"
+        },
+        {
+          "key": "m000433",
+          "occurrence": 1,
+          "source": "输入卡号即可领取奖励",
+          "target": "Nhập mã thẻ để nhận thưởng"
+        },
+        {
+          "key": "m000434",
+          "occurrence": 1,
+          "source": "这是一份神奇的礼包.拥有它您将驰骋于暗黑屠龙中!\\\\<(c0xFF00FF00)礼包领取说明:\\\\点击下面按钮打开输入框,将线下活动发放的激活码粘贴之,即可领取相关的活动礼包>",
+          "target": "Đây là một gói quà kỳ diệu. Sở hữu nó bạn sẽ tung hoành trong Ám Hắc Đồ Long!\\\\<(c0xFF00FF00)Hướng dẫn nhận quà:\\\\Nhấn nút bên dưới mở ô nhập, dán mã kích hoạt được phát từ sự kiện offline vào, là có thể nhận gói quà sự kiện tương ứng>"
+        },
+        {
+          "key": "m000435",
+          "occurrence": 1,
+          "source": "新手卡礼包",
+          "target": "Gói thẻ tân thủ"
+        },
+        {
+          "key": "m000436",
+          "occurrence": 1,
+          "source": "行会卡礼包",
+          "target": "Gói thẻ bang hội"
+        },
+        {
+          "key": "m000437",
+          "occurrence": 1,
+          "source": "活动礼包",
+          "target": "Gói quà sự kiện"
+        },
+        {
+          "key": "m000438",
+          "occurrence": 1,
+          "source": "点击领取奖励按钮,输入卡号即可领取奖励",
+          "target": "Nhấn nút nhận thưởng, nhập mã thẻ là có thể nhận thưởng"
+        },
+        {
+          "key": "m000439",
+          "occurrence": 1,
+          "source": "<(n%s)>使用了白银VIP卡,成为尊贵的<(c0xFFF200C1)VIP用户>,享受多项VIP专属特权!快快<点击了解/@@showWin,14>",
+          "target": "<(n%s)> sử dụng Thẻ VIP Bạch Ngân, trở thành <(c0xFFF200C1)Người dùng VIP> tôn quý, hưởng nhiều đặc quyền VIP! Mau <nhấn tìm hiểu/@@showWin,14>"
+        },
+        {
+          "key": "m000440",
+          "occurrence": 1,
+          "source": "<(n%s)>使用了黄金VIP卡,成为尊贵的<(c0xFFF200C1)VIP用户>,享受多项VIP专属特权!快快<点击了解/@@showWin,14>",
+          "target": "<(n%s)> sử dụng Thẻ VIP Hoàng Kim, trở thành <(c0xFFF200C1)Người dùng VIP> tôn quý, hưởng nhiều đặc quyền VIP! Mau <nhấn tìm hiểu/@@showWin,14>"
+        },
+        {
+          "key": "m000441",
+          "occurrence": 1,
+          "source": "<(n%s)>使用了至尊VIP卡,成为尊贵的<(c0xFFF200C1)VIP用户>,享受多项VIP专属特权!快快<点击了解/@@showWin,14>",
+          "target": "<(n%s)> sử dụng Thẻ VIP Chí Tôn, trở thành <(c0xFFF200C1)Người dùng VIP> tôn quý, hưởng nhiều đặc quyền VIP! Mau <nhấn tìm hiểu/@@showWin,14>"
+        },
+        {
+          "key": "m000442",
+          "occurrence": 1,
+          "source": "玩家每天增加<(c0xFF00FF00)1次>帮派任务机会",
+          "target": "Người chơi mỗi ngày được thêm <(c0xFF00FF00)1 lần> nhiệm vụ bang hội"
+        },
+        {
+          "key": "m000443",
+          "occurrence": 1,
+          "source": "玩家每天增加<(c0xFF00FF00)1次>膜拜斗魂机会",
+          "target": "Người chơi mỗi ngày được thêm <(c0xFF00FF00)1 lần> bái phỏng đấu hồn"
+        },
+        {
+          "key": "m000444",
+          "occurrence": 1,
+          "source": "输入序列号，领取礼包",
+          "target": "Nhập số seri, nhận gói quà"
+        },
+        {
+          "key": "m000450",
+          "occurrence": 1,
+          "source": "修为",
+          "target": "Tu vi"
+        },
+        {
+          "key": "m000451",
+          "occurrence": 1,
+          "source": "经验值",
+          "target": "Kinh nghiệm"
+        },
+        {
+          "key": "m000452",
+          "occurrence": 1,
+          "source": "帮派贡献值",
+          "target": "Cống hiến bang"
+        },
+        {
+          "key": "m000453",
+          "occurrence": 1,
+          "source": "阵营贡献值",
+          "target": "Cống hiến phe"
+        },
+        {
+          "key": "m000454",
+          "occurrence": 1,
+          "source": "绑定金币",
+          "target": "Vàng khóa"
+        },
+        {
+          "key": "m000455",
+          "occurrence": 1,
+          "source": "金币",
+          "target": "Vàng"
+        },
+        {
+          "key": "m000456",
+          "occurrence": 1,
+          "source": "绑定元宝",
+          "target": "KNB khóa"
+        },
+        {
+          "key": "m000457",
+          "occurrence": 1,
+          "source": "称谓",
+          "target": "Danh hiệu"
+        },
+        {
+          "key": "m000458",
+          "occurrence": 1,
+          "source": "技能",
+          "target": "Kỹ năng"
+        },
+        {
+          "key": "m000459",
+          "occurrence": 1,
+          "source": "战魂值",
+          "target": "Điểm chiến hồn"
+        },
+        {
+          "key": "m000460",
+          "occurrence": 1,
+          "source": "成就点",
+          "target": "Điểm thành tựu"
+        },
+        {
+          "key": "m000461",
+          "occurrence": 1,
+          "source": "声望",
+          "target": "Danh vọng"
+        },
+        {
+          "key": "m000462",
+          "occurrence": 1,
+          "source": "奖励宠物",
+          "target": "Thưởng pet"
+        },
+        {
+          "key": "m000463",
+          "occurrence": 1,
+          "source": "奖励活跃度",
+          "target": "Thưởng năng động"
+        },
+        {
+          "key": "m000464",
+          "occurrence": 1,
+          "source": "元宝",
+          "target": "KNB"
+        },
+        {
+          "key": "m000465",
+          "occurrence": 1,
+          "source": "帮派繁荣度",
+          "target": "Độ phồn vinh bang"
+        },
+        {
+          "key": "m000466",
+          "occurrence": 1,
+          "source": "帮派玥石",
+          "target": "Nguyệt Thạch bang"
+        },
+        {
+          "key": "m000467",
+          "occurrence": 1,
+          "source": "XP值",
+          "target": "Điểm XP"
+        },
+        {
+          "key": "m000468",
+          "occurrence": 1,
+          "source": "竞技积分",
+          "target": "Điểm đấu trường"
+        },
+        {
+          "key": "m000469",
+          "occurrence": 1,
+          "source": "经验值",
+          "target": "Kinh nghiệm"
+        },
+        {
+          "key": "m000470",
+          "occurrence": 1,
+          "source": "荣誉",
+          "target": "Vinh dự"
+        },
+        {
+          "key": "m000471",
+          "occurrence": 1,
+          "source": "转生灵魄",
+          "target": "Linh phách chuyển sinh"
+        },
+        {
+          "key": "m000480",
+          "occurrence": 1,
+          "source": "兑换经验",
+          "target": "Đổi kinh nghiệm"
+        },
+        {
+          "key": "m000481",
+          "occurrence": 1,
+          "source": "兑换物品",
+          "target": "Đổi vật phẩm"
+        },
+        {
+          "key": "m000482",
+          "occurrence": 1,
+          "source": "战魂获得",
+          "target": "Nhận chiến hồn"
+        },
+        {
+          "key": "m000483",
+          "occurrence": 1,
+          "source": "1、战魂可通过消灭比您角色<(c0xFF00FF00)等级低10级以内或等级比您高的非本阵营玩家>获取.\\\\\\\\2、40级以下玩家消灭其他玩家不获得战魂.\\\\\\\\3、消灭40级以下玩家不会获得战魂.\\\\\\\\4、在<(c0xFF00FF00)圣火保卫战>活动场景中,<(c0xFF00FF00)战魂获得加倍>.\\\\\\\\5、半小时内消灭同一玩家不会获得战魂.\\\\\\\\6、玩家每天获得战魂最大为<(c0xFF00FF00)19000点>.\\\\\\\\7、<(c0xFF00FF00)战魂最大上限为250000>,到达上线后将不再获得战魂.",
+          "target": "1, Chiến hồn có thể nhận qua việc tiêu diệt người chơi không cùng phe <(c0xFF00FF00)cấp thấp hơn không quá 10 cấp hoặc cấp cao hơn> bạn.\\\\\\\\2, Người chơi dưới 40 cấp tiêu diệt người khác không được nhận chiến hồn.\\\\\\\\3, Tiêu diệt người chơi dưới 40 cấp sẽ không nhận được chiến hồn.\\\\\\\\4, Trong cảnh hoạt động <(c0xFF00FF00)Bảo Vệ Thánh Hỏa>, <(c0xFF00FF00)chiến hồn nhận được x2>.\\\\\\\\5, Trong nửa giờ tiêu diệt cùng một người chơi sẽ không nhận được chiến hồn.\\\\\\\\6, Người chơi mỗi ngày nhận tối đa <(c0xFF00FF00)19000 điểm> chiến hồn.\\\\\\\\7, <(c0xFF00FF00)Giới hạn tối đa chiến hồn là 250000>, đạt mức này sẽ không nhận được chiến hồn nữa."
+        },
+        {
+          "key": "m000484",
+          "occurrence": 1,
+          "source": "战魂掉落",
+          "target": "Rơi chiến hồn"
+        },
+        {
+          "key": "m000485",
+          "occurrence": 1,
+          "source": "1、在<(c0xFF00FF00)野外被比您角色等级高10级以内或等级比您低的非本阵营玩家>消灭,将会掉落战魂.\\\\\\\\2、战魂最小为<(c0xFF00FF00)0>,掉落到0时,将不再掉落战魂.\\\\\\\\3、<(c0xFF00FF00)40级以下的玩家>不掉落战魂.\\\\\\\\4、使用<(c0xFF00FF00)原地复活>功能不掉落战魂.",
+          "target": "1, Ở <(c0xFF00FF00)dã ngoại bị người chơi không cùng phe cấp cao hơn không quá 10 cấp hoặc cấp thấp hơn> tiêu diệt, sẽ rơi chiến hồn.\\\\\\\\2, Chiến hồn nhỏ nhất là <(c0xFF00FF00)0>, khi rơi đến 0, sẽ không rơi nữa.\\\\\\\\3, <(c0xFF00FF00)Người chơi dưới 40 cấp> không rơi chiến hồn.\\\\\\\\4, Dùng chức năng <(c0xFF00FF00)Hồi sinh tại chỗ> không rơi chiến hồn."
+        },
+        {
+          "key": "m000486",
+          "occurrence": 1,
+          "source": "战魂兑换",
+          "target": "Đổi chiến hồn"
+        },
+        {
+          "key": "m000487",
+          "occurrence": 1,
+          "source": "1、每日兑换经验的战魂有上限,等级越高,兑换经验的战魂上限越大.\\\\\\\\2、<(c0xFF00FF00)VIP半年卡用户>可兑换经验的战魂上限<(c0xFF00FF00)增加至1.5倍>.\\\\\\\\3、<(c0xFF00FF00)可兑换的战魂=当前战魂-2400>,最小为0.",
+          "target": "1, Mỗi ngày dùng chiến hồn đổi kinh nghiệm có giới hạn, cấp càng cao, giới hạn chiến hồn đổi kinh nghiệm càng lớn.\\\\\\\\2, <(c0xFF00FF00)Người dùng thẻ VIP nửa năm> giới hạn chiến hồn đổi kinh nghiệm <(c0xFF00FF00)tăng lên 1.5 lần>.\\\\\\\\3, <(c0xFF00FF00)Chiến hồn có thể đổi = Chiến hồn hiện tại - 2400>, nhỏ nhất là 0."
+        },
+        {
+          "key": "m000488",
+          "occurrence": 1,
+          "source": "保留的%d战魂值无法兑换",
+          "target": "Giữ lại %d điểm chiến hồn không thể đổi"
+        },
+        {
+          "key": "m000489",
+          "occurrence": 1,
+          "source": "需要%d级才能兑换此物品",
+          "target": "Cần cấp %d mới có thể đổi vật phẩm này"
+        },
+        {
+          "key": "m000490",
+          "occurrence": 1,
+          "source": "超过每日可兑换战魂值上限",
+          "target": "Vượt quá giới hạn chiến hồn có thể đổi mỗi ngày"
+        },
+        {
+          "key": "m000500",
+          "occurrence": 1,
+          "source": "你触发了一个惊喜，获得了更多的奖励",
+          "target": "Bạn đã kích hoạt một niềm vui bất ngờ, nhận được nhiều phần thưởng hơn"
+        },
+        {
+          "key": "m000501",
+          "occurrence": 1,
+          "source": "剩余的崇拜或鄙视次数不足",
+          "target": "Số lần sùng bái hoặc khinh bỉ còn lại không đủ"
+        },
+        {
+          "key": "msgboard0001",
+          "occurrence": 1,
+          "source": "上个榜还弄得这么寒酸,一点都不炫",
+          "target": "Lên bảng còn làm bủn xỉn thế này, chả ngầu gì cả"
+        },
+        {
+          "key": "msgboard0002",
+          "occurrence": 1,
+          "source": "就这点战斗力也就只能欺负下弱小",
+          "target": "Lực chiến cỡ này chỉ có thể bắt nạt kẻ yếu thôi"
+        },
+        {
+          "key": "msgboard0003",
+          "occurrence": 1,
+          "source": "装备什么的都弱爆了,还好意思上榜",
+          "target": "Trang bị gì mà yếu xìu, còn không biết ngượng lên bảng"
+        },
+        {
+          "key": "msgboard0004",
+          "occurrence": 1,
+          "source": "也就运气好才上的,都没差多少战斗力",
+          "target": "Cũng do may mắn mới lên được, lực chiến cũng chả hơn mấy"
+        },
+        {
+          "key": "msgboard0005",
+          "occurrence": 1,
+          "source": "自定义留言（$num$元宝/次）",
+          "target": "Tùy chỉnh lời nhắn ($num$ KNB/lần)"
+        },
+        {
+          "key": "vip0001",
+          "occurrence": 1,
+          "source": "超级VIP1",
+          "target": "Siêu VIP1"
+        },
+        {
+          "key": "vip0002",
+          "occurrence": 1,
+          "source": "超级VIP2",
+          "target": "Siêu VIP2"
+        },
+        {
+          "key": "vip0003",
+          "occurrence": 1,
+          "source": "超级VIP3",
+          "target": "Siêu VIP3"
+        },
+        {
+          "key": "vip0004",
+          "occurrence": 1,
+          "source": "攻击10%<br>免伤10%<br>经验加成50%",
+          "target": "Tấn công 10%<br>Miễn thương 10%<br>Kinh nghiệm thêm 50%"
+        },
+        {
+          "key": "vip0005",
+          "occurrence": 1,
+          "source": "攻击15%<br>免伤15%<br>经验加成100%",
+          "target": "Tấn công 15%<br>Miễn thương 15%<br>Kinh nghiệm thêm 100%"
+        },
+        {
+          "key": "vip0006",
+          "occurrence": 1,
+          "source": "攻击20%<br>免伤20%<br>经验加成200%",
+          "target": "Tấn công 20%<br>Miễn thương 20%<br>Kinh nghiệm thêm 200%"
+        }
+      ]
+    }
+  }
+}
