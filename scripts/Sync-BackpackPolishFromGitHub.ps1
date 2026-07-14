@@ -5,7 +5,7 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
-$Version = '20260714bagui3'
+$Version = '20260714bagui4'
 $RepoBase = "https://raw.githubusercontent.com/sonvu2107/truyenthuyetdolong/$Revision"
 $ManifestRelativePath = 'assets/manifest-backpack-polish-20260714.json'
 $WorkRoot = Join-Path $env:TEMP ('ahtl-backpack-ui-' + [Guid]::NewGuid().ToString('N'))
