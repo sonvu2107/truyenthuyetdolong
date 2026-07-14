@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "active": true,
+  "active": false,
   "description": "Rút gọn số tiền và bộ đếm thời gian trong Hành Trang.",
   "classes": {
     "view.game.components.icons.MoneyIcon": {
@@ -21,6 +21,7 @@
     "server_values_unchanged": true,
     "compact_money_scope": "MoneyIcon nằm trong cây hiển thị BackPackWin",
     "backpack_class_recompiled": false,
-    "countdown_rounding": "ceil-to-minute"
+    "countdown_rounding": "ceil-to-minute",
+    "rollback_reason": "FFDec importScript đánh lại newfunction trong BackPackWin dù lớp không nằm trong nguồn import, khiến cửa sổ Túi Đồ không khởi tạo."
   }
 }

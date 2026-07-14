@@ -4,7 +4,7 @@
     {
       "source": "assets/GameFrame.swf",
       "target": "GameFrame.swf",
-      "sha256": "530746E7088C7A5B935CB44C0D9A5685D9C7AD8523B7A14F37F14763A2C0AD02"
+      "sha256": "DC74793FC45D37137A03A346617F8D24FB44D20F0193E6A096F3EDD584EDED52"
     },
     {
       "source": "assets/lang/zh-cn/cbp.zip",
@@ -19,7 +19,7 @@
     {
       "source": "assets/game/djrm.php",
       "target": "game/djrm.php",
-      "sha256": "8D90A4D2E6B3E8F19FB0DB4867CA2FB7AC8DF97BAABA88B16A9E517096AD4F03"
+      "sha256": "71B8F3A06CC66D3826E77A71C63A3066A1B3D394C894AB30A8F7D610314D067B"
     }
   ],
   "entries": [

@@ -11,7 +11,7 @@ include('SPDef.php');
 $v=$_SESSION['FLVars'];
 $sn=$_SESSION['GameServerName'];
 $pay_url=$_SESSION['PayURL'];
-$gameFrameURL=GAMEAPPURL.(strpos(GAMEAPPURL, '?') === false ? '?' : '&').'ahtlcache=20260714bagui2gf';
+$gameFrameURL=GAMEAPPURL.(strpos(GAMEAPPURL, '?') === false ? '?' : '&').'ahtlcache=20260714bagui2r1gf';
 $plainFlashVars=array();
 if (!empty($_SESSION['FLVarsPlain']))
 {
