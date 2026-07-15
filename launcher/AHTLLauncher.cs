@@ -22,6 +22,16 @@ namespace AHTLLauncherFixed
         {
             return owner.ToggleFullscreenSafe();
         }
+
+        // GameFrame gọi callback này khi đã vào game, đổi URL nạp hoặc cập nhật
+        // tên game. Nếu thiếu bridge, ExternalInterface có thể làm khung Flash đen.
+        public bool JsCallClient(string code, string data, string reservedValue)
+        {
+            int callCode;
+            if (!int.TryParse(code, out callCode))
+                return true;
+            return owner.HandleFlashClientCall(callCode, data);
+        }
     }
 
     public sealed class LauncherForm : Form
@@ -139,6 +149,27 @@ namespace AHTLLauncherFixed
             }
             ResumeLayout(true);
             return isFullscreen;
+        }
+
+        public bool HandleFlashClientCall(int callCode, string data)
+        {
+            if (InvokeRequired)
+                return (bool)Invoke(new Func<int, string, bool>(HandleFlashClientCall), callCode, data);
+
+            switch (callCode)
+            {
+                case 1: // JF_EXIT
+                    BeginInvoke(new MethodInvoker(Close));
+                    break;
+                case 2: // JF_REFLASH
+                    browser.Refresh(WebBrowserRefreshOption.Completely);
+                    break;
+                case 6: // JF_GAME_INFO
+                    if (!string.IsNullOrEmpty(data))
+                        Text = data;
+                    break;
+            }
+            return true;
         }
 
         private void LauncherKeyDown(object sender, KeyEventArgs eventArgs)

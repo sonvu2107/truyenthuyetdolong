@@ -1,0 +1,20 @@
+{
+  "version": "20260715launcherbridge2",
+  "files": [
+    {
+      "source": "assets/game/static/common.js",
+      "target": "game/static/common.js",
+      "sha256": "01CE469AB95A4F65D7735CC4FE94E1CBC8E5A41E9A0642C0CA2DD05773F9BB39"
+    },
+    {
+      "source": "assets/game/djrm.php",
+      "target": "game/djrm.php",
+      "sha256": "E67A1204B6C28FB7D96ADE06FB7A21D2E9A103F5DE9D8A06DD46281A72286E38"
+    },
+    {
+      "source": "launcher/AHTL_Launcher_Fixed.exe",
+      "target": "download/AHTL_Launcher_Fixed.exe",
+      "sha256": "073C431D10B2640C2F8585E92683D26D0E910464B4D5A85673760EC7D8E118A0"
+    }
+  ]
+}

@@ -47,7 +47,33 @@ function ClientCallJs(code, x, y) {
 }
 
 function JsCallClient(code, a, b) {
-	window.external.JsCallClient(code, a, b)
+	try {
+		(new Image()).src = "/client_trace.php?step=js_call_client_before&data=" +
+			encodeURIComponent("id=" + code + "|aLen=" + String(a || "").length +
+			"|bLen=" + String(b || "").length) + "&t=" + (new Date()).getTime();
+	} catch (ignoreTraceBefore) {}
+	// Một số launcher WebBrowser cũ không công bố JsCallClient qua window.external.
+	// Không để callback phụ này làm ExternalInterface dừng toàn bộ quá trình khởi tạo game.
+	var result = true;
+	try {
+		result = window.external.JsCallClient(code, a, b);
+		if (result === undefined || result === null) {
+			result = true;
+		}
+	} catch (bridgeError) {
+		result = true;
+		try {
+			(new Image()).src = "/client_trace.php?step=js_call_client_fallback&data=" +
+				encodeURIComponent("id=" + code + "|error=" +
+					(bridgeError.number || bridgeError.message || "unknown")) +
+				"&t=" + (new Date()).getTime();
+		} catch (ignoreTraceFallback) {}
+	}
+	try {
+		(new Image()).src = "/client_trace.php?step=js_call_client_after&data=" +
+			encodeURIComponent("id=" + code) + "&t=" + (new Date()).getTime();
+	} catch (ignoreTraceAfter) {}
+	return result;
 }
 
 function addBookmark(title, url) {

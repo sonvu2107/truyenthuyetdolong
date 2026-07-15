@@ -1,7 +1,7 @@
 <?php
 ob_start();
 session_start();
-// AHTL_GLOBAL_CBP_CACHE_20260714bagui5
+// AHTL_FLASH_DIRECT_ACTIVEX_20260715forcedactivex2
 header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
 header('Pragma: no-cache');
 header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');
@@ -58,7 +58,7 @@ body, div{font-family:Arial, sans-serif; font-size:12px; color:#fff;}
 #navBar{text-align:right; padding:2px;}
 #down_flash{margin-top:100px;}
 </style>
-<script type="text/javascript" src="static/common.js?v=20260713flashdetect1"></script>
+<script type="text/javascript" src="static/common.js?v=20260715launcherbridge2"></script>
 <script type="text/javascript" src="static/swfobject.js"></script>
 <script type="text/javascript" src="static/rightClick.js"></script>
 <script type="text/javascript">
@@ -73,14 +73,7 @@ function traceClient(step, data){
 function loaded(){
 	var flashVer=_uFlash();
 	traceClient("djrm_loaded", "flashVer="+flashVer+"|clientH="+document.body.clientHeight);
-	if (isNaN(parseFloat(flashVer)) || parseFloat(flashVer) < 10) {
-		traceClient("djrm_low_flash", "flashVer="+flashVer);
-		$('down_flash').style.display='block';
-		document.getElementById('flash_down_a').setAttribute('href', flashDown());
-		return;
-	}
 	resize();
-	traceClient("djrm_before_embed", "hasSwfobject="+(typeof swfobject));
 	var flashvars={
 <?php
 	if (count($plainFlashVars) > 0)
@@ -110,6 +103,59 @@ function loaded(){
 		name:"gameSwf",
 		menu:"false"
 	};
+	var parsedFlashVer=parseFloat(flashVer);
+	var hasDetectedFlash=!isNaN(parsedFlashVer) && parsedFlashVer >= 10;
+	var isIeActiveXHost=(typeof swfobject !== "undefined" && swfobject.ua &&
+		swfobject.ua.win && (/MSIE|Trident/i.test(navigator.userAgent) ||
+		navigator.appName.indexOf("Microsoft") !== -1));
+
+	// WebBrowser/IE của launcher có thể chặn `new ActiveXObject(...)` trong
+	// JavaScript dù CLSID Flash vẫn khởi tạo được qua thẻ <object>. Vì vậy với
+	// host này phải thử tạo control bằng CLSID trước khi hiện thông báo cài Flash.
+	if (!hasDetectedFlash && isIeActiveXHost && typeof swfobject.createSWF === "function") {
+		var directFlashVars=[];
+		var key;
+		for (key in flashvars) {
+			if (Object.prototype.hasOwnProperty.call(flashvars, key)) {
+				directFlashVars.push(key+"="+flashvars[key]);
+			}
+		}
+		var directAttributes={
+			data:"<?=$gameFrameURL?>",
+			width:"100%",
+			height:"100%",
+			id:"gameSwf",
+			name:"gameSwf",
+			menu:"false"
+		};
+		var directParams={
+			movie:"<?=$gameFrameURL?>",
+			allowScriptAccess:params.allowScriptAccess,
+			allowFullScreen:params.allowFullScreen,
+			wmode:params.wmode,
+			flashvars:directFlashVars.join("&")
+		};
+		traceClient("djrm_direct_activex_try", "flashVer="+flashVer+"|hasCreateSWF=1");
+		var directRef=swfobject.createSWF(directAttributes, directParams, "flashContent");
+		if (directRef) {
+			traceClient("djrm_direct_activex_created", "ref=yes");
+			RightClick.init();
+			// Host WebBrowser này không hỗ trợ GetVariable trên phần tử <object>.
+			// Control đã tạo thành công thì để Flash tiếp tục khởi tạo, không gọi COM chẩn đoán.
+			traceClient("djrm_direct_activex_started", "ref=yes");
+			return;
+		}
+		traceClient("djrm_direct_activex_failed", "ref=no");
+	}
+
+	if (!hasDetectedFlash) {
+		traceClient("djrm_low_flash", "flashVer="+flashVer+"|directTried="+(isIeActiveXHost ? "1" : "0"));
+		$('down_flash').style.display='block';
+		document.getElementById('flash_down_a').setAttribute('href', flashDown());
+		return;
+	}
+
+	traceClient("djrm_before_embed", "hasSwfobject="+(typeof swfobject));
 	swfobject.embedSWF("<?=$gameFrameURL?>", "flashContent", "100%", "100%", "10.0.0", false, flashvars, params, attributes, function(e){
 		traceClient("djrm_embed_callback", "success="+e.success+"|id="+e.id+"|ref="+(e.ref ? "yes" : "no"));
 	});
