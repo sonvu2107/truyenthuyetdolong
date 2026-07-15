@@ -1,0 +1,18 @@
+{
+  "version": "20260715openservicesafe1",
+  "scope": "safe-single-string",
+  "baseline_gameframe_sha256": "E6338D0655F1E0C07C115F8BC79C2FEBEC655266CD33B3989BD0A5DBE286616C",
+  "files": [
+    {
+      "source": "assets/GameFrame.swf",
+      "target": "web/GameFrame.swf",
+      "sha256": "FDA6BDA7146AEA42291FEDE3249D57560977652AB70409639047A5EBE66D339E"
+    }
+  ],
+  "changes": [
+    {
+      "owner": "openService[107]",
+      "value": "Nạp thêm để mở quà."
+    }
+  ]
+}
