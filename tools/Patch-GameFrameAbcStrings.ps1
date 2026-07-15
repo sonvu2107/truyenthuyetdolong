@@ -235,6 +235,39 @@ function Get-AbcStringEntries([byte[]]$Bytes) {
     return $entries.ToArray()
 }
 
+function Assert-ValidFws([byte[]]$Bytes, [string]$Label) {
+    if ($Bytes.Length -lt 13 -or [Text.Encoding]::ASCII.GetString($Bytes, 0, 3) -ne 'FWS') {
+        throw "$Label không phải SWF FWS hợp lệ."
+    }
+    $declaredLength = [BitConverter]::ToUInt32($Bytes, 4)
+    if ($declaredLength -ne $Bytes.Length) {
+        throw "$Label có độ dài header $declaredLength nhưng thực tế là $($Bytes.Length)."
+    }
+
+    # Get-SwfTags kiểm tra biên từng tag. Đặc biệt, nó phát hiện DoABC có
+    # độ dài cũ sau khi chuỗi đã thay đổi -- nguyên nhân gây màn hình đen.
+    $tags = @(Get-SwfTags $Bytes)
+    if ($tags.Count -eq 0 -or $tags[$tags.Count - 1].code -ne 0) {
+        throw "$Label thiếu End tag SWF."
+    }
+    if ($tags[$tags.Count - 1].dataEnd -ne $Bytes.Length) {
+        throw "$Label có dữ liệu thừa sau End tag SWF."
+    }
+
+    # Đọc lại pool chuỗi của mọi DoABC để xác nhận offset/length sau khi vá.
+    $abcEntries = @(Get-AbcStringEntries $Bytes)
+    $abcTagCount = @($tags | Where-Object { $_.code -eq 82 }).Count
+    if ($abcTagCount -lt 1 -or $abcEntries.Count -lt 1) {
+        throw "$Label không có DoABC/string pool để xác thực."
+    }
+    return [PSCustomObject]@{
+        length = $Bytes.Length
+        tagCount = $tags.Count
+        doAbcTagCount = $abcTagCount
+        abcStringCount = $abcEntries.Count
+    }
+}
+
 function Replace-StringConstant([byte[]]$Bytes, [string]$Source, [string]$Target, [string]$Key) {
     $sourceBytes = [Text.Encoding]::UTF8.GetBytes($Source)
     $targetBytes = [Text.Encoding]::UTF8.GetBytes($Target)
@@ -297,6 +330,9 @@ foreach ($key in $keys) {
         }
         continue
     }
+    if ($sourceLiterals.Count -gt 1 -or $targetLiterals.Count -gt 1) {
+        throw "Key $key thay đổi cấu trúc biểu thức ($($sourceLiterals.Count) literal nguồn, $($targetLiterals.Count) literal đích). Không vá bằng string pool; cần quy trình P-code/bytecode đầy đủ trên baseline."
+    }
     if ($changes.Contains($source) -and $changes[$source].target -cne $target) {
         throw "Một hằng chuỗi nguồn có hai target khác nhau: $key."
     }
@@ -307,6 +343,7 @@ $bytes = [IO.File]::ReadAllBytes((Resolve-Path -LiteralPath $FwsInput))
 if ($bytes.Length -lt 8 -or [Text.Encoding]::ASCII.GetString($bytes, 0, 3) -ne 'FWS') {
     throw 'Input phải là SWF đã giải nén dạng FWS.'
 }
+$inputAudit = Assert-ValidFws $bytes 'FWS đầu vào'
 
 $applied = @()
 foreach ($source in $changes.Keys) {
@@ -327,6 +364,7 @@ foreach ($source in $changes.Keys) {
 
 $sizeBytes = [BitConverter]::GetBytes([uint32]$bytes.Length)
 [Array]::Copy($sizeBytes, 0, $bytes, 4, 4)
+$outputAudit = Assert-ValidFws $bytes 'FWS sau khi vá'
 $parent = Split-Path -Parent $FwsOutput
 if ($parent) { [IO.Directory]::CreateDirectory($parent) | Out-Null }
 [IO.File]::WriteAllBytes($FwsOutput, $bytes)
@@ -341,6 +379,22 @@ if ($CompressedOutput -or $FfdecJar) {
     if ($LASTEXITCODE -ne 0 -or -not [IO.File]::Exists($compressedAbsolute)) {
         throw "Không nén được SWF đầu ra: $CompressedOutput"
     }
+
+    $roundTripPath = Join-Path ([IO.Path]::GetDirectoryName($compressedAbsolute)) (
+        '.gameframe-roundtrip-' + [Guid]::NewGuid().ToString('N') + '.fws'
+    )
+    try {
+        & java '-Xmx1536m' '-Djna.nosys=true' '-Dsun.java2d.uiScale=1.0' -jar $ffdecAbsolute -decompress $compressedAbsolute $roundTripPath
+        if ($LASTEXITCODE -ne 0 -or -not [IO.File]::Exists($roundTripPath)) {
+            throw "Không giải nén lại được SWF đầu ra: $CompressedOutput"
+        }
+        $roundTripBytes = [IO.File]::ReadAllBytes($roundTripPath)
+        if (-not [Collections.StructuralComparisons]::StructuralEqualityComparer.Equals($bytes, $roundTripBytes)) {
+            throw 'SWF sau khi nén/giải nén không khớp FWS đã kiểm tra.'
+        }
+    } finally {
+        if (Test-Path -LiteralPath $roundTripPath) { Remove-Item -LiteralPath $roundTripPath -Force }
+    }
 }
 
 if ($Report) {
@@ -352,6 +406,9 @@ if ($Report) {
         skippedKeys = $skipped
         uniqueStringCount = $changes.Count
         applied = $applied
+        inputAudit = $inputAudit
+        outputAudit = $outputAudit
+        compressedRoundTripVerified = [bool]$CompressedOutput
     }
     Write-Utf8 $Report (($payload | ConvertTo-Json -Depth 5) + "`n")
 }
