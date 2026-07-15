@@ -99,36 +99,36 @@ Activity =
 	a00056d = "Tổng số tầng",
 	a00056e = "Ngươi có muốn dùng %d Nguyên Bảo để thăng lên một tầng?",
 
-	a00057 = "参加战神争霸赛",
-	a00058 = "参加高级战神争霸赛(50级以上)",
-	a00059 = "活动详情",
-	a00060 = "<(c0xFF32CD32)活动等级:>30级以上\\<(c0xFF32CD32)活动规则:>\\1、活动开启后,玩家可以进入活动地图进行 PK,活动开启10分钟后则无法进入,在活动中会不断扣血\\2、活动地图中死亡不掉落物品,不增加PK值,无法原地复活\\3、活动地图中不能使用传送类,召唤类道具\\4、活动开启10分钟后,当地图中只剩下1人,则可以申请成为暗黑屠龙\\<(c0xFF32CD32)场景奖励:>在活动场景中,每3分钟会获得一次荣誉和欢乐豆的奖励\\<(c0xFF32CD32)最终奖励:>暗黑屠龙称号+增加2倍打怪经验+盟主戒指+100元宝",
-	a00061 = "\\<#BLI004购买药品/@NPCTradeInfoToClient,5>",
-	a00062 = "成为暗黑屠龙",
-	a00063 = "离开活动",
-	a00064 = "\\活动等级:30级以上\\进入活动时间:16:00-16:10(每天下午的16点回收上届暗黑屠龙的称号)\\活动结束时间:16:30\\在活动中死亡不掉落任何物品\\本届暗黑屠龙:<(n%s)>\\\\<(c0xFF32CD32)活动的最终奖励：100元宝+盟主戒指+2倍的杀怪经验+暗黑屠龙称号>\\<(c0xFFFF0000)注意：在活动开启10分钟后不能进入活动,在活动中会不断扣血>",
+	a00057 = "Tham gia Đấu Bá Chiến Thần",
+	a00058 = "Tham gia Đấu Bá Cao Cấp (Cấp 50+)",
+	a00059 = "Chi tiết hoạt động",
+	a00060 = "<(c0xFF32CD32)Cấp mở:> Cấp 30+\\<(c0xFF32CD32)Quy tắc:>\\1. Vào bản đồ PK trong 10 phút đầu; mất máu liên tục.\\2. Chết không rơi đồ, không tăng PK, không hồi sinh tại chỗ.\\3. Không dùng truyền tống hoặc triệu hồi.\\4. Sau 10 phút, người cuối cùng có thể trở thành Đồ Long Hắc Ám.\\<(c0xFF32CD32)Thưởng:> Mỗi 3 phút nhận Danh Dự và Đậu Hoan Lạc.\\<(c0xFF32CD32)Thưởng cuối:> Danh hiệu Đồ Long Hắc Ám, x2 KN, Nhẫn Minh Chủ, 100 Nguyên Bảo",
+	a00061 = "\\<#BLI004Mua thuốc/@NPCTradeInfoToClient,5>",
+	a00062 = "Trở thành Đồ Long Hắc Ám",
+	a00063 = "Rời hoạt động",
+	a00064 = "\\Cấp mở: Cấp 30+\\Thời gian: 16:00-16:10\\Kết thúc: 16:30\\Chết không rơi đồ\\Đồ Long Hắc Ám hiện tại: <(n%s)>\\\\<(c0xFF32CD32)Thưởng: 100 Nguyên Bảo, Nhẫn Minh Chủ, x2 KN đánh quái, danh hiệu Đồ Long Hắc Ám>\\<(c0xFFFF0000)Lưu ý: Sau 10 phút không thể vào, mất máu liên tục>",
 
-	a00065 = "武易战场",
-	a00066 = "本活动的PK模式为<(c0xFF32CD32)强制阵营模式>.杀死敌对阵营玩家就能获得积分.只要参加了活动都可以在活动结束后获得奖励.<(c0xFFFF0000)注意:中途退出将清除个人积分,不能获得任何奖励>",
-	a00067 = "人阵营积分",
-	a00068 = "魔阵营积分",
-	a00069 = "个人积分",
+	a00065 = "Chiến Trường Võ Dịch",
+	a00066 = "PK phe bắt buộc. Hạ người chơi phe địch để nhận điểm; ai tham gia cũng nhận thưởng khi kết thúc. <(c0xFFFF0000)Lưu ý: Rời giữa chừng sẽ xóa điểm cá nhân và không có thưởng>",
+	a00067 = "Điểm Phe Người",
+	a00068 = "Điểm Phe Ma",
+	a00069 = "Điểm cá nhân",
 
-	a00070 = "投入装备",
-	a00071 = "参加诛魔结阵",
-	a00072 = "活动详情",
-	a00073 = "1.每投入一件35级或以上的装备,玩家都可以获得结阵数并有几率获得经验、金币和下一档次的装备\\"
-		.. "2.投入的装备越多,装备等级越高,获得的奖励越高,几率越高,结阵数也越高.使用元宝或一定量斑斓石可领取双倍奖励.\\"
-		.. "3.结阵数达到6000、10000时就会开启诛魔结阵活动,进入活动后,消灭BOSS可以获得大量的经验和装备,有几率获得高级装备\\",
-	a00074 = "当前结阵数:%d\\",
-	a00075 = "BOSS状态:%s\\\\<(c0xFFFF0000)注意:在活动场景中死亡会有几率掉落物品>",
-	a00076 = "存活",
-	a00077 = "未刷新",
-	a00078 = "结阵数已达到%d,在%s的(%d,%d)处刷出了<(c0xFF20B2AA)%s>,请各位大侠前去消灭",
-	a00079 = "当前结阵数已达到%d,结阵数达到6000、10000时将刷出BOSS&<了解详情/M屠龙城:0:0:诛魔将军>$",
-	a00080 = "\\<(c0xFF32CD32)注意：每投入一件35级或以上的装备,玩家都可以获得结阵数并有几率获得经验、金币和下一档次的装备>\\\\当前结阵数:<(c0xFF20B2AA)%d>\\BOSS状态:<(c0xFF20B2AA)%s>\\你今日的结阵数:<(c0xFF20B2AA)%d>",
-	a00081 = "战神争霸",
-	a00082 = "在活动开始<(c0xFF32CD32)10分钟>后将不能再次进入活动,在活动中死亡就会被淘汰\\在活动中每过3分钟就会获得欢乐豆和荣誉的奖励\\活动进行10分钟后,场景中只剩1人就可以到争霸管理员处申请成为<(c0xFF32CD32)暗黑屠龙>,拥有称号的玩家可以到活动入口处领取奖励",
+	a00070 = "Đầu tư trang bị",
+	a00071 = "Tham gia Tru Ma Kết Trận",
+	a00072 = "Chi tiết hoạt động",
+	a00073 = "1. Đầu tư trang bị Cấp 35+ để nhận Điểm Kết Trận, có cơ hội nhận KN, Vàng và trang bị cao hơn.\\"
+		.. "2. Trang bị càng nhiều, cấp càng cao thì thưởng và Điểm Kết Trận càng lớn. Dùng Nguyên Bảo hoặc Đá Ban Lan để nhận x2 thưởng.\\"
+		.. "3. Đạt 6000 hoặc 10000 Điểm Kết Trận sẽ mở Tru Ma Kết Trận; hạ BOSS nhận nhiều KN, trang bị và có cơ hội rơi đồ cao cấp.\\",
+	a00074 = "Điểm Kết Trận: %d\\",
+	a00075 = "Trạng thái BOSS: %s\\\\<(c0xFFFF0000)Lưu ý: Chết trong hoạt động có thể rơi vật phẩm>",
+	a00076 = "Còn sống",
+	a00077 = "Chưa xuất hiện",
+	a00078 = "Đạt %d Điểm Kết Trận: <(c0xFF20B2AA)%s> xuất hiện tại %s (%d,%d). Hãy tiêu diệt!",
+	a00079 = "Đạt %d Điểm Kết Trận. Mốc 6000 và 10000 sẽ xuất hiện BOSS. &<Xem chi tiết/M屠龙城:0:0:诛魔将军>$",
+	a00080 = "\\<(c0xFF32CD32)Lưu ý: Đầu tư trang bị Cấp 35+ để nhận Điểm Kết Trận, có cơ hội nhận KN, Vàng và trang bị cao hơn.>\\\\Điểm Kết Trận: <(c0xFF20B2AA)%d>\\Trạng thái BOSS: <(c0xFF20B2AA)%s>\\Điểm hôm nay: <(c0xFF20B2AA)%d>",
+	a00081 = "Đấu Bá Chiến Thần",
+	a00082 = "Sau <(c0xFF32CD32)10 phút> không thể vào lại; chết sẽ bị loại.\\Mỗi 3 phút nhận Đậu Hoan Lạc và Danh Dự.\\Sau 10 phút nếu chỉ còn 1 người, có thể xin danh hiệu <(c0xFF32CD32)Đồ Long Hắc Ám>. Người có danh hiệu nhận thưởng tại cổng hoạt động.",
 
 	--雕像
 	a00090 = "<#NR想为自己树立一尊雕像,从此天下扬名?只要你有实力,本雕像就将以你为名! #>膜拜次数每天晚上<(c0xFFFF0000)22点>清零，<(c0xFFFF0000)22：00－24：00点>进行膜拜将算做第二天的次数。\\"
@@ -660,14 +660,14 @@ Activity =
 	--世界贡献度
 	t00260 = "Bảng Cống Hiến Thế Giới",
 	t00261 = "Nhận thưởng Lễ Hội (%s)",
-	t00262 = "Thông qua quyên góp có thể nhận Độ Cống Hiến, độ cống hiến càng cao, Văn Minh Thế Giới trưởng thành càng nhanh.\\"
-				.."贡献度最低值达到100,根据排名前10的玩家可以获得一定的属性加成\\"
-				.."每天的贡献度达到50可以获得5点的活跃度\\"
-				.."第一名：伤害+15%\\"
-				.."第二名：伤害+10%\\"
-				.."第三名：伤害+7%\\"
-				.."第四名至第十名：伤害+3%\\"
-				.."<(c0xFFFF0000)注意：贡献度每天0点清空\\建议不要在23:59-0:05之间进行捐献>\\",
+	t00262 = "Quyên góp nhận Cống Hiến; Cống Hiến càng cao, Văn Minh Thế Giới tăng càng nhanh.\\"
+				.."Từ 100 Cống Hiến: Top 10 nhận cộng chỉ số.\\"
+				.."Mỗi ngày đạt 50 Cống Hiến nhận 5 Điểm Hoạt Động.\\"
+				.."Hạng 1: Sát thương +15%\\"
+				.."Hạng 2: Sát thương +10%\\"
+				.."Hạng 3: Sát thương +7%\\"
+				.."Hạng 4-10: Sát thương +3%\\"
+				.."<(c0xFFFF0000)Lưu ý: Cống Hiến đặt lại lúc 0:00. Không quyên góp từ 23:59-0:05.>\\",
 	t00263 = "<(c0xFF00FF00)Độ cống hiến hiện tại của ngươi: %d>\\",
 	t00264 = "Xem Bảng Xếp Hạng Quyên Góp",
 	t00265 = "Quyên góp %s%s (Nhận %d độ cống hiến)",
@@ -690,11 +690,11 @@ Activity =
 	mzrq0001 = "[<(c0xFF00FF00)Ma Tộc Xâm Lược>] BOSS Cuối Ma Tộc Thống Lĩnh đã xuất hiện tại tọa độ (195,175) Đồ Long Thành, đánh mỗi phát đều nhận được phần thưởng phong phú, <Đi đến/M屠龙城:195:175:抗魔先锋>",
         
 	--灌溉神树
-	t00280 = "Hoạt động [<(c0xFF00FF00)Tưới Thần Thụ>] đã bắt đầu, tiêu diệt Ma Hóa Thủy Yêu có thể nhận <(c0xFF00FF00)Thánh Thủy Bình>, mang đến nộp cho NPC Thần Thụ Thủ Vệ Giả sẽ nhận được lượng lớn kinh nghiệm! <Đi đến/M屠龙城:223:199:神树守护者>",
-	t00281 = "[<(c0xFF00FF00)Tưới Thần Thụ>] Tinh Anh Thống Lĩnh đã dẫn lượng lớn Ma Hóa Thủy Yêu xuất hiện ngoài Đồ Long Thành, đánh bại chúng có thể nhận lượng lớn <(c0xFF00FF00)Thánh Thủy Bình>! <Đi đến/M屠龙城:223:199:神树守护者>",
+	t00280 = "[<(c0xFF00FF00)Tưới Thần Thụ>] Bắt đầu! Diệt Thủy Yêu Ma Hóa nhận <(c0xFF00FF00)Thánh Thủy Bình>; nộp Người Giữ Thần Thụ nhận nhiều KN. <Đi đến/M屠龙城:223:199:神树守护者>",
+	t00281 = "[<(c0xFF00FF00)Tưới Thần Thụ>] Thủy Yêu Ma Hóa xuất hiện ngoài Đồ Long Thành! Diệt chúng nhận nhiều <(c0xFF00FF00)Thánh Thủy Bình>. <Đi đến/M屠龙城:223:199:神树守护者>",
 	t00282 = "[<(c0xFF00FF00)Tưới Thần Thụ>] Hoạt động đã kết thúc!",
 	t00283 = "",
-	t00284 = "[<(c0xFF00FF00)Tưới Thần Thụ>] Nộp Thánh Thủy Bình để nhận lượng lớn kinh nghiệm! <Đi đến/M屠龙城:223:199:神树守护者>",
+	t00284 = "[<(c0xFF00FF00)Tưới Thần Thụ>] Nộp Thánh Thủy Bình nhận nhiều KN. <Đi đến/M屠龙城:223:199:神树守护者>",
 	
 	--护送美女
 	t00300 = "Ngươi đã mua kỹ năng này rồi, hãy chọn mua kỹ năng khác",
@@ -999,17 +999,17 @@ Activity =
 
 
 	hundred50 = "抱歉,豪华大礼包需要%d级才能领取",
-	hundred51 = "你已领取过豪华大礼包啦",
-	hundred52 = "恭喜你,成功领取了豪华大礼包",
+	hundred51 = "Bạn đã nhận Gói Quà Sang Trọng.",
+	hundred52 = "Chúc mừng! Bạn đã nhận Gói Quà Sang Trọng.",
 
 	--新的百服活动
-	hundred0001 = "未达到领取条件",
-	hundred0002 = "玩家<(n%s)>在百服活动中领取了单笔充值达%d元宝奖励，领取六次奖励后，还可以获得额外超级大奖！点击<立即参与/@@showWin,68,1>",
-	hundred0003 = "玩家<(n%s)>在百服稀世奇珍中，领取累计充值%s元宝大奖，奖励包括：%s，真是可喜可贺！",
+	hundred0001 = "Chưa đủ điều kiện nhận.",
+	hundred0002 = "<(n%s)> đã nhận thưởng nạp %d Nguyên Bảo tại Sự Kiện Trăm Server. Nhận 6 lần để mở Siêu Quà! <Tham gia/@@showWin,68,1>",
+	hundred0003 = "<(n%s)> nhận quà nạp tích lũy %s Nguyên Bảo tại Trân Bảo Trăm Server: %s. Chúc mừng!",
 
-	festival01 = "祝你在新的一年里好事多多！笑容多多！开心每一秒,快乐每一天！",
-	festival02 = "生命中有你,感觉精彩；朋友中有你,不再孤单！祝新年快乐！",
-	festival03 = "亲,献上最诚挚的祝福,祝你在新的一年天天开心！",
+	festival01 = "Chúc năm mới nhiều niềm vui và may mắn!",
+	festival02 = "Chúc bạn năm mới an khang, luôn có bạn bè bên cạnh!",
+	festival03 = "Chúc bạn năm mới vui vẻ mỗi ngày!",
 
 	--跨服
 	ku0001 = "进入跨服沙巴克",

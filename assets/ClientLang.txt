@@ -1,4 +1,4 @@
-﻿ClientLang=
+ClientLang=
 {
 Skill_View_Type = 
 {
@@ -2129,11 +2129,11 @@ mount =
 	 "Tiến Giai Tọa Kỵ",
 	 "Hiển Thị Tọa Kỵ",
 	 "Xuống Ngựa",
-	 "Vàng Khóa Nâng Cấp",
+	 "Xu khóa Nâng Cấp",
 	 "KNB Nâng Cấp",
 	 "<font color = '#FFFF00'>(Bậc $level$ Sao $star$)</font>",
 	 "Xem Tọa Kỵ Người Khác",
-	 "Mỗi lần nâng cấp tốn $money$ Vàng Khóa nhận $value$ Kinh nghiệm<br><font color = '#FFFF00'>(Có tỷ lệ xuất hiện Bất ngờ nhỏ (Nhận gấp 10 lần Kinh nghiệm)</font>",
+	 "Mỗi lần nâng cấp tốn $money$ Xu khóa nhận $value$ Kinh nghiệm<br><font color = '#FFFF00'>(Có tỷ lệ xuất hiện Bất ngờ nhỏ (Nhận gấp 10 lần Kinh nghiệm)</font>",
 	 "Mỗi lần nâng cấp tốn $money$ KNB nhận $value$ Kinh nghiệm<font color = '#0099FF'>(Nếu có Khoái Mã Tiên sẽ ưu tiên sử dụng)</font><br><font color = '#FFFF00'>(Có tỷ lệ xuất hiện Bất ngờ nhỏ (Nhận gấp 10 lần Kinh nghiệm), Bất ngờ lớn (Trực tiếp tăng 1 sao)</font>",
 	 "Bất ngờ nhỏ",
 	 "Bất ngờ lớn",
@@ -2145,7 +2145,7 @@ mount =
 	 "Cưỡi/Xuống Ngựa H",
 	 "<font color='#CC6600'>Thuộc Tính Cộng Thêm</font>",
 	 "Tọa Kỵ Mặc Định",
-	 "Ngươi sẽ tiêu hao <font color = '#00FF00'>$MONEY$</font> Vàng Khóa để nâng cấp tọa kỵ. Cấp này nhận Kinh nghiệm:<font color = '#00FF00'>$VALUE$</font>",
+	 "Ngươi sẽ tiêu hao <font color = '#00FF00'>$MONEY$</font> Xu khóa để nâng cấp tọa kỵ. Cấp này nhận Kinh nghiệm:<font color = '#00FF00'>$VALUE$</font>",
 	 "Ngươi sẽ tiêu hao <font color = '#00FF00'>$MONEY$</font> KNB để bồi dưỡng tọa kỵ. Cấp này nhận Kinh nghiệm:<font color = '#00FF00'>$VALUE$</font><BR><font color = '#0099FF'>Chú ý: Nếu trong túi có Khoái Mã Tiên, ưu tiên dùng Khoái Mã Tiên để bồi dưỡng. Hiệu quả như nhau!</font>",
 	 "Tiến Giai Nhanh",
 	 "Ngươi sẽ tiêu hao <font color = '#FFFF00'>500 KNB</font> để tiến hành <font color = '#FFFF00'>50 lần</font> nâng cấp tọa kỵ.<BR><font color = '#009900'>Trong quá trình nâng cấp cũng có cơ hội xuất hiện “Bất ngờ nhỏ” và “Bất ngờ lớn”!</font><br><a href='@@showVipBuyWin'>Đặc quyền VIP</a><font color = '#009900'>: Tặng thêm phần thưởng Kinh nghiệm tọa kỵ</font>",
@@ -2237,8 +2237,8 @@ mount =
 	"(Có thể nâng cấp lên cấp <font color = '#FF0000'>$max$</font>)",
 	"Giá Trị Thú Hồn<br>Dùng để nâng cấp chức năng Hệ thống Thú Hồn",
 	"Giới thiệu 1,Giới thiệu 2,Giới thiệu 3,Giới thiệu 4,Giới thiệu 5,Giới thiệu 6,Giới thiệu 7,Giới thiệu 8,Giới thiệu 9,Giới thiệu 10",
-	"Vàng Khóa Nâng Cấp",
-	"Mỗi lần nâng cấp tốn $money$ Vàng Khóa nhận $value$ Kinh nghiệm<br>Có tỷ lệ xuất hiện Bất ngờ nhỏ (Nhận gấp 10 lần Kinh nghiệm)",
+	"Xu khóa Nâng Cấp",
+	"Mỗi lần nâng cấp tốn $money$ Xu khóa nhận $value$ Kinh nghiệm<br>Có tỷ lệ xuất hiện Bất ngờ nhỏ (Nhận gấp 10 lần Kinh nghiệm)",
 	"Tọa kỵ mỗi khi thăng một giai cảnh giới có thể tăng $level$ cấp",
 	"Nâng cao phẩm chất có thể tăng bội số thuộc tính",
 	"Mỗi ngày có thể Phác Hồn n lần<br>Phác Hồn có thể nhận lượng lớn Giá Trị Thú Hồn",

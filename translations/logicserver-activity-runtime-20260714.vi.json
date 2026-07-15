@@ -1400,7 +1400,7 @@
           "key": "t00262",
           "occurrence": 1,
           "source": "通过捐献可以获得贡献度,世界贡献度越高,世界文明度的成长越快.\\\\",
-          "target": "Thông qua quyên góp có thể nhận Độ Cống Hiến, độ cống hiến càng cao, Văn Minh Thế Giới trưởng thành càng nhanh.\\\\"
+          "target": "Quyên góp nhận Cống Hiến; Cống Hiến càng cao, Văn Minh Thế Giới tăng càng nhanh.\\\\"
         },
         {
           "key": "t00263",
@@ -1514,13 +1514,13 @@
           "key": "t00280",
           "occurrence": 1,
           "source": "[<(c0xFF00FF00)神树灌溉>]活动开启，击杀魔化水妖可获得<(c0xFF00FF00)圣水瓶>，拿去NPC神树守卫者处上交可获得大量经验！<前往/M屠龙城:223:199:神树守护者>",
-          "target": "Hoạt động [<(c0xFF00FF00)Tưới Thần Thụ>] đã bắt đầu, tiêu diệt Ma Hóa Thủy Yêu có thể nhận <(c0xFF00FF00)Thánh Thủy Bình>, mang đến nộp cho NPC Thần Thụ Thủ Vệ Giả sẽ nhận được lượng lớn kinh nghiệm! <Đi đến/M屠龙城:223:199:神树守护者>"
+          "target": "[<(c0xFF00FF00)Tưới Thần Thụ>] Bắt đầu! Diệt Thủy Yêu Ma Hóa nhận <(c0xFF00FF00)Thánh Thủy Bình>; nộp Người Giữ Thần Thụ nhận nhiều KN. <Đi đến/M屠龙城:223:199:神树守护者>"
         },
         {
           "key": "t00281",
           "occurrence": 1,
           "source": "[<(c0xFF00FF00)神树灌溉>]精英统领带领大批魔化水妖出现在屠龙城外，击败它们可获得大量<(c0xFF00FF00)圣水瓶>！<前往/M屠龙城:223:199:神树守护者>",
-          "target": "[<(c0xFF00FF00)Tưới Thần Thụ>] Tinh Anh Thống Lĩnh đã dẫn lượng lớn Ma Hóa Thủy Yêu xuất hiện ngoài Đồ Long Thành, đánh bại chúng có thể nhận lượng lớn <(c0xFF00FF00)Thánh Thủy Bình>! <Đi đến/M屠龙城:223:199:神树守护者>"
+          "target": "[<(c0xFF00FF00)Tưới Thần Thụ>] Thủy Yêu Ma Hóa xuất hiện ngoài Đồ Long Thành! Diệt chúng nhận nhiều <(c0xFF00FF00)Thánh Thủy Bình>. <Đi đến/M屠龙城:223:199:神树守护者>"
         },
         {
           "key": "t00282",
@@ -1532,7 +1532,7 @@
           "key": "t00284",
           "occurrence": 1,
           "source": "[<(c0xFF00FF00)神树灌溉>]上交圣水瓶可获得大量经验奖励！<前往/M屠龙城:223:199:神树守护者>",
-          "target": "[<(c0xFF00FF00)Tưới Thần Thụ>] Nộp Thánh Thủy Bình để nhận lượng lớn kinh nghiệm! <Đi đến/M屠龙城:223:199:神树守护者>"
+          "target": "[<(c0xFF00FF00)Tưới Thần Thụ>] Nộp Thánh Thủy Bình nhận nhiều KN. <Đi đến/M屠龙城:223:199:神树守护者>"
         },
         {
           "key": "t00300",

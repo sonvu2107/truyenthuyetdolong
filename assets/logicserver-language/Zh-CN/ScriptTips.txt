@@ -1621,23 +1621,23 @@ ScriptTips = {
 	blesstree21 = "Thu thập bất kỳ 1 hình sao nào từ <(c0xFF00FF00)1-9 sao> đều có thể đổi một lượng kinh nghiệm thưởng.",
 
 	blesstree31 = "Thu thập 4 hình sao từ <(c0xFF00FF00)2-5 sao> có thể đổi một <(c0xFF00FF00)Gói Quà 2-5 sao>. Bất kỳ hình nào từ <(c0xFF00FF00)2-5 sao> cộng thêm <(c0xFF00FF00)10 Nguyên bảo> cũng có thể đổi một <(c0xFF00FF00)Gói Quà 2-5 sao>.\\"  ..
-				  "开启2-5星礼包可随机获得下列奖励:\\<(c0xFFFF00FF)一级灵珠、二级灵珠、三级灵珠、灵魂水晶、鉴定锁、清洗砂>\\" ,
+				  "Mở Gói 2-5 Sao nhận ngẫu nhiên:\\<(c0xFFFF00FF)Linh Châu C1, Linh Châu C2, Linh Châu C3, Tinh Thể Linh Hồn, Khóa Giám Định, Cát Tẩy Luyện>\\" ,
 	blesstree32 = "Đổi bộ sao lấy Gói Quà 2-5 sao",
 	blesstree33 = "1 Sao + 10 Nguyên bảo đổi Gói Quà 2-5 sao",
 
 	blesstree41 = "Thu thập 5 hình sao từ <(c0xFF00FF00)1-5 sao> có thể đổi một <(c0xFF00FF00)Gói Quà 1-5 sao>. <(c0xFF00FF00)Hình 1 sao cộng thêm 50 Nguyên bảo> cũng có thể đổi một Gói Quà 1-5 sao.\\" ..
-				  "开启1-5星礼包可随机获得下列奖励:\\<(c0xFFFF00FF)三级灵珠、四级灵珠、冬暮麋鹿碎片、五级灵珠>\\",
+				  "Mở Gói 1-5 Sao nhận ngẫu nhiên:\\<(c0xFFFF00FF)Linh Châu C3, Linh Châu C4, Mảnh Hươu Đông Mộ, Linh Châu C5>\\",
 	blesstree42 = "Đổi bộ sao lấy Gói Quà 1-5 sao",
 	blesstree43 = "1 Sao + 50 Nguyên bảo đổi Gói Quà 1-5 sao",
 
 	blesstree51 = "Thu thập 4 hình sao từ <(c0xFF00FF00)6-9 sao> có thể đổi một <(c0xFF00FF00)Gói Quà 6-9 sao>. Bất kỳ hình sao nào từ <(c0xFF00FF00)6-9 sao> cộng thêm <(c0xFF00FF00)20 Nguyên bảo> cũng có thể đổi một <(c0xFF00FF00)Gói Quà 6-9 sao>.\\" ..
-				  "开启6-9星礼包可随机获得下列奖励:\\<(c0xFFFF00FF)大量欢乐豆、大量金币、100元宝>\\" ,
+				  "Mở Gói 6-9 Sao nhận ngẫu nhiên:\\<(c0xFFFF00FF)Nhiều Đậu Hoan Lạc, Nhiều Vàng, 100 Nguyên Bảo>\\" ,
 	blesstree52	= "Đổi bộ sao lấy Gói Quà 6-9 sao",
 	blesstree53 = "1 Sao + 20 Nguyên bảo đổi Gói Quà 6-9 sao",
 
 	blesstree61 = "Nhận phần thưởng BXH hôm qua",
 	blesstree62 = "Mỗi khi sử dụng một pháo hoa sẽ nhận được <(c0xFF00FF00)1 Điểm chúc phúc pháo hoa>, người chơi nằm trong <(c0xFF00FF00)Top 100> BXH Điểm chúc phúc pháo hoa mỗi ngày sẽ được nhận thưởng.\\Lưu ý: Tối thiểu cần <(c0xFF00FF00)10 điểm> chúc phúc pháo hoa mới có thể nhận thưởng\\" ..
-				  "今日前100名烟花祝福榜:\\",
+				  "Top 100 Điểm Chúc Phúc Pháo Hoa hôm nay:\\",
 	blesstree63 = "\\<(c0xFF00FF00)Hạng %d:> %s   <(c0xFFFF00FF)%d>",
 
 	blesstree71 = "Hướng dẫn hoạt động Đại tiệc pháo hoa:\\1. Điều kiện tham gia: <(c0xFF00FF00)Đạt cấp 40>\\2. Trong thời gian hoạt động, cạnh đống lửa ở Đồ Long Thành sẽ xuất hiện <(c0xFF00FF00)Cây Cầu Phúc>, đốt pháo hoa cạnh Cây Cầu Phúc có thể nhận thưởng kinh nghiệm.\\3. Mỗi khi đốt một pháo hoa sẽ tăng <(c0xFF00FF00)1 Điểm cầu phúc> cho Cây Cầu Phúc, khi Điểm cầu phúc đạt mức nhất định, Cây Cầu Phúc sẽ thăng cấp.\\4. Khi Điểm cầu phúc đạt mức nhất định còn xuất hiện những tình huống bất ngờ, ví dụ: xuất hiện Người Tuyết, mưa tiền v.v. Tiêu diệt Người Tuyết có thể nhận được <(c0xFF00FF00)Hình sao đặc biệt>, nếu thu thập đủ các hình đặc biệt “<(c0xFF00FF00)1-5 sao>”, “<(c0xFF00FF00)6-9 sao>”, có thể đổi lấy phần thưởng hậu hĩnh.\\5. <(c0xFF00FF00)22:00-23:00> mỗi ngày là thời gian <(c0xFF00FF00)Nhân đôi đại tiệc pháo hoa>, sử dụng pháo hoa sẽ nhận được gấp đôi phần thưởng kinh nghiệm.\\6. Sử dụng <(c0xFF00FF00)100> pháo hoa đầu tiên có thể nhận được kinh nghiệm và Điểm chúc phúc pháo hoa, từ 100 trở đi chỉ nhận được Điểm chúc phúc pháo hoa. BXH Điểm chúc phúc pháo hoa sẽ làm mới lúc 0h mỗi ngày, <(c0xFF00FF00)Top 100> có thể nhận thưởng.",

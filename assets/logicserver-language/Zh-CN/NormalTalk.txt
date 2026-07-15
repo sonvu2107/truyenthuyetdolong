@@ -1,4 +1,4 @@
-﻿--[[File:NormalTalk.txt]]
+--[[File:NormalTalk.txt]]
 NormalTalk = {
 	h00001 = "<#NRHiệu Thuốc Akara, chào mừng gia nhập. Hotline: 400-88888!#>",
 	h00002 = "<#NRBảng Quảng Cáo Bang Hội Số 1. Bang Hội hãy chiếm chỗ để nhanh chóng tuyển thêm thành viên.#>",
@@ -252,7 +252,7 @@ NormalTalk = {
 	n02019 = "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\Điều kiện: Pháp Sư có CS Liên Server cao nhất\\",
 	n02020 = "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\Điều kiện: Đạo Sĩ có CS Liên Server cao nhất\\",
 	n02021 = "<#NRMuốn dựng tượng để lưu danh? Cơ hội đã đến! Đủ thực lực thì tượng sẽ mang tên ngươi!#>\\Điều kiện: Hạng 1 sự kiện Thiên Hạ Đệ Nhất\\",
-	n02022 = "<#NRTại đây có gói Hoa Hồng.#>\\Mỗi lần đóng gói tốn một ít Vàng Khóa.",
+	n02022 = "<#NRTại đây có gói Hoa Hồng.#>\\Mỗi lần đóng gói tốn một ít Xu khóa.",
 	n02023 = "<#NRTa là Sứ Giả Bang Hội. Bang Hội của ngươi muốn tham gia hoạt động chứ?#>\\\\<(c0xFF00FF00)Phó Bản Long Ảnh Đàn> là phó bản riêng của Bang Hội, diệt quái nhận nhiều KN.\\Sóng càng cao, quái càng đông và mạnh; chỉ thành viên Bang Hội <(c0xFF00FF00)Cấp 35 trở lên> mới vào được.\\Bang Chủ/Phó Bang mở; mỗi ngày <(c0xFF00FF00)miễn phí 1 lần>, các lần sau tốn <(c0xFF00FF00)Quỹ Bang Hội tăng dần từ 500K>.",
 	n02024 = "Thi Vương nhỏ bé, các ngươi há phải sợ! Vì kho báu ngàn năm, khó khăn nào ngăn được lòng ta! Ha ha ha.",
 	n02025 = "Ma Nguyệt Yêu Thần thức tỉnh, Kỵ Sĩ Bầu Trời mất tích; Huyết Nguyệt treo cao, lịch luyện máu đã mở. Ma Nguyệt sẽ bại dưới tay dũng sĩ.",
@@ -354,7 +354,7 @@ NormalTalk = {
 	gh00024 = "Mở buff Hỏa Chủng x1.5 thêm %d phút, tốn %d Nguyên Bảo. Xác nhận?",
 	gh00025 = "Tắt Lửa Trại",
 	gh00026 = "<(c0xFFFF0000)Có thể Nướng Thịt từ 12:00-12:30!\\Mỗi lần nướng %d phút.>\\<(c0xFF00FF00)Thêm gia vị có thể ra món cao cấp với phần thưởng tốt hơn!>\\<(c0xFFFF0000)Đang nướng: Thịt\\%d%% ra Thịt Cừu\\%d%% ra Đùi Cừu\\%d%% ra Sườn Cừu>\\Gia vị còn hôm nay: %d lần\\Hoàn thành sau %d phút %d giây",
-	gh00027 = "Thêm Hành (%d Vàng Khóa)",
+	gh00027 = "Thêm Hành (%d Xu khóa)",
 	gh00028 = "Thêm Sốt (%d Đậu Vui Vẻ)",
 	gh00029 = "Thêm Gia Vị (10 Nguyên Bảo)",
 	gh00030 = "Nhận Thịt Nướng",
@@ -469,7 +469,7 @@ NormalTalk = {
 	marry0021 = "Phát Kẹo Cưới",
 	marry0022 = "Nhận Kẹo Cưới",
 	marry0023 = "Dùng pháo hoa để cả lễ đường hiện hiệu ứng rực rỡ theo kiểu đã chọn.",
-	marry0024 = "Pháo Hoa Thẳng (100K Vàng Khóa)",
+	marry0024 = "Pháo Hoa Thẳng (100K Xu khóa)",
 	marry0025 = "Pháo Hoa Chữ Thập (100 Nguyên Bảo)",
 	marry0026 = "Pháo Hoa Trái Tim (200 Nguyên Bảo)",
 	marry0027 = "Pháo Hoa Hai Trái Tim (400 Nguyên Bảo)",
@@ -507,7 +507,7 @@ NormalTalk = {
 	marry0059 = "Ngươi Chưa Có Bang Hội",
 	
 	--圣堂宝藏
-	stbz0001 = "<#NRCó rất nhiều cướp đến cướp kho báu của chúng ta. Cần dũng sĩ tiêu diệt chúng!#>Cấp mở: 70 \\Phần thưởng: Vàng Khóa\\<(c0xFFFF0000)Gợi ý: Nên lập đội vượt phó bản!>",
+	stbz0001 = "<#NRCó rất nhiều cướp đến cướp kho báu của chúng ta. Cần dũng sĩ tiêu diệt chúng!#>Cấp mở: 70 \\Phần thưởng: Xu khóa\\<(c0xFFFF0000)Gợi ý: Nên lập đội vượt phó bản!>",
 	stbz0002 = "Mau đến cứu chúng ta!",
 	stbz0003 = "Ta là Linh Mục Thánh Đường, sẽ mở cổng Thánh Đường cho ngươi.",
 	stbz0004 = "Lạy Chúa, mau cứu ta! Ta sẽ thưởng kho báu hậu hĩnh!",
@@ -517,27 +517,27 @@ NormalTalk = {
 	stbz0008 = "Cổng Thánh Đường đã mở. Hãy vào diệt hết quái rồi cứu Giám Mục!",
 	stbz0009 = "Chỉ đội trưởng mới cứu được Giám Mục!",
 	stbz0010 = "Giới Thiệu Phó Bản",
-	stbz0011 = "Giới Thiệu Phó Bản:\\1. Cấp mở >= 70\\2. Phần thưởng: Vàng Khóa\\3. Mỗi ngày vào miễn phí 1 lần, có thể tăng lượt;\\4. Có thể vào một mình hoặc đội; đội phải do đội trưởng bấm vào Thánh Đường;",
+	stbz0011 = "Giới Thiệu Phó Bản:\\1. Cấp mở >= 70\\2. Phần thưởng: Xu khóa\\3. Mỗi ngày vào miễn phí 1 lần, có thể tăng lượt;\\4. Có thể vào một mình hoặc đội; đội phải do đội trưởng bấm vào Thánh Đường;",
 	stbz0012 = "Mở Cổng Thánh Đường",
 	stbz0013 = "Phải diệt hết quái bên ngoài mới mở được cổng Thánh Đường!",
 	stbz0014 = "Chỉ Đội Trưởng Mới Mở Được",
 	stbz0015 = "Phải diệt hết quái ngoài Thánh Đường mới mở được cổng!",
 	stbz0016 = "Đã diệt hết quái ngoài sân. Hãy đến NPC Linh Mục Thánh Đường mở cổng rồi vào diệt quái!",
-	stbz0017 = "Đã diệt hết quái. Đến NPC Giám Mục cứu ông ấy để nhận nhiều Vàng Khóa và hoàn thành phó bản!",
-	stbz0018 = "Đã cứu Giám Mục, nhận nhiều Vàng Khóa. Bấm Rời để thoát phó bản!",
-	stbz0019 = "Ngươi đã vào phó bản Kho Báu Thánh Đường, diệt quái nhận nhiều Vàng Khóa!",
+	stbz0017 = "Đã diệt hết quái. Đến NPC Giám Mục cứu ông ấy để nhận nhiều Xu khóa và hoàn thành phó bản!",
+	stbz0018 = "Đã cứu Giám Mục, nhận nhiều Xu khóa. Bấm Rời để thoát phó bản!",
+	stbz0019 = "Ngươi đã vào phó bản Kho Báu Thánh Đường, diệt quái nhận nhiều Xu khóa!",
 	stbz0020 = "<(c0x00ff00ff)Quái còn lại:><(c0x0000ff00)%d>",----颜色修改
 	
 	--每日组队
-	team0001 = "<#NRChiến sĩ dũng cảm đang chiến đấu đẫm máu ngoài tiền tuyến. Ta phải lo hậu phương và tiếp tế đầy đủ!#>Cấp vào: 50\\Phần thưởng: Vàng Khóa, KN\\Gợi ý: Cần đội 2-5 người\\",
+	team0001 = "<#NRChiến sĩ dũng cảm đang chiến đấu đẫm máu ngoài tiền tuyến. Ta phải lo hậu phương và tiếp tế đầy đủ!#>Cấp vào: 50\\Phần thưởng: Xu khóa, KN\\Gợi ý: Cần đội 2-5 người\\",
 	team0002 = "Ta Bán Nhiều Thuốc",
 	team0003 = "<(c0x00ff00ff)Lưu ý: Ma Thần Boss đã xuất hiện tại (%d,%d), hãy đến tiêu diệt!>",
 	team0004 = "<(c0x0000e4ff)Tổng diệt><(c0x0000ff06)%d><(c0x0000e4ff) quái · Đã diệt><(c0x0000ff06)%s>",
 	team0005 = "Xong",
 	team0006 = "<(c0x00ffff00)Gợi ý:\\1. Diệt đủ số quái sẽ nhận thưởng;\\2. Hạ Ma Thần Boss nhận nhiều quà!>",----颜色修改
 	team0007 = "",
-	team0008 = "Boss xuất hiện tại (%d,%d), hạ hắn nhận nhiều Vàng Khóa và KN!",----颜色修改
-	team0009 = "Đã diệt %d quái, nhận %d KN và %d Vàng Khóa!",
+	team0008 = "Boss xuất hiện tại (%d,%d), hạ hắn nhận nhiều Xu khóa và KN!",----颜色修改
+	team0009 = "Đã diệt %d quái, nhận %d KN và %d Xu khóa!",
 	--魔法门副本
 	mfm001="<#NRTại ta bói vận để nhận may mắn!#>Cấp mở: 50\\Phần thưởng: Trang Bị Cấp 40-50",
 	mfm002="<#NRTại ta bói vận để nhận may mắn!#>Thưởng 1 Sao thấp nhất, 5 Sao tốt nhất. Sau khi bói, bấm <(c0x0000ff06)Ta Muốn Đổi Vận> để nhận thẳng thưởng 4 hoặc 5 Sao; đổi vận có thể thất bại!",
@@ -564,8 +564,8 @@ NormalTalk = {
 	bslg019="Thử Luyện Boss: Tốn Vàng Triệu Hồi Boss",
 	bslg020="Boss xuất hiện tại (%d:%d), hãy đến tiêu diệt!",
 	bslg021="Mỗi lần chỉ triệu hồi 1 Boss; diệt xong mới triệu hồi tiếp.",
-	bslg022="Dùng %d Vàng Khóa triệu hồi Boss Đạo Cụ Hiếm?",
-	bslg023="Dùng %d Vàng Khóa triệu hồi Boss Đạo Cụ Hiếm?",
+	bslg022="Dùng %d Xu khóa triệu hồi Boss Đạo Cụ Hiếm?",
+	bslg023="Dùng %d Xu khóa triệu hồi Boss Đạo Cụ Hiếm?",
 	bslg024="<(c0x00ff00ff)Quái còn lại:><(c0x0000ff06)%d>",
 	bslg025="Hoàn thành phó bản, bấm Rời ở giữa bên phải để thoát!",
 	
@@ -623,7 +623,7 @@ NormalTalk = {
 	mfts001="<#NRBoss Mephisto: Không hạ nổi World Boss thì Boss ở đây ngươi chắc chắn hạ được!#>Cấp mở: CS 1 Cấp 60\\Phần thưởng: Trang Bị Cấp 50-CS 1",	
 	br001="<#NRBoss Baal: Không hạ nổi World Boss thì Boss ở đây ngươi chắc chắn hạ được!#>Cấp mở: CS 2 Cấp 40\\Phần thưởng: Trang Bị Cấp 50-CS 1",
 	--副本使者
-	fbsz001="KN, Trang Bị, Vàng Khóa — ta đều có!",
+	fbsz001="KN, Trang Bị, Xu khóa — ta đều có!",
     fbsz002="Phó Bản Đội Mỗi Ngày",
 	--佣兵副本
 	ybfb001 ="Thuê lính đánh thuê, cùng chinh phục thế giới!",
@@ -644,9 +644,9 @@ NormalTalk = {
 	--圣诞活动
 	sdlr001="<#NRTa là Đại Sứ Sự Kiện Năm Mới. Đến chỗ ta vào sự kiện Săn Niên Thú!#>Diệt Niên Thú nhận nhiều quà!\\Thời gian: 13:00-13:30\\Thời gian: 19:30-20:00\\Phần thưởng: Lì Xì, Pháo Hoa, Đạo Cụ",
 	--泡点活动
-	pdhd001="<#NRChiếm ô và đứng trên đó để nhận nhiều phần thưởng!#>Cấp mở: 40\\Thời gian: 18:00-18:15\\Phần thưởng: KN, Vàng Khóa, Trang Bị",
+	pdhd001="<#NRChiếm ô và đứng trên đó để nhận nhiều phần thưởng!#>Cấp mở: 40\\Thời gian: 18:00-18:15\\Phần thưởng: KN, Xu khóa, Trang Bị",
 	--篝火争夺战活动
-	ghzdz001="<#NRTrong hào quang quanh ta, cứ 5 giây nhận thưởng nhiều lần; Boss cũng xuất hiện và rơi nhiều quà!#>Thời gian: 13:40-13:50\\Thời gian: 15:40-15:50\\Thời gian: 22:00-22:10\\Phần thưởng: KN, Vàng Khóa\\Vùng Lửa Trại là khu PK: không tăng điểm PK, không rơi Trang Bị.\\Có thể đến NPC Đống Lửa Thánh Thành để đốt lửa an toàn cả ngày.",
+	ghzdz001="<#NRTrong hào quang quanh ta, cứ 5 giây nhận thưởng nhiều lần; Boss cũng xuất hiện và rơi nhiều quà!#>Thời gian: 13:40-13:50\\Thời gian: 15:40-15:50\\Thời gian: 22:00-22:10\\Phần thưởng: KN, Xu khóa\\Vùng Lửa Trại là khu PK: không tăng điểm PK, không rơi Trang Bị.\\Có thể đến NPC Đống Lửa Thánh Thành để đốt lửa an toàn cả ngày.",
 	--荒芜峡谷
 	
 	

@@ -1,4 +1,4 @@
-﻿--lua script
+--lua script
 Quest = {
 	actDesc4040 = "Vào Phó Bản Trang Bị Cấp 30",
 	actDesc4050 = "Vào phó bản <Phó Bản Trang Bị Cấp 30/M王城:0:0接引灵使>",
@@ -3623,7 +3623,7 @@ Quest = {
 	promTlk8091 = "Đã lâu chưa chém giết? Đến Bãi Biển Ánh Dương thư giãn nào!\\",
 	promTlk81 = "Ngươi từng nghe Long Vệ Cổ chưa? Khi Bán Thú Nhân xâm lược, Long Vệ dẫn quân đánh lui chúng. Sau đó tuyết lở trên đường về quê, từ đó bặt vô âm tín.\\",
 	promTlk81001 = "Ngươi đến khiến chúng ta thấy hy vọng. Vũ khí hợp tay đã chuẩn bị sẵn, hãy thử xem!\\",
-	promTlk8101 = "Hoàn thành nhiệm vụ treo thưởng nhận nhiều Vàng Khóa. Hãy săn quái để lĩnh thưởng!\\",
+	promTlk8101 = "Hoàn thành nhiệm vụ treo thưởng nhận nhiều Xu khóa. Hãy săn quái để lĩnh thưởng!\\",
 	promTlk81011 = "Ngươi đến khiến chúng ta thấy hy vọng. Vũ khí hợp tay đã chuẩn bị sẵn, hãy thử xem!\\",
 	promTlk81021 = "Ngươi đến khiến chúng ta thấy hy vọng. Vũ khí hợp tay đã chuẩn bị sẵn, hãy thử xem!\\",
 	promTlk81031 = "Ngươi đến khiến chúng ta thấy hy vọng. Vũ khí hợp tay đã chuẩn bị sẵn, hãy thử xem!\\",
