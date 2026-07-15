@@ -1,0 +1,11 @@
+{
+  "version": "20260715runtimebase1",
+  "baseline_commit": "ad1dd846b894792d127076493163ef04a1c8df61",
+  "files": [
+    {
+      "source": "assets/GameFrame.swf",
+      "target": "GameFrame.swf",
+      "sha256": "CB256511E51130449DDCBB30B92AD2A2AA3BB5C6DEFA96DE1EA46617F99CD0C9"
+    }
+  ]
+}
