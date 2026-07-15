@@ -4,12 +4,12 @@
     {
       "source": "assets/game/static/common.js",
       "target": "game/static/common.js",
-      "sha256": "01CE469AB95A4F65D7735CC4FE94E1CBC8E5A41E9A0642C0CA2DD05773F9BB39"
+      "sha256": "275F2D877E2AD48CADF727AE12B4F6118AE5359DACB102F70A2C55F197E97470"
     },
     {
       "source": "assets/game/djrm.php",
       "target": "game/djrm.php",
-      "sha256": "E67A1204B6C28FB7D96ADE06FB7A21D2E9A103F5DE9D8A06DD46281A72286E38"
+      "sha256": "2D843CCBC1318221AB2A0EC69570A2128AE7B8CC46D80FF27D2B57284E53A35A"
     },
     {
       "source": "launcher/AHTL_Launcher_Fixed.exe",
