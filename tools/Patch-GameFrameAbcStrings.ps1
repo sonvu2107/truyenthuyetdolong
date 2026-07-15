@@ -22,7 +22,11 @@
 
     [string]$Report,
 
-    [string[]]$SkipKey = @()
+    [string[]]$SkipKey = @(),
+
+    [switch]$SkipMissingKey,
+
+    [string[]]$OnlyKey = @()
 )
 
 Set-StrictMode -Version Latest
@@ -182,27 +186,73 @@ function Get-DoAbcTagForRange([byte[]]$Bytes, [int]$Start, [int]$End) {
     return $tag
 }
 
+function Get-AbcStringEntries([byte[]]$Bytes) {
+    $entries = [Collections.Generic.List[object]]::new()
+    foreach ($tag in Get-SwfTags $Bytes | Where-Object { $_.code -eq 82 }) {
+        # DoABC starts with flags (UI32), followed by a NUL-terminated name,
+        # then the ABC header and its constant pool.
+        $position = $tag.dataStart + 4
+        while ($position -lt $tag.dataEnd -and $Bytes[$position] -ne 0) { $position++ }
+        if ($position -ge $tag.dataEnd) { throw 'DoABC thiếu tên kết thúc NUL.' }
+        $position++
+        if ($position + 4 -gt $tag.dataEnd) { throw 'DoABC thiếu ABC header.' }
+        $position += 4 # minor_version + major_version
+
+        $u30End = 0
+        $intCount = Get-U30 $Bytes $position ([ref]$u30End)
+        $position = $u30End
+        for ($index = 1; $index -lt $intCount; $index++) {
+            $null = Get-U30 $Bytes $position ([ref]$u30End)
+            $position = $u30End
+        }
+        $uintCount = Get-U30 $Bytes $position ([ref]$u30End)
+        $position = $u30End
+        for ($index = 1; $index -lt $uintCount; $index++) {
+            $null = Get-U30 $Bytes $position ([ref]$u30End)
+            $position = $u30End
+        }
+        $doubleCount = Get-U30 $Bytes $position ([ref]$u30End)
+        $position = $u30End + (8 * [Math]::Max(0, $doubleCount - 1))
+        if ($position -gt $tag.dataEnd) { throw 'ABC double pool vượt quá DoABC.' }
+
+        $stringCount = Get-U30 $Bytes $position ([ref]$u30End)
+        $position = $u30End
+        for ($index = 1; $index -lt $stringCount; $index++) {
+            $prefix = $position
+            $length = Get-U30 $Bytes $position ([ref]$u30End)
+            $textStart = $u30End
+            $textEnd = $textStart + $length
+            if ($textEnd -gt $tag.dataEnd) { throw 'ABC string pool vượt quá DoABC.' }
+            $entries.Add([PSCustomObject]@{
+                prefix = $prefix
+                textStart = $textStart
+                textEnd = $textEnd
+                length = $length
+            })
+            $position = $textEnd
+        }
+    }
+    return $entries.ToArray()
+}
+
 function Replace-StringConstant([byte[]]$Bytes, [string]$Source, [string]$Target, [string]$Key) {
     $sourceBytes = [Text.Encoding]::UTF8.GetBytes($Source)
     $targetBytes = [Text.Encoding]::UTF8.GetBytes($Target)
-    [int[]]$occurrences = Find-Occurrences $Bytes $sourceBytes
-    if ($occurrences.Count -lt 1) { throw "Không tìm thấy hằng chuỗi ABC cho $Key." }
-
-    $validPrefixes = [Collections.Generic.List[int]]::new()
-    foreach ($occurrence in $occurrences) {
-        try {
-            $prefix = Get-LengthPrefixStart $Bytes $occurrence $sourceBytes.Length
-            Get-DoAbcTagForRange $Bytes $prefix ($occurrence + $sourceBytes.Length) | Out-Null
-            $validPrefixes.Add($prefix)
-        } catch { }
-    }
-    $prefixes = @($validPrefixes | Sort-Object -Descending)
-    if ($prefixes.Count -lt 1) { throw "Không tìm thấy hằng chuỗi ABC độc lập cho $Key." }
-    foreach ($prefix in $prefixes) {
-        $textStart = $prefix + (Encode-U30 $sourceBytes.Length).Length
-        $textEnd = $textStart + $sourceBytes.Length
+    $matches = @(
+        Get-AbcStringEntries $Bytes | Where-Object {
+            $_.length -eq $sourceBytes.Length -and
+            [Text.Encoding]::UTF8.GetString($Bytes, $_.textStart, $_.length) -ceq $Source
+        } | Sort-Object textStart -Descending
+    )
+    if ($matches.Count -lt 1) { throw "Không tìm thấy hằng chuỗi ABC độc lập cho $Key." }
+    foreach ($match in $matches) {
+        $prefix = $match.prefix
+        $textStart = $match.textStart
+        $textEnd = $match.textEnd
         $tag = Get-DoAbcTagForRange $Bytes $prefix $textEnd
-        $delta = $targetBytes.Length - $sourceBytes.Length
+        $oldPrefixLength = $textStart - $prefix
+        $newPrefixLength = (Encode-U30 $targetBytes.Length).Length
+        $delta = ($targetBytes.Length + $newPrefixLength) - ($sourceBytes.Length + $oldPrefixLength)
         if ($delta -ne 0) {
             $newTagLength = $tag.dataLength + $delta
             if ($newTagLength -lt 0) { throw "Độ dài DoABC không hợp lệ cho $Key." }
@@ -216,7 +266,7 @@ function Replace-StringConstant([byte[]]$Bytes, [string]$Source, [string]$Target
         $stream.Write($Bytes, $textEnd, $Bytes.Length - $textEnd)
         $Bytes = $stream.ToArray()
     }
-    [PSCustomObject]@{ bytes = $Bytes; occurrences = $prefixes.Count }
+    [PSCustomObject]@{ bytes = $Bytes; occurrences = $matches.Count }
 }
 
 $original = Read-Utf8 $OriginalSource
@@ -227,7 +277,7 @@ if (-not $keys -or $keys.Count -lt 1) { throw 'Patch report không có key cần
 $changes = [ordered]@{}
 $skipped = @()
 foreach ($key in $keys) {
-    if ($key -eq 'diamondGame[33]' -or $SkipKey -contains $key) {
+    if ($key -eq 'diamondGame[33]' -or $SkipKey -contains $key -or ($OnlyKey.Count -gt 0 -and $OnlyKey -notcontains $key)) {
         $skipped += $key
         continue
     }
@@ -261,7 +311,16 @@ if ($bytes.Length -lt 8 -or [Text.Encoding]::ASCII.GetString($bytes, 0, 3) -ne '
 $applied = @()
 foreach ($source in $changes.Keys) {
     $entry = $changes[$source]
-    $result = Replace-StringConstant $bytes $source $entry.target $entry.key
+    Write-Verbose "Đang vá $($entry.key)."
+    try {
+        $result = Replace-StringConstant $bytes $source $entry.target $entry.key
+    } catch {
+        if ($SkipMissingKey -and $_.Exception.Message -like 'Không tìm thấy hằng chuỗi ABC độc lập*') {
+            $skipped += $entry.key
+            continue
+        }
+        throw
+    }
     $bytes = $result.bytes
     $applied += [ordered]@{ key = $entry.key; occurrences = $result.occurrences; sourceLength = ([Text.Encoding]::UTF8.GetByteCount($source)); targetLength = ([Text.Encoding]::UTF8.GetByteCount($entry.target)) }
 }
