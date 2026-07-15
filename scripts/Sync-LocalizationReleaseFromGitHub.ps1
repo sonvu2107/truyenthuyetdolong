@@ -97,7 +97,7 @@ try {
     Write-Output "DEPLOY_OK=$($manifest.version)"
     Write-Output "BACKUP=$backupRoot"
     foreach ($file in $manifest.files) { Write-Output "HASH=$($file.target)|$(Get-Sha256 $file.target_path)" }
-    Get-Process -Name LogicServerCQ32_R,LogicServer | ForEach-Object { Write-Output "PROCESS=$($_.ProcessName)|$($_.Id)" }
+    Get-Process -Name LogicServerCQ32_R,LogicServer -ErrorAction SilentlyContinue | ForEach-Object { Write-Output "PROCESS=$($_.ProcessName)|$($_.Id)" }
 }
 catch {
     foreach ($file in $copied) {
